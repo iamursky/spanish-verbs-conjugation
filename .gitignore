@@ -1,0 +1,11 @@
+.DS_Store
+.env*.local
+.vercel
+*.pem
+*.tsbuildinfo
+/.next/
+/build
+/node_modules
+/out/
+next-env.d.ts
+pnpm-debug.log*
