@@ -1,7 +1,15 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
-    <main className="w-screen h-screen flex justify-center items-center">
-      Spanish Verbs Conjugation
+    <main className="py-4">
+      <ul className="list-disc pl-4">
+        <li>
+          <Link href="/verb/ser" className="underline">
+            Ser (to be)
+          </Link>
+        </li>
+      </ul>
     </main>
   );
 }

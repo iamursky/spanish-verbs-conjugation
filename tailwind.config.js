@@ -3,6 +3,6 @@ module.exports = {
   content: [
     // prettier-ignore
     "./app/**/*.tsx",
-    "./components/**/*.jsx",
+    "./components/**/*.tsx",
   ],
 };
