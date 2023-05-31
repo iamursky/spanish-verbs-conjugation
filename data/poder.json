@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "puedo ",
+      "SPANISH": "Puedo ",
       "ENGLISH": "I am able to"
     },
     "TU": {
-      "SPANISH": "puedes ",
-      "ENGLISH": "you are able to"
+      "SPANISH": "Puedes ",
+      "ENGLISH": "You are able to"
     },
     "EL": {
-      "SPANISH": "puede ",
-      "ENGLISH": "s/he is able to, you (formal) are able to"
+      "SPANISH": "Puede ",
+      "ENGLISH": "He is able to"
     },
     "ELLOS": {
-      "SPANISH": "pueden ",
-      "ENGLISH": "they are able to, you (plural formal) are able to"
+      "SPANISH": "Pueden ",
+      "ENGLISH": "They are able to"
     },
     "NOSOTROS": {
-      "SPANISH": "podemos",
-      "ENGLISH": "we are able to"
+      "SPANISH": "Podemos",
+      "ENGLISH": "We are able to"
     },
     "VOSOTROS": {
-      "SPANISH": "podéis",
-      "ENGLISH": "you (plural) are able to"
+      "SPANISH": "Podéis",
+      "ENGLISH": "You are able to"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he podido",
+      "SPANISH": "He podido",
       "ENGLISH": "I have been able to"
     },
     "TU": {
-      "SPANISH": "has podido",
-      "ENGLISH": "you have been able to"
+      "SPANISH": "Has podido",
+      "ENGLISH": "You have been able to"
     },
     "EL": {
-      "SPANISH": "ha podido",
-      "ENGLISH": "s/he has been able to, you (formal) have been able to"
+      "SPANISH": "Ha podido",
+      "ENGLISH": "He has been able to"
     },
     "ELLOS": {
-      "SPANISH": "han podido",
-      "ENGLISH": "they have been able to, you (plural formal) have been able to"
+      "SPANISH": "Han podido",
+      "ENGLISH": "They have been able to"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos podido",
-      "ENGLISH": "we have been able to"
+      "SPANISH": "Hemos podido",
+      "ENGLISH": "We have been able to"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis podido",
-      "ENGLISH": "you (plural) have been able to"
+      "SPANISH": "Habéis podido",
+      "ENGLISH": "You have been able to"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "pude ",
+      "SPANISH": "Pude ",
       "ENGLISH": "I was able to"
     },
     "TU": {
-      "SPANISH": "pudiste ",
-      "ENGLISH": "you were able to"
+      "SPANISH": "Pudiste ",
+      "ENGLISH": "You were able to"
     },
     "EL": {
-      "SPANISH": "pudo ",
-      "ENGLISH": "s/he was able to, you (formal) was able to"
+      "SPANISH": "Pudo ",
+      "ENGLISH": "He was able to"
     },
     "ELLOS": {
-      "SPANISH": "pudieron ",
-      "ENGLISH": "they were able to, you (plural formal) were able to"
+      "SPANISH": "Pudieron ",
+      "ENGLISH": "They were able to"
     },
     "NOSOTROS": {
-      "SPANISH": "pudimos ",
-      "ENGLISH": "we were able to"
+      "SPANISH": "Pudimos ",
+      "ENGLISH": "We were able to"
     },
     "VOSOTROS": {
-      "SPANISH": "pudisteis ",
-      "ENGLISH": "you (plural) were able to"
+      "SPANISH": "Pudisteis ",
+      "ENGLISH": "You were able to"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había podido",
+      "SPANISH": "Había podido",
       "ENGLISH": "I had been able to"
     },
     "TU": {
-      "SPANISH": "habías podido",
-      "ENGLISH": "you had been able to"
+      "SPANISH": "Habías podido",
+      "ENGLISH": "You had been able to"
     },
     "EL": {
-      "SPANISH": "había podido",
-      "ENGLISH": "s/he had been able to, you (formal) had been able to"
+      "SPANISH": "Había podido",
+      "ENGLISH": "He had been able to"
     },
     "ELLOS": {
-      "SPANISH": "habían podido",
-      "ENGLISH": "they had been able to, you (plural formal) had been able to"
+      "SPANISH": "Habían podido",
+      "ENGLISH": "They had been able to"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos podido",
-      "ENGLISH": "we had been able to"
+      "SPANISH": "Habíamos podido",
+      "ENGLISH": "We had been able to"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais podido",
-      "ENGLISH": "you (plural) had been able to"
+      "SPANISH": "Habíais podido",
+      "ENGLISH": "You had been able to"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "pude ",
+      "SPANISH": "Pude ",
       "ENGLISH": "I was able to"
     },
     "TU": {
-      "SPANISH": "pudiste ",
-      "ENGLISH": "you were able to"
+      "SPANISH": "Pudiste ",
+      "ENGLISH": "You were able to"
     },
     "EL": {
-      "SPANISH": "pudo ",
-      "ENGLISH": "s/he was able to, you (formal) was able to"
+      "SPANISH": "Pudo ",
+      "ENGLISH": "He was able to"
     },
     "ELLOS": {
-      "SPANISH": "pudieron ",
-      "ENGLISH": "they were able to, you (plural formal) were able to"
+      "SPANISH": "Pudieron ",
+      "ENGLISH": "They were able to"
     },
     "NOSOTROS": {
-      "SPANISH": "pudimos ",
-      "ENGLISH": "we were able to"
+      "SPANISH": "Pudimos ",
+      "ENGLISH": "We were able to"
     },
     "VOSOTROS": {
-      "SPANISH": "pudisteis ",
-      "ENGLISH": "you (plural) were able to"
+      "SPANISH": "Pudisteis ",
+      "ENGLISH": "You were able to"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "podré ",
+      "SPANISH": "Podré ",
       "ENGLISH": "I will be able to"
     },
     "TU": {
-      "SPANISH": "podrás ",
-      "ENGLISH": "you will be able to"
+      "SPANISH": "Podrás ",
+      "ENGLISH": "You will be able to"
     },
     "EL": {
-      "SPANISH": "podrá ",
-      "ENGLISH": "s/he will be able to, you (formal) will be able to"
+      "SPANISH": "Podrá ",
+      "ENGLISH": "He will be able to"
     },
     "ELLOS": {
-      "SPANISH": "podrán ",
-      "ENGLISH": "they will be able to, you (plural formal) will be able to"
+      "SPANISH": "Podrán ",
+      "ENGLISH": "They will be able to"
     },
     "NOSOTROS": {
-      "SPANISH": "podremos ",
-      "ENGLISH": "we will be able to"
+      "SPANISH": "Podremos ",
+      "ENGLISH": "We will be able to"
     },
     "VOSOTROS": {
-      "SPANISH": "podréis ",
-      "ENGLISH": "you (plural) will be able to"
+      "SPANISH": "Podréis ",
+      "ENGLISH": "You will be able to"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré podido",
+      "SPANISH": "Habré podido",
       "ENGLISH": "I will have been able to"
     },
     "TU": {
-      "SPANISH": "habrás podido",
-      "ENGLISH": "you will have been able to"
+      "SPANISH": "Habrás podido",
+      "ENGLISH": "You will have been able to"
     },
     "EL": {
-      "SPANISH": "habrá podido",
-      "ENGLISH": "s/he will have been able to, you (formal) will have been able to"
+      "SPANISH": "Habrá podido",
+      "ENGLISH": "He will have been able to"
     },
     "ELLOS": {
-      "SPANISH": "habrán podido",
-      "ENGLISH": "they will have been able to, you (plural formal) will have been able to"
+      "SPANISH": "Habrán podido",
+      "ENGLISH": "They will have been able to"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos podido",
-      "ENGLISH": "we will have been able to"
+      "SPANISH": "Habremos podido",
+      "ENGLISH": "We will have been able to"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis podido",
-      "ENGLISH": "you (plural) will have been able to"
+      "SPANISH": "Habréis podido",
+      "ENGLISH": "You will have been able to"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "podría ",
+      "SPANISH": "Podría ",
       "ENGLISH": "I would be able to"
     },
     "TU": {
-      "SPANISH": "podrías ",
-      "ENGLISH": "you would be able to"
+      "SPANISH": "Podrías ",
+      "ENGLISH": "You would be able to"
     },
     "EL": {
-      "SPANISH": "podría ",
-      "ENGLISH": "s/he would be able to, you (formal) would be able to"
+      "SPANISH": "Podría ",
+      "ENGLISH": "He would be able to"
     },
     "ELLOS": {
-      "SPANISH": "podrían ",
-      "ENGLISH": "they would be able to, you (plural formal) would be able to"
+      "SPANISH": "Podrían ",
+      "ENGLISH": "They would be able to"
     },
     "NOSOTROS": {
-      "SPANISH": "podríamos ",
-      "ENGLISH": "we would be able to"
+      "SPANISH": "Podríamos ",
+      "ENGLISH": "We would be able to"
     },
     "VOSOTROS": {
-      "SPANISH": "podríais ",
-      "ENGLISH": "you (plural) would be able to"
+      "SPANISH": "Podríais ",
+      "ENGLISH": "You would be able to"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría podido",
+      "SPANISH": "Habría podido",
       "ENGLISH": "I would have been able to"
     },
     "TU": {
-      "SPANISH": "habrías podido",
-      "ENGLISH": "you would have been able to"
+      "SPANISH": "Habrías podido",
+      "ENGLISH": "You would have been able to"
     },
     "EL": {
-      "SPANISH": "habría podido",
-      "ENGLISH": "s/he would have been able to, you (formal) would have been able to"
+      "SPANISH": "Habría podido",
+      "ENGLISH": "He would have been able to"
     },
     "ELLOS": {
-      "SPANISH": "habrían podido",
-      "ENGLISH": "they would have been able to, you (plural formal) would have been able to"
+      "SPANISH": "Habrían podido",
+      "ENGLISH": "They would have been able to"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos podido",
-      "ENGLISH": "we would have been able to"
+      "SPANISH": "Habríamos podido",
+      "ENGLISH": "We would have been able to"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais podido",
-      "ENGLISH": "you (plural) would have been able to"
+      "SPANISH": "Habríais podido",
+      "ENGLISH": "You would have been able to"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me despido ",
+      "SPANISH": "Me despido ",
       "ENGLISH": "I say goodbye"
     },
     "TU": {
-      "SPANISH": "te despides ",
-      "ENGLISH": "you say goodbye"
+      "SPANISH": "Te despides ",
+      "ENGLISH": "You say goodbye"
     },
     "EL": {
-      "SPANISH": "se despide ",
-      "ENGLISH": "s/he says goodbye, you (formal) says goodbye"
+      "SPANISH": "Se despide ",
+      "ENGLISH": "He says goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se despiden ",
-      "ENGLISH": "they say goodbye, you (plural formal) say goodbye"
+      "SPANISH": "Se despiden ",
+      "ENGLISH": "They say goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos despedimos",
-      "ENGLISH": "we say goodbye"
+      "SPANISH": "Nos despedimos",
+      "ENGLISH": "We say goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os despedís",
-      "ENGLISH": "you (plural) say goodbye"
+      "SPANISH": "Os despedís",
+      "ENGLISH": "You say goodbye"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he despedido",
+      "SPANISH": "Me he despedido",
       "ENGLISH": "I have said goodbye"
     },
     "TU": {
-      "SPANISH": "te has despedido",
-      "ENGLISH": "you have said goodbye"
+      "SPANISH": "Te has despedido",
+      "ENGLISH": "You have said goodbye"
     },
     "EL": {
-      "SPANISH": "se ha despedido",
-      "ENGLISH": "s/he has said goodbye, you (formal) have said goodbye"
+      "SPANISH": "Se ha despedido",
+      "ENGLISH": "He has said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se han despedido",
-      "ENGLISH": "they have said goodbye, you (plural formal) have said goodbye"
+      "SPANISH": "Se han despedido",
+      "ENGLISH": "They have said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos despedido",
-      "ENGLISH": "we have said goodbye"
+      "SPANISH": "Nos hemos despedido",
+      "ENGLISH": "We have said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis despedido",
-      "ENGLISH": "you (plural) have said goodbye"
+      "SPANISH": "Os habéis despedido",
+      "ENGLISH": "You have said goodbye"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me despedí",
+      "SPANISH": "Me despedí",
       "ENGLISH": "I said goodbye"
     },
     "TU": {
-      "SPANISH": "te despediste",
-      "ENGLISH": "you said goodbye"
+      "SPANISH": "Te despediste",
+      "ENGLISH": "You said goodbye"
     },
     "EL": {
-      "SPANISH": "se despidió ",
-      "ENGLISH": "s/he said goodbye, you (formal) said goodbye"
+      "SPANISH": "Se despidió ",
+      "ENGLISH": "He said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se despidieron ",
-      "ENGLISH": "they said goodbye, you (plural formal) said goodbye"
+      "SPANISH": "Se despidieron ",
+      "ENGLISH": "They said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos despedimos",
-      "ENGLISH": "we said goodbye"
+      "SPANISH": "Nos despedimos",
+      "ENGLISH": "We said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os despedisteis",
-      "ENGLISH": "you (plural) said goodbye"
+      "SPANISH": "Os despedisteis",
+      "ENGLISH": "You said goodbye"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había despedido",
+      "SPANISH": "Me había despedido",
       "ENGLISH": "I had said goodbye"
     },
     "TU": {
-      "SPANISH": "te habías despedido",
-      "ENGLISH": "you had said goodbye"
+      "SPANISH": "Te habías despedido",
+      "ENGLISH": "You had said goodbye"
     },
     "EL": {
-      "SPANISH": "se había despedido",
-      "ENGLISH": "s/he had said goodbye, you (formal) had said goodbye"
+      "SPANISH": "Se había despedido",
+      "ENGLISH": "He had said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se habían despedido",
-      "ENGLISH": "they had said goodbye, you (plural formal) had said goodbye"
+      "SPANISH": "Se habían despedido",
+      "ENGLISH": "They had said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos despedido",
-      "ENGLISH": "we had said goodbye"
+      "SPANISH": "Nos habíamos despedido",
+      "ENGLISH": "We had said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais despedido",
-      "ENGLISH": "you (plural) had said goodbye"
+      "SPANISH": "Os habíais despedido",
+      "ENGLISH": "You had said goodbye"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me despedí",
+      "SPANISH": "Me despedí",
       "ENGLISH": "I said goodbye"
     },
     "TU": {
-      "SPANISH": "te despediste",
-      "ENGLISH": "you said goodbye"
+      "SPANISH": "Te despediste",
+      "ENGLISH": "You said goodbye"
     },
     "EL": {
-      "SPANISH": "se despidió ",
-      "ENGLISH": "s/he said goodbye, you (formal) said goodbye"
+      "SPANISH": "Se despidió ",
+      "ENGLISH": "He said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se despidieron ",
-      "ENGLISH": "they said goodbye, you (plural formal) said goodbye"
+      "SPANISH": "Se despidieron ",
+      "ENGLISH": "They said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos despedimos",
-      "ENGLISH": "we said goodbye"
+      "SPANISH": "Nos despedimos",
+      "ENGLISH": "We said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os despedisteis",
-      "ENGLISH": "you (plural) said goodbye"
+      "SPANISH": "Os despedisteis",
+      "ENGLISH": "You said goodbye"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me despediré",
+      "SPANISH": "Me despediré",
       "ENGLISH": "I will say goodbye"
     },
     "TU": {
-      "SPANISH": "te despedirás",
-      "ENGLISH": "you will say goodbye"
+      "SPANISH": "Te despedirás",
+      "ENGLISH": "You will say goodbye"
     },
     "EL": {
-      "SPANISH": "se despedirá",
-      "ENGLISH": "s/he will say goodbye, you (formal) will say goodbye"
+      "SPANISH": "Se despedirá",
+      "ENGLISH": "He will say goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se despedirán",
-      "ENGLISH": "they will say goodbye, you (plural formal) will say goodbye"
+      "SPANISH": "Se despedirán",
+      "ENGLISH": "They will say goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos despediremos",
-      "ENGLISH": "we will say goodbye"
+      "SPANISH": "Nos despediremos",
+      "ENGLISH": "We will say goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os despediréis",
-      "ENGLISH": "you (plural) will say goodbye"
+      "SPANISH": "Os despediréis",
+      "ENGLISH": "You will say goodbye"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré despedido",
+      "SPANISH": "Me habré despedido",
       "ENGLISH": "I will have said goodbye"
     },
     "TU": {
-      "SPANISH": "te habrás despedido",
-      "ENGLISH": "you will have said goodbye"
+      "SPANISH": "Te habrás despedido",
+      "ENGLISH": "You will have said goodbye"
     },
     "EL": {
-      "SPANISH": "se habrá despedido",
-      "ENGLISH": "s/he will have said goodbye, you (formal) will have said goodbye"
+      "SPANISH": "Se habrá despedido",
+      "ENGLISH": "He will have said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se habrán despedido",
-      "ENGLISH": "they will have said goodbye, you (plural formal) will have said goodbye"
+      "SPANISH": "Se habrán despedido",
+      "ENGLISH": "They will have said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos despedido",
-      "ENGLISH": "we will have said goodbye"
+      "SPANISH": "Nos habremos despedido",
+      "ENGLISH": "We will have said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis despedido",
-      "ENGLISH": "you (plural) will have said goodbye"
+      "SPANISH": "Os habréis despedido",
+      "ENGLISH": "You will have said goodbye"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me despediría",
+      "SPANISH": "Me despediría",
       "ENGLISH": "I would say goodbye"
     },
     "TU": {
-      "SPANISH": "te despedirías",
-      "ENGLISH": "you would say goodbye"
+      "SPANISH": "Te despedirías",
+      "ENGLISH": "You would say goodbye"
     },
     "EL": {
-      "SPANISH": "se despediría",
-      "ENGLISH": "s/he would say goodbye, you (formal) would say goodbye"
+      "SPANISH": "Se despediría",
+      "ENGLISH": "He would say goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se despedirían",
-      "ENGLISH": "they would say goodbye, you (plural formal) would say goodbye"
+      "SPANISH": "Se despedirían",
+      "ENGLISH": "They would say goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos despediríamos",
-      "ENGLISH": "we would say goodbye"
+      "SPANISH": "Nos despediríamos",
+      "ENGLISH": "We would say goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os despediríais",
-      "ENGLISH": "you (plural) would say goodbye"
+      "SPANISH": "Os despediríais",
+      "ENGLISH": "You would say goodbye"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría despedido",
+      "SPANISH": "Me habría despedido",
       "ENGLISH": "I would have said goodbye"
     },
     "TU": {
-      "SPANISH": "te habrías despedido",
-      "ENGLISH": "you would have said goodbye"
+      "SPANISH": "Te habrías despedido",
+      "ENGLISH": "You would have said goodbye"
     },
     "EL": {
-      "SPANISH": "se habría despedido",
-      "ENGLISH": "s/he would have said goodbye, you (formal) would have said goodbye"
+      "SPANISH": "Se habría despedido",
+      "ENGLISH": "He would have said goodbye"
     },
     "ELLOS": {
-      "SPANISH": "se habrían despedido",
-      "ENGLISH": "they would have said goodbye, you (plural formal) would have said goodbye"
+      "SPANISH": "Se habrían despedido",
+      "ENGLISH": "They would have said goodbye"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos despedido",
-      "ENGLISH": "we would have said goodbye"
+      "SPANISH": "Nos habríamos despedido",
+      "ENGLISH": "We would have said goodbye"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais despedido",
-      "ENGLISH": "you (plural) would have said goodbye"
+      "SPANISH": "Os habríais despedido",
+      "ENGLISH": "You would have said goodbye"
     }
   }
 }

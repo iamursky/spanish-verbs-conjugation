@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "vivo",
+      "SPANISH": "Vivo",
       "ENGLISH": "I live"
     },
     "TU": {
-      "SPANISH": "vives",
-      "ENGLISH": "you live"
+      "SPANISH": "Vives",
+      "ENGLISH": "You live"
     },
     "EL": {
-      "SPANISH": "vive",
-      "ENGLISH": "s/he lives, you (formal) lives"
+      "SPANISH": "Vive",
+      "ENGLISH": "He lives"
     },
     "ELLOS": {
-      "SPANISH": "viven",
-      "ENGLISH": "they live, you (plural formal) live"
+      "SPANISH": "Viven",
+      "ENGLISH": "They live"
     },
     "NOSOTROS": {
-      "SPANISH": "vivimos",
-      "ENGLISH": "we live"
+      "SPANISH": "Vivimos",
+      "ENGLISH": "We live"
     },
     "VOSOTROS": {
-      "SPANISH": "vivís",
-      "ENGLISH": "you (plural) live"
+      "SPANISH": "Vivís",
+      "ENGLISH": "You live"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he vivido",
+      "SPANISH": "He vivido",
       "ENGLISH": "I have lived"
     },
     "TU": {
-      "SPANISH": "has vivido",
-      "ENGLISH": "you have lived"
+      "SPANISH": "Has vivido",
+      "ENGLISH": "You have lived"
     },
     "EL": {
-      "SPANISH": "ha vivido",
-      "ENGLISH": "s/he has lived, you (formal) have lived"
+      "SPANISH": "Ha vivido",
+      "ENGLISH": "He has lived"
     },
     "ELLOS": {
-      "SPANISH": "han vivido",
-      "ENGLISH": "they have lived, you (plural formal) have lived"
+      "SPANISH": "Han vivido",
+      "ENGLISH": "They have lived"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos vivido",
-      "ENGLISH": "we have lived"
+      "SPANISH": "Hemos vivido",
+      "ENGLISH": "We have lived"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis vivido",
-      "ENGLISH": "you (plural) have lived"
+      "SPANISH": "Habéis vivido",
+      "ENGLISH": "You have lived"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "viví",
+      "SPANISH": "Viví",
       "ENGLISH": "I lived"
     },
     "TU": {
-      "SPANISH": "viviste",
-      "ENGLISH": "you lived"
+      "SPANISH": "Viviste",
+      "ENGLISH": "You lived"
     },
     "EL": {
-      "SPANISH": "vivió",
-      "ENGLISH": "s/he lived, you (formal) lived"
+      "SPANISH": "Vivió",
+      "ENGLISH": "He lived"
     },
     "ELLOS": {
-      "SPANISH": "vivieron",
-      "ENGLISH": "they lived, you (plural formal) lived"
+      "SPANISH": "Vivieron",
+      "ENGLISH": "They lived"
     },
     "NOSOTROS": {
-      "SPANISH": "vivimos",
-      "ENGLISH": "we lived"
+      "SPANISH": "Vivimos",
+      "ENGLISH": "We lived"
     },
     "VOSOTROS": {
-      "SPANISH": "vivisteis",
-      "ENGLISH": "you (plural) lived"
+      "SPANISH": "Vivisteis",
+      "ENGLISH": "You lived"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había vivido",
+      "SPANISH": "Había vivido",
       "ENGLISH": "I had lived"
     },
     "TU": {
-      "SPANISH": "habías vivido",
-      "ENGLISH": "you had lived"
+      "SPANISH": "Habías vivido",
+      "ENGLISH": "You had lived"
     },
     "EL": {
-      "SPANISH": "había vivido",
-      "ENGLISH": "s/he had lived, you (formal) had lived"
+      "SPANISH": "Había vivido",
+      "ENGLISH": "He had lived"
     },
     "ELLOS": {
-      "SPANISH": "habían vivido",
-      "ENGLISH": "they had lived, you (plural formal) had lived"
+      "SPANISH": "Habían vivido",
+      "ENGLISH": "They had lived"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos vivido",
-      "ENGLISH": "we had lived"
+      "SPANISH": "Habíamos vivido",
+      "ENGLISH": "We had lived"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais vivido",
-      "ENGLISH": "you (plural) had lived"
+      "SPANISH": "Habíais vivido",
+      "ENGLISH": "You had lived"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "viví",
+      "SPANISH": "Viví",
       "ENGLISH": "I lived"
     },
     "TU": {
-      "SPANISH": "viviste",
-      "ENGLISH": "you lived"
+      "SPANISH": "Viviste",
+      "ENGLISH": "You lived"
     },
     "EL": {
-      "SPANISH": "vivió",
-      "ENGLISH": "s/he lived, you (formal) lived"
+      "SPANISH": "Vivió",
+      "ENGLISH": "He lived"
     },
     "ELLOS": {
-      "SPANISH": "vivieron",
-      "ENGLISH": "they lived, you (plural formal) lived"
+      "SPANISH": "Vivieron",
+      "ENGLISH": "They lived"
     },
     "NOSOTROS": {
-      "SPANISH": "vivimos",
-      "ENGLISH": "we lived"
+      "SPANISH": "Vivimos",
+      "ENGLISH": "We lived"
     },
     "VOSOTROS": {
-      "SPANISH": "vivisteis",
-      "ENGLISH": "you (plural) lived"
+      "SPANISH": "Vivisteis",
+      "ENGLISH": "You lived"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "viviré",
+      "SPANISH": "Viviré",
       "ENGLISH": "I will live"
     },
     "TU": {
-      "SPANISH": "vivirás",
-      "ENGLISH": "you will live"
+      "SPANISH": "Vivirás",
+      "ENGLISH": "You will live"
     },
     "EL": {
-      "SPANISH": "vivirá",
-      "ENGLISH": "s/he will live, you (formal) will live"
+      "SPANISH": "Vivirá",
+      "ENGLISH": "He will live"
     },
     "ELLOS": {
-      "SPANISH": "vivirán",
-      "ENGLISH": "they will live, you (plural formal) will live"
+      "SPANISH": "Vivirán",
+      "ENGLISH": "They will live"
     },
     "NOSOTROS": {
-      "SPANISH": "viviremos",
-      "ENGLISH": "we will live"
+      "SPANISH": "Viviremos",
+      "ENGLISH": "We will live"
     },
     "VOSOTROS": {
-      "SPANISH": "viviréis",
-      "ENGLISH": "you (plural) will live"
+      "SPANISH": "Viviréis",
+      "ENGLISH": "You will live"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré vivido",
+      "SPANISH": "Habré vivido",
       "ENGLISH": "I will have lived"
     },
     "TU": {
-      "SPANISH": "habrás vivido",
-      "ENGLISH": "you will have lived"
+      "SPANISH": "Habrás vivido",
+      "ENGLISH": "You will have lived"
     },
     "EL": {
-      "SPANISH": "habrá vivido",
-      "ENGLISH": "s/he will have lived, you (formal) will have lived"
+      "SPANISH": "Habrá vivido",
+      "ENGLISH": "He will have lived"
     },
     "ELLOS": {
-      "SPANISH": "habrán vivido",
-      "ENGLISH": "they will have lived, you (plural formal) will have lived"
+      "SPANISH": "Habrán vivido",
+      "ENGLISH": "They will have lived"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos vivido",
-      "ENGLISH": "we will have lived"
+      "SPANISH": "Habremos vivido",
+      "ENGLISH": "We will have lived"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis vivido",
-      "ENGLISH": "you (plural) will have lived"
+      "SPANISH": "Habréis vivido",
+      "ENGLISH": "You will have lived"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "viviría",
+      "SPANISH": "Viviría",
       "ENGLISH": "I would live"
     },
     "TU": {
-      "SPANISH": "vivirías",
-      "ENGLISH": "you would live"
+      "SPANISH": "Vivirías",
+      "ENGLISH": "You would live"
     },
     "EL": {
-      "SPANISH": "viviría",
-      "ENGLISH": "s/he would live, you (formal) would live"
+      "SPANISH": "Viviría",
+      "ENGLISH": "He would live"
     },
     "ELLOS": {
-      "SPANISH": "vivirían",
-      "ENGLISH": "they would live, you (plural formal) would live"
+      "SPANISH": "Vivirían",
+      "ENGLISH": "They would live"
     },
     "NOSOTROS": {
-      "SPANISH": "viviríamos",
-      "ENGLISH": "we would live"
+      "SPANISH": "Viviríamos",
+      "ENGLISH": "We would live"
     },
     "VOSOTROS": {
-      "SPANISH": "viviríais",
-      "ENGLISH": "you (plural) would live"
+      "SPANISH": "Viviríais",
+      "ENGLISH": "You would live"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría vivido",
+      "SPANISH": "Habría vivido",
       "ENGLISH": "I would have lived"
     },
     "TU": {
-      "SPANISH": "habrías vivido",
-      "ENGLISH": "you would have lived"
+      "SPANISH": "Habrías vivido",
+      "ENGLISH": "You would have lived"
     },
     "EL": {
-      "SPANISH": "habría vivido",
-      "ENGLISH": "s/he would have lived, you (formal) would have lived"
+      "SPANISH": "Habría vivido",
+      "ENGLISH": "He would have lived"
     },
     "ELLOS": {
-      "SPANISH": "habrían vivido",
-      "ENGLISH": "they would have lived, you (plural formal) would have lived"
+      "SPANISH": "Habrían vivido",
+      "ENGLISH": "They would have lived"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos vivido",
-      "ENGLISH": "we would have lived"
+      "SPANISH": "Habríamos vivido",
+      "ENGLISH": "We would have lived"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais vivido",
-      "ENGLISH": "you (plural) would have lived"
+      "SPANISH": "Habríais vivido",
+      "ENGLISH": "You would have lived"
     }
   }
 }

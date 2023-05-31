@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "desconecto",
+      "SPANISH": "Desconecto",
       "ENGLISH": "I disconnect"
     },
     "TU": {
-      "SPANISH": "desconectas",
-      "ENGLISH": "you disconnect"
+      "SPANISH": "Desconectas",
+      "ENGLISH": "You disconnect"
     },
     "EL": {
-      "SPANISH": "desconecta",
-      "ENGLISH": "s/he disconnects, you (formal) disconnects"
+      "SPANISH": "Desconecta",
+      "ENGLISH": "He disconnects"
     },
     "ELLOS": {
-      "SPANISH": "desconectan",
-      "ENGLISH": "they disconnect, you (plural formal) disconnect"
+      "SPANISH": "Desconectan",
+      "ENGLISH": "They disconnect"
     },
     "NOSOTROS": {
-      "SPANISH": "desconectamos",
-      "ENGLISH": "we disconnect"
+      "SPANISH": "Desconectamos",
+      "ENGLISH": "We disconnect"
     },
     "VOSOTROS": {
-      "SPANISH": "desconectáis",
-      "ENGLISH": "you (plural) disconnect"
+      "SPANISH": "Desconectáis",
+      "ENGLISH": "You disconnect"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he desconectado",
+      "SPANISH": "He desconectado",
       "ENGLISH": "I have disconnected"
     },
     "TU": {
-      "SPANISH": "has desconectado",
-      "ENGLISH": "you have disconnected"
+      "SPANISH": "Has desconectado",
+      "ENGLISH": "You have disconnected"
     },
     "EL": {
-      "SPANISH": "ha desconectado",
-      "ENGLISH": "s/he has disconnected, you (formal) have disconnected"
+      "SPANISH": "Ha desconectado",
+      "ENGLISH": "He has disconnected"
     },
     "ELLOS": {
-      "SPANISH": "han desconectado",
-      "ENGLISH": "they have disconnected, you (plural formal) have disconnected"
+      "SPANISH": "Han desconectado",
+      "ENGLISH": "They have disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos desconectado",
-      "ENGLISH": "we have disconnected"
+      "SPANISH": "Hemos desconectado",
+      "ENGLISH": "We have disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis desconectado",
-      "ENGLISH": "you (plural) have disconnected"
+      "SPANISH": "Habéis desconectado",
+      "ENGLISH": "You have disconnected"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "desconecté",
+      "SPANISH": "Desconecté",
       "ENGLISH": "I disconnected"
     },
     "TU": {
-      "SPANISH": "desconectaste",
-      "ENGLISH": "you disconnected"
+      "SPANISH": "Desconectaste",
+      "ENGLISH": "You disconnected"
     },
     "EL": {
-      "SPANISH": "desconectó",
-      "ENGLISH": "s/he disconnected, you (formal) disconnected"
+      "SPANISH": "Desconectó",
+      "ENGLISH": "He disconnected"
     },
     "ELLOS": {
-      "SPANISH": "desconectaron",
-      "ENGLISH": "they disconnected, you (plural formal) disconnected"
+      "SPANISH": "Desconectaron",
+      "ENGLISH": "They disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "desconectamos",
-      "ENGLISH": "we disconnected"
+      "SPANISH": "Desconectamos",
+      "ENGLISH": "We disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "desconectasteis",
-      "ENGLISH": "you (plural) disconnected"
+      "SPANISH": "Desconectasteis",
+      "ENGLISH": "You disconnected"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había desconectado",
+      "SPANISH": "Había desconectado",
       "ENGLISH": "I had disconnected"
     },
     "TU": {
-      "SPANISH": "habías desconectado",
-      "ENGLISH": "you had disconnected"
+      "SPANISH": "Habías desconectado",
+      "ENGLISH": "You had disconnected"
     },
     "EL": {
-      "SPANISH": "había desconectado",
-      "ENGLISH": "s/he had disconnected, you (formal) had disconnected"
+      "SPANISH": "Había desconectado",
+      "ENGLISH": "He had disconnected"
     },
     "ELLOS": {
-      "SPANISH": "habían desconectado",
-      "ENGLISH": "they had disconnected, you (plural formal) had disconnected"
+      "SPANISH": "Habían desconectado",
+      "ENGLISH": "They had disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos desconectado",
-      "ENGLISH": "we had disconnected"
+      "SPANISH": "Habíamos desconectado",
+      "ENGLISH": "We had disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais desconectado",
-      "ENGLISH": "you (plural) had disconnected"
+      "SPANISH": "Habíais desconectado",
+      "ENGLISH": "You had disconnected"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "desconecté",
+      "SPANISH": "Desconecté",
       "ENGLISH": "I disconnected"
     },
     "TU": {
-      "SPANISH": "desconectaste",
-      "ENGLISH": "you disconnected"
+      "SPANISH": "Desconectaste",
+      "ENGLISH": "You disconnected"
     },
     "EL": {
-      "SPANISH": "desconectó",
-      "ENGLISH": "s/he disconnected, you (formal) disconnected"
+      "SPANISH": "Desconectó",
+      "ENGLISH": "He disconnected"
     },
     "ELLOS": {
-      "SPANISH": "desconectaron",
-      "ENGLISH": "they disconnected, you (plural formal) disconnected"
+      "SPANISH": "Desconectaron",
+      "ENGLISH": "They disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "desconectamos",
-      "ENGLISH": "we disconnected"
+      "SPANISH": "Desconectamos",
+      "ENGLISH": "We disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "desconectasteis",
-      "ENGLISH": "you (plural) disconnected"
+      "SPANISH": "Desconectasteis",
+      "ENGLISH": "You disconnected"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "desconectaré",
+      "SPANISH": "Desconectaré",
       "ENGLISH": "I will disconnect"
     },
     "TU": {
-      "SPANISH": "desconectarás",
-      "ENGLISH": "you will disconnect"
+      "SPANISH": "Desconectarás",
+      "ENGLISH": "You will disconnect"
     },
     "EL": {
-      "SPANISH": "desconectará",
-      "ENGLISH": "s/he will disconnect, you (formal) will disconnect"
+      "SPANISH": "Desconectará",
+      "ENGLISH": "He will disconnect"
     },
     "ELLOS": {
-      "SPANISH": "desconectarán",
-      "ENGLISH": "they will disconnect, you (plural formal) will disconnect"
+      "SPANISH": "Desconectarán",
+      "ENGLISH": "They will disconnect"
     },
     "NOSOTROS": {
-      "SPANISH": "desconectaremos",
-      "ENGLISH": "we will disconnect"
+      "SPANISH": "Desconectaremos",
+      "ENGLISH": "We will disconnect"
     },
     "VOSOTROS": {
-      "SPANISH": "desconectaréis",
-      "ENGLISH": "you (plural) will disconnect"
+      "SPANISH": "Desconectaréis",
+      "ENGLISH": "You will disconnect"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré desconectado",
+      "SPANISH": "Habré desconectado",
       "ENGLISH": "I will have disconnected"
     },
     "TU": {
-      "SPANISH": "habrás desconectado",
-      "ENGLISH": "you will have disconnected"
+      "SPANISH": "Habrás desconectado",
+      "ENGLISH": "You will have disconnected"
     },
     "EL": {
-      "SPANISH": "habrá desconectado",
-      "ENGLISH": "s/he will have disconnected, you (formal) will have disconnected"
+      "SPANISH": "Habrá desconectado",
+      "ENGLISH": "He will have disconnected"
     },
     "ELLOS": {
-      "SPANISH": "habrán desconectado",
-      "ENGLISH": "they will have disconnected, you (plural formal) will have disconnected"
+      "SPANISH": "Habrán desconectado",
+      "ENGLISH": "They will have disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos desconectado",
-      "ENGLISH": "we will have disconnected"
+      "SPANISH": "Habremos desconectado",
+      "ENGLISH": "We will have disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis desconectado",
-      "ENGLISH": "you (plural) will have disconnected"
+      "SPANISH": "Habréis desconectado",
+      "ENGLISH": "You will have disconnected"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "desconectaría",
+      "SPANISH": "Desconectaría",
       "ENGLISH": "I would disconnect"
     },
     "TU": {
-      "SPANISH": "desconectarías",
-      "ENGLISH": "you would disconnect"
+      "SPANISH": "Desconectarías",
+      "ENGLISH": "You would disconnect"
     },
     "EL": {
-      "SPANISH": "desconectaría",
-      "ENGLISH": "s/he would disconnect, you (formal) would disconnect"
+      "SPANISH": "Desconectaría",
+      "ENGLISH": "He would disconnect"
     },
     "ELLOS": {
-      "SPANISH": "desconectarían",
-      "ENGLISH": "they would disconnect, you (plural formal) would disconnect"
+      "SPANISH": "Desconectarían",
+      "ENGLISH": "They would disconnect"
     },
     "NOSOTROS": {
-      "SPANISH": "desconectaríamos",
-      "ENGLISH": "we would disconnect"
+      "SPANISH": "Desconectaríamos",
+      "ENGLISH": "We would disconnect"
     },
     "VOSOTROS": {
-      "SPANISH": "desconectaríais",
-      "ENGLISH": "you (plural) would disconnect"
+      "SPANISH": "Desconectaríais",
+      "ENGLISH": "You would disconnect"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría desconectado",
+      "SPANISH": "Habría desconectado",
       "ENGLISH": "I would have disconnected"
     },
     "TU": {
-      "SPANISH": "habrías desconectado",
-      "ENGLISH": "you would have disconnected"
+      "SPANISH": "Habrías desconectado",
+      "ENGLISH": "You would have disconnected"
     },
     "EL": {
-      "SPANISH": "habría desconectado",
-      "ENGLISH": "s/he would have disconnected, you (formal) would have disconnected"
+      "SPANISH": "Habría desconectado",
+      "ENGLISH": "He would have disconnected"
     },
     "ELLOS": {
-      "SPANISH": "habrían desconectado",
-      "ENGLISH": "they would have disconnected, you (plural formal) would have disconnected"
+      "SPANISH": "Habrían desconectado",
+      "ENGLISH": "They would have disconnected"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos desconectado",
-      "ENGLISH": "we would have disconnected"
+      "SPANISH": "Habríamos desconectado",
+      "ENGLISH": "We would have disconnected"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais desconectado",
-      "ENGLISH": "you (plural) would have disconnected"
+      "SPANISH": "Habríais desconectado",
+      "ENGLISH": "You would have disconnected"
     }
   }
 }

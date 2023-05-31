@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "gestiono",
+      "SPANISH": "Gestiono",
       "ENGLISH": "I manage"
     },
     "TU": {
-      "SPANISH": "gestionas",
-      "ENGLISH": "you manage"
+      "SPANISH": "Gestionas",
+      "ENGLISH": "You manage"
     },
     "EL": {
-      "SPANISH": "gestiona",
-      "ENGLISH": "s/he manages, you (formal) manages"
+      "SPANISH": "Gestiona",
+      "ENGLISH": "He manages"
     },
     "ELLOS": {
-      "SPANISH": "gestionan",
-      "ENGLISH": "they manage, you (plural formal) manage"
+      "SPANISH": "Gestionan",
+      "ENGLISH": "They manage"
     },
     "NOSOTROS": {
-      "SPANISH": "gestionamos",
-      "ENGLISH": "we manage"
+      "SPANISH": "Gestionamos",
+      "ENGLISH": "We manage"
     },
     "VOSOTROS": {
-      "SPANISH": "gestionáis",
-      "ENGLISH": "you (plural) manage"
+      "SPANISH": "Gestionáis",
+      "ENGLISH": "You manage"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he gestionado",
+      "SPANISH": "He gestionado",
       "ENGLISH": "I have managed"
     },
     "TU": {
-      "SPANISH": "has gestionado",
-      "ENGLISH": "you have managed"
+      "SPANISH": "Has gestionado",
+      "ENGLISH": "You have managed"
     },
     "EL": {
-      "SPANISH": "ha gestionado",
-      "ENGLISH": "s/he has managed, you (formal) have managed"
+      "SPANISH": "Ha gestionado",
+      "ENGLISH": "He has managed"
     },
     "ELLOS": {
-      "SPANISH": "han gestionado",
-      "ENGLISH": "they have managed, you (plural formal) have managed"
+      "SPANISH": "Han gestionado",
+      "ENGLISH": "They have managed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos gestionado",
-      "ENGLISH": "we have managed"
+      "SPANISH": "Hemos gestionado",
+      "ENGLISH": "We have managed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis gestionado",
-      "ENGLISH": "you (plural) have managed"
+      "SPANISH": "Habéis gestionado",
+      "ENGLISH": "You have managed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "gestioné",
+      "SPANISH": "Gestioné",
       "ENGLISH": "I managed"
     },
     "TU": {
-      "SPANISH": "gestionaste",
-      "ENGLISH": "you managed"
+      "SPANISH": "Gestionaste",
+      "ENGLISH": "You managed"
     },
     "EL": {
-      "SPANISH": "gestionó",
-      "ENGLISH": "s/he managed, you (formal) managed"
+      "SPANISH": "Gestionó",
+      "ENGLISH": "He managed"
     },
     "ELLOS": {
-      "SPANISH": "gestionaron",
-      "ENGLISH": "they managed, you (plural formal) managed"
+      "SPANISH": "Gestionaron",
+      "ENGLISH": "They managed"
     },
     "NOSOTROS": {
-      "SPANISH": "gestionamos",
-      "ENGLISH": "we managed"
+      "SPANISH": "Gestionamos",
+      "ENGLISH": "We managed"
     },
     "VOSOTROS": {
-      "SPANISH": "gestionasteis",
-      "ENGLISH": "you (plural) managed"
+      "SPANISH": "Gestionasteis",
+      "ENGLISH": "You managed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había gestionado",
+      "SPANISH": "Había gestionado",
       "ENGLISH": "I had managed"
     },
     "TU": {
-      "SPANISH": "habías gestionado",
-      "ENGLISH": "you had managed"
+      "SPANISH": "Habías gestionado",
+      "ENGLISH": "You had managed"
     },
     "EL": {
-      "SPANISH": "había gestionado",
-      "ENGLISH": "s/he had managed, you (formal) had managed"
+      "SPANISH": "Había gestionado",
+      "ENGLISH": "He had managed"
     },
     "ELLOS": {
-      "SPANISH": "habían gestionado",
-      "ENGLISH": "they had managed, you (plural formal) had managed"
+      "SPANISH": "Habían gestionado",
+      "ENGLISH": "They had managed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos gestionado",
-      "ENGLISH": "we had managed"
+      "SPANISH": "Habíamos gestionado",
+      "ENGLISH": "We had managed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais gestionado",
-      "ENGLISH": "you (plural) had managed"
+      "SPANISH": "Habíais gestionado",
+      "ENGLISH": "You had managed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "gestioné",
+      "SPANISH": "Gestioné",
       "ENGLISH": "I managed"
     },
     "TU": {
-      "SPANISH": "gestionaste",
-      "ENGLISH": "you managed"
+      "SPANISH": "Gestionaste",
+      "ENGLISH": "You managed"
     },
     "EL": {
-      "SPANISH": "gestionó",
-      "ENGLISH": "s/he managed, you (formal) managed"
+      "SPANISH": "Gestionó",
+      "ENGLISH": "He managed"
     },
     "ELLOS": {
-      "SPANISH": "gestionaron",
-      "ENGLISH": "they managed, you (plural formal) managed"
+      "SPANISH": "Gestionaron",
+      "ENGLISH": "They managed"
     },
     "NOSOTROS": {
-      "SPANISH": "gestionamos",
-      "ENGLISH": "we managed"
+      "SPANISH": "Gestionamos",
+      "ENGLISH": "We managed"
     },
     "VOSOTROS": {
-      "SPANISH": "gestionasteis",
-      "ENGLISH": "you (plural) managed"
+      "SPANISH": "Gestionasteis",
+      "ENGLISH": "You managed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "gestionaré",
+      "SPANISH": "Gestionaré",
       "ENGLISH": "I will manage"
     },
     "TU": {
-      "SPANISH": "gestionarás",
-      "ENGLISH": "you will manage"
+      "SPANISH": "Gestionarás",
+      "ENGLISH": "You will manage"
     },
     "EL": {
-      "SPANISH": "gestionará",
-      "ENGLISH": "s/he will manage, you (formal) will manage"
+      "SPANISH": "Gestionará",
+      "ENGLISH": "He will manage"
     },
     "ELLOS": {
-      "SPANISH": "gestionarán",
-      "ENGLISH": "they will manage, you (plural formal) will manage"
+      "SPANISH": "Gestionarán",
+      "ENGLISH": "They will manage"
     },
     "NOSOTROS": {
-      "SPANISH": "gestionaremos",
-      "ENGLISH": "we will manage"
+      "SPANISH": "Gestionaremos",
+      "ENGLISH": "We will manage"
     },
     "VOSOTROS": {
-      "SPANISH": "gestionaréis",
-      "ENGLISH": "you (plural) will manage"
+      "SPANISH": "Gestionaréis",
+      "ENGLISH": "You will manage"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré gestionado",
+      "SPANISH": "Habré gestionado",
       "ENGLISH": "I will have managed"
     },
     "TU": {
-      "SPANISH": "habrás gestionado",
-      "ENGLISH": "you will have managed"
+      "SPANISH": "Habrás gestionado",
+      "ENGLISH": "You will have managed"
     },
     "EL": {
-      "SPANISH": "habrá gestionado",
-      "ENGLISH": "s/he will have managed, you (formal) will have managed"
+      "SPANISH": "Habrá gestionado",
+      "ENGLISH": "He will have managed"
     },
     "ELLOS": {
-      "SPANISH": "habrán gestionado",
-      "ENGLISH": "they will have managed, you (plural formal) will have managed"
+      "SPANISH": "Habrán gestionado",
+      "ENGLISH": "They will have managed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos gestionado",
-      "ENGLISH": "we will have managed"
+      "SPANISH": "Habremos gestionado",
+      "ENGLISH": "We will have managed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis gestionado",
-      "ENGLISH": "you (plural) will have managed"
+      "SPANISH": "Habréis gestionado",
+      "ENGLISH": "You will have managed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "gestionaría",
+      "SPANISH": "Gestionaría",
       "ENGLISH": "I would manage"
     },
     "TU": {
-      "SPANISH": "gestionarías",
-      "ENGLISH": "you would manage"
+      "SPANISH": "Gestionarías",
+      "ENGLISH": "You would manage"
     },
     "EL": {
-      "SPANISH": "gestionaría",
-      "ENGLISH": "s/he would manage, you (formal) would manage"
+      "SPANISH": "Gestionaría",
+      "ENGLISH": "He would manage"
     },
     "ELLOS": {
-      "SPANISH": "gestionarían",
-      "ENGLISH": "they would manage, you (plural formal) would manage"
+      "SPANISH": "Gestionarían",
+      "ENGLISH": "They would manage"
     },
     "NOSOTROS": {
-      "SPANISH": "gestionaríamos",
-      "ENGLISH": "we would manage"
+      "SPANISH": "Gestionaríamos",
+      "ENGLISH": "We would manage"
     },
     "VOSOTROS": {
-      "SPANISH": "gestionaríais",
-      "ENGLISH": "you (plural) would manage"
+      "SPANISH": "Gestionaríais",
+      "ENGLISH": "You would manage"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría gestionado",
+      "SPANISH": "Habría gestionado",
       "ENGLISH": "I would have managed"
     },
     "TU": {
-      "SPANISH": "habrías gestionado",
-      "ENGLISH": "you would have managed"
+      "SPANISH": "Habrías gestionado",
+      "ENGLISH": "You would have managed"
     },
     "EL": {
-      "SPANISH": "habría gestionado",
-      "ENGLISH": "s/he would have managed, you (formal) would have managed"
+      "SPANISH": "Habría gestionado",
+      "ENGLISH": "He would have managed"
     },
     "ELLOS": {
-      "SPANISH": "habrían gestionado",
-      "ENGLISH": "they would have managed, you (plural formal) would have managed"
+      "SPANISH": "Habrían gestionado",
+      "ENGLISH": "They would have managed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos gestionado",
-      "ENGLISH": "we would have managed"
+      "SPANISH": "Habríamos gestionado",
+      "ENGLISH": "We would have managed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais gestionado",
-      "ENGLISH": "you (plural) would have managed"
+      "SPANISH": "Habríais gestionado",
+      "ENGLISH": "You would have managed"
     }
   }
 }

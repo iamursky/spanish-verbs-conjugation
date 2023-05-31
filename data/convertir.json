@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "convierto ",
+      "SPANISH": "Convierto ",
       "ENGLISH": "I convert"
     },
     "TU": {
-      "SPANISH": "conviertes ",
-      "ENGLISH": "you convert"
+      "SPANISH": "Conviertes ",
+      "ENGLISH": "You convert"
     },
     "EL": {
-      "SPANISH": "convierte ",
-      "ENGLISH": "s/he converts, you (formal) converts"
+      "SPANISH": "Convierte ",
+      "ENGLISH": "He converts"
     },
     "ELLOS": {
-      "SPANISH": "convierten ",
-      "ENGLISH": "they convert, you (plural formal) convert"
+      "SPANISH": "Convierten ",
+      "ENGLISH": "They convert"
     },
     "NOSOTROS": {
-      "SPANISH": "convertimos",
-      "ENGLISH": "we convert"
+      "SPANISH": "Convertimos",
+      "ENGLISH": "We convert"
     },
     "VOSOTROS": {
-      "SPANISH": "convertís",
-      "ENGLISH": "you (plural) convert"
+      "SPANISH": "Convertís",
+      "ENGLISH": "You convert"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he convertido",
+      "SPANISH": "He convertido",
       "ENGLISH": "I have converted"
     },
     "TU": {
-      "SPANISH": "has convertido",
-      "ENGLISH": "you have converted"
+      "SPANISH": "Has convertido",
+      "ENGLISH": "You have converted"
     },
     "EL": {
-      "SPANISH": "ha convertido",
-      "ENGLISH": "s/he has converted, you (formal) have converted"
+      "SPANISH": "Ha convertido",
+      "ENGLISH": "He has converted"
     },
     "ELLOS": {
-      "SPANISH": "han convertido",
-      "ENGLISH": "they have converted, you (plural formal) have converted"
+      "SPANISH": "Han convertido",
+      "ENGLISH": "They have converted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos convertido",
-      "ENGLISH": "we have converted"
+      "SPANISH": "Hemos convertido",
+      "ENGLISH": "We have converted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis convertido",
-      "ENGLISH": "you (plural) have converted"
+      "SPANISH": "Habéis convertido",
+      "ENGLISH": "You have converted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "convertí",
+      "SPANISH": "Convertí",
       "ENGLISH": "I converted"
     },
     "TU": {
-      "SPANISH": "convertiste",
-      "ENGLISH": "you converted"
+      "SPANISH": "Convertiste",
+      "ENGLISH": "You converted"
     },
     "EL": {
-      "SPANISH": "convirtió ",
-      "ENGLISH": "s/he converted, you (formal) converted"
+      "SPANISH": "Convirtió ",
+      "ENGLISH": "He converted"
     },
     "ELLOS": {
-      "SPANISH": "convirtieron ",
-      "ENGLISH": "they converted, you (plural formal) converted"
+      "SPANISH": "Convirtieron ",
+      "ENGLISH": "They converted"
     },
     "NOSOTROS": {
-      "SPANISH": "convertimos",
-      "ENGLISH": "we converted"
+      "SPANISH": "Convertimos",
+      "ENGLISH": "We converted"
     },
     "VOSOTROS": {
-      "SPANISH": "convertisteis",
-      "ENGLISH": "you (plural) converted"
+      "SPANISH": "Convertisteis",
+      "ENGLISH": "You converted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había convertido",
+      "SPANISH": "Había convertido",
       "ENGLISH": "I had converted"
     },
     "TU": {
-      "SPANISH": "habías convertido",
-      "ENGLISH": "you had converted"
+      "SPANISH": "Habías convertido",
+      "ENGLISH": "You had converted"
     },
     "EL": {
-      "SPANISH": "había convertido",
-      "ENGLISH": "s/he had converted, you (formal) had converted"
+      "SPANISH": "Había convertido",
+      "ENGLISH": "He had converted"
     },
     "ELLOS": {
-      "SPANISH": "habían convertido",
-      "ENGLISH": "they had converted, you (plural formal) had converted"
+      "SPANISH": "Habían convertido",
+      "ENGLISH": "They had converted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos convertido",
-      "ENGLISH": "we had converted"
+      "SPANISH": "Habíamos convertido",
+      "ENGLISH": "We had converted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais convertido",
-      "ENGLISH": "you (plural) had converted"
+      "SPANISH": "Habíais convertido",
+      "ENGLISH": "You had converted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "convertí",
+      "SPANISH": "Convertí",
       "ENGLISH": "I converted"
     },
     "TU": {
-      "SPANISH": "convertiste",
-      "ENGLISH": "you converted"
+      "SPANISH": "Convertiste",
+      "ENGLISH": "You converted"
     },
     "EL": {
-      "SPANISH": "convirtió ",
-      "ENGLISH": "s/he converted, you (formal) converted"
+      "SPANISH": "Convirtió ",
+      "ENGLISH": "He converted"
     },
     "ELLOS": {
-      "SPANISH": "convirtieron ",
-      "ENGLISH": "they converted, you (plural formal) converted"
+      "SPANISH": "Convirtieron ",
+      "ENGLISH": "They converted"
     },
     "NOSOTROS": {
-      "SPANISH": "convertimos",
-      "ENGLISH": "we converted"
+      "SPANISH": "Convertimos",
+      "ENGLISH": "We converted"
     },
     "VOSOTROS": {
-      "SPANISH": "convertisteis",
-      "ENGLISH": "you (plural) converted"
+      "SPANISH": "Convertisteis",
+      "ENGLISH": "You converted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "convertiré",
+      "SPANISH": "Convertiré",
       "ENGLISH": "I will convert"
     },
     "TU": {
-      "SPANISH": "convertirás",
-      "ENGLISH": "you will convert"
+      "SPANISH": "Convertirás",
+      "ENGLISH": "You will convert"
     },
     "EL": {
-      "SPANISH": "convertirá",
-      "ENGLISH": "s/he will convert, you (formal) will convert"
+      "SPANISH": "Convertirá",
+      "ENGLISH": "He will convert"
     },
     "ELLOS": {
-      "SPANISH": "convertirán",
-      "ENGLISH": "they will convert, you (plural formal) will convert"
+      "SPANISH": "Convertirán",
+      "ENGLISH": "They will convert"
     },
     "NOSOTROS": {
-      "SPANISH": "convertiremos",
-      "ENGLISH": "we will convert"
+      "SPANISH": "Convertiremos",
+      "ENGLISH": "We will convert"
     },
     "VOSOTROS": {
-      "SPANISH": "convertiréis",
-      "ENGLISH": "you (plural) will convert"
+      "SPANISH": "Convertiréis",
+      "ENGLISH": "You will convert"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré convertido",
+      "SPANISH": "Habré convertido",
       "ENGLISH": "I will have converted"
     },
     "TU": {
-      "SPANISH": "habrás convertido",
-      "ENGLISH": "you will have converted"
+      "SPANISH": "Habrás convertido",
+      "ENGLISH": "You will have converted"
     },
     "EL": {
-      "SPANISH": "habrá convertido",
-      "ENGLISH": "s/he will have converted, you (formal) will have converted"
+      "SPANISH": "Habrá convertido",
+      "ENGLISH": "He will have converted"
     },
     "ELLOS": {
-      "SPANISH": "habrán convertido",
-      "ENGLISH": "they will have converted, you (plural formal) will have converted"
+      "SPANISH": "Habrán convertido",
+      "ENGLISH": "They will have converted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos convertido",
-      "ENGLISH": "we will have converted"
+      "SPANISH": "Habremos convertido",
+      "ENGLISH": "We will have converted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis convertido",
-      "ENGLISH": "you (plural) will have converted"
+      "SPANISH": "Habréis convertido",
+      "ENGLISH": "You will have converted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "convertiría",
+      "SPANISH": "Convertiría",
       "ENGLISH": "I would convert"
     },
     "TU": {
-      "SPANISH": "convertirías",
-      "ENGLISH": "you would convert"
+      "SPANISH": "Convertirías",
+      "ENGLISH": "You would convert"
     },
     "EL": {
-      "SPANISH": "convertiría",
-      "ENGLISH": "s/he would convert, you (formal) would convert"
+      "SPANISH": "Convertiría",
+      "ENGLISH": "He would convert"
     },
     "ELLOS": {
-      "SPANISH": "convertirían",
-      "ENGLISH": "they would convert, you (plural formal) would convert"
+      "SPANISH": "Convertirían",
+      "ENGLISH": "They would convert"
     },
     "NOSOTROS": {
-      "SPANISH": "convertiríamos",
-      "ENGLISH": "we would convert"
+      "SPANISH": "Convertiríamos",
+      "ENGLISH": "We would convert"
     },
     "VOSOTROS": {
-      "SPANISH": "convertiríais",
-      "ENGLISH": "you (plural) would convert"
+      "SPANISH": "Convertiríais",
+      "ENGLISH": "You would convert"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría convertido",
+      "SPANISH": "Habría convertido",
       "ENGLISH": "I would have converted"
     },
     "TU": {
-      "SPANISH": "habrías convertido",
-      "ENGLISH": "you would have converted"
+      "SPANISH": "Habrías convertido",
+      "ENGLISH": "You would have converted"
     },
     "EL": {
-      "SPANISH": "habría convertido",
-      "ENGLISH": "s/he would have converted, you (formal) would have converted"
+      "SPANISH": "Habría convertido",
+      "ENGLISH": "He would have converted"
     },
     "ELLOS": {
-      "SPANISH": "habrían convertido",
-      "ENGLISH": "they would have converted, you (plural formal) would have converted"
+      "SPANISH": "Habrían convertido",
+      "ENGLISH": "They would have converted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos convertido",
-      "ENGLISH": "we would have converted"
+      "SPANISH": "Habríamos convertido",
+      "ENGLISH": "We would have converted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais convertido",
-      "ENGLISH": "you (plural) would have converted"
+      "SPANISH": "Habríais convertido",
+      "ENGLISH": "You would have converted"
     }
   }
 }

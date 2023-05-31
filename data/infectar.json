@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "infecto",
+      "SPANISH": "Infecto",
       "ENGLISH": "I infect"
     },
     "TU": {
-      "SPANISH": "infectas",
-      "ENGLISH": "you infect"
+      "SPANISH": "Infectas",
+      "ENGLISH": "You infect"
     },
     "EL": {
-      "SPANISH": "infecta",
-      "ENGLISH": "s/he infects, you (formal) infects"
+      "SPANISH": "Infecta",
+      "ENGLISH": "He infects"
     },
     "ELLOS": {
-      "SPANISH": "infectan",
-      "ENGLISH": "they infect, you (plural formal) infect"
+      "SPANISH": "Infectan",
+      "ENGLISH": "They infect"
     },
     "NOSOTROS": {
-      "SPANISH": "infectamos",
-      "ENGLISH": "we infect"
+      "SPANISH": "Infectamos",
+      "ENGLISH": "We infect"
     },
     "VOSOTROS": {
-      "SPANISH": "infectáis",
-      "ENGLISH": "you (plural) infect"
+      "SPANISH": "Infectáis",
+      "ENGLISH": "You infect"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he infectado",
+      "SPANISH": "He infectado",
       "ENGLISH": "I have infected"
     },
     "TU": {
-      "SPANISH": "has infectado",
-      "ENGLISH": "you have infected"
+      "SPANISH": "Has infectado",
+      "ENGLISH": "You have infected"
     },
     "EL": {
-      "SPANISH": "ha infectado",
-      "ENGLISH": "s/he has infected, you (formal) have infected"
+      "SPANISH": "Ha infectado",
+      "ENGLISH": "He has infected"
     },
     "ELLOS": {
-      "SPANISH": "han infectado",
-      "ENGLISH": "they have infected, you (plural formal) have infected"
+      "SPANISH": "Han infectado",
+      "ENGLISH": "They have infected"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos infectado",
-      "ENGLISH": "we have infected"
+      "SPANISH": "Hemos infectado",
+      "ENGLISH": "We have infected"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis infectado",
-      "ENGLISH": "you (plural) have infected"
+      "SPANISH": "Habéis infectado",
+      "ENGLISH": "You have infected"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "infecté",
+      "SPANISH": "Infecté",
       "ENGLISH": "I infected"
     },
     "TU": {
-      "SPANISH": "infectaste",
-      "ENGLISH": "you infected"
+      "SPANISH": "Infectaste",
+      "ENGLISH": "You infected"
     },
     "EL": {
-      "SPANISH": "infectó",
-      "ENGLISH": "s/he infected, you (formal) infected"
+      "SPANISH": "Infectó",
+      "ENGLISH": "He infected"
     },
     "ELLOS": {
-      "SPANISH": "infectaron",
-      "ENGLISH": "they infected, you (plural formal) infected"
+      "SPANISH": "Infectaron",
+      "ENGLISH": "They infected"
     },
     "NOSOTROS": {
-      "SPANISH": "infectamos",
-      "ENGLISH": "we infected"
+      "SPANISH": "Infectamos",
+      "ENGLISH": "We infected"
     },
     "VOSOTROS": {
-      "SPANISH": "infectasteis",
-      "ENGLISH": "you (plural) infected"
+      "SPANISH": "Infectasteis",
+      "ENGLISH": "You infected"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había infectado",
+      "SPANISH": "Había infectado",
       "ENGLISH": "I had infected"
     },
     "TU": {
-      "SPANISH": "habías infectado",
-      "ENGLISH": "you had infected"
+      "SPANISH": "Habías infectado",
+      "ENGLISH": "You had infected"
     },
     "EL": {
-      "SPANISH": "había infectado",
-      "ENGLISH": "s/he had infected, you (formal) had infected"
+      "SPANISH": "Había infectado",
+      "ENGLISH": "He had infected"
     },
     "ELLOS": {
-      "SPANISH": "habían infectado",
-      "ENGLISH": "they had infected, you (plural formal) had infected"
+      "SPANISH": "Habían infectado",
+      "ENGLISH": "They had infected"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos infectado",
-      "ENGLISH": "we had infected"
+      "SPANISH": "Habíamos infectado",
+      "ENGLISH": "We had infected"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais infectado",
-      "ENGLISH": "you (plural) had infected"
+      "SPANISH": "Habíais infectado",
+      "ENGLISH": "You had infected"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "infecté",
+      "SPANISH": "Infecté",
       "ENGLISH": "I infected"
     },
     "TU": {
-      "SPANISH": "infectaste",
-      "ENGLISH": "you infected"
+      "SPANISH": "Infectaste",
+      "ENGLISH": "You infected"
     },
     "EL": {
-      "SPANISH": "infectó",
-      "ENGLISH": "s/he infected, you (formal) infected"
+      "SPANISH": "Infectó",
+      "ENGLISH": "He infected"
     },
     "ELLOS": {
-      "SPANISH": "infectaron",
-      "ENGLISH": "they infected, you (plural formal) infected"
+      "SPANISH": "Infectaron",
+      "ENGLISH": "They infected"
     },
     "NOSOTROS": {
-      "SPANISH": "infectamos",
-      "ENGLISH": "we infected"
+      "SPANISH": "Infectamos",
+      "ENGLISH": "We infected"
     },
     "VOSOTROS": {
-      "SPANISH": "infectasteis",
-      "ENGLISH": "you (plural) infected"
+      "SPANISH": "Infectasteis",
+      "ENGLISH": "You infected"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "infectaré",
+      "SPANISH": "Infectaré",
       "ENGLISH": "I will infect"
     },
     "TU": {
-      "SPANISH": "infectarás",
-      "ENGLISH": "you will infect"
+      "SPANISH": "Infectarás",
+      "ENGLISH": "You will infect"
     },
     "EL": {
-      "SPANISH": "infectará",
-      "ENGLISH": "s/he will infect, you (formal) will infect"
+      "SPANISH": "Infectará",
+      "ENGLISH": "He will infect"
     },
     "ELLOS": {
-      "SPANISH": "infectarán",
-      "ENGLISH": "they will infect, you (plural formal) will infect"
+      "SPANISH": "Infectarán",
+      "ENGLISH": "They will infect"
     },
     "NOSOTROS": {
-      "SPANISH": "infectaremos",
-      "ENGLISH": "we will infect"
+      "SPANISH": "Infectaremos",
+      "ENGLISH": "We will infect"
     },
     "VOSOTROS": {
-      "SPANISH": "infectaréis",
-      "ENGLISH": "you (plural) will infect"
+      "SPANISH": "Infectaréis",
+      "ENGLISH": "You will infect"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré infectado",
+      "SPANISH": "Habré infectado",
       "ENGLISH": "I will have infected"
     },
     "TU": {
-      "SPANISH": "habrás infectado",
-      "ENGLISH": "you will have infected"
+      "SPANISH": "Habrás infectado",
+      "ENGLISH": "You will have infected"
     },
     "EL": {
-      "SPANISH": "habrá infectado",
-      "ENGLISH": "s/he will have infected, you (formal) will have infected"
+      "SPANISH": "Habrá infectado",
+      "ENGLISH": "He will have infected"
     },
     "ELLOS": {
-      "SPANISH": "habrán infectado",
-      "ENGLISH": "they will have infected, you (plural formal) will have infected"
+      "SPANISH": "Habrán infectado",
+      "ENGLISH": "They will have infected"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos infectado",
-      "ENGLISH": "we will have infected"
+      "SPANISH": "Habremos infectado",
+      "ENGLISH": "We will have infected"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis infectado",
-      "ENGLISH": "you (plural) will have infected"
+      "SPANISH": "Habréis infectado",
+      "ENGLISH": "You will have infected"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "infectaría",
+      "SPANISH": "Infectaría",
       "ENGLISH": "I would infect"
     },
     "TU": {
-      "SPANISH": "infectarías",
-      "ENGLISH": "you would infect"
+      "SPANISH": "Infectarías",
+      "ENGLISH": "You would infect"
     },
     "EL": {
-      "SPANISH": "infectaría",
-      "ENGLISH": "s/he would infect, you (formal) would infect"
+      "SPANISH": "Infectaría",
+      "ENGLISH": "He would infect"
     },
     "ELLOS": {
-      "SPANISH": "infectarían",
-      "ENGLISH": "they would infect, you (plural formal) would infect"
+      "SPANISH": "Infectarían",
+      "ENGLISH": "They would infect"
     },
     "NOSOTROS": {
-      "SPANISH": "infectaríamos",
-      "ENGLISH": "we would infect"
+      "SPANISH": "Infectaríamos",
+      "ENGLISH": "We would infect"
     },
     "VOSOTROS": {
-      "SPANISH": "infectaríais",
-      "ENGLISH": "you (plural) would infect"
+      "SPANISH": "Infectaríais",
+      "ENGLISH": "You would infect"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría infectado",
+      "SPANISH": "Habría infectado",
       "ENGLISH": "I would have infected"
     },
     "TU": {
-      "SPANISH": "habrías infectado",
-      "ENGLISH": "you would have infected"
+      "SPANISH": "Habrías infectado",
+      "ENGLISH": "You would have infected"
     },
     "EL": {
-      "SPANISH": "habría infectado",
-      "ENGLISH": "s/he would have infected, you (formal) would have infected"
+      "SPANISH": "Habría infectado",
+      "ENGLISH": "He would have infected"
     },
     "ELLOS": {
-      "SPANISH": "habrían infectado",
-      "ENGLISH": "they would have infected, you (plural formal) would have infected"
+      "SPANISH": "Habrían infectado",
+      "ENGLISH": "They would have infected"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos infectado",
-      "ENGLISH": "we would have infected"
+      "SPANISH": "Habríamos infectado",
+      "ENGLISH": "We would have infected"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais infectado",
-      "ENGLISH": "you (plural) would have infected"
+      "SPANISH": "Habríais infectado",
+      "ENGLISH": "You would have infected"
     }
   }
 }

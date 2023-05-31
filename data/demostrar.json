@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "demuestro ",
+      "SPANISH": "Demuestro ",
       "ENGLISH": "I demonstrate"
     },
     "TU": {
-      "SPANISH": "demuestras ",
-      "ENGLISH": "you demonstrate"
+      "SPANISH": "Demuestras ",
+      "ENGLISH": "You demonstrate"
     },
     "EL": {
-      "SPANISH": "demuestra ",
-      "ENGLISH": "s/he demonstrates, you (formal) demonstrates"
+      "SPANISH": "Demuestra ",
+      "ENGLISH": "He demonstrates"
     },
     "ELLOS": {
-      "SPANISH": "demuestran ",
-      "ENGLISH": "they demonstrate, you (plural formal) demonstrate"
+      "SPANISH": "Demuestran ",
+      "ENGLISH": "They demonstrate"
     },
     "NOSOTROS": {
-      "SPANISH": "demostramos",
-      "ENGLISH": "we demonstrate"
+      "SPANISH": "Demostramos",
+      "ENGLISH": "We demonstrate"
     },
     "VOSOTROS": {
-      "SPANISH": "demostráis",
-      "ENGLISH": "you (plural) demonstrate"
+      "SPANISH": "Demostráis",
+      "ENGLISH": "You demonstrate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he demostrado",
+      "SPANISH": "He demostrado",
       "ENGLISH": "I have demonstrated"
     },
     "TU": {
-      "SPANISH": "has demostrado",
-      "ENGLISH": "you have demonstrated"
+      "SPANISH": "Has demostrado",
+      "ENGLISH": "You have demonstrated"
     },
     "EL": {
-      "SPANISH": "ha demostrado",
-      "ENGLISH": "s/he has demonstrated, you (formal) have demonstrated"
+      "SPANISH": "Ha demostrado",
+      "ENGLISH": "He has demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "han demostrado",
-      "ENGLISH": "they have demonstrated, you (plural formal) have demonstrated"
+      "SPANISH": "Han demostrado",
+      "ENGLISH": "They have demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos demostrado",
-      "ENGLISH": "we have demonstrated"
+      "SPANISH": "Hemos demostrado",
+      "ENGLISH": "We have demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis demostrado",
-      "ENGLISH": "you (plural) have demonstrated"
+      "SPANISH": "Habéis demostrado",
+      "ENGLISH": "You have demonstrated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "demostré",
+      "SPANISH": "Demostré",
       "ENGLISH": "I demonstrated"
     },
     "TU": {
-      "SPANISH": "demostraste",
-      "ENGLISH": "you demonstrated"
+      "SPANISH": "Demostraste",
+      "ENGLISH": "You demonstrated"
     },
     "EL": {
-      "SPANISH": "demostró",
-      "ENGLISH": "s/he demonstrated, you (formal) demonstrated"
+      "SPANISH": "Demostró",
+      "ENGLISH": "He demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "demostraron",
-      "ENGLISH": "they demonstrated, you (plural formal) demonstrated"
+      "SPANISH": "Demostraron",
+      "ENGLISH": "They demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "demostramos",
-      "ENGLISH": "we demonstrated"
+      "SPANISH": "Demostramos",
+      "ENGLISH": "We demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "demostrasteis",
-      "ENGLISH": "you (plural) demonstrated"
+      "SPANISH": "Demostrasteis",
+      "ENGLISH": "You demonstrated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había demostrado",
+      "SPANISH": "Había demostrado",
       "ENGLISH": "I had demonstrated"
     },
     "TU": {
-      "SPANISH": "habías demostrado",
-      "ENGLISH": "you had demonstrated"
+      "SPANISH": "Habías demostrado",
+      "ENGLISH": "You had demonstrated"
     },
     "EL": {
-      "SPANISH": "había demostrado",
-      "ENGLISH": "s/he had demonstrated, you (formal) had demonstrated"
+      "SPANISH": "Había demostrado",
+      "ENGLISH": "He had demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "habían demostrado",
-      "ENGLISH": "they had demonstrated, you (plural formal) had demonstrated"
+      "SPANISH": "Habían demostrado",
+      "ENGLISH": "They had demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos demostrado",
-      "ENGLISH": "we had demonstrated"
+      "SPANISH": "Habíamos demostrado",
+      "ENGLISH": "We had demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais demostrado",
-      "ENGLISH": "you (plural) had demonstrated"
+      "SPANISH": "Habíais demostrado",
+      "ENGLISH": "You had demonstrated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "demostré",
+      "SPANISH": "Demostré",
       "ENGLISH": "I demonstrated"
     },
     "TU": {
-      "SPANISH": "demostraste",
-      "ENGLISH": "you demonstrated"
+      "SPANISH": "Demostraste",
+      "ENGLISH": "You demonstrated"
     },
     "EL": {
-      "SPANISH": "demostró",
-      "ENGLISH": "s/he demonstrated, you (formal) demonstrated"
+      "SPANISH": "Demostró",
+      "ENGLISH": "He demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "demostraron",
-      "ENGLISH": "they demonstrated, you (plural formal) demonstrated"
+      "SPANISH": "Demostraron",
+      "ENGLISH": "They demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "demostramos",
-      "ENGLISH": "we demonstrated"
+      "SPANISH": "Demostramos",
+      "ENGLISH": "We demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "demostrasteis",
-      "ENGLISH": "you (plural) demonstrated"
+      "SPANISH": "Demostrasteis",
+      "ENGLISH": "You demonstrated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "demostraré",
+      "SPANISH": "Demostraré",
       "ENGLISH": "I will demonstrate"
     },
     "TU": {
-      "SPANISH": "demostrarás",
-      "ENGLISH": "you will demonstrate"
+      "SPANISH": "Demostrarás",
+      "ENGLISH": "You will demonstrate"
     },
     "EL": {
-      "SPANISH": "demostrará",
-      "ENGLISH": "s/he will demonstrate, you (formal) will demonstrate"
+      "SPANISH": "Demostrará",
+      "ENGLISH": "He will demonstrate"
     },
     "ELLOS": {
-      "SPANISH": "demostrarán",
-      "ENGLISH": "they will demonstrate, you (plural formal) will demonstrate"
+      "SPANISH": "Demostrarán",
+      "ENGLISH": "They will demonstrate"
     },
     "NOSOTROS": {
-      "SPANISH": "demostraremos",
-      "ENGLISH": "we will demonstrate"
+      "SPANISH": "Demostraremos",
+      "ENGLISH": "We will demonstrate"
     },
     "VOSOTROS": {
-      "SPANISH": "demostraréis",
-      "ENGLISH": "you (plural) will demonstrate"
+      "SPANISH": "Demostraréis",
+      "ENGLISH": "You will demonstrate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré demostrado",
+      "SPANISH": "Habré demostrado",
       "ENGLISH": "I will have demonstrated"
     },
     "TU": {
-      "SPANISH": "habrás demostrado",
-      "ENGLISH": "you will have demonstrated"
+      "SPANISH": "Habrás demostrado",
+      "ENGLISH": "You will have demonstrated"
     },
     "EL": {
-      "SPANISH": "habrá demostrado",
-      "ENGLISH": "s/he will have demonstrated, you (formal) will have demonstrated"
+      "SPANISH": "Habrá demostrado",
+      "ENGLISH": "He will have demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "habrán demostrado",
-      "ENGLISH": "they will have demonstrated, you (plural formal) will have demonstrated"
+      "SPANISH": "Habrán demostrado",
+      "ENGLISH": "They will have demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos demostrado",
-      "ENGLISH": "we will have demonstrated"
+      "SPANISH": "Habremos demostrado",
+      "ENGLISH": "We will have demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis demostrado",
-      "ENGLISH": "you (plural) will have demonstrated"
+      "SPANISH": "Habréis demostrado",
+      "ENGLISH": "You will have demonstrated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "demostraría",
+      "SPANISH": "Demostraría",
       "ENGLISH": "I would demonstrate"
     },
     "TU": {
-      "SPANISH": "demostrarías",
-      "ENGLISH": "you would demonstrate"
+      "SPANISH": "Demostrarías",
+      "ENGLISH": "You would demonstrate"
     },
     "EL": {
-      "SPANISH": "demostraría",
-      "ENGLISH": "s/he would demonstrate, you (formal) would demonstrate"
+      "SPANISH": "Demostraría",
+      "ENGLISH": "He would demonstrate"
     },
     "ELLOS": {
-      "SPANISH": "demostrarían",
-      "ENGLISH": "they would demonstrate, you (plural formal) would demonstrate"
+      "SPANISH": "Demostrarían",
+      "ENGLISH": "They would demonstrate"
     },
     "NOSOTROS": {
-      "SPANISH": "demostraríamos",
-      "ENGLISH": "we would demonstrate"
+      "SPANISH": "Demostraríamos",
+      "ENGLISH": "We would demonstrate"
     },
     "VOSOTROS": {
-      "SPANISH": "demostraríais",
-      "ENGLISH": "you (plural) would demonstrate"
+      "SPANISH": "Demostraríais",
+      "ENGLISH": "You would demonstrate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría demostrado",
+      "SPANISH": "Habría demostrado",
       "ENGLISH": "I would have demonstrated"
     },
     "TU": {
-      "SPANISH": "habrías demostrado",
-      "ENGLISH": "you would have demonstrated"
+      "SPANISH": "Habrías demostrado",
+      "ENGLISH": "You would have demonstrated"
     },
     "EL": {
-      "SPANISH": "habría demostrado",
-      "ENGLISH": "s/he would have demonstrated, you (formal) would have demonstrated"
+      "SPANISH": "Habría demostrado",
+      "ENGLISH": "He would have demonstrated"
     },
     "ELLOS": {
-      "SPANISH": "habrían demostrado",
-      "ENGLISH": "they would have demonstrated, you (plural formal) would have demonstrated"
+      "SPANISH": "Habrían demostrado",
+      "ENGLISH": "They would have demonstrated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos demostrado",
-      "ENGLISH": "we would have demonstrated"
+      "SPANISH": "Habríamos demostrado",
+      "ENGLISH": "We would have demonstrated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais demostrado",
-      "ENGLISH": "you (plural) would have demonstrated"
+      "SPANISH": "Habríais demostrado",
+      "ENGLISH": "You would have demonstrated"
     }
   }
 }

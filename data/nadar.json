@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "nado",
+      "SPANISH": "Nado",
       "ENGLISH": "I swim"
     },
     "TU": {
-      "SPANISH": "nadas",
-      "ENGLISH": "you swim"
+      "SPANISH": "Nadas",
+      "ENGLISH": "You swim"
     },
     "EL": {
-      "SPANISH": "nada",
-      "ENGLISH": "s/he swims, you (formal) swims"
+      "SPANISH": "Nada",
+      "ENGLISH": "He swims"
     },
     "ELLOS": {
-      "SPANISH": "nadan",
-      "ENGLISH": "they swim, you (plural formal) swim"
+      "SPANISH": "Nadan",
+      "ENGLISH": "They swim"
     },
     "NOSOTROS": {
-      "SPANISH": "nadamos",
-      "ENGLISH": "we swim"
+      "SPANISH": "Nadamos",
+      "ENGLISH": "We swim"
     },
     "VOSOTROS": {
-      "SPANISH": "nadáis",
-      "ENGLISH": "you (plural) swim"
+      "SPANISH": "Nadáis",
+      "ENGLISH": "You swim"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he nadado",
+      "SPANISH": "He nadado",
       "ENGLISH": "I have swum"
     },
     "TU": {
-      "SPANISH": "has nadado",
-      "ENGLISH": "you have swum"
+      "SPANISH": "Has nadado",
+      "ENGLISH": "You have swum"
     },
     "EL": {
-      "SPANISH": "ha nadado",
-      "ENGLISH": "s/he has swum, you (formal) have swum"
+      "SPANISH": "Ha nadado",
+      "ENGLISH": "He has swum"
     },
     "ELLOS": {
-      "SPANISH": "han nadado",
-      "ENGLISH": "they have swum, you (plural formal) have swum"
+      "SPANISH": "Han nadado",
+      "ENGLISH": "They have swum"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos nadado",
-      "ENGLISH": "we have swum"
+      "SPANISH": "Hemos nadado",
+      "ENGLISH": "We have swum"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis nadado",
-      "ENGLISH": "you (plural) have swum"
+      "SPANISH": "Habéis nadado",
+      "ENGLISH": "You have swum"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "nadé",
+      "SPANISH": "Nadé",
       "ENGLISH": "I swam"
     },
     "TU": {
-      "SPANISH": "nadaste",
-      "ENGLISH": "you swam"
+      "SPANISH": "Nadaste",
+      "ENGLISH": "You swam"
     },
     "EL": {
-      "SPANISH": "nadó",
-      "ENGLISH": "s/he swam, you (formal) swam"
+      "SPANISH": "Nadó",
+      "ENGLISH": "He swam"
     },
     "ELLOS": {
-      "SPANISH": "nadaron",
-      "ENGLISH": "they swam, you (plural formal) swam"
+      "SPANISH": "Nadaron",
+      "ENGLISH": "They swam"
     },
     "NOSOTROS": {
-      "SPANISH": "nadamos",
-      "ENGLISH": "we swam"
+      "SPANISH": "Nadamos",
+      "ENGLISH": "We swam"
     },
     "VOSOTROS": {
-      "SPANISH": "nadasteis",
-      "ENGLISH": "you (plural) swam"
+      "SPANISH": "Nadasteis",
+      "ENGLISH": "You swam"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había nadado",
+      "SPANISH": "Había nadado",
       "ENGLISH": "I had swum"
     },
     "TU": {
-      "SPANISH": "habías nadado",
-      "ENGLISH": "you had swum"
+      "SPANISH": "Habías nadado",
+      "ENGLISH": "You had swum"
     },
     "EL": {
-      "SPANISH": "había nadado",
-      "ENGLISH": "s/he had swum, you (formal) had swum"
+      "SPANISH": "Había nadado",
+      "ENGLISH": "He had swum"
     },
     "ELLOS": {
-      "SPANISH": "habían nadado",
-      "ENGLISH": "they had swum, you (plural formal) had swum"
+      "SPANISH": "Habían nadado",
+      "ENGLISH": "They had swum"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos nadado",
-      "ENGLISH": "we had swum"
+      "SPANISH": "Habíamos nadado",
+      "ENGLISH": "We had swum"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais nadado",
-      "ENGLISH": "you (plural) had swum"
+      "SPANISH": "Habíais nadado",
+      "ENGLISH": "You had swum"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "nadé",
+      "SPANISH": "Nadé",
       "ENGLISH": "I swam"
     },
     "TU": {
-      "SPANISH": "nadaste",
-      "ENGLISH": "you swam"
+      "SPANISH": "Nadaste",
+      "ENGLISH": "You swam"
     },
     "EL": {
-      "SPANISH": "nadó",
-      "ENGLISH": "s/he swam, you (formal) swam"
+      "SPANISH": "Nadó",
+      "ENGLISH": "He swam"
     },
     "ELLOS": {
-      "SPANISH": "nadaron",
-      "ENGLISH": "they swam, you (plural formal) swam"
+      "SPANISH": "Nadaron",
+      "ENGLISH": "They swam"
     },
     "NOSOTROS": {
-      "SPANISH": "nadamos",
-      "ENGLISH": "we swam"
+      "SPANISH": "Nadamos",
+      "ENGLISH": "We swam"
     },
     "VOSOTROS": {
-      "SPANISH": "nadasteis",
-      "ENGLISH": "you (plural) swam"
+      "SPANISH": "Nadasteis",
+      "ENGLISH": "You swam"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "nadaré",
+      "SPANISH": "Nadaré",
       "ENGLISH": "I will swim"
     },
     "TU": {
-      "SPANISH": "nadarás",
-      "ENGLISH": "you will swim"
+      "SPANISH": "Nadarás",
+      "ENGLISH": "You will swim"
     },
     "EL": {
-      "SPANISH": "nadará",
-      "ENGLISH": "s/he will swim, you (formal) will swim"
+      "SPANISH": "Nadará",
+      "ENGLISH": "He will swim"
     },
     "ELLOS": {
-      "SPANISH": "nadarán",
-      "ENGLISH": "they will swim, you (plural formal) will swim"
+      "SPANISH": "Nadarán",
+      "ENGLISH": "They will swim"
     },
     "NOSOTROS": {
-      "SPANISH": "nadaremos",
-      "ENGLISH": "we will swim"
+      "SPANISH": "Nadaremos",
+      "ENGLISH": "We will swim"
     },
     "VOSOTROS": {
-      "SPANISH": "nadaréis",
-      "ENGLISH": "you (plural) will swim"
+      "SPANISH": "Nadaréis",
+      "ENGLISH": "You will swim"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré nadado",
+      "SPANISH": "Habré nadado",
       "ENGLISH": "I will have swum"
     },
     "TU": {
-      "SPANISH": "habrás nadado",
-      "ENGLISH": "you will have swum"
+      "SPANISH": "Habrás nadado",
+      "ENGLISH": "You will have swum"
     },
     "EL": {
-      "SPANISH": "habrá nadado",
-      "ENGLISH": "s/he will have swum, you (formal) will have swum"
+      "SPANISH": "Habrá nadado",
+      "ENGLISH": "He will have swum"
     },
     "ELLOS": {
-      "SPANISH": "habrán nadado",
-      "ENGLISH": "they will have swum, you (plural formal) will have swum"
+      "SPANISH": "Habrán nadado",
+      "ENGLISH": "They will have swum"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos nadado",
-      "ENGLISH": "we will have swum"
+      "SPANISH": "Habremos nadado",
+      "ENGLISH": "We will have swum"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis nadado",
-      "ENGLISH": "you (plural) will have swum"
+      "SPANISH": "Habréis nadado",
+      "ENGLISH": "You will have swum"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "nadaría",
+      "SPANISH": "Nadaría",
       "ENGLISH": "I would swim"
     },
     "TU": {
-      "SPANISH": "nadarías",
-      "ENGLISH": "you would swim"
+      "SPANISH": "Nadarías",
+      "ENGLISH": "You would swim"
     },
     "EL": {
-      "SPANISH": "nadaría",
-      "ENGLISH": "s/he would swim, you (formal) would swim"
+      "SPANISH": "Nadaría",
+      "ENGLISH": "He would swim"
     },
     "ELLOS": {
-      "SPANISH": "nadarían",
-      "ENGLISH": "they would swim, you (plural formal) would swim"
+      "SPANISH": "Nadarían",
+      "ENGLISH": "They would swim"
     },
     "NOSOTROS": {
-      "SPANISH": "nadaríamos",
-      "ENGLISH": "we would swim"
+      "SPANISH": "Nadaríamos",
+      "ENGLISH": "We would swim"
     },
     "VOSOTROS": {
-      "SPANISH": "nadaríais",
-      "ENGLISH": "you (plural) would swim"
+      "SPANISH": "Nadaríais",
+      "ENGLISH": "You would swim"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría nadado",
+      "SPANISH": "Habría nadado",
       "ENGLISH": "I would have swum"
     },
     "TU": {
-      "SPANISH": "habrías nadado",
-      "ENGLISH": "you would have swum"
+      "SPANISH": "Habrías nadado",
+      "ENGLISH": "You would have swum"
     },
     "EL": {
-      "SPANISH": "habría nadado",
-      "ENGLISH": "s/he would have swum, you (formal) would have swum"
+      "SPANISH": "Habría nadado",
+      "ENGLISH": "He would have swum"
     },
     "ELLOS": {
-      "SPANISH": "habrían nadado",
-      "ENGLISH": "they would have swum, you (plural formal) would have swum"
+      "SPANISH": "Habrían nadado",
+      "ENGLISH": "They would have swum"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos nadado",
-      "ENGLISH": "we would have swum"
+      "SPANISH": "Habríamos nadado",
+      "ENGLISH": "We would have swum"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais nadado",
-      "ENGLISH": "you (plural) would have swum"
+      "SPANISH": "Habríais nadado",
+      "ENGLISH": "You would have swum"
     }
   }
 }

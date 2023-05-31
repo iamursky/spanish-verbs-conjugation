@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "peleo",
+      "SPANISH": "Peleo",
       "ENGLISH": "I fight"
     },
     "TU": {
-      "SPANISH": "peleas",
-      "ENGLISH": "you fight"
+      "SPANISH": "Peleas",
+      "ENGLISH": "You fight"
     },
     "EL": {
-      "SPANISH": "pelea",
-      "ENGLISH": "s/he fights, you (formal) fights"
+      "SPANISH": "Pelea",
+      "ENGLISH": "He fights"
     },
     "ELLOS": {
-      "SPANISH": "pelean",
-      "ENGLISH": "they fight, you (plural formal) fight"
+      "SPANISH": "Pelean",
+      "ENGLISH": "They fight"
     },
     "NOSOTROS": {
-      "SPANISH": "peleamos",
-      "ENGLISH": "we fight"
+      "SPANISH": "Peleamos",
+      "ENGLISH": "We fight"
     },
     "VOSOTROS": {
-      "SPANISH": "peleáis",
-      "ENGLISH": "you (plural) fight"
+      "SPANISH": "Peleáis",
+      "ENGLISH": "You fight"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he peleado",
+      "SPANISH": "He peleado",
       "ENGLISH": "I have fought"
     },
     "TU": {
-      "SPANISH": "has peleado",
-      "ENGLISH": "you have fought"
+      "SPANISH": "Has peleado",
+      "ENGLISH": "You have fought"
     },
     "EL": {
-      "SPANISH": "ha peleado",
-      "ENGLISH": "s/he has fought, you (formal) have fought"
+      "SPANISH": "Ha peleado",
+      "ENGLISH": "He has fought"
     },
     "ELLOS": {
-      "SPANISH": "han peleado",
-      "ENGLISH": "they have fought, you (plural formal) have fought"
+      "SPANISH": "Han peleado",
+      "ENGLISH": "They have fought"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos peleado",
-      "ENGLISH": "we have fought"
+      "SPANISH": "Hemos peleado",
+      "ENGLISH": "We have fought"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis peleado",
-      "ENGLISH": "you (plural) have fought"
+      "SPANISH": "Habéis peleado",
+      "ENGLISH": "You have fought"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "peleé",
+      "SPANISH": "Peleé",
       "ENGLISH": "I fought"
     },
     "TU": {
-      "SPANISH": "peleaste",
-      "ENGLISH": "you fought"
+      "SPANISH": "Peleaste",
+      "ENGLISH": "You fought"
     },
     "EL": {
-      "SPANISH": "peleó",
-      "ENGLISH": "s/he fought, you (formal) fought"
+      "SPANISH": "Peleó",
+      "ENGLISH": "He fought"
     },
     "ELLOS": {
-      "SPANISH": "pelearon",
-      "ENGLISH": "they fought, you (plural formal) fought"
+      "SPANISH": "Pelearon",
+      "ENGLISH": "They fought"
     },
     "NOSOTROS": {
-      "SPANISH": "peleamos",
-      "ENGLISH": "we fought"
+      "SPANISH": "Peleamos",
+      "ENGLISH": "We fought"
     },
     "VOSOTROS": {
-      "SPANISH": "peleasteis",
-      "ENGLISH": "you (plural) fought"
+      "SPANISH": "Peleasteis",
+      "ENGLISH": "You fought"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había peleado",
+      "SPANISH": "Había peleado",
       "ENGLISH": "I had fought"
     },
     "TU": {
-      "SPANISH": "habías peleado",
-      "ENGLISH": "you had fought"
+      "SPANISH": "Habías peleado",
+      "ENGLISH": "You had fought"
     },
     "EL": {
-      "SPANISH": "había peleado",
-      "ENGLISH": "s/he had fought, you (formal) had fought"
+      "SPANISH": "Había peleado",
+      "ENGLISH": "He had fought"
     },
     "ELLOS": {
-      "SPANISH": "habían peleado",
-      "ENGLISH": "they had fought, you (plural formal) had fought"
+      "SPANISH": "Habían peleado",
+      "ENGLISH": "They had fought"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos peleado",
-      "ENGLISH": "we had fought"
+      "SPANISH": "Habíamos peleado",
+      "ENGLISH": "We had fought"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais peleado",
-      "ENGLISH": "you (plural) had fought"
+      "SPANISH": "Habíais peleado",
+      "ENGLISH": "You had fought"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "peleé",
+      "SPANISH": "Peleé",
       "ENGLISH": "I fought"
     },
     "TU": {
-      "SPANISH": "peleaste",
-      "ENGLISH": "you fought"
+      "SPANISH": "Peleaste",
+      "ENGLISH": "You fought"
     },
     "EL": {
-      "SPANISH": "peleó",
-      "ENGLISH": "s/he fought, you (formal) fought"
+      "SPANISH": "Peleó",
+      "ENGLISH": "He fought"
     },
     "ELLOS": {
-      "SPANISH": "pelearon",
-      "ENGLISH": "they fought, you (plural formal) fought"
+      "SPANISH": "Pelearon",
+      "ENGLISH": "They fought"
     },
     "NOSOTROS": {
-      "SPANISH": "peleamos",
-      "ENGLISH": "we fought"
+      "SPANISH": "Peleamos",
+      "ENGLISH": "We fought"
     },
     "VOSOTROS": {
-      "SPANISH": "peleasteis",
-      "ENGLISH": "you (plural) fought"
+      "SPANISH": "Peleasteis",
+      "ENGLISH": "You fought"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "pelearé",
+      "SPANISH": "Pelearé",
       "ENGLISH": "I will fight"
     },
     "TU": {
-      "SPANISH": "pelearás",
-      "ENGLISH": "you will fight"
+      "SPANISH": "Pelearás",
+      "ENGLISH": "You will fight"
     },
     "EL": {
-      "SPANISH": "peleará",
-      "ENGLISH": "s/he will fight, you (formal) will fight"
+      "SPANISH": "Peleará",
+      "ENGLISH": "He will fight"
     },
     "ELLOS": {
-      "SPANISH": "pelearán",
-      "ENGLISH": "they will fight, you (plural formal) will fight"
+      "SPANISH": "Pelearán",
+      "ENGLISH": "They will fight"
     },
     "NOSOTROS": {
-      "SPANISH": "pelearemos",
-      "ENGLISH": "we will fight"
+      "SPANISH": "Pelearemos",
+      "ENGLISH": "We will fight"
     },
     "VOSOTROS": {
-      "SPANISH": "pelearéis",
-      "ENGLISH": "you (plural) will fight"
+      "SPANISH": "Pelearéis",
+      "ENGLISH": "You will fight"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré peleado",
+      "SPANISH": "Habré peleado",
       "ENGLISH": "I will have fought"
     },
     "TU": {
-      "SPANISH": "habrás peleado",
-      "ENGLISH": "you will have fought"
+      "SPANISH": "Habrás peleado",
+      "ENGLISH": "You will have fought"
     },
     "EL": {
-      "SPANISH": "habrá peleado",
-      "ENGLISH": "s/he will have fought, you (formal) will have fought"
+      "SPANISH": "Habrá peleado",
+      "ENGLISH": "He will have fought"
     },
     "ELLOS": {
-      "SPANISH": "habrán peleado",
-      "ENGLISH": "they will have fought, you (plural formal) will have fought"
+      "SPANISH": "Habrán peleado",
+      "ENGLISH": "They will have fought"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos peleado",
-      "ENGLISH": "we will have fought"
+      "SPANISH": "Habremos peleado",
+      "ENGLISH": "We will have fought"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis peleado",
-      "ENGLISH": "you (plural) will have fought"
+      "SPANISH": "Habréis peleado",
+      "ENGLISH": "You will have fought"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pelearía",
+      "SPANISH": "Pelearía",
       "ENGLISH": "I would fight"
     },
     "TU": {
-      "SPANISH": "pelearías",
-      "ENGLISH": "you would fight"
+      "SPANISH": "Pelearías",
+      "ENGLISH": "You would fight"
     },
     "EL": {
-      "SPANISH": "pelearía",
-      "ENGLISH": "s/he would fight, you (formal) would fight"
+      "SPANISH": "Pelearía",
+      "ENGLISH": "He would fight"
     },
     "ELLOS": {
-      "SPANISH": "pelearían",
-      "ENGLISH": "they would fight, you (plural formal) would fight"
+      "SPANISH": "Pelearían",
+      "ENGLISH": "They would fight"
     },
     "NOSOTROS": {
-      "SPANISH": "pelearíamos",
-      "ENGLISH": "we would fight"
+      "SPANISH": "Pelearíamos",
+      "ENGLISH": "We would fight"
     },
     "VOSOTROS": {
-      "SPANISH": "pelearíais",
-      "ENGLISH": "you (plural) would fight"
+      "SPANISH": "Pelearíais",
+      "ENGLISH": "You would fight"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría peleado",
+      "SPANISH": "Habría peleado",
       "ENGLISH": "I would have fought"
     },
     "TU": {
-      "SPANISH": "habrías peleado",
-      "ENGLISH": "you would have fought"
+      "SPANISH": "Habrías peleado",
+      "ENGLISH": "You would have fought"
     },
     "EL": {
-      "SPANISH": "habría peleado",
-      "ENGLISH": "s/he would have fought, you (formal) would have fought"
+      "SPANISH": "Habría peleado",
+      "ENGLISH": "He would have fought"
     },
     "ELLOS": {
-      "SPANISH": "habrían peleado",
-      "ENGLISH": "they would have fought, you (plural formal) would have fought"
+      "SPANISH": "Habrían peleado",
+      "ENGLISH": "They would have fought"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos peleado",
-      "ENGLISH": "we would have fought"
+      "SPANISH": "Habríamos peleado",
+      "ENGLISH": "We would have fought"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais peleado",
-      "ENGLISH": "you (plural) would have fought"
+      "SPANISH": "Habríais peleado",
+      "ENGLISH": "You would have fought"
     }
   }
 }

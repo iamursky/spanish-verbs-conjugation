@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "alcanzo",
+      "SPANISH": "Alcanzo",
       "ENGLISH": "I reach"
     },
     "TU": {
-      "SPANISH": "alcanzas",
-      "ENGLISH": "you reach"
+      "SPANISH": "Alcanzas",
+      "ENGLISH": "You reach"
     },
     "EL": {
-      "SPANISH": "alcanza",
-      "ENGLISH": "s/he reaches, you (formal) reaches"
+      "SPANISH": "Alcanza",
+      "ENGLISH": "He reaches"
     },
     "ELLOS": {
-      "SPANISH": "alcanzan",
-      "ENGLISH": "they reach, you (plural formal) reach"
+      "SPANISH": "Alcanzan",
+      "ENGLISH": "They reach"
     },
     "NOSOTROS": {
-      "SPANISH": "alcanzamos",
-      "ENGLISH": "we reach"
+      "SPANISH": "Alcanzamos",
+      "ENGLISH": "We reach"
     },
     "VOSOTROS": {
-      "SPANISH": "alcanzáis",
-      "ENGLISH": "you (plural) reach"
+      "SPANISH": "Alcanzáis",
+      "ENGLISH": "You reach"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he alcanzado",
+      "SPANISH": "He alcanzado",
       "ENGLISH": "I have reached"
     },
     "TU": {
-      "SPANISH": "has alcanzado",
-      "ENGLISH": "you have reached"
+      "SPANISH": "Has alcanzado",
+      "ENGLISH": "You have reached"
     },
     "EL": {
-      "SPANISH": "ha alcanzado",
-      "ENGLISH": "s/he has reached, you (formal) have reached"
+      "SPANISH": "Ha alcanzado",
+      "ENGLISH": "He has reached"
     },
     "ELLOS": {
-      "SPANISH": "han alcanzado",
-      "ENGLISH": "they have reached, you (plural formal) have reached"
+      "SPANISH": "Han alcanzado",
+      "ENGLISH": "They have reached"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos alcanzado",
-      "ENGLISH": "we have reached"
+      "SPANISH": "Hemos alcanzado",
+      "ENGLISH": "We have reached"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis alcanzado",
-      "ENGLISH": "you (plural) have reached"
+      "SPANISH": "Habéis alcanzado",
+      "ENGLISH": "You have reached"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "alcancé ",
+      "SPANISH": "Alcancé ",
       "ENGLISH": "I reached"
     },
     "TU": {
-      "SPANISH": "alcanzaste",
-      "ENGLISH": "you reached"
+      "SPANISH": "Alcanzaste",
+      "ENGLISH": "You reached"
     },
     "EL": {
-      "SPANISH": "alcanzó",
-      "ENGLISH": "s/he reached, you (formal) reached"
+      "SPANISH": "Alcanzó",
+      "ENGLISH": "He reached"
     },
     "ELLOS": {
-      "SPANISH": "alcanzaron",
-      "ENGLISH": "they reached, you (plural formal) reached"
+      "SPANISH": "Alcanzaron",
+      "ENGLISH": "They reached"
     },
     "NOSOTROS": {
-      "SPANISH": "alcanzamos",
-      "ENGLISH": "we reached"
+      "SPANISH": "Alcanzamos",
+      "ENGLISH": "We reached"
     },
     "VOSOTROS": {
-      "SPANISH": "alcanzasteis",
-      "ENGLISH": "you (plural) reached"
+      "SPANISH": "Alcanzasteis",
+      "ENGLISH": "You reached"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había alcanzado",
+      "SPANISH": "Había alcanzado",
       "ENGLISH": "I had reached"
     },
     "TU": {
-      "SPANISH": "habías alcanzado",
-      "ENGLISH": "you had reached"
+      "SPANISH": "Habías alcanzado",
+      "ENGLISH": "You had reached"
     },
     "EL": {
-      "SPANISH": "había alcanzado",
-      "ENGLISH": "s/he had reached, you (formal) had reached"
+      "SPANISH": "Había alcanzado",
+      "ENGLISH": "He had reached"
     },
     "ELLOS": {
-      "SPANISH": "habían alcanzado",
-      "ENGLISH": "they had reached, you (plural formal) had reached"
+      "SPANISH": "Habían alcanzado",
+      "ENGLISH": "They had reached"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos alcanzado",
-      "ENGLISH": "we had reached"
+      "SPANISH": "Habíamos alcanzado",
+      "ENGLISH": "We had reached"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais alcanzado",
-      "ENGLISH": "you (plural) had reached"
+      "SPANISH": "Habíais alcanzado",
+      "ENGLISH": "You had reached"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "alcancé ",
+      "SPANISH": "Alcancé ",
       "ENGLISH": "I reached"
     },
     "TU": {
-      "SPANISH": "alcanzaste",
-      "ENGLISH": "you reached"
+      "SPANISH": "Alcanzaste",
+      "ENGLISH": "You reached"
     },
     "EL": {
-      "SPANISH": "alcanzó",
-      "ENGLISH": "s/he reached, you (formal) reached"
+      "SPANISH": "Alcanzó",
+      "ENGLISH": "He reached"
     },
     "ELLOS": {
-      "SPANISH": "alcanzaron",
-      "ENGLISH": "they reached, you (plural formal) reached"
+      "SPANISH": "Alcanzaron",
+      "ENGLISH": "They reached"
     },
     "NOSOTROS": {
-      "SPANISH": "alcanzamos",
-      "ENGLISH": "we reached"
+      "SPANISH": "Alcanzamos",
+      "ENGLISH": "We reached"
     },
     "VOSOTROS": {
-      "SPANISH": "alcanzasteis",
-      "ENGLISH": "you (plural) reached"
+      "SPANISH": "Alcanzasteis",
+      "ENGLISH": "You reached"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "alcanzaré",
+      "SPANISH": "Alcanzaré",
       "ENGLISH": "I will reach"
     },
     "TU": {
-      "SPANISH": "alcanzarás",
-      "ENGLISH": "you will reach"
+      "SPANISH": "Alcanzarás",
+      "ENGLISH": "You will reach"
     },
     "EL": {
-      "SPANISH": "alcanzará",
-      "ENGLISH": "s/he will reach, you (formal) will reach"
+      "SPANISH": "Alcanzará",
+      "ENGLISH": "He will reach"
     },
     "ELLOS": {
-      "SPANISH": "alcanzarán",
-      "ENGLISH": "they will reach, you (plural formal) will reach"
+      "SPANISH": "Alcanzarán",
+      "ENGLISH": "They will reach"
     },
     "NOSOTROS": {
-      "SPANISH": "alcanzaremos",
-      "ENGLISH": "we will reach"
+      "SPANISH": "Alcanzaremos",
+      "ENGLISH": "We will reach"
     },
     "VOSOTROS": {
-      "SPANISH": "alcanzaréis",
-      "ENGLISH": "you (plural) will reach"
+      "SPANISH": "Alcanzaréis",
+      "ENGLISH": "You will reach"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré alcanzado",
+      "SPANISH": "Habré alcanzado",
       "ENGLISH": "I will have reached"
     },
     "TU": {
-      "SPANISH": "habrás alcanzado",
-      "ENGLISH": "you will have reached"
+      "SPANISH": "Habrás alcanzado",
+      "ENGLISH": "You will have reached"
     },
     "EL": {
-      "SPANISH": "habrá alcanzado",
-      "ENGLISH": "s/he will have reached, you (formal) will have reached"
+      "SPANISH": "Habrá alcanzado",
+      "ENGLISH": "He will have reached"
     },
     "ELLOS": {
-      "SPANISH": "habrán alcanzado",
-      "ENGLISH": "they will have reached, you (plural formal) will have reached"
+      "SPANISH": "Habrán alcanzado",
+      "ENGLISH": "They will have reached"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos alcanzado",
-      "ENGLISH": "we will have reached"
+      "SPANISH": "Habremos alcanzado",
+      "ENGLISH": "We will have reached"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis alcanzado",
-      "ENGLISH": "you (plural) will have reached"
+      "SPANISH": "Habréis alcanzado",
+      "ENGLISH": "You will have reached"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "alcanzaría",
+      "SPANISH": "Alcanzaría",
       "ENGLISH": "I would reach"
     },
     "TU": {
-      "SPANISH": "alcanzarías",
-      "ENGLISH": "you would reach"
+      "SPANISH": "Alcanzarías",
+      "ENGLISH": "You would reach"
     },
     "EL": {
-      "SPANISH": "alcanzaría",
-      "ENGLISH": "s/he would reach, you (formal) would reach"
+      "SPANISH": "Alcanzaría",
+      "ENGLISH": "He would reach"
     },
     "ELLOS": {
-      "SPANISH": "alcanzarían",
-      "ENGLISH": "they would reach, you (plural formal) would reach"
+      "SPANISH": "Alcanzarían",
+      "ENGLISH": "They would reach"
     },
     "NOSOTROS": {
-      "SPANISH": "alcanzaríamos",
-      "ENGLISH": "we would reach"
+      "SPANISH": "Alcanzaríamos",
+      "ENGLISH": "We would reach"
     },
     "VOSOTROS": {
-      "SPANISH": "alcanzaríais",
-      "ENGLISH": "you (plural) would reach"
+      "SPANISH": "Alcanzaríais",
+      "ENGLISH": "You would reach"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría alcanzado",
+      "SPANISH": "Habría alcanzado",
       "ENGLISH": "I would have reached"
     },
     "TU": {
-      "SPANISH": "habrías alcanzado",
-      "ENGLISH": "you would have reached"
+      "SPANISH": "Habrías alcanzado",
+      "ENGLISH": "You would have reached"
     },
     "EL": {
-      "SPANISH": "habría alcanzado",
-      "ENGLISH": "s/he would have reached, you (formal) would have reached"
+      "SPANISH": "Habría alcanzado",
+      "ENGLISH": "He would have reached"
     },
     "ELLOS": {
-      "SPANISH": "habrían alcanzado",
-      "ENGLISH": "they would have reached, you (plural formal) would have reached"
+      "SPANISH": "Habrían alcanzado",
+      "ENGLISH": "They would have reached"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos alcanzado",
-      "ENGLISH": "we would have reached"
+      "SPANISH": "Habríamos alcanzado",
+      "ENGLISH": "We would have reached"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais alcanzado",
-      "ENGLISH": "you (plural) would have reached"
+      "SPANISH": "Habríais alcanzado",
+      "ENGLISH": "You would have reached"
     }
   }
 }

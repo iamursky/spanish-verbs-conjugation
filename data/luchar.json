@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "lucho",
+      "SPANISH": "Lucho",
       "ENGLISH": "I struggle"
     },
     "TU": {
-      "SPANISH": "luchas",
-      "ENGLISH": "you struggle"
+      "SPANISH": "Luchas",
+      "ENGLISH": "You struggle"
     },
     "EL": {
-      "SPANISH": "lucha",
-      "ENGLISH": "s/he struggles, you (formal) struggles"
+      "SPANISH": "Lucha",
+      "ENGLISH": "He struggles"
     },
     "ELLOS": {
-      "SPANISH": "luchan",
-      "ENGLISH": "they struggle, you (plural formal) struggle"
+      "SPANISH": "Luchan",
+      "ENGLISH": "They struggle"
     },
     "NOSOTROS": {
-      "SPANISH": "luchamos",
-      "ENGLISH": "we struggle"
+      "SPANISH": "Luchamos",
+      "ENGLISH": "We struggle"
     },
     "VOSOTROS": {
-      "SPANISH": "lucháis",
-      "ENGLISH": "you (plural) struggle"
+      "SPANISH": "Lucháis",
+      "ENGLISH": "You struggle"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he luchado",
+      "SPANISH": "He luchado",
       "ENGLISH": "I have struggled"
     },
     "TU": {
-      "SPANISH": "has luchado",
-      "ENGLISH": "you have struggled"
+      "SPANISH": "Has luchado",
+      "ENGLISH": "You have struggled"
     },
     "EL": {
-      "SPANISH": "ha luchado",
-      "ENGLISH": "s/he has struggled, you (formal) have struggled"
+      "SPANISH": "Ha luchado",
+      "ENGLISH": "He has struggled"
     },
     "ELLOS": {
-      "SPANISH": "han luchado",
-      "ENGLISH": "they have struggled, you (plural formal) have struggled"
+      "SPANISH": "Han luchado",
+      "ENGLISH": "They have struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos luchado",
-      "ENGLISH": "we have struggled"
+      "SPANISH": "Hemos luchado",
+      "ENGLISH": "We have struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis luchado",
-      "ENGLISH": "you (plural) have struggled"
+      "SPANISH": "Habéis luchado",
+      "ENGLISH": "You have struggled"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "luché",
+      "SPANISH": "Luché",
       "ENGLISH": "I struggled"
     },
     "TU": {
-      "SPANISH": "luchaste",
-      "ENGLISH": "you struggled"
+      "SPANISH": "Luchaste",
+      "ENGLISH": "You struggled"
     },
     "EL": {
-      "SPANISH": "luchó",
-      "ENGLISH": "s/he struggled, you (formal) struggled"
+      "SPANISH": "Luchó",
+      "ENGLISH": "He struggled"
     },
     "ELLOS": {
-      "SPANISH": "lucharon",
-      "ENGLISH": "they struggled, you (plural formal) struggled"
+      "SPANISH": "Lucharon",
+      "ENGLISH": "They struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "luchamos",
-      "ENGLISH": "we struggled"
+      "SPANISH": "Luchamos",
+      "ENGLISH": "We struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "luchasteis",
-      "ENGLISH": "you (plural) struggled"
+      "SPANISH": "Luchasteis",
+      "ENGLISH": "You struggled"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había luchado",
+      "SPANISH": "Había luchado",
       "ENGLISH": "I had struggled"
     },
     "TU": {
-      "SPANISH": "habías luchado",
-      "ENGLISH": "you had struggled"
+      "SPANISH": "Habías luchado",
+      "ENGLISH": "You had struggled"
     },
     "EL": {
-      "SPANISH": "había luchado",
-      "ENGLISH": "s/he had struggled, you (formal) had struggled"
+      "SPANISH": "Había luchado",
+      "ENGLISH": "He had struggled"
     },
     "ELLOS": {
-      "SPANISH": "habían luchado",
-      "ENGLISH": "they had struggled, you (plural formal) had struggled"
+      "SPANISH": "Habían luchado",
+      "ENGLISH": "They had struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos luchado",
-      "ENGLISH": "we had struggled"
+      "SPANISH": "Habíamos luchado",
+      "ENGLISH": "We had struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais luchado",
-      "ENGLISH": "you (plural) had struggled"
+      "SPANISH": "Habíais luchado",
+      "ENGLISH": "You had struggled"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "luché",
+      "SPANISH": "Luché",
       "ENGLISH": "I struggled"
     },
     "TU": {
-      "SPANISH": "luchaste",
-      "ENGLISH": "you struggled"
+      "SPANISH": "Luchaste",
+      "ENGLISH": "You struggled"
     },
     "EL": {
-      "SPANISH": "luchó",
-      "ENGLISH": "s/he struggled, you (formal) struggled"
+      "SPANISH": "Luchó",
+      "ENGLISH": "He struggled"
     },
     "ELLOS": {
-      "SPANISH": "lucharon",
-      "ENGLISH": "they struggled, you (plural formal) struggled"
+      "SPANISH": "Lucharon",
+      "ENGLISH": "They struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "luchamos",
-      "ENGLISH": "we struggled"
+      "SPANISH": "Luchamos",
+      "ENGLISH": "We struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "luchasteis",
-      "ENGLISH": "you (plural) struggled"
+      "SPANISH": "Luchasteis",
+      "ENGLISH": "You struggled"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "lucharé",
+      "SPANISH": "Lucharé",
       "ENGLISH": "I will struggle"
     },
     "TU": {
-      "SPANISH": "lucharás",
-      "ENGLISH": "you will struggle"
+      "SPANISH": "Lucharás",
+      "ENGLISH": "You will struggle"
     },
     "EL": {
-      "SPANISH": "luchará",
-      "ENGLISH": "s/he will struggle, you (formal) will struggle"
+      "SPANISH": "Luchará",
+      "ENGLISH": "He will struggle"
     },
     "ELLOS": {
-      "SPANISH": "lucharán",
-      "ENGLISH": "they will struggle, you (plural formal) will struggle"
+      "SPANISH": "Lucharán",
+      "ENGLISH": "They will struggle"
     },
     "NOSOTROS": {
-      "SPANISH": "lucharemos",
-      "ENGLISH": "we will struggle"
+      "SPANISH": "Lucharemos",
+      "ENGLISH": "We will struggle"
     },
     "VOSOTROS": {
-      "SPANISH": "lucharéis",
-      "ENGLISH": "you (plural) will struggle"
+      "SPANISH": "Lucharéis",
+      "ENGLISH": "You will struggle"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré luchado",
+      "SPANISH": "Habré luchado",
       "ENGLISH": "I will have struggled"
     },
     "TU": {
-      "SPANISH": "habrás luchado",
-      "ENGLISH": "you will have struggled"
+      "SPANISH": "Habrás luchado",
+      "ENGLISH": "You will have struggled"
     },
     "EL": {
-      "SPANISH": "habrá luchado",
-      "ENGLISH": "s/he will have struggled, you (formal) will have struggled"
+      "SPANISH": "Habrá luchado",
+      "ENGLISH": "He will have struggled"
     },
     "ELLOS": {
-      "SPANISH": "habrán luchado",
-      "ENGLISH": "they will have struggled, you (plural formal) will have struggled"
+      "SPANISH": "Habrán luchado",
+      "ENGLISH": "They will have struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos luchado",
-      "ENGLISH": "we will have struggled"
+      "SPANISH": "Habremos luchado",
+      "ENGLISH": "We will have struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis luchado",
-      "ENGLISH": "you (plural) will have struggled"
+      "SPANISH": "Habréis luchado",
+      "ENGLISH": "You will have struggled"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "lucharía",
+      "SPANISH": "Lucharía",
       "ENGLISH": "I would struggle"
     },
     "TU": {
-      "SPANISH": "lucharías",
-      "ENGLISH": "you would struggle"
+      "SPANISH": "Lucharías",
+      "ENGLISH": "You would struggle"
     },
     "EL": {
-      "SPANISH": "lucharía",
-      "ENGLISH": "s/he would struggle, you (formal) would struggle"
+      "SPANISH": "Lucharía",
+      "ENGLISH": "He would struggle"
     },
     "ELLOS": {
-      "SPANISH": "lucharían",
-      "ENGLISH": "they would struggle, you (plural formal) would struggle"
+      "SPANISH": "Lucharían",
+      "ENGLISH": "They would struggle"
     },
     "NOSOTROS": {
-      "SPANISH": "lucharíamos",
-      "ENGLISH": "we would struggle"
+      "SPANISH": "Lucharíamos",
+      "ENGLISH": "We would struggle"
     },
     "VOSOTROS": {
-      "SPANISH": "lucharíais",
-      "ENGLISH": "you (plural) would struggle"
+      "SPANISH": "Lucharíais",
+      "ENGLISH": "You would struggle"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría luchado",
+      "SPANISH": "Habría luchado",
       "ENGLISH": "I would have struggled"
     },
     "TU": {
-      "SPANISH": "habrías luchado",
-      "ENGLISH": "you would have struggled"
+      "SPANISH": "Habrías luchado",
+      "ENGLISH": "You would have struggled"
     },
     "EL": {
-      "SPANISH": "habría luchado",
-      "ENGLISH": "s/he would have struggled, you (formal) would have struggled"
+      "SPANISH": "Habría luchado",
+      "ENGLISH": "He would have struggled"
     },
     "ELLOS": {
-      "SPANISH": "habrían luchado",
-      "ENGLISH": "they would have struggled, you (plural formal) would have struggled"
+      "SPANISH": "Habrían luchado",
+      "ENGLISH": "They would have struggled"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos luchado",
-      "ENGLISH": "we would have struggled"
+      "SPANISH": "Habríamos luchado",
+      "ENGLISH": "We would have struggled"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais luchado",
-      "ENGLISH": "you (plural) would have struggled"
+      "SPANISH": "Habríais luchado",
+      "ENGLISH": "You would have struggled"
     }
   }
 }

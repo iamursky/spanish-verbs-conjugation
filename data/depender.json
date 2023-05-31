@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dependo",
+      "SPANISH": "Dependo",
       "ENGLISH": "I depend"
     },
     "TU": {
-      "SPANISH": "dependes",
-      "ENGLISH": "you depend"
+      "SPANISH": "Dependes",
+      "ENGLISH": "You depend"
     },
     "EL": {
-      "SPANISH": "depende",
-      "ENGLISH": "s/he depends, you (formal) depends"
+      "SPANISH": "Depende",
+      "ENGLISH": "He depends"
     },
     "ELLOS": {
-      "SPANISH": "dependen",
-      "ENGLISH": "they depend, you (plural formal) depend"
+      "SPANISH": "Dependen",
+      "ENGLISH": "They depend"
     },
     "NOSOTROS": {
-      "SPANISH": "dependemos",
-      "ENGLISH": "we depend"
+      "SPANISH": "Dependemos",
+      "ENGLISH": "We depend"
     },
     "VOSOTROS": {
-      "SPANISH": "dependéis",
-      "ENGLISH": "you (plural) depend"
+      "SPANISH": "Dependéis",
+      "ENGLISH": "You depend"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dependido",
+      "SPANISH": "He dependido",
       "ENGLISH": "I have depended"
     },
     "TU": {
-      "SPANISH": "has dependido",
-      "ENGLISH": "you have depended"
+      "SPANISH": "Has dependido",
+      "ENGLISH": "You have depended"
     },
     "EL": {
-      "SPANISH": "ha dependido",
-      "ENGLISH": "s/he has depended, you (formal) have depended"
+      "SPANISH": "Ha dependido",
+      "ENGLISH": "He has depended"
     },
     "ELLOS": {
-      "SPANISH": "han dependido",
-      "ENGLISH": "they have depended, you (plural formal) have depended"
+      "SPANISH": "Han dependido",
+      "ENGLISH": "They have depended"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dependido",
-      "ENGLISH": "we have depended"
+      "SPANISH": "Hemos dependido",
+      "ENGLISH": "We have depended"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dependido",
-      "ENGLISH": "you (plural) have depended"
+      "SPANISH": "Habéis dependido",
+      "ENGLISH": "You have depended"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dependí",
+      "SPANISH": "Dependí",
       "ENGLISH": "I depended"
     },
     "TU": {
-      "SPANISH": "dependiste",
-      "ENGLISH": "you depended"
+      "SPANISH": "Dependiste",
+      "ENGLISH": "You depended"
     },
     "EL": {
-      "SPANISH": "dependió",
-      "ENGLISH": "s/he depended, you (formal) depended"
+      "SPANISH": "Dependió",
+      "ENGLISH": "He depended"
     },
     "ELLOS": {
-      "SPANISH": "dependieron",
-      "ENGLISH": "they depended, you (plural formal) depended"
+      "SPANISH": "Dependieron",
+      "ENGLISH": "They depended"
     },
     "NOSOTROS": {
-      "SPANISH": "dependimos",
-      "ENGLISH": "we depended"
+      "SPANISH": "Dependimos",
+      "ENGLISH": "We depended"
     },
     "VOSOTROS": {
-      "SPANISH": "dependisteis",
-      "ENGLISH": "you (plural) depended"
+      "SPANISH": "Dependisteis",
+      "ENGLISH": "You depended"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dependido",
+      "SPANISH": "Había dependido",
       "ENGLISH": "I had depended"
     },
     "TU": {
-      "SPANISH": "habías dependido",
-      "ENGLISH": "you had depended"
+      "SPANISH": "Habías dependido",
+      "ENGLISH": "You had depended"
     },
     "EL": {
-      "SPANISH": "había dependido",
-      "ENGLISH": "s/he had depended, you (formal) had depended"
+      "SPANISH": "Había dependido",
+      "ENGLISH": "He had depended"
     },
     "ELLOS": {
-      "SPANISH": "habían dependido",
-      "ENGLISH": "they had depended, you (plural formal) had depended"
+      "SPANISH": "Habían dependido",
+      "ENGLISH": "They had depended"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dependido",
-      "ENGLISH": "we had depended"
+      "SPANISH": "Habíamos dependido",
+      "ENGLISH": "We had depended"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dependido",
-      "ENGLISH": "you (plural) had depended"
+      "SPANISH": "Habíais dependido",
+      "ENGLISH": "You had depended"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dependí",
+      "SPANISH": "Dependí",
       "ENGLISH": "I depended"
     },
     "TU": {
-      "SPANISH": "dependiste",
-      "ENGLISH": "you depended"
+      "SPANISH": "Dependiste",
+      "ENGLISH": "You depended"
     },
     "EL": {
-      "SPANISH": "dependió",
-      "ENGLISH": "s/he depended, you (formal) depended"
+      "SPANISH": "Dependió",
+      "ENGLISH": "He depended"
     },
     "ELLOS": {
-      "SPANISH": "dependieron",
-      "ENGLISH": "they depended, you (plural formal) depended"
+      "SPANISH": "Dependieron",
+      "ENGLISH": "They depended"
     },
     "NOSOTROS": {
-      "SPANISH": "dependimos",
-      "ENGLISH": "we depended"
+      "SPANISH": "Dependimos",
+      "ENGLISH": "We depended"
     },
     "VOSOTROS": {
-      "SPANISH": "dependisteis",
-      "ENGLISH": "you (plural) depended"
+      "SPANISH": "Dependisteis",
+      "ENGLISH": "You depended"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dependeré",
+      "SPANISH": "Dependeré",
       "ENGLISH": "I will depend"
     },
     "TU": {
-      "SPANISH": "dependerás",
-      "ENGLISH": "you will depend"
+      "SPANISH": "Dependerás",
+      "ENGLISH": "You will depend"
     },
     "EL": {
-      "SPANISH": "dependerá",
-      "ENGLISH": "s/he will depend, you (formal) will depend"
+      "SPANISH": "Dependerá",
+      "ENGLISH": "He will depend"
     },
     "ELLOS": {
-      "SPANISH": "dependerán",
-      "ENGLISH": "they will depend, you (plural formal) will depend"
+      "SPANISH": "Dependerán",
+      "ENGLISH": "They will depend"
     },
     "NOSOTROS": {
-      "SPANISH": "dependeremos",
-      "ENGLISH": "we will depend"
+      "SPANISH": "Dependeremos",
+      "ENGLISH": "We will depend"
     },
     "VOSOTROS": {
-      "SPANISH": "dependeréis",
-      "ENGLISH": "you (plural) will depend"
+      "SPANISH": "Dependeréis",
+      "ENGLISH": "You will depend"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dependido",
+      "SPANISH": "Habré dependido",
       "ENGLISH": "I will have depended"
     },
     "TU": {
-      "SPANISH": "habrás dependido",
-      "ENGLISH": "you will have depended"
+      "SPANISH": "Habrás dependido",
+      "ENGLISH": "You will have depended"
     },
     "EL": {
-      "SPANISH": "habrá dependido",
-      "ENGLISH": "s/he will have depended, you (formal) will have depended"
+      "SPANISH": "Habrá dependido",
+      "ENGLISH": "He will have depended"
     },
     "ELLOS": {
-      "SPANISH": "habrán dependido",
-      "ENGLISH": "they will have depended, you (plural formal) will have depended"
+      "SPANISH": "Habrán dependido",
+      "ENGLISH": "They will have depended"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dependido",
-      "ENGLISH": "we will have depended"
+      "SPANISH": "Habremos dependido",
+      "ENGLISH": "We will have depended"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dependido",
-      "ENGLISH": "you (plural) will have depended"
+      "SPANISH": "Habréis dependido",
+      "ENGLISH": "You will have depended"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dependería",
+      "SPANISH": "Dependería",
       "ENGLISH": "I would depend"
     },
     "TU": {
-      "SPANISH": "dependerías",
-      "ENGLISH": "you would depend"
+      "SPANISH": "Dependerías",
+      "ENGLISH": "You would depend"
     },
     "EL": {
-      "SPANISH": "dependería",
-      "ENGLISH": "s/he would depend, you (formal) would depend"
+      "SPANISH": "Dependería",
+      "ENGLISH": "He would depend"
     },
     "ELLOS": {
-      "SPANISH": "dependerían",
-      "ENGLISH": "they would depend, you (plural formal) would depend"
+      "SPANISH": "Dependerían",
+      "ENGLISH": "They would depend"
     },
     "NOSOTROS": {
-      "SPANISH": "dependeríamos",
-      "ENGLISH": "we would depend"
+      "SPANISH": "Dependeríamos",
+      "ENGLISH": "We would depend"
     },
     "VOSOTROS": {
-      "SPANISH": "dependeríais",
-      "ENGLISH": "you (plural) would depend"
+      "SPANISH": "Dependeríais",
+      "ENGLISH": "You would depend"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dependido",
+      "SPANISH": "Habría dependido",
       "ENGLISH": "I would have depended"
     },
     "TU": {
-      "SPANISH": "habrías dependido",
-      "ENGLISH": "you would have depended"
+      "SPANISH": "Habrías dependido",
+      "ENGLISH": "You would have depended"
     },
     "EL": {
-      "SPANISH": "habría dependido",
-      "ENGLISH": "s/he would have depended, you (formal) would have depended"
+      "SPANISH": "Habría dependido",
+      "ENGLISH": "He would have depended"
     },
     "ELLOS": {
-      "SPANISH": "habrían dependido",
-      "ENGLISH": "they would have depended, you (plural formal) would have depended"
+      "SPANISH": "Habrían dependido",
+      "ENGLISH": "They would have depended"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dependido",
-      "ENGLISH": "we would have depended"
+      "SPANISH": "Habríamos dependido",
+      "ENGLISH": "We would have depended"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dependido",
-      "ENGLISH": "you (plural) would have depended"
+      "SPANISH": "Habríais dependido",
+      "ENGLISH": "You would have depended"
     }
   }
 }

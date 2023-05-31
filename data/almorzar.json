@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "almuerzo ",
+      "SPANISH": "Almuerzo ",
       "ENGLISH": "I lunch"
     },
     "TU": {
-      "SPANISH": "almuerzas ",
-      "ENGLISH": "you lunch"
+      "SPANISH": "Almuerzas ",
+      "ENGLISH": "You lunch"
     },
     "EL": {
-      "SPANISH": "almuerza ",
-      "ENGLISH": "s/he lunches, you (formal) lunches"
+      "SPANISH": "Almuerza ",
+      "ENGLISH": "He lunches"
     },
     "ELLOS": {
-      "SPANISH": "almuerzan ",
-      "ENGLISH": "they lunch, you (plural formal) lunch"
+      "SPANISH": "Almuerzan ",
+      "ENGLISH": "They lunch"
     },
     "NOSOTROS": {
-      "SPANISH": "almorzamos",
-      "ENGLISH": "we lunch"
+      "SPANISH": "Almorzamos",
+      "ENGLISH": "We lunch"
     },
     "VOSOTROS": {
-      "SPANISH": "almorzáis",
-      "ENGLISH": "you (plural) lunch"
+      "SPANISH": "Almorzáis",
+      "ENGLISH": "You lunch"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he almorzado",
+      "SPANISH": "He almorzado",
       "ENGLISH": "I have lunched"
     },
     "TU": {
-      "SPANISH": "has almorzado",
-      "ENGLISH": "you have lunched"
+      "SPANISH": "Has almorzado",
+      "ENGLISH": "You have lunched"
     },
     "EL": {
-      "SPANISH": "ha almorzado",
-      "ENGLISH": "s/he has lunched, you (formal) have lunched"
+      "SPANISH": "Ha almorzado",
+      "ENGLISH": "He has lunched"
     },
     "ELLOS": {
-      "SPANISH": "han almorzado",
-      "ENGLISH": "they have lunched, you (plural formal) have lunched"
+      "SPANISH": "Han almorzado",
+      "ENGLISH": "They have lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos almorzado",
-      "ENGLISH": "we have lunched"
+      "SPANISH": "Hemos almorzado",
+      "ENGLISH": "We have lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis almorzado",
-      "ENGLISH": "you (plural) have lunched"
+      "SPANISH": "Habéis almorzado",
+      "ENGLISH": "You have lunched"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "almorcé ",
+      "SPANISH": "Almorcé ",
       "ENGLISH": "I lunched"
     },
     "TU": {
-      "SPANISH": "almorzaste",
-      "ENGLISH": "you lunched"
+      "SPANISH": "Almorzaste",
+      "ENGLISH": "You lunched"
     },
     "EL": {
-      "SPANISH": "almorzó",
-      "ENGLISH": "s/he lunched, you (formal) lunched"
+      "SPANISH": "Almorzó",
+      "ENGLISH": "He lunched"
     },
     "ELLOS": {
-      "SPANISH": "almorzaron",
-      "ENGLISH": "they lunched, you (plural formal) lunched"
+      "SPANISH": "Almorzaron",
+      "ENGLISH": "They lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "almorzamos",
-      "ENGLISH": "we lunched"
+      "SPANISH": "Almorzamos",
+      "ENGLISH": "We lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "almorzasteis",
-      "ENGLISH": "you (plural) lunched"
+      "SPANISH": "Almorzasteis",
+      "ENGLISH": "You lunched"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había almorzado",
+      "SPANISH": "Había almorzado",
       "ENGLISH": "I had lunched"
     },
     "TU": {
-      "SPANISH": "habías almorzado",
-      "ENGLISH": "you had lunched"
+      "SPANISH": "Habías almorzado",
+      "ENGLISH": "You had lunched"
     },
     "EL": {
-      "SPANISH": "había almorzado",
-      "ENGLISH": "s/he had lunched, you (formal) had lunched"
+      "SPANISH": "Había almorzado",
+      "ENGLISH": "He had lunched"
     },
     "ELLOS": {
-      "SPANISH": "habían almorzado",
-      "ENGLISH": "they had lunched, you (plural formal) had lunched"
+      "SPANISH": "Habían almorzado",
+      "ENGLISH": "They had lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos almorzado",
-      "ENGLISH": "we had lunched"
+      "SPANISH": "Habíamos almorzado",
+      "ENGLISH": "We had lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais almorzado",
-      "ENGLISH": "you (plural) had lunched"
+      "SPANISH": "Habíais almorzado",
+      "ENGLISH": "You had lunched"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "almorcé ",
+      "SPANISH": "Almorcé ",
       "ENGLISH": "I lunched"
     },
     "TU": {
-      "SPANISH": "almorzaste",
-      "ENGLISH": "you lunched"
+      "SPANISH": "Almorzaste",
+      "ENGLISH": "You lunched"
     },
     "EL": {
-      "SPANISH": "almorzó",
-      "ENGLISH": "s/he lunched, you (formal) lunched"
+      "SPANISH": "Almorzó",
+      "ENGLISH": "He lunched"
     },
     "ELLOS": {
-      "SPANISH": "almorzaron",
-      "ENGLISH": "they lunched, you (plural formal) lunched"
+      "SPANISH": "Almorzaron",
+      "ENGLISH": "They lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "almorzamos",
-      "ENGLISH": "we lunched"
+      "SPANISH": "Almorzamos",
+      "ENGLISH": "We lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "almorzasteis",
-      "ENGLISH": "you (plural) lunched"
+      "SPANISH": "Almorzasteis",
+      "ENGLISH": "You lunched"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "almorzaré",
+      "SPANISH": "Almorzaré",
       "ENGLISH": "I will lunch"
     },
     "TU": {
-      "SPANISH": "almorzarás",
-      "ENGLISH": "you will lunch"
+      "SPANISH": "Almorzarás",
+      "ENGLISH": "You will lunch"
     },
     "EL": {
-      "SPANISH": "almorzará",
-      "ENGLISH": "s/he will lunch, you (formal) will lunch"
+      "SPANISH": "Almorzará",
+      "ENGLISH": "He will lunch"
     },
     "ELLOS": {
-      "SPANISH": "almorzarán",
-      "ENGLISH": "they will lunch, you (plural formal) will lunch"
+      "SPANISH": "Almorzarán",
+      "ENGLISH": "They will lunch"
     },
     "NOSOTROS": {
-      "SPANISH": "almorzaremos",
-      "ENGLISH": "we will lunch"
+      "SPANISH": "Almorzaremos",
+      "ENGLISH": "We will lunch"
     },
     "VOSOTROS": {
-      "SPANISH": "almorzaréis",
-      "ENGLISH": "you (plural) will lunch"
+      "SPANISH": "Almorzaréis",
+      "ENGLISH": "You will lunch"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré almorzado",
+      "SPANISH": "Habré almorzado",
       "ENGLISH": "I will have lunched"
     },
     "TU": {
-      "SPANISH": "habrás almorzado",
-      "ENGLISH": "you will have lunched"
+      "SPANISH": "Habrás almorzado",
+      "ENGLISH": "You will have lunched"
     },
     "EL": {
-      "SPANISH": "habrá almorzado",
-      "ENGLISH": "s/he will have lunched, you (formal) will have lunched"
+      "SPANISH": "Habrá almorzado",
+      "ENGLISH": "He will have lunched"
     },
     "ELLOS": {
-      "SPANISH": "habrán almorzado",
-      "ENGLISH": "they will have lunched, you (plural formal) will have lunched"
+      "SPANISH": "Habrán almorzado",
+      "ENGLISH": "They will have lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos almorzado",
-      "ENGLISH": "we will have lunched"
+      "SPANISH": "Habremos almorzado",
+      "ENGLISH": "We will have lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis almorzado",
-      "ENGLISH": "you (plural) will have lunched"
+      "SPANISH": "Habréis almorzado",
+      "ENGLISH": "You will have lunched"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "almorzaría",
+      "SPANISH": "Almorzaría",
       "ENGLISH": "I would lunch"
     },
     "TU": {
-      "SPANISH": "almorzarías",
-      "ENGLISH": "you would lunch"
+      "SPANISH": "Almorzarías",
+      "ENGLISH": "You would lunch"
     },
     "EL": {
-      "SPANISH": "almorzaría",
-      "ENGLISH": "s/he would lunch, you (formal) would lunch"
+      "SPANISH": "Almorzaría",
+      "ENGLISH": "He would lunch"
     },
     "ELLOS": {
-      "SPANISH": "almorzarían",
-      "ENGLISH": "they would lunch, you (plural formal) would lunch"
+      "SPANISH": "Almorzarían",
+      "ENGLISH": "They would lunch"
     },
     "NOSOTROS": {
-      "SPANISH": "almorzaríamos",
-      "ENGLISH": "we would lunch"
+      "SPANISH": "Almorzaríamos",
+      "ENGLISH": "We would lunch"
     },
     "VOSOTROS": {
-      "SPANISH": "almorzaríais",
-      "ENGLISH": "you (plural) would lunch"
+      "SPANISH": "Almorzaríais",
+      "ENGLISH": "You would lunch"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría almorzado",
+      "SPANISH": "Habría almorzado",
       "ENGLISH": "I would have lunched"
     },
     "TU": {
-      "SPANISH": "habrías almorzado",
-      "ENGLISH": "you would have lunched"
+      "SPANISH": "Habrías almorzado",
+      "ENGLISH": "You would have lunched"
     },
     "EL": {
-      "SPANISH": "habría almorzado",
-      "ENGLISH": "s/he would have lunched, you (formal) would have lunched"
+      "SPANISH": "Habría almorzado",
+      "ENGLISH": "He would have lunched"
     },
     "ELLOS": {
-      "SPANISH": "habrían almorzado",
-      "ENGLISH": "they would have lunched, you (plural formal) would have lunched"
+      "SPANISH": "Habrían almorzado",
+      "ENGLISH": "They would have lunched"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos almorzado",
-      "ENGLISH": "we would have lunched"
+      "SPANISH": "Habríamos almorzado",
+      "ENGLISH": "We would have lunched"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais almorzado",
-      "ENGLISH": "you (plural) would have lunched"
+      "SPANISH": "Habríais almorzado",
+      "ENGLISH": "You would have lunched"
     }
   }
 }

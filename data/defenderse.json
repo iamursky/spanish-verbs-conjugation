@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me defiendo ",
+      "SPANISH": "Me defiendo ",
       "ENGLISH": "I defend"
     },
     "TU": {
-      "SPANISH": "te defiendes ",
-      "ENGLISH": "you defend"
+      "SPANISH": "Te defiendes ",
+      "ENGLISH": "You defend"
     },
     "EL": {
-      "SPANISH": "se defiende ",
-      "ENGLISH": "s/he defends, you (formal) defends"
+      "SPANISH": "Se defiende ",
+      "ENGLISH": "He defends"
     },
     "ELLOS": {
-      "SPANISH": "se defienden ",
-      "ENGLISH": "they defend, you (plural formal) defend"
+      "SPANISH": "Se defienden ",
+      "ENGLISH": "They defend"
     },
     "NOSOTROS": {
-      "SPANISH": "nos defendemos",
-      "ENGLISH": "we defend"
+      "SPANISH": "Nos defendemos",
+      "ENGLISH": "We defend"
     },
     "VOSOTROS": {
-      "SPANISH": "os defendéis",
-      "ENGLISH": "you (plural) defend"
+      "SPANISH": "Os defendéis",
+      "ENGLISH": "You defend"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he defendido",
+      "SPANISH": "Me he defendido",
       "ENGLISH": "I have defended"
     },
     "TU": {
-      "SPANISH": "te has defendido",
-      "ENGLISH": "you have defended"
+      "SPANISH": "Te has defendido",
+      "ENGLISH": "You have defended"
     },
     "EL": {
-      "SPANISH": "se ha defendido",
-      "ENGLISH": "s/he has defended, you (formal) have defended"
+      "SPANISH": "Se ha defendido",
+      "ENGLISH": "He has defended"
     },
     "ELLOS": {
-      "SPANISH": "se han defendido",
-      "ENGLISH": "they have defended, you (plural formal) have defended"
+      "SPANISH": "Se han defendido",
+      "ENGLISH": "They have defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos defendido",
-      "ENGLISH": "we have defended"
+      "SPANISH": "Nos hemos defendido",
+      "ENGLISH": "We have defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis defendido",
-      "ENGLISH": "you (plural) have defended"
+      "SPANISH": "Os habéis defendido",
+      "ENGLISH": "You have defended"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me defendí",
+      "SPANISH": "Me defendí",
       "ENGLISH": "I defended"
     },
     "TU": {
-      "SPANISH": "te defendiste",
-      "ENGLISH": "you defended"
+      "SPANISH": "Te defendiste",
+      "ENGLISH": "You defended"
     },
     "EL": {
-      "SPANISH": "se defendió",
-      "ENGLISH": "s/he defended, you (formal) defended"
+      "SPANISH": "Se defendió",
+      "ENGLISH": "He defended"
     },
     "ELLOS": {
-      "SPANISH": "se defendieron",
-      "ENGLISH": "they defended, you (plural formal) defended"
+      "SPANISH": "Se defendieron",
+      "ENGLISH": "They defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos defendimos",
-      "ENGLISH": "we defended"
+      "SPANISH": "Nos defendimos",
+      "ENGLISH": "We defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os defendisteis",
-      "ENGLISH": "you (plural) defended"
+      "SPANISH": "Os defendisteis",
+      "ENGLISH": "You defended"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había defendido",
+      "SPANISH": "Me había defendido",
       "ENGLISH": "I had defended"
     },
     "TU": {
-      "SPANISH": "te habías defendido",
-      "ENGLISH": "you had defended"
+      "SPANISH": "Te habías defendido",
+      "ENGLISH": "You had defended"
     },
     "EL": {
-      "SPANISH": "se había defendido",
-      "ENGLISH": "s/he had defended, you (formal) had defended"
+      "SPANISH": "Se había defendido",
+      "ENGLISH": "He had defended"
     },
     "ELLOS": {
-      "SPANISH": "se habían defendido",
-      "ENGLISH": "they had defended, you (plural formal) had defended"
+      "SPANISH": "Se habían defendido",
+      "ENGLISH": "They had defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos defendido",
-      "ENGLISH": "we had defended"
+      "SPANISH": "Nos habíamos defendido",
+      "ENGLISH": "We had defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais defendido",
-      "ENGLISH": "you (plural) had defended"
+      "SPANISH": "Os habíais defendido",
+      "ENGLISH": "You had defended"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me defendí",
+      "SPANISH": "Me defendí",
       "ENGLISH": "I defended"
     },
     "TU": {
-      "SPANISH": "te defendiste",
-      "ENGLISH": "you defended"
+      "SPANISH": "Te defendiste",
+      "ENGLISH": "You defended"
     },
     "EL": {
-      "SPANISH": "se defendió",
-      "ENGLISH": "s/he defended, you (formal) defended"
+      "SPANISH": "Se defendió",
+      "ENGLISH": "He defended"
     },
     "ELLOS": {
-      "SPANISH": "se defendieron",
-      "ENGLISH": "they defended, you (plural formal) defended"
+      "SPANISH": "Se defendieron",
+      "ENGLISH": "They defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos defendimos",
-      "ENGLISH": "we defended"
+      "SPANISH": "Nos defendimos",
+      "ENGLISH": "We defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os defendisteis",
-      "ENGLISH": "you (plural) defended"
+      "SPANISH": "Os defendisteis",
+      "ENGLISH": "You defended"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me defenderé",
+      "SPANISH": "Me defenderé",
       "ENGLISH": "I will defend"
     },
     "TU": {
-      "SPANISH": "te defenderás",
-      "ENGLISH": "you will defend"
+      "SPANISH": "Te defenderás",
+      "ENGLISH": "You will defend"
     },
     "EL": {
-      "SPANISH": "se defenderá",
-      "ENGLISH": "s/he will defend, you (formal) will defend"
+      "SPANISH": "Se defenderá",
+      "ENGLISH": "He will defend"
     },
     "ELLOS": {
-      "SPANISH": "se defenderán",
-      "ENGLISH": "they will defend, you (plural formal) will defend"
+      "SPANISH": "Se defenderán",
+      "ENGLISH": "They will defend"
     },
     "NOSOTROS": {
-      "SPANISH": "nos defenderemos",
-      "ENGLISH": "we will defend"
+      "SPANISH": "Nos defenderemos",
+      "ENGLISH": "We will defend"
     },
     "VOSOTROS": {
-      "SPANISH": "os defenderéis",
-      "ENGLISH": "you (plural) will defend"
+      "SPANISH": "Os defenderéis",
+      "ENGLISH": "You will defend"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré defendido",
+      "SPANISH": "Me habré defendido",
       "ENGLISH": "I will have defended"
     },
     "TU": {
-      "SPANISH": "te habrás defendido",
-      "ENGLISH": "you will have defended"
+      "SPANISH": "Te habrás defendido",
+      "ENGLISH": "You will have defended"
     },
     "EL": {
-      "SPANISH": "se habrá defendido",
-      "ENGLISH": "s/he will have defended, you (formal) will have defended"
+      "SPANISH": "Se habrá defendido",
+      "ENGLISH": "He will have defended"
     },
     "ELLOS": {
-      "SPANISH": "se habrán defendido",
-      "ENGLISH": "they will have defended, you (plural formal) will have defended"
+      "SPANISH": "Se habrán defendido",
+      "ENGLISH": "They will have defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos defendido",
-      "ENGLISH": "we will have defended"
+      "SPANISH": "Nos habremos defendido",
+      "ENGLISH": "We will have defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis defendido",
-      "ENGLISH": "you (plural) will have defended"
+      "SPANISH": "Os habréis defendido",
+      "ENGLISH": "You will have defended"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me defendería",
+      "SPANISH": "Me defendería",
       "ENGLISH": "I would defend"
     },
     "TU": {
-      "SPANISH": "te defenderías",
-      "ENGLISH": "you would defend"
+      "SPANISH": "Te defenderías",
+      "ENGLISH": "You would defend"
     },
     "EL": {
-      "SPANISH": "se defendería",
-      "ENGLISH": "s/he would defend, you (formal) would defend"
+      "SPANISH": "Se defendería",
+      "ENGLISH": "He would defend"
     },
     "ELLOS": {
-      "SPANISH": "se defenderían",
-      "ENGLISH": "they would defend, you (plural formal) would defend"
+      "SPANISH": "Se defenderían",
+      "ENGLISH": "They would defend"
     },
     "NOSOTROS": {
-      "SPANISH": "nos defenderíamos",
-      "ENGLISH": "we would defend"
+      "SPANISH": "Nos defenderíamos",
+      "ENGLISH": "We would defend"
     },
     "VOSOTROS": {
-      "SPANISH": "os defenderíais",
-      "ENGLISH": "you (plural) would defend"
+      "SPANISH": "Os defenderíais",
+      "ENGLISH": "You would defend"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría defendido",
+      "SPANISH": "Me habría defendido",
       "ENGLISH": "I would have defended"
     },
     "TU": {
-      "SPANISH": "te habrías defendido",
-      "ENGLISH": "you would have defended"
+      "SPANISH": "Te habrías defendido",
+      "ENGLISH": "You would have defended"
     },
     "EL": {
-      "SPANISH": "se habría defendido",
-      "ENGLISH": "s/he would have defended, you (formal) would have defended"
+      "SPANISH": "Se habría defendido",
+      "ENGLISH": "He would have defended"
     },
     "ELLOS": {
-      "SPANISH": "se habrían defendido",
-      "ENGLISH": "they would have defended, you (plural formal) would have defended"
+      "SPANISH": "Se habrían defendido",
+      "ENGLISH": "They would have defended"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos defendido",
-      "ENGLISH": "we would have defended"
+      "SPANISH": "Nos habríamos defendido",
+      "ENGLISH": "We would have defended"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais defendido",
-      "ENGLISH": "you (plural) would have defended"
+      "SPANISH": "Os habríais defendido",
+      "ENGLISH": "You would have defended"
     }
   }
 }

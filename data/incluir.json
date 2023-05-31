@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "incluyo ",
+      "SPANISH": "Incluyo ",
       "ENGLISH": "I include"
     },
     "TU": {
-      "SPANISH": "incluyes ",
-      "ENGLISH": "you include"
+      "SPANISH": "Incluyes ",
+      "ENGLISH": "You include"
     },
     "EL": {
-      "SPANISH": "incluye ",
-      "ENGLISH": "s/he includes, you (formal) includes"
+      "SPANISH": "Incluye ",
+      "ENGLISH": "He includes"
     },
     "ELLOS": {
-      "SPANISH": "incluyen ",
-      "ENGLISH": "they include, you (plural formal) include"
+      "SPANISH": "Incluyen ",
+      "ENGLISH": "They include"
     },
     "NOSOTROS": {
-      "SPANISH": "incluimos",
-      "ENGLISH": "we include"
+      "SPANISH": "Incluimos",
+      "ENGLISH": "We include"
     },
     "VOSOTROS": {
-      "SPANISH": "incluís",
-      "ENGLISH": "you (plural) include"
+      "SPANISH": "Incluís",
+      "ENGLISH": "You include"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he incluido",
+      "SPANISH": "He incluido",
       "ENGLISH": "I have included"
     },
     "TU": {
-      "SPANISH": "has incluido",
-      "ENGLISH": "you have included"
+      "SPANISH": "Has incluido",
+      "ENGLISH": "You have included"
     },
     "EL": {
-      "SPANISH": "ha incluido",
-      "ENGLISH": "s/he has included, you (formal) have included"
+      "SPANISH": "Ha incluido",
+      "ENGLISH": "He has included"
     },
     "ELLOS": {
-      "SPANISH": "han incluido",
-      "ENGLISH": "they have included, you (plural formal) have included"
+      "SPANISH": "Han incluido",
+      "ENGLISH": "They have included"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos incluido",
-      "ENGLISH": "we have included"
+      "SPANISH": "Hemos incluido",
+      "ENGLISH": "We have included"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis incluido",
-      "ENGLISH": "you (plural) have included"
+      "SPANISH": "Habéis incluido",
+      "ENGLISH": "You have included"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "incluí",
+      "SPANISH": "Incluí",
       "ENGLISH": "I included"
     },
     "TU": {
-      "SPANISH": "incluiste",
-      "ENGLISH": "you included"
+      "SPANISH": "Incluiste",
+      "ENGLISH": "You included"
     },
     "EL": {
-      "SPANISH": "incluyó ",
-      "ENGLISH": "s/he included, you (formal) included"
+      "SPANISH": "Incluyó ",
+      "ENGLISH": "He included"
     },
     "ELLOS": {
-      "SPANISH": "incluyeron ",
-      "ENGLISH": "they included, you (plural formal) included"
+      "SPANISH": "Incluyeron ",
+      "ENGLISH": "They included"
     },
     "NOSOTROS": {
-      "SPANISH": "incluimos",
-      "ENGLISH": "we included"
+      "SPANISH": "Incluimos",
+      "ENGLISH": "We included"
     },
     "VOSOTROS": {
-      "SPANISH": "incluisteis",
-      "ENGLISH": "you (plural) included"
+      "SPANISH": "Incluisteis",
+      "ENGLISH": "You included"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había incluido",
+      "SPANISH": "Había incluido",
       "ENGLISH": "I had included"
     },
     "TU": {
-      "SPANISH": "habías incluido",
-      "ENGLISH": "you had included"
+      "SPANISH": "Habías incluido",
+      "ENGLISH": "You had included"
     },
     "EL": {
-      "SPANISH": "había incluido",
-      "ENGLISH": "s/he had included, you (formal) had included"
+      "SPANISH": "Había incluido",
+      "ENGLISH": "He had included"
     },
     "ELLOS": {
-      "SPANISH": "habían incluido",
-      "ENGLISH": "they had included, you (plural formal) had included"
+      "SPANISH": "Habían incluido",
+      "ENGLISH": "They had included"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos incluido",
-      "ENGLISH": "we had included"
+      "SPANISH": "Habíamos incluido",
+      "ENGLISH": "We had included"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais incluido",
-      "ENGLISH": "you (plural) had included"
+      "SPANISH": "Habíais incluido",
+      "ENGLISH": "You had included"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "incluí",
+      "SPANISH": "Incluí",
       "ENGLISH": "I included"
     },
     "TU": {
-      "SPANISH": "incluiste",
-      "ENGLISH": "you included"
+      "SPANISH": "Incluiste",
+      "ENGLISH": "You included"
     },
     "EL": {
-      "SPANISH": "incluyó ",
-      "ENGLISH": "s/he included, you (formal) included"
+      "SPANISH": "Incluyó ",
+      "ENGLISH": "He included"
     },
     "ELLOS": {
-      "SPANISH": "incluyeron ",
-      "ENGLISH": "they included, you (plural formal) included"
+      "SPANISH": "Incluyeron ",
+      "ENGLISH": "They included"
     },
     "NOSOTROS": {
-      "SPANISH": "incluimos",
-      "ENGLISH": "we included"
+      "SPANISH": "Incluimos",
+      "ENGLISH": "We included"
     },
     "VOSOTROS": {
-      "SPANISH": "incluisteis",
-      "ENGLISH": "you (plural) included"
+      "SPANISH": "Incluisteis",
+      "ENGLISH": "You included"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "incluiré",
+      "SPANISH": "Incluiré",
       "ENGLISH": "I will include"
     },
     "TU": {
-      "SPANISH": "incluirás",
-      "ENGLISH": "you will include"
+      "SPANISH": "Incluirás",
+      "ENGLISH": "You will include"
     },
     "EL": {
-      "SPANISH": "incluirá",
-      "ENGLISH": "s/he will include, you (formal) will include"
+      "SPANISH": "Incluirá",
+      "ENGLISH": "He will include"
     },
     "ELLOS": {
-      "SPANISH": "incluirán",
-      "ENGLISH": "they will include, you (plural formal) will include"
+      "SPANISH": "Incluirán",
+      "ENGLISH": "They will include"
     },
     "NOSOTROS": {
-      "SPANISH": "incluiremos",
-      "ENGLISH": "we will include"
+      "SPANISH": "Incluiremos",
+      "ENGLISH": "We will include"
     },
     "VOSOTROS": {
-      "SPANISH": "incluiréis",
-      "ENGLISH": "you (plural) will include"
+      "SPANISH": "Incluiréis",
+      "ENGLISH": "You will include"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré incluido",
+      "SPANISH": "Habré incluido",
       "ENGLISH": "I will have included"
     },
     "TU": {
-      "SPANISH": "habrás incluido",
-      "ENGLISH": "you will have included"
+      "SPANISH": "Habrás incluido",
+      "ENGLISH": "You will have included"
     },
     "EL": {
-      "SPANISH": "habrá incluido",
-      "ENGLISH": "s/he will have included, you (formal) will have included"
+      "SPANISH": "Habrá incluido",
+      "ENGLISH": "He will have included"
     },
     "ELLOS": {
-      "SPANISH": "habrán incluido",
-      "ENGLISH": "they will have included, you (plural formal) will have included"
+      "SPANISH": "Habrán incluido",
+      "ENGLISH": "They will have included"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos incluido",
-      "ENGLISH": "we will have included"
+      "SPANISH": "Habremos incluido",
+      "ENGLISH": "We will have included"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis incluido",
-      "ENGLISH": "you (plural) will have included"
+      "SPANISH": "Habréis incluido",
+      "ENGLISH": "You will have included"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "incluiría",
+      "SPANISH": "Incluiría",
       "ENGLISH": "I would include"
     },
     "TU": {
-      "SPANISH": "incluirías",
-      "ENGLISH": "you would include"
+      "SPANISH": "Incluirías",
+      "ENGLISH": "You would include"
     },
     "EL": {
-      "SPANISH": "incluiría",
-      "ENGLISH": "s/he would include, you (formal) would include"
+      "SPANISH": "Incluiría",
+      "ENGLISH": "He would include"
     },
     "ELLOS": {
-      "SPANISH": "incluirían",
-      "ENGLISH": "they would include, you (plural formal) would include"
+      "SPANISH": "Incluirían",
+      "ENGLISH": "They would include"
     },
     "NOSOTROS": {
-      "SPANISH": "incluiríamos",
-      "ENGLISH": "we would include"
+      "SPANISH": "Incluiríamos",
+      "ENGLISH": "We would include"
     },
     "VOSOTROS": {
-      "SPANISH": "incluiríais",
-      "ENGLISH": "you (plural) would include"
+      "SPANISH": "Incluiríais",
+      "ENGLISH": "You would include"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría incluido",
+      "SPANISH": "Habría incluido",
       "ENGLISH": "I would have included"
     },
     "TU": {
-      "SPANISH": "habrías incluido",
-      "ENGLISH": "you would have included"
+      "SPANISH": "Habrías incluido",
+      "ENGLISH": "You would have included"
     },
     "EL": {
-      "SPANISH": "habría incluido",
-      "ENGLISH": "s/he would have included, you (formal) would have included"
+      "SPANISH": "Habría incluido",
+      "ENGLISH": "He would have included"
     },
     "ELLOS": {
-      "SPANISH": "habrían incluido",
-      "ENGLISH": "they would have included, you (plural formal) would have included"
+      "SPANISH": "Habrían incluido",
+      "ENGLISH": "They would have included"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos incluido",
-      "ENGLISH": "we would have included"
+      "SPANISH": "Habríamos incluido",
+      "ENGLISH": "We would have included"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais incluido",
-      "ENGLISH": "you (plural) would have included"
+      "SPANISH": "Habríais incluido",
+      "ENGLISH": "You would have included"
     }
   }
 }

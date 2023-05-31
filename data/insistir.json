@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "insisto",
+      "SPANISH": "Insisto",
       "ENGLISH": "I insist"
     },
     "TU": {
-      "SPANISH": "insistes",
-      "ENGLISH": "you insist"
+      "SPANISH": "Insistes",
+      "ENGLISH": "You insist"
     },
     "EL": {
-      "SPANISH": "insiste",
-      "ENGLISH": "s/he insists, you (formal) insists"
+      "SPANISH": "Insiste",
+      "ENGLISH": "He insists"
     },
     "ELLOS": {
-      "SPANISH": "insisten",
-      "ENGLISH": "they insist, you (plural formal) insist"
+      "SPANISH": "Insisten",
+      "ENGLISH": "They insist"
     },
     "NOSOTROS": {
-      "SPANISH": "insistimos",
-      "ENGLISH": "we insist"
+      "SPANISH": "Insistimos",
+      "ENGLISH": "We insist"
     },
     "VOSOTROS": {
-      "SPANISH": "insistís",
-      "ENGLISH": "you (plural) insist"
+      "SPANISH": "Insistís",
+      "ENGLISH": "You insist"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he insistido",
+      "SPANISH": "He insistido",
       "ENGLISH": "I have insisted"
     },
     "TU": {
-      "SPANISH": "has insistido",
-      "ENGLISH": "you have insisted"
+      "SPANISH": "Has insistido",
+      "ENGLISH": "You have insisted"
     },
     "EL": {
-      "SPANISH": "ha insistido",
-      "ENGLISH": "s/he has insisted, you (formal) have insisted"
+      "SPANISH": "Ha insistido",
+      "ENGLISH": "He has insisted"
     },
     "ELLOS": {
-      "SPANISH": "han insistido",
-      "ENGLISH": "they have insisted, you (plural formal) have insisted"
+      "SPANISH": "Han insistido",
+      "ENGLISH": "They have insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos insistido",
-      "ENGLISH": "we have insisted"
+      "SPANISH": "Hemos insistido",
+      "ENGLISH": "We have insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis insistido",
-      "ENGLISH": "you (plural) have insisted"
+      "SPANISH": "Habéis insistido",
+      "ENGLISH": "You have insisted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "insistí",
+      "SPANISH": "Insistí",
       "ENGLISH": "I insisted"
     },
     "TU": {
-      "SPANISH": "insististe",
-      "ENGLISH": "you insisted"
+      "SPANISH": "Insististe",
+      "ENGLISH": "You insisted"
     },
     "EL": {
-      "SPANISH": "insistió",
-      "ENGLISH": "s/he insisted, you (formal) insisted"
+      "SPANISH": "Insistió",
+      "ENGLISH": "He insisted"
     },
     "ELLOS": {
-      "SPANISH": "insistieron",
-      "ENGLISH": "they insisted, you (plural formal) insisted"
+      "SPANISH": "Insistieron",
+      "ENGLISH": "They insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "insistimos",
-      "ENGLISH": "we insisted"
+      "SPANISH": "Insistimos",
+      "ENGLISH": "We insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "insististeis",
-      "ENGLISH": "you (plural) insisted"
+      "SPANISH": "Insististeis",
+      "ENGLISH": "You insisted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había insistido",
+      "SPANISH": "Había insistido",
       "ENGLISH": "I had insisted"
     },
     "TU": {
-      "SPANISH": "habías insistido",
-      "ENGLISH": "you had insisted"
+      "SPANISH": "Habías insistido",
+      "ENGLISH": "You had insisted"
     },
     "EL": {
-      "SPANISH": "había insistido",
-      "ENGLISH": "s/he had insisted, you (formal) had insisted"
+      "SPANISH": "Había insistido",
+      "ENGLISH": "He had insisted"
     },
     "ELLOS": {
-      "SPANISH": "habían insistido",
-      "ENGLISH": "they had insisted, you (plural formal) had insisted"
+      "SPANISH": "Habían insistido",
+      "ENGLISH": "They had insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos insistido",
-      "ENGLISH": "we had insisted"
+      "SPANISH": "Habíamos insistido",
+      "ENGLISH": "We had insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais insistido",
-      "ENGLISH": "you (plural) had insisted"
+      "SPANISH": "Habíais insistido",
+      "ENGLISH": "You had insisted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "insistí",
+      "SPANISH": "Insistí",
       "ENGLISH": "I insisted"
     },
     "TU": {
-      "SPANISH": "insististe",
-      "ENGLISH": "you insisted"
+      "SPANISH": "Insististe",
+      "ENGLISH": "You insisted"
     },
     "EL": {
-      "SPANISH": "insistió",
-      "ENGLISH": "s/he insisted, you (formal) insisted"
+      "SPANISH": "Insistió",
+      "ENGLISH": "He insisted"
     },
     "ELLOS": {
-      "SPANISH": "insistieron",
-      "ENGLISH": "they insisted, you (plural formal) insisted"
+      "SPANISH": "Insistieron",
+      "ENGLISH": "They insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "insistimos",
-      "ENGLISH": "we insisted"
+      "SPANISH": "Insistimos",
+      "ENGLISH": "We insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "insististeis",
-      "ENGLISH": "you (plural) insisted"
+      "SPANISH": "Insististeis",
+      "ENGLISH": "You insisted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "insistiré",
+      "SPANISH": "Insistiré",
       "ENGLISH": "I will insist"
     },
     "TU": {
-      "SPANISH": "insistirás",
-      "ENGLISH": "you will insist"
+      "SPANISH": "Insistirás",
+      "ENGLISH": "You will insist"
     },
     "EL": {
-      "SPANISH": "insistirá",
-      "ENGLISH": "s/he will insist, you (formal) will insist"
+      "SPANISH": "Insistirá",
+      "ENGLISH": "He will insist"
     },
     "ELLOS": {
-      "SPANISH": "insistirán",
-      "ENGLISH": "they will insist, you (plural formal) will insist"
+      "SPANISH": "Insistirán",
+      "ENGLISH": "They will insist"
     },
     "NOSOTROS": {
-      "SPANISH": "insistiremos",
-      "ENGLISH": "we will insist"
+      "SPANISH": "Insistiremos",
+      "ENGLISH": "We will insist"
     },
     "VOSOTROS": {
-      "SPANISH": "insistiréis",
-      "ENGLISH": "you (plural) will insist"
+      "SPANISH": "Insistiréis",
+      "ENGLISH": "You will insist"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré insistido",
+      "SPANISH": "Habré insistido",
       "ENGLISH": "I will have insisted"
     },
     "TU": {
-      "SPANISH": "habrás insistido",
-      "ENGLISH": "you will have insisted"
+      "SPANISH": "Habrás insistido",
+      "ENGLISH": "You will have insisted"
     },
     "EL": {
-      "SPANISH": "habrá insistido",
-      "ENGLISH": "s/he will have insisted, you (formal) will have insisted"
+      "SPANISH": "Habrá insistido",
+      "ENGLISH": "He will have insisted"
     },
     "ELLOS": {
-      "SPANISH": "habrán insistido",
-      "ENGLISH": "they will have insisted, you (plural formal) will have insisted"
+      "SPANISH": "Habrán insistido",
+      "ENGLISH": "They will have insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos insistido",
-      "ENGLISH": "we will have insisted"
+      "SPANISH": "Habremos insistido",
+      "ENGLISH": "We will have insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis insistido",
-      "ENGLISH": "you (plural) will have insisted"
+      "SPANISH": "Habréis insistido",
+      "ENGLISH": "You will have insisted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "insistiría",
+      "SPANISH": "Insistiría",
       "ENGLISH": "I would insist"
     },
     "TU": {
-      "SPANISH": "insistirías",
-      "ENGLISH": "you would insist"
+      "SPANISH": "Insistirías",
+      "ENGLISH": "You would insist"
     },
     "EL": {
-      "SPANISH": "insistiría",
-      "ENGLISH": "s/he would insist, you (formal) would insist"
+      "SPANISH": "Insistiría",
+      "ENGLISH": "He would insist"
     },
     "ELLOS": {
-      "SPANISH": "insistirían",
-      "ENGLISH": "they would insist, you (plural formal) would insist"
+      "SPANISH": "Insistirían",
+      "ENGLISH": "They would insist"
     },
     "NOSOTROS": {
-      "SPANISH": "insistiríamos",
-      "ENGLISH": "we would insist"
+      "SPANISH": "Insistiríamos",
+      "ENGLISH": "We would insist"
     },
     "VOSOTROS": {
-      "SPANISH": "insistiríais",
-      "ENGLISH": "you (plural) would insist"
+      "SPANISH": "Insistiríais",
+      "ENGLISH": "You would insist"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría insistido",
+      "SPANISH": "Habría insistido",
       "ENGLISH": "I would have insisted"
     },
     "TU": {
-      "SPANISH": "habrías insistido",
-      "ENGLISH": "you would have insisted"
+      "SPANISH": "Habrías insistido",
+      "ENGLISH": "You would have insisted"
     },
     "EL": {
-      "SPANISH": "habría insistido",
-      "ENGLISH": "s/he would have insisted, you (formal) would have insisted"
+      "SPANISH": "Habría insistido",
+      "ENGLISH": "He would have insisted"
     },
     "ELLOS": {
-      "SPANISH": "habrían insistido",
-      "ENGLISH": "they would have insisted, you (plural formal) would have insisted"
+      "SPANISH": "Habrían insistido",
+      "ENGLISH": "They would have insisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos insistido",
-      "ENGLISH": "we would have insisted"
+      "SPANISH": "Habríamos insistido",
+      "ENGLISH": "We would have insisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais insistido",
-      "ENGLISH": "you (plural) would have insisted"
+      "SPANISH": "Habríais insistido",
+      "ENGLISH": "You would have insisted"
     }
   }
 }

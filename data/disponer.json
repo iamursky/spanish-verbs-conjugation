@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dispongo ",
+      "SPANISH": "Dispongo ",
       "ENGLISH": "I prepare"
     },
     "TU": {
-      "SPANISH": "dispones",
-      "ENGLISH": "you prepare"
+      "SPANISH": "Dispones",
+      "ENGLISH": "You prepare"
     },
     "EL": {
-      "SPANISH": "dispone",
-      "ENGLISH": "s/he prepares, you (formal) prepares"
+      "SPANISH": "Dispone",
+      "ENGLISH": "He prepares"
     },
     "ELLOS": {
-      "SPANISH": "disponen",
-      "ENGLISH": "they prepare, you (plural formal) prepare"
+      "SPANISH": "Disponen",
+      "ENGLISH": "They prepare"
     },
     "NOSOTROS": {
-      "SPANISH": "disponemos",
-      "ENGLISH": "we prepare"
+      "SPANISH": "Disponemos",
+      "ENGLISH": "We prepare"
     },
     "VOSOTROS": {
-      "SPANISH": "disponéis",
-      "ENGLISH": "you (plural) prepare"
+      "SPANISH": "Disponéis",
+      "ENGLISH": "You prepare"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dispuesto ",
+      "SPANISH": "He dispuesto ",
       "ENGLISH": "I have prepared"
     },
     "TU": {
-      "SPANISH": "has dispuesto ",
-      "ENGLISH": "you have prepared"
+      "SPANISH": "Has dispuesto ",
+      "ENGLISH": "You have prepared"
     },
     "EL": {
-      "SPANISH": "ha dispuesto ",
-      "ENGLISH": "s/he has prepared, you (formal) have prepared"
+      "SPANISH": "Ha dispuesto ",
+      "ENGLISH": "He has prepared"
     },
     "ELLOS": {
-      "SPANISH": "han dispuesto ",
-      "ENGLISH": "they have prepared, you (plural formal) have prepared"
+      "SPANISH": "Han dispuesto ",
+      "ENGLISH": "They have prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dispuesto ",
-      "ENGLISH": "we have prepared"
+      "SPANISH": "Hemos dispuesto ",
+      "ENGLISH": "We have prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dispuesto ",
-      "ENGLISH": "you (plural) have prepared"
+      "SPANISH": "Habéis dispuesto ",
+      "ENGLISH": "You have prepared"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dispuse ",
+      "SPANISH": "Dispuse ",
       "ENGLISH": "I prepared"
     },
     "TU": {
-      "SPANISH": "dispusiste ",
-      "ENGLISH": "you prepared"
+      "SPANISH": "Dispusiste ",
+      "ENGLISH": "You prepared"
     },
     "EL": {
-      "SPANISH": "dispuso ",
-      "ENGLISH": "s/he prepared, you (formal) prepared"
+      "SPANISH": "Dispuso ",
+      "ENGLISH": "He prepared"
     },
     "ELLOS": {
-      "SPANISH": "dispusieron ",
-      "ENGLISH": "they prepared, you (plural formal) prepared"
+      "SPANISH": "Dispusieron ",
+      "ENGLISH": "They prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "dispusimos ",
-      "ENGLISH": "we prepared"
+      "SPANISH": "Dispusimos ",
+      "ENGLISH": "We prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "dispusisteis ",
-      "ENGLISH": "you (plural) prepared"
+      "SPANISH": "Dispusisteis ",
+      "ENGLISH": "You prepared"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dispuesto ",
+      "SPANISH": "Había dispuesto ",
       "ENGLISH": "I had prepared"
     },
     "TU": {
-      "SPANISH": "habías dispuesto ",
-      "ENGLISH": "you had prepared"
+      "SPANISH": "Habías dispuesto ",
+      "ENGLISH": "You had prepared"
     },
     "EL": {
-      "SPANISH": "había dispuesto ",
-      "ENGLISH": "s/he had prepared, you (formal) had prepared"
+      "SPANISH": "Había dispuesto ",
+      "ENGLISH": "He had prepared"
     },
     "ELLOS": {
-      "SPANISH": "habían dispuesto ",
-      "ENGLISH": "they had prepared, you (plural formal) had prepared"
+      "SPANISH": "Habían dispuesto ",
+      "ENGLISH": "They had prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dispuesto ",
-      "ENGLISH": "we had prepared"
+      "SPANISH": "Habíamos dispuesto ",
+      "ENGLISH": "We had prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dispuesto ",
-      "ENGLISH": "you (plural) had prepared"
+      "SPANISH": "Habíais dispuesto ",
+      "ENGLISH": "You had prepared"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dispuse ",
+      "SPANISH": "Dispuse ",
       "ENGLISH": "I prepared"
     },
     "TU": {
-      "SPANISH": "dispusiste ",
-      "ENGLISH": "you prepared"
+      "SPANISH": "Dispusiste ",
+      "ENGLISH": "You prepared"
     },
     "EL": {
-      "SPANISH": "dispuso ",
-      "ENGLISH": "s/he prepared, you (formal) prepared"
+      "SPANISH": "Dispuso ",
+      "ENGLISH": "He prepared"
     },
     "ELLOS": {
-      "SPANISH": "dispusieron ",
-      "ENGLISH": "they prepared, you (plural formal) prepared"
+      "SPANISH": "Dispusieron ",
+      "ENGLISH": "They prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "dispusimos ",
-      "ENGLISH": "we prepared"
+      "SPANISH": "Dispusimos ",
+      "ENGLISH": "We prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "dispusisteis ",
-      "ENGLISH": "you (plural) prepared"
+      "SPANISH": "Dispusisteis ",
+      "ENGLISH": "You prepared"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dispondré ",
+      "SPANISH": "Dispondré ",
       "ENGLISH": "I will prepare"
     },
     "TU": {
-      "SPANISH": "dispondrás ",
-      "ENGLISH": "you will prepare"
+      "SPANISH": "Dispondrás ",
+      "ENGLISH": "You will prepare"
     },
     "EL": {
-      "SPANISH": "dispondrá ",
-      "ENGLISH": "s/he will prepare, you (formal) will prepare"
+      "SPANISH": "Dispondrá ",
+      "ENGLISH": "He will prepare"
     },
     "ELLOS": {
-      "SPANISH": "dispondrán ",
-      "ENGLISH": "they will prepare, you (plural formal) will prepare"
+      "SPANISH": "Dispondrán ",
+      "ENGLISH": "They will prepare"
     },
     "NOSOTROS": {
-      "SPANISH": "dispondremos ",
-      "ENGLISH": "we will prepare"
+      "SPANISH": "Dispondremos ",
+      "ENGLISH": "We will prepare"
     },
     "VOSOTROS": {
-      "SPANISH": "dispondréis ",
-      "ENGLISH": "you (plural) will prepare"
+      "SPANISH": "Dispondréis ",
+      "ENGLISH": "You will prepare"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dispuesto ",
+      "SPANISH": "Habré dispuesto ",
       "ENGLISH": "I will have prepared"
     },
     "TU": {
-      "SPANISH": "habrás dispuesto ",
-      "ENGLISH": "you will have prepared"
+      "SPANISH": "Habrás dispuesto ",
+      "ENGLISH": "You will have prepared"
     },
     "EL": {
-      "SPANISH": "habrá dispuesto ",
-      "ENGLISH": "s/he will have prepared, you (formal) will have prepared"
+      "SPANISH": "Habrá dispuesto ",
+      "ENGLISH": "He will have prepared"
     },
     "ELLOS": {
-      "SPANISH": "habrán dispuesto ",
-      "ENGLISH": "they will have prepared, you (plural formal) will have prepared"
+      "SPANISH": "Habrán dispuesto ",
+      "ENGLISH": "They will have prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dispuesto ",
-      "ENGLISH": "we will have prepared"
+      "SPANISH": "Habremos dispuesto ",
+      "ENGLISH": "We will have prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dispuesto ",
-      "ENGLISH": "you (plural) will have prepared"
+      "SPANISH": "Habréis dispuesto ",
+      "ENGLISH": "You will have prepared"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dispondría ",
+      "SPANISH": "Dispondría ",
       "ENGLISH": "I would prepare"
     },
     "TU": {
-      "SPANISH": "dispondrías ",
-      "ENGLISH": "you would prepare"
+      "SPANISH": "Dispondrías ",
+      "ENGLISH": "You would prepare"
     },
     "EL": {
-      "SPANISH": "dispondría ",
-      "ENGLISH": "s/he would prepare, you (formal) would prepare"
+      "SPANISH": "Dispondría ",
+      "ENGLISH": "He would prepare"
     },
     "ELLOS": {
-      "SPANISH": "dispondrían ",
-      "ENGLISH": "they would prepare, you (plural formal) would prepare"
+      "SPANISH": "Dispondrían ",
+      "ENGLISH": "They would prepare"
     },
     "NOSOTROS": {
-      "SPANISH": "dispondríamos ",
-      "ENGLISH": "we would prepare"
+      "SPANISH": "Dispondríamos ",
+      "ENGLISH": "We would prepare"
     },
     "VOSOTROS": {
-      "SPANISH": "dispondríais ",
-      "ENGLISH": "you (plural) would prepare"
+      "SPANISH": "Dispondríais ",
+      "ENGLISH": "You would prepare"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dispuesto ",
+      "SPANISH": "Habría dispuesto ",
       "ENGLISH": "I would have prepared"
     },
     "TU": {
-      "SPANISH": "habrías dispuesto ",
-      "ENGLISH": "you would have prepared"
+      "SPANISH": "Habrías dispuesto ",
+      "ENGLISH": "You would have prepared"
     },
     "EL": {
-      "SPANISH": "habría dispuesto ",
-      "ENGLISH": "s/he would have prepared, you (formal) would have prepared"
+      "SPANISH": "Habría dispuesto ",
+      "ENGLISH": "He would have prepared"
     },
     "ELLOS": {
-      "SPANISH": "habrían dispuesto ",
-      "ENGLISH": "they would have prepared, you (plural formal) would have prepared"
+      "SPANISH": "Habrían dispuesto ",
+      "ENGLISH": "They would have prepared"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dispuesto ",
-      "ENGLISH": "we would have prepared"
+      "SPANISH": "Habríamos dispuesto ",
+      "ENGLISH": "We would have prepared"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dispuesto ",
-      "ENGLISH": "you (plural) would have prepared"
+      "SPANISH": "Habríais dispuesto ",
+      "ENGLISH": "You would have prepared"
     }
   }
 }

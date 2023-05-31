@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "consiento ",
+      "SPANISH": "Consiento ",
       "ENGLISH": "I consent"
     },
     "TU": {
-      "SPANISH": "consientes ",
-      "ENGLISH": "you consent"
+      "SPANISH": "Consientes ",
+      "ENGLISH": "You consent"
     },
     "EL": {
-      "SPANISH": "consiente ",
-      "ENGLISH": "s/he consents, you (formal) consents"
+      "SPANISH": "Consiente ",
+      "ENGLISH": "He consents"
     },
     "ELLOS": {
-      "SPANISH": "consienten ",
-      "ENGLISH": "they consent, you (plural formal) consent"
+      "SPANISH": "Consienten ",
+      "ENGLISH": "They consent"
     },
     "NOSOTROS": {
-      "SPANISH": "consentimos",
-      "ENGLISH": "we consent"
+      "SPANISH": "Consentimos",
+      "ENGLISH": "We consent"
     },
     "VOSOTROS": {
-      "SPANISH": "consentís",
-      "ENGLISH": "you (plural) consent"
+      "SPANISH": "Consentís",
+      "ENGLISH": "You consent"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he consentido",
+      "SPANISH": "He consentido",
       "ENGLISH": "I have consented"
     },
     "TU": {
-      "SPANISH": "has consentido",
-      "ENGLISH": "you have consented"
+      "SPANISH": "Has consentido",
+      "ENGLISH": "You have consented"
     },
     "EL": {
-      "SPANISH": "ha consentido",
-      "ENGLISH": "s/he has consented, you (formal) have consented"
+      "SPANISH": "Ha consentido",
+      "ENGLISH": "He has consented"
     },
     "ELLOS": {
-      "SPANISH": "han consentido",
-      "ENGLISH": "they have consented, you (plural formal) have consented"
+      "SPANISH": "Han consentido",
+      "ENGLISH": "They have consented"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos consentido",
-      "ENGLISH": "we have consented"
+      "SPANISH": "Hemos consentido",
+      "ENGLISH": "We have consented"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis consentido",
-      "ENGLISH": "you (plural) have consented"
+      "SPANISH": "Habéis consentido",
+      "ENGLISH": "You have consented"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "consentí",
+      "SPANISH": "Consentí",
       "ENGLISH": "I consented"
     },
     "TU": {
-      "SPANISH": "consentiste",
-      "ENGLISH": "you consented"
+      "SPANISH": "Consentiste",
+      "ENGLISH": "You consented"
     },
     "EL": {
-      "SPANISH": "consintió ",
-      "ENGLISH": "s/he consented, you (formal) consented"
+      "SPANISH": "Consintió ",
+      "ENGLISH": "He consented"
     },
     "ELLOS": {
-      "SPANISH": "consintieron ",
-      "ENGLISH": "they consented, you (plural formal) consented"
+      "SPANISH": "Consintieron ",
+      "ENGLISH": "They consented"
     },
     "NOSOTROS": {
-      "SPANISH": "consentimos",
-      "ENGLISH": "we consented"
+      "SPANISH": "Consentimos",
+      "ENGLISH": "We consented"
     },
     "VOSOTROS": {
-      "SPANISH": "consentisteis",
-      "ENGLISH": "you (plural) consented"
+      "SPANISH": "Consentisteis",
+      "ENGLISH": "You consented"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había consentido",
+      "SPANISH": "Había consentido",
       "ENGLISH": "I had consented"
     },
     "TU": {
-      "SPANISH": "habías consentido",
-      "ENGLISH": "you had consented"
+      "SPANISH": "Habías consentido",
+      "ENGLISH": "You had consented"
     },
     "EL": {
-      "SPANISH": "había consentido",
-      "ENGLISH": "s/he had consented, you (formal) had consented"
+      "SPANISH": "Había consentido",
+      "ENGLISH": "He had consented"
     },
     "ELLOS": {
-      "SPANISH": "habían consentido",
-      "ENGLISH": "they had consented, you (plural formal) had consented"
+      "SPANISH": "Habían consentido",
+      "ENGLISH": "They had consented"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos consentido",
-      "ENGLISH": "we had consented"
+      "SPANISH": "Habíamos consentido",
+      "ENGLISH": "We had consented"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais consentido",
-      "ENGLISH": "you (plural) had consented"
+      "SPANISH": "Habíais consentido",
+      "ENGLISH": "You had consented"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "consentí",
+      "SPANISH": "Consentí",
       "ENGLISH": "I consented"
     },
     "TU": {
-      "SPANISH": "consentiste",
-      "ENGLISH": "you consented"
+      "SPANISH": "Consentiste",
+      "ENGLISH": "You consented"
     },
     "EL": {
-      "SPANISH": "consintió ",
-      "ENGLISH": "s/he consented, you (formal) consented"
+      "SPANISH": "Consintió ",
+      "ENGLISH": "He consented"
     },
     "ELLOS": {
-      "SPANISH": "consintieron ",
-      "ENGLISH": "they consented, you (plural formal) consented"
+      "SPANISH": "Consintieron ",
+      "ENGLISH": "They consented"
     },
     "NOSOTROS": {
-      "SPANISH": "consentimos",
-      "ENGLISH": "we consented"
+      "SPANISH": "Consentimos",
+      "ENGLISH": "We consented"
     },
     "VOSOTROS": {
-      "SPANISH": "consentisteis",
-      "ENGLISH": "you (plural) consented"
+      "SPANISH": "Consentisteis",
+      "ENGLISH": "You consented"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "consentiré",
+      "SPANISH": "Consentiré",
       "ENGLISH": "I will consent"
     },
     "TU": {
-      "SPANISH": "consentirás",
-      "ENGLISH": "you will consent"
+      "SPANISH": "Consentirás",
+      "ENGLISH": "You will consent"
     },
     "EL": {
-      "SPANISH": "consentirá",
-      "ENGLISH": "s/he will consent, you (formal) will consent"
+      "SPANISH": "Consentirá",
+      "ENGLISH": "He will consent"
     },
     "ELLOS": {
-      "SPANISH": "consentirán",
-      "ENGLISH": "they will consent, you (plural formal) will consent"
+      "SPANISH": "Consentirán",
+      "ENGLISH": "They will consent"
     },
     "NOSOTROS": {
-      "SPANISH": "consentiremos",
-      "ENGLISH": "we will consent"
+      "SPANISH": "Consentiremos",
+      "ENGLISH": "We will consent"
     },
     "VOSOTROS": {
-      "SPANISH": "consentiréis",
-      "ENGLISH": "you (plural) will consent"
+      "SPANISH": "Consentiréis",
+      "ENGLISH": "You will consent"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré consentido",
+      "SPANISH": "Habré consentido",
       "ENGLISH": "I will have consented"
     },
     "TU": {
-      "SPANISH": "habrás consentido",
-      "ENGLISH": "you will have consented"
+      "SPANISH": "Habrás consentido",
+      "ENGLISH": "You will have consented"
     },
     "EL": {
-      "SPANISH": "habrá consentido",
-      "ENGLISH": "s/he will have consented, you (formal) will have consented"
+      "SPANISH": "Habrá consentido",
+      "ENGLISH": "He will have consented"
     },
     "ELLOS": {
-      "SPANISH": "habrán consentido",
-      "ENGLISH": "they will have consented, you (plural formal) will have consented"
+      "SPANISH": "Habrán consentido",
+      "ENGLISH": "They will have consented"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos consentido",
-      "ENGLISH": "we will have consented"
+      "SPANISH": "Habremos consentido",
+      "ENGLISH": "We will have consented"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis consentido",
-      "ENGLISH": "you (plural) will have consented"
+      "SPANISH": "Habréis consentido",
+      "ENGLISH": "You will have consented"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "consentiría",
+      "SPANISH": "Consentiría",
       "ENGLISH": "I would consent"
     },
     "TU": {
-      "SPANISH": "consentirías",
-      "ENGLISH": "you would consent"
+      "SPANISH": "Consentirías",
+      "ENGLISH": "You would consent"
     },
     "EL": {
-      "SPANISH": "consentiría",
-      "ENGLISH": "s/he would consent, you (formal) would consent"
+      "SPANISH": "Consentiría",
+      "ENGLISH": "He would consent"
     },
     "ELLOS": {
-      "SPANISH": "consentirían",
-      "ENGLISH": "they would consent, you (plural formal) would consent"
+      "SPANISH": "Consentirían",
+      "ENGLISH": "They would consent"
     },
     "NOSOTROS": {
-      "SPANISH": "consentiríamos",
-      "ENGLISH": "we would consent"
+      "SPANISH": "Consentiríamos",
+      "ENGLISH": "We would consent"
     },
     "VOSOTROS": {
-      "SPANISH": "consentiríais",
-      "ENGLISH": "you (plural) would consent"
+      "SPANISH": "Consentiríais",
+      "ENGLISH": "You would consent"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría consentido",
+      "SPANISH": "Habría consentido",
       "ENGLISH": "I would have consented"
     },
     "TU": {
-      "SPANISH": "habrías consentido",
-      "ENGLISH": "you would have consented"
+      "SPANISH": "Habrías consentido",
+      "ENGLISH": "You would have consented"
     },
     "EL": {
-      "SPANISH": "habría consentido",
-      "ENGLISH": "s/he would have consented, you (formal) would have consented"
+      "SPANISH": "Habría consentido",
+      "ENGLISH": "He would have consented"
     },
     "ELLOS": {
-      "SPANISH": "habrían consentido",
-      "ENGLISH": "they would have consented, you (plural formal) would have consented"
+      "SPANISH": "Habrían consentido",
+      "ENGLISH": "They would have consented"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos consentido",
-      "ENGLISH": "we would have consented"
+      "SPANISH": "Habríamos consentido",
+      "ENGLISH": "We would have consented"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais consentido",
-      "ENGLISH": "you (plural) would have consented"
+      "SPANISH": "Habríais consentido",
+      "ENGLISH": "You would have consented"
     }
   }
 }

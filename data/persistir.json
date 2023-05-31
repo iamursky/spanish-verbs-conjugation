@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "persisto",
+      "SPANISH": "Persisto",
       "ENGLISH": "I persist"
     },
     "TU": {
-      "SPANISH": "persistes",
-      "ENGLISH": "you persist"
+      "SPANISH": "Persistes",
+      "ENGLISH": "You persist"
     },
     "EL": {
-      "SPANISH": "persiste",
-      "ENGLISH": "s/he persists, you (formal) persists"
+      "SPANISH": "Persiste",
+      "ENGLISH": "He persists"
     },
     "ELLOS": {
-      "SPANISH": "persisten",
-      "ENGLISH": "they persist, you (plural formal) persist"
+      "SPANISH": "Persisten",
+      "ENGLISH": "They persist"
     },
     "NOSOTROS": {
-      "SPANISH": "persistimos",
-      "ENGLISH": "we persist"
+      "SPANISH": "Persistimos",
+      "ENGLISH": "We persist"
     },
     "VOSOTROS": {
-      "SPANISH": "persistís",
-      "ENGLISH": "you (plural) persist"
+      "SPANISH": "Persistís",
+      "ENGLISH": "You persist"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he persistido",
+      "SPANISH": "He persistido",
       "ENGLISH": "I have persisted"
     },
     "TU": {
-      "SPANISH": "has persistido",
-      "ENGLISH": "you have persisted"
+      "SPANISH": "Has persistido",
+      "ENGLISH": "You have persisted"
     },
     "EL": {
-      "SPANISH": "ha persistido",
-      "ENGLISH": "s/he has persisted, you (formal) have persisted"
+      "SPANISH": "Ha persistido",
+      "ENGLISH": "He has persisted"
     },
     "ELLOS": {
-      "SPANISH": "han persistido",
-      "ENGLISH": "they have persisted, you (plural formal) have persisted"
+      "SPANISH": "Han persistido",
+      "ENGLISH": "They have persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos persistido",
-      "ENGLISH": "we have persisted"
+      "SPANISH": "Hemos persistido",
+      "ENGLISH": "We have persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis persistido",
-      "ENGLISH": "you (plural) have persisted"
+      "SPANISH": "Habéis persistido",
+      "ENGLISH": "You have persisted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "persistí",
+      "SPANISH": "Persistí",
       "ENGLISH": "I persisted"
     },
     "TU": {
-      "SPANISH": "persististe",
-      "ENGLISH": "you persisted"
+      "SPANISH": "Persististe",
+      "ENGLISH": "You persisted"
     },
     "EL": {
-      "SPANISH": "persistió",
-      "ENGLISH": "s/he persisted, you (formal) persisted"
+      "SPANISH": "Persistió",
+      "ENGLISH": "He persisted"
     },
     "ELLOS": {
-      "SPANISH": "persistieron",
-      "ENGLISH": "they persisted, you (plural formal) persisted"
+      "SPANISH": "Persistieron",
+      "ENGLISH": "They persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "persistimos",
-      "ENGLISH": "we persisted"
+      "SPANISH": "Persistimos",
+      "ENGLISH": "We persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "persististeis",
-      "ENGLISH": "you (plural) persisted"
+      "SPANISH": "Persististeis",
+      "ENGLISH": "You persisted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había persistido",
+      "SPANISH": "Había persistido",
       "ENGLISH": "I had persisted"
     },
     "TU": {
-      "SPANISH": "habías persistido",
-      "ENGLISH": "you had persisted"
+      "SPANISH": "Habías persistido",
+      "ENGLISH": "You had persisted"
     },
     "EL": {
-      "SPANISH": "había persistido",
-      "ENGLISH": "s/he had persisted, you (formal) had persisted"
+      "SPANISH": "Había persistido",
+      "ENGLISH": "He had persisted"
     },
     "ELLOS": {
-      "SPANISH": "habían persistido",
-      "ENGLISH": "they had persisted, you (plural formal) had persisted"
+      "SPANISH": "Habían persistido",
+      "ENGLISH": "They had persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos persistido",
-      "ENGLISH": "we had persisted"
+      "SPANISH": "Habíamos persistido",
+      "ENGLISH": "We had persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais persistido",
-      "ENGLISH": "you (plural) had persisted"
+      "SPANISH": "Habíais persistido",
+      "ENGLISH": "You had persisted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "persistí",
+      "SPANISH": "Persistí",
       "ENGLISH": "I persisted"
     },
     "TU": {
-      "SPANISH": "persististe",
-      "ENGLISH": "you persisted"
+      "SPANISH": "Persististe",
+      "ENGLISH": "You persisted"
     },
     "EL": {
-      "SPANISH": "persistió",
-      "ENGLISH": "s/he persisted, you (formal) persisted"
+      "SPANISH": "Persistió",
+      "ENGLISH": "He persisted"
     },
     "ELLOS": {
-      "SPANISH": "persistieron",
-      "ENGLISH": "they persisted, you (plural formal) persisted"
+      "SPANISH": "Persistieron",
+      "ENGLISH": "They persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "persistimos",
-      "ENGLISH": "we persisted"
+      "SPANISH": "Persistimos",
+      "ENGLISH": "We persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "persististeis",
-      "ENGLISH": "you (plural) persisted"
+      "SPANISH": "Persististeis",
+      "ENGLISH": "You persisted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "persistiré",
+      "SPANISH": "Persistiré",
       "ENGLISH": "I will persist"
     },
     "TU": {
-      "SPANISH": "persistirás",
-      "ENGLISH": "you will persist"
+      "SPANISH": "Persistirás",
+      "ENGLISH": "You will persist"
     },
     "EL": {
-      "SPANISH": "persistirá",
-      "ENGLISH": "s/he will persist, you (formal) will persist"
+      "SPANISH": "Persistirá",
+      "ENGLISH": "He will persist"
     },
     "ELLOS": {
-      "SPANISH": "persistirán",
-      "ENGLISH": "they will persist, you (plural formal) will persist"
+      "SPANISH": "Persistirán",
+      "ENGLISH": "They will persist"
     },
     "NOSOTROS": {
-      "SPANISH": "persistiremos",
-      "ENGLISH": "we will persist"
+      "SPANISH": "Persistiremos",
+      "ENGLISH": "We will persist"
     },
     "VOSOTROS": {
-      "SPANISH": "persistiréis",
-      "ENGLISH": "you (plural) will persist"
+      "SPANISH": "Persistiréis",
+      "ENGLISH": "You will persist"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré persistido",
+      "SPANISH": "Habré persistido",
       "ENGLISH": "I will have persisted"
     },
     "TU": {
-      "SPANISH": "habrás persistido",
-      "ENGLISH": "you will have persisted"
+      "SPANISH": "Habrás persistido",
+      "ENGLISH": "You will have persisted"
     },
     "EL": {
-      "SPANISH": "habrá persistido",
-      "ENGLISH": "s/he will have persisted, you (formal) will have persisted"
+      "SPANISH": "Habrá persistido",
+      "ENGLISH": "He will have persisted"
     },
     "ELLOS": {
-      "SPANISH": "habrán persistido",
-      "ENGLISH": "they will have persisted, you (plural formal) will have persisted"
+      "SPANISH": "Habrán persistido",
+      "ENGLISH": "They will have persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos persistido",
-      "ENGLISH": "we will have persisted"
+      "SPANISH": "Habremos persistido",
+      "ENGLISH": "We will have persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis persistido",
-      "ENGLISH": "you (plural) will have persisted"
+      "SPANISH": "Habréis persistido",
+      "ENGLISH": "You will have persisted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "persistiría",
+      "SPANISH": "Persistiría",
       "ENGLISH": "I would persist"
     },
     "TU": {
-      "SPANISH": "persistirías",
-      "ENGLISH": "you would persist"
+      "SPANISH": "Persistirías",
+      "ENGLISH": "You would persist"
     },
     "EL": {
-      "SPANISH": "persistiría",
-      "ENGLISH": "s/he would persist, you (formal) would persist"
+      "SPANISH": "Persistiría",
+      "ENGLISH": "He would persist"
     },
     "ELLOS": {
-      "SPANISH": "persistirían",
-      "ENGLISH": "they would persist, you (plural formal) would persist"
+      "SPANISH": "Persistirían",
+      "ENGLISH": "They would persist"
     },
     "NOSOTROS": {
-      "SPANISH": "persistiríamos",
-      "ENGLISH": "we would persist"
+      "SPANISH": "Persistiríamos",
+      "ENGLISH": "We would persist"
     },
     "VOSOTROS": {
-      "SPANISH": "persistiríais",
-      "ENGLISH": "you (plural) would persist"
+      "SPANISH": "Persistiríais",
+      "ENGLISH": "You would persist"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría persistido",
+      "SPANISH": "Habría persistido",
       "ENGLISH": "I would have persisted"
     },
     "TU": {
-      "SPANISH": "habrías persistido",
-      "ENGLISH": "you would have persisted"
+      "SPANISH": "Habrías persistido",
+      "ENGLISH": "You would have persisted"
     },
     "EL": {
-      "SPANISH": "habría persistido",
-      "ENGLISH": "s/he would have persisted, you (formal) would have persisted"
+      "SPANISH": "Habría persistido",
+      "ENGLISH": "He would have persisted"
     },
     "ELLOS": {
-      "SPANISH": "habrían persistido",
-      "ENGLISH": "they would have persisted, you (plural formal) would have persisted"
+      "SPANISH": "Habrían persistido",
+      "ENGLISH": "They would have persisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos persistido",
-      "ENGLISH": "we would have persisted"
+      "SPANISH": "Habríamos persistido",
+      "ENGLISH": "We would have persisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais persistido",
-      "ENGLISH": "you (plural) would have persisted"
+      "SPANISH": "Habríais persistido",
+      "ENGLISH": "You would have persisted"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "produzco ",
+      "SPANISH": "Produzco ",
       "ENGLISH": "I produce"
     },
     "TU": {
-      "SPANISH": "produces",
-      "ENGLISH": "you produce"
+      "SPANISH": "Produces",
+      "ENGLISH": "You produce"
     },
     "EL": {
-      "SPANISH": "produce",
-      "ENGLISH": "s/he produces, you (formal) produces"
+      "SPANISH": "Produce",
+      "ENGLISH": "He produces"
     },
     "ELLOS": {
-      "SPANISH": "producen",
-      "ENGLISH": "they produce, you (plural formal) produce"
+      "SPANISH": "Producen",
+      "ENGLISH": "They produce"
     },
     "NOSOTROS": {
-      "SPANISH": "producimos",
-      "ENGLISH": "we produce"
+      "SPANISH": "Producimos",
+      "ENGLISH": "We produce"
     },
     "VOSOTROS": {
-      "SPANISH": "producís",
-      "ENGLISH": "you (plural) produce"
+      "SPANISH": "Producís",
+      "ENGLISH": "You produce"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he producido",
+      "SPANISH": "He producido",
       "ENGLISH": "I have produced"
     },
     "TU": {
-      "SPANISH": "has producido",
-      "ENGLISH": "you have produced"
+      "SPANISH": "Has producido",
+      "ENGLISH": "You have produced"
     },
     "EL": {
-      "SPANISH": "ha producido",
-      "ENGLISH": "s/he has produced, you (formal) have produced"
+      "SPANISH": "Ha producido",
+      "ENGLISH": "He has produced"
     },
     "ELLOS": {
-      "SPANISH": "han producido",
-      "ENGLISH": "they have produced, you (plural formal) have produced"
+      "SPANISH": "Han producido",
+      "ENGLISH": "They have produced"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos producido",
-      "ENGLISH": "we have produced"
+      "SPANISH": "Hemos producido",
+      "ENGLISH": "We have produced"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis producido",
-      "ENGLISH": "you (plural) have produced"
+      "SPANISH": "Habéis producido",
+      "ENGLISH": "You have produced"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "produje ",
+      "SPANISH": "Produje ",
       "ENGLISH": "I produced"
     },
     "TU": {
-      "SPANISH": "produjiste ",
-      "ENGLISH": "you produced"
+      "SPANISH": "Produjiste ",
+      "ENGLISH": "You produced"
     },
     "EL": {
-      "SPANISH": "produjo ",
-      "ENGLISH": "s/he produced, you (formal) produced"
+      "SPANISH": "Produjo ",
+      "ENGLISH": "He produced"
     },
     "ELLOS": {
-      "SPANISH": "produjeron ",
-      "ENGLISH": "they produced, you (plural formal) produced"
+      "SPANISH": "Produjeron ",
+      "ENGLISH": "They produced"
     },
     "NOSOTROS": {
-      "SPANISH": "produjimos ",
-      "ENGLISH": "we produced"
+      "SPANISH": "Produjimos ",
+      "ENGLISH": "We produced"
     },
     "VOSOTROS": {
-      "SPANISH": "produjisteis ",
-      "ENGLISH": "you (plural) produced"
+      "SPANISH": "Produjisteis ",
+      "ENGLISH": "You produced"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había producido",
+      "SPANISH": "Había producido",
       "ENGLISH": "I had produced"
     },
     "TU": {
-      "SPANISH": "habías producido",
-      "ENGLISH": "you had produced"
+      "SPANISH": "Habías producido",
+      "ENGLISH": "You had produced"
     },
     "EL": {
-      "SPANISH": "había producido",
-      "ENGLISH": "s/he had produced, you (formal) had produced"
+      "SPANISH": "Había producido",
+      "ENGLISH": "He had produced"
     },
     "ELLOS": {
-      "SPANISH": "habían producido",
-      "ENGLISH": "they had produced, you (plural formal) had produced"
+      "SPANISH": "Habían producido",
+      "ENGLISH": "They had produced"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos producido",
-      "ENGLISH": "we had produced"
+      "SPANISH": "Habíamos producido",
+      "ENGLISH": "We had produced"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais producido",
-      "ENGLISH": "you (plural) had produced"
+      "SPANISH": "Habíais producido",
+      "ENGLISH": "You had produced"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "produje ",
+      "SPANISH": "Produje ",
       "ENGLISH": "I produced"
     },
     "TU": {
-      "SPANISH": "produjiste ",
-      "ENGLISH": "you produced"
+      "SPANISH": "Produjiste ",
+      "ENGLISH": "You produced"
     },
     "EL": {
-      "SPANISH": "produjo ",
-      "ENGLISH": "s/he produced, you (formal) produced"
+      "SPANISH": "Produjo ",
+      "ENGLISH": "He produced"
     },
     "ELLOS": {
-      "SPANISH": "produjeron ",
-      "ENGLISH": "they produced, you (plural formal) produced"
+      "SPANISH": "Produjeron ",
+      "ENGLISH": "They produced"
     },
     "NOSOTROS": {
-      "SPANISH": "produjimos ",
-      "ENGLISH": "we produced"
+      "SPANISH": "Produjimos ",
+      "ENGLISH": "We produced"
     },
     "VOSOTROS": {
-      "SPANISH": "produjisteis ",
-      "ENGLISH": "you (plural) produced"
+      "SPANISH": "Produjisteis ",
+      "ENGLISH": "You produced"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "produciré",
+      "SPANISH": "Produciré",
       "ENGLISH": "I will produce"
     },
     "TU": {
-      "SPANISH": "producirás",
-      "ENGLISH": "you will produce"
+      "SPANISH": "Producirás",
+      "ENGLISH": "You will produce"
     },
     "EL": {
-      "SPANISH": "producirá",
-      "ENGLISH": "s/he will produce, you (formal) will produce"
+      "SPANISH": "Producirá",
+      "ENGLISH": "He will produce"
     },
     "ELLOS": {
-      "SPANISH": "producirán",
-      "ENGLISH": "they will produce, you (plural formal) will produce"
+      "SPANISH": "Producirán",
+      "ENGLISH": "They will produce"
     },
     "NOSOTROS": {
-      "SPANISH": "produciremos",
-      "ENGLISH": "we will produce"
+      "SPANISH": "Produciremos",
+      "ENGLISH": "We will produce"
     },
     "VOSOTROS": {
-      "SPANISH": "produciréis",
-      "ENGLISH": "you (plural) will produce"
+      "SPANISH": "Produciréis",
+      "ENGLISH": "You will produce"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré producido",
+      "SPANISH": "Habré producido",
       "ENGLISH": "I will have produced"
     },
     "TU": {
-      "SPANISH": "habrás producido",
-      "ENGLISH": "you will have produced"
+      "SPANISH": "Habrás producido",
+      "ENGLISH": "You will have produced"
     },
     "EL": {
-      "SPANISH": "habrá producido",
-      "ENGLISH": "s/he will have produced, you (formal) will have produced"
+      "SPANISH": "Habrá producido",
+      "ENGLISH": "He will have produced"
     },
     "ELLOS": {
-      "SPANISH": "habrán producido",
-      "ENGLISH": "they will have produced, you (plural formal) will have produced"
+      "SPANISH": "Habrán producido",
+      "ENGLISH": "They will have produced"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos producido",
-      "ENGLISH": "we will have produced"
+      "SPANISH": "Habremos producido",
+      "ENGLISH": "We will have produced"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis producido",
-      "ENGLISH": "you (plural) will have produced"
+      "SPANISH": "Habréis producido",
+      "ENGLISH": "You will have produced"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "produciría",
+      "SPANISH": "Produciría",
       "ENGLISH": "I would produce"
     },
     "TU": {
-      "SPANISH": "producirías",
-      "ENGLISH": "you would produce"
+      "SPANISH": "Producirías",
+      "ENGLISH": "You would produce"
     },
     "EL": {
-      "SPANISH": "produciría",
-      "ENGLISH": "s/he would produce, you (formal) would produce"
+      "SPANISH": "Produciría",
+      "ENGLISH": "He would produce"
     },
     "ELLOS": {
-      "SPANISH": "producirían",
-      "ENGLISH": "they would produce, you (plural formal) would produce"
+      "SPANISH": "Producirían",
+      "ENGLISH": "They would produce"
     },
     "NOSOTROS": {
-      "SPANISH": "produciríamos",
-      "ENGLISH": "we would produce"
+      "SPANISH": "Produciríamos",
+      "ENGLISH": "We would produce"
     },
     "VOSOTROS": {
-      "SPANISH": "produciríais",
-      "ENGLISH": "you (plural) would produce"
+      "SPANISH": "Produciríais",
+      "ENGLISH": "You would produce"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría producido",
+      "SPANISH": "Habría producido",
       "ENGLISH": "I would have produced"
     },
     "TU": {
-      "SPANISH": "habrías producido",
-      "ENGLISH": "you would have produced"
+      "SPANISH": "Habrías producido",
+      "ENGLISH": "You would have produced"
     },
     "EL": {
-      "SPANISH": "habría producido",
-      "ENGLISH": "s/he would have produced, you (formal) would have produced"
+      "SPANISH": "Habría producido",
+      "ENGLISH": "He would have produced"
     },
     "ELLOS": {
-      "SPANISH": "habrían producido",
-      "ENGLISH": "they would have produced, you (plural formal) would have produced"
+      "SPANISH": "Habrían producido",
+      "ENGLISH": "They would have produced"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos producido",
-      "ENGLISH": "we would have produced"
+      "SPANISH": "Habríamos producido",
+      "ENGLISH": "We would have produced"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais producido",
-      "ENGLISH": "you (plural) would have produced"
+      "SPANISH": "Habríais producido",
+      "ENGLISH": "You would have produced"
     }
   }
 }

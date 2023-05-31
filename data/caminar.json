@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "camino",
+      "SPANISH": "Camino",
       "ENGLISH": "I walk"
     },
     "TU": {
-      "SPANISH": "caminas",
-      "ENGLISH": "you walk"
+      "SPANISH": "Caminas",
+      "ENGLISH": "You walk"
     },
     "EL": {
-      "SPANISH": "camina",
-      "ENGLISH": "s/he walks, you (formal) walks"
+      "SPANISH": "Camina",
+      "ENGLISH": "He walks"
     },
     "ELLOS": {
-      "SPANISH": "caminan",
-      "ENGLISH": "they walk, you (plural formal) walk"
+      "SPANISH": "Caminan",
+      "ENGLISH": "They walk"
     },
     "NOSOTROS": {
-      "SPANISH": "caminamos",
-      "ENGLISH": "we walk"
+      "SPANISH": "Caminamos",
+      "ENGLISH": "We walk"
     },
     "VOSOTROS": {
-      "SPANISH": "camináis",
-      "ENGLISH": "you (plural) walk"
+      "SPANISH": "Camináis",
+      "ENGLISH": "You walk"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he caminado",
+      "SPANISH": "He caminado",
       "ENGLISH": "I have walked"
     },
     "TU": {
-      "SPANISH": "has caminado",
-      "ENGLISH": "you have walked"
+      "SPANISH": "Has caminado",
+      "ENGLISH": "You have walked"
     },
     "EL": {
-      "SPANISH": "ha caminado",
-      "ENGLISH": "s/he has walked, you (formal) have walked"
+      "SPANISH": "Ha caminado",
+      "ENGLISH": "He has walked"
     },
     "ELLOS": {
-      "SPANISH": "han caminado",
-      "ENGLISH": "they have walked, you (plural formal) have walked"
+      "SPANISH": "Han caminado",
+      "ENGLISH": "They have walked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos caminado",
-      "ENGLISH": "we have walked"
+      "SPANISH": "Hemos caminado",
+      "ENGLISH": "We have walked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis caminado",
-      "ENGLISH": "you (plural) have walked"
+      "SPANISH": "Habéis caminado",
+      "ENGLISH": "You have walked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "caminé",
+      "SPANISH": "Caminé",
       "ENGLISH": "I walked"
     },
     "TU": {
-      "SPANISH": "caminaste",
-      "ENGLISH": "you walked"
+      "SPANISH": "Caminaste",
+      "ENGLISH": "You walked"
     },
     "EL": {
-      "SPANISH": "caminó",
-      "ENGLISH": "s/he walked, you (formal) walked"
+      "SPANISH": "Caminó",
+      "ENGLISH": "He walked"
     },
     "ELLOS": {
-      "SPANISH": "caminaron",
-      "ENGLISH": "they walked, you (plural formal) walked"
+      "SPANISH": "Caminaron",
+      "ENGLISH": "They walked"
     },
     "NOSOTROS": {
-      "SPANISH": "caminamos",
-      "ENGLISH": "we walked"
+      "SPANISH": "Caminamos",
+      "ENGLISH": "We walked"
     },
     "VOSOTROS": {
-      "SPANISH": "caminasteis",
-      "ENGLISH": "you (plural) walked"
+      "SPANISH": "Caminasteis",
+      "ENGLISH": "You walked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había caminado",
+      "SPANISH": "Había caminado",
       "ENGLISH": "I had walked"
     },
     "TU": {
-      "SPANISH": "habías caminado",
-      "ENGLISH": "you had walked"
+      "SPANISH": "Habías caminado",
+      "ENGLISH": "You had walked"
     },
     "EL": {
-      "SPANISH": "había caminado",
-      "ENGLISH": "s/he had walked, you (formal) had walked"
+      "SPANISH": "Había caminado",
+      "ENGLISH": "He had walked"
     },
     "ELLOS": {
-      "SPANISH": "habían caminado",
-      "ENGLISH": "they had walked, you (plural formal) had walked"
+      "SPANISH": "Habían caminado",
+      "ENGLISH": "They had walked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos caminado",
-      "ENGLISH": "we had walked"
+      "SPANISH": "Habíamos caminado",
+      "ENGLISH": "We had walked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais caminado",
-      "ENGLISH": "you (plural) had walked"
+      "SPANISH": "Habíais caminado",
+      "ENGLISH": "You had walked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "caminé",
+      "SPANISH": "Caminé",
       "ENGLISH": "I walked"
     },
     "TU": {
-      "SPANISH": "caminaste",
-      "ENGLISH": "you walked"
+      "SPANISH": "Caminaste",
+      "ENGLISH": "You walked"
     },
     "EL": {
-      "SPANISH": "caminó",
-      "ENGLISH": "s/he walked, you (formal) walked"
+      "SPANISH": "Caminó",
+      "ENGLISH": "He walked"
     },
     "ELLOS": {
-      "SPANISH": "caminaron",
-      "ENGLISH": "they walked, you (plural formal) walked"
+      "SPANISH": "Caminaron",
+      "ENGLISH": "They walked"
     },
     "NOSOTROS": {
-      "SPANISH": "caminamos",
-      "ENGLISH": "we walked"
+      "SPANISH": "Caminamos",
+      "ENGLISH": "We walked"
     },
     "VOSOTROS": {
-      "SPANISH": "caminasteis",
-      "ENGLISH": "you (plural) walked"
+      "SPANISH": "Caminasteis",
+      "ENGLISH": "You walked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "caminaré",
+      "SPANISH": "Caminaré",
       "ENGLISH": "I will walk"
     },
     "TU": {
-      "SPANISH": "caminarás",
-      "ENGLISH": "you will walk"
+      "SPANISH": "Caminarás",
+      "ENGLISH": "You will walk"
     },
     "EL": {
-      "SPANISH": "caminará",
-      "ENGLISH": "s/he will walk, you (formal) will walk"
+      "SPANISH": "Caminará",
+      "ENGLISH": "He will walk"
     },
     "ELLOS": {
-      "SPANISH": "caminarán",
-      "ENGLISH": "they will walk, you (plural formal) will walk"
+      "SPANISH": "Caminarán",
+      "ENGLISH": "They will walk"
     },
     "NOSOTROS": {
-      "SPANISH": "caminaremos",
-      "ENGLISH": "we will walk"
+      "SPANISH": "Caminaremos",
+      "ENGLISH": "We will walk"
     },
     "VOSOTROS": {
-      "SPANISH": "caminaréis",
-      "ENGLISH": "you (plural) will walk"
+      "SPANISH": "Caminaréis",
+      "ENGLISH": "You will walk"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré caminado",
+      "SPANISH": "Habré caminado",
       "ENGLISH": "I will have walked"
     },
     "TU": {
-      "SPANISH": "habrás caminado",
-      "ENGLISH": "you will have walked"
+      "SPANISH": "Habrás caminado",
+      "ENGLISH": "You will have walked"
     },
     "EL": {
-      "SPANISH": "habrá caminado",
-      "ENGLISH": "s/he will have walked, you (formal) will have walked"
+      "SPANISH": "Habrá caminado",
+      "ENGLISH": "He will have walked"
     },
     "ELLOS": {
-      "SPANISH": "habrán caminado",
-      "ENGLISH": "they will have walked, you (plural formal) will have walked"
+      "SPANISH": "Habrán caminado",
+      "ENGLISH": "They will have walked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos caminado",
-      "ENGLISH": "we will have walked"
+      "SPANISH": "Habremos caminado",
+      "ENGLISH": "We will have walked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis caminado",
-      "ENGLISH": "you (plural) will have walked"
+      "SPANISH": "Habréis caminado",
+      "ENGLISH": "You will have walked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "caminaría",
+      "SPANISH": "Caminaría",
       "ENGLISH": "I would walk"
     },
     "TU": {
-      "SPANISH": "caminarías",
-      "ENGLISH": "you would walk"
+      "SPANISH": "Caminarías",
+      "ENGLISH": "You would walk"
     },
     "EL": {
-      "SPANISH": "caminaría",
-      "ENGLISH": "s/he would walk, you (formal) would walk"
+      "SPANISH": "Caminaría",
+      "ENGLISH": "He would walk"
     },
     "ELLOS": {
-      "SPANISH": "caminarían",
-      "ENGLISH": "they would walk, you (plural formal) would walk"
+      "SPANISH": "Caminarían",
+      "ENGLISH": "They would walk"
     },
     "NOSOTROS": {
-      "SPANISH": "caminaríamos",
-      "ENGLISH": "we would walk"
+      "SPANISH": "Caminaríamos",
+      "ENGLISH": "We would walk"
     },
     "VOSOTROS": {
-      "SPANISH": "caminaríais",
-      "ENGLISH": "you (plural) would walk"
+      "SPANISH": "Caminaríais",
+      "ENGLISH": "You would walk"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría caminado",
+      "SPANISH": "Habría caminado",
       "ENGLISH": "I would have walked"
     },
     "TU": {
-      "SPANISH": "habrías caminado",
-      "ENGLISH": "you would have walked"
+      "SPANISH": "Habrías caminado",
+      "ENGLISH": "You would have walked"
     },
     "EL": {
-      "SPANISH": "habría caminado",
-      "ENGLISH": "s/he would have walked, you (formal) would have walked"
+      "SPANISH": "Habría caminado",
+      "ENGLISH": "He would have walked"
     },
     "ELLOS": {
-      "SPANISH": "habrían caminado",
-      "ENGLISH": "they would have walked, you (plural formal) would have walked"
+      "SPANISH": "Habrían caminado",
+      "ENGLISH": "They would have walked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos caminado",
-      "ENGLISH": "we would have walked"
+      "SPANISH": "Habríamos caminado",
+      "ENGLISH": "We would have walked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais caminado",
-      "ENGLISH": "you (plural) would have walked"
+      "SPANISH": "Habríais caminado",
+      "ENGLISH": "You would have walked"
     }
   }
 }

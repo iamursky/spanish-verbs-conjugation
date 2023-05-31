@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "educo",
+      "SPANISH": "Educo",
       "ENGLISH": "I educate"
     },
     "TU": {
-      "SPANISH": "educas",
-      "ENGLISH": "you educate"
+      "SPANISH": "Educas",
+      "ENGLISH": "You educate"
     },
     "EL": {
-      "SPANISH": "educa",
-      "ENGLISH": "s/he educates, you (formal) educates"
+      "SPANISH": "Educa",
+      "ENGLISH": "He educates"
     },
     "ELLOS": {
-      "SPANISH": "educan",
-      "ENGLISH": "they educate, you (plural formal) educate"
+      "SPANISH": "Educan",
+      "ENGLISH": "They educate"
     },
     "NOSOTROS": {
-      "SPANISH": "educamos",
-      "ENGLISH": "we educate"
+      "SPANISH": "Educamos",
+      "ENGLISH": "We educate"
     },
     "VOSOTROS": {
-      "SPANISH": "educáis",
-      "ENGLISH": "you (plural) educate"
+      "SPANISH": "Educáis",
+      "ENGLISH": "You educate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he educado",
+      "SPANISH": "He educado",
       "ENGLISH": "I have educated"
     },
     "TU": {
-      "SPANISH": "has educado",
-      "ENGLISH": "you have educated"
+      "SPANISH": "Has educado",
+      "ENGLISH": "You have educated"
     },
     "EL": {
-      "SPANISH": "ha educado",
-      "ENGLISH": "s/he has educated, you (formal) have educated"
+      "SPANISH": "Ha educado",
+      "ENGLISH": "He has educated"
     },
     "ELLOS": {
-      "SPANISH": "han educado",
-      "ENGLISH": "they have educated, you (plural formal) have educated"
+      "SPANISH": "Han educado",
+      "ENGLISH": "They have educated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos educado",
-      "ENGLISH": "we have educated"
+      "SPANISH": "Hemos educado",
+      "ENGLISH": "We have educated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis educado",
-      "ENGLISH": "you (plural) have educated"
+      "SPANISH": "Habéis educado",
+      "ENGLISH": "You have educated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "eduqué ",
+      "SPANISH": "Eduqué ",
       "ENGLISH": "I educated"
     },
     "TU": {
-      "SPANISH": "educaste",
-      "ENGLISH": "you educated"
+      "SPANISH": "Educaste",
+      "ENGLISH": "You educated"
     },
     "EL": {
-      "SPANISH": "educó",
-      "ENGLISH": "s/he educated, you (formal) educated"
+      "SPANISH": "Educó",
+      "ENGLISH": "He educated"
     },
     "ELLOS": {
-      "SPANISH": "educaron",
-      "ENGLISH": "they educated, you (plural formal) educated"
+      "SPANISH": "Educaron",
+      "ENGLISH": "They educated"
     },
     "NOSOTROS": {
-      "SPANISH": "educamos",
-      "ENGLISH": "we educated"
+      "SPANISH": "Educamos",
+      "ENGLISH": "We educated"
     },
     "VOSOTROS": {
-      "SPANISH": "educasteis",
-      "ENGLISH": "you (plural) educated"
+      "SPANISH": "Educasteis",
+      "ENGLISH": "You educated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había educado",
+      "SPANISH": "Había educado",
       "ENGLISH": "I had educated"
     },
     "TU": {
-      "SPANISH": "habías educado",
-      "ENGLISH": "you had educated"
+      "SPANISH": "Habías educado",
+      "ENGLISH": "You had educated"
     },
     "EL": {
-      "SPANISH": "había educado",
-      "ENGLISH": "s/he had educated, you (formal) had educated"
+      "SPANISH": "Había educado",
+      "ENGLISH": "He had educated"
     },
     "ELLOS": {
-      "SPANISH": "habían educado",
-      "ENGLISH": "they had educated, you (plural formal) had educated"
+      "SPANISH": "Habían educado",
+      "ENGLISH": "They had educated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos educado",
-      "ENGLISH": "we had educated"
+      "SPANISH": "Habíamos educado",
+      "ENGLISH": "We had educated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais educado",
-      "ENGLISH": "you (plural) had educated"
+      "SPANISH": "Habíais educado",
+      "ENGLISH": "You had educated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "eduqué ",
+      "SPANISH": "Eduqué ",
       "ENGLISH": "I educated"
     },
     "TU": {
-      "SPANISH": "educaste",
-      "ENGLISH": "you educated"
+      "SPANISH": "Educaste",
+      "ENGLISH": "You educated"
     },
     "EL": {
-      "SPANISH": "educó",
-      "ENGLISH": "s/he educated, you (formal) educated"
+      "SPANISH": "Educó",
+      "ENGLISH": "He educated"
     },
     "ELLOS": {
-      "SPANISH": "educaron",
-      "ENGLISH": "they educated, you (plural formal) educated"
+      "SPANISH": "Educaron",
+      "ENGLISH": "They educated"
     },
     "NOSOTROS": {
-      "SPANISH": "educamos",
-      "ENGLISH": "we educated"
+      "SPANISH": "Educamos",
+      "ENGLISH": "We educated"
     },
     "VOSOTROS": {
-      "SPANISH": "educasteis",
-      "ENGLISH": "you (plural) educated"
+      "SPANISH": "Educasteis",
+      "ENGLISH": "You educated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "educaré",
+      "SPANISH": "Educaré",
       "ENGLISH": "I will educate"
     },
     "TU": {
-      "SPANISH": "educarás",
-      "ENGLISH": "you will educate"
+      "SPANISH": "Educarás",
+      "ENGLISH": "You will educate"
     },
     "EL": {
-      "SPANISH": "educará",
-      "ENGLISH": "s/he will educate, you (formal) will educate"
+      "SPANISH": "Educará",
+      "ENGLISH": "He will educate"
     },
     "ELLOS": {
-      "SPANISH": "educarán",
-      "ENGLISH": "they will educate, you (plural formal) will educate"
+      "SPANISH": "Educarán",
+      "ENGLISH": "They will educate"
     },
     "NOSOTROS": {
-      "SPANISH": "educaremos",
-      "ENGLISH": "we will educate"
+      "SPANISH": "Educaremos",
+      "ENGLISH": "We will educate"
     },
     "VOSOTROS": {
-      "SPANISH": "educaréis",
-      "ENGLISH": "you (plural) will educate"
+      "SPANISH": "Educaréis",
+      "ENGLISH": "You will educate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré educado",
+      "SPANISH": "Habré educado",
       "ENGLISH": "I will have educated"
     },
     "TU": {
-      "SPANISH": "habrás educado",
-      "ENGLISH": "you will have educated"
+      "SPANISH": "Habrás educado",
+      "ENGLISH": "You will have educated"
     },
     "EL": {
-      "SPANISH": "habrá educado",
-      "ENGLISH": "s/he will have educated, you (formal) will have educated"
+      "SPANISH": "Habrá educado",
+      "ENGLISH": "He will have educated"
     },
     "ELLOS": {
-      "SPANISH": "habrán educado",
-      "ENGLISH": "they will have educated, you (plural formal) will have educated"
+      "SPANISH": "Habrán educado",
+      "ENGLISH": "They will have educated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos educado",
-      "ENGLISH": "we will have educated"
+      "SPANISH": "Habremos educado",
+      "ENGLISH": "We will have educated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis educado",
-      "ENGLISH": "you (plural) will have educated"
+      "SPANISH": "Habréis educado",
+      "ENGLISH": "You will have educated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "educaría",
+      "SPANISH": "Educaría",
       "ENGLISH": "I would educate"
     },
     "TU": {
-      "SPANISH": "educarías",
-      "ENGLISH": "you would educate"
+      "SPANISH": "Educarías",
+      "ENGLISH": "You would educate"
     },
     "EL": {
-      "SPANISH": "educaría",
-      "ENGLISH": "s/he would educate, you (formal) would educate"
+      "SPANISH": "Educaría",
+      "ENGLISH": "He would educate"
     },
     "ELLOS": {
-      "SPANISH": "educarían",
-      "ENGLISH": "they would educate, you (plural formal) would educate"
+      "SPANISH": "Educarían",
+      "ENGLISH": "They would educate"
     },
     "NOSOTROS": {
-      "SPANISH": "educaríamos",
-      "ENGLISH": "we would educate"
+      "SPANISH": "Educaríamos",
+      "ENGLISH": "We would educate"
     },
     "VOSOTROS": {
-      "SPANISH": "educaríais",
-      "ENGLISH": "you (plural) would educate"
+      "SPANISH": "Educaríais",
+      "ENGLISH": "You would educate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría educado",
+      "SPANISH": "Habría educado",
       "ENGLISH": "I would have educated"
     },
     "TU": {
-      "SPANISH": "habrías educado",
-      "ENGLISH": "you would have educated"
+      "SPANISH": "Habrías educado",
+      "ENGLISH": "You would have educated"
     },
     "EL": {
-      "SPANISH": "habría educado",
-      "ENGLISH": "s/he would have educated, you (formal) would have educated"
+      "SPANISH": "Habría educado",
+      "ENGLISH": "He would have educated"
     },
     "ELLOS": {
-      "SPANISH": "habrían educado",
-      "ENGLISH": "they would have educated, you (plural formal) would have educated"
+      "SPANISH": "Habrían educado",
+      "ENGLISH": "They would have educated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos educado",
-      "ENGLISH": "we would have educated"
+      "SPANISH": "Habríamos educado",
+      "ENGLISH": "We would have educated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais educado",
-      "ENGLISH": "you (plural) would have educated"
+      "SPANISH": "Habríais educado",
+      "ENGLISH": "You would have educated"
     }
   }
 }

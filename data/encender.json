@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "enciendo ",
+      "SPANISH": "Enciendo ",
       "ENGLISH": "I turn on"
     },
     "TU": {
-      "SPANISH": "enciendes ",
-      "ENGLISH": "you turn on"
+      "SPANISH": "Enciendes ",
+      "ENGLISH": "You turn on"
     },
     "EL": {
-      "SPANISH": "enciende ",
-      "ENGLISH": "s/he turns on, you (formal) turns on"
+      "SPANISH": "Enciende ",
+      "ENGLISH": "He turns on"
     },
     "ELLOS": {
-      "SPANISH": "encienden ",
-      "ENGLISH": "they turn on, you (plural formal) turn on"
+      "SPANISH": "Encienden ",
+      "ENGLISH": "They turn on"
     },
     "NOSOTROS": {
-      "SPANISH": "encendemos",
-      "ENGLISH": "we turn on"
+      "SPANISH": "Encendemos",
+      "ENGLISH": "We turn on"
     },
     "VOSOTROS": {
-      "SPANISH": "encendéis",
-      "ENGLISH": "you (plural) turn on"
+      "SPANISH": "Encendéis",
+      "ENGLISH": "You turn on"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he encendido",
+      "SPANISH": "He encendido",
       "ENGLISH": "I have turned on"
     },
     "TU": {
-      "SPANISH": "has encendido",
-      "ENGLISH": "you have turned on"
+      "SPANISH": "Has encendido",
+      "ENGLISH": "You have turned on"
     },
     "EL": {
-      "SPANISH": "ha encendido",
-      "ENGLISH": "s/he has turned on, you (formal) have turned on"
+      "SPANISH": "Ha encendido",
+      "ENGLISH": "He has turned on"
     },
     "ELLOS": {
-      "SPANISH": "han encendido",
-      "ENGLISH": "they have turned on, you (plural formal) have turned on"
+      "SPANISH": "Han encendido",
+      "ENGLISH": "They have turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos encendido",
-      "ENGLISH": "we have turned on"
+      "SPANISH": "Hemos encendido",
+      "ENGLISH": "We have turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis encendido",
-      "ENGLISH": "you (plural) have turned on"
+      "SPANISH": "Habéis encendido",
+      "ENGLISH": "You have turned on"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "encendí",
+      "SPANISH": "Encendí",
       "ENGLISH": "I turned on"
     },
     "TU": {
-      "SPANISH": "encendiste",
-      "ENGLISH": "you turned on"
+      "SPANISH": "Encendiste",
+      "ENGLISH": "You turned on"
     },
     "EL": {
-      "SPANISH": "encendió",
-      "ENGLISH": "s/he turned on, you (formal) turned on"
+      "SPANISH": "Encendió",
+      "ENGLISH": "He turned on"
     },
     "ELLOS": {
-      "SPANISH": "encendieron",
-      "ENGLISH": "they turned on, you (plural formal) turned on"
+      "SPANISH": "Encendieron",
+      "ENGLISH": "They turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "encendimos",
-      "ENGLISH": "we turned on"
+      "SPANISH": "Encendimos",
+      "ENGLISH": "We turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "encendisteis",
-      "ENGLISH": "you (plural) turned on"
+      "SPANISH": "Encendisteis",
+      "ENGLISH": "You turned on"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había encendido",
+      "SPANISH": "Había encendido",
       "ENGLISH": "I had turned on"
     },
     "TU": {
-      "SPANISH": "habías encendido",
-      "ENGLISH": "you had turned on"
+      "SPANISH": "Habías encendido",
+      "ENGLISH": "You had turned on"
     },
     "EL": {
-      "SPANISH": "había encendido",
-      "ENGLISH": "s/he had turned on, you (formal) had turned on"
+      "SPANISH": "Había encendido",
+      "ENGLISH": "He had turned on"
     },
     "ELLOS": {
-      "SPANISH": "habían encendido",
-      "ENGLISH": "they had turned on, you (plural formal) had turned on"
+      "SPANISH": "Habían encendido",
+      "ENGLISH": "They had turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos encendido",
-      "ENGLISH": "we had turned on"
+      "SPANISH": "Habíamos encendido",
+      "ENGLISH": "We had turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais encendido",
-      "ENGLISH": "you (plural) had turned on"
+      "SPANISH": "Habíais encendido",
+      "ENGLISH": "You had turned on"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "encendí",
+      "SPANISH": "Encendí",
       "ENGLISH": "I turned on"
     },
     "TU": {
-      "SPANISH": "encendiste",
-      "ENGLISH": "you turned on"
+      "SPANISH": "Encendiste",
+      "ENGLISH": "You turned on"
     },
     "EL": {
-      "SPANISH": "encendió",
-      "ENGLISH": "s/he turned on, you (formal) turned on"
+      "SPANISH": "Encendió",
+      "ENGLISH": "He turned on"
     },
     "ELLOS": {
-      "SPANISH": "encendieron",
-      "ENGLISH": "they turned on, you (plural formal) turned on"
+      "SPANISH": "Encendieron",
+      "ENGLISH": "They turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "encendimos",
-      "ENGLISH": "we turned on"
+      "SPANISH": "Encendimos",
+      "ENGLISH": "We turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "encendisteis",
-      "ENGLISH": "you (plural) turned on"
+      "SPANISH": "Encendisteis",
+      "ENGLISH": "You turned on"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "encenderé",
+      "SPANISH": "Encenderé",
       "ENGLISH": "I will turn on"
     },
     "TU": {
-      "SPANISH": "encenderás",
-      "ENGLISH": "you will turn on"
+      "SPANISH": "Encenderás",
+      "ENGLISH": "You will turn on"
     },
     "EL": {
-      "SPANISH": "encenderá",
-      "ENGLISH": "s/he will turn on, you (formal) will turn on"
+      "SPANISH": "Encenderá",
+      "ENGLISH": "He will turn on"
     },
     "ELLOS": {
-      "SPANISH": "encenderán",
-      "ENGLISH": "they will turn on, you (plural formal) will turn on"
+      "SPANISH": "Encenderán",
+      "ENGLISH": "They will turn on"
     },
     "NOSOTROS": {
-      "SPANISH": "encenderemos",
-      "ENGLISH": "we will turn on"
+      "SPANISH": "Encenderemos",
+      "ENGLISH": "We will turn on"
     },
     "VOSOTROS": {
-      "SPANISH": "encenderéis",
-      "ENGLISH": "you (plural) will turn on"
+      "SPANISH": "Encenderéis",
+      "ENGLISH": "You will turn on"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré encendido",
+      "SPANISH": "Habré encendido",
       "ENGLISH": "I will have turned on"
     },
     "TU": {
-      "SPANISH": "habrás encendido",
-      "ENGLISH": "you will have turned on"
+      "SPANISH": "Habrás encendido",
+      "ENGLISH": "You will have turned on"
     },
     "EL": {
-      "SPANISH": "habrá encendido",
-      "ENGLISH": "s/he will have turned on, you (formal) will have turned on"
+      "SPANISH": "Habrá encendido",
+      "ENGLISH": "He will have turned on"
     },
     "ELLOS": {
-      "SPANISH": "habrán encendido",
-      "ENGLISH": "they will have turned on, you (plural formal) will have turned on"
+      "SPANISH": "Habrán encendido",
+      "ENGLISH": "They will have turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos encendido",
-      "ENGLISH": "we will have turned on"
+      "SPANISH": "Habremos encendido",
+      "ENGLISH": "We will have turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis encendido",
-      "ENGLISH": "you (plural) will have turned on"
+      "SPANISH": "Habréis encendido",
+      "ENGLISH": "You will have turned on"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "encendería",
+      "SPANISH": "Encendería",
       "ENGLISH": "I would turn on"
     },
     "TU": {
-      "SPANISH": "encenderías",
-      "ENGLISH": "you would turn on"
+      "SPANISH": "Encenderías",
+      "ENGLISH": "You would turn on"
     },
     "EL": {
-      "SPANISH": "encendería",
-      "ENGLISH": "s/he would turn on, you (formal) would turn on"
+      "SPANISH": "Encendería",
+      "ENGLISH": "He would turn on"
     },
     "ELLOS": {
-      "SPANISH": "encenderían",
-      "ENGLISH": "they would turn on, you (plural formal) would turn on"
+      "SPANISH": "Encenderían",
+      "ENGLISH": "They would turn on"
     },
     "NOSOTROS": {
-      "SPANISH": "encenderíamos",
-      "ENGLISH": "we would turn on"
+      "SPANISH": "Encenderíamos",
+      "ENGLISH": "We would turn on"
     },
     "VOSOTROS": {
-      "SPANISH": "encenderíais",
-      "ENGLISH": "you (plural) would turn on"
+      "SPANISH": "Encenderíais",
+      "ENGLISH": "You would turn on"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría encendido",
+      "SPANISH": "Habría encendido",
       "ENGLISH": "I would have turned on"
     },
     "TU": {
-      "SPANISH": "habrías encendido",
-      "ENGLISH": "you would have turned on"
+      "SPANISH": "Habrías encendido",
+      "ENGLISH": "You would have turned on"
     },
     "EL": {
-      "SPANISH": "habría encendido",
-      "ENGLISH": "s/he would have turned on, you (formal) would have turned on"
+      "SPANISH": "Habría encendido",
+      "ENGLISH": "He would have turned on"
     },
     "ELLOS": {
-      "SPANISH": "habrían encendido",
-      "ENGLISH": "they would have turned on, you (plural formal) would have turned on"
+      "SPANISH": "Habrían encendido",
+      "ENGLISH": "They would have turned on"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos encendido",
-      "ENGLISH": "we would have turned on"
+      "SPANISH": "Habríamos encendido",
+      "ENGLISH": "We would have turned on"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais encendido",
-      "ENGLISH": "you (plural) would have turned on"
+      "SPANISH": "Habríais encendido",
+      "ENGLISH": "You would have turned on"
     }
   }
 }

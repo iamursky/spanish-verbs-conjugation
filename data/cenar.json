@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "ceno",
+      "SPANISH": "Ceno",
       "ENGLISH": "I dine"
     },
     "TU": {
-      "SPANISH": "cenas",
-      "ENGLISH": "you dine"
+      "SPANISH": "Cenas",
+      "ENGLISH": "You dine"
     },
     "EL": {
-      "SPANISH": "cena",
-      "ENGLISH": "s/he dines, you (formal) dines"
+      "SPANISH": "Cena",
+      "ENGLISH": "He dines"
     },
     "ELLOS": {
-      "SPANISH": "cenan",
-      "ENGLISH": "they dine, you (plural formal) dine"
+      "SPANISH": "Cenan",
+      "ENGLISH": "They dine"
     },
     "NOSOTROS": {
-      "SPANISH": "cenamos",
-      "ENGLISH": "we dine"
+      "SPANISH": "Cenamos",
+      "ENGLISH": "We dine"
     },
     "VOSOTROS": {
-      "SPANISH": "cenáis",
-      "ENGLISH": "you (plural) dine"
+      "SPANISH": "Cenáis",
+      "ENGLISH": "You dine"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cenado",
+      "SPANISH": "He cenado",
       "ENGLISH": "I have dined"
     },
     "TU": {
-      "SPANISH": "has cenado",
-      "ENGLISH": "you have dined"
+      "SPANISH": "Has cenado",
+      "ENGLISH": "You have dined"
     },
     "EL": {
-      "SPANISH": "ha cenado",
-      "ENGLISH": "s/he has dined, you (formal) have dined"
+      "SPANISH": "Ha cenado",
+      "ENGLISH": "He has dined"
     },
     "ELLOS": {
-      "SPANISH": "han cenado",
-      "ENGLISH": "they have dined, you (plural formal) have dined"
+      "SPANISH": "Han cenado",
+      "ENGLISH": "They have dined"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cenado",
-      "ENGLISH": "we have dined"
+      "SPANISH": "Hemos cenado",
+      "ENGLISH": "We have dined"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cenado",
-      "ENGLISH": "you (plural) have dined"
+      "SPANISH": "Habéis cenado",
+      "ENGLISH": "You have dined"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cené",
+      "SPANISH": "Cené",
       "ENGLISH": "I dined"
     },
     "TU": {
-      "SPANISH": "cenaste",
-      "ENGLISH": "you dined"
+      "SPANISH": "Cenaste",
+      "ENGLISH": "You dined"
     },
     "EL": {
-      "SPANISH": "cenó",
-      "ENGLISH": "s/he dined, you (formal) dined"
+      "SPANISH": "Cenó",
+      "ENGLISH": "He dined"
     },
     "ELLOS": {
-      "SPANISH": "cenaron",
-      "ENGLISH": "they dined, you (plural formal) dined"
+      "SPANISH": "Cenaron",
+      "ENGLISH": "They dined"
     },
     "NOSOTROS": {
-      "SPANISH": "cenamos",
-      "ENGLISH": "we dined"
+      "SPANISH": "Cenamos",
+      "ENGLISH": "We dined"
     },
     "VOSOTROS": {
-      "SPANISH": "cenasteis",
-      "ENGLISH": "you (plural) dined"
+      "SPANISH": "Cenasteis",
+      "ENGLISH": "You dined"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cenado",
+      "SPANISH": "Había cenado",
       "ENGLISH": "I had dined"
     },
     "TU": {
-      "SPANISH": "habías cenado",
-      "ENGLISH": "you had dined"
+      "SPANISH": "Habías cenado",
+      "ENGLISH": "You had dined"
     },
     "EL": {
-      "SPANISH": "había cenado",
-      "ENGLISH": "s/he had dined, you (formal) had dined"
+      "SPANISH": "Había cenado",
+      "ENGLISH": "He had dined"
     },
     "ELLOS": {
-      "SPANISH": "habían cenado",
-      "ENGLISH": "they had dined, you (plural formal) had dined"
+      "SPANISH": "Habían cenado",
+      "ENGLISH": "They had dined"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cenado",
-      "ENGLISH": "we had dined"
+      "SPANISH": "Habíamos cenado",
+      "ENGLISH": "We had dined"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cenado",
-      "ENGLISH": "you (plural) had dined"
+      "SPANISH": "Habíais cenado",
+      "ENGLISH": "You had dined"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cené",
+      "SPANISH": "Cené",
       "ENGLISH": "I dined"
     },
     "TU": {
-      "SPANISH": "cenaste",
-      "ENGLISH": "you dined"
+      "SPANISH": "Cenaste",
+      "ENGLISH": "You dined"
     },
     "EL": {
-      "SPANISH": "cenó",
-      "ENGLISH": "s/he dined, you (formal) dined"
+      "SPANISH": "Cenó",
+      "ENGLISH": "He dined"
     },
     "ELLOS": {
-      "SPANISH": "cenaron",
-      "ENGLISH": "they dined, you (plural formal) dined"
+      "SPANISH": "Cenaron",
+      "ENGLISH": "They dined"
     },
     "NOSOTROS": {
-      "SPANISH": "cenamos",
-      "ENGLISH": "we dined"
+      "SPANISH": "Cenamos",
+      "ENGLISH": "We dined"
     },
     "VOSOTROS": {
-      "SPANISH": "cenasteis",
-      "ENGLISH": "you (plural) dined"
+      "SPANISH": "Cenasteis",
+      "ENGLISH": "You dined"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cenaré",
+      "SPANISH": "Cenaré",
       "ENGLISH": "I will dine"
     },
     "TU": {
-      "SPANISH": "cenarás",
-      "ENGLISH": "you will dine"
+      "SPANISH": "Cenarás",
+      "ENGLISH": "You will dine"
     },
     "EL": {
-      "SPANISH": "cenará",
-      "ENGLISH": "s/he will dine, you (formal) will dine"
+      "SPANISH": "Cenará",
+      "ENGLISH": "He will dine"
     },
     "ELLOS": {
-      "SPANISH": "cenarán",
-      "ENGLISH": "they will dine, you (plural formal) will dine"
+      "SPANISH": "Cenarán",
+      "ENGLISH": "They will dine"
     },
     "NOSOTROS": {
-      "SPANISH": "cenaremos",
-      "ENGLISH": "we will dine"
+      "SPANISH": "Cenaremos",
+      "ENGLISH": "We will dine"
     },
     "VOSOTROS": {
-      "SPANISH": "cenaréis",
-      "ENGLISH": "you (plural) will dine"
+      "SPANISH": "Cenaréis",
+      "ENGLISH": "You will dine"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cenado",
+      "SPANISH": "Habré cenado",
       "ENGLISH": "I will have dined"
     },
     "TU": {
-      "SPANISH": "habrás cenado",
-      "ENGLISH": "you will have dined"
+      "SPANISH": "Habrás cenado",
+      "ENGLISH": "You will have dined"
     },
     "EL": {
-      "SPANISH": "habrá cenado",
-      "ENGLISH": "s/he will have dined, you (formal) will have dined"
+      "SPANISH": "Habrá cenado",
+      "ENGLISH": "He will have dined"
     },
     "ELLOS": {
-      "SPANISH": "habrán cenado",
-      "ENGLISH": "they will have dined, you (plural formal) will have dined"
+      "SPANISH": "Habrán cenado",
+      "ENGLISH": "They will have dined"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cenado",
-      "ENGLISH": "we will have dined"
+      "SPANISH": "Habremos cenado",
+      "ENGLISH": "We will have dined"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cenado",
-      "ENGLISH": "you (plural) will have dined"
+      "SPANISH": "Habréis cenado",
+      "ENGLISH": "You will have dined"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cenaría",
+      "SPANISH": "Cenaría",
       "ENGLISH": "I would dine"
     },
     "TU": {
-      "SPANISH": "cenarías",
-      "ENGLISH": "you would dine"
+      "SPANISH": "Cenarías",
+      "ENGLISH": "You would dine"
     },
     "EL": {
-      "SPANISH": "cenaría",
-      "ENGLISH": "s/he would dine, you (formal) would dine"
+      "SPANISH": "Cenaría",
+      "ENGLISH": "He would dine"
     },
     "ELLOS": {
-      "SPANISH": "cenarían",
-      "ENGLISH": "they would dine, you (plural formal) would dine"
+      "SPANISH": "Cenarían",
+      "ENGLISH": "They would dine"
     },
     "NOSOTROS": {
-      "SPANISH": "cenaríamos",
-      "ENGLISH": "we would dine"
+      "SPANISH": "Cenaríamos",
+      "ENGLISH": "We would dine"
     },
     "VOSOTROS": {
-      "SPANISH": "cenaríais",
-      "ENGLISH": "you (plural) would dine"
+      "SPANISH": "Cenaríais",
+      "ENGLISH": "You would dine"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cenado",
+      "SPANISH": "Habría cenado",
       "ENGLISH": "I would have dined"
     },
     "TU": {
-      "SPANISH": "habrías cenado",
-      "ENGLISH": "you would have dined"
+      "SPANISH": "Habrías cenado",
+      "ENGLISH": "You would have dined"
     },
     "EL": {
-      "SPANISH": "habría cenado",
-      "ENGLISH": "s/he would have dined, you (formal) would have dined"
+      "SPANISH": "Habría cenado",
+      "ENGLISH": "He would have dined"
     },
     "ELLOS": {
-      "SPANISH": "habrían cenado",
-      "ENGLISH": "they would have dined, you (plural formal) would have dined"
+      "SPANISH": "Habrían cenado",
+      "ENGLISH": "They would have dined"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cenado",
-      "ENGLISH": "we would have dined"
+      "SPANISH": "Habríamos cenado",
+      "ENGLISH": "We would have dined"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cenado",
-      "ENGLISH": "you (plural) would have dined"
+      "SPANISH": "Habríais cenado",
+      "ENGLISH": "You would have dined"
     }
   }
 }

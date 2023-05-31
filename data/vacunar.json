@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "vacuno",
+      "SPANISH": "Vacuno",
       "ENGLISH": "I vaccinate"
     },
     "TU": {
-      "SPANISH": "vacunas",
-      "ENGLISH": "you vaccinate"
+      "SPANISH": "Vacunas",
+      "ENGLISH": "You vaccinate"
     },
     "EL": {
-      "SPANISH": "vacuna",
-      "ENGLISH": "s/he vaccinates, you (formal) vaccinates"
+      "SPANISH": "Vacuna",
+      "ENGLISH": "He vaccinates"
     },
     "ELLOS": {
-      "SPANISH": "vacunan",
-      "ENGLISH": "they vaccinate, you (plural formal) vaccinate"
+      "SPANISH": "Vacunan",
+      "ENGLISH": "They vaccinate"
     },
     "NOSOTROS": {
-      "SPANISH": "vacunamos",
-      "ENGLISH": "we vaccinate"
+      "SPANISH": "Vacunamos",
+      "ENGLISH": "We vaccinate"
     },
     "VOSOTROS": {
-      "SPANISH": "vacunáis",
-      "ENGLISH": "you (plural) vaccinate"
+      "SPANISH": "Vacunáis",
+      "ENGLISH": "You vaccinate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he vacunado",
+      "SPANISH": "He vacunado",
       "ENGLISH": "I have vaccinated"
     },
     "TU": {
-      "SPANISH": "has vacunado",
-      "ENGLISH": "you have vaccinated"
+      "SPANISH": "Has vacunado",
+      "ENGLISH": "You have vaccinated"
     },
     "EL": {
-      "SPANISH": "ha vacunado",
-      "ENGLISH": "s/he has vaccinated, you (formal) have vaccinated"
+      "SPANISH": "Ha vacunado",
+      "ENGLISH": "He has vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "han vacunado",
-      "ENGLISH": "they have vaccinated, you (plural formal) have vaccinated"
+      "SPANISH": "Han vacunado",
+      "ENGLISH": "They have vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos vacunado",
-      "ENGLISH": "we have vaccinated"
+      "SPANISH": "Hemos vacunado",
+      "ENGLISH": "We have vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis vacunado",
-      "ENGLISH": "you (plural) have vaccinated"
+      "SPANISH": "Habéis vacunado",
+      "ENGLISH": "You have vaccinated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "vacuné",
+      "SPANISH": "Vacuné",
       "ENGLISH": "I vaccinated"
     },
     "TU": {
-      "SPANISH": "vacunaste",
-      "ENGLISH": "you vaccinated"
+      "SPANISH": "Vacunaste",
+      "ENGLISH": "You vaccinated"
     },
     "EL": {
-      "SPANISH": "vacunó",
-      "ENGLISH": "s/he vaccinated, you (formal) vaccinated"
+      "SPANISH": "Vacunó",
+      "ENGLISH": "He vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "vacunaron",
-      "ENGLISH": "they vaccinated, you (plural formal) vaccinated"
+      "SPANISH": "Vacunaron",
+      "ENGLISH": "They vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "vacunamos",
-      "ENGLISH": "we vaccinated"
+      "SPANISH": "Vacunamos",
+      "ENGLISH": "We vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "vacunasteis",
-      "ENGLISH": "you (plural) vaccinated"
+      "SPANISH": "Vacunasteis",
+      "ENGLISH": "You vaccinated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había vacunado",
+      "SPANISH": "Había vacunado",
       "ENGLISH": "I had vaccinated"
     },
     "TU": {
-      "SPANISH": "habías vacunado",
-      "ENGLISH": "you had vaccinated"
+      "SPANISH": "Habías vacunado",
+      "ENGLISH": "You had vaccinated"
     },
     "EL": {
-      "SPANISH": "había vacunado",
-      "ENGLISH": "s/he had vaccinated, you (formal) had vaccinated"
+      "SPANISH": "Había vacunado",
+      "ENGLISH": "He had vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "habían vacunado",
-      "ENGLISH": "they had vaccinated, you (plural formal) had vaccinated"
+      "SPANISH": "Habían vacunado",
+      "ENGLISH": "They had vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos vacunado",
-      "ENGLISH": "we had vaccinated"
+      "SPANISH": "Habíamos vacunado",
+      "ENGLISH": "We had vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais vacunado",
-      "ENGLISH": "you (plural) had vaccinated"
+      "SPANISH": "Habíais vacunado",
+      "ENGLISH": "You had vaccinated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "vacuné",
+      "SPANISH": "Vacuné",
       "ENGLISH": "I vaccinated"
     },
     "TU": {
-      "SPANISH": "vacunaste",
-      "ENGLISH": "you vaccinated"
+      "SPANISH": "Vacunaste",
+      "ENGLISH": "You vaccinated"
     },
     "EL": {
-      "SPANISH": "vacunó",
-      "ENGLISH": "s/he vaccinated, you (formal) vaccinated"
+      "SPANISH": "Vacunó",
+      "ENGLISH": "He vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "vacunaron",
-      "ENGLISH": "they vaccinated, you (plural formal) vaccinated"
+      "SPANISH": "Vacunaron",
+      "ENGLISH": "They vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "vacunamos",
-      "ENGLISH": "we vaccinated"
+      "SPANISH": "Vacunamos",
+      "ENGLISH": "We vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "vacunasteis",
-      "ENGLISH": "you (plural) vaccinated"
+      "SPANISH": "Vacunasteis",
+      "ENGLISH": "You vaccinated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "vacunaré",
+      "SPANISH": "Vacunaré",
       "ENGLISH": "I will vaccinate"
     },
     "TU": {
-      "SPANISH": "vacunarás",
-      "ENGLISH": "you will vaccinate"
+      "SPANISH": "Vacunarás",
+      "ENGLISH": "You will vaccinate"
     },
     "EL": {
-      "SPANISH": "vacunará",
-      "ENGLISH": "s/he will vaccinate, you (formal) will vaccinate"
+      "SPANISH": "Vacunará",
+      "ENGLISH": "He will vaccinate"
     },
     "ELLOS": {
-      "SPANISH": "vacunarán",
-      "ENGLISH": "they will vaccinate, you (plural formal) will vaccinate"
+      "SPANISH": "Vacunarán",
+      "ENGLISH": "They will vaccinate"
     },
     "NOSOTROS": {
-      "SPANISH": "vacunaremos",
-      "ENGLISH": "we will vaccinate"
+      "SPANISH": "Vacunaremos",
+      "ENGLISH": "We will vaccinate"
     },
     "VOSOTROS": {
-      "SPANISH": "vacunaréis",
-      "ENGLISH": "you (plural) will vaccinate"
+      "SPANISH": "Vacunaréis",
+      "ENGLISH": "You will vaccinate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré vacunado",
+      "SPANISH": "Habré vacunado",
       "ENGLISH": "I will have vaccinated"
     },
     "TU": {
-      "SPANISH": "habrás vacunado",
-      "ENGLISH": "you will have vaccinated"
+      "SPANISH": "Habrás vacunado",
+      "ENGLISH": "You will have vaccinated"
     },
     "EL": {
-      "SPANISH": "habrá vacunado",
-      "ENGLISH": "s/he will have vaccinated, you (formal) will have vaccinated"
+      "SPANISH": "Habrá vacunado",
+      "ENGLISH": "He will have vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "habrán vacunado",
-      "ENGLISH": "they will have vaccinated, you (plural formal) will have vaccinated"
+      "SPANISH": "Habrán vacunado",
+      "ENGLISH": "They will have vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos vacunado",
-      "ENGLISH": "we will have vaccinated"
+      "SPANISH": "Habremos vacunado",
+      "ENGLISH": "We will have vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis vacunado",
-      "ENGLISH": "you (plural) will have vaccinated"
+      "SPANISH": "Habréis vacunado",
+      "ENGLISH": "You will have vaccinated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "vacunaría",
+      "SPANISH": "Vacunaría",
       "ENGLISH": "I would vaccinate"
     },
     "TU": {
-      "SPANISH": "vacunarías",
-      "ENGLISH": "you would vaccinate"
+      "SPANISH": "Vacunarías",
+      "ENGLISH": "You would vaccinate"
     },
     "EL": {
-      "SPANISH": "vacunaría",
-      "ENGLISH": "s/he would vaccinate, you (formal) would vaccinate"
+      "SPANISH": "Vacunaría",
+      "ENGLISH": "He would vaccinate"
     },
     "ELLOS": {
-      "SPANISH": "vacunarían",
-      "ENGLISH": "they would vaccinate, you (plural formal) would vaccinate"
+      "SPANISH": "Vacunarían",
+      "ENGLISH": "They would vaccinate"
     },
     "NOSOTROS": {
-      "SPANISH": "vacunaríamos",
-      "ENGLISH": "we would vaccinate"
+      "SPANISH": "Vacunaríamos",
+      "ENGLISH": "We would vaccinate"
     },
     "VOSOTROS": {
-      "SPANISH": "vacunaríais",
-      "ENGLISH": "you (plural) would vaccinate"
+      "SPANISH": "Vacunaríais",
+      "ENGLISH": "You would vaccinate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría vacunado",
+      "SPANISH": "Habría vacunado",
       "ENGLISH": "I would have vaccinated"
     },
     "TU": {
-      "SPANISH": "habrías vacunado",
-      "ENGLISH": "you would have vaccinated"
+      "SPANISH": "Habrías vacunado",
+      "ENGLISH": "You would have vaccinated"
     },
     "EL": {
-      "SPANISH": "habría vacunado",
-      "ENGLISH": "s/he would have vaccinated, you (formal) would have vaccinated"
+      "SPANISH": "Habría vacunado",
+      "ENGLISH": "He would have vaccinated"
     },
     "ELLOS": {
-      "SPANISH": "habrían vacunado",
-      "ENGLISH": "they would have vaccinated, you (plural formal) would have vaccinated"
+      "SPANISH": "Habrían vacunado",
+      "ENGLISH": "They would have vaccinated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos vacunado",
-      "ENGLISH": "we would have vaccinated"
+      "SPANISH": "Habríamos vacunado",
+      "ENGLISH": "We would have vaccinated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais vacunado",
-      "ENGLISH": "you (plural) would have vaccinated"
+      "SPANISH": "Habríais vacunado",
+      "ENGLISH": "You would have vaccinated"
     }
   }
 }

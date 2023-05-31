@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "compruebo ",
+      "SPANISH": "Compruebo ",
       "ENGLISH": "I check"
     },
     "TU": {
-      "SPANISH": "compruebas ",
-      "ENGLISH": "you check"
+      "SPANISH": "Compruebas ",
+      "ENGLISH": "You check"
     },
     "EL": {
-      "SPANISH": "comprueba ",
-      "ENGLISH": "s/he checks, you (formal) checks"
+      "SPANISH": "Comprueba ",
+      "ENGLISH": "He checks"
     },
     "ELLOS": {
-      "SPANISH": "comprueban ",
-      "ENGLISH": "they check, you (plural formal) check"
+      "SPANISH": "Comprueban ",
+      "ENGLISH": "They check"
     },
     "NOSOTROS": {
-      "SPANISH": "comprobamos",
-      "ENGLISH": "we check"
+      "SPANISH": "Comprobamos",
+      "ENGLISH": "We check"
     },
     "VOSOTROS": {
-      "SPANISH": "comprobáis",
-      "ENGLISH": "you (plural) check"
+      "SPANISH": "Comprobáis",
+      "ENGLISH": "You check"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he comprobado",
+      "SPANISH": "He comprobado",
       "ENGLISH": "I have checked"
     },
     "TU": {
-      "SPANISH": "has comprobado",
-      "ENGLISH": "you have checked"
+      "SPANISH": "Has comprobado",
+      "ENGLISH": "You have checked"
     },
     "EL": {
-      "SPANISH": "ha comprobado",
-      "ENGLISH": "s/he has checked, you (formal) have checked"
+      "SPANISH": "Ha comprobado",
+      "ENGLISH": "He has checked"
     },
     "ELLOS": {
-      "SPANISH": "han comprobado",
-      "ENGLISH": "they have checked, you (plural formal) have checked"
+      "SPANISH": "Han comprobado",
+      "ENGLISH": "They have checked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos comprobado",
-      "ENGLISH": "we have checked"
+      "SPANISH": "Hemos comprobado",
+      "ENGLISH": "We have checked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis comprobado",
-      "ENGLISH": "you (plural) have checked"
+      "SPANISH": "Habéis comprobado",
+      "ENGLISH": "You have checked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "comprobé",
+      "SPANISH": "Comprobé",
       "ENGLISH": "I checked"
     },
     "TU": {
-      "SPANISH": "comprobaste",
-      "ENGLISH": "you checked"
+      "SPANISH": "Comprobaste",
+      "ENGLISH": "You checked"
     },
     "EL": {
-      "SPANISH": "comprobó",
-      "ENGLISH": "s/he checked, you (formal) checked"
+      "SPANISH": "Comprobó",
+      "ENGLISH": "He checked"
     },
     "ELLOS": {
-      "SPANISH": "comprobaron",
-      "ENGLISH": "they checked, you (plural formal) checked"
+      "SPANISH": "Comprobaron",
+      "ENGLISH": "They checked"
     },
     "NOSOTROS": {
-      "SPANISH": "comprobamos",
-      "ENGLISH": "we checked"
+      "SPANISH": "Comprobamos",
+      "ENGLISH": "We checked"
     },
     "VOSOTROS": {
-      "SPANISH": "comprobasteis",
-      "ENGLISH": "you (plural) checked"
+      "SPANISH": "Comprobasteis",
+      "ENGLISH": "You checked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había comprobado",
+      "SPANISH": "Había comprobado",
       "ENGLISH": "I had checked"
     },
     "TU": {
-      "SPANISH": "habías comprobado",
-      "ENGLISH": "you had checked"
+      "SPANISH": "Habías comprobado",
+      "ENGLISH": "You had checked"
     },
     "EL": {
-      "SPANISH": "había comprobado",
-      "ENGLISH": "s/he had checked, you (formal) had checked"
+      "SPANISH": "Había comprobado",
+      "ENGLISH": "He had checked"
     },
     "ELLOS": {
-      "SPANISH": "habían comprobado",
-      "ENGLISH": "they had checked, you (plural formal) had checked"
+      "SPANISH": "Habían comprobado",
+      "ENGLISH": "They had checked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos comprobado",
-      "ENGLISH": "we had checked"
+      "SPANISH": "Habíamos comprobado",
+      "ENGLISH": "We had checked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais comprobado",
-      "ENGLISH": "you (plural) had checked"
+      "SPANISH": "Habíais comprobado",
+      "ENGLISH": "You had checked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "comprobé",
+      "SPANISH": "Comprobé",
       "ENGLISH": "I checked"
     },
     "TU": {
-      "SPANISH": "comprobaste",
-      "ENGLISH": "you checked"
+      "SPANISH": "Comprobaste",
+      "ENGLISH": "You checked"
     },
     "EL": {
-      "SPANISH": "comprobó",
-      "ENGLISH": "s/he checked, you (formal) checked"
+      "SPANISH": "Comprobó",
+      "ENGLISH": "He checked"
     },
     "ELLOS": {
-      "SPANISH": "comprobaron",
-      "ENGLISH": "they checked, you (plural formal) checked"
+      "SPANISH": "Comprobaron",
+      "ENGLISH": "They checked"
     },
     "NOSOTROS": {
-      "SPANISH": "comprobamos",
-      "ENGLISH": "we checked"
+      "SPANISH": "Comprobamos",
+      "ENGLISH": "We checked"
     },
     "VOSOTROS": {
-      "SPANISH": "comprobasteis",
-      "ENGLISH": "you (plural) checked"
+      "SPANISH": "Comprobasteis",
+      "ENGLISH": "You checked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "comprobaré",
+      "SPANISH": "Comprobaré",
       "ENGLISH": "I will check"
     },
     "TU": {
-      "SPANISH": "comprobarás",
-      "ENGLISH": "you will check"
+      "SPANISH": "Comprobarás",
+      "ENGLISH": "You will check"
     },
     "EL": {
-      "SPANISH": "comprobará",
-      "ENGLISH": "s/he will check, you (formal) will check"
+      "SPANISH": "Comprobará",
+      "ENGLISH": "He will check"
     },
     "ELLOS": {
-      "SPANISH": "comprobarán",
-      "ENGLISH": "they will check, you (plural formal) will check"
+      "SPANISH": "Comprobarán",
+      "ENGLISH": "They will check"
     },
     "NOSOTROS": {
-      "SPANISH": "comprobaremos",
-      "ENGLISH": "we will check"
+      "SPANISH": "Comprobaremos",
+      "ENGLISH": "We will check"
     },
     "VOSOTROS": {
-      "SPANISH": "comprobaréis",
-      "ENGLISH": "you (plural) will check"
+      "SPANISH": "Comprobaréis",
+      "ENGLISH": "You will check"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré comprobado",
+      "SPANISH": "Habré comprobado",
       "ENGLISH": "I will have checked"
     },
     "TU": {
-      "SPANISH": "habrás comprobado",
-      "ENGLISH": "you will have checked"
+      "SPANISH": "Habrás comprobado",
+      "ENGLISH": "You will have checked"
     },
     "EL": {
-      "SPANISH": "habrá comprobado",
-      "ENGLISH": "s/he will have checked, you (formal) will have checked"
+      "SPANISH": "Habrá comprobado",
+      "ENGLISH": "He will have checked"
     },
     "ELLOS": {
-      "SPANISH": "habrán comprobado",
-      "ENGLISH": "they will have checked, you (plural formal) will have checked"
+      "SPANISH": "Habrán comprobado",
+      "ENGLISH": "They will have checked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos comprobado",
-      "ENGLISH": "we will have checked"
+      "SPANISH": "Habremos comprobado",
+      "ENGLISH": "We will have checked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis comprobado",
-      "ENGLISH": "you (plural) will have checked"
+      "SPANISH": "Habréis comprobado",
+      "ENGLISH": "You will have checked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "comprobaría",
+      "SPANISH": "Comprobaría",
       "ENGLISH": "I would check"
     },
     "TU": {
-      "SPANISH": "comprobarías",
-      "ENGLISH": "you would check"
+      "SPANISH": "Comprobarías",
+      "ENGLISH": "You would check"
     },
     "EL": {
-      "SPANISH": "comprobaría",
-      "ENGLISH": "s/he would check, you (formal) would check"
+      "SPANISH": "Comprobaría",
+      "ENGLISH": "He would check"
     },
     "ELLOS": {
-      "SPANISH": "comprobarían",
-      "ENGLISH": "they would check, you (plural formal) would check"
+      "SPANISH": "Comprobarían",
+      "ENGLISH": "They would check"
     },
     "NOSOTROS": {
-      "SPANISH": "comprobaríamos",
-      "ENGLISH": "we would check"
+      "SPANISH": "Comprobaríamos",
+      "ENGLISH": "We would check"
     },
     "VOSOTROS": {
-      "SPANISH": "comprobaríais",
-      "ENGLISH": "you (plural) would check"
+      "SPANISH": "Comprobaríais",
+      "ENGLISH": "You would check"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría comprobado",
+      "SPANISH": "Habría comprobado",
       "ENGLISH": "I would have checked"
     },
     "TU": {
-      "SPANISH": "habrías comprobado",
-      "ENGLISH": "you would have checked"
+      "SPANISH": "Habrías comprobado",
+      "ENGLISH": "You would have checked"
     },
     "EL": {
-      "SPANISH": "habría comprobado",
-      "ENGLISH": "s/he would have checked, you (formal) would have checked"
+      "SPANISH": "Habría comprobado",
+      "ENGLISH": "He would have checked"
     },
     "ELLOS": {
-      "SPANISH": "habrían comprobado",
-      "ENGLISH": "they would have checked, you (plural formal) would have checked"
+      "SPANISH": "Habrían comprobado",
+      "ENGLISH": "They would have checked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos comprobado",
-      "ENGLISH": "we would have checked"
+      "SPANISH": "Habríamos comprobado",
+      "ENGLISH": "We would have checked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais comprobado",
-      "ENGLISH": "you (plural) would have checked"
+      "SPANISH": "Habríais comprobado",
+      "ENGLISH": "You would have checked"
     }
   }
 }

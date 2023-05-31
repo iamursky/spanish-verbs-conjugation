@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "paro",
+      "SPANISH": "Paro",
       "ENGLISH": "I stop"
     },
     "TU": {
-      "SPANISH": "paras",
-      "ENGLISH": "you stop"
+      "SPANISH": "Paras",
+      "ENGLISH": "You stop"
     },
     "EL": {
-      "SPANISH": "para",
-      "ENGLISH": "s/he stops, you (formal) stops"
+      "SPANISH": "Para",
+      "ENGLISH": "He stops"
     },
     "ELLOS": {
-      "SPANISH": "paran",
-      "ENGLISH": "they stop, you (plural formal) stop"
+      "SPANISH": "Paran",
+      "ENGLISH": "They stop"
     },
     "NOSOTROS": {
-      "SPANISH": "paramos",
-      "ENGLISH": "we stop"
+      "SPANISH": "Paramos",
+      "ENGLISH": "We stop"
     },
     "VOSOTROS": {
-      "SPANISH": "paráis",
-      "ENGLISH": "you (plural) stop"
+      "SPANISH": "Paráis",
+      "ENGLISH": "You stop"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he parado",
+      "SPANISH": "He parado",
       "ENGLISH": "I have stopped"
     },
     "TU": {
-      "SPANISH": "has parado",
-      "ENGLISH": "you have stopped"
+      "SPANISH": "Has parado",
+      "ENGLISH": "You have stopped"
     },
     "EL": {
-      "SPANISH": "ha parado",
-      "ENGLISH": "s/he has stopped, you (formal) have stopped"
+      "SPANISH": "Ha parado",
+      "ENGLISH": "He has stopped"
     },
     "ELLOS": {
-      "SPANISH": "han parado",
-      "ENGLISH": "they have stopped, you (plural formal) have stopped"
+      "SPANISH": "Han parado",
+      "ENGLISH": "They have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos parado",
-      "ENGLISH": "we have stopped"
+      "SPANISH": "Hemos parado",
+      "ENGLISH": "We have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis parado",
-      "ENGLISH": "you (plural) have stopped"
+      "SPANISH": "Habéis parado",
+      "ENGLISH": "You have stopped"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "paré",
+      "SPANISH": "Paré",
       "ENGLISH": "I stopped"
     },
     "TU": {
-      "SPANISH": "paraste",
-      "ENGLISH": "you stopped"
+      "SPANISH": "Paraste",
+      "ENGLISH": "You stopped"
     },
     "EL": {
-      "SPANISH": "paró",
-      "ENGLISH": "s/he stopped, you (formal) stopped"
+      "SPANISH": "Paró",
+      "ENGLISH": "He stopped"
     },
     "ELLOS": {
-      "SPANISH": "pararon",
-      "ENGLISH": "they stopped, you (plural formal) stopped"
+      "SPANISH": "Pararon",
+      "ENGLISH": "They stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "paramos",
-      "ENGLISH": "we stopped"
+      "SPANISH": "Paramos",
+      "ENGLISH": "We stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "parasteis",
-      "ENGLISH": "you (plural) stopped"
+      "SPANISH": "Parasteis",
+      "ENGLISH": "You stopped"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había parado",
+      "SPANISH": "Había parado",
       "ENGLISH": "I had stopped"
     },
     "TU": {
-      "SPANISH": "habías parado",
-      "ENGLISH": "you had stopped"
+      "SPANISH": "Habías parado",
+      "ENGLISH": "You had stopped"
     },
     "EL": {
-      "SPANISH": "había parado",
-      "ENGLISH": "s/he had stopped, you (formal) had stopped"
+      "SPANISH": "Había parado",
+      "ENGLISH": "He had stopped"
     },
     "ELLOS": {
-      "SPANISH": "habían parado",
-      "ENGLISH": "they had stopped, you (plural formal) had stopped"
+      "SPANISH": "Habían parado",
+      "ENGLISH": "They had stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos parado",
-      "ENGLISH": "we had stopped"
+      "SPANISH": "Habíamos parado",
+      "ENGLISH": "We had stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais parado",
-      "ENGLISH": "you (plural) had stopped"
+      "SPANISH": "Habíais parado",
+      "ENGLISH": "You had stopped"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "paré",
+      "SPANISH": "Paré",
       "ENGLISH": "I stopped"
     },
     "TU": {
-      "SPANISH": "paraste",
-      "ENGLISH": "you stopped"
+      "SPANISH": "Paraste",
+      "ENGLISH": "You stopped"
     },
     "EL": {
-      "SPANISH": "paró",
-      "ENGLISH": "s/he stopped, you (formal) stopped"
+      "SPANISH": "Paró",
+      "ENGLISH": "He stopped"
     },
     "ELLOS": {
-      "SPANISH": "pararon",
-      "ENGLISH": "they stopped, you (plural formal) stopped"
+      "SPANISH": "Pararon",
+      "ENGLISH": "They stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "paramos",
-      "ENGLISH": "we stopped"
+      "SPANISH": "Paramos",
+      "ENGLISH": "We stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "parasteis",
-      "ENGLISH": "you (plural) stopped"
+      "SPANISH": "Parasteis",
+      "ENGLISH": "You stopped"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "pararé",
+      "SPANISH": "Pararé",
       "ENGLISH": "I will stop"
     },
     "TU": {
-      "SPANISH": "pararás",
-      "ENGLISH": "you will stop"
+      "SPANISH": "Pararás",
+      "ENGLISH": "You will stop"
     },
     "EL": {
-      "SPANISH": "parará",
-      "ENGLISH": "s/he will stop, you (formal) will stop"
+      "SPANISH": "Parará",
+      "ENGLISH": "He will stop"
     },
     "ELLOS": {
-      "SPANISH": "pararán",
-      "ENGLISH": "they will stop, you (plural formal) will stop"
+      "SPANISH": "Pararán",
+      "ENGLISH": "They will stop"
     },
     "NOSOTROS": {
-      "SPANISH": "pararemos",
-      "ENGLISH": "we will stop"
+      "SPANISH": "Pararemos",
+      "ENGLISH": "We will stop"
     },
     "VOSOTROS": {
-      "SPANISH": "pararéis",
-      "ENGLISH": "you (plural) will stop"
+      "SPANISH": "Pararéis",
+      "ENGLISH": "You will stop"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré parado",
+      "SPANISH": "Habré parado",
       "ENGLISH": "I will have stopped"
     },
     "TU": {
-      "SPANISH": "habrás parado",
-      "ENGLISH": "you will have stopped"
+      "SPANISH": "Habrás parado",
+      "ENGLISH": "You will have stopped"
     },
     "EL": {
-      "SPANISH": "habrá parado",
-      "ENGLISH": "s/he will have stopped, you (formal) will have stopped"
+      "SPANISH": "Habrá parado",
+      "ENGLISH": "He will have stopped"
     },
     "ELLOS": {
-      "SPANISH": "habrán parado",
-      "ENGLISH": "they will have stopped, you (plural formal) will have stopped"
+      "SPANISH": "Habrán parado",
+      "ENGLISH": "They will have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos parado",
-      "ENGLISH": "we will have stopped"
+      "SPANISH": "Habremos parado",
+      "ENGLISH": "We will have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis parado",
-      "ENGLISH": "you (plural) will have stopped"
+      "SPANISH": "Habréis parado",
+      "ENGLISH": "You will have stopped"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pararía",
+      "SPANISH": "Pararía",
       "ENGLISH": "I would stop"
     },
     "TU": {
-      "SPANISH": "pararías",
-      "ENGLISH": "you would stop"
+      "SPANISH": "Pararías",
+      "ENGLISH": "You would stop"
     },
     "EL": {
-      "SPANISH": "pararía",
-      "ENGLISH": "s/he would stop, you (formal) would stop"
+      "SPANISH": "Pararía",
+      "ENGLISH": "He would stop"
     },
     "ELLOS": {
-      "SPANISH": "pararían",
-      "ENGLISH": "they would stop, you (plural formal) would stop"
+      "SPANISH": "Pararían",
+      "ENGLISH": "They would stop"
     },
     "NOSOTROS": {
-      "SPANISH": "pararíamos",
-      "ENGLISH": "we would stop"
+      "SPANISH": "Pararíamos",
+      "ENGLISH": "We would stop"
     },
     "VOSOTROS": {
-      "SPANISH": "pararíais",
-      "ENGLISH": "you (plural) would stop"
+      "SPANISH": "Pararíais",
+      "ENGLISH": "You would stop"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría parado",
+      "SPANISH": "Habría parado",
       "ENGLISH": "I would have stopped"
     },
     "TU": {
-      "SPANISH": "habrías parado",
-      "ENGLISH": "you would have stopped"
+      "SPANISH": "Habrías parado",
+      "ENGLISH": "You would have stopped"
     },
     "EL": {
-      "SPANISH": "habría parado",
-      "ENGLISH": "s/he would have stopped, you (formal) would have stopped"
+      "SPANISH": "Habría parado",
+      "ENGLISH": "He would have stopped"
     },
     "ELLOS": {
-      "SPANISH": "habrían parado",
-      "ENGLISH": "they would have stopped, you (plural formal) would have stopped"
+      "SPANISH": "Habrían parado",
+      "ENGLISH": "They would have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos parado",
-      "ENGLISH": "we would have stopped"
+      "SPANISH": "Habríamos parado",
+      "ENGLISH": "We would have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais parado",
-      "ENGLISH": "you (plural) would have stopped"
+      "SPANISH": "Habríais parado",
+      "ENGLISH": "You would have stopped"
     }
   }
 }

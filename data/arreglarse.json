@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me arreglo",
+      "SPANISH": "Me arreglo",
       "ENGLISH": "I get ready"
     },
     "TU": {
-      "SPANISH": "te arreglas",
-      "ENGLISH": "you get ready"
+      "SPANISH": "Te arreglas",
+      "ENGLISH": "You get ready"
     },
     "EL": {
-      "SPANISH": "se arregla",
-      "ENGLISH": "s/he gets ready, you (formal) gets ready"
+      "SPANISH": "Se arregla",
+      "ENGLISH": "He gets ready"
     },
     "ELLOS": {
-      "SPANISH": "se arreglan",
-      "ENGLISH": "they get ready, you (plural formal) get ready"
+      "SPANISH": "Se arreglan",
+      "ENGLISH": "They get ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos arreglamos",
-      "ENGLISH": "we get ready"
+      "SPANISH": "Nos arreglamos",
+      "ENGLISH": "We get ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os arregláis",
-      "ENGLISH": "you (plural) get ready"
+      "SPANISH": "Os arregláis",
+      "ENGLISH": "You get ready"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he arreglado",
+      "SPANISH": "Me he arreglado",
       "ENGLISH": "I have gotten ready"
     },
     "TU": {
-      "SPANISH": "te has arreglado",
-      "ENGLISH": "you have gotten ready"
+      "SPANISH": "Te has arreglado",
+      "ENGLISH": "You have gotten ready"
     },
     "EL": {
-      "SPANISH": "se ha arreglado",
-      "ENGLISH": "s/he has gotten ready, you (formal) have gotten ready"
+      "SPANISH": "Se ha arreglado",
+      "ENGLISH": "He has gotten ready"
     },
     "ELLOS": {
-      "SPANISH": "se han arreglado",
-      "ENGLISH": "they have gotten ready, you (plural formal) have gotten ready"
+      "SPANISH": "Se han arreglado",
+      "ENGLISH": "They have gotten ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos arreglado",
-      "ENGLISH": "we have gotten ready"
+      "SPANISH": "Nos hemos arreglado",
+      "ENGLISH": "We have gotten ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis arreglado",
-      "ENGLISH": "you (plural) have gotten ready"
+      "SPANISH": "Os habéis arreglado",
+      "ENGLISH": "You have gotten ready"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me arreglé",
+      "SPANISH": "Me arreglé",
       "ENGLISH": "I got ready"
     },
     "TU": {
-      "SPANISH": "te arreglaste",
-      "ENGLISH": "you got ready"
+      "SPANISH": "Te arreglaste",
+      "ENGLISH": "You got ready"
     },
     "EL": {
-      "SPANISH": "se arregló",
-      "ENGLISH": "s/he got ready, you (formal) got ready"
+      "SPANISH": "Se arregló",
+      "ENGLISH": "He got ready"
     },
     "ELLOS": {
-      "SPANISH": "se arreglaron",
-      "ENGLISH": "they got ready, you (plural formal) got ready"
+      "SPANISH": "Se arreglaron",
+      "ENGLISH": "They got ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos arreglamos",
-      "ENGLISH": "we got ready"
+      "SPANISH": "Nos arreglamos",
+      "ENGLISH": "We got ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os arreglasteis",
-      "ENGLISH": "you (plural) got ready"
+      "SPANISH": "Os arreglasteis",
+      "ENGLISH": "You got ready"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había arreglado",
+      "SPANISH": "Me había arreglado",
       "ENGLISH": "I had gotten ready"
     },
     "TU": {
-      "SPANISH": "te habías arreglado",
-      "ENGLISH": "you had gotten ready"
+      "SPANISH": "Te habías arreglado",
+      "ENGLISH": "You had gotten ready"
     },
     "EL": {
-      "SPANISH": "se había arreglado",
-      "ENGLISH": "s/he had gotten ready, you (formal) had gotten ready"
+      "SPANISH": "Se había arreglado",
+      "ENGLISH": "He had gotten ready"
     },
     "ELLOS": {
-      "SPANISH": "se habían arreglado",
-      "ENGLISH": "they had gotten ready, you (plural formal) had gotten ready"
+      "SPANISH": "Se habían arreglado",
+      "ENGLISH": "They had gotten ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos arreglado",
-      "ENGLISH": "we had gotten ready"
+      "SPANISH": "Nos habíamos arreglado",
+      "ENGLISH": "We had gotten ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais arreglado",
-      "ENGLISH": "you (plural) had gotten ready"
+      "SPANISH": "Os habíais arreglado",
+      "ENGLISH": "You had gotten ready"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me arreglé",
+      "SPANISH": "Me arreglé",
       "ENGLISH": "I got ready"
     },
     "TU": {
-      "SPANISH": "te arreglaste",
-      "ENGLISH": "you got ready"
+      "SPANISH": "Te arreglaste",
+      "ENGLISH": "You got ready"
     },
     "EL": {
-      "SPANISH": "se arregló",
-      "ENGLISH": "s/he got ready, you (formal) got ready"
+      "SPANISH": "Se arregló",
+      "ENGLISH": "He got ready"
     },
     "ELLOS": {
-      "SPANISH": "se arreglaron",
-      "ENGLISH": "they got ready, you (plural formal) got ready"
+      "SPANISH": "Se arreglaron",
+      "ENGLISH": "They got ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos arreglamos",
-      "ENGLISH": "we got ready"
+      "SPANISH": "Nos arreglamos",
+      "ENGLISH": "We got ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os arreglasteis",
-      "ENGLISH": "you (plural) got ready"
+      "SPANISH": "Os arreglasteis",
+      "ENGLISH": "You got ready"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me arreglaré",
+      "SPANISH": "Me arreglaré",
       "ENGLISH": "I will get ready"
     },
     "TU": {
-      "SPANISH": "te arreglarás",
-      "ENGLISH": "you will get ready"
+      "SPANISH": "Te arreglarás",
+      "ENGLISH": "You will get ready"
     },
     "EL": {
-      "SPANISH": "se arreglará",
-      "ENGLISH": "s/he will get ready, you (formal) will get ready"
+      "SPANISH": "Se arreglará",
+      "ENGLISH": "He will get ready"
     },
     "ELLOS": {
-      "SPANISH": "se arreglarán",
-      "ENGLISH": "they will get ready, you (plural formal) will get ready"
+      "SPANISH": "Se arreglarán",
+      "ENGLISH": "They will get ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos arreglaremos",
-      "ENGLISH": "we will get ready"
+      "SPANISH": "Nos arreglaremos",
+      "ENGLISH": "We will get ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os arreglaréis",
-      "ENGLISH": "you (plural) will get ready"
+      "SPANISH": "Os arreglaréis",
+      "ENGLISH": "You will get ready"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré arreglado",
+      "SPANISH": "Me habré arreglado",
       "ENGLISH": "I will have gotten ready"
     },
     "TU": {
-      "SPANISH": "te habrás arreglado",
-      "ENGLISH": "you will have gotten ready"
+      "SPANISH": "Te habrás arreglado",
+      "ENGLISH": "You will have gotten ready"
     },
     "EL": {
-      "SPANISH": "se habrá arreglado",
-      "ENGLISH": "s/he will have gotten ready, you (formal) will have gotten ready"
+      "SPANISH": "Se habrá arreglado",
+      "ENGLISH": "He will have gotten ready"
     },
     "ELLOS": {
-      "SPANISH": "se habrán arreglado",
-      "ENGLISH": "they will have gotten ready, you (plural formal) will have gotten ready"
+      "SPANISH": "Se habrán arreglado",
+      "ENGLISH": "They will have gotten ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos arreglado",
-      "ENGLISH": "we will have gotten ready"
+      "SPANISH": "Nos habremos arreglado",
+      "ENGLISH": "We will have gotten ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis arreglado",
-      "ENGLISH": "you (plural) will have gotten ready"
+      "SPANISH": "Os habréis arreglado",
+      "ENGLISH": "You will have gotten ready"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me arreglaría",
+      "SPANISH": "Me arreglaría",
       "ENGLISH": "I would get ready"
     },
     "TU": {
-      "SPANISH": "te arreglarías",
-      "ENGLISH": "you would get ready"
+      "SPANISH": "Te arreglarías",
+      "ENGLISH": "You would get ready"
     },
     "EL": {
-      "SPANISH": "se arreglaría",
-      "ENGLISH": "s/he would get ready, you (formal) would get ready"
+      "SPANISH": "Se arreglaría",
+      "ENGLISH": "He would get ready"
     },
     "ELLOS": {
-      "SPANISH": "se arreglarían",
-      "ENGLISH": "they would get ready, you (plural formal) would get ready"
+      "SPANISH": "Se arreglarían",
+      "ENGLISH": "They would get ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos arreglaríamos",
-      "ENGLISH": "we would get ready"
+      "SPANISH": "Nos arreglaríamos",
+      "ENGLISH": "We would get ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os arreglaríais",
-      "ENGLISH": "you (plural) would get ready"
+      "SPANISH": "Os arreglaríais",
+      "ENGLISH": "You would get ready"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría arreglado",
+      "SPANISH": "Me habría arreglado",
       "ENGLISH": "I would have gotten ready"
     },
     "TU": {
-      "SPANISH": "te habrías arreglado",
-      "ENGLISH": "you would have gotten ready"
+      "SPANISH": "Te habrías arreglado",
+      "ENGLISH": "You would have gotten ready"
     },
     "EL": {
-      "SPANISH": "se habría arreglado",
-      "ENGLISH": "s/he would have gotten ready, you (formal) would have gotten ready"
+      "SPANISH": "Se habría arreglado",
+      "ENGLISH": "He would have gotten ready"
     },
     "ELLOS": {
-      "SPANISH": "se habrían arreglado",
-      "ENGLISH": "they would have gotten ready, you (plural formal) would have gotten ready"
+      "SPANISH": "Se habrían arreglado",
+      "ENGLISH": "They would have gotten ready"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos arreglado",
-      "ENGLISH": "we would have gotten ready"
+      "SPANISH": "Nos habríamos arreglado",
+      "ENGLISH": "We would have gotten ready"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais arreglado",
-      "ENGLISH": "you (plural) would have gotten ready"
+      "SPANISH": "Os habríais arreglado",
+      "ENGLISH": "You would have gotten ready"
     }
   }
 }

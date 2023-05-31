@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "sucedo",
+      "SPANISH": "Sucedo",
       "ENGLISH": "I happen"
     },
     "TU": {
-      "SPANISH": "sucedes",
-      "ENGLISH": "you happen"
+      "SPANISH": "Sucedes",
+      "ENGLISH": "You happen"
     },
     "EL": {
-      "SPANISH": "sucede",
-      "ENGLISH": "s/he happens, you (formal) happens"
+      "SPANISH": "Sucede",
+      "ENGLISH": "He happens"
     },
     "ELLOS": {
-      "SPANISH": "suceden",
-      "ENGLISH": "they happen, you (plural formal) happen"
+      "SPANISH": "Suceden",
+      "ENGLISH": "They happen"
     },
     "NOSOTROS": {
-      "SPANISH": "sucedemos",
-      "ENGLISH": "we happen"
+      "SPANISH": "Sucedemos",
+      "ENGLISH": "We happen"
     },
     "VOSOTROS": {
-      "SPANISH": "sucedéis",
-      "ENGLISH": "you (plural) happen"
+      "SPANISH": "Sucedéis",
+      "ENGLISH": "You happen"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he sucedido",
+      "SPANISH": "He sucedido",
       "ENGLISH": "I have happened"
     },
     "TU": {
-      "SPANISH": "has sucedido",
-      "ENGLISH": "you have happened"
+      "SPANISH": "Has sucedido",
+      "ENGLISH": "You have happened"
     },
     "EL": {
-      "SPANISH": "ha sucedido",
-      "ENGLISH": "s/he has happened, you (formal) have happened"
+      "SPANISH": "Ha sucedido",
+      "ENGLISH": "He has happened"
     },
     "ELLOS": {
-      "SPANISH": "han sucedido",
-      "ENGLISH": "they have happened, you (plural formal) have happened"
+      "SPANISH": "Han sucedido",
+      "ENGLISH": "They have happened"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos sucedido",
-      "ENGLISH": "we have happened"
+      "SPANISH": "Hemos sucedido",
+      "ENGLISH": "We have happened"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis sucedido",
-      "ENGLISH": "you (plural) have happened"
+      "SPANISH": "Habéis sucedido",
+      "ENGLISH": "You have happened"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "sucedí",
+      "SPANISH": "Sucedí",
       "ENGLISH": "I happened"
     },
     "TU": {
-      "SPANISH": "sucediste",
-      "ENGLISH": "you happened"
+      "SPANISH": "Sucediste",
+      "ENGLISH": "You happened"
     },
     "EL": {
-      "SPANISH": "sucedió",
-      "ENGLISH": "s/he happened, you (formal) happened"
+      "SPANISH": "Sucedió",
+      "ENGLISH": "He happened"
     },
     "ELLOS": {
-      "SPANISH": "sucedieron",
-      "ENGLISH": "they happened, you (plural formal) happened"
+      "SPANISH": "Sucedieron",
+      "ENGLISH": "They happened"
     },
     "NOSOTROS": {
-      "SPANISH": "sucedimos",
-      "ENGLISH": "we happened"
+      "SPANISH": "Sucedimos",
+      "ENGLISH": "We happened"
     },
     "VOSOTROS": {
-      "SPANISH": "sucedisteis",
-      "ENGLISH": "you (plural) happened"
+      "SPANISH": "Sucedisteis",
+      "ENGLISH": "You happened"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había sucedido",
+      "SPANISH": "Había sucedido",
       "ENGLISH": "I had happened"
     },
     "TU": {
-      "SPANISH": "habías sucedido",
-      "ENGLISH": "you had happened"
+      "SPANISH": "Habías sucedido",
+      "ENGLISH": "You had happened"
     },
     "EL": {
-      "SPANISH": "había sucedido",
-      "ENGLISH": "s/he had happened, you (formal) had happened"
+      "SPANISH": "Había sucedido",
+      "ENGLISH": "He had happened"
     },
     "ELLOS": {
-      "SPANISH": "habían sucedido",
-      "ENGLISH": "they had happened, you (plural formal) had happened"
+      "SPANISH": "Habían sucedido",
+      "ENGLISH": "They had happened"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos sucedido",
-      "ENGLISH": "we had happened"
+      "SPANISH": "Habíamos sucedido",
+      "ENGLISH": "We had happened"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais sucedido",
-      "ENGLISH": "you (plural) had happened"
+      "SPANISH": "Habíais sucedido",
+      "ENGLISH": "You had happened"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "sucedí",
+      "SPANISH": "Sucedí",
       "ENGLISH": "I happened"
     },
     "TU": {
-      "SPANISH": "sucediste",
-      "ENGLISH": "you happened"
+      "SPANISH": "Sucediste",
+      "ENGLISH": "You happened"
     },
     "EL": {
-      "SPANISH": "sucedió",
-      "ENGLISH": "s/he happened, you (formal) happened"
+      "SPANISH": "Sucedió",
+      "ENGLISH": "He happened"
     },
     "ELLOS": {
-      "SPANISH": "sucedieron",
-      "ENGLISH": "they happened, you (plural formal) happened"
+      "SPANISH": "Sucedieron",
+      "ENGLISH": "They happened"
     },
     "NOSOTROS": {
-      "SPANISH": "sucedimos",
-      "ENGLISH": "we happened"
+      "SPANISH": "Sucedimos",
+      "ENGLISH": "We happened"
     },
     "VOSOTROS": {
-      "SPANISH": "sucedisteis",
-      "ENGLISH": "you (plural) happened"
+      "SPANISH": "Sucedisteis",
+      "ENGLISH": "You happened"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "sucederé",
+      "SPANISH": "Sucederé",
       "ENGLISH": "I will happen"
     },
     "TU": {
-      "SPANISH": "sucederás",
-      "ENGLISH": "you will happen"
+      "SPANISH": "Sucederás",
+      "ENGLISH": "You will happen"
     },
     "EL": {
-      "SPANISH": "sucederá",
-      "ENGLISH": "s/he will happen, you (formal) will happen"
+      "SPANISH": "Sucederá",
+      "ENGLISH": "He will happen"
     },
     "ELLOS": {
-      "SPANISH": "sucederán",
-      "ENGLISH": "they will happen, you (plural formal) will happen"
+      "SPANISH": "Sucederán",
+      "ENGLISH": "They will happen"
     },
     "NOSOTROS": {
-      "SPANISH": "sucederemos",
-      "ENGLISH": "we will happen"
+      "SPANISH": "Sucederemos",
+      "ENGLISH": "We will happen"
     },
     "VOSOTROS": {
-      "SPANISH": "sucederéis",
-      "ENGLISH": "you (plural) will happen"
+      "SPANISH": "Sucederéis",
+      "ENGLISH": "You will happen"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré sucedido",
+      "SPANISH": "Habré sucedido",
       "ENGLISH": "I will have happened"
     },
     "TU": {
-      "SPANISH": "habrás sucedido",
-      "ENGLISH": "you will have happened"
+      "SPANISH": "Habrás sucedido",
+      "ENGLISH": "You will have happened"
     },
     "EL": {
-      "SPANISH": "habrá sucedido",
-      "ENGLISH": "s/he will have happened, you (formal) will have happened"
+      "SPANISH": "Habrá sucedido",
+      "ENGLISH": "He will have happened"
     },
     "ELLOS": {
-      "SPANISH": "habrán sucedido",
-      "ENGLISH": "they will have happened, you (plural formal) will have happened"
+      "SPANISH": "Habrán sucedido",
+      "ENGLISH": "They will have happened"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos sucedido",
-      "ENGLISH": "we will have happened"
+      "SPANISH": "Habremos sucedido",
+      "ENGLISH": "We will have happened"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis sucedido",
-      "ENGLISH": "you (plural) will have happened"
+      "SPANISH": "Habréis sucedido",
+      "ENGLISH": "You will have happened"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "sucedería",
+      "SPANISH": "Sucedería",
       "ENGLISH": "I would happen"
     },
     "TU": {
-      "SPANISH": "sucederías",
-      "ENGLISH": "you would happen"
+      "SPANISH": "Sucederías",
+      "ENGLISH": "You would happen"
     },
     "EL": {
-      "SPANISH": "sucedería",
-      "ENGLISH": "s/he would happen, you (formal) would happen"
+      "SPANISH": "Sucedería",
+      "ENGLISH": "He would happen"
     },
     "ELLOS": {
-      "SPANISH": "sucederían",
-      "ENGLISH": "they would happen, you (plural formal) would happen"
+      "SPANISH": "Sucederían",
+      "ENGLISH": "They would happen"
     },
     "NOSOTROS": {
-      "SPANISH": "sucederíamos",
-      "ENGLISH": "we would happen"
+      "SPANISH": "Sucederíamos",
+      "ENGLISH": "We would happen"
     },
     "VOSOTROS": {
-      "SPANISH": "sucederíais",
-      "ENGLISH": "you (plural) would happen"
+      "SPANISH": "Sucederíais",
+      "ENGLISH": "You would happen"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría sucedido",
+      "SPANISH": "Habría sucedido",
       "ENGLISH": "I would have happened"
     },
     "TU": {
-      "SPANISH": "habrías sucedido",
-      "ENGLISH": "you would have happened"
+      "SPANISH": "Habrías sucedido",
+      "ENGLISH": "You would have happened"
     },
     "EL": {
-      "SPANISH": "habría sucedido",
-      "ENGLISH": "s/he would have happened, you (formal) would have happened"
+      "SPANISH": "Habría sucedido",
+      "ENGLISH": "He would have happened"
     },
     "ELLOS": {
-      "SPANISH": "habrían sucedido",
-      "ENGLISH": "they would have happened, you (plural formal) would have happened"
+      "SPANISH": "Habrían sucedido",
+      "ENGLISH": "They would have happened"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos sucedido",
-      "ENGLISH": "we would have happened"
+      "SPANISH": "Habríamos sucedido",
+      "ENGLISH": "We would have happened"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais sucedido",
-      "ENGLISH": "you (plural) would have happened"
+      "SPANISH": "Habríais sucedido",
+      "ENGLISH": "You would have happened"
     }
   }
 }

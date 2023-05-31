@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "planeo",
+      "SPANISH": "Planeo",
       "ENGLISH": "I plan"
     },
     "TU": {
-      "SPANISH": "planeas",
-      "ENGLISH": "you plan"
+      "SPANISH": "Planeas",
+      "ENGLISH": "You plan"
     },
     "EL": {
-      "SPANISH": "planea",
-      "ENGLISH": "s/he plans, you (formal) plans"
+      "SPANISH": "Planea",
+      "ENGLISH": "He plans"
     },
     "ELLOS": {
-      "SPANISH": "planean",
-      "ENGLISH": "they plan, you (plural formal) plan"
+      "SPANISH": "Planean",
+      "ENGLISH": "They plan"
     },
     "NOSOTROS": {
-      "SPANISH": "planeamos",
-      "ENGLISH": "we plan"
+      "SPANISH": "Planeamos",
+      "ENGLISH": "We plan"
     },
     "VOSOTROS": {
-      "SPANISH": "planeáis",
-      "ENGLISH": "you (plural) plan"
+      "SPANISH": "Planeáis",
+      "ENGLISH": "You plan"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he planeado",
+      "SPANISH": "He planeado",
       "ENGLISH": "I have planned"
     },
     "TU": {
-      "SPANISH": "has planeado",
-      "ENGLISH": "you have planned"
+      "SPANISH": "Has planeado",
+      "ENGLISH": "You have planned"
     },
     "EL": {
-      "SPANISH": "ha planeado",
-      "ENGLISH": "s/he has planned, you (formal) have planned"
+      "SPANISH": "Ha planeado",
+      "ENGLISH": "He has planned"
     },
     "ELLOS": {
-      "SPANISH": "han planeado",
-      "ENGLISH": "they have planned, you (plural formal) have planned"
+      "SPANISH": "Han planeado",
+      "ENGLISH": "They have planned"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos planeado",
-      "ENGLISH": "we have planned"
+      "SPANISH": "Hemos planeado",
+      "ENGLISH": "We have planned"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis planeado",
-      "ENGLISH": "you (plural) have planned"
+      "SPANISH": "Habéis planeado",
+      "ENGLISH": "You have planned"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "planeé",
+      "SPANISH": "Planeé",
       "ENGLISH": "I planned"
     },
     "TU": {
-      "SPANISH": "planeaste",
-      "ENGLISH": "you planned"
+      "SPANISH": "Planeaste",
+      "ENGLISH": "You planned"
     },
     "EL": {
-      "SPANISH": "planeó",
-      "ENGLISH": "s/he planned, you (formal) planned"
+      "SPANISH": "Planeó",
+      "ENGLISH": "He planned"
     },
     "ELLOS": {
-      "SPANISH": "planearon",
-      "ENGLISH": "they planned, you (plural formal) planned"
+      "SPANISH": "Planearon",
+      "ENGLISH": "They planned"
     },
     "NOSOTROS": {
-      "SPANISH": "planeamos",
-      "ENGLISH": "we planned"
+      "SPANISH": "Planeamos",
+      "ENGLISH": "We planned"
     },
     "VOSOTROS": {
-      "SPANISH": "planeasteis",
-      "ENGLISH": "you (plural) planned"
+      "SPANISH": "Planeasteis",
+      "ENGLISH": "You planned"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había planeado",
+      "SPANISH": "Había planeado",
       "ENGLISH": "I had planned"
     },
     "TU": {
-      "SPANISH": "habías planeado",
-      "ENGLISH": "you had planned"
+      "SPANISH": "Habías planeado",
+      "ENGLISH": "You had planned"
     },
     "EL": {
-      "SPANISH": "había planeado",
-      "ENGLISH": "s/he had planned, you (formal) had planned"
+      "SPANISH": "Había planeado",
+      "ENGLISH": "He had planned"
     },
     "ELLOS": {
-      "SPANISH": "habían planeado",
-      "ENGLISH": "they had planned, you (plural formal) had planned"
+      "SPANISH": "Habían planeado",
+      "ENGLISH": "They had planned"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos planeado",
-      "ENGLISH": "we had planned"
+      "SPANISH": "Habíamos planeado",
+      "ENGLISH": "We had planned"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais planeado",
-      "ENGLISH": "you (plural) had planned"
+      "SPANISH": "Habíais planeado",
+      "ENGLISH": "You had planned"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "planeé",
+      "SPANISH": "Planeé",
       "ENGLISH": "I planned"
     },
     "TU": {
-      "SPANISH": "planeaste",
-      "ENGLISH": "you planned"
+      "SPANISH": "Planeaste",
+      "ENGLISH": "You planned"
     },
     "EL": {
-      "SPANISH": "planeó",
-      "ENGLISH": "s/he planned, you (formal) planned"
+      "SPANISH": "Planeó",
+      "ENGLISH": "He planned"
     },
     "ELLOS": {
-      "SPANISH": "planearon",
-      "ENGLISH": "they planned, you (plural formal) planned"
+      "SPANISH": "Planearon",
+      "ENGLISH": "They planned"
     },
     "NOSOTROS": {
-      "SPANISH": "planeamos",
-      "ENGLISH": "we planned"
+      "SPANISH": "Planeamos",
+      "ENGLISH": "We planned"
     },
     "VOSOTROS": {
-      "SPANISH": "planeasteis",
-      "ENGLISH": "you (plural) planned"
+      "SPANISH": "Planeasteis",
+      "ENGLISH": "You planned"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "planearé",
+      "SPANISH": "Planearé",
       "ENGLISH": "I will plan"
     },
     "TU": {
-      "SPANISH": "planearás",
-      "ENGLISH": "you will plan"
+      "SPANISH": "Planearás",
+      "ENGLISH": "You will plan"
     },
     "EL": {
-      "SPANISH": "planeará",
-      "ENGLISH": "s/he will plan, you (formal) will plan"
+      "SPANISH": "Planeará",
+      "ENGLISH": "He will plan"
     },
     "ELLOS": {
-      "SPANISH": "planearán",
-      "ENGLISH": "they will plan, you (plural formal) will plan"
+      "SPANISH": "Planearán",
+      "ENGLISH": "They will plan"
     },
     "NOSOTROS": {
-      "SPANISH": "planearemos",
-      "ENGLISH": "we will plan"
+      "SPANISH": "Planearemos",
+      "ENGLISH": "We will plan"
     },
     "VOSOTROS": {
-      "SPANISH": "planearéis",
-      "ENGLISH": "you (plural) will plan"
+      "SPANISH": "Planearéis",
+      "ENGLISH": "You will plan"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré planeado",
+      "SPANISH": "Habré planeado",
       "ENGLISH": "I will have planned"
     },
     "TU": {
-      "SPANISH": "habrás planeado",
-      "ENGLISH": "you will have planned"
+      "SPANISH": "Habrás planeado",
+      "ENGLISH": "You will have planned"
     },
     "EL": {
-      "SPANISH": "habrá planeado",
-      "ENGLISH": "s/he will have planned, you (formal) will have planned"
+      "SPANISH": "Habrá planeado",
+      "ENGLISH": "He will have planned"
     },
     "ELLOS": {
-      "SPANISH": "habrán planeado",
-      "ENGLISH": "they will have planned, you (plural formal) will have planned"
+      "SPANISH": "Habrán planeado",
+      "ENGLISH": "They will have planned"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos planeado",
-      "ENGLISH": "we will have planned"
+      "SPANISH": "Habremos planeado",
+      "ENGLISH": "We will have planned"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis planeado",
-      "ENGLISH": "you (plural) will have planned"
+      "SPANISH": "Habréis planeado",
+      "ENGLISH": "You will have planned"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "planearía",
+      "SPANISH": "Planearía",
       "ENGLISH": "I would plan"
     },
     "TU": {
-      "SPANISH": "planearías",
-      "ENGLISH": "you would plan"
+      "SPANISH": "Planearías",
+      "ENGLISH": "You would plan"
     },
     "EL": {
-      "SPANISH": "planearía",
-      "ENGLISH": "s/he would plan, you (formal) would plan"
+      "SPANISH": "Planearía",
+      "ENGLISH": "He would plan"
     },
     "ELLOS": {
-      "SPANISH": "planearían",
-      "ENGLISH": "they would plan, you (plural formal) would plan"
+      "SPANISH": "Planearían",
+      "ENGLISH": "They would plan"
     },
     "NOSOTROS": {
-      "SPANISH": "planearíamos",
-      "ENGLISH": "we would plan"
+      "SPANISH": "Planearíamos",
+      "ENGLISH": "We would plan"
     },
     "VOSOTROS": {
-      "SPANISH": "planearíais",
-      "ENGLISH": "you (plural) would plan"
+      "SPANISH": "Planearíais",
+      "ENGLISH": "You would plan"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría planeado",
+      "SPANISH": "Habría planeado",
       "ENGLISH": "I would have planned"
     },
     "TU": {
-      "SPANISH": "habrías planeado",
-      "ENGLISH": "you would have planned"
+      "SPANISH": "Habrías planeado",
+      "ENGLISH": "You would have planned"
     },
     "EL": {
-      "SPANISH": "habría planeado",
-      "ENGLISH": "s/he would have planned, you (formal) would have planned"
+      "SPANISH": "Habría planeado",
+      "ENGLISH": "He would have planned"
     },
     "ELLOS": {
-      "SPANISH": "habrían planeado",
-      "ENGLISH": "they would have planned, you (plural formal) would have planned"
+      "SPANISH": "Habrían planeado",
+      "ENGLISH": "They would have planned"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos planeado",
-      "ENGLISH": "we would have planned"
+      "SPANISH": "Habríamos planeado",
+      "ENGLISH": "We would have planned"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais planeado",
-      "ENGLISH": "you (plural) would have planned"
+      "SPANISH": "Habríais planeado",
+      "ENGLISH": "You would have planned"
     }
   }
 }

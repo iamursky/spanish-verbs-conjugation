@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "robo",
+      "SPANISH": "Robo",
       "ENGLISH": "I steal"
     },
     "TU": {
-      "SPANISH": "robas",
-      "ENGLISH": "you steal"
+      "SPANISH": "Robas",
+      "ENGLISH": "You steal"
     },
     "EL": {
-      "SPANISH": "roba",
-      "ENGLISH": "s/he steals, you (formal) steals"
+      "SPANISH": "Roba",
+      "ENGLISH": "He steals"
     },
     "ELLOS": {
-      "SPANISH": "roban",
-      "ENGLISH": "they steal, you (plural formal) steal"
+      "SPANISH": "Roban",
+      "ENGLISH": "They steal"
     },
     "NOSOTROS": {
-      "SPANISH": "robamos",
-      "ENGLISH": "we steal"
+      "SPANISH": "Robamos",
+      "ENGLISH": "We steal"
     },
     "VOSOTROS": {
-      "SPANISH": "robáis",
-      "ENGLISH": "you (plural) steal"
+      "SPANISH": "Robáis",
+      "ENGLISH": "You steal"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he robado",
+      "SPANISH": "He robado",
       "ENGLISH": "I have stolen"
     },
     "TU": {
-      "SPANISH": "has robado",
-      "ENGLISH": "you have stolen"
+      "SPANISH": "Has robado",
+      "ENGLISH": "You have stolen"
     },
     "EL": {
-      "SPANISH": "ha robado",
-      "ENGLISH": "s/he has stolen, you (formal) have stolen"
+      "SPANISH": "Ha robado",
+      "ENGLISH": "He has stolen"
     },
     "ELLOS": {
-      "SPANISH": "han robado",
-      "ENGLISH": "they have stolen, you (plural formal) have stolen"
+      "SPANISH": "Han robado",
+      "ENGLISH": "They have stolen"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos robado",
-      "ENGLISH": "we have stolen"
+      "SPANISH": "Hemos robado",
+      "ENGLISH": "We have stolen"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis robado",
-      "ENGLISH": "you (plural) have stolen"
+      "SPANISH": "Habéis robado",
+      "ENGLISH": "You have stolen"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "robé",
+      "SPANISH": "Robé",
       "ENGLISH": "I stole"
     },
     "TU": {
-      "SPANISH": "robaste",
-      "ENGLISH": "you stole"
+      "SPANISH": "Robaste",
+      "ENGLISH": "You stole"
     },
     "EL": {
-      "SPANISH": "robó",
-      "ENGLISH": "s/he stole, you (formal) stole"
+      "SPANISH": "Robó",
+      "ENGLISH": "He stole"
     },
     "ELLOS": {
-      "SPANISH": "robaron",
-      "ENGLISH": "they stole, you (plural formal) stole"
+      "SPANISH": "Robaron",
+      "ENGLISH": "They stole"
     },
     "NOSOTROS": {
-      "SPANISH": "robamos",
-      "ENGLISH": "we stole"
+      "SPANISH": "Robamos",
+      "ENGLISH": "We stole"
     },
     "VOSOTROS": {
-      "SPANISH": "robasteis",
-      "ENGLISH": "you (plural) stole"
+      "SPANISH": "Robasteis",
+      "ENGLISH": "You stole"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había robado",
+      "SPANISH": "Había robado",
       "ENGLISH": "I had stolen"
     },
     "TU": {
-      "SPANISH": "habías robado",
-      "ENGLISH": "you had stolen"
+      "SPANISH": "Habías robado",
+      "ENGLISH": "You had stolen"
     },
     "EL": {
-      "SPANISH": "había robado",
-      "ENGLISH": "s/he had stolen, you (formal) had stolen"
+      "SPANISH": "Había robado",
+      "ENGLISH": "He had stolen"
     },
     "ELLOS": {
-      "SPANISH": "habían robado",
-      "ENGLISH": "they had stolen, you (plural formal) had stolen"
+      "SPANISH": "Habían robado",
+      "ENGLISH": "They had stolen"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos robado",
-      "ENGLISH": "we had stolen"
+      "SPANISH": "Habíamos robado",
+      "ENGLISH": "We had stolen"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais robado",
-      "ENGLISH": "you (plural) had stolen"
+      "SPANISH": "Habíais robado",
+      "ENGLISH": "You had stolen"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "robé",
+      "SPANISH": "Robé",
       "ENGLISH": "I stole"
     },
     "TU": {
-      "SPANISH": "robaste",
-      "ENGLISH": "you stole"
+      "SPANISH": "Robaste",
+      "ENGLISH": "You stole"
     },
     "EL": {
-      "SPANISH": "robó",
-      "ENGLISH": "s/he stole, you (formal) stole"
+      "SPANISH": "Robó",
+      "ENGLISH": "He stole"
     },
     "ELLOS": {
-      "SPANISH": "robaron",
-      "ENGLISH": "they stole, you (plural formal) stole"
+      "SPANISH": "Robaron",
+      "ENGLISH": "They stole"
     },
     "NOSOTROS": {
-      "SPANISH": "robamos",
-      "ENGLISH": "we stole"
+      "SPANISH": "Robamos",
+      "ENGLISH": "We stole"
     },
     "VOSOTROS": {
-      "SPANISH": "robasteis",
-      "ENGLISH": "you (plural) stole"
+      "SPANISH": "Robasteis",
+      "ENGLISH": "You stole"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "robaré",
+      "SPANISH": "Robaré",
       "ENGLISH": "I will steal"
     },
     "TU": {
-      "SPANISH": "robarás",
-      "ENGLISH": "you will steal"
+      "SPANISH": "Robarás",
+      "ENGLISH": "You will steal"
     },
     "EL": {
-      "SPANISH": "robará",
-      "ENGLISH": "s/he will steal, you (formal) will steal"
+      "SPANISH": "Robará",
+      "ENGLISH": "He will steal"
     },
     "ELLOS": {
-      "SPANISH": "robarán",
-      "ENGLISH": "they will steal, you (plural formal) will steal"
+      "SPANISH": "Robarán",
+      "ENGLISH": "They will steal"
     },
     "NOSOTROS": {
-      "SPANISH": "robaremos",
-      "ENGLISH": "we will steal"
+      "SPANISH": "Robaremos",
+      "ENGLISH": "We will steal"
     },
     "VOSOTROS": {
-      "SPANISH": "robaréis",
-      "ENGLISH": "you (plural) will steal"
+      "SPANISH": "Robaréis",
+      "ENGLISH": "You will steal"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré robado",
+      "SPANISH": "Habré robado",
       "ENGLISH": "I will have stolen"
     },
     "TU": {
-      "SPANISH": "habrás robado",
-      "ENGLISH": "you will have stolen"
+      "SPANISH": "Habrás robado",
+      "ENGLISH": "You will have stolen"
     },
     "EL": {
-      "SPANISH": "habrá robado",
-      "ENGLISH": "s/he will have stolen, you (formal) will have stolen"
+      "SPANISH": "Habrá robado",
+      "ENGLISH": "He will have stolen"
     },
     "ELLOS": {
-      "SPANISH": "habrán robado",
-      "ENGLISH": "they will have stolen, you (plural formal) will have stolen"
+      "SPANISH": "Habrán robado",
+      "ENGLISH": "They will have stolen"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos robado",
-      "ENGLISH": "we will have stolen"
+      "SPANISH": "Habremos robado",
+      "ENGLISH": "We will have stolen"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis robado",
-      "ENGLISH": "you (plural) will have stolen"
+      "SPANISH": "Habréis robado",
+      "ENGLISH": "You will have stolen"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "robaría",
+      "SPANISH": "Robaría",
       "ENGLISH": "I would steal"
     },
     "TU": {
-      "SPANISH": "robarías",
-      "ENGLISH": "you would steal"
+      "SPANISH": "Robarías",
+      "ENGLISH": "You would steal"
     },
     "EL": {
-      "SPANISH": "robaría",
-      "ENGLISH": "s/he would steal, you (formal) would steal"
+      "SPANISH": "Robaría",
+      "ENGLISH": "He would steal"
     },
     "ELLOS": {
-      "SPANISH": "robarían",
-      "ENGLISH": "they would steal, you (plural formal) would steal"
+      "SPANISH": "Robarían",
+      "ENGLISH": "They would steal"
     },
     "NOSOTROS": {
-      "SPANISH": "robaríamos",
-      "ENGLISH": "we would steal"
+      "SPANISH": "Robaríamos",
+      "ENGLISH": "We would steal"
     },
     "VOSOTROS": {
-      "SPANISH": "robaríais",
-      "ENGLISH": "you (plural) would steal"
+      "SPANISH": "Robaríais",
+      "ENGLISH": "You would steal"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría robado",
+      "SPANISH": "Habría robado",
       "ENGLISH": "I would have stolen"
     },
     "TU": {
-      "SPANISH": "habrías robado",
-      "ENGLISH": "you would have stolen"
+      "SPANISH": "Habrías robado",
+      "ENGLISH": "You would have stolen"
     },
     "EL": {
-      "SPANISH": "habría robado",
-      "ENGLISH": "s/he would have stolen, you (formal) would have stolen"
+      "SPANISH": "Habría robado",
+      "ENGLISH": "He would have stolen"
     },
     "ELLOS": {
-      "SPANISH": "habrían robado",
-      "ENGLISH": "they would have stolen, you (plural formal) would have stolen"
+      "SPANISH": "Habrían robado",
+      "ENGLISH": "They would have stolen"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos robado",
-      "ENGLISH": "we would have stolen"
+      "SPANISH": "Habríamos robado",
+      "ENGLISH": "We would have stolen"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais robado",
-      "ENGLISH": "you (plural) would have stolen"
+      "SPANISH": "Habríais robado",
+      "ENGLISH": "You would have stolen"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "plancho",
+      "SPANISH": "Plancho",
       "ENGLISH": "I iron"
     },
     "TU": {
-      "SPANISH": "planchas",
-      "ENGLISH": "you iron"
+      "SPANISH": "Planchas",
+      "ENGLISH": "You iron"
     },
     "EL": {
-      "SPANISH": "plancha",
-      "ENGLISH": "s/he irons, you (formal) irons"
+      "SPANISH": "Plancha",
+      "ENGLISH": "He irons"
     },
     "ELLOS": {
-      "SPANISH": "planchan",
-      "ENGLISH": "they iron, you (plural formal) iron"
+      "SPANISH": "Planchan",
+      "ENGLISH": "They iron"
     },
     "NOSOTROS": {
-      "SPANISH": "planchamos",
-      "ENGLISH": "we iron"
+      "SPANISH": "Planchamos",
+      "ENGLISH": "We iron"
     },
     "VOSOTROS": {
-      "SPANISH": "plancháis",
-      "ENGLISH": "you (plural) iron"
+      "SPANISH": "Plancháis",
+      "ENGLISH": "You iron"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he planchado",
+      "SPANISH": "He planchado",
       "ENGLISH": "I have ironed"
     },
     "TU": {
-      "SPANISH": "has planchado",
-      "ENGLISH": "you have ironed"
+      "SPANISH": "Has planchado",
+      "ENGLISH": "You have ironed"
     },
     "EL": {
-      "SPANISH": "ha planchado",
-      "ENGLISH": "s/he has ironed, you (formal) have ironed"
+      "SPANISH": "Ha planchado",
+      "ENGLISH": "He has ironed"
     },
     "ELLOS": {
-      "SPANISH": "han planchado",
-      "ENGLISH": "they have ironed, you (plural formal) have ironed"
+      "SPANISH": "Han planchado",
+      "ENGLISH": "They have ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos planchado",
-      "ENGLISH": "we have ironed"
+      "SPANISH": "Hemos planchado",
+      "ENGLISH": "We have ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis planchado",
-      "ENGLISH": "you (plural) have ironed"
+      "SPANISH": "Habéis planchado",
+      "ENGLISH": "You have ironed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "planché",
+      "SPANISH": "Planché",
       "ENGLISH": "I ironed"
     },
     "TU": {
-      "SPANISH": "planchaste",
-      "ENGLISH": "you ironed"
+      "SPANISH": "Planchaste",
+      "ENGLISH": "You ironed"
     },
     "EL": {
-      "SPANISH": "planchó",
-      "ENGLISH": "s/he ironed, you (formal) ironed"
+      "SPANISH": "Planchó",
+      "ENGLISH": "He ironed"
     },
     "ELLOS": {
-      "SPANISH": "plancharon",
-      "ENGLISH": "they ironed, you (plural formal) ironed"
+      "SPANISH": "Plancharon",
+      "ENGLISH": "They ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "planchamos",
-      "ENGLISH": "we ironed"
+      "SPANISH": "Planchamos",
+      "ENGLISH": "We ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "planchasteis",
-      "ENGLISH": "you (plural) ironed"
+      "SPANISH": "Planchasteis",
+      "ENGLISH": "You ironed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había planchado",
+      "SPANISH": "Había planchado",
       "ENGLISH": "I had ironed"
     },
     "TU": {
-      "SPANISH": "habías planchado",
-      "ENGLISH": "you had ironed"
+      "SPANISH": "Habías planchado",
+      "ENGLISH": "You had ironed"
     },
     "EL": {
-      "SPANISH": "había planchado",
-      "ENGLISH": "s/he had ironed, you (formal) had ironed"
+      "SPANISH": "Había planchado",
+      "ENGLISH": "He had ironed"
     },
     "ELLOS": {
-      "SPANISH": "habían planchado",
-      "ENGLISH": "they had ironed, you (plural formal) had ironed"
+      "SPANISH": "Habían planchado",
+      "ENGLISH": "They had ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos planchado",
-      "ENGLISH": "we had ironed"
+      "SPANISH": "Habíamos planchado",
+      "ENGLISH": "We had ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais planchado",
-      "ENGLISH": "you (plural) had ironed"
+      "SPANISH": "Habíais planchado",
+      "ENGLISH": "You had ironed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "planché",
+      "SPANISH": "Planché",
       "ENGLISH": "I ironed"
     },
     "TU": {
-      "SPANISH": "planchaste",
-      "ENGLISH": "you ironed"
+      "SPANISH": "Planchaste",
+      "ENGLISH": "You ironed"
     },
     "EL": {
-      "SPANISH": "planchó",
-      "ENGLISH": "s/he ironed, you (formal) ironed"
+      "SPANISH": "Planchó",
+      "ENGLISH": "He ironed"
     },
     "ELLOS": {
-      "SPANISH": "plancharon",
-      "ENGLISH": "they ironed, you (plural formal) ironed"
+      "SPANISH": "Plancharon",
+      "ENGLISH": "They ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "planchamos",
-      "ENGLISH": "we ironed"
+      "SPANISH": "Planchamos",
+      "ENGLISH": "We ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "planchasteis",
-      "ENGLISH": "you (plural) ironed"
+      "SPANISH": "Planchasteis",
+      "ENGLISH": "You ironed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "plancharé",
+      "SPANISH": "Plancharé",
       "ENGLISH": "I will iron"
     },
     "TU": {
-      "SPANISH": "plancharás",
-      "ENGLISH": "you will iron"
+      "SPANISH": "Plancharás",
+      "ENGLISH": "You will iron"
     },
     "EL": {
-      "SPANISH": "planchará",
-      "ENGLISH": "s/he will iron, you (formal) will iron"
+      "SPANISH": "Planchará",
+      "ENGLISH": "He will iron"
     },
     "ELLOS": {
-      "SPANISH": "plancharán",
-      "ENGLISH": "they will iron, you (plural formal) will iron"
+      "SPANISH": "Plancharán",
+      "ENGLISH": "They will iron"
     },
     "NOSOTROS": {
-      "SPANISH": "plancharemos",
-      "ENGLISH": "we will iron"
+      "SPANISH": "Plancharemos",
+      "ENGLISH": "We will iron"
     },
     "VOSOTROS": {
-      "SPANISH": "plancharéis",
-      "ENGLISH": "you (plural) will iron"
+      "SPANISH": "Plancharéis",
+      "ENGLISH": "You will iron"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré planchado",
+      "SPANISH": "Habré planchado",
       "ENGLISH": "I will have ironed"
     },
     "TU": {
-      "SPANISH": "habrás planchado",
-      "ENGLISH": "you will have ironed"
+      "SPANISH": "Habrás planchado",
+      "ENGLISH": "You will have ironed"
     },
     "EL": {
-      "SPANISH": "habrá planchado",
-      "ENGLISH": "s/he will have ironed, you (formal) will have ironed"
+      "SPANISH": "Habrá planchado",
+      "ENGLISH": "He will have ironed"
     },
     "ELLOS": {
-      "SPANISH": "habrán planchado",
-      "ENGLISH": "they will have ironed, you (plural formal) will have ironed"
+      "SPANISH": "Habrán planchado",
+      "ENGLISH": "They will have ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos planchado",
-      "ENGLISH": "we will have ironed"
+      "SPANISH": "Habremos planchado",
+      "ENGLISH": "We will have ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis planchado",
-      "ENGLISH": "you (plural) will have ironed"
+      "SPANISH": "Habréis planchado",
+      "ENGLISH": "You will have ironed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "plancharía",
+      "SPANISH": "Plancharía",
       "ENGLISH": "I would iron"
     },
     "TU": {
-      "SPANISH": "plancharías",
-      "ENGLISH": "you would iron"
+      "SPANISH": "Plancharías",
+      "ENGLISH": "You would iron"
     },
     "EL": {
-      "SPANISH": "plancharía",
-      "ENGLISH": "s/he would iron, you (formal) would iron"
+      "SPANISH": "Plancharía",
+      "ENGLISH": "He would iron"
     },
     "ELLOS": {
-      "SPANISH": "plancharían",
-      "ENGLISH": "they would iron, you (plural formal) would iron"
+      "SPANISH": "Plancharían",
+      "ENGLISH": "They would iron"
     },
     "NOSOTROS": {
-      "SPANISH": "plancharíamos",
-      "ENGLISH": "we would iron"
+      "SPANISH": "Plancharíamos",
+      "ENGLISH": "We would iron"
     },
     "VOSOTROS": {
-      "SPANISH": "plancharíais",
-      "ENGLISH": "you (plural) would iron"
+      "SPANISH": "Plancharíais",
+      "ENGLISH": "You would iron"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría planchado",
+      "SPANISH": "Habría planchado",
       "ENGLISH": "I would have ironed"
     },
     "TU": {
-      "SPANISH": "habrías planchado",
-      "ENGLISH": "you would have ironed"
+      "SPANISH": "Habrías planchado",
+      "ENGLISH": "You would have ironed"
     },
     "EL": {
-      "SPANISH": "habría planchado",
-      "ENGLISH": "s/he would have ironed, you (formal) would have ironed"
+      "SPANISH": "Habría planchado",
+      "ENGLISH": "He would have ironed"
     },
     "ELLOS": {
-      "SPANISH": "habrían planchado",
-      "ENGLISH": "they would have ironed, you (plural formal) would have ironed"
+      "SPANISH": "Habrían planchado",
+      "ENGLISH": "They would have ironed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos planchado",
-      "ENGLISH": "we would have ironed"
+      "SPANISH": "Habríamos planchado",
+      "ENGLISH": "We would have ironed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais planchado",
-      "ENGLISH": "you (plural) would have ironed"
+      "SPANISH": "Habríais planchado",
+      "ENGLISH": "You would have ironed"
     }
   }
 }

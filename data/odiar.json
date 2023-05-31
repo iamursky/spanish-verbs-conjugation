@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "odio",
+      "SPANISH": "Odio",
       "ENGLISH": "I hate"
     },
     "TU": {
-      "SPANISH": "odias",
-      "ENGLISH": "you hate"
+      "SPANISH": "Odias",
+      "ENGLISH": "You hate"
     },
     "EL": {
-      "SPANISH": "odia",
-      "ENGLISH": "s/he hates, you (formal) hates"
+      "SPANISH": "Odia",
+      "ENGLISH": "He hates"
     },
     "ELLOS": {
-      "SPANISH": "odian",
-      "ENGLISH": "they hate, you (plural formal) hate"
+      "SPANISH": "Odian",
+      "ENGLISH": "They hate"
     },
     "NOSOTROS": {
-      "SPANISH": "odiamos",
-      "ENGLISH": "we hate"
+      "SPANISH": "Odiamos",
+      "ENGLISH": "We hate"
     },
     "VOSOTROS": {
-      "SPANISH": "odiáis",
-      "ENGLISH": "you (plural) hate"
+      "SPANISH": "Odiáis",
+      "ENGLISH": "You hate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he odiado",
+      "SPANISH": "He odiado",
       "ENGLISH": "I have hated"
     },
     "TU": {
-      "SPANISH": "has odiado",
-      "ENGLISH": "you have hated"
+      "SPANISH": "Has odiado",
+      "ENGLISH": "You have hated"
     },
     "EL": {
-      "SPANISH": "ha odiado",
-      "ENGLISH": "s/he has hated, you (formal) have hated"
+      "SPANISH": "Ha odiado",
+      "ENGLISH": "He has hated"
     },
     "ELLOS": {
-      "SPANISH": "han odiado",
-      "ENGLISH": "they have hated, you (plural formal) have hated"
+      "SPANISH": "Han odiado",
+      "ENGLISH": "They have hated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos odiado",
-      "ENGLISH": "we have hated"
+      "SPANISH": "Hemos odiado",
+      "ENGLISH": "We have hated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis odiado",
-      "ENGLISH": "you (plural) have hated"
+      "SPANISH": "Habéis odiado",
+      "ENGLISH": "You have hated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "odié",
+      "SPANISH": "Odié",
       "ENGLISH": "I hated"
     },
     "TU": {
-      "SPANISH": "odiaste",
-      "ENGLISH": "you hated"
+      "SPANISH": "Odiaste",
+      "ENGLISH": "You hated"
     },
     "EL": {
-      "SPANISH": "odió",
-      "ENGLISH": "s/he hated, you (formal) hated"
+      "SPANISH": "Odió",
+      "ENGLISH": "He hated"
     },
     "ELLOS": {
-      "SPANISH": "odiaron",
-      "ENGLISH": "they hated, you (plural formal) hated"
+      "SPANISH": "Odiaron",
+      "ENGLISH": "They hated"
     },
     "NOSOTROS": {
-      "SPANISH": "odiamos",
-      "ENGLISH": "we hated"
+      "SPANISH": "Odiamos",
+      "ENGLISH": "We hated"
     },
     "VOSOTROS": {
-      "SPANISH": "odiasteis",
-      "ENGLISH": "you (plural) hated"
+      "SPANISH": "Odiasteis",
+      "ENGLISH": "You hated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había odiado",
+      "SPANISH": "Había odiado",
       "ENGLISH": "I had hated"
     },
     "TU": {
-      "SPANISH": "habías odiado",
-      "ENGLISH": "you had hated"
+      "SPANISH": "Habías odiado",
+      "ENGLISH": "You had hated"
     },
     "EL": {
-      "SPANISH": "había odiado",
-      "ENGLISH": "s/he had hated, you (formal) had hated"
+      "SPANISH": "Había odiado",
+      "ENGLISH": "He had hated"
     },
     "ELLOS": {
-      "SPANISH": "habían odiado",
-      "ENGLISH": "they had hated, you (plural formal) had hated"
+      "SPANISH": "Habían odiado",
+      "ENGLISH": "They had hated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos odiado",
-      "ENGLISH": "we had hated"
+      "SPANISH": "Habíamos odiado",
+      "ENGLISH": "We had hated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais odiado",
-      "ENGLISH": "you (plural) had hated"
+      "SPANISH": "Habíais odiado",
+      "ENGLISH": "You had hated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "odié",
+      "SPANISH": "Odié",
       "ENGLISH": "I hated"
     },
     "TU": {
-      "SPANISH": "odiaste",
-      "ENGLISH": "you hated"
+      "SPANISH": "Odiaste",
+      "ENGLISH": "You hated"
     },
     "EL": {
-      "SPANISH": "odió",
-      "ENGLISH": "s/he hated, you (formal) hated"
+      "SPANISH": "Odió",
+      "ENGLISH": "He hated"
     },
     "ELLOS": {
-      "SPANISH": "odiaron",
-      "ENGLISH": "they hated, you (plural formal) hated"
+      "SPANISH": "Odiaron",
+      "ENGLISH": "They hated"
     },
     "NOSOTROS": {
-      "SPANISH": "odiamos",
-      "ENGLISH": "we hated"
+      "SPANISH": "Odiamos",
+      "ENGLISH": "We hated"
     },
     "VOSOTROS": {
-      "SPANISH": "odiasteis",
-      "ENGLISH": "you (plural) hated"
+      "SPANISH": "Odiasteis",
+      "ENGLISH": "You hated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "odiaré",
+      "SPANISH": "Odiaré",
       "ENGLISH": "I will hate"
     },
     "TU": {
-      "SPANISH": "odiarás",
-      "ENGLISH": "you will hate"
+      "SPANISH": "Odiarás",
+      "ENGLISH": "You will hate"
     },
     "EL": {
-      "SPANISH": "odiará",
-      "ENGLISH": "s/he will hate, you (formal) will hate"
+      "SPANISH": "Odiará",
+      "ENGLISH": "He will hate"
     },
     "ELLOS": {
-      "SPANISH": "odiarán",
-      "ENGLISH": "they will hate, you (plural formal) will hate"
+      "SPANISH": "Odiarán",
+      "ENGLISH": "They will hate"
     },
     "NOSOTROS": {
-      "SPANISH": "odiaremos",
-      "ENGLISH": "we will hate"
+      "SPANISH": "Odiaremos",
+      "ENGLISH": "We will hate"
     },
     "VOSOTROS": {
-      "SPANISH": "odiaréis",
-      "ENGLISH": "you (plural) will hate"
+      "SPANISH": "Odiaréis",
+      "ENGLISH": "You will hate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré odiado",
+      "SPANISH": "Habré odiado",
       "ENGLISH": "I will have hated"
     },
     "TU": {
-      "SPANISH": "habrás odiado",
-      "ENGLISH": "you will have hated"
+      "SPANISH": "Habrás odiado",
+      "ENGLISH": "You will have hated"
     },
     "EL": {
-      "SPANISH": "habrá odiado",
-      "ENGLISH": "s/he will have hated, you (formal) will have hated"
+      "SPANISH": "Habrá odiado",
+      "ENGLISH": "He will have hated"
     },
     "ELLOS": {
-      "SPANISH": "habrán odiado",
-      "ENGLISH": "they will have hated, you (plural formal) will have hated"
+      "SPANISH": "Habrán odiado",
+      "ENGLISH": "They will have hated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos odiado",
-      "ENGLISH": "we will have hated"
+      "SPANISH": "Habremos odiado",
+      "ENGLISH": "We will have hated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis odiado",
-      "ENGLISH": "you (plural) will have hated"
+      "SPANISH": "Habréis odiado",
+      "ENGLISH": "You will have hated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "odiaría",
+      "SPANISH": "Odiaría",
       "ENGLISH": "I would hate"
     },
     "TU": {
-      "SPANISH": "odiarías",
-      "ENGLISH": "you would hate"
+      "SPANISH": "Odiarías",
+      "ENGLISH": "You would hate"
     },
     "EL": {
-      "SPANISH": "odiaría",
-      "ENGLISH": "s/he would hate, you (formal) would hate"
+      "SPANISH": "Odiaría",
+      "ENGLISH": "He would hate"
     },
     "ELLOS": {
-      "SPANISH": "odiarían",
-      "ENGLISH": "they would hate, you (plural formal) would hate"
+      "SPANISH": "Odiarían",
+      "ENGLISH": "They would hate"
     },
     "NOSOTROS": {
-      "SPANISH": "odiaríamos",
-      "ENGLISH": "we would hate"
+      "SPANISH": "Odiaríamos",
+      "ENGLISH": "We would hate"
     },
     "VOSOTROS": {
-      "SPANISH": "odiaríais",
-      "ENGLISH": "you (plural) would hate"
+      "SPANISH": "Odiaríais",
+      "ENGLISH": "You would hate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría odiado",
+      "SPANISH": "Habría odiado",
       "ENGLISH": "I would have hated"
     },
     "TU": {
-      "SPANISH": "habrías odiado",
-      "ENGLISH": "you would have hated"
+      "SPANISH": "Habrías odiado",
+      "ENGLISH": "You would have hated"
     },
     "EL": {
-      "SPANISH": "habría odiado",
-      "ENGLISH": "s/he would have hated, you (formal) would have hated"
+      "SPANISH": "Habría odiado",
+      "ENGLISH": "He would have hated"
     },
     "ELLOS": {
-      "SPANISH": "habrían odiado",
-      "ENGLISH": "they would have hated, you (plural formal) would have hated"
+      "SPANISH": "Habrían odiado",
+      "ENGLISH": "They would have hated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos odiado",
-      "ENGLISH": "we would have hated"
+      "SPANISH": "Habríamos odiado",
+      "ENGLISH": "We would have hated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais odiado",
-      "ENGLISH": "you (plural) would have hated"
+      "SPANISH": "Habríais odiado",
+      "ENGLISH": "You would have hated"
     }
   }
 }

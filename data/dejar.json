@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dejo",
+      "SPANISH": "Dejo",
       "ENGLISH": "I leave"
     },
     "TU": {
-      "SPANISH": "dejas",
-      "ENGLISH": "you leave"
+      "SPANISH": "Dejas",
+      "ENGLISH": "You leave"
     },
     "EL": {
-      "SPANISH": "deja",
-      "ENGLISH": "s/he leaves, you (formal) leaves"
+      "SPANISH": "Deja",
+      "ENGLISH": "He leaves"
     },
     "ELLOS": {
-      "SPANISH": "dejan",
-      "ENGLISH": "they leave, you (plural formal) leave"
+      "SPANISH": "Dejan",
+      "ENGLISH": "They leave"
     },
     "NOSOTROS": {
-      "SPANISH": "dejamos",
-      "ENGLISH": "we leave"
+      "SPANISH": "Dejamos",
+      "ENGLISH": "We leave"
     },
     "VOSOTROS": {
-      "SPANISH": "dejáis",
-      "ENGLISH": "you (plural) leave"
+      "SPANISH": "Dejáis",
+      "ENGLISH": "You leave"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dejado",
+      "SPANISH": "He dejado",
       "ENGLISH": "I have left"
     },
     "TU": {
-      "SPANISH": "has dejado",
-      "ENGLISH": "you have left"
+      "SPANISH": "Has dejado",
+      "ENGLISH": "You have left"
     },
     "EL": {
-      "SPANISH": "ha dejado",
-      "ENGLISH": "s/he has left, you (formal) have left"
+      "SPANISH": "Ha dejado",
+      "ENGLISH": "He has left"
     },
     "ELLOS": {
-      "SPANISH": "han dejado",
-      "ENGLISH": "they have left, you (plural formal) have left"
+      "SPANISH": "Han dejado",
+      "ENGLISH": "They have left"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dejado",
-      "ENGLISH": "we have left"
+      "SPANISH": "Hemos dejado",
+      "ENGLISH": "We have left"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dejado",
-      "ENGLISH": "you (plural) have left"
+      "SPANISH": "Habéis dejado",
+      "ENGLISH": "You have left"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dejé",
+      "SPANISH": "Dejé",
       "ENGLISH": "I left"
     },
     "TU": {
-      "SPANISH": "dejaste",
-      "ENGLISH": "you left"
+      "SPANISH": "Dejaste",
+      "ENGLISH": "You left"
     },
     "EL": {
-      "SPANISH": "dejó",
-      "ENGLISH": "s/he left, you (formal) left"
+      "SPANISH": "Dejó",
+      "ENGLISH": "He left"
     },
     "ELLOS": {
-      "SPANISH": "dejaron",
-      "ENGLISH": "they left, you (plural formal) left"
+      "SPANISH": "Dejaron",
+      "ENGLISH": "They left"
     },
     "NOSOTROS": {
-      "SPANISH": "dejamos",
-      "ENGLISH": "we left"
+      "SPANISH": "Dejamos",
+      "ENGLISH": "We left"
     },
     "VOSOTROS": {
-      "SPANISH": "dejasteis",
-      "ENGLISH": "you (plural) left"
+      "SPANISH": "Dejasteis",
+      "ENGLISH": "You left"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dejado",
+      "SPANISH": "Había dejado",
       "ENGLISH": "I had left"
     },
     "TU": {
-      "SPANISH": "habías dejado",
-      "ENGLISH": "you had left"
+      "SPANISH": "Habías dejado",
+      "ENGLISH": "You had left"
     },
     "EL": {
-      "SPANISH": "había dejado",
-      "ENGLISH": "s/he had left, you (formal) had left"
+      "SPANISH": "Había dejado",
+      "ENGLISH": "He had left"
     },
     "ELLOS": {
-      "SPANISH": "habían dejado",
-      "ENGLISH": "they had left, you (plural formal) had left"
+      "SPANISH": "Habían dejado",
+      "ENGLISH": "They had left"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dejado",
-      "ENGLISH": "we had left"
+      "SPANISH": "Habíamos dejado",
+      "ENGLISH": "We had left"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dejado",
-      "ENGLISH": "you (plural) had left"
+      "SPANISH": "Habíais dejado",
+      "ENGLISH": "You had left"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dejé",
+      "SPANISH": "Dejé",
       "ENGLISH": "I left"
     },
     "TU": {
-      "SPANISH": "dejaste",
-      "ENGLISH": "you left"
+      "SPANISH": "Dejaste",
+      "ENGLISH": "You left"
     },
     "EL": {
-      "SPANISH": "dejó",
-      "ENGLISH": "s/he left, you (formal) left"
+      "SPANISH": "Dejó",
+      "ENGLISH": "He left"
     },
     "ELLOS": {
-      "SPANISH": "dejaron",
-      "ENGLISH": "they left, you (plural formal) left"
+      "SPANISH": "Dejaron",
+      "ENGLISH": "They left"
     },
     "NOSOTROS": {
-      "SPANISH": "dejamos",
-      "ENGLISH": "we left"
+      "SPANISH": "Dejamos",
+      "ENGLISH": "We left"
     },
     "VOSOTROS": {
-      "SPANISH": "dejasteis",
-      "ENGLISH": "you (plural) left"
+      "SPANISH": "Dejasteis",
+      "ENGLISH": "You left"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dejaré",
+      "SPANISH": "Dejaré",
       "ENGLISH": "I will leave"
     },
     "TU": {
-      "SPANISH": "dejarás",
-      "ENGLISH": "you will leave"
+      "SPANISH": "Dejarás",
+      "ENGLISH": "You will leave"
     },
     "EL": {
-      "SPANISH": "dejará",
-      "ENGLISH": "s/he will leave, you (formal) will leave"
+      "SPANISH": "Dejará",
+      "ENGLISH": "He will leave"
     },
     "ELLOS": {
-      "SPANISH": "dejarán",
-      "ENGLISH": "they will leave, you (plural formal) will leave"
+      "SPANISH": "Dejarán",
+      "ENGLISH": "They will leave"
     },
     "NOSOTROS": {
-      "SPANISH": "dejaremos",
-      "ENGLISH": "we will leave"
+      "SPANISH": "Dejaremos",
+      "ENGLISH": "We will leave"
     },
     "VOSOTROS": {
-      "SPANISH": "dejaréis",
-      "ENGLISH": "you (plural) will leave"
+      "SPANISH": "Dejaréis",
+      "ENGLISH": "You will leave"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dejado",
+      "SPANISH": "Habré dejado",
       "ENGLISH": "I will have left"
     },
     "TU": {
-      "SPANISH": "habrás dejado",
-      "ENGLISH": "you will have left"
+      "SPANISH": "Habrás dejado",
+      "ENGLISH": "You will have left"
     },
     "EL": {
-      "SPANISH": "habrá dejado",
-      "ENGLISH": "s/he will have left, you (formal) will have left"
+      "SPANISH": "Habrá dejado",
+      "ENGLISH": "He will have left"
     },
     "ELLOS": {
-      "SPANISH": "habrán dejado",
-      "ENGLISH": "they will have left, you (plural formal) will have left"
+      "SPANISH": "Habrán dejado",
+      "ENGLISH": "They will have left"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dejado",
-      "ENGLISH": "we will have left"
+      "SPANISH": "Habremos dejado",
+      "ENGLISH": "We will have left"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dejado",
-      "ENGLISH": "you (plural) will have left"
+      "SPANISH": "Habréis dejado",
+      "ENGLISH": "You will have left"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dejaría",
+      "SPANISH": "Dejaría",
       "ENGLISH": "I would leave"
     },
     "TU": {
-      "SPANISH": "dejarías",
-      "ENGLISH": "you would leave"
+      "SPANISH": "Dejarías",
+      "ENGLISH": "You would leave"
     },
     "EL": {
-      "SPANISH": "dejaría",
-      "ENGLISH": "s/he would leave, you (formal) would leave"
+      "SPANISH": "Dejaría",
+      "ENGLISH": "He would leave"
     },
     "ELLOS": {
-      "SPANISH": "dejarían",
-      "ENGLISH": "they would leave, you (plural formal) would leave"
+      "SPANISH": "Dejarían",
+      "ENGLISH": "They would leave"
     },
     "NOSOTROS": {
-      "SPANISH": "dejaríamos",
-      "ENGLISH": "we would leave"
+      "SPANISH": "Dejaríamos",
+      "ENGLISH": "We would leave"
     },
     "VOSOTROS": {
-      "SPANISH": "dejaríais",
-      "ENGLISH": "you (plural) would leave"
+      "SPANISH": "Dejaríais",
+      "ENGLISH": "You would leave"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dejado",
+      "SPANISH": "Habría dejado",
       "ENGLISH": "I would have left"
     },
     "TU": {
-      "SPANISH": "habrías dejado",
-      "ENGLISH": "you would have left"
+      "SPANISH": "Habrías dejado",
+      "ENGLISH": "You would have left"
     },
     "EL": {
-      "SPANISH": "habría dejado",
-      "ENGLISH": "s/he would have left, you (formal) would have left"
+      "SPANISH": "Habría dejado",
+      "ENGLISH": "He would have left"
     },
     "ELLOS": {
-      "SPANISH": "habrían dejado",
-      "ENGLISH": "they would have left, you (plural formal) would have left"
+      "SPANISH": "Habrían dejado",
+      "ENGLISH": "They would have left"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dejado",
-      "ENGLISH": "we would have left"
+      "SPANISH": "Habríamos dejado",
+      "ENGLISH": "We would have left"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dejado",
-      "ENGLISH": "you (plural) would have left"
+      "SPANISH": "Habríais dejado",
+      "ENGLISH": "You would have left"
     }
   }
 }

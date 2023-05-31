@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pongo ",
+      "SPANISH": "Pongo ",
       "ENGLISH": "I put"
     },
     "TU": {
-      "SPANISH": "pones",
-      "ENGLISH": "you put"
+      "SPANISH": "Pones",
+      "ENGLISH": "You put"
     },
     "EL": {
-      "SPANISH": "pone",
-      "ENGLISH": "s/he puts, you (formal) puts"
+      "SPANISH": "Pone",
+      "ENGLISH": "He puts"
     },
     "ELLOS": {
-      "SPANISH": "ponen",
-      "ENGLISH": "they put, you (plural formal) put"
+      "SPANISH": "Ponen",
+      "ENGLISH": "They put"
     },
     "NOSOTROS": {
-      "SPANISH": "ponemos",
-      "ENGLISH": "we put"
+      "SPANISH": "Ponemos",
+      "ENGLISH": "We put"
     },
     "VOSOTROS": {
-      "SPANISH": "ponéis",
-      "ENGLISH": "you (plural) put"
+      "SPANISH": "Ponéis",
+      "ENGLISH": "You put"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he puesto ",
+      "SPANISH": "He puesto ",
       "ENGLISH": "I have put"
     },
     "TU": {
-      "SPANISH": "has puesto ",
-      "ENGLISH": "you have put"
+      "SPANISH": "Has puesto ",
+      "ENGLISH": "You have put"
     },
     "EL": {
-      "SPANISH": "ha puesto ",
-      "ENGLISH": "s/he has put, you (formal) have put"
+      "SPANISH": "Ha puesto ",
+      "ENGLISH": "He has put"
     },
     "ELLOS": {
-      "SPANISH": "han puesto ",
-      "ENGLISH": "they have put, you (plural formal) have put"
+      "SPANISH": "Han puesto ",
+      "ENGLISH": "They have put"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos puesto ",
-      "ENGLISH": "we have put"
+      "SPANISH": "Hemos puesto ",
+      "ENGLISH": "We have put"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis puesto ",
-      "ENGLISH": "you (plural) have put"
+      "SPANISH": "Habéis puesto ",
+      "ENGLISH": "You have put"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "puse ",
+      "SPANISH": "Puse ",
       "ENGLISH": "I put"
     },
     "TU": {
-      "SPANISH": "pusiste ",
-      "ENGLISH": "you put"
+      "SPANISH": "Pusiste ",
+      "ENGLISH": "You put"
     },
     "EL": {
-      "SPANISH": "puso ",
-      "ENGLISH": "s/he put, you (formal) put"
+      "SPANISH": "Puso ",
+      "ENGLISH": "He put"
     },
     "ELLOS": {
-      "SPANISH": "pusieron ",
-      "ENGLISH": "they put, you (plural formal) put"
+      "SPANISH": "Pusieron ",
+      "ENGLISH": "They put"
     },
     "NOSOTROS": {
-      "SPANISH": "pusimos ",
-      "ENGLISH": "we put"
+      "SPANISH": "Pusimos ",
+      "ENGLISH": "We put"
     },
     "VOSOTROS": {
-      "SPANISH": "pusisteis ",
-      "ENGLISH": "you (plural) put"
+      "SPANISH": "Pusisteis ",
+      "ENGLISH": "You put"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había puesto ",
+      "SPANISH": "Había puesto ",
       "ENGLISH": "I had put"
     },
     "TU": {
-      "SPANISH": "habías puesto ",
-      "ENGLISH": "you had put"
+      "SPANISH": "Habías puesto ",
+      "ENGLISH": "You had put"
     },
     "EL": {
-      "SPANISH": "había puesto ",
-      "ENGLISH": "s/he had put, you (formal) had put"
+      "SPANISH": "Había puesto ",
+      "ENGLISH": "He had put"
     },
     "ELLOS": {
-      "SPANISH": "habían puesto ",
-      "ENGLISH": "they had put, you (plural formal) had put"
+      "SPANISH": "Habían puesto ",
+      "ENGLISH": "They had put"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos puesto ",
-      "ENGLISH": "we had put"
+      "SPANISH": "Habíamos puesto ",
+      "ENGLISH": "We had put"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais puesto ",
-      "ENGLISH": "you (plural) had put"
+      "SPANISH": "Habíais puesto ",
+      "ENGLISH": "You had put"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "puse ",
+      "SPANISH": "Puse ",
       "ENGLISH": "I put"
     },
     "TU": {
-      "SPANISH": "pusiste ",
-      "ENGLISH": "you put"
+      "SPANISH": "Pusiste ",
+      "ENGLISH": "You put"
     },
     "EL": {
-      "SPANISH": "puso ",
-      "ENGLISH": "s/he put, you (formal) put"
+      "SPANISH": "Puso ",
+      "ENGLISH": "He put"
     },
     "ELLOS": {
-      "SPANISH": "pusieron ",
-      "ENGLISH": "they put, you (plural formal) put"
+      "SPANISH": "Pusieron ",
+      "ENGLISH": "They put"
     },
     "NOSOTROS": {
-      "SPANISH": "pusimos ",
-      "ENGLISH": "we put"
+      "SPANISH": "Pusimos ",
+      "ENGLISH": "We put"
     },
     "VOSOTROS": {
-      "SPANISH": "pusisteis ",
-      "ENGLISH": "you (plural) put"
+      "SPANISH": "Pusisteis ",
+      "ENGLISH": "You put"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "pondré ",
+      "SPANISH": "Pondré ",
       "ENGLISH": "I will put"
     },
     "TU": {
-      "SPANISH": "pondrás ",
-      "ENGLISH": "you will put"
+      "SPANISH": "Pondrás ",
+      "ENGLISH": "You will put"
     },
     "EL": {
-      "SPANISH": "pondrá ",
-      "ENGLISH": "s/he will put, you (formal) will put"
+      "SPANISH": "Pondrá ",
+      "ENGLISH": "He will put"
     },
     "ELLOS": {
-      "SPANISH": "pondrán ",
-      "ENGLISH": "they will put, you (plural formal) will put"
+      "SPANISH": "Pondrán ",
+      "ENGLISH": "They will put"
     },
     "NOSOTROS": {
-      "SPANISH": "pondremos ",
-      "ENGLISH": "we will put"
+      "SPANISH": "Pondremos ",
+      "ENGLISH": "We will put"
     },
     "VOSOTROS": {
-      "SPANISH": "pondréis ",
-      "ENGLISH": "you (plural) will put"
+      "SPANISH": "Pondréis ",
+      "ENGLISH": "You will put"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré puesto ",
+      "SPANISH": "Habré puesto ",
       "ENGLISH": "I will have put"
     },
     "TU": {
-      "SPANISH": "habrás puesto ",
-      "ENGLISH": "you will have put"
+      "SPANISH": "Habrás puesto ",
+      "ENGLISH": "You will have put"
     },
     "EL": {
-      "SPANISH": "habrá puesto ",
-      "ENGLISH": "s/he will have put, you (formal) will have put"
+      "SPANISH": "Habrá puesto ",
+      "ENGLISH": "He will have put"
     },
     "ELLOS": {
-      "SPANISH": "habrán puesto ",
-      "ENGLISH": "they will have put, you (plural formal) will have put"
+      "SPANISH": "Habrán puesto ",
+      "ENGLISH": "They will have put"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos puesto ",
-      "ENGLISH": "we will have put"
+      "SPANISH": "Habremos puesto ",
+      "ENGLISH": "We will have put"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis puesto ",
-      "ENGLISH": "you (plural) will have put"
+      "SPANISH": "Habréis puesto ",
+      "ENGLISH": "You will have put"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pondría ",
+      "SPANISH": "Pondría ",
       "ENGLISH": "I would put"
     },
     "TU": {
-      "SPANISH": "pondrías ",
-      "ENGLISH": "you would put"
+      "SPANISH": "Pondrías ",
+      "ENGLISH": "You would put"
     },
     "EL": {
-      "SPANISH": "pondría ",
-      "ENGLISH": "s/he would put, you (formal) would put"
+      "SPANISH": "Pondría ",
+      "ENGLISH": "He would put"
     },
     "ELLOS": {
-      "SPANISH": "pondrían ",
-      "ENGLISH": "they would put, you (plural formal) would put"
+      "SPANISH": "Pondrían ",
+      "ENGLISH": "They would put"
     },
     "NOSOTROS": {
-      "SPANISH": "pondríamos ",
-      "ENGLISH": "we would put"
+      "SPANISH": "Pondríamos ",
+      "ENGLISH": "We would put"
     },
     "VOSOTROS": {
-      "SPANISH": "pondríais ",
-      "ENGLISH": "you (plural) would put"
+      "SPANISH": "Pondríais ",
+      "ENGLISH": "You would put"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría puesto ",
+      "SPANISH": "Habría puesto ",
       "ENGLISH": "I would have put"
     },
     "TU": {
-      "SPANISH": "habrías puesto ",
-      "ENGLISH": "you would have put"
+      "SPANISH": "Habrías puesto ",
+      "ENGLISH": "You would have put"
     },
     "EL": {
-      "SPANISH": "habría puesto ",
-      "ENGLISH": "s/he would have put, you (formal) would have put"
+      "SPANISH": "Habría puesto ",
+      "ENGLISH": "He would have put"
     },
     "ELLOS": {
-      "SPANISH": "habrían puesto ",
-      "ENGLISH": "they would have put, you (plural formal) would have put"
+      "SPANISH": "Habrían puesto ",
+      "ENGLISH": "They would have put"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos puesto ",
-      "ENGLISH": "we would have put"
+      "SPANISH": "Habríamos puesto ",
+      "ENGLISH": "We would have put"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais puesto ",
-      "ENGLISH": "you (plural) would have put"
+      "SPANISH": "Habríais puesto ",
+      "ENGLISH": "You would have put"
     }
   }
 }

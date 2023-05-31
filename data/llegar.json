@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "llego",
+      "SPANISH": "Llego",
       "ENGLISH": "I arrive"
     },
     "TU": {
-      "SPANISH": "llegas",
-      "ENGLISH": "you arrive"
+      "SPANISH": "Llegas",
+      "ENGLISH": "You arrive"
     },
     "EL": {
-      "SPANISH": "llega",
-      "ENGLISH": "s/he arrives, you (formal) arrives"
+      "SPANISH": "Llega",
+      "ENGLISH": "He arrives"
     },
     "ELLOS": {
-      "SPANISH": "llegan",
-      "ENGLISH": "they arrive, you (plural formal) arrive"
+      "SPANISH": "Llegan",
+      "ENGLISH": "They arrive"
     },
     "NOSOTROS": {
-      "SPANISH": "llegamos",
-      "ENGLISH": "we arrive"
+      "SPANISH": "Llegamos",
+      "ENGLISH": "We arrive"
     },
     "VOSOTROS": {
-      "SPANISH": "llegáis",
-      "ENGLISH": "you (plural) arrive"
+      "SPANISH": "Llegáis",
+      "ENGLISH": "You arrive"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he llegado",
+      "SPANISH": "He llegado",
       "ENGLISH": "I have arrived"
     },
     "TU": {
-      "SPANISH": "has llegado",
-      "ENGLISH": "you have arrived"
+      "SPANISH": "Has llegado",
+      "ENGLISH": "You have arrived"
     },
     "EL": {
-      "SPANISH": "ha llegado",
-      "ENGLISH": "s/he has arrived, you (formal) have arrived"
+      "SPANISH": "Ha llegado",
+      "ENGLISH": "He has arrived"
     },
     "ELLOS": {
-      "SPANISH": "han llegado",
-      "ENGLISH": "they have arrived, you (plural formal) have arrived"
+      "SPANISH": "Han llegado",
+      "ENGLISH": "They have arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos llegado",
-      "ENGLISH": "we have arrived"
+      "SPANISH": "Hemos llegado",
+      "ENGLISH": "We have arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis llegado",
-      "ENGLISH": "you (plural) have arrived"
+      "SPANISH": "Habéis llegado",
+      "ENGLISH": "You have arrived"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "llegué ",
+      "SPANISH": "Llegué ",
       "ENGLISH": "I arrived"
     },
     "TU": {
-      "SPANISH": "llegaste",
-      "ENGLISH": "you arrived"
+      "SPANISH": "Llegaste",
+      "ENGLISH": "You arrived"
     },
     "EL": {
-      "SPANISH": "llegó",
-      "ENGLISH": "s/he arrived, you (formal) arrived"
+      "SPANISH": "Llegó",
+      "ENGLISH": "He arrived"
     },
     "ELLOS": {
-      "SPANISH": "llegaron",
-      "ENGLISH": "they arrived, you (plural formal) arrived"
+      "SPANISH": "Llegaron",
+      "ENGLISH": "They arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "llegamos",
-      "ENGLISH": "we arrived"
+      "SPANISH": "Llegamos",
+      "ENGLISH": "We arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "llegasteis",
-      "ENGLISH": "you (plural) arrived"
+      "SPANISH": "Llegasteis",
+      "ENGLISH": "You arrived"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había llegado",
+      "SPANISH": "Había llegado",
       "ENGLISH": "I had arrived"
     },
     "TU": {
-      "SPANISH": "habías llegado",
-      "ENGLISH": "you had arrived"
+      "SPANISH": "Habías llegado",
+      "ENGLISH": "You had arrived"
     },
     "EL": {
-      "SPANISH": "había llegado",
-      "ENGLISH": "s/he had arrived, you (formal) had arrived"
+      "SPANISH": "Había llegado",
+      "ENGLISH": "He had arrived"
     },
     "ELLOS": {
-      "SPANISH": "habían llegado",
-      "ENGLISH": "they had arrived, you (plural formal) had arrived"
+      "SPANISH": "Habían llegado",
+      "ENGLISH": "They had arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos llegado",
-      "ENGLISH": "we had arrived"
+      "SPANISH": "Habíamos llegado",
+      "ENGLISH": "We had arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais llegado",
-      "ENGLISH": "you (plural) had arrived"
+      "SPANISH": "Habíais llegado",
+      "ENGLISH": "You had arrived"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "llegué ",
+      "SPANISH": "Llegué ",
       "ENGLISH": "I arrived"
     },
     "TU": {
-      "SPANISH": "llegaste",
-      "ENGLISH": "you arrived"
+      "SPANISH": "Llegaste",
+      "ENGLISH": "You arrived"
     },
     "EL": {
-      "SPANISH": "llegó",
-      "ENGLISH": "s/he arrived, you (formal) arrived"
+      "SPANISH": "Llegó",
+      "ENGLISH": "He arrived"
     },
     "ELLOS": {
-      "SPANISH": "llegaron",
-      "ENGLISH": "they arrived, you (plural formal) arrived"
+      "SPANISH": "Llegaron",
+      "ENGLISH": "They arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "llegamos",
-      "ENGLISH": "we arrived"
+      "SPANISH": "Llegamos",
+      "ENGLISH": "We arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "llegasteis",
-      "ENGLISH": "you (plural) arrived"
+      "SPANISH": "Llegasteis",
+      "ENGLISH": "You arrived"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "llegaré",
+      "SPANISH": "Llegaré",
       "ENGLISH": "I will arrive"
     },
     "TU": {
-      "SPANISH": "llegarás",
-      "ENGLISH": "you will arrive"
+      "SPANISH": "Llegarás",
+      "ENGLISH": "You will arrive"
     },
     "EL": {
-      "SPANISH": "llegará",
-      "ENGLISH": "s/he will arrive, you (formal) will arrive"
+      "SPANISH": "Llegará",
+      "ENGLISH": "He will arrive"
     },
     "ELLOS": {
-      "SPANISH": "llegarán",
-      "ENGLISH": "they will arrive, you (plural formal) will arrive"
+      "SPANISH": "Llegarán",
+      "ENGLISH": "They will arrive"
     },
     "NOSOTROS": {
-      "SPANISH": "llegaremos",
-      "ENGLISH": "we will arrive"
+      "SPANISH": "Llegaremos",
+      "ENGLISH": "We will arrive"
     },
     "VOSOTROS": {
-      "SPANISH": "llegaréis",
-      "ENGLISH": "you (plural) will arrive"
+      "SPANISH": "Llegaréis",
+      "ENGLISH": "You will arrive"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré llegado",
+      "SPANISH": "Habré llegado",
       "ENGLISH": "I will have arrived"
     },
     "TU": {
-      "SPANISH": "habrás llegado",
-      "ENGLISH": "you will have arrived"
+      "SPANISH": "Habrás llegado",
+      "ENGLISH": "You will have arrived"
     },
     "EL": {
-      "SPANISH": "habrá llegado",
-      "ENGLISH": "s/he will have arrived, you (formal) will have arrived"
+      "SPANISH": "Habrá llegado",
+      "ENGLISH": "He will have arrived"
     },
     "ELLOS": {
-      "SPANISH": "habrán llegado",
-      "ENGLISH": "they will have arrived, you (plural formal) will have arrived"
+      "SPANISH": "Habrán llegado",
+      "ENGLISH": "They will have arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos llegado",
-      "ENGLISH": "we will have arrived"
+      "SPANISH": "Habremos llegado",
+      "ENGLISH": "We will have arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis llegado",
-      "ENGLISH": "you (plural) will have arrived"
+      "SPANISH": "Habréis llegado",
+      "ENGLISH": "You will have arrived"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "llegaría",
+      "SPANISH": "Llegaría",
       "ENGLISH": "I would arrive"
     },
     "TU": {
-      "SPANISH": "llegarías",
-      "ENGLISH": "you would arrive"
+      "SPANISH": "Llegarías",
+      "ENGLISH": "You would arrive"
     },
     "EL": {
-      "SPANISH": "llegaría",
-      "ENGLISH": "s/he would arrive, you (formal) would arrive"
+      "SPANISH": "Llegaría",
+      "ENGLISH": "He would arrive"
     },
     "ELLOS": {
-      "SPANISH": "llegarían",
-      "ENGLISH": "they would arrive, you (plural formal) would arrive"
+      "SPANISH": "Llegarían",
+      "ENGLISH": "They would arrive"
     },
     "NOSOTROS": {
-      "SPANISH": "llegaríamos",
-      "ENGLISH": "we would arrive"
+      "SPANISH": "Llegaríamos",
+      "ENGLISH": "We would arrive"
     },
     "VOSOTROS": {
-      "SPANISH": "llegaríais",
-      "ENGLISH": "you (plural) would arrive"
+      "SPANISH": "Llegaríais",
+      "ENGLISH": "You would arrive"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría llegado",
+      "SPANISH": "Habría llegado",
       "ENGLISH": "I would have arrived"
     },
     "TU": {
-      "SPANISH": "habrías llegado",
-      "ENGLISH": "you would have arrived"
+      "SPANISH": "Habrías llegado",
+      "ENGLISH": "You would have arrived"
     },
     "EL": {
-      "SPANISH": "habría llegado",
-      "ENGLISH": "s/he would have arrived, you (formal) would have arrived"
+      "SPANISH": "Habría llegado",
+      "ENGLISH": "He would have arrived"
     },
     "ELLOS": {
-      "SPANISH": "habrían llegado",
-      "ENGLISH": "they would have arrived, you (plural formal) would have arrived"
+      "SPANISH": "Habrían llegado",
+      "ENGLISH": "They would have arrived"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos llegado",
-      "ENGLISH": "we would have arrived"
+      "SPANISH": "Habríamos llegado",
+      "ENGLISH": "We would have arrived"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais llegado",
-      "ENGLISH": "you (plural) would have arrived"
+      "SPANISH": "Habríais llegado",
+      "ENGLISH": "You would have arrived"
     }
   }
 }

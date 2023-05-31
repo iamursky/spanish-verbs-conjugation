@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "trato",
+      "SPANISH": "Trato",
       "ENGLISH": "I treat"
     },
     "TU": {
-      "SPANISH": "tratas",
-      "ENGLISH": "you treat"
+      "SPANISH": "Tratas",
+      "ENGLISH": "You treat"
     },
     "EL": {
-      "SPANISH": "trata",
-      "ENGLISH": "s/he treats, you (formal) treats"
+      "SPANISH": "Trata",
+      "ENGLISH": "He treats"
     },
     "ELLOS": {
-      "SPANISH": "tratan",
-      "ENGLISH": "they treat, you (plural formal) treat"
+      "SPANISH": "Tratan",
+      "ENGLISH": "They treat"
     },
     "NOSOTROS": {
-      "SPANISH": "tratamos",
-      "ENGLISH": "we treat"
+      "SPANISH": "Tratamos",
+      "ENGLISH": "We treat"
     },
     "VOSOTROS": {
-      "SPANISH": "tratáis",
-      "ENGLISH": "you (plural) treat"
+      "SPANISH": "Tratáis",
+      "ENGLISH": "You treat"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he tratado",
+      "SPANISH": "He tratado",
       "ENGLISH": "I have treated"
     },
     "TU": {
-      "SPANISH": "has tratado",
-      "ENGLISH": "you have treated"
+      "SPANISH": "Has tratado",
+      "ENGLISH": "You have treated"
     },
     "EL": {
-      "SPANISH": "ha tratado",
-      "ENGLISH": "s/he has treated, you (formal) have treated"
+      "SPANISH": "Ha tratado",
+      "ENGLISH": "He has treated"
     },
     "ELLOS": {
-      "SPANISH": "han tratado",
-      "ENGLISH": "they have treated, you (plural formal) have treated"
+      "SPANISH": "Han tratado",
+      "ENGLISH": "They have treated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos tratado",
-      "ENGLISH": "we have treated"
+      "SPANISH": "Hemos tratado",
+      "ENGLISH": "We have treated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis tratado",
-      "ENGLISH": "you (plural) have treated"
+      "SPANISH": "Habéis tratado",
+      "ENGLISH": "You have treated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "traté",
+      "SPANISH": "Traté",
       "ENGLISH": "I treated"
     },
     "TU": {
-      "SPANISH": "trataste",
-      "ENGLISH": "you treated"
+      "SPANISH": "Trataste",
+      "ENGLISH": "You treated"
     },
     "EL": {
-      "SPANISH": "trató",
-      "ENGLISH": "s/he treated, you (formal) treated"
+      "SPANISH": "Trató",
+      "ENGLISH": "He treated"
     },
     "ELLOS": {
-      "SPANISH": "trataron",
-      "ENGLISH": "they treated, you (plural formal) treated"
+      "SPANISH": "Trataron",
+      "ENGLISH": "They treated"
     },
     "NOSOTROS": {
-      "SPANISH": "tratamos",
-      "ENGLISH": "we treated"
+      "SPANISH": "Tratamos",
+      "ENGLISH": "We treated"
     },
     "VOSOTROS": {
-      "SPANISH": "tratasteis",
-      "ENGLISH": "you (plural) treated"
+      "SPANISH": "Tratasteis",
+      "ENGLISH": "You treated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había tratado",
+      "SPANISH": "Había tratado",
       "ENGLISH": "I had treated"
     },
     "TU": {
-      "SPANISH": "habías tratado",
-      "ENGLISH": "you had treated"
+      "SPANISH": "Habías tratado",
+      "ENGLISH": "You had treated"
     },
     "EL": {
-      "SPANISH": "había tratado",
-      "ENGLISH": "s/he had treated, you (formal) had treated"
+      "SPANISH": "Había tratado",
+      "ENGLISH": "He had treated"
     },
     "ELLOS": {
-      "SPANISH": "habían tratado",
-      "ENGLISH": "they had treated, you (plural formal) had treated"
+      "SPANISH": "Habían tratado",
+      "ENGLISH": "They had treated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos tratado",
-      "ENGLISH": "we had treated"
+      "SPANISH": "Habíamos tratado",
+      "ENGLISH": "We had treated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais tratado",
-      "ENGLISH": "you (plural) had treated"
+      "SPANISH": "Habíais tratado",
+      "ENGLISH": "You had treated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "traté",
+      "SPANISH": "Traté",
       "ENGLISH": "I treated"
     },
     "TU": {
-      "SPANISH": "trataste",
-      "ENGLISH": "you treated"
+      "SPANISH": "Trataste",
+      "ENGLISH": "You treated"
     },
     "EL": {
-      "SPANISH": "trató",
-      "ENGLISH": "s/he treated, you (formal) treated"
+      "SPANISH": "Trató",
+      "ENGLISH": "He treated"
     },
     "ELLOS": {
-      "SPANISH": "trataron",
-      "ENGLISH": "they treated, you (plural formal) treated"
+      "SPANISH": "Trataron",
+      "ENGLISH": "They treated"
     },
     "NOSOTROS": {
-      "SPANISH": "tratamos",
-      "ENGLISH": "we treated"
+      "SPANISH": "Tratamos",
+      "ENGLISH": "We treated"
     },
     "VOSOTROS": {
-      "SPANISH": "tratasteis",
-      "ENGLISH": "you (plural) treated"
+      "SPANISH": "Tratasteis",
+      "ENGLISH": "You treated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "trataré",
+      "SPANISH": "Trataré",
       "ENGLISH": "I will treat"
     },
     "TU": {
-      "SPANISH": "tratarás",
-      "ENGLISH": "you will treat"
+      "SPANISH": "Tratarás",
+      "ENGLISH": "You will treat"
     },
     "EL": {
-      "SPANISH": "tratará",
-      "ENGLISH": "s/he will treat, you (formal) will treat"
+      "SPANISH": "Tratará",
+      "ENGLISH": "He will treat"
     },
     "ELLOS": {
-      "SPANISH": "tratarán",
-      "ENGLISH": "they will treat, you (plural formal) will treat"
+      "SPANISH": "Tratarán",
+      "ENGLISH": "They will treat"
     },
     "NOSOTROS": {
-      "SPANISH": "trataremos",
-      "ENGLISH": "we will treat"
+      "SPANISH": "Trataremos",
+      "ENGLISH": "We will treat"
     },
     "VOSOTROS": {
-      "SPANISH": "trataréis",
-      "ENGLISH": "you (plural) will treat"
+      "SPANISH": "Trataréis",
+      "ENGLISH": "You will treat"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré tratado",
+      "SPANISH": "Habré tratado",
       "ENGLISH": "I will have treated"
     },
     "TU": {
-      "SPANISH": "habrás tratado",
-      "ENGLISH": "you will have treated"
+      "SPANISH": "Habrás tratado",
+      "ENGLISH": "You will have treated"
     },
     "EL": {
-      "SPANISH": "habrá tratado",
-      "ENGLISH": "s/he will have treated, you (formal) will have treated"
+      "SPANISH": "Habrá tratado",
+      "ENGLISH": "He will have treated"
     },
     "ELLOS": {
-      "SPANISH": "habrán tratado",
-      "ENGLISH": "they will have treated, you (plural formal) will have treated"
+      "SPANISH": "Habrán tratado",
+      "ENGLISH": "They will have treated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos tratado",
-      "ENGLISH": "we will have treated"
+      "SPANISH": "Habremos tratado",
+      "ENGLISH": "We will have treated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis tratado",
-      "ENGLISH": "you (plural) will have treated"
+      "SPANISH": "Habréis tratado",
+      "ENGLISH": "You will have treated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "trataría",
+      "SPANISH": "Trataría",
       "ENGLISH": "I would treat"
     },
     "TU": {
-      "SPANISH": "tratarías",
-      "ENGLISH": "you would treat"
+      "SPANISH": "Tratarías",
+      "ENGLISH": "You would treat"
     },
     "EL": {
-      "SPANISH": "trataría",
-      "ENGLISH": "s/he would treat, you (formal) would treat"
+      "SPANISH": "Trataría",
+      "ENGLISH": "He would treat"
     },
     "ELLOS": {
-      "SPANISH": "tratarían",
-      "ENGLISH": "they would treat, you (plural formal) would treat"
+      "SPANISH": "Tratarían",
+      "ENGLISH": "They would treat"
     },
     "NOSOTROS": {
-      "SPANISH": "trataríamos",
-      "ENGLISH": "we would treat"
+      "SPANISH": "Trataríamos",
+      "ENGLISH": "We would treat"
     },
     "VOSOTROS": {
-      "SPANISH": "trataríais",
-      "ENGLISH": "you (plural) would treat"
+      "SPANISH": "Trataríais",
+      "ENGLISH": "You would treat"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría tratado",
+      "SPANISH": "Habría tratado",
       "ENGLISH": "I would have treated"
     },
     "TU": {
-      "SPANISH": "habrías tratado",
-      "ENGLISH": "you would have treated"
+      "SPANISH": "Habrías tratado",
+      "ENGLISH": "You would have treated"
     },
     "EL": {
-      "SPANISH": "habría tratado",
-      "ENGLISH": "s/he would have treated, you (formal) would have treated"
+      "SPANISH": "Habría tratado",
+      "ENGLISH": "He would have treated"
     },
     "ELLOS": {
-      "SPANISH": "habrían tratado",
-      "ENGLISH": "they would have treated, you (plural formal) would have treated"
+      "SPANISH": "Habrían tratado",
+      "ENGLISH": "They would have treated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos tratado",
-      "ENGLISH": "we would have treated"
+      "SPANISH": "Habríamos tratado",
+      "ENGLISH": "We would have treated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais tratado",
-      "ENGLISH": "you (plural) would have treated"
+      "SPANISH": "Habríais tratado",
+      "ENGLISH": "You would have treated"
     }
   }
 }

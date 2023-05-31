@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "descubro",
+      "SPANISH": "Descubro",
       "ENGLISH": "I discover"
     },
     "TU": {
-      "SPANISH": "descubres",
-      "ENGLISH": "you discover"
+      "SPANISH": "Descubres",
+      "ENGLISH": "You discover"
     },
     "EL": {
-      "SPANISH": "descubre",
-      "ENGLISH": "s/he discovers, you (formal) discovers"
+      "SPANISH": "Descubre",
+      "ENGLISH": "He discovers"
     },
     "ELLOS": {
-      "SPANISH": "descubren",
-      "ENGLISH": "they discover, you (plural formal) discover"
+      "SPANISH": "Descubren",
+      "ENGLISH": "They discover"
     },
     "NOSOTROS": {
-      "SPANISH": "descubrimos",
-      "ENGLISH": "we discover"
+      "SPANISH": "Descubrimos",
+      "ENGLISH": "We discover"
     },
     "VOSOTROS": {
-      "SPANISH": "descubrís",
-      "ENGLISH": "you (plural) discover"
+      "SPANISH": "Descubrís",
+      "ENGLISH": "You discover"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he descubierto ",
+      "SPANISH": "He descubierto ",
       "ENGLISH": "I have discovered"
     },
     "TU": {
-      "SPANISH": "has descubierto ",
-      "ENGLISH": "you have discovered"
+      "SPANISH": "Has descubierto ",
+      "ENGLISH": "You have discovered"
     },
     "EL": {
-      "SPANISH": "ha descubierto ",
-      "ENGLISH": "s/he has discovered, you (formal) have discovered"
+      "SPANISH": "Ha descubierto ",
+      "ENGLISH": "He has discovered"
     },
     "ELLOS": {
-      "SPANISH": "han descubierto ",
-      "ENGLISH": "they have discovered, you (plural formal) have discovered"
+      "SPANISH": "Han descubierto ",
+      "ENGLISH": "They have discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos descubierto ",
-      "ENGLISH": "we have discovered"
+      "SPANISH": "Hemos descubierto ",
+      "ENGLISH": "We have discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis descubierto ",
-      "ENGLISH": "you (plural) have discovered"
+      "SPANISH": "Habéis descubierto ",
+      "ENGLISH": "You have discovered"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "descubrí",
+      "SPANISH": "Descubrí",
       "ENGLISH": "I discovered"
     },
     "TU": {
-      "SPANISH": "descubriste",
-      "ENGLISH": "you discovered"
+      "SPANISH": "Descubriste",
+      "ENGLISH": "You discovered"
     },
     "EL": {
-      "SPANISH": "descubrió",
-      "ENGLISH": "s/he discovered, you (formal) discovered"
+      "SPANISH": "Descubrió",
+      "ENGLISH": "He discovered"
     },
     "ELLOS": {
-      "SPANISH": "descubrieron",
-      "ENGLISH": "they discovered, you (plural formal) discovered"
+      "SPANISH": "Descubrieron",
+      "ENGLISH": "They discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "descubrimos",
-      "ENGLISH": "we discovered"
+      "SPANISH": "Descubrimos",
+      "ENGLISH": "We discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "descubristeis",
-      "ENGLISH": "you (plural) discovered"
+      "SPANISH": "Descubristeis",
+      "ENGLISH": "You discovered"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había descubierto ",
+      "SPANISH": "Había descubierto ",
       "ENGLISH": "I had discovered"
     },
     "TU": {
-      "SPANISH": "habías descubierto ",
-      "ENGLISH": "you had discovered"
+      "SPANISH": "Habías descubierto ",
+      "ENGLISH": "You had discovered"
     },
     "EL": {
-      "SPANISH": "había descubierto ",
-      "ENGLISH": "s/he had discovered, you (formal) had discovered"
+      "SPANISH": "Había descubierto ",
+      "ENGLISH": "He had discovered"
     },
     "ELLOS": {
-      "SPANISH": "habían descubierto ",
-      "ENGLISH": "they had discovered, you (plural formal) had discovered"
+      "SPANISH": "Habían descubierto ",
+      "ENGLISH": "They had discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos descubierto ",
-      "ENGLISH": "we had discovered"
+      "SPANISH": "Habíamos descubierto ",
+      "ENGLISH": "We had discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais descubierto ",
-      "ENGLISH": "you (plural) had discovered"
+      "SPANISH": "Habíais descubierto ",
+      "ENGLISH": "You had discovered"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "descubrí",
+      "SPANISH": "Descubrí",
       "ENGLISH": "I discovered"
     },
     "TU": {
-      "SPANISH": "descubriste",
-      "ENGLISH": "you discovered"
+      "SPANISH": "Descubriste",
+      "ENGLISH": "You discovered"
     },
     "EL": {
-      "SPANISH": "descubrió",
-      "ENGLISH": "s/he discovered, you (formal) discovered"
+      "SPANISH": "Descubrió",
+      "ENGLISH": "He discovered"
     },
     "ELLOS": {
-      "SPANISH": "descubrieron",
-      "ENGLISH": "they discovered, you (plural formal) discovered"
+      "SPANISH": "Descubrieron",
+      "ENGLISH": "They discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "descubrimos",
-      "ENGLISH": "we discovered"
+      "SPANISH": "Descubrimos",
+      "ENGLISH": "We discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "descubristeis",
-      "ENGLISH": "you (plural) discovered"
+      "SPANISH": "Descubristeis",
+      "ENGLISH": "You discovered"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "descubriré",
+      "SPANISH": "Descubriré",
       "ENGLISH": "I will discover"
     },
     "TU": {
-      "SPANISH": "descubrirás",
-      "ENGLISH": "you will discover"
+      "SPANISH": "Descubrirás",
+      "ENGLISH": "You will discover"
     },
     "EL": {
-      "SPANISH": "descubrirá",
-      "ENGLISH": "s/he will discover, you (formal) will discover"
+      "SPANISH": "Descubrirá",
+      "ENGLISH": "He will discover"
     },
     "ELLOS": {
-      "SPANISH": "descubrirán",
-      "ENGLISH": "they will discover, you (plural formal) will discover"
+      "SPANISH": "Descubrirán",
+      "ENGLISH": "They will discover"
     },
     "NOSOTROS": {
-      "SPANISH": "descubriremos",
-      "ENGLISH": "we will discover"
+      "SPANISH": "Descubriremos",
+      "ENGLISH": "We will discover"
     },
     "VOSOTROS": {
-      "SPANISH": "descubriréis",
-      "ENGLISH": "you (plural) will discover"
+      "SPANISH": "Descubriréis",
+      "ENGLISH": "You will discover"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré descubierto ",
+      "SPANISH": "Habré descubierto ",
       "ENGLISH": "I will have discovered"
     },
     "TU": {
-      "SPANISH": "habrás descubierto ",
-      "ENGLISH": "you will have discovered"
+      "SPANISH": "Habrás descubierto ",
+      "ENGLISH": "You will have discovered"
     },
     "EL": {
-      "SPANISH": "habrá descubierto ",
-      "ENGLISH": "s/he will have discovered, you (formal) will have discovered"
+      "SPANISH": "Habrá descubierto ",
+      "ENGLISH": "He will have discovered"
     },
     "ELLOS": {
-      "SPANISH": "habrán descubierto ",
-      "ENGLISH": "they will have discovered, you (plural formal) will have discovered"
+      "SPANISH": "Habrán descubierto ",
+      "ENGLISH": "They will have discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos descubierto ",
-      "ENGLISH": "we will have discovered"
+      "SPANISH": "Habremos descubierto ",
+      "ENGLISH": "We will have discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis descubierto ",
-      "ENGLISH": "you (plural) will have discovered"
+      "SPANISH": "Habréis descubierto ",
+      "ENGLISH": "You will have discovered"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "descubriría",
+      "SPANISH": "Descubriría",
       "ENGLISH": "I would discover"
     },
     "TU": {
-      "SPANISH": "descubrirías",
-      "ENGLISH": "you would discover"
+      "SPANISH": "Descubrirías",
+      "ENGLISH": "You would discover"
     },
     "EL": {
-      "SPANISH": "descubriría",
-      "ENGLISH": "s/he would discover, you (formal) would discover"
+      "SPANISH": "Descubriría",
+      "ENGLISH": "He would discover"
     },
     "ELLOS": {
-      "SPANISH": "descubrirían",
-      "ENGLISH": "they would discover, you (plural formal) would discover"
+      "SPANISH": "Descubrirían",
+      "ENGLISH": "They would discover"
     },
     "NOSOTROS": {
-      "SPANISH": "descubriríamos",
-      "ENGLISH": "we would discover"
+      "SPANISH": "Descubriríamos",
+      "ENGLISH": "We would discover"
     },
     "VOSOTROS": {
-      "SPANISH": "descubriríais",
-      "ENGLISH": "you (plural) would discover"
+      "SPANISH": "Descubriríais",
+      "ENGLISH": "You would discover"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría descubierto ",
+      "SPANISH": "Habría descubierto ",
       "ENGLISH": "I would have discovered"
     },
     "TU": {
-      "SPANISH": "habrías descubierto ",
-      "ENGLISH": "you would have discovered"
+      "SPANISH": "Habrías descubierto ",
+      "ENGLISH": "You would have discovered"
     },
     "EL": {
-      "SPANISH": "habría descubierto ",
-      "ENGLISH": "s/he would have discovered, you (formal) would have discovered"
+      "SPANISH": "Habría descubierto ",
+      "ENGLISH": "He would have discovered"
     },
     "ELLOS": {
-      "SPANISH": "habrían descubierto ",
-      "ENGLISH": "they would have discovered, you (plural formal) would have discovered"
+      "SPANISH": "Habrían descubierto ",
+      "ENGLISH": "They would have discovered"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos descubierto ",
-      "ENGLISH": "we would have discovered"
+      "SPANISH": "Habríamos descubierto ",
+      "ENGLISH": "We would have discovered"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais descubierto ",
-      "ENGLISH": "you (plural) would have discovered"
+      "SPANISH": "Habríais descubierto ",
+      "ENGLISH": "You would have discovered"
     }
   }
 }

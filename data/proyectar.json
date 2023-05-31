@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "proyecto",
+      "SPANISH": "Proyecto",
       "ENGLISH": "I project"
     },
     "TU": {
-      "SPANISH": "proyectas",
-      "ENGLISH": "you project"
+      "SPANISH": "Proyectas",
+      "ENGLISH": "You project"
     },
     "EL": {
-      "SPANISH": "proyecta",
-      "ENGLISH": "s/he projects, you (formal) projects"
+      "SPANISH": "Proyecta",
+      "ENGLISH": "He projects"
     },
     "ELLOS": {
-      "SPANISH": "proyectan",
-      "ENGLISH": "they project, you (plural formal) project"
+      "SPANISH": "Proyectan",
+      "ENGLISH": "They project"
     },
     "NOSOTROS": {
-      "SPANISH": "proyectamos",
-      "ENGLISH": "we project"
+      "SPANISH": "Proyectamos",
+      "ENGLISH": "We project"
     },
     "VOSOTROS": {
-      "SPANISH": "proyectáis",
-      "ENGLISH": "you (plural) project"
+      "SPANISH": "Proyectáis",
+      "ENGLISH": "You project"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he proyectado",
+      "SPANISH": "He proyectado",
       "ENGLISH": "I have projected"
     },
     "TU": {
-      "SPANISH": "has proyectado",
-      "ENGLISH": "you have projected"
+      "SPANISH": "Has proyectado",
+      "ENGLISH": "You have projected"
     },
     "EL": {
-      "SPANISH": "ha proyectado",
-      "ENGLISH": "s/he has projected, you (formal) have projected"
+      "SPANISH": "Ha proyectado",
+      "ENGLISH": "He has projected"
     },
     "ELLOS": {
-      "SPANISH": "han proyectado",
-      "ENGLISH": "they have projected, you (plural formal) have projected"
+      "SPANISH": "Han proyectado",
+      "ENGLISH": "They have projected"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos proyectado",
-      "ENGLISH": "we have projected"
+      "SPANISH": "Hemos proyectado",
+      "ENGLISH": "We have projected"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis proyectado",
-      "ENGLISH": "you (plural) have projected"
+      "SPANISH": "Habéis proyectado",
+      "ENGLISH": "You have projected"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "proyecté",
+      "SPANISH": "Proyecté",
       "ENGLISH": "I projected"
     },
     "TU": {
-      "SPANISH": "proyectaste",
-      "ENGLISH": "you projected"
+      "SPANISH": "Proyectaste",
+      "ENGLISH": "You projected"
     },
     "EL": {
-      "SPANISH": "proyectó",
-      "ENGLISH": "s/he projected, you (formal) projected"
+      "SPANISH": "Proyectó",
+      "ENGLISH": "He projected"
     },
     "ELLOS": {
-      "SPANISH": "proyectaron",
-      "ENGLISH": "they projected, you (plural formal) projected"
+      "SPANISH": "Proyectaron",
+      "ENGLISH": "They projected"
     },
     "NOSOTROS": {
-      "SPANISH": "proyectamos",
-      "ENGLISH": "we projected"
+      "SPANISH": "Proyectamos",
+      "ENGLISH": "We projected"
     },
     "VOSOTROS": {
-      "SPANISH": "proyectasteis",
-      "ENGLISH": "you (plural) projected"
+      "SPANISH": "Proyectasteis",
+      "ENGLISH": "You projected"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había proyectado",
+      "SPANISH": "Había proyectado",
       "ENGLISH": "I had projected"
     },
     "TU": {
-      "SPANISH": "habías proyectado",
-      "ENGLISH": "you had projected"
+      "SPANISH": "Habías proyectado",
+      "ENGLISH": "You had projected"
     },
     "EL": {
-      "SPANISH": "había proyectado",
-      "ENGLISH": "s/he had projected, you (formal) had projected"
+      "SPANISH": "Había proyectado",
+      "ENGLISH": "He had projected"
     },
     "ELLOS": {
-      "SPANISH": "habían proyectado",
-      "ENGLISH": "they had projected, you (plural formal) had projected"
+      "SPANISH": "Habían proyectado",
+      "ENGLISH": "They had projected"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos proyectado",
-      "ENGLISH": "we had projected"
+      "SPANISH": "Habíamos proyectado",
+      "ENGLISH": "We had projected"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais proyectado",
-      "ENGLISH": "you (plural) had projected"
+      "SPANISH": "Habíais proyectado",
+      "ENGLISH": "You had projected"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "proyecté",
+      "SPANISH": "Proyecté",
       "ENGLISH": "I projected"
     },
     "TU": {
-      "SPANISH": "proyectaste",
-      "ENGLISH": "you projected"
+      "SPANISH": "Proyectaste",
+      "ENGLISH": "You projected"
     },
     "EL": {
-      "SPANISH": "proyectó",
-      "ENGLISH": "s/he projected, you (formal) projected"
+      "SPANISH": "Proyectó",
+      "ENGLISH": "He projected"
     },
     "ELLOS": {
-      "SPANISH": "proyectaron",
-      "ENGLISH": "they projected, you (plural formal) projected"
+      "SPANISH": "Proyectaron",
+      "ENGLISH": "They projected"
     },
     "NOSOTROS": {
-      "SPANISH": "proyectamos",
-      "ENGLISH": "we projected"
+      "SPANISH": "Proyectamos",
+      "ENGLISH": "We projected"
     },
     "VOSOTROS": {
-      "SPANISH": "proyectasteis",
-      "ENGLISH": "you (plural) projected"
+      "SPANISH": "Proyectasteis",
+      "ENGLISH": "You projected"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "proyectaré",
+      "SPANISH": "Proyectaré",
       "ENGLISH": "I will project"
     },
     "TU": {
-      "SPANISH": "proyectarás",
-      "ENGLISH": "you will project"
+      "SPANISH": "Proyectarás",
+      "ENGLISH": "You will project"
     },
     "EL": {
-      "SPANISH": "proyectará",
-      "ENGLISH": "s/he will project, you (formal) will project"
+      "SPANISH": "Proyectará",
+      "ENGLISH": "He will project"
     },
     "ELLOS": {
-      "SPANISH": "proyectarán",
-      "ENGLISH": "they will project, you (plural formal) will project"
+      "SPANISH": "Proyectarán",
+      "ENGLISH": "They will project"
     },
     "NOSOTROS": {
-      "SPANISH": "proyectaremos",
-      "ENGLISH": "we will project"
+      "SPANISH": "Proyectaremos",
+      "ENGLISH": "We will project"
     },
     "VOSOTROS": {
-      "SPANISH": "proyectaréis",
-      "ENGLISH": "you (plural) will project"
+      "SPANISH": "Proyectaréis",
+      "ENGLISH": "You will project"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré proyectado",
+      "SPANISH": "Habré proyectado",
       "ENGLISH": "I will have projected"
     },
     "TU": {
-      "SPANISH": "habrás proyectado",
-      "ENGLISH": "you will have projected"
+      "SPANISH": "Habrás proyectado",
+      "ENGLISH": "You will have projected"
     },
     "EL": {
-      "SPANISH": "habrá proyectado",
-      "ENGLISH": "s/he will have projected, you (formal) will have projected"
+      "SPANISH": "Habrá proyectado",
+      "ENGLISH": "He will have projected"
     },
     "ELLOS": {
-      "SPANISH": "habrán proyectado",
-      "ENGLISH": "they will have projected, you (plural formal) will have projected"
+      "SPANISH": "Habrán proyectado",
+      "ENGLISH": "They will have projected"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos proyectado",
-      "ENGLISH": "we will have projected"
+      "SPANISH": "Habremos proyectado",
+      "ENGLISH": "We will have projected"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis proyectado",
-      "ENGLISH": "you (plural) will have projected"
+      "SPANISH": "Habréis proyectado",
+      "ENGLISH": "You will have projected"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "proyectaría",
+      "SPANISH": "Proyectaría",
       "ENGLISH": "I would project"
     },
     "TU": {
-      "SPANISH": "proyectarías",
-      "ENGLISH": "you would project"
+      "SPANISH": "Proyectarías",
+      "ENGLISH": "You would project"
     },
     "EL": {
-      "SPANISH": "proyectaría",
-      "ENGLISH": "s/he would project, you (formal) would project"
+      "SPANISH": "Proyectaría",
+      "ENGLISH": "He would project"
     },
     "ELLOS": {
-      "SPANISH": "proyectarían",
-      "ENGLISH": "they would project, you (plural formal) would project"
+      "SPANISH": "Proyectarían",
+      "ENGLISH": "They would project"
     },
     "NOSOTROS": {
-      "SPANISH": "proyectaríamos",
-      "ENGLISH": "we would project"
+      "SPANISH": "Proyectaríamos",
+      "ENGLISH": "We would project"
     },
     "VOSOTROS": {
-      "SPANISH": "proyectaríais",
-      "ENGLISH": "you (plural) would project"
+      "SPANISH": "Proyectaríais",
+      "ENGLISH": "You would project"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría proyectado",
+      "SPANISH": "Habría proyectado",
       "ENGLISH": "I would have projected"
     },
     "TU": {
-      "SPANISH": "habrías proyectado",
-      "ENGLISH": "you would have projected"
+      "SPANISH": "Habrías proyectado",
+      "ENGLISH": "You would have projected"
     },
     "EL": {
-      "SPANISH": "habría proyectado",
-      "ENGLISH": "s/he would have projected, you (formal) would have projected"
+      "SPANISH": "Habría proyectado",
+      "ENGLISH": "He would have projected"
     },
     "ELLOS": {
-      "SPANISH": "habrían proyectado",
-      "ENGLISH": "they would have projected, you (plural formal) would have projected"
+      "SPANISH": "Habrían proyectado",
+      "ENGLISH": "They would have projected"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos proyectado",
-      "ENGLISH": "we would have projected"
+      "SPANISH": "Habríamos proyectado",
+      "ENGLISH": "We would have projected"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais proyectado",
-      "ENGLISH": "you (plural) would have projected"
+      "SPANISH": "Habríais proyectado",
+      "ENGLISH": "You would have projected"
     }
   }
 }

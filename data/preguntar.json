@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pregunto",
+      "SPANISH": "Pregunto",
       "ENGLISH": "I ask"
     },
     "TU": {
-      "SPANISH": "preguntas",
-      "ENGLISH": "you ask"
+      "SPANISH": "Preguntas",
+      "ENGLISH": "You ask"
     },
     "EL": {
-      "SPANISH": "pregunta",
-      "ENGLISH": "s/he asks, you (formal) asks"
+      "SPANISH": "Pregunta",
+      "ENGLISH": "He asks"
     },
     "ELLOS": {
-      "SPANISH": "preguntan",
-      "ENGLISH": "they ask, you (plural formal) ask"
+      "SPANISH": "Preguntan",
+      "ENGLISH": "They ask"
     },
     "NOSOTROS": {
-      "SPANISH": "preguntamos",
-      "ENGLISH": "we ask"
+      "SPANISH": "Preguntamos",
+      "ENGLISH": "We ask"
     },
     "VOSOTROS": {
-      "SPANISH": "preguntáis",
-      "ENGLISH": "you (plural) ask"
+      "SPANISH": "Preguntáis",
+      "ENGLISH": "You ask"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he preguntado",
+      "SPANISH": "He preguntado",
       "ENGLISH": "I have asked"
     },
     "TU": {
-      "SPANISH": "has preguntado",
-      "ENGLISH": "you have asked"
+      "SPANISH": "Has preguntado",
+      "ENGLISH": "You have asked"
     },
     "EL": {
-      "SPANISH": "ha preguntado",
-      "ENGLISH": "s/he has asked, you (formal) have asked"
+      "SPANISH": "Ha preguntado",
+      "ENGLISH": "He has asked"
     },
     "ELLOS": {
-      "SPANISH": "han preguntado",
-      "ENGLISH": "they have asked, you (plural formal) have asked"
+      "SPANISH": "Han preguntado",
+      "ENGLISH": "They have asked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos preguntado",
-      "ENGLISH": "we have asked"
+      "SPANISH": "Hemos preguntado",
+      "ENGLISH": "We have asked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis preguntado",
-      "ENGLISH": "you (plural) have asked"
+      "SPANISH": "Habéis preguntado",
+      "ENGLISH": "You have asked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "pregunté",
+      "SPANISH": "Pregunté",
       "ENGLISH": "I asked"
     },
     "TU": {
-      "SPANISH": "preguntaste",
-      "ENGLISH": "you asked"
+      "SPANISH": "Preguntaste",
+      "ENGLISH": "You asked"
     },
     "EL": {
-      "SPANISH": "preguntó",
-      "ENGLISH": "s/he asked, you (formal) asked"
+      "SPANISH": "Preguntó",
+      "ENGLISH": "He asked"
     },
     "ELLOS": {
-      "SPANISH": "preguntaron",
-      "ENGLISH": "they asked, you (plural formal) asked"
+      "SPANISH": "Preguntaron",
+      "ENGLISH": "They asked"
     },
     "NOSOTROS": {
-      "SPANISH": "preguntamos",
-      "ENGLISH": "we asked"
+      "SPANISH": "Preguntamos",
+      "ENGLISH": "We asked"
     },
     "VOSOTROS": {
-      "SPANISH": "preguntasteis",
-      "ENGLISH": "you (plural) asked"
+      "SPANISH": "Preguntasteis",
+      "ENGLISH": "You asked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había preguntado",
+      "SPANISH": "Había preguntado",
       "ENGLISH": "I had asked"
     },
     "TU": {
-      "SPANISH": "habías preguntado",
-      "ENGLISH": "you had asked"
+      "SPANISH": "Habías preguntado",
+      "ENGLISH": "You had asked"
     },
     "EL": {
-      "SPANISH": "había preguntado",
-      "ENGLISH": "s/he had asked, you (formal) had asked"
+      "SPANISH": "Había preguntado",
+      "ENGLISH": "He had asked"
     },
     "ELLOS": {
-      "SPANISH": "habían preguntado",
-      "ENGLISH": "they had asked, you (plural formal) had asked"
+      "SPANISH": "Habían preguntado",
+      "ENGLISH": "They had asked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos preguntado",
-      "ENGLISH": "we had asked"
+      "SPANISH": "Habíamos preguntado",
+      "ENGLISH": "We had asked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais preguntado",
-      "ENGLISH": "you (plural) had asked"
+      "SPANISH": "Habíais preguntado",
+      "ENGLISH": "You had asked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "pregunté",
+      "SPANISH": "Pregunté",
       "ENGLISH": "I asked"
     },
     "TU": {
-      "SPANISH": "preguntaste",
-      "ENGLISH": "you asked"
+      "SPANISH": "Preguntaste",
+      "ENGLISH": "You asked"
     },
     "EL": {
-      "SPANISH": "preguntó",
-      "ENGLISH": "s/he asked, you (formal) asked"
+      "SPANISH": "Preguntó",
+      "ENGLISH": "He asked"
     },
     "ELLOS": {
-      "SPANISH": "preguntaron",
-      "ENGLISH": "they asked, you (plural formal) asked"
+      "SPANISH": "Preguntaron",
+      "ENGLISH": "They asked"
     },
     "NOSOTROS": {
-      "SPANISH": "preguntamos",
-      "ENGLISH": "we asked"
+      "SPANISH": "Preguntamos",
+      "ENGLISH": "We asked"
     },
     "VOSOTROS": {
-      "SPANISH": "preguntasteis",
-      "ENGLISH": "you (plural) asked"
+      "SPANISH": "Preguntasteis",
+      "ENGLISH": "You asked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "preguntaré",
+      "SPANISH": "Preguntaré",
       "ENGLISH": "I will ask"
     },
     "TU": {
-      "SPANISH": "preguntarás",
-      "ENGLISH": "you will ask"
+      "SPANISH": "Preguntarás",
+      "ENGLISH": "You will ask"
     },
     "EL": {
-      "SPANISH": "preguntará",
-      "ENGLISH": "s/he will ask, you (formal) will ask"
+      "SPANISH": "Preguntará",
+      "ENGLISH": "He will ask"
     },
     "ELLOS": {
-      "SPANISH": "preguntarán",
-      "ENGLISH": "they will ask, you (plural formal) will ask"
+      "SPANISH": "Preguntarán",
+      "ENGLISH": "They will ask"
     },
     "NOSOTROS": {
-      "SPANISH": "preguntaremos",
-      "ENGLISH": "we will ask"
+      "SPANISH": "Preguntaremos",
+      "ENGLISH": "We will ask"
     },
     "VOSOTROS": {
-      "SPANISH": "preguntaréis",
-      "ENGLISH": "you (plural) will ask"
+      "SPANISH": "Preguntaréis",
+      "ENGLISH": "You will ask"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré preguntado",
+      "SPANISH": "Habré preguntado",
       "ENGLISH": "I will have asked"
     },
     "TU": {
-      "SPANISH": "habrás preguntado",
-      "ENGLISH": "you will have asked"
+      "SPANISH": "Habrás preguntado",
+      "ENGLISH": "You will have asked"
     },
     "EL": {
-      "SPANISH": "habrá preguntado",
-      "ENGLISH": "s/he will have asked, you (formal) will have asked"
+      "SPANISH": "Habrá preguntado",
+      "ENGLISH": "He will have asked"
     },
     "ELLOS": {
-      "SPANISH": "habrán preguntado",
-      "ENGLISH": "they will have asked, you (plural formal) will have asked"
+      "SPANISH": "Habrán preguntado",
+      "ENGLISH": "They will have asked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos preguntado",
-      "ENGLISH": "we will have asked"
+      "SPANISH": "Habremos preguntado",
+      "ENGLISH": "We will have asked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis preguntado",
-      "ENGLISH": "you (plural) will have asked"
+      "SPANISH": "Habréis preguntado",
+      "ENGLISH": "You will have asked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "preguntaría",
+      "SPANISH": "Preguntaría",
       "ENGLISH": "I would ask"
     },
     "TU": {
-      "SPANISH": "preguntarías",
-      "ENGLISH": "you would ask"
+      "SPANISH": "Preguntarías",
+      "ENGLISH": "You would ask"
     },
     "EL": {
-      "SPANISH": "preguntaría",
-      "ENGLISH": "s/he would ask, you (formal) would ask"
+      "SPANISH": "Preguntaría",
+      "ENGLISH": "He would ask"
     },
     "ELLOS": {
-      "SPANISH": "preguntarían",
-      "ENGLISH": "they would ask, you (plural formal) would ask"
+      "SPANISH": "Preguntarían",
+      "ENGLISH": "They would ask"
     },
     "NOSOTROS": {
-      "SPANISH": "preguntaríamos",
-      "ENGLISH": "we would ask"
+      "SPANISH": "Preguntaríamos",
+      "ENGLISH": "We would ask"
     },
     "VOSOTROS": {
-      "SPANISH": "preguntaríais",
-      "ENGLISH": "you (plural) would ask"
+      "SPANISH": "Preguntaríais",
+      "ENGLISH": "You would ask"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría preguntado",
+      "SPANISH": "Habría preguntado",
       "ENGLISH": "I would have asked"
     },
     "TU": {
-      "SPANISH": "habrías preguntado",
-      "ENGLISH": "you would have asked"
+      "SPANISH": "Habrías preguntado",
+      "ENGLISH": "You would have asked"
     },
     "EL": {
-      "SPANISH": "habría preguntado",
-      "ENGLISH": "s/he would have asked, you (formal) would have asked"
+      "SPANISH": "Habría preguntado",
+      "ENGLISH": "He would have asked"
     },
     "ELLOS": {
-      "SPANISH": "habrían preguntado",
-      "ENGLISH": "they would have asked, you (plural formal) would have asked"
+      "SPANISH": "Habrían preguntado",
+      "ENGLISH": "They would have asked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos preguntado",
-      "ENGLISH": "we would have asked"
+      "SPANISH": "Habríamos preguntado",
+      "ENGLISH": "We would have asked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais preguntado",
-      "ENGLISH": "you (plural) would have asked"
+      "SPANISH": "Habríais preguntado",
+      "ENGLISH": "You would have asked"
     }
   }
 }

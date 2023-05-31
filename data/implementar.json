@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "implemento",
+      "SPANISH": "Implemento",
       "ENGLISH": "I implement"
     },
     "TU": {
-      "SPANISH": "implementas",
-      "ENGLISH": "you implement"
+      "SPANISH": "Implementas",
+      "ENGLISH": "You implement"
     },
     "EL": {
-      "SPANISH": "implementa",
-      "ENGLISH": "s/he implements, you (formal) implements"
+      "SPANISH": "Implementa",
+      "ENGLISH": "He implements"
     },
     "ELLOS": {
-      "SPANISH": "implementan",
-      "ENGLISH": "they implement, you (plural formal) implement"
+      "SPANISH": "Implementan",
+      "ENGLISH": "They implement"
     },
     "NOSOTROS": {
-      "SPANISH": "implementamos",
-      "ENGLISH": "we implement"
+      "SPANISH": "Implementamos",
+      "ENGLISH": "We implement"
     },
     "VOSOTROS": {
-      "SPANISH": "implementáis",
-      "ENGLISH": "you (plural) implement"
+      "SPANISH": "Implementáis",
+      "ENGLISH": "You implement"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he implementado",
+      "SPANISH": "He implementado",
       "ENGLISH": "I have implemented"
     },
     "TU": {
-      "SPANISH": "has implementado",
-      "ENGLISH": "you have implemented"
+      "SPANISH": "Has implementado",
+      "ENGLISH": "You have implemented"
     },
     "EL": {
-      "SPANISH": "ha implementado",
-      "ENGLISH": "s/he has implemented, you (formal) have implemented"
+      "SPANISH": "Ha implementado",
+      "ENGLISH": "He has implemented"
     },
     "ELLOS": {
-      "SPANISH": "han implementado",
-      "ENGLISH": "they have implemented, you (plural formal) have implemented"
+      "SPANISH": "Han implementado",
+      "ENGLISH": "They have implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos implementado",
-      "ENGLISH": "we have implemented"
+      "SPANISH": "Hemos implementado",
+      "ENGLISH": "We have implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis implementado",
-      "ENGLISH": "you (plural) have implemented"
+      "SPANISH": "Habéis implementado",
+      "ENGLISH": "You have implemented"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "implementé",
+      "SPANISH": "Implementé",
       "ENGLISH": "I implemented"
     },
     "TU": {
-      "SPANISH": "implementaste",
-      "ENGLISH": "you implemented"
+      "SPANISH": "Implementaste",
+      "ENGLISH": "You implemented"
     },
     "EL": {
-      "SPANISH": "implementó",
-      "ENGLISH": "s/he implemented, you (formal) implemented"
+      "SPANISH": "Implementó",
+      "ENGLISH": "He implemented"
     },
     "ELLOS": {
-      "SPANISH": "implementaron",
-      "ENGLISH": "they implemented, you (plural formal) implemented"
+      "SPANISH": "Implementaron",
+      "ENGLISH": "They implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "implementamos",
-      "ENGLISH": "we implemented"
+      "SPANISH": "Implementamos",
+      "ENGLISH": "We implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "implementasteis",
-      "ENGLISH": "you (plural) implemented"
+      "SPANISH": "Implementasteis",
+      "ENGLISH": "You implemented"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había implementado",
+      "SPANISH": "Había implementado",
       "ENGLISH": "I had implemented"
     },
     "TU": {
-      "SPANISH": "habías implementado",
-      "ENGLISH": "you had implemented"
+      "SPANISH": "Habías implementado",
+      "ENGLISH": "You had implemented"
     },
     "EL": {
-      "SPANISH": "había implementado",
-      "ENGLISH": "s/he had implemented, you (formal) had implemented"
+      "SPANISH": "Había implementado",
+      "ENGLISH": "He had implemented"
     },
     "ELLOS": {
-      "SPANISH": "habían implementado",
-      "ENGLISH": "they had implemented, you (plural formal) had implemented"
+      "SPANISH": "Habían implementado",
+      "ENGLISH": "They had implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos implementado",
-      "ENGLISH": "we had implemented"
+      "SPANISH": "Habíamos implementado",
+      "ENGLISH": "We had implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais implementado",
-      "ENGLISH": "you (plural) had implemented"
+      "SPANISH": "Habíais implementado",
+      "ENGLISH": "You had implemented"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "implementé",
+      "SPANISH": "Implementé",
       "ENGLISH": "I implemented"
     },
     "TU": {
-      "SPANISH": "implementaste",
-      "ENGLISH": "you implemented"
+      "SPANISH": "Implementaste",
+      "ENGLISH": "You implemented"
     },
     "EL": {
-      "SPANISH": "implementó",
-      "ENGLISH": "s/he implemented, you (formal) implemented"
+      "SPANISH": "Implementó",
+      "ENGLISH": "He implemented"
     },
     "ELLOS": {
-      "SPANISH": "implementaron",
-      "ENGLISH": "they implemented, you (plural formal) implemented"
+      "SPANISH": "Implementaron",
+      "ENGLISH": "They implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "implementamos",
-      "ENGLISH": "we implemented"
+      "SPANISH": "Implementamos",
+      "ENGLISH": "We implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "implementasteis",
-      "ENGLISH": "you (plural) implemented"
+      "SPANISH": "Implementasteis",
+      "ENGLISH": "You implemented"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "implementaré",
+      "SPANISH": "Implementaré",
       "ENGLISH": "I will implement"
     },
     "TU": {
-      "SPANISH": "implementarás",
-      "ENGLISH": "you will implement"
+      "SPANISH": "Implementarás",
+      "ENGLISH": "You will implement"
     },
     "EL": {
-      "SPANISH": "implementará",
-      "ENGLISH": "s/he will implement, you (formal) will implement"
+      "SPANISH": "Implementará",
+      "ENGLISH": "He will implement"
     },
     "ELLOS": {
-      "SPANISH": "implementarán",
-      "ENGLISH": "they will implement, you (plural formal) will implement"
+      "SPANISH": "Implementarán",
+      "ENGLISH": "They will implement"
     },
     "NOSOTROS": {
-      "SPANISH": "implementaremos",
-      "ENGLISH": "we will implement"
+      "SPANISH": "Implementaremos",
+      "ENGLISH": "We will implement"
     },
     "VOSOTROS": {
-      "SPANISH": "implementaréis",
-      "ENGLISH": "you (plural) will implement"
+      "SPANISH": "Implementaréis",
+      "ENGLISH": "You will implement"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré implementado",
+      "SPANISH": "Habré implementado",
       "ENGLISH": "I will have implemented"
     },
     "TU": {
-      "SPANISH": "habrás implementado",
-      "ENGLISH": "you will have implemented"
+      "SPANISH": "Habrás implementado",
+      "ENGLISH": "You will have implemented"
     },
     "EL": {
-      "SPANISH": "habrá implementado",
-      "ENGLISH": "s/he will have implemented, you (formal) will have implemented"
+      "SPANISH": "Habrá implementado",
+      "ENGLISH": "He will have implemented"
     },
     "ELLOS": {
-      "SPANISH": "habrán implementado",
-      "ENGLISH": "they will have implemented, you (plural formal) will have implemented"
+      "SPANISH": "Habrán implementado",
+      "ENGLISH": "They will have implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos implementado",
-      "ENGLISH": "we will have implemented"
+      "SPANISH": "Habremos implementado",
+      "ENGLISH": "We will have implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis implementado",
-      "ENGLISH": "you (plural) will have implemented"
+      "SPANISH": "Habréis implementado",
+      "ENGLISH": "You will have implemented"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "implementaría",
+      "SPANISH": "Implementaría",
       "ENGLISH": "I would implement"
     },
     "TU": {
-      "SPANISH": "implementarías",
-      "ENGLISH": "you would implement"
+      "SPANISH": "Implementarías",
+      "ENGLISH": "You would implement"
     },
     "EL": {
-      "SPANISH": "implementaría",
-      "ENGLISH": "s/he would implement, you (formal) would implement"
+      "SPANISH": "Implementaría",
+      "ENGLISH": "He would implement"
     },
     "ELLOS": {
-      "SPANISH": "implementarían",
-      "ENGLISH": "they would implement, you (plural formal) would implement"
+      "SPANISH": "Implementarían",
+      "ENGLISH": "They would implement"
     },
     "NOSOTROS": {
-      "SPANISH": "implementaríamos",
-      "ENGLISH": "we would implement"
+      "SPANISH": "Implementaríamos",
+      "ENGLISH": "We would implement"
     },
     "VOSOTROS": {
-      "SPANISH": "implementaríais",
-      "ENGLISH": "you (plural) would implement"
+      "SPANISH": "Implementaríais",
+      "ENGLISH": "You would implement"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría implementado",
+      "SPANISH": "Habría implementado",
       "ENGLISH": "I would have implemented"
     },
     "TU": {
-      "SPANISH": "habrías implementado",
-      "ENGLISH": "you would have implemented"
+      "SPANISH": "Habrías implementado",
+      "ENGLISH": "You would have implemented"
     },
     "EL": {
-      "SPANISH": "habría implementado",
-      "ENGLISH": "s/he would have implemented, you (formal) would have implemented"
+      "SPANISH": "Habría implementado",
+      "ENGLISH": "He would have implemented"
     },
     "ELLOS": {
-      "SPANISH": "habrían implementado",
-      "ENGLISH": "they would have implemented, you (plural formal) would have implemented"
+      "SPANISH": "Habrían implementado",
+      "ENGLISH": "They would have implemented"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos implementado",
-      "ENGLISH": "we would have implemented"
+      "SPANISH": "Habríamos implementado",
+      "ENGLISH": "We would have implemented"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais implementado",
-      "ENGLISH": "you (plural) would have implemented"
+      "SPANISH": "Habríais implementado",
+      "ENGLISH": "You would have implemented"
     }
   }
 }

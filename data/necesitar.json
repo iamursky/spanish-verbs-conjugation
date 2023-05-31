@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "necesito",
+      "SPANISH": "Necesito",
       "ENGLISH": "I need"
     },
     "TU": {
-      "SPANISH": "necesitas",
-      "ENGLISH": "you need"
+      "SPANISH": "Necesitas",
+      "ENGLISH": "You need"
     },
     "EL": {
-      "SPANISH": "necesita",
-      "ENGLISH": "s/he needs, you (formal) needs"
+      "SPANISH": "Necesita",
+      "ENGLISH": "He needs"
     },
     "ELLOS": {
-      "SPANISH": "necesitan",
-      "ENGLISH": "they need, you (plural formal) need"
+      "SPANISH": "Necesitan",
+      "ENGLISH": "They need"
     },
     "NOSOTROS": {
-      "SPANISH": "necesitamos",
-      "ENGLISH": "we need"
+      "SPANISH": "Necesitamos",
+      "ENGLISH": "We need"
     },
     "VOSOTROS": {
-      "SPANISH": "necesitáis",
-      "ENGLISH": "you (plural) need"
+      "SPANISH": "Necesitáis",
+      "ENGLISH": "You need"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he necesitado",
+      "SPANISH": "He necesitado",
       "ENGLISH": "I have needed"
     },
     "TU": {
-      "SPANISH": "has necesitado",
-      "ENGLISH": "you have needed"
+      "SPANISH": "Has necesitado",
+      "ENGLISH": "You have needed"
     },
     "EL": {
-      "SPANISH": "ha necesitado",
-      "ENGLISH": "s/he has needed, you (formal) have needed"
+      "SPANISH": "Ha necesitado",
+      "ENGLISH": "He has needed"
     },
     "ELLOS": {
-      "SPANISH": "han necesitado",
-      "ENGLISH": "they have needed, you (plural formal) have needed"
+      "SPANISH": "Han necesitado",
+      "ENGLISH": "They have needed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos necesitado",
-      "ENGLISH": "we have needed"
+      "SPANISH": "Hemos necesitado",
+      "ENGLISH": "We have needed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis necesitado",
-      "ENGLISH": "you (plural) have needed"
+      "SPANISH": "Habéis necesitado",
+      "ENGLISH": "You have needed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "necesité",
+      "SPANISH": "Necesité",
       "ENGLISH": "I needed"
     },
     "TU": {
-      "SPANISH": "necesitaste",
-      "ENGLISH": "you needed"
+      "SPANISH": "Necesitaste",
+      "ENGLISH": "You needed"
     },
     "EL": {
-      "SPANISH": "necesitó",
-      "ENGLISH": "s/he needed, you (formal) needed"
+      "SPANISH": "Necesitó",
+      "ENGLISH": "He needed"
     },
     "ELLOS": {
-      "SPANISH": "necesitaron",
-      "ENGLISH": "they needed, you (plural formal) needed"
+      "SPANISH": "Necesitaron",
+      "ENGLISH": "They needed"
     },
     "NOSOTROS": {
-      "SPANISH": "necesitamos",
-      "ENGLISH": "we needed"
+      "SPANISH": "Necesitamos",
+      "ENGLISH": "We needed"
     },
     "VOSOTROS": {
-      "SPANISH": "necesitasteis",
-      "ENGLISH": "you (plural) needed"
+      "SPANISH": "Necesitasteis",
+      "ENGLISH": "You needed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había necesitado",
+      "SPANISH": "Había necesitado",
       "ENGLISH": "I had needed"
     },
     "TU": {
-      "SPANISH": "habías necesitado",
-      "ENGLISH": "you had needed"
+      "SPANISH": "Habías necesitado",
+      "ENGLISH": "You had needed"
     },
     "EL": {
-      "SPANISH": "había necesitado",
-      "ENGLISH": "s/he had needed, you (formal) had needed"
+      "SPANISH": "Había necesitado",
+      "ENGLISH": "He had needed"
     },
     "ELLOS": {
-      "SPANISH": "habían necesitado",
-      "ENGLISH": "they had needed, you (plural formal) had needed"
+      "SPANISH": "Habían necesitado",
+      "ENGLISH": "They had needed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos necesitado",
-      "ENGLISH": "we had needed"
+      "SPANISH": "Habíamos necesitado",
+      "ENGLISH": "We had needed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais necesitado",
-      "ENGLISH": "you (plural) had needed"
+      "SPANISH": "Habíais necesitado",
+      "ENGLISH": "You had needed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "necesité",
+      "SPANISH": "Necesité",
       "ENGLISH": "I needed"
     },
     "TU": {
-      "SPANISH": "necesitaste",
-      "ENGLISH": "you needed"
+      "SPANISH": "Necesitaste",
+      "ENGLISH": "You needed"
     },
     "EL": {
-      "SPANISH": "necesitó",
-      "ENGLISH": "s/he needed, you (formal) needed"
+      "SPANISH": "Necesitó",
+      "ENGLISH": "He needed"
     },
     "ELLOS": {
-      "SPANISH": "necesitaron",
-      "ENGLISH": "they needed, you (plural formal) needed"
+      "SPANISH": "Necesitaron",
+      "ENGLISH": "They needed"
     },
     "NOSOTROS": {
-      "SPANISH": "necesitamos",
-      "ENGLISH": "we needed"
+      "SPANISH": "Necesitamos",
+      "ENGLISH": "We needed"
     },
     "VOSOTROS": {
-      "SPANISH": "necesitasteis",
-      "ENGLISH": "you (plural) needed"
+      "SPANISH": "Necesitasteis",
+      "ENGLISH": "You needed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "necesitaré",
+      "SPANISH": "Necesitaré",
       "ENGLISH": "I will need"
     },
     "TU": {
-      "SPANISH": "necesitarás",
-      "ENGLISH": "you will need"
+      "SPANISH": "Necesitarás",
+      "ENGLISH": "You will need"
     },
     "EL": {
-      "SPANISH": "necesitará",
-      "ENGLISH": "s/he will need, you (formal) will need"
+      "SPANISH": "Necesitará",
+      "ENGLISH": "He will need"
     },
     "ELLOS": {
-      "SPANISH": "necesitarán",
-      "ENGLISH": "they will need, you (plural formal) will need"
+      "SPANISH": "Necesitarán",
+      "ENGLISH": "They will need"
     },
     "NOSOTROS": {
-      "SPANISH": "necesitaremos",
-      "ENGLISH": "we will need"
+      "SPANISH": "Necesitaremos",
+      "ENGLISH": "We will need"
     },
     "VOSOTROS": {
-      "SPANISH": "necesitaréis",
-      "ENGLISH": "you (plural) will need"
+      "SPANISH": "Necesitaréis",
+      "ENGLISH": "You will need"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré necesitado",
+      "SPANISH": "Habré necesitado",
       "ENGLISH": "I will have needed"
     },
     "TU": {
-      "SPANISH": "habrás necesitado",
-      "ENGLISH": "you will have needed"
+      "SPANISH": "Habrás necesitado",
+      "ENGLISH": "You will have needed"
     },
     "EL": {
-      "SPANISH": "habrá necesitado",
-      "ENGLISH": "s/he will have needed, you (formal) will have needed"
+      "SPANISH": "Habrá necesitado",
+      "ENGLISH": "He will have needed"
     },
     "ELLOS": {
-      "SPANISH": "habrán necesitado",
-      "ENGLISH": "they will have needed, you (plural formal) will have needed"
+      "SPANISH": "Habrán necesitado",
+      "ENGLISH": "They will have needed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos necesitado",
-      "ENGLISH": "we will have needed"
+      "SPANISH": "Habremos necesitado",
+      "ENGLISH": "We will have needed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis necesitado",
-      "ENGLISH": "you (plural) will have needed"
+      "SPANISH": "Habréis necesitado",
+      "ENGLISH": "You will have needed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "necesitaría",
+      "SPANISH": "Necesitaría",
       "ENGLISH": "I would need"
     },
     "TU": {
-      "SPANISH": "necesitarías",
-      "ENGLISH": "you would need"
+      "SPANISH": "Necesitarías",
+      "ENGLISH": "You would need"
     },
     "EL": {
-      "SPANISH": "necesitaría",
-      "ENGLISH": "s/he would need, you (formal) would need"
+      "SPANISH": "Necesitaría",
+      "ENGLISH": "He would need"
     },
     "ELLOS": {
-      "SPANISH": "necesitarían",
-      "ENGLISH": "they would need, you (plural formal) would need"
+      "SPANISH": "Necesitarían",
+      "ENGLISH": "They would need"
     },
     "NOSOTROS": {
-      "SPANISH": "necesitaríamos",
-      "ENGLISH": "we would need"
+      "SPANISH": "Necesitaríamos",
+      "ENGLISH": "We would need"
     },
     "VOSOTROS": {
-      "SPANISH": "necesitaríais",
-      "ENGLISH": "you (plural) would need"
+      "SPANISH": "Necesitaríais",
+      "ENGLISH": "You would need"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría necesitado",
+      "SPANISH": "Habría necesitado",
       "ENGLISH": "I would have needed"
     },
     "TU": {
-      "SPANISH": "habrías necesitado",
-      "ENGLISH": "you would have needed"
+      "SPANISH": "Habrías necesitado",
+      "ENGLISH": "You would have needed"
     },
     "EL": {
-      "SPANISH": "habría necesitado",
-      "ENGLISH": "s/he would have needed, you (formal) would have needed"
+      "SPANISH": "Habría necesitado",
+      "ENGLISH": "He would have needed"
     },
     "ELLOS": {
-      "SPANISH": "habrían necesitado",
-      "ENGLISH": "they would have needed, you (plural formal) would have needed"
+      "SPANISH": "Habrían necesitado",
+      "ENGLISH": "They would have needed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos necesitado",
-      "ENGLISH": "we would have needed"
+      "SPANISH": "Habríamos necesitado",
+      "ENGLISH": "We would have needed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais necesitado",
-      "ENGLISH": "you (plural) would have needed"
+      "SPANISH": "Habríais necesitado",
+      "ENGLISH": "You would have needed"
     }
   }
 }

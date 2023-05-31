@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "obtengo ",
+      "SPANISH": "Obtengo ",
       "ENGLISH": "I get"
     },
     "TU": {
-      "SPANISH": "obtienes ",
-      "ENGLISH": "you get"
+      "SPANISH": "Obtienes ",
+      "ENGLISH": "You get"
     },
     "EL": {
-      "SPANISH": "obtiene ",
-      "ENGLISH": "s/he gets, you (formal) gets"
+      "SPANISH": "Obtiene ",
+      "ENGLISH": "He gets"
     },
     "ELLOS": {
-      "SPANISH": "obtienen ",
-      "ENGLISH": "they get, you (plural formal) get"
+      "SPANISH": "Obtienen ",
+      "ENGLISH": "They get"
     },
     "NOSOTROS": {
-      "SPANISH": "obtenemos",
-      "ENGLISH": "we get"
+      "SPANISH": "Obtenemos",
+      "ENGLISH": "We get"
     },
     "VOSOTROS": {
-      "SPANISH": "obtenéis",
-      "ENGLISH": "you (plural) get"
+      "SPANISH": "Obtenéis",
+      "ENGLISH": "You get"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he obtenido",
+      "SPANISH": "He obtenido",
       "ENGLISH": "I have gotten"
     },
     "TU": {
-      "SPANISH": "has obtenido",
-      "ENGLISH": "you have gotten"
+      "SPANISH": "Has obtenido",
+      "ENGLISH": "You have gotten"
     },
     "EL": {
-      "SPANISH": "ha obtenido",
-      "ENGLISH": "s/he has gotten, you (formal) have gotten"
+      "SPANISH": "Ha obtenido",
+      "ENGLISH": "He has gotten"
     },
     "ELLOS": {
-      "SPANISH": "han obtenido",
-      "ENGLISH": "they have gotten, you (plural formal) have gotten"
+      "SPANISH": "Han obtenido",
+      "ENGLISH": "They have gotten"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos obtenido",
-      "ENGLISH": "we have gotten"
+      "SPANISH": "Hemos obtenido",
+      "ENGLISH": "We have gotten"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis obtenido",
-      "ENGLISH": "you (plural) have gotten"
+      "SPANISH": "Habéis obtenido",
+      "ENGLISH": "You have gotten"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "obtuve ",
+      "SPANISH": "Obtuve ",
       "ENGLISH": "I got"
     },
     "TU": {
-      "SPANISH": "obtuviste ",
-      "ENGLISH": "you got"
+      "SPANISH": "Obtuviste ",
+      "ENGLISH": "You got"
     },
     "EL": {
-      "SPANISH": "obtuvo ",
-      "ENGLISH": "s/he got, you (formal) got"
+      "SPANISH": "Obtuvo ",
+      "ENGLISH": "He got"
     },
     "ELLOS": {
-      "SPANISH": "obtuvieron ",
-      "ENGLISH": "they got, you (plural formal) got"
+      "SPANISH": "Obtuvieron ",
+      "ENGLISH": "They got"
     },
     "NOSOTROS": {
-      "SPANISH": "obtuvimos ",
-      "ENGLISH": "we got"
+      "SPANISH": "Obtuvimos ",
+      "ENGLISH": "We got"
     },
     "VOSOTROS": {
-      "SPANISH": "obtuvisteis ",
-      "ENGLISH": "you (plural) got"
+      "SPANISH": "Obtuvisteis ",
+      "ENGLISH": "You got"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había obtenido",
+      "SPANISH": "Había obtenido",
       "ENGLISH": "I had gotten"
     },
     "TU": {
-      "SPANISH": "habías obtenido",
-      "ENGLISH": "you had gotten"
+      "SPANISH": "Habías obtenido",
+      "ENGLISH": "You had gotten"
     },
     "EL": {
-      "SPANISH": "había obtenido",
-      "ENGLISH": "s/he had gotten, you (formal) had gotten"
+      "SPANISH": "Había obtenido",
+      "ENGLISH": "He had gotten"
     },
     "ELLOS": {
-      "SPANISH": "habían obtenido",
-      "ENGLISH": "they had gotten, you (plural formal) had gotten"
+      "SPANISH": "Habían obtenido",
+      "ENGLISH": "They had gotten"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos obtenido",
-      "ENGLISH": "we had gotten"
+      "SPANISH": "Habíamos obtenido",
+      "ENGLISH": "We had gotten"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais obtenido",
-      "ENGLISH": "you (plural) had gotten"
+      "SPANISH": "Habíais obtenido",
+      "ENGLISH": "You had gotten"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "obtuve ",
+      "SPANISH": "Obtuve ",
       "ENGLISH": "I got"
     },
     "TU": {
-      "SPANISH": "obtuviste ",
-      "ENGLISH": "you got"
+      "SPANISH": "Obtuviste ",
+      "ENGLISH": "You got"
     },
     "EL": {
-      "SPANISH": "obtuvo ",
-      "ENGLISH": "s/he got, you (formal) got"
+      "SPANISH": "Obtuvo ",
+      "ENGLISH": "He got"
     },
     "ELLOS": {
-      "SPANISH": "obtuvieron ",
-      "ENGLISH": "they got, you (plural formal) got"
+      "SPANISH": "Obtuvieron ",
+      "ENGLISH": "They got"
     },
     "NOSOTROS": {
-      "SPANISH": "obtuvimos ",
-      "ENGLISH": "we got"
+      "SPANISH": "Obtuvimos ",
+      "ENGLISH": "We got"
     },
     "VOSOTROS": {
-      "SPANISH": "obtuvisteis ",
-      "ENGLISH": "you (plural) got"
+      "SPANISH": "Obtuvisteis ",
+      "ENGLISH": "You got"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "obtendré ",
+      "SPANISH": "Obtendré ",
       "ENGLISH": "I will get"
     },
     "TU": {
-      "SPANISH": "obtendrás ",
-      "ENGLISH": "you will get"
+      "SPANISH": "Obtendrás ",
+      "ENGLISH": "You will get"
     },
     "EL": {
-      "SPANISH": "obtendrá ",
-      "ENGLISH": "s/he will get, you (formal) will get"
+      "SPANISH": "Obtendrá ",
+      "ENGLISH": "He will get"
     },
     "ELLOS": {
-      "SPANISH": "obtendrán ",
-      "ENGLISH": "they will get, you (plural formal) will get"
+      "SPANISH": "Obtendrán ",
+      "ENGLISH": "They will get"
     },
     "NOSOTROS": {
-      "SPANISH": "obtendremos ",
-      "ENGLISH": "we will get"
+      "SPANISH": "Obtendremos ",
+      "ENGLISH": "We will get"
     },
     "VOSOTROS": {
-      "SPANISH": "obtendréis ",
-      "ENGLISH": "you (plural) will get"
+      "SPANISH": "Obtendréis ",
+      "ENGLISH": "You will get"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré obtenido",
+      "SPANISH": "Habré obtenido",
       "ENGLISH": "I will have gotten"
     },
     "TU": {
-      "SPANISH": "habrás obtenido",
-      "ENGLISH": "you will have gotten"
+      "SPANISH": "Habrás obtenido",
+      "ENGLISH": "You will have gotten"
     },
     "EL": {
-      "SPANISH": "habrá obtenido",
-      "ENGLISH": "s/he will have gotten, you (formal) will have gotten"
+      "SPANISH": "Habrá obtenido",
+      "ENGLISH": "He will have gotten"
     },
     "ELLOS": {
-      "SPANISH": "habrán obtenido",
-      "ENGLISH": "they will have gotten, you (plural formal) will have gotten"
+      "SPANISH": "Habrán obtenido",
+      "ENGLISH": "They will have gotten"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos obtenido",
-      "ENGLISH": "we will have gotten"
+      "SPANISH": "Habremos obtenido",
+      "ENGLISH": "We will have gotten"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis obtenido",
-      "ENGLISH": "you (plural) will have gotten"
+      "SPANISH": "Habréis obtenido",
+      "ENGLISH": "You will have gotten"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "obtendría ",
+      "SPANISH": "Obtendría ",
       "ENGLISH": "I would get"
     },
     "TU": {
-      "SPANISH": "obtendrías ",
-      "ENGLISH": "you would get"
+      "SPANISH": "Obtendrías ",
+      "ENGLISH": "You would get"
     },
     "EL": {
-      "SPANISH": "obtendría ",
-      "ENGLISH": "s/he would get, you (formal) would get"
+      "SPANISH": "Obtendría ",
+      "ENGLISH": "He would get"
     },
     "ELLOS": {
-      "SPANISH": "obtendrían ",
-      "ENGLISH": "they would get, you (plural formal) would get"
+      "SPANISH": "Obtendrían ",
+      "ENGLISH": "They would get"
     },
     "NOSOTROS": {
-      "SPANISH": "obtendríamos ",
-      "ENGLISH": "we would get"
+      "SPANISH": "Obtendríamos ",
+      "ENGLISH": "We would get"
     },
     "VOSOTROS": {
-      "SPANISH": "obtendríais ",
-      "ENGLISH": "you (plural) would get"
+      "SPANISH": "Obtendríais ",
+      "ENGLISH": "You would get"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría obtenido",
+      "SPANISH": "Habría obtenido",
       "ENGLISH": "I would have gotten"
     },
     "TU": {
-      "SPANISH": "habrías obtenido",
-      "ENGLISH": "you would have gotten"
+      "SPANISH": "Habrías obtenido",
+      "ENGLISH": "You would have gotten"
     },
     "EL": {
-      "SPANISH": "habría obtenido",
-      "ENGLISH": "s/he would have gotten, you (formal) would have gotten"
+      "SPANISH": "Habría obtenido",
+      "ENGLISH": "He would have gotten"
     },
     "ELLOS": {
-      "SPANISH": "habrían obtenido",
-      "ENGLISH": "they would have gotten, you (plural formal) would have gotten"
+      "SPANISH": "Habrían obtenido",
+      "ENGLISH": "They would have gotten"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos obtenido",
-      "ENGLISH": "we would have gotten"
+      "SPANISH": "Habríamos obtenido",
+      "ENGLISH": "We would have gotten"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais obtenido",
-      "ENGLISH": "you (plural) would have gotten"
+      "SPANISH": "Habríais obtenido",
+      "ENGLISH": "You would have gotten"
     }
   }
 }

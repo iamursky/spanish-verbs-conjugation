@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "tiemblo ",
+      "SPANISH": "Tiemblo ",
       "ENGLISH": "I tremble"
     },
     "TU": {
-      "SPANISH": "tiemblas ",
-      "ENGLISH": "you tremble"
+      "SPANISH": "Tiemblas ",
+      "ENGLISH": "You tremble"
     },
     "EL": {
-      "SPANISH": "tiembla ",
-      "ENGLISH": "s/he trembles, you (formal) trembles"
+      "SPANISH": "Tiembla ",
+      "ENGLISH": "He trembles"
     },
     "ELLOS": {
-      "SPANISH": "tiemblan ",
-      "ENGLISH": "they tremble, you (plural formal) tremble"
+      "SPANISH": "Tiemblan ",
+      "ENGLISH": "They tremble"
     },
     "NOSOTROS": {
-      "SPANISH": "temblamos",
-      "ENGLISH": "we tremble"
+      "SPANISH": "Temblamos",
+      "ENGLISH": "We tremble"
     },
     "VOSOTROS": {
-      "SPANISH": "tembláis",
-      "ENGLISH": "you (plural) tremble"
+      "SPANISH": "Tembláis",
+      "ENGLISH": "You tremble"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he temblado",
+      "SPANISH": "He temblado",
       "ENGLISH": "I have trembled"
     },
     "TU": {
-      "SPANISH": "has temblado",
-      "ENGLISH": "you have trembled"
+      "SPANISH": "Has temblado",
+      "ENGLISH": "You have trembled"
     },
     "EL": {
-      "SPANISH": "ha temblado",
-      "ENGLISH": "s/he has trembled, you (formal) have trembled"
+      "SPANISH": "Ha temblado",
+      "ENGLISH": "He has trembled"
     },
     "ELLOS": {
-      "SPANISH": "han temblado",
-      "ENGLISH": "they have trembled, you (plural formal) have trembled"
+      "SPANISH": "Han temblado",
+      "ENGLISH": "They have trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos temblado",
-      "ENGLISH": "we have trembled"
+      "SPANISH": "Hemos temblado",
+      "ENGLISH": "We have trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis temblado",
-      "ENGLISH": "you (plural) have trembled"
+      "SPANISH": "Habéis temblado",
+      "ENGLISH": "You have trembled"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "temblé",
+      "SPANISH": "Temblé",
       "ENGLISH": "I trembled"
     },
     "TU": {
-      "SPANISH": "temblaste",
-      "ENGLISH": "you trembled"
+      "SPANISH": "Temblaste",
+      "ENGLISH": "You trembled"
     },
     "EL": {
-      "SPANISH": "tembló",
-      "ENGLISH": "s/he trembled, you (formal) trembled"
+      "SPANISH": "Tembló",
+      "ENGLISH": "He trembled"
     },
     "ELLOS": {
-      "SPANISH": "temblaron",
-      "ENGLISH": "they trembled, you (plural formal) trembled"
+      "SPANISH": "Temblaron",
+      "ENGLISH": "They trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "temblamos",
-      "ENGLISH": "we trembled"
+      "SPANISH": "Temblamos",
+      "ENGLISH": "We trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "temblasteis",
-      "ENGLISH": "you (plural) trembled"
+      "SPANISH": "Temblasteis",
+      "ENGLISH": "You trembled"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había temblado",
+      "SPANISH": "Había temblado",
       "ENGLISH": "I had trembled"
     },
     "TU": {
-      "SPANISH": "habías temblado",
-      "ENGLISH": "you had trembled"
+      "SPANISH": "Habías temblado",
+      "ENGLISH": "You had trembled"
     },
     "EL": {
-      "SPANISH": "había temblado",
-      "ENGLISH": "s/he had trembled, you (formal) had trembled"
+      "SPANISH": "Había temblado",
+      "ENGLISH": "He had trembled"
     },
     "ELLOS": {
-      "SPANISH": "habían temblado",
-      "ENGLISH": "they had trembled, you (plural formal) had trembled"
+      "SPANISH": "Habían temblado",
+      "ENGLISH": "They had trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos temblado",
-      "ENGLISH": "we had trembled"
+      "SPANISH": "Habíamos temblado",
+      "ENGLISH": "We had trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais temblado",
-      "ENGLISH": "you (plural) had trembled"
+      "SPANISH": "Habíais temblado",
+      "ENGLISH": "You had trembled"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "temblé",
+      "SPANISH": "Temblé",
       "ENGLISH": "I trembled"
     },
     "TU": {
-      "SPANISH": "temblaste",
-      "ENGLISH": "you trembled"
+      "SPANISH": "Temblaste",
+      "ENGLISH": "You trembled"
     },
     "EL": {
-      "SPANISH": "tembló",
-      "ENGLISH": "s/he trembled, you (formal) trembled"
+      "SPANISH": "Tembló",
+      "ENGLISH": "He trembled"
     },
     "ELLOS": {
-      "SPANISH": "temblaron",
-      "ENGLISH": "they trembled, you (plural formal) trembled"
+      "SPANISH": "Temblaron",
+      "ENGLISH": "They trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "temblamos",
-      "ENGLISH": "we trembled"
+      "SPANISH": "Temblamos",
+      "ENGLISH": "We trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "temblasteis",
-      "ENGLISH": "you (plural) trembled"
+      "SPANISH": "Temblasteis",
+      "ENGLISH": "You trembled"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "temblaré",
+      "SPANISH": "Temblaré",
       "ENGLISH": "I will tremble"
     },
     "TU": {
-      "SPANISH": "temblarás",
-      "ENGLISH": "you will tremble"
+      "SPANISH": "Temblarás",
+      "ENGLISH": "You will tremble"
     },
     "EL": {
-      "SPANISH": "temblará",
-      "ENGLISH": "s/he will tremble, you (formal) will tremble"
+      "SPANISH": "Temblará",
+      "ENGLISH": "He will tremble"
     },
     "ELLOS": {
-      "SPANISH": "temblarán",
-      "ENGLISH": "they will tremble, you (plural formal) will tremble"
+      "SPANISH": "Temblarán",
+      "ENGLISH": "They will tremble"
     },
     "NOSOTROS": {
-      "SPANISH": "temblaremos",
-      "ENGLISH": "we will tremble"
+      "SPANISH": "Temblaremos",
+      "ENGLISH": "We will tremble"
     },
     "VOSOTROS": {
-      "SPANISH": "temblaréis",
-      "ENGLISH": "you (plural) will tremble"
+      "SPANISH": "Temblaréis",
+      "ENGLISH": "You will tremble"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré temblado",
+      "SPANISH": "Habré temblado",
       "ENGLISH": "I will have trembled"
     },
     "TU": {
-      "SPANISH": "habrás temblado",
-      "ENGLISH": "you will have trembled"
+      "SPANISH": "Habrás temblado",
+      "ENGLISH": "You will have trembled"
     },
     "EL": {
-      "SPANISH": "habrá temblado",
-      "ENGLISH": "s/he will have trembled, you (formal) will have trembled"
+      "SPANISH": "Habrá temblado",
+      "ENGLISH": "He will have trembled"
     },
     "ELLOS": {
-      "SPANISH": "habrán temblado",
-      "ENGLISH": "they will have trembled, you (plural formal) will have trembled"
+      "SPANISH": "Habrán temblado",
+      "ENGLISH": "They will have trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos temblado",
-      "ENGLISH": "we will have trembled"
+      "SPANISH": "Habremos temblado",
+      "ENGLISH": "We will have trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis temblado",
-      "ENGLISH": "you (plural) will have trembled"
+      "SPANISH": "Habréis temblado",
+      "ENGLISH": "You will have trembled"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "temblaría",
+      "SPANISH": "Temblaría",
       "ENGLISH": "I would tremble"
     },
     "TU": {
-      "SPANISH": "temblarías",
-      "ENGLISH": "you would tremble"
+      "SPANISH": "Temblarías",
+      "ENGLISH": "You would tremble"
     },
     "EL": {
-      "SPANISH": "temblaría",
-      "ENGLISH": "s/he would tremble, you (formal) would tremble"
+      "SPANISH": "Temblaría",
+      "ENGLISH": "He would tremble"
     },
     "ELLOS": {
-      "SPANISH": "temblarían",
-      "ENGLISH": "they would tremble, you (plural formal) would tremble"
+      "SPANISH": "Temblarían",
+      "ENGLISH": "They would tremble"
     },
     "NOSOTROS": {
-      "SPANISH": "temblaríamos",
-      "ENGLISH": "we would tremble"
+      "SPANISH": "Temblaríamos",
+      "ENGLISH": "We would tremble"
     },
     "VOSOTROS": {
-      "SPANISH": "temblaríais",
-      "ENGLISH": "you (plural) would tremble"
+      "SPANISH": "Temblaríais",
+      "ENGLISH": "You would tremble"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría temblado",
+      "SPANISH": "Habría temblado",
       "ENGLISH": "I would have trembled"
     },
     "TU": {
-      "SPANISH": "habrías temblado",
-      "ENGLISH": "you would have trembled"
+      "SPANISH": "Habrías temblado",
+      "ENGLISH": "You would have trembled"
     },
     "EL": {
-      "SPANISH": "habría temblado",
-      "ENGLISH": "s/he would have trembled, you (formal) would have trembled"
+      "SPANISH": "Habría temblado",
+      "ENGLISH": "He would have trembled"
     },
     "ELLOS": {
-      "SPANISH": "habrían temblado",
-      "ENGLISH": "they would have trembled, you (plural formal) would have trembled"
+      "SPANISH": "Habrían temblado",
+      "ENGLISH": "They would have trembled"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos temblado",
-      "ENGLISH": "we would have trembled"
+      "SPANISH": "Habríamos temblado",
+      "ENGLISH": "We would have trembled"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais temblado",
-      "ENGLISH": "you (plural) would have trembled"
+      "SPANISH": "Habríais temblado",
+      "ENGLISH": "You would have trembled"
     }
   }
 }

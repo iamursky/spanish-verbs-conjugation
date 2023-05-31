@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me caso",
+      "SPANISH": "Me caso",
       "ENGLISH": "I marry"
     },
     "TU": {
-      "SPANISH": "te casas",
-      "ENGLISH": "you marry"
+      "SPANISH": "Te casas",
+      "ENGLISH": "You marry"
     },
     "EL": {
-      "SPANISH": "se casa",
-      "ENGLISH": "s/he marries, you (formal) marries"
+      "SPANISH": "Se casa",
+      "ENGLISH": "He marries"
     },
     "ELLOS": {
-      "SPANISH": "se casan",
-      "ENGLISH": "they marry, you (plural formal) marry"
+      "SPANISH": "Se casan",
+      "ENGLISH": "They marry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos casamos",
-      "ENGLISH": "we marry"
+      "SPANISH": "Nos casamos",
+      "ENGLISH": "We marry"
     },
     "VOSOTROS": {
-      "SPANISH": "os casáis",
-      "ENGLISH": "you (plural) marry"
+      "SPANISH": "Os casáis",
+      "ENGLISH": "You marry"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he casado",
+      "SPANISH": "Me he casado",
       "ENGLISH": "I have married"
     },
     "TU": {
-      "SPANISH": "te has casado",
-      "ENGLISH": "you have married"
+      "SPANISH": "Te has casado",
+      "ENGLISH": "You have married"
     },
     "EL": {
-      "SPANISH": "se ha casado",
-      "ENGLISH": "s/he has married, you (formal) have married"
+      "SPANISH": "Se ha casado",
+      "ENGLISH": "He has married"
     },
     "ELLOS": {
-      "SPANISH": "se han casado",
-      "ENGLISH": "they have married, you (plural formal) have married"
+      "SPANISH": "Se han casado",
+      "ENGLISH": "They have married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos casado",
-      "ENGLISH": "we have married"
+      "SPANISH": "Nos hemos casado",
+      "ENGLISH": "We have married"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis casado",
-      "ENGLISH": "you (plural) have married"
+      "SPANISH": "Os habéis casado",
+      "ENGLISH": "You have married"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me casé",
+      "SPANISH": "Me casé",
       "ENGLISH": "I married"
     },
     "TU": {
-      "SPANISH": "te casaste",
-      "ENGLISH": "you married"
+      "SPANISH": "Te casaste",
+      "ENGLISH": "You married"
     },
     "EL": {
-      "SPANISH": "se casó",
-      "ENGLISH": "s/he married, you (formal) married"
+      "SPANISH": "Se casó",
+      "ENGLISH": "He married"
     },
     "ELLOS": {
-      "SPANISH": "se casaron",
-      "ENGLISH": "they married, you (plural formal) married"
+      "SPANISH": "Se casaron",
+      "ENGLISH": "They married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos casamos",
-      "ENGLISH": "we married"
+      "SPANISH": "Nos casamos",
+      "ENGLISH": "We married"
     },
     "VOSOTROS": {
-      "SPANISH": "os casasteis",
-      "ENGLISH": "you (plural) married"
+      "SPANISH": "Os casasteis",
+      "ENGLISH": "You married"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había casado",
+      "SPANISH": "Me había casado",
       "ENGLISH": "I had married"
     },
     "TU": {
-      "SPANISH": "te habías casado",
-      "ENGLISH": "you had married"
+      "SPANISH": "Te habías casado",
+      "ENGLISH": "You had married"
     },
     "EL": {
-      "SPANISH": "se había casado",
-      "ENGLISH": "s/he had married, you (formal) had married"
+      "SPANISH": "Se había casado",
+      "ENGLISH": "He had married"
     },
     "ELLOS": {
-      "SPANISH": "se habían casado",
-      "ENGLISH": "they had married, you (plural formal) had married"
+      "SPANISH": "Se habían casado",
+      "ENGLISH": "They had married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos casado",
-      "ENGLISH": "we had married"
+      "SPANISH": "Nos habíamos casado",
+      "ENGLISH": "We had married"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais casado",
-      "ENGLISH": "you (plural) had married"
+      "SPANISH": "Os habíais casado",
+      "ENGLISH": "You had married"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me casé",
+      "SPANISH": "Me casé",
       "ENGLISH": "I married"
     },
     "TU": {
-      "SPANISH": "te casaste",
-      "ENGLISH": "you married"
+      "SPANISH": "Te casaste",
+      "ENGLISH": "You married"
     },
     "EL": {
-      "SPANISH": "se casó",
-      "ENGLISH": "s/he married, you (formal) married"
+      "SPANISH": "Se casó",
+      "ENGLISH": "He married"
     },
     "ELLOS": {
-      "SPANISH": "se casaron",
-      "ENGLISH": "they married, you (plural formal) married"
+      "SPANISH": "Se casaron",
+      "ENGLISH": "They married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos casamos",
-      "ENGLISH": "we married"
+      "SPANISH": "Nos casamos",
+      "ENGLISH": "We married"
     },
     "VOSOTROS": {
-      "SPANISH": "os casasteis",
-      "ENGLISH": "you (plural) married"
+      "SPANISH": "Os casasteis",
+      "ENGLISH": "You married"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me casaré",
+      "SPANISH": "Me casaré",
       "ENGLISH": "I will marry"
     },
     "TU": {
-      "SPANISH": "te casarás",
-      "ENGLISH": "you will marry"
+      "SPANISH": "Te casarás",
+      "ENGLISH": "You will marry"
     },
     "EL": {
-      "SPANISH": "se casará",
-      "ENGLISH": "s/he will marry, you (formal) will marry"
+      "SPANISH": "Se casará",
+      "ENGLISH": "He will marry"
     },
     "ELLOS": {
-      "SPANISH": "se casarán",
-      "ENGLISH": "they will marry, you (plural formal) will marry"
+      "SPANISH": "Se casarán",
+      "ENGLISH": "They will marry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos casaremos",
-      "ENGLISH": "we will marry"
+      "SPANISH": "Nos casaremos",
+      "ENGLISH": "We will marry"
     },
     "VOSOTROS": {
-      "SPANISH": "os casaréis",
-      "ENGLISH": "you (plural) will marry"
+      "SPANISH": "Os casaréis",
+      "ENGLISH": "You will marry"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré casado",
+      "SPANISH": "Me habré casado",
       "ENGLISH": "I will have married"
     },
     "TU": {
-      "SPANISH": "te habrás casado",
-      "ENGLISH": "you will have married"
+      "SPANISH": "Te habrás casado",
+      "ENGLISH": "You will have married"
     },
     "EL": {
-      "SPANISH": "se habrá casado",
-      "ENGLISH": "s/he will have married, you (formal) will have married"
+      "SPANISH": "Se habrá casado",
+      "ENGLISH": "He will have married"
     },
     "ELLOS": {
-      "SPANISH": "se habrán casado",
-      "ENGLISH": "they will have married, you (plural formal) will have married"
+      "SPANISH": "Se habrán casado",
+      "ENGLISH": "They will have married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos casado",
-      "ENGLISH": "we will have married"
+      "SPANISH": "Nos habremos casado",
+      "ENGLISH": "We will have married"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis casado",
-      "ENGLISH": "you (plural) will have married"
+      "SPANISH": "Os habréis casado",
+      "ENGLISH": "You will have married"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me casaría",
+      "SPANISH": "Me casaría",
       "ENGLISH": "I would marry"
     },
     "TU": {
-      "SPANISH": "te casarías",
-      "ENGLISH": "you would marry"
+      "SPANISH": "Te casarías",
+      "ENGLISH": "You would marry"
     },
     "EL": {
-      "SPANISH": "se casaría",
-      "ENGLISH": "s/he would marry, you (formal) would marry"
+      "SPANISH": "Se casaría",
+      "ENGLISH": "He would marry"
     },
     "ELLOS": {
-      "SPANISH": "se casarían",
-      "ENGLISH": "they would marry, you (plural formal) would marry"
+      "SPANISH": "Se casarían",
+      "ENGLISH": "They would marry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos casaríamos",
-      "ENGLISH": "we would marry"
+      "SPANISH": "Nos casaríamos",
+      "ENGLISH": "We would marry"
     },
     "VOSOTROS": {
-      "SPANISH": "os casaríais",
-      "ENGLISH": "you (plural) would marry"
+      "SPANISH": "Os casaríais",
+      "ENGLISH": "You would marry"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría casado",
+      "SPANISH": "Me habría casado",
       "ENGLISH": "I would have married"
     },
     "TU": {
-      "SPANISH": "te habrías casado",
-      "ENGLISH": "you would have married"
+      "SPANISH": "Te habrías casado",
+      "ENGLISH": "You would have married"
     },
     "EL": {
-      "SPANISH": "se habría casado",
-      "ENGLISH": "s/he would have married, you (formal) would have married"
+      "SPANISH": "Se habría casado",
+      "ENGLISH": "He would have married"
     },
     "ELLOS": {
-      "SPANISH": "se habrían casado",
-      "ENGLISH": "they would have married, you (plural formal) would have married"
+      "SPANISH": "Se habrían casado",
+      "ENGLISH": "They would have married"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos casado",
-      "ENGLISH": "we would have married"
+      "SPANISH": "Nos habríamos casado",
+      "ENGLISH": "We would have married"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais casado",
-      "ENGLISH": "you (plural) would have married"
+      "SPANISH": "Os habríais casado",
+      "ENGLISH": "You would have married"
     }
   }
 }

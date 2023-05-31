@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pruebo ",
+      "SPANISH": "Pruebo ",
       "ENGLISH": "I try"
     },
     "TU": {
-      "SPANISH": "pruebas ",
-      "ENGLISH": "you try"
+      "SPANISH": "Pruebas ",
+      "ENGLISH": "You try"
     },
     "EL": {
-      "SPANISH": "prueba ",
-      "ENGLISH": "s/he tries, you (formal) tries"
+      "SPANISH": "Prueba ",
+      "ENGLISH": "He tries"
     },
     "ELLOS": {
-      "SPANISH": "prueban ",
-      "ENGLISH": "they try, you (plural formal) try"
+      "SPANISH": "Prueban ",
+      "ENGLISH": "They try"
     },
     "NOSOTROS": {
-      "SPANISH": "probamos",
-      "ENGLISH": "we try"
+      "SPANISH": "Probamos",
+      "ENGLISH": "We try"
     },
     "VOSOTROS": {
-      "SPANISH": "probáis",
-      "ENGLISH": "you (plural) try"
+      "SPANISH": "Probáis",
+      "ENGLISH": "You try"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he probado",
+      "SPANISH": "He probado",
       "ENGLISH": "I have tried"
     },
     "TU": {
-      "SPANISH": "has probado",
-      "ENGLISH": "you have tried"
+      "SPANISH": "Has probado",
+      "ENGLISH": "You have tried"
     },
     "EL": {
-      "SPANISH": "ha probado",
-      "ENGLISH": "s/he has tried, you (formal) have tried"
+      "SPANISH": "Ha probado",
+      "ENGLISH": "He has tried"
     },
     "ELLOS": {
-      "SPANISH": "han probado",
-      "ENGLISH": "they have tried, you (plural formal) have tried"
+      "SPANISH": "Han probado",
+      "ENGLISH": "They have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos probado",
-      "ENGLISH": "we have tried"
+      "SPANISH": "Hemos probado",
+      "ENGLISH": "We have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis probado",
-      "ENGLISH": "you (plural) have tried"
+      "SPANISH": "Habéis probado",
+      "ENGLISH": "You have tried"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "probé",
+      "SPANISH": "Probé",
       "ENGLISH": "I tried"
     },
     "TU": {
-      "SPANISH": "probaste",
-      "ENGLISH": "you tried"
+      "SPANISH": "Probaste",
+      "ENGLISH": "You tried"
     },
     "EL": {
-      "SPANISH": "probó",
-      "ENGLISH": "s/he tried, you (formal) tried"
+      "SPANISH": "Probó",
+      "ENGLISH": "He tried"
     },
     "ELLOS": {
-      "SPANISH": "probaron",
-      "ENGLISH": "they tried, you (plural formal) tried"
+      "SPANISH": "Probaron",
+      "ENGLISH": "They tried"
     },
     "NOSOTROS": {
-      "SPANISH": "probamos",
-      "ENGLISH": "we tried"
+      "SPANISH": "Probamos",
+      "ENGLISH": "We tried"
     },
     "VOSOTROS": {
-      "SPANISH": "probasteis",
-      "ENGLISH": "you (plural) tried"
+      "SPANISH": "Probasteis",
+      "ENGLISH": "You tried"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había probado",
+      "SPANISH": "Había probado",
       "ENGLISH": "I had tried"
     },
     "TU": {
-      "SPANISH": "habías probado",
-      "ENGLISH": "you had tried"
+      "SPANISH": "Habías probado",
+      "ENGLISH": "You had tried"
     },
     "EL": {
-      "SPANISH": "había probado",
-      "ENGLISH": "s/he had tried, you (formal) had tried"
+      "SPANISH": "Había probado",
+      "ENGLISH": "He had tried"
     },
     "ELLOS": {
-      "SPANISH": "habían probado",
-      "ENGLISH": "they had tried, you (plural formal) had tried"
+      "SPANISH": "Habían probado",
+      "ENGLISH": "They had tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos probado",
-      "ENGLISH": "we had tried"
+      "SPANISH": "Habíamos probado",
+      "ENGLISH": "We had tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais probado",
-      "ENGLISH": "you (plural) had tried"
+      "SPANISH": "Habíais probado",
+      "ENGLISH": "You had tried"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "probé",
+      "SPANISH": "Probé",
       "ENGLISH": "I tried"
     },
     "TU": {
-      "SPANISH": "probaste",
-      "ENGLISH": "you tried"
+      "SPANISH": "Probaste",
+      "ENGLISH": "You tried"
     },
     "EL": {
-      "SPANISH": "probó",
-      "ENGLISH": "s/he tried, you (formal) tried"
+      "SPANISH": "Probó",
+      "ENGLISH": "He tried"
     },
     "ELLOS": {
-      "SPANISH": "probaron",
-      "ENGLISH": "they tried, you (plural formal) tried"
+      "SPANISH": "Probaron",
+      "ENGLISH": "They tried"
     },
     "NOSOTROS": {
-      "SPANISH": "probamos",
-      "ENGLISH": "we tried"
+      "SPANISH": "Probamos",
+      "ENGLISH": "We tried"
     },
     "VOSOTROS": {
-      "SPANISH": "probasteis",
-      "ENGLISH": "you (plural) tried"
+      "SPANISH": "Probasteis",
+      "ENGLISH": "You tried"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "probaré",
+      "SPANISH": "Probaré",
       "ENGLISH": "I will try"
     },
     "TU": {
-      "SPANISH": "probarás",
-      "ENGLISH": "you will try"
+      "SPANISH": "Probarás",
+      "ENGLISH": "You will try"
     },
     "EL": {
-      "SPANISH": "probará",
-      "ENGLISH": "s/he will try, you (formal) will try"
+      "SPANISH": "Probará",
+      "ENGLISH": "He will try"
     },
     "ELLOS": {
-      "SPANISH": "probarán",
-      "ENGLISH": "they will try, you (plural formal) will try"
+      "SPANISH": "Probarán",
+      "ENGLISH": "They will try"
     },
     "NOSOTROS": {
-      "SPANISH": "probaremos",
-      "ENGLISH": "we will try"
+      "SPANISH": "Probaremos",
+      "ENGLISH": "We will try"
     },
     "VOSOTROS": {
-      "SPANISH": "probaréis",
-      "ENGLISH": "you (plural) will try"
+      "SPANISH": "Probaréis",
+      "ENGLISH": "You will try"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré probado",
+      "SPANISH": "Habré probado",
       "ENGLISH": "I will have tried"
     },
     "TU": {
-      "SPANISH": "habrás probado",
-      "ENGLISH": "you will have tried"
+      "SPANISH": "Habrás probado",
+      "ENGLISH": "You will have tried"
     },
     "EL": {
-      "SPANISH": "habrá probado",
-      "ENGLISH": "s/he will have tried, you (formal) will have tried"
+      "SPANISH": "Habrá probado",
+      "ENGLISH": "He will have tried"
     },
     "ELLOS": {
-      "SPANISH": "habrán probado",
-      "ENGLISH": "they will have tried, you (plural formal) will have tried"
+      "SPANISH": "Habrán probado",
+      "ENGLISH": "They will have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos probado",
-      "ENGLISH": "we will have tried"
+      "SPANISH": "Habremos probado",
+      "ENGLISH": "We will have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis probado",
-      "ENGLISH": "you (plural) will have tried"
+      "SPANISH": "Habréis probado",
+      "ENGLISH": "You will have tried"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "probaría",
+      "SPANISH": "Probaría",
       "ENGLISH": "I would try"
     },
     "TU": {
-      "SPANISH": "probarías",
-      "ENGLISH": "you would try"
+      "SPANISH": "Probarías",
+      "ENGLISH": "You would try"
     },
     "EL": {
-      "SPANISH": "probaría",
-      "ENGLISH": "s/he would try, you (formal) would try"
+      "SPANISH": "Probaría",
+      "ENGLISH": "He would try"
     },
     "ELLOS": {
-      "SPANISH": "probarían",
-      "ENGLISH": "they would try, you (plural formal) would try"
+      "SPANISH": "Probarían",
+      "ENGLISH": "They would try"
     },
     "NOSOTROS": {
-      "SPANISH": "probaríamos",
-      "ENGLISH": "we would try"
+      "SPANISH": "Probaríamos",
+      "ENGLISH": "We would try"
     },
     "VOSOTROS": {
-      "SPANISH": "probaríais",
-      "ENGLISH": "you (plural) would try"
+      "SPANISH": "Probaríais",
+      "ENGLISH": "You would try"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría probado",
+      "SPANISH": "Habría probado",
       "ENGLISH": "I would have tried"
     },
     "TU": {
-      "SPANISH": "habrías probado",
-      "ENGLISH": "you would have tried"
+      "SPANISH": "Habrías probado",
+      "ENGLISH": "You would have tried"
     },
     "EL": {
-      "SPANISH": "habría probado",
-      "ENGLISH": "s/he would have tried, you (formal) would have tried"
+      "SPANISH": "Habría probado",
+      "ENGLISH": "He would have tried"
     },
     "ELLOS": {
-      "SPANISH": "habrían probado",
-      "ENGLISH": "they would have tried, you (plural formal) would have tried"
+      "SPANISH": "Habrían probado",
+      "ENGLISH": "They would have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos probado",
-      "ENGLISH": "we would have tried"
+      "SPANISH": "Habríamos probado",
+      "ENGLISH": "We would have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais probado",
-      "ENGLISH": "you (plural) would have tried"
+      "SPANISH": "Habríais probado",
+      "ENGLISH": "You would have tried"
     }
   }
 }

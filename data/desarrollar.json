@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "desarrollo",
+      "SPANISH": "Desarrollo",
       "ENGLISH": "I develop"
     },
     "TU": {
-      "SPANISH": "desarrollas",
-      "ENGLISH": "you develop"
+      "SPANISH": "Desarrollas",
+      "ENGLISH": "You develop"
     },
     "EL": {
-      "SPANISH": "desarrolla",
-      "ENGLISH": "s/he develops, you (formal) develops"
+      "SPANISH": "Desarrolla",
+      "ENGLISH": "He develops"
     },
     "ELLOS": {
-      "SPANISH": "desarrollan",
-      "ENGLISH": "they develop, you (plural formal) develop"
+      "SPANISH": "Desarrollan",
+      "ENGLISH": "They develop"
     },
     "NOSOTROS": {
-      "SPANISH": "desarrollamos",
-      "ENGLISH": "we develop"
+      "SPANISH": "Desarrollamos",
+      "ENGLISH": "We develop"
     },
     "VOSOTROS": {
-      "SPANISH": "desarrolláis",
-      "ENGLISH": "you (plural) develop"
+      "SPANISH": "Desarrolláis",
+      "ENGLISH": "You develop"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he desarrollado",
+      "SPANISH": "He desarrollado",
       "ENGLISH": "I have developed"
     },
     "TU": {
-      "SPANISH": "has desarrollado",
-      "ENGLISH": "you have developed"
+      "SPANISH": "Has desarrollado",
+      "ENGLISH": "You have developed"
     },
     "EL": {
-      "SPANISH": "ha desarrollado",
-      "ENGLISH": "s/he has developed, you (formal) have developed"
+      "SPANISH": "Ha desarrollado",
+      "ENGLISH": "He has developed"
     },
     "ELLOS": {
-      "SPANISH": "han desarrollado",
-      "ENGLISH": "they have developed, you (plural formal) have developed"
+      "SPANISH": "Han desarrollado",
+      "ENGLISH": "They have developed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos desarrollado",
-      "ENGLISH": "we have developed"
+      "SPANISH": "Hemos desarrollado",
+      "ENGLISH": "We have developed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis desarrollado",
-      "ENGLISH": "you (plural) have developed"
+      "SPANISH": "Habéis desarrollado",
+      "ENGLISH": "You have developed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "desarrollé",
+      "SPANISH": "Desarrollé",
       "ENGLISH": "I developed"
     },
     "TU": {
-      "SPANISH": "desarrollaste",
-      "ENGLISH": "you developed"
+      "SPANISH": "Desarrollaste",
+      "ENGLISH": "You developed"
     },
     "EL": {
-      "SPANISH": "desarrolló",
-      "ENGLISH": "s/he developed, you (formal) developed"
+      "SPANISH": "Desarrolló",
+      "ENGLISH": "He developed"
     },
     "ELLOS": {
-      "SPANISH": "desarrollaron",
-      "ENGLISH": "they developed, you (plural formal) developed"
+      "SPANISH": "Desarrollaron",
+      "ENGLISH": "They developed"
     },
     "NOSOTROS": {
-      "SPANISH": "desarrollamos",
-      "ENGLISH": "we developed"
+      "SPANISH": "Desarrollamos",
+      "ENGLISH": "We developed"
     },
     "VOSOTROS": {
-      "SPANISH": "desarrollasteis",
-      "ENGLISH": "you (plural) developed"
+      "SPANISH": "Desarrollasteis",
+      "ENGLISH": "You developed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había desarrollado",
+      "SPANISH": "Había desarrollado",
       "ENGLISH": "I had developed"
     },
     "TU": {
-      "SPANISH": "habías desarrollado",
-      "ENGLISH": "you had developed"
+      "SPANISH": "Habías desarrollado",
+      "ENGLISH": "You had developed"
     },
     "EL": {
-      "SPANISH": "había desarrollado",
-      "ENGLISH": "s/he had developed, you (formal) had developed"
+      "SPANISH": "Había desarrollado",
+      "ENGLISH": "He had developed"
     },
     "ELLOS": {
-      "SPANISH": "habían desarrollado",
-      "ENGLISH": "they had developed, you (plural formal) had developed"
+      "SPANISH": "Habían desarrollado",
+      "ENGLISH": "They had developed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos desarrollado",
-      "ENGLISH": "we had developed"
+      "SPANISH": "Habíamos desarrollado",
+      "ENGLISH": "We had developed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais desarrollado",
-      "ENGLISH": "you (plural) had developed"
+      "SPANISH": "Habíais desarrollado",
+      "ENGLISH": "You had developed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "desarrollé",
+      "SPANISH": "Desarrollé",
       "ENGLISH": "I developed"
     },
     "TU": {
-      "SPANISH": "desarrollaste",
-      "ENGLISH": "you developed"
+      "SPANISH": "Desarrollaste",
+      "ENGLISH": "You developed"
     },
     "EL": {
-      "SPANISH": "desarrolló",
-      "ENGLISH": "s/he developed, you (formal) developed"
+      "SPANISH": "Desarrolló",
+      "ENGLISH": "He developed"
     },
     "ELLOS": {
-      "SPANISH": "desarrollaron",
-      "ENGLISH": "they developed, you (plural formal) developed"
+      "SPANISH": "Desarrollaron",
+      "ENGLISH": "They developed"
     },
     "NOSOTROS": {
-      "SPANISH": "desarrollamos",
-      "ENGLISH": "we developed"
+      "SPANISH": "Desarrollamos",
+      "ENGLISH": "We developed"
     },
     "VOSOTROS": {
-      "SPANISH": "desarrollasteis",
-      "ENGLISH": "you (plural) developed"
+      "SPANISH": "Desarrollasteis",
+      "ENGLISH": "You developed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "desarrollaré",
+      "SPANISH": "Desarrollaré",
       "ENGLISH": "I will develop"
     },
     "TU": {
-      "SPANISH": "desarrollarás",
-      "ENGLISH": "you will develop"
+      "SPANISH": "Desarrollarás",
+      "ENGLISH": "You will develop"
     },
     "EL": {
-      "SPANISH": "desarrollará",
-      "ENGLISH": "s/he will develop, you (formal) will develop"
+      "SPANISH": "Desarrollará",
+      "ENGLISH": "He will develop"
     },
     "ELLOS": {
-      "SPANISH": "desarrollarán",
-      "ENGLISH": "they will develop, you (plural formal) will develop"
+      "SPANISH": "Desarrollarán",
+      "ENGLISH": "They will develop"
     },
     "NOSOTROS": {
-      "SPANISH": "desarrollaremos",
-      "ENGLISH": "we will develop"
+      "SPANISH": "Desarrollaremos",
+      "ENGLISH": "We will develop"
     },
     "VOSOTROS": {
-      "SPANISH": "desarrollaréis",
-      "ENGLISH": "you (plural) will develop"
+      "SPANISH": "Desarrollaréis",
+      "ENGLISH": "You will develop"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré desarrollado",
+      "SPANISH": "Habré desarrollado",
       "ENGLISH": "I will have developed"
     },
     "TU": {
-      "SPANISH": "habrás desarrollado",
-      "ENGLISH": "you will have developed"
+      "SPANISH": "Habrás desarrollado",
+      "ENGLISH": "You will have developed"
     },
     "EL": {
-      "SPANISH": "habrá desarrollado",
-      "ENGLISH": "s/he will have developed, you (formal) will have developed"
+      "SPANISH": "Habrá desarrollado",
+      "ENGLISH": "He will have developed"
     },
     "ELLOS": {
-      "SPANISH": "habrán desarrollado",
-      "ENGLISH": "they will have developed, you (plural formal) will have developed"
+      "SPANISH": "Habrán desarrollado",
+      "ENGLISH": "They will have developed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos desarrollado",
-      "ENGLISH": "we will have developed"
+      "SPANISH": "Habremos desarrollado",
+      "ENGLISH": "We will have developed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis desarrollado",
-      "ENGLISH": "you (plural) will have developed"
+      "SPANISH": "Habréis desarrollado",
+      "ENGLISH": "You will have developed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "desarrollaría",
+      "SPANISH": "Desarrollaría",
       "ENGLISH": "I would develop"
     },
     "TU": {
-      "SPANISH": "desarrollarías",
-      "ENGLISH": "you would develop"
+      "SPANISH": "Desarrollarías",
+      "ENGLISH": "You would develop"
     },
     "EL": {
-      "SPANISH": "desarrollaría",
-      "ENGLISH": "s/he would develop, you (formal) would develop"
+      "SPANISH": "Desarrollaría",
+      "ENGLISH": "He would develop"
     },
     "ELLOS": {
-      "SPANISH": "desarrollarían",
-      "ENGLISH": "they would develop, you (plural formal) would develop"
+      "SPANISH": "Desarrollarían",
+      "ENGLISH": "They would develop"
     },
     "NOSOTROS": {
-      "SPANISH": "desarrollaríamos",
-      "ENGLISH": "we would develop"
+      "SPANISH": "Desarrollaríamos",
+      "ENGLISH": "We would develop"
     },
     "VOSOTROS": {
-      "SPANISH": "desarrollaríais",
-      "ENGLISH": "you (plural) would develop"
+      "SPANISH": "Desarrollaríais",
+      "ENGLISH": "You would develop"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría desarrollado",
+      "SPANISH": "Habría desarrollado",
       "ENGLISH": "I would have developed"
     },
     "TU": {
-      "SPANISH": "habrías desarrollado",
-      "ENGLISH": "you would have developed"
+      "SPANISH": "Habrías desarrollado",
+      "ENGLISH": "You would have developed"
     },
     "EL": {
-      "SPANISH": "habría desarrollado",
-      "ENGLISH": "s/he would have developed, you (formal) would have developed"
+      "SPANISH": "Habría desarrollado",
+      "ENGLISH": "He would have developed"
     },
     "ELLOS": {
-      "SPANISH": "habrían desarrollado",
-      "ENGLISH": "they would have developed, you (plural formal) would have developed"
+      "SPANISH": "Habrían desarrollado",
+      "ENGLISH": "They would have developed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos desarrollado",
-      "ENGLISH": "we would have developed"
+      "SPANISH": "Habríamos desarrollado",
+      "ENGLISH": "We would have developed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais desarrollado",
-      "ENGLISH": "you (plural) would have developed"
+      "SPANISH": "Habríais desarrollado",
+      "ENGLISH": "You would have developed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "provoco",
+      "SPANISH": "Provoco",
       "ENGLISH": "I provoke"
     },
     "TU": {
-      "SPANISH": "provocas",
-      "ENGLISH": "you provoke"
+      "SPANISH": "Provocas",
+      "ENGLISH": "You provoke"
     },
     "EL": {
-      "SPANISH": "provoca",
-      "ENGLISH": "s/he provokes, you (formal) provokes"
+      "SPANISH": "Provoca",
+      "ENGLISH": "He provokes"
     },
     "ELLOS": {
-      "SPANISH": "provocan",
-      "ENGLISH": "they provoke, you (plural formal) provoke"
+      "SPANISH": "Provocan",
+      "ENGLISH": "They provoke"
     },
     "NOSOTROS": {
-      "SPANISH": "provocamos",
-      "ENGLISH": "we provoke"
+      "SPANISH": "Provocamos",
+      "ENGLISH": "We provoke"
     },
     "VOSOTROS": {
-      "SPANISH": "provocáis",
-      "ENGLISH": "you (plural) provoke"
+      "SPANISH": "Provocáis",
+      "ENGLISH": "You provoke"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he provocado",
+      "SPANISH": "He provocado",
       "ENGLISH": "I have provoked"
     },
     "TU": {
-      "SPANISH": "has provocado",
-      "ENGLISH": "you have provoked"
+      "SPANISH": "Has provocado",
+      "ENGLISH": "You have provoked"
     },
     "EL": {
-      "SPANISH": "ha provocado",
-      "ENGLISH": "s/he has provoked, you (formal) have provoked"
+      "SPANISH": "Ha provocado",
+      "ENGLISH": "He has provoked"
     },
     "ELLOS": {
-      "SPANISH": "han provocado",
-      "ENGLISH": "they have provoked, you (plural formal) have provoked"
+      "SPANISH": "Han provocado",
+      "ENGLISH": "They have provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos provocado",
-      "ENGLISH": "we have provoked"
+      "SPANISH": "Hemos provocado",
+      "ENGLISH": "We have provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis provocado",
-      "ENGLISH": "you (plural) have provoked"
+      "SPANISH": "Habéis provocado",
+      "ENGLISH": "You have provoked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "provoqué ",
+      "SPANISH": "Provoqué ",
       "ENGLISH": "I provoked"
     },
     "TU": {
-      "SPANISH": "provocaste",
-      "ENGLISH": "you provoked"
+      "SPANISH": "Provocaste",
+      "ENGLISH": "You provoked"
     },
     "EL": {
-      "SPANISH": "provocó",
-      "ENGLISH": "s/he provoked, you (formal) provoked"
+      "SPANISH": "Provocó",
+      "ENGLISH": "He provoked"
     },
     "ELLOS": {
-      "SPANISH": "provocaron",
-      "ENGLISH": "they provoked, you (plural formal) provoked"
+      "SPANISH": "Provocaron",
+      "ENGLISH": "They provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "provocamos",
-      "ENGLISH": "we provoked"
+      "SPANISH": "Provocamos",
+      "ENGLISH": "We provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "provocasteis",
-      "ENGLISH": "you (plural) provoked"
+      "SPANISH": "Provocasteis",
+      "ENGLISH": "You provoked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había provocado",
+      "SPANISH": "Había provocado",
       "ENGLISH": "I had provoked"
     },
     "TU": {
-      "SPANISH": "habías provocado",
-      "ENGLISH": "you had provoked"
+      "SPANISH": "Habías provocado",
+      "ENGLISH": "You had provoked"
     },
     "EL": {
-      "SPANISH": "había provocado",
-      "ENGLISH": "s/he had provoked, you (formal) had provoked"
+      "SPANISH": "Había provocado",
+      "ENGLISH": "He had provoked"
     },
     "ELLOS": {
-      "SPANISH": "habían provocado",
-      "ENGLISH": "they had provoked, you (plural formal) had provoked"
+      "SPANISH": "Habían provocado",
+      "ENGLISH": "They had provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos provocado",
-      "ENGLISH": "we had provoked"
+      "SPANISH": "Habíamos provocado",
+      "ENGLISH": "We had provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais provocado",
-      "ENGLISH": "you (plural) had provoked"
+      "SPANISH": "Habíais provocado",
+      "ENGLISH": "You had provoked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "provoqué ",
+      "SPANISH": "Provoqué ",
       "ENGLISH": "I provoked"
     },
     "TU": {
-      "SPANISH": "provocaste",
-      "ENGLISH": "you provoked"
+      "SPANISH": "Provocaste",
+      "ENGLISH": "You provoked"
     },
     "EL": {
-      "SPANISH": "provocó",
-      "ENGLISH": "s/he provoked, you (formal) provoked"
+      "SPANISH": "Provocó",
+      "ENGLISH": "He provoked"
     },
     "ELLOS": {
-      "SPANISH": "provocaron",
-      "ENGLISH": "they provoked, you (plural formal) provoked"
+      "SPANISH": "Provocaron",
+      "ENGLISH": "They provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "provocamos",
-      "ENGLISH": "we provoked"
+      "SPANISH": "Provocamos",
+      "ENGLISH": "We provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "provocasteis",
-      "ENGLISH": "you (plural) provoked"
+      "SPANISH": "Provocasteis",
+      "ENGLISH": "You provoked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "provocaré",
+      "SPANISH": "Provocaré",
       "ENGLISH": "I will provoke"
     },
     "TU": {
-      "SPANISH": "provocarás",
-      "ENGLISH": "you will provoke"
+      "SPANISH": "Provocarás",
+      "ENGLISH": "You will provoke"
     },
     "EL": {
-      "SPANISH": "provocará",
-      "ENGLISH": "s/he will provoke, you (formal) will provoke"
+      "SPANISH": "Provocará",
+      "ENGLISH": "He will provoke"
     },
     "ELLOS": {
-      "SPANISH": "provocarán",
-      "ENGLISH": "they will provoke, you (plural formal) will provoke"
+      "SPANISH": "Provocarán",
+      "ENGLISH": "They will provoke"
     },
     "NOSOTROS": {
-      "SPANISH": "provocaremos",
-      "ENGLISH": "we will provoke"
+      "SPANISH": "Provocaremos",
+      "ENGLISH": "We will provoke"
     },
     "VOSOTROS": {
-      "SPANISH": "provocaréis",
-      "ENGLISH": "you (plural) will provoke"
+      "SPANISH": "Provocaréis",
+      "ENGLISH": "You will provoke"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré provocado",
+      "SPANISH": "Habré provocado",
       "ENGLISH": "I will have provoked"
     },
     "TU": {
-      "SPANISH": "habrás provocado",
-      "ENGLISH": "you will have provoked"
+      "SPANISH": "Habrás provocado",
+      "ENGLISH": "You will have provoked"
     },
     "EL": {
-      "SPANISH": "habrá provocado",
-      "ENGLISH": "s/he will have provoked, you (formal) will have provoked"
+      "SPANISH": "Habrá provocado",
+      "ENGLISH": "He will have provoked"
     },
     "ELLOS": {
-      "SPANISH": "habrán provocado",
-      "ENGLISH": "they will have provoked, you (plural formal) will have provoked"
+      "SPANISH": "Habrán provocado",
+      "ENGLISH": "They will have provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos provocado",
-      "ENGLISH": "we will have provoked"
+      "SPANISH": "Habremos provocado",
+      "ENGLISH": "We will have provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis provocado",
-      "ENGLISH": "you (plural) will have provoked"
+      "SPANISH": "Habréis provocado",
+      "ENGLISH": "You will have provoked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "provocaría",
+      "SPANISH": "Provocaría",
       "ENGLISH": "I would provoke"
     },
     "TU": {
-      "SPANISH": "provocarías",
-      "ENGLISH": "you would provoke"
+      "SPANISH": "Provocarías",
+      "ENGLISH": "You would provoke"
     },
     "EL": {
-      "SPANISH": "provocaría",
-      "ENGLISH": "s/he would provoke, you (formal) would provoke"
+      "SPANISH": "Provocaría",
+      "ENGLISH": "He would provoke"
     },
     "ELLOS": {
-      "SPANISH": "provocarían",
-      "ENGLISH": "they would provoke, you (plural formal) would provoke"
+      "SPANISH": "Provocarían",
+      "ENGLISH": "They would provoke"
     },
     "NOSOTROS": {
-      "SPANISH": "provocaríamos",
-      "ENGLISH": "we would provoke"
+      "SPANISH": "Provocaríamos",
+      "ENGLISH": "We would provoke"
     },
     "VOSOTROS": {
-      "SPANISH": "provocaríais",
-      "ENGLISH": "you (plural) would provoke"
+      "SPANISH": "Provocaríais",
+      "ENGLISH": "You would provoke"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría provocado",
+      "SPANISH": "Habría provocado",
       "ENGLISH": "I would have provoked"
     },
     "TU": {
-      "SPANISH": "habrías provocado",
-      "ENGLISH": "you would have provoked"
+      "SPANISH": "Habrías provocado",
+      "ENGLISH": "You would have provoked"
     },
     "EL": {
-      "SPANISH": "habría provocado",
-      "ENGLISH": "s/he would have provoked, you (formal) would have provoked"
+      "SPANISH": "Habría provocado",
+      "ENGLISH": "He would have provoked"
     },
     "ELLOS": {
-      "SPANISH": "habrían provocado",
-      "ENGLISH": "they would have provoked, you (plural formal) would have provoked"
+      "SPANISH": "Habrían provocado",
+      "ENGLISH": "They would have provoked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos provocado",
-      "ENGLISH": "we would have provoked"
+      "SPANISH": "Habríamos provocado",
+      "ENGLISH": "We would have provoked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais provocado",
-      "ENGLISH": "you (plural) would have provoked"
+      "SPANISH": "Habríais provocado",
+      "ENGLISH": "You would have provoked"
     }
   }
 }

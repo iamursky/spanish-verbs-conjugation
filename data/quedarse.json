@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me quedo",
+      "SPANISH": "Me quedo",
       "ENGLISH": "I stay"
     },
     "TU": {
-      "SPANISH": "te quedas",
-      "ENGLISH": "you stay"
+      "SPANISH": "Te quedas",
+      "ENGLISH": "You stay"
     },
     "EL": {
-      "SPANISH": "se queda",
-      "ENGLISH": "s/he stays, you (formal) stays"
+      "SPANISH": "Se queda",
+      "ENGLISH": "He stays"
     },
     "ELLOS": {
-      "SPANISH": "se quedan",
-      "ENGLISH": "they stay, you (plural formal) stay"
+      "SPANISH": "Se quedan",
+      "ENGLISH": "They stay"
     },
     "NOSOTROS": {
-      "SPANISH": "nos quedamos",
-      "ENGLISH": "we stay"
+      "SPANISH": "Nos quedamos",
+      "ENGLISH": "We stay"
     },
     "VOSOTROS": {
-      "SPANISH": "os quedáis",
-      "ENGLISH": "you (plural) stay"
+      "SPANISH": "Os quedáis",
+      "ENGLISH": "You stay"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he quedado",
+      "SPANISH": "Me he quedado",
       "ENGLISH": "I have stayed"
     },
     "TU": {
-      "SPANISH": "te has quedado",
-      "ENGLISH": "you have stayed"
+      "SPANISH": "Te has quedado",
+      "ENGLISH": "You have stayed"
     },
     "EL": {
-      "SPANISH": "se ha quedado",
-      "ENGLISH": "s/he has stayed, you (formal) have stayed"
+      "SPANISH": "Se ha quedado",
+      "ENGLISH": "He has stayed"
     },
     "ELLOS": {
-      "SPANISH": "se han quedado",
-      "ENGLISH": "they have stayed, you (plural formal) have stayed"
+      "SPANISH": "Se han quedado",
+      "ENGLISH": "They have stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos quedado",
-      "ENGLISH": "we have stayed"
+      "SPANISH": "Nos hemos quedado",
+      "ENGLISH": "We have stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis quedado",
-      "ENGLISH": "you (plural) have stayed"
+      "SPANISH": "Os habéis quedado",
+      "ENGLISH": "You have stayed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me quedé",
+      "SPANISH": "Me quedé",
       "ENGLISH": "I stayed"
     },
     "TU": {
-      "SPANISH": "te quedaste",
-      "ENGLISH": "you stayed"
+      "SPANISH": "Te quedaste",
+      "ENGLISH": "You stayed"
     },
     "EL": {
-      "SPANISH": "se quedó",
-      "ENGLISH": "s/he stayed, you (formal) stayed"
+      "SPANISH": "Se quedó",
+      "ENGLISH": "He stayed"
     },
     "ELLOS": {
-      "SPANISH": "se quedaron",
-      "ENGLISH": "they stayed, you (plural formal) stayed"
+      "SPANISH": "Se quedaron",
+      "ENGLISH": "They stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos quedamos",
-      "ENGLISH": "we stayed"
+      "SPANISH": "Nos quedamos",
+      "ENGLISH": "We stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os quedasteis",
-      "ENGLISH": "you (plural) stayed"
+      "SPANISH": "Os quedasteis",
+      "ENGLISH": "You stayed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había quedado",
+      "SPANISH": "Me había quedado",
       "ENGLISH": "I had stayed"
     },
     "TU": {
-      "SPANISH": "te habías quedado",
-      "ENGLISH": "you had stayed"
+      "SPANISH": "Te habías quedado",
+      "ENGLISH": "You had stayed"
     },
     "EL": {
-      "SPANISH": "se había quedado",
-      "ENGLISH": "s/he had stayed, you (formal) had stayed"
+      "SPANISH": "Se había quedado",
+      "ENGLISH": "He had stayed"
     },
     "ELLOS": {
-      "SPANISH": "se habían quedado",
-      "ENGLISH": "they had stayed, you (plural formal) had stayed"
+      "SPANISH": "Se habían quedado",
+      "ENGLISH": "They had stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos quedado",
-      "ENGLISH": "we had stayed"
+      "SPANISH": "Nos habíamos quedado",
+      "ENGLISH": "We had stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais quedado",
-      "ENGLISH": "you (plural) had stayed"
+      "SPANISH": "Os habíais quedado",
+      "ENGLISH": "You had stayed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me quedé",
+      "SPANISH": "Me quedé",
       "ENGLISH": "I stayed"
     },
     "TU": {
-      "SPANISH": "te quedaste",
-      "ENGLISH": "you stayed"
+      "SPANISH": "Te quedaste",
+      "ENGLISH": "You stayed"
     },
     "EL": {
-      "SPANISH": "se quedó",
-      "ENGLISH": "s/he stayed, you (formal) stayed"
+      "SPANISH": "Se quedó",
+      "ENGLISH": "He stayed"
     },
     "ELLOS": {
-      "SPANISH": "se quedaron",
-      "ENGLISH": "they stayed, you (plural formal) stayed"
+      "SPANISH": "Se quedaron",
+      "ENGLISH": "They stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos quedamos",
-      "ENGLISH": "we stayed"
+      "SPANISH": "Nos quedamos",
+      "ENGLISH": "We stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os quedasteis",
-      "ENGLISH": "you (plural) stayed"
+      "SPANISH": "Os quedasteis",
+      "ENGLISH": "You stayed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me quedaré",
+      "SPANISH": "Me quedaré",
       "ENGLISH": "I will stay"
     },
     "TU": {
-      "SPANISH": "te quedarás",
-      "ENGLISH": "you will stay"
+      "SPANISH": "Te quedarás",
+      "ENGLISH": "You will stay"
     },
     "EL": {
-      "SPANISH": "se quedará",
-      "ENGLISH": "s/he will stay, you (formal) will stay"
+      "SPANISH": "Se quedará",
+      "ENGLISH": "He will stay"
     },
     "ELLOS": {
-      "SPANISH": "se quedarán",
-      "ENGLISH": "they will stay, you (plural formal) will stay"
+      "SPANISH": "Se quedarán",
+      "ENGLISH": "They will stay"
     },
     "NOSOTROS": {
-      "SPANISH": "nos quedaremos",
-      "ENGLISH": "we will stay"
+      "SPANISH": "Nos quedaremos",
+      "ENGLISH": "We will stay"
     },
     "VOSOTROS": {
-      "SPANISH": "os quedaréis",
-      "ENGLISH": "you (plural) will stay"
+      "SPANISH": "Os quedaréis",
+      "ENGLISH": "You will stay"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré quedado",
+      "SPANISH": "Me habré quedado",
       "ENGLISH": "I will have stayed"
     },
     "TU": {
-      "SPANISH": "te habrás quedado",
-      "ENGLISH": "you will have stayed"
+      "SPANISH": "Te habrás quedado",
+      "ENGLISH": "You will have stayed"
     },
     "EL": {
-      "SPANISH": "se habrá quedado",
-      "ENGLISH": "s/he will have stayed, you (formal) will have stayed"
+      "SPANISH": "Se habrá quedado",
+      "ENGLISH": "He will have stayed"
     },
     "ELLOS": {
-      "SPANISH": "se habrán quedado",
-      "ENGLISH": "they will have stayed, you (plural formal) will have stayed"
+      "SPANISH": "Se habrán quedado",
+      "ENGLISH": "They will have stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos quedado",
-      "ENGLISH": "we will have stayed"
+      "SPANISH": "Nos habremos quedado",
+      "ENGLISH": "We will have stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis quedado",
-      "ENGLISH": "you (plural) will have stayed"
+      "SPANISH": "Os habréis quedado",
+      "ENGLISH": "You will have stayed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me quedaría",
+      "SPANISH": "Me quedaría",
       "ENGLISH": "I would stay"
     },
     "TU": {
-      "SPANISH": "te quedarías",
-      "ENGLISH": "you would stay"
+      "SPANISH": "Te quedarías",
+      "ENGLISH": "You would stay"
     },
     "EL": {
-      "SPANISH": "se quedaría",
-      "ENGLISH": "s/he would stay, you (formal) would stay"
+      "SPANISH": "Se quedaría",
+      "ENGLISH": "He would stay"
     },
     "ELLOS": {
-      "SPANISH": "se quedarían",
-      "ENGLISH": "they would stay, you (plural formal) would stay"
+      "SPANISH": "Se quedarían",
+      "ENGLISH": "They would stay"
     },
     "NOSOTROS": {
-      "SPANISH": "nos quedaríamos",
-      "ENGLISH": "we would stay"
+      "SPANISH": "Nos quedaríamos",
+      "ENGLISH": "We would stay"
     },
     "VOSOTROS": {
-      "SPANISH": "os quedaríais",
-      "ENGLISH": "you (plural) would stay"
+      "SPANISH": "Os quedaríais",
+      "ENGLISH": "You would stay"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría quedado",
+      "SPANISH": "Me habría quedado",
       "ENGLISH": "I would have stayed"
     },
     "TU": {
-      "SPANISH": "te habrías quedado",
-      "ENGLISH": "you would have stayed"
+      "SPANISH": "Te habrías quedado",
+      "ENGLISH": "You would have stayed"
     },
     "EL": {
-      "SPANISH": "se habría quedado",
-      "ENGLISH": "s/he would have stayed, you (formal) would have stayed"
+      "SPANISH": "Se habría quedado",
+      "ENGLISH": "He would have stayed"
     },
     "ELLOS": {
-      "SPANISH": "se habrían quedado",
-      "ENGLISH": "they would have stayed, you (plural formal) would have stayed"
+      "SPANISH": "Se habrían quedado",
+      "ENGLISH": "They would have stayed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos quedado",
-      "ENGLISH": "we would have stayed"
+      "SPANISH": "Nos habríamos quedado",
+      "ENGLISH": "We would have stayed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais quedado",
-      "ENGLISH": "you (plural) would have stayed"
+      "SPANISH": "Os habríais quedado",
+      "ENGLISH": "You would have stayed"
     }
   }
 }

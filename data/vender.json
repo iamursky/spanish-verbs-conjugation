@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "vendo",
+      "SPANISH": "Vendo",
       "ENGLISH": "I sell"
     },
     "TU": {
-      "SPANISH": "vendes",
-      "ENGLISH": "you sell"
+      "SPANISH": "Vendes",
+      "ENGLISH": "You sell"
     },
     "EL": {
-      "SPANISH": "vende",
-      "ENGLISH": "s/he sells, you (formal) sells"
+      "SPANISH": "Vende",
+      "ENGLISH": "He sells"
     },
     "ELLOS": {
-      "SPANISH": "venden",
-      "ENGLISH": "they sell, you (plural formal) sell"
+      "SPANISH": "Venden",
+      "ENGLISH": "They sell"
     },
     "NOSOTROS": {
-      "SPANISH": "vendemos",
-      "ENGLISH": "we sell"
+      "SPANISH": "Vendemos",
+      "ENGLISH": "We sell"
     },
     "VOSOTROS": {
-      "SPANISH": "vendéis",
-      "ENGLISH": "you (plural) sell"
+      "SPANISH": "Vendéis",
+      "ENGLISH": "You sell"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he vendido",
+      "SPANISH": "He vendido",
       "ENGLISH": "I have sold"
     },
     "TU": {
-      "SPANISH": "has vendido",
-      "ENGLISH": "you have sold"
+      "SPANISH": "Has vendido",
+      "ENGLISH": "You have sold"
     },
     "EL": {
-      "SPANISH": "ha vendido",
-      "ENGLISH": "s/he has sold, you (formal) have sold"
+      "SPANISH": "Ha vendido",
+      "ENGLISH": "He has sold"
     },
     "ELLOS": {
-      "SPANISH": "han vendido",
-      "ENGLISH": "they have sold, you (plural formal) have sold"
+      "SPANISH": "Han vendido",
+      "ENGLISH": "They have sold"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos vendido",
-      "ENGLISH": "we have sold"
+      "SPANISH": "Hemos vendido",
+      "ENGLISH": "We have sold"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis vendido",
-      "ENGLISH": "you (plural) have sold"
+      "SPANISH": "Habéis vendido",
+      "ENGLISH": "You have sold"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "vendí",
+      "SPANISH": "Vendí",
       "ENGLISH": "I sold"
     },
     "TU": {
-      "SPANISH": "vendiste",
-      "ENGLISH": "you sold"
+      "SPANISH": "Vendiste",
+      "ENGLISH": "You sold"
     },
     "EL": {
-      "SPANISH": "vendió",
-      "ENGLISH": "s/he sold, you (formal) sold"
+      "SPANISH": "Vendió",
+      "ENGLISH": "He sold"
     },
     "ELLOS": {
-      "SPANISH": "vendieron",
-      "ENGLISH": "they sold, you (plural formal) sold"
+      "SPANISH": "Vendieron",
+      "ENGLISH": "They sold"
     },
     "NOSOTROS": {
-      "SPANISH": "vendimos",
-      "ENGLISH": "we sold"
+      "SPANISH": "Vendimos",
+      "ENGLISH": "We sold"
     },
     "VOSOTROS": {
-      "SPANISH": "vendisteis",
-      "ENGLISH": "you (plural) sold"
+      "SPANISH": "Vendisteis",
+      "ENGLISH": "You sold"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había vendido",
+      "SPANISH": "Había vendido",
       "ENGLISH": "I had sold"
     },
     "TU": {
-      "SPANISH": "habías vendido",
-      "ENGLISH": "you had sold"
+      "SPANISH": "Habías vendido",
+      "ENGLISH": "You had sold"
     },
     "EL": {
-      "SPANISH": "había vendido",
-      "ENGLISH": "s/he had sold, you (formal) had sold"
+      "SPANISH": "Había vendido",
+      "ENGLISH": "He had sold"
     },
     "ELLOS": {
-      "SPANISH": "habían vendido",
-      "ENGLISH": "they had sold, you (plural formal) had sold"
+      "SPANISH": "Habían vendido",
+      "ENGLISH": "They had sold"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos vendido",
-      "ENGLISH": "we had sold"
+      "SPANISH": "Habíamos vendido",
+      "ENGLISH": "We had sold"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais vendido",
-      "ENGLISH": "you (plural) had sold"
+      "SPANISH": "Habíais vendido",
+      "ENGLISH": "You had sold"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "vendí",
+      "SPANISH": "Vendí",
       "ENGLISH": "I sold"
     },
     "TU": {
-      "SPANISH": "vendiste",
-      "ENGLISH": "you sold"
+      "SPANISH": "Vendiste",
+      "ENGLISH": "You sold"
     },
     "EL": {
-      "SPANISH": "vendió",
-      "ENGLISH": "s/he sold, you (formal) sold"
+      "SPANISH": "Vendió",
+      "ENGLISH": "He sold"
     },
     "ELLOS": {
-      "SPANISH": "vendieron",
-      "ENGLISH": "they sold, you (plural formal) sold"
+      "SPANISH": "Vendieron",
+      "ENGLISH": "They sold"
     },
     "NOSOTROS": {
-      "SPANISH": "vendimos",
-      "ENGLISH": "we sold"
+      "SPANISH": "Vendimos",
+      "ENGLISH": "We sold"
     },
     "VOSOTROS": {
-      "SPANISH": "vendisteis",
-      "ENGLISH": "you (plural) sold"
+      "SPANISH": "Vendisteis",
+      "ENGLISH": "You sold"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "venderé",
+      "SPANISH": "Venderé",
       "ENGLISH": "I will sell"
     },
     "TU": {
-      "SPANISH": "venderás",
-      "ENGLISH": "you will sell"
+      "SPANISH": "Venderás",
+      "ENGLISH": "You will sell"
     },
     "EL": {
-      "SPANISH": "venderá",
-      "ENGLISH": "s/he will sell, you (formal) will sell"
+      "SPANISH": "Venderá",
+      "ENGLISH": "He will sell"
     },
     "ELLOS": {
-      "SPANISH": "venderán",
-      "ENGLISH": "they will sell, you (plural formal) will sell"
+      "SPANISH": "Venderán",
+      "ENGLISH": "They will sell"
     },
     "NOSOTROS": {
-      "SPANISH": "venderemos",
-      "ENGLISH": "we will sell"
+      "SPANISH": "Venderemos",
+      "ENGLISH": "We will sell"
     },
     "VOSOTROS": {
-      "SPANISH": "venderéis",
-      "ENGLISH": "you (plural) will sell"
+      "SPANISH": "Venderéis",
+      "ENGLISH": "You will sell"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré vendido",
+      "SPANISH": "Habré vendido",
       "ENGLISH": "I will have sold"
     },
     "TU": {
-      "SPANISH": "habrás vendido",
-      "ENGLISH": "you will have sold"
+      "SPANISH": "Habrás vendido",
+      "ENGLISH": "You will have sold"
     },
     "EL": {
-      "SPANISH": "habrá vendido",
-      "ENGLISH": "s/he will have sold, you (formal) will have sold"
+      "SPANISH": "Habrá vendido",
+      "ENGLISH": "He will have sold"
     },
     "ELLOS": {
-      "SPANISH": "habrán vendido",
-      "ENGLISH": "they will have sold, you (plural formal) will have sold"
+      "SPANISH": "Habrán vendido",
+      "ENGLISH": "They will have sold"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos vendido",
-      "ENGLISH": "we will have sold"
+      "SPANISH": "Habremos vendido",
+      "ENGLISH": "We will have sold"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis vendido",
-      "ENGLISH": "you (plural) will have sold"
+      "SPANISH": "Habréis vendido",
+      "ENGLISH": "You will have sold"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "vendería",
+      "SPANISH": "Vendería",
       "ENGLISH": "I would sell"
     },
     "TU": {
-      "SPANISH": "venderías",
-      "ENGLISH": "you would sell"
+      "SPANISH": "Venderías",
+      "ENGLISH": "You would sell"
     },
     "EL": {
-      "SPANISH": "vendería",
-      "ENGLISH": "s/he would sell, you (formal) would sell"
+      "SPANISH": "Vendería",
+      "ENGLISH": "He would sell"
     },
     "ELLOS": {
-      "SPANISH": "venderían",
-      "ENGLISH": "they would sell, you (plural formal) would sell"
+      "SPANISH": "Venderían",
+      "ENGLISH": "They would sell"
     },
     "NOSOTROS": {
-      "SPANISH": "venderíamos",
-      "ENGLISH": "we would sell"
+      "SPANISH": "Venderíamos",
+      "ENGLISH": "We would sell"
     },
     "VOSOTROS": {
-      "SPANISH": "venderíais",
-      "ENGLISH": "you (plural) would sell"
+      "SPANISH": "Venderíais",
+      "ENGLISH": "You would sell"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría vendido",
+      "SPANISH": "Habría vendido",
       "ENGLISH": "I would have sold"
     },
     "TU": {
-      "SPANISH": "habrías vendido",
-      "ENGLISH": "you would have sold"
+      "SPANISH": "Habrías vendido",
+      "ENGLISH": "You would have sold"
     },
     "EL": {
-      "SPANISH": "habría vendido",
-      "ENGLISH": "s/he would have sold, you (formal) would have sold"
+      "SPANISH": "Habría vendido",
+      "ENGLISH": "He would have sold"
     },
     "ELLOS": {
-      "SPANISH": "habrían vendido",
-      "ENGLISH": "they would have sold, you (plural formal) would have sold"
+      "SPANISH": "Habrían vendido",
+      "ENGLISH": "They would have sold"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos vendido",
-      "ENGLISH": "we would have sold"
+      "SPANISH": "Habríamos vendido",
+      "ENGLISH": "We would have sold"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais vendido",
-      "ENGLISH": "you (plural) would have sold"
+      "SPANISH": "Habríais vendido",
+      "ENGLISH": "You would have sold"
     }
   }
 }

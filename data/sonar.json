@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "sueno ",
+      "SPANISH": "Sueno ",
       "ENGLISH": "I sound"
     },
     "TU": {
-      "SPANISH": "suenas ",
-      "ENGLISH": "you sound"
+      "SPANISH": "Suenas ",
+      "ENGLISH": "You sound"
     },
     "EL": {
-      "SPANISH": "suena ",
-      "ENGLISH": "s/he sounds, you (formal) sounds"
+      "SPANISH": "Suena ",
+      "ENGLISH": "He sounds"
     },
     "ELLOS": {
-      "SPANISH": "suenan ",
-      "ENGLISH": "they sound, you (plural formal) sound"
+      "SPANISH": "Suenan ",
+      "ENGLISH": "They sound"
     },
     "NOSOTROS": {
-      "SPANISH": "sonamos",
-      "ENGLISH": "we sound"
+      "SPANISH": "Sonamos",
+      "ENGLISH": "We sound"
     },
     "VOSOTROS": {
-      "SPANISH": "sonáis",
-      "ENGLISH": "you (plural) sound"
+      "SPANISH": "Sonáis",
+      "ENGLISH": "You sound"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he sonado",
+      "SPANISH": "He sonado",
       "ENGLISH": "I have sounded"
     },
     "TU": {
-      "SPANISH": "has sonado",
-      "ENGLISH": "you have sounded"
+      "SPANISH": "Has sonado",
+      "ENGLISH": "You have sounded"
     },
     "EL": {
-      "SPANISH": "ha sonado",
-      "ENGLISH": "s/he has sounded, you (formal) have sounded"
+      "SPANISH": "Ha sonado",
+      "ENGLISH": "He has sounded"
     },
     "ELLOS": {
-      "SPANISH": "han sonado",
-      "ENGLISH": "they have sounded, you (plural formal) have sounded"
+      "SPANISH": "Han sonado",
+      "ENGLISH": "They have sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos sonado",
-      "ENGLISH": "we have sounded"
+      "SPANISH": "Hemos sonado",
+      "ENGLISH": "We have sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis sonado",
-      "ENGLISH": "you (plural) have sounded"
+      "SPANISH": "Habéis sonado",
+      "ENGLISH": "You have sounded"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "soné",
+      "SPANISH": "Soné",
       "ENGLISH": "I sounded"
     },
     "TU": {
-      "SPANISH": "sonaste",
-      "ENGLISH": "you sounded"
+      "SPANISH": "Sonaste",
+      "ENGLISH": "You sounded"
     },
     "EL": {
-      "SPANISH": "sonó",
-      "ENGLISH": "s/he sounded, you (formal) sounded"
+      "SPANISH": "Sonó",
+      "ENGLISH": "He sounded"
     },
     "ELLOS": {
-      "SPANISH": "sonaron",
-      "ENGLISH": "they sounded, you (plural formal) sounded"
+      "SPANISH": "Sonaron",
+      "ENGLISH": "They sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "sonamos",
-      "ENGLISH": "we sounded"
+      "SPANISH": "Sonamos",
+      "ENGLISH": "We sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "sonasteis",
-      "ENGLISH": "you (plural) sounded"
+      "SPANISH": "Sonasteis",
+      "ENGLISH": "You sounded"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había sonado",
+      "SPANISH": "Había sonado",
       "ENGLISH": "I had sounded"
     },
     "TU": {
-      "SPANISH": "habías sonado",
-      "ENGLISH": "you had sounded"
+      "SPANISH": "Habías sonado",
+      "ENGLISH": "You had sounded"
     },
     "EL": {
-      "SPANISH": "había sonado",
-      "ENGLISH": "s/he had sounded, you (formal) had sounded"
+      "SPANISH": "Había sonado",
+      "ENGLISH": "He had sounded"
     },
     "ELLOS": {
-      "SPANISH": "habían sonado",
-      "ENGLISH": "they had sounded, you (plural formal) had sounded"
+      "SPANISH": "Habían sonado",
+      "ENGLISH": "They had sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos sonado",
-      "ENGLISH": "we had sounded"
+      "SPANISH": "Habíamos sonado",
+      "ENGLISH": "We had sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais sonado",
-      "ENGLISH": "you (plural) had sounded"
+      "SPANISH": "Habíais sonado",
+      "ENGLISH": "You had sounded"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "soné",
+      "SPANISH": "Soné",
       "ENGLISH": "I sounded"
     },
     "TU": {
-      "SPANISH": "sonaste",
-      "ENGLISH": "you sounded"
+      "SPANISH": "Sonaste",
+      "ENGLISH": "You sounded"
     },
     "EL": {
-      "SPANISH": "sonó",
-      "ENGLISH": "s/he sounded, you (formal) sounded"
+      "SPANISH": "Sonó",
+      "ENGLISH": "He sounded"
     },
     "ELLOS": {
-      "SPANISH": "sonaron",
-      "ENGLISH": "they sounded, you (plural formal) sounded"
+      "SPANISH": "Sonaron",
+      "ENGLISH": "They sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "sonamos",
-      "ENGLISH": "we sounded"
+      "SPANISH": "Sonamos",
+      "ENGLISH": "We sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "sonasteis",
-      "ENGLISH": "you (plural) sounded"
+      "SPANISH": "Sonasteis",
+      "ENGLISH": "You sounded"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "sonaré",
+      "SPANISH": "Sonaré",
       "ENGLISH": "I will sound"
     },
     "TU": {
-      "SPANISH": "sonarás",
-      "ENGLISH": "you will sound"
+      "SPANISH": "Sonarás",
+      "ENGLISH": "You will sound"
     },
     "EL": {
-      "SPANISH": "sonará",
-      "ENGLISH": "s/he will sound, you (formal) will sound"
+      "SPANISH": "Sonará",
+      "ENGLISH": "He will sound"
     },
     "ELLOS": {
-      "SPANISH": "sonarán",
-      "ENGLISH": "they will sound, you (plural formal) will sound"
+      "SPANISH": "Sonarán",
+      "ENGLISH": "They will sound"
     },
     "NOSOTROS": {
-      "SPANISH": "sonaremos",
-      "ENGLISH": "we will sound"
+      "SPANISH": "Sonaremos",
+      "ENGLISH": "We will sound"
     },
     "VOSOTROS": {
-      "SPANISH": "sonaréis",
-      "ENGLISH": "you (plural) will sound"
+      "SPANISH": "Sonaréis",
+      "ENGLISH": "You will sound"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré sonado",
+      "SPANISH": "Habré sonado",
       "ENGLISH": "I will have sounded"
     },
     "TU": {
-      "SPANISH": "habrás sonado",
-      "ENGLISH": "you will have sounded"
+      "SPANISH": "Habrás sonado",
+      "ENGLISH": "You will have sounded"
     },
     "EL": {
-      "SPANISH": "habrá sonado",
-      "ENGLISH": "s/he will have sounded, you (formal) will have sounded"
+      "SPANISH": "Habrá sonado",
+      "ENGLISH": "He will have sounded"
     },
     "ELLOS": {
-      "SPANISH": "habrán sonado",
-      "ENGLISH": "they will have sounded, you (plural formal) will have sounded"
+      "SPANISH": "Habrán sonado",
+      "ENGLISH": "They will have sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos sonado",
-      "ENGLISH": "we will have sounded"
+      "SPANISH": "Habremos sonado",
+      "ENGLISH": "We will have sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis sonado",
-      "ENGLISH": "you (plural) will have sounded"
+      "SPANISH": "Habréis sonado",
+      "ENGLISH": "You will have sounded"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "sonaría",
+      "SPANISH": "Sonaría",
       "ENGLISH": "I would sound"
     },
     "TU": {
-      "SPANISH": "sonarías",
-      "ENGLISH": "you would sound"
+      "SPANISH": "Sonarías",
+      "ENGLISH": "You would sound"
     },
     "EL": {
-      "SPANISH": "sonaría",
-      "ENGLISH": "s/he would sound, you (formal) would sound"
+      "SPANISH": "Sonaría",
+      "ENGLISH": "He would sound"
     },
     "ELLOS": {
-      "SPANISH": "sonarían",
-      "ENGLISH": "they would sound, you (plural formal) would sound"
+      "SPANISH": "Sonarían",
+      "ENGLISH": "They would sound"
     },
     "NOSOTROS": {
-      "SPANISH": "sonaríamos",
-      "ENGLISH": "we would sound"
+      "SPANISH": "Sonaríamos",
+      "ENGLISH": "We would sound"
     },
     "VOSOTROS": {
-      "SPANISH": "sonaríais",
-      "ENGLISH": "you (plural) would sound"
+      "SPANISH": "Sonaríais",
+      "ENGLISH": "You would sound"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría sonado",
+      "SPANISH": "Habría sonado",
       "ENGLISH": "I would have sounded"
     },
     "TU": {
-      "SPANISH": "habrías sonado",
-      "ENGLISH": "you would have sounded"
+      "SPANISH": "Habrías sonado",
+      "ENGLISH": "You would have sounded"
     },
     "EL": {
-      "SPANISH": "habría sonado",
-      "ENGLISH": "s/he would have sounded, you (formal) would have sounded"
+      "SPANISH": "Habría sonado",
+      "ENGLISH": "He would have sounded"
     },
     "ELLOS": {
-      "SPANISH": "habrían sonado",
-      "ENGLISH": "they would have sounded, you (plural formal) would have sounded"
+      "SPANISH": "Habrían sonado",
+      "ENGLISH": "They would have sounded"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos sonado",
-      "ENGLISH": "we would have sounded"
+      "SPANISH": "Habríamos sonado",
+      "ENGLISH": "We would have sounded"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais sonado",
-      "ENGLISH": "you (plural) would have sounded"
+      "SPANISH": "Habríais sonado",
+      "ENGLISH": "You would have sounded"
     }
   }
 }

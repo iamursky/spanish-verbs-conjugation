@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dedico",
+      "SPANISH": "Dedico",
       "ENGLISH": "I devote"
     },
     "TU": {
-      "SPANISH": "dedicas",
-      "ENGLISH": "you devote"
+      "SPANISH": "Dedicas",
+      "ENGLISH": "You devote"
     },
     "EL": {
-      "SPANISH": "dedica",
-      "ENGLISH": "s/he devotes, you (formal) devotes"
+      "SPANISH": "Dedica",
+      "ENGLISH": "He devotes"
     },
     "ELLOS": {
-      "SPANISH": "dedican",
-      "ENGLISH": "they devote, you (plural formal) devote"
+      "SPANISH": "Dedican",
+      "ENGLISH": "They devote"
     },
     "NOSOTROS": {
-      "SPANISH": "dedicamos",
-      "ENGLISH": "we devote"
+      "SPANISH": "Dedicamos",
+      "ENGLISH": "We devote"
     },
     "VOSOTROS": {
-      "SPANISH": "dedicáis",
-      "ENGLISH": "you (plural) devote"
+      "SPANISH": "Dedicáis",
+      "ENGLISH": "You devote"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dedicado",
+      "SPANISH": "He dedicado",
       "ENGLISH": "I have devoted"
     },
     "TU": {
-      "SPANISH": "has dedicado",
-      "ENGLISH": "you have devoted"
+      "SPANISH": "Has dedicado",
+      "ENGLISH": "You have devoted"
     },
     "EL": {
-      "SPANISH": "ha dedicado",
-      "ENGLISH": "s/he has devoted, you (formal) have devoted"
+      "SPANISH": "Ha dedicado",
+      "ENGLISH": "He has devoted"
     },
     "ELLOS": {
-      "SPANISH": "han dedicado",
-      "ENGLISH": "they have devoted, you (plural formal) have devoted"
+      "SPANISH": "Han dedicado",
+      "ENGLISH": "They have devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dedicado",
-      "ENGLISH": "we have devoted"
+      "SPANISH": "Hemos dedicado",
+      "ENGLISH": "We have devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dedicado",
-      "ENGLISH": "you (plural) have devoted"
+      "SPANISH": "Habéis dedicado",
+      "ENGLISH": "You have devoted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dediqué ",
+      "SPANISH": "Dediqué ",
       "ENGLISH": "I devoted"
     },
     "TU": {
-      "SPANISH": "dedicaste",
-      "ENGLISH": "you devoted"
+      "SPANISH": "Dedicaste",
+      "ENGLISH": "You devoted"
     },
     "EL": {
-      "SPANISH": "dedicó",
-      "ENGLISH": "s/he devoted, you (formal) devoted"
+      "SPANISH": "Dedicó",
+      "ENGLISH": "He devoted"
     },
     "ELLOS": {
-      "SPANISH": "dedicaron",
-      "ENGLISH": "they devoted, you (plural formal) devoted"
+      "SPANISH": "Dedicaron",
+      "ENGLISH": "They devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "dedicamos",
-      "ENGLISH": "we devoted"
+      "SPANISH": "Dedicamos",
+      "ENGLISH": "We devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "dedicasteis",
-      "ENGLISH": "you (plural) devoted"
+      "SPANISH": "Dedicasteis",
+      "ENGLISH": "You devoted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dedicado",
+      "SPANISH": "Había dedicado",
       "ENGLISH": "I had devoted"
     },
     "TU": {
-      "SPANISH": "habías dedicado",
-      "ENGLISH": "you had devoted"
+      "SPANISH": "Habías dedicado",
+      "ENGLISH": "You had devoted"
     },
     "EL": {
-      "SPANISH": "había dedicado",
-      "ENGLISH": "s/he had devoted, you (formal) had devoted"
+      "SPANISH": "Había dedicado",
+      "ENGLISH": "He had devoted"
     },
     "ELLOS": {
-      "SPANISH": "habían dedicado",
-      "ENGLISH": "they had devoted, you (plural formal) had devoted"
+      "SPANISH": "Habían dedicado",
+      "ENGLISH": "They had devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dedicado",
-      "ENGLISH": "we had devoted"
+      "SPANISH": "Habíamos dedicado",
+      "ENGLISH": "We had devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dedicado",
-      "ENGLISH": "you (plural) had devoted"
+      "SPANISH": "Habíais dedicado",
+      "ENGLISH": "You had devoted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dediqué ",
+      "SPANISH": "Dediqué ",
       "ENGLISH": "I devoted"
     },
     "TU": {
-      "SPANISH": "dedicaste",
-      "ENGLISH": "you devoted"
+      "SPANISH": "Dedicaste",
+      "ENGLISH": "You devoted"
     },
     "EL": {
-      "SPANISH": "dedicó",
-      "ENGLISH": "s/he devoted, you (formal) devoted"
+      "SPANISH": "Dedicó",
+      "ENGLISH": "He devoted"
     },
     "ELLOS": {
-      "SPANISH": "dedicaron",
-      "ENGLISH": "they devoted, you (plural formal) devoted"
+      "SPANISH": "Dedicaron",
+      "ENGLISH": "They devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "dedicamos",
-      "ENGLISH": "we devoted"
+      "SPANISH": "Dedicamos",
+      "ENGLISH": "We devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "dedicasteis",
-      "ENGLISH": "you (plural) devoted"
+      "SPANISH": "Dedicasteis",
+      "ENGLISH": "You devoted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dedicaré",
+      "SPANISH": "Dedicaré",
       "ENGLISH": "I will devote"
     },
     "TU": {
-      "SPANISH": "dedicarás",
-      "ENGLISH": "you will devote"
+      "SPANISH": "Dedicarás",
+      "ENGLISH": "You will devote"
     },
     "EL": {
-      "SPANISH": "dedicará",
-      "ENGLISH": "s/he will devote, you (formal) will devote"
+      "SPANISH": "Dedicará",
+      "ENGLISH": "He will devote"
     },
     "ELLOS": {
-      "SPANISH": "dedicarán",
-      "ENGLISH": "they will devote, you (plural formal) will devote"
+      "SPANISH": "Dedicarán",
+      "ENGLISH": "They will devote"
     },
     "NOSOTROS": {
-      "SPANISH": "dedicaremos",
-      "ENGLISH": "we will devote"
+      "SPANISH": "Dedicaremos",
+      "ENGLISH": "We will devote"
     },
     "VOSOTROS": {
-      "SPANISH": "dedicaréis",
-      "ENGLISH": "you (plural) will devote"
+      "SPANISH": "Dedicaréis",
+      "ENGLISH": "You will devote"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dedicado",
+      "SPANISH": "Habré dedicado",
       "ENGLISH": "I will have devoted"
     },
     "TU": {
-      "SPANISH": "habrás dedicado",
-      "ENGLISH": "you will have devoted"
+      "SPANISH": "Habrás dedicado",
+      "ENGLISH": "You will have devoted"
     },
     "EL": {
-      "SPANISH": "habrá dedicado",
-      "ENGLISH": "s/he will have devoted, you (formal) will have devoted"
+      "SPANISH": "Habrá dedicado",
+      "ENGLISH": "He will have devoted"
     },
     "ELLOS": {
-      "SPANISH": "habrán dedicado",
-      "ENGLISH": "they will have devoted, you (plural formal) will have devoted"
+      "SPANISH": "Habrán dedicado",
+      "ENGLISH": "They will have devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dedicado",
-      "ENGLISH": "we will have devoted"
+      "SPANISH": "Habremos dedicado",
+      "ENGLISH": "We will have devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dedicado",
-      "ENGLISH": "you (plural) will have devoted"
+      "SPANISH": "Habréis dedicado",
+      "ENGLISH": "You will have devoted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dedicaría",
+      "SPANISH": "Dedicaría",
       "ENGLISH": "I would devote"
     },
     "TU": {
-      "SPANISH": "dedicarías",
-      "ENGLISH": "you would devote"
+      "SPANISH": "Dedicarías",
+      "ENGLISH": "You would devote"
     },
     "EL": {
-      "SPANISH": "dedicaría",
-      "ENGLISH": "s/he would devote, you (formal) would devote"
+      "SPANISH": "Dedicaría",
+      "ENGLISH": "He would devote"
     },
     "ELLOS": {
-      "SPANISH": "dedicarían",
-      "ENGLISH": "they would devote, you (plural formal) would devote"
+      "SPANISH": "Dedicarían",
+      "ENGLISH": "They would devote"
     },
     "NOSOTROS": {
-      "SPANISH": "dedicaríamos",
-      "ENGLISH": "we would devote"
+      "SPANISH": "Dedicaríamos",
+      "ENGLISH": "We would devote"
     },
     "VOSOTROS": {
-      "SPANISH": "dedicaríais",
-      "ENGLISH": "you (plural) would devote"
+      "SPANISH": "Dedicaríais",
+      "ENGLISH": "You would devote"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dedicado",
+      "SPANISH": "Habría dedicado",
       "ENGLISH": "I would have devoted"
     },
     "TU": {
-      "SPANISH": "habrías dedicado",
-      "ENGLISH": "you would have devoted"
+      "SPANISH": "Habrías dedicado",
+      "ENGLISH": "You would have devoted"
     },
     "EL": {
-      "SPANISH": "habría dedicado",
-      "ENGLISH": "s/he would have devoted, you (formal) would have devoted"
+      "SPANISH": "Habría dedicado",
+      "ENGLISH": "He would have devoted"
     },
     "ELLOS": {
-      "SPANISH": "habrían dedicado",
-      "ENGLISH": "they would have devoted, you (plural formal) would have devoted"
+      "SPANISH": "Habrían dedicado",
+      "ENGLISH": "They would have devoted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dedicado",
-      "ENGLISH": "we would have devoted"
+      "SPANISH": "Habríamos dedicado",
+      "ENGLISH": "We would have devoted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dedicado",
-      "ENGLISH": "you (plural) would have devoted"
+      "SPANISH": "Habríais dedicado",
+      "ENGLISH": "You would have devoted"
     }
   }
 }

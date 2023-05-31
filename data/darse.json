@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me doy ",
+      "SPANISH": "Me doy ",
       "ENGLISH": "I give"
     },
     "TU": {
-      "SPANISH": "te das",
-      "ENGLISH": "you give"
+      "SPANISH": "Te das",
+      "ENGLISH": "You give"
     },
     "EL": {
-      "SPANISH": "se da",
-      "ENGLISH": "s/he gives, you (formal) gives"
+      "SPANISH": "Se da",
+      "ENGLISH": "He gives"
     },
     "ELLOS": {
-      "SPANISH": "se dan",
-      "ENGLISH": "they give, you (plural formal) give"
+      "SPANISH": "Se dan",
+      "ENGLISH": "They give"
     },
     "NOSOTROS": {
-      "SPANISH": "nos damos",
-      "ENGLISH": "we give"
+      "SPANISH": "Nos damos",
+      "ENGLISH": "We give"
     },
     "VOSOTROS": {
-      "SPANISH": "os dais ",
-      "ENGLISH": "you (plural) give"
+      "SPANISH": "Os dais ",
+      "ENGLISH": "You give"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he dado",
+      "SPANISH": "Me he dado",
       "ENGLISH": "I have given"
     },
     "TU": {
-      "SPANISH": "te has dado",
-      "ENGLISH": "you have given"
+      "SPANISH": "Te has dado",
+      "ENGLISH": "You have given"
     },
     "EL": {
-      "SPANISH": "se ha dado",
-      "ENGLISH": "s/he has given, you (formal) have given"
+      "SPANISH": "Se ha dado",
+      "ENGLISH": "He has given"
     },
     "ELLOS": {
-      "SPANISH": "se han dado",
-      "ENGLISH": "they have given, you (plural formal) have given"
+      "SPANISH": "Se han dado",
+      "ENGLISH": "They have given"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos dado",
-      "ENGLISH": "we have given"
+      "SPANISH": "Nos hemos dado",
+      "ENGLISH": "We have given"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis dado",
-      "ENGLISH": "you (plural) have given"
+      "SPANISH": "Os habéis dado",
+      "ENGLISH": "You have given"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me di ",
+      "SPANISH": "Me di ",
       "ENGLISH": "I gave"
     },
     "TU": {
-      "SPANISH": "te diste ",
-      "ENGLISH": "you gave"
+      "SPANISH": "Te diste ",
+      "ENGLISH": "You gave"
     },
     "EL": {
-      "SPANISH": "se dio ",
-      "ENGLISH": "s/he gave, you (formal) gave"
+      "SPANISH": "Se dio ",
+      "ENGLISH": "He gave"
     },
     "ELLOS": {
-      "SPANISH": "se dieron ",
-      "ENGLISH": "they gave, you (plural formal) gave"
+      "SPANISH": "Se dieron ",
+      "ENGLISH": "They gave"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dimos ",
-      "ENGLISH": "we gave"
+      "SPANISH": "Nos dimos ",
+      "ENGLISH": "We gave"
     },
     "VOSOTROS": {
-      "SPANISH": "os disteis ",
-      "ENGLISH": "you (plural) gave"
+      "SPANISH": "Os disteis ",
+      "ENGLISH": "You gave"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había dado",
+      "SPANISH": "Me había dado",
       "ENGLISH": "I had given"
     },
     "TU": {
-      "SPANISH": "te habías dado",
-      "ENGLISH": "you had given"
+      "SPANISH": "Te habías dado",
+      "ENGLISH": "You had given"
     },
     "EL": {
-      "SPANISH": "se había dado",
-      "ENGLISH": "s/he had given, you (formal) had given"
+      "SPANISH": "Se había dado",
+      "ENGLISH": "He had given"
     },
     "ELLOS": {
-      "SPANISH": "se habían dado",
-      "ENGLISH": "they had given, you (plural formal) had given"
+      "SPANISH": "Se habían dado",
+      "ENGLISH": "They had given"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos dado",
-      "ENGLISH": "we had given"
+      "SPANISH": "Nos habíamos dado",
+      "ENGLISH": "We had given"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais dado",
-      "ENGLISH": "you (plural) had given"
+      "SPANISH": "Os habíais dado",
+      "ENGLISH": "You had given"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me di ",
+      "SPANISH": "Me di ",
       "ENGLISH": "I gave"
     },
     "TU": {
-      "SPANISH": "te diste ",
-      "ENGLISH": "you gave"
+      "SPANISH": "Te diste ",
+      "ENGLISH": "You gave"
     },
     "EL": {
-      "SPANISH": "se dio ",
-      "ENGLISH": "s/he gave, you (formal) gave"
+      "SPANISH": "Se dio ",
+      "ENGLISH": "He gave"
     },
     "ELLOS": {
-      "SPANISH": "se dieron ",
-      "ENGLISH": "they gave, you (plural formal) gave"
+      "SPANISH": "Se dieron ",
+      "ENGLISH": "They gave"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dimos ",
-      "ENGLISH": "we gave"
+      "SPANISH": "Nos dimos ",
+      "ENGLISH": "We gave"
     },
     "VOSOTROS": {
-      "SPANISH": "os disteis ",
-      "ENGLISH": "you (plural) gave"
+      "SPANISH": "Os disteis ",
+      "ENGLISH": "You gave"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me daré",
+      "SPANISH": "Me daré",
       "ENGLISH": "I will give"
     },
     "TU": {
-      "SPANISH": "te darás",
-      "ENGLISH": "you will give"
+      "SPANISH": "Te darás",
+      "ENGLISH": "You will give"
     },
     "EL": {
-      "SPANISH": "se dará",
-      "ENGLISH": "s/he will give, you (formal) will give"
+      "SPANISH": "Se dará",
+      "ENGLISH": "He will give"
     },
     "ELLOS": {
-      "SPANISH": "se darán",
-      "ENGLISH": "they will give, you (plural formal) will give"
+      "SPANISH": "Se darán",
+      "ENGLISH": "They will give"
     },
     "NOSOTROS": {
-      "SPANISH": "nos daremos",
-      "ENGLISH": "we will give"
+      "SPANISH": "Nos daremos",
+      "ENGLISH": "We will give"
     },
     "VOSOTROS": {
-      "SPANISH": "os daréis",
-      "ENGLISH": "you (plural) will give"
+      "SPANISH": "Os daréis",
+      "ENGLISH": "You will give"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré dado",
+      "SPANISH": "Me habré dado",
       "ENGLISH": "I will have given"
     },
     "TU": {
-      "SPANISH": "te habrás dado",
-      "ENGLISH": "you will have given"
+      "SPANISH": "Te habrás dado",
+      "ENGLISH": "You will have given"
     },
     "EL": {
-      "SPANISH": "se habrá dado",
-      "ENGLISH": "s/he will have given, you (formal) will have given"
+      "SPANISH": "Se habrá dado",
+      "ENGLISH": "He will have given"
     },
     "ELLOS": {
-      "SPANISH": "se habrán dado",
-      "ENGLISH": "they will have given, you (plural formal) will have given"
+      "SPANISH": "Se habrán dado",
+      "ENGLISH": "They will have given"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos dado",
-      "ENGLISH": "we will have given"
+      "SPANISH": "Nos habremos dado",
+      "ENGLISH": "We will have given"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis dado",
-      "ENGLISH": "you (plural) will have given"
+      "SPANISH": "Os habréis dado",
+      "ENGLISH": "You will have given"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me daría",
+      "SPANISH": "Me daría",
       "ENGLISH": "I would give"
     },
     "TU": {
-      "SPANISH": "te darías",
-      "ENGLISH": "you would give"
+      "SPANISH": "Te darías",
+      "ENGLISH": "You would give"
     },
     "EL": {
-      "SPANISH": "se daría",
-      "ENGLISH": "s/he would give, you (formal) would give"
+      "SPANISH": "Se daría",
+      "ENGLISH": "He would give"
     },
     "ELLOS": {
-      "SPANISH": "se darían",
-      "ENGLISH": "they would give, you (plural formal) would give"
+      "SPANISH": "Se darían",
+      "ENGLISH": "They would give"
     },
     "NOSOTROS": {
-      "SPANISH": "nos daríamos",
-      "ENGLISH": "we would give"
+      "SPANISH": "Nos daríamos",
+      "ENGLISH": "We would give"
     },
     "VOSOTROS": {
-      "SPANISH": "os daríais",
-      "ENGLISH": "you (plural) would give"
+      "SPANISH": "Os daríais",
+      "ENGLISH": "You would give"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría dado",
+      "SPANISH": "Me habría dado",
       "ENGLISH": "I would have given"
     },
     "TU": {
-      "SPANISH": "te habrías dado",
-      "ENGLISH": "you would have given"
+      "SPANISH": "Te habrías dado",
+      "ENGLISH": "You would have given"
     },
     "EL": {
-      "SPANISH": "se habría dado",
-      "ENGLISH": "s/he would have given, you (formal) would have given"
+      "SPANISH": "Se habría dado",
+      "ENGLISH": "He would have given"
     },
     "ELLOS": {
-      "SPANISH": "se habrían dado",
-      "ENGLISH": "they would have given, you (plural formal) would have given"
+      "SPANISH": "Se habrían dado",
+      "ENGLISH": "They would have given"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos dado",
-      "ENGLISH": "we would have given"
+      "SPANISH": "Nos habríamos dado",
+      "ENGLISH": "We would have given"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais dado",
-      "ENGLISH": "you (plural) would have given"
+      "SPANISH": "Os habríais dado",
+      "ENGLISH": "You would have given"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "tomo",
+      "SPANISH": "Tomo",
       "ENGLISH": "I drink"
     },
     "TU": {
-      "SPANISH": "tomas",
-      "ENGLISH": "you drink"
+      "SPANISH": "Tomas",
+      "ENGLISH": "You drink"
     },
     "EL": {
-      "SPANISH": "toma",
-      "ENGLISH": "s/he drinks, you (formal) drinks"
+      "SPANISH": "Toma",
+      "ENGLISH": "He drinks"
     },
     "ELLOS": {
-      "SPANISH": "toman",
-      "ENGLISH": "they drink, you (plural formal) drink"
+      "SPANISH": "Toman",
+      "ENGLISH": "They drink"
     },
     "NOSOTROS": {
-      "SPANISH": "tomamos",
-      "ENGLISH": "we drink"
+      "SPANISH": "Tomamos",
+      "ENGLISH": "We drink"
     },
     "VOSOTROS": {
-      "SPANISH": "tomáis",
-      "ENGLISH": "you (plural) drink"
+      "SPANISH": "Tomáis",
+      "ENGLISH": "You drink"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he tomado",
+      "SPANISH": "He tomado",
       "ENGLISH": "I have drunk"
     },
     "TU": {
-      "SPANISH": "has tomado",
-      "ENGLISH": "you have drunk"
+      "SPANISH": "Has tomado",
+      "ENGLISH": "You have drunk"
     },
     "EL": {
-      "SPANISH": "ha tomado",
-      "ENGLISH": "s/he has drunk, you (formal) have drunk"
+      "SPANISH": "Ha tomado",
+      "ENGLISH": "He has drunk"
     },
     "ELLOS": {
-      "SPANISH": "han tomado",
-      "ENGLISH": "they have drunk, you (plural formal) have drunk"
+      "SPANISH": "Han tomado",
+      "ENGLISH": "They have drunk"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos tomado",
-      "ENGLISH": "we have drunk"
+      "SPANISH": "Hemos tomado",
+      "ENGLISH": "We have drunk"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis tomado",
-      "ENGLISH": "you (plural) have drunk"
+      "SPANISH": "Habéis tomado",
+      "ENGLISH": "You have drunk"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "tomé",
+      "SPANISH": "Tomé",
       "ENGLISH": "I drank"
     },
     "TU": {
-      "SPANISH": "tomaste",
-      "ENGLISH": "you drank"
+      "SPANISH": "Tomaste",
+      "ENGLISH": "You drank"
     },
     "EL": {
-      "SPANISH": "tomó",
-      "ENGLISH": "s/he drank, you (formal) drank"
+      "SPANISH": "Tomó",
+      "ENGLISH": "He drank"
     },
     "ELLOS": {
-      "SPANISH": "tomaron",
-      "ENGLISH": "they drank, you (plural formal) drank"
+      "SPANISH": "Tomaron",
+      "ENGLISH": "They drank"
     },
     "NOSOTROS": {
-      "SPANISH": "tomamos",
-      "ENGLISH": "we drank"
+      "SPANISH": "Tomamos",
+      "ENGLISH": "We drank"
     },
     "VOSOTROS": {
-      "SPANISH": "tomasteis",
-      "ENGLISH": "you (plural) drank"
+      "SPANISH": "Tomasteis",
+      "ENGLISH": "You drank"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había tomado",
+      "SPANISH": "Había tomado",
       "ENGLISH": "I had drunk"
     },
     "TU": {
-      "SPANISH": "habías tomado",
-      "ENGLISH": "you had drunk"
+      "SPANISH": "Habías tomado",
+      "ENGLISH": "You had drunk"
     },
     "EL": {
-      "SPANISH": "había tomado",
-      "ENGLISH": "s/he had drunk, you (formal) had drunk"
+      "SPANISH": "Había tomado",
+      "ENGLISH": "He had drunk"
     },
     "ELLOS": {
-      "SPANISH": "habían tomado",
-      "ENGLISH": "they had drunk, you (plural formal) had drunk"
+      "SPANISH": "Habían tomado",
+      "ENGLISH": "They had drunk"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos tomado",
-      "ENGLISH": "we had drunk"
+      "SPANISH": "Habíamos tomado",
+      "ENGLISH": "We had drunk"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais tomado",
-      "ENGLISH": "you (plural) had drunk"
+      "SPANISH": "Habíais tomado",
+      "ENGLISH": "You had drunk"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "tomé",
+      "SPANISH": "Tomé",
       "ENGLISH": "I drank"
     },
     "TU": {
-      "SPANISH": "tomaste",
-      "ENGLISH": "you drank"
+      "SPANISH": "Tomaste",
+      "ENGLISH": "You drank"
     },
     "EL": {
-      "SPANISH": "tomó",
-      "ENGLISH": "s/he drank, you (formal) drank"
+      "SPANISH": "Tomó",
+      "ENGLISH": "He drank"
     },
     "ELLOS": {
-      "SPANISH": "tomaron",
-      "ENGLISH": "they drank, you (plural formal) drank"
+      "SPANISH": "Tomaron",
+      "ENGLISH": "They drank"
     },
     "NOSOTROS": {
-      "SPANISH": "tomamos",
-      "ENGLISH": "we drank"
+      "SPANISH": "Tomamos",
+      "ENGLISH": "We drank"
     },
     "VOSOTROS": {
-      "SPANISH": "tomasteis",
-      "ENGLISH": "you (plural) drank"
+      "SPANISH": "Tomasteis",
+      "ENGLISH": "You drank"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "tomaré",
+      "SPANISH": "Tomaré",
       "ENGLISH": "I will drink"
     },
     "TU": {
-      "SPANISH": "tomarás",
-      "ENGLISH": "you will drink"
+      "SPANISH": "Tomarás",
+      "ENGLISH": "You will drink"
     },
     "EL": {
-      "SPANISH": "tomará",
-      "ENGLISH": "s/he will drink, you (formal) will drink"
+      "SPANISH": "Tomará",
+      "ENGLISH": "He will drink"
     },
     "ELLOS": {
-      "SPANISH": "tomarán",
-      "ENGLISH": "they will drink, you (plural formal) will drink"
+      "SPANISH": "Tomarán",
+      "ENGLISH": "They will drink"
     },
     "NOSOTROS": {
-      "SPANISH": "tomaremos",
-      "ENGLISH": "we will drink"
+      "SPANISH": "Tomaremos",
+      "ENGLISH": "We will drink"
     },
     "VOSOTROS": {
-      "SPANISH": "tomaréis",
-      "ENGLISH": "you (plural) will drink"
+      "SPANISH": "Tomaréis",
+      "ENGLISH": "You will drink"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré tomado",
+      "SPANISH": "Habré tomado",
       "ENGLISH": "I will have drunk"
     },
     "TU": {
-      "SPANISH": "habrás tomado",
-      "ENGLISH": "you will have drunk"
+      "SPANISH": "Habrás tomado",
+      "ENGLISH": "You will have drunk"
     },
     "EL": {
-      "SPANISH": "habrá tomado",
-      "ENGLISH": "s/he will have drunk, you (formal) will have drunk"
+      "SPANISH": "Habrá tomado",
+      "ENGLISH": "He will have drunk"
     },
     "ELLOS": {
-      "SPANISH": "habrán tomado",
-      "ENGLISH": "they will have drunk, you (plural formal) will have drunk"
+      "SPANISH": "Habrán tomado",
+      "ENGLISH": "They will have drunk"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos tomado",
-      "ENGLISH": "we will have drunk"
+      "SPANISH": "Habremos tomado",
+      "ENGLISH": "We will have drunk"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis tomado",
-      "ENGLISH": "you (plural) will have drunk"
+      "SPANISH": "Habréis tomado",
+      "ENGLISH": "You will have drunk"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "tomaría",
+      "SPANISH": "Tomaría",
       "ENGLISH": "I would drink"
     },
     "TU": {
-      "SPANISH": "tomarías",
-      "ENGLISH": "you would drink"
+      "SPANISH": "Tomarías",
+      "ENGLISH": "You would drink"
     },
     "EL": {
-      "SPANISH": "tomaría",
-      "ENGLISH": "s/he would drink, you (formal) would drink"
+      "SPANISH": "Tomaría",
+      "ENGLISH": "He would drink"
     },
     "ELLOS": {
-      "SPANISH": "tomarían",
-      "ENGLISH": "they would drink, you (plural formal) would drink"
+      "SPANISH": "Tomarían",
+      "ENGLISH": "They would drink"
     },
     "NOSOTROS": {
-      "SPANISH": "tomaríamos",
-      "ENGLISH": "we would drink"
+      "SPANISH": "Tomaríamos",
+      "ENGLISH": "We would drink"
     },
     "VOSOTROS": {
-      "SPANISH": "tomaríais",
-      "ENGLISH": "you (plural) would drink"
+      "SPANISH": "Tomaríais",
+      "ENGLISH": "You would drink"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría tomado",
+      "SPANISH": "Habría tomado",
       "ENGLISH": "I would have drunk"
     },
     "TU": {
-      "SPANISH": "habrías tomado",
-      "ENGLISH": "you would have drunk"
+      "SPANISH": "Habrías tomado",
+      "ENGLISH": "You would have drunk"
     },
     "EL": {
-      "SPANISH": "habría tomado",
-      "ENGLISH": "s/he would have drunk, you (formal) would have drunk"
+      "SPANISH": "Habría tomado",
+      "ENGLISH": "He would have drunk"
     },
     "ELLOS": {
-      "SPANISH": "habrían tomado",
-      "ENGLISH": "they would have drunk, you (plural formal) would have drunk"
+      "SPANISH": "Habrían tomado",
+      "ENGLISH": "They would have drunk"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos tomado",
-      "ENGLISH": "we would have drunk"
+      "SPANISH": "Habríamos tomado",
+      "ENGLISH": "We would have drunk"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais tomado",
-      "ENGLISH": "you (plural) would have drunk"
+      "SPANISH": "Habríais tomado",
+      "ENGLISH": "You would have drunk"
     }
   }
 }

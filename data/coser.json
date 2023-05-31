@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "coso",
+      "SPANISH": "Coso",
       "ENGLISH": "I sew"
     },
     "TU": {
-      "SPANISH": "coses",
-      "ENGLISH": "you sew"
+      "SPANISH": "Coses",
+      "ENGLISH": "You sew"
     },
     "EL": {
-      "SPANISH": "cose",
-      "ENGLISH": "s/he sews, you (formal) sews"
+      "SPANISH": "Cose",
+      "ENGLISH": "He sews"
     },
     "ELLOS": {
-      "SPANISH": "cosen",
-      "ENGLISH": "they sew, you (plural formal) sew"
+      "SPANISH": "Cosen",
+      "ENGLISH": "They sew"
     },
     "NOSOTROS": {
-      "SPANISH": "cosemos",
-      "ENGLISH": "we sew"
+      "SPANISH": "Cosemos",
+      "ENGLISH": "We sew"
     },
     "VOSOTROS": {
-      "SPANISH": "coséis",
-      "ENGLISH": "you (plural) sew"
+      "SPANISH": "Coséis",
+      "ENGLISH": "You sew"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cosido",
+      "SPANISH": "He cosido",
       "ENGLISH": "I have sewn"
     },
     "TU": {
-      "SPANISH": "has cosido",
-      "ENGLISH": "you have sewn"
+      "SPANISH": "Has cosido",
+      "ENGLISH": "You have sewn"
     },
     "EL": {
-      "SPANISH": "ha cosido",
-      "ENGLISH": "s/he has sewn, you (formal) have sewn"
+      "SPANISH": "Ha cosido",
+      "ENGLISH": "He has sewn"
     },
     "ELLOS": {
-      "SPANISH": "han cosido",
-      "ENGLISH": "they have sewn, you (plural formal) have sewn"
+      "SPANISH": "Han cosido",
+      "ENGLISH": "They have sewn"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cosido",
-      "ENGLISH": "we have sewn"
+      "SPANISH": "Hemos cosido",
+      "ENGLISH": "We have sewn"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cosido",
-      "ENGLISH": "you (plural) have sewn"
+      "SPANISH": "Habéis cosido",
+      "ENGLISH": "You have sewn"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cosí",
+      "SPANISH": "Cosí",
       "ENGLISH": "I sewed"
     },
     "TU": {
-      "SPANISH": "cosiste",
-      "ENGLISH": "you sewed"
+      "SPANISH": "Cosiste",
+      "ENGLISH": "You sewed"
     },
     "EL": {
-      "SPANISH": "cosió",
-      "ENGLISH": "s/he sewed, you (formal) sewed"
+      "SPANISH": "Cosió",
+      "ENGLISH": "He sewed"
     },
     "ELLOS": {
-      "SPANISH": "cosieron",
-      "ENGLISH": "they sewed, you (plural formal) sewed"
+      "SPANISH": "Cosieron",
+      "ENGLISH": "They sewed"
     },
     "NOSOTROS": {
-      "SPANISH": "cosimos",
-      "ENGLISH": "we sewed"
+      "SPANISH": "Cosimos",
+      "ENGLISH": "We sewed"
     },
     "VOSOTROS": {
-      "SPANISH": "cosisteis",
-      "ENGLISH": "you (plural) sewed"
+      "SPANISH": "Cosisteis",
+      "ENGLISH": "You sewed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cosido",
+      "SPANISH": "Había cosido",
       "ENGLISH": "I had sewn"
     },
     "TU": {
-      "SPANISH": "habías cosido",
-      "ENGLISH": "you had sewn"
+      "SPANISH": "Habías cosido",
+      "ENGLISH": "You had sewn"
     },
     "EL": {
-      "SPANISH": "había cosido",
-      "ENGLISH": "s/he had sewn, you (formal) had sewn"
+      "SPANISH": "Había cosido",
+      "ENGLISH": "He had sewn"
     },
     "ELLOS": {
-      "SPANISH": "habían cosido",
-      "ENGLISH": "they had sewn, you (plural formal) had sewn"
+      "SPANISH": "Habían cosido",
+      "ENGLISH": "They had sewn"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cosido",
-      "ENGLISH": "we had sewn"
+      "SPANISH": "Habíamos cosido",
+      "ENGLISH": "We had sewn"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cosido",
-      "ENGLISH": "you (plural) had sewn"
+      "SPANISH": "Habíais cosido",
+      "ENGLISH": "You had sewn"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cosí",
+      "SPANISH": "Cosí",
       "ENGLISH": "I sewed"
     },
     "TU": {
-      "SPANISH": "cosiste",
-      "ENGLISH": "you sewed"
+      "SPANISH": "Cosiste",
+      "ENGLISH": "You sewed"
     },
     "EL": {
-      "SPANISH": "cosió",
-      "ENGLISH": "s/he sewed, you (formal) sewed"
+      "SPANISH": "Cosió",
+      "ENGLISH": "He sewed"
     },
     "ELLOS": {
-      "SPANISH": "cosieron",
-      "ENGLISH": "they sewed, you (plural formal) sewed"
+      "SPANISH": "Cosieron",
+      "ENGLISH": "They sewed"
     },
     "NOSOTROS": {
-      "SPANISH": "cosimos",
-      "ENGLISH": "we sewed"
+      "SPANISH": "Cosimos",
+      "ENGLISH": "We sewed"
     },
     "VOSOTROS": {
-      "SPANISH": "cosisteis",
-      "ENGLISH": "you (plural) sewed"
+      "SPANISH": "Cosisteis",
+      "ENGLISH": "You sewed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "coseré",
+      "SPANISH": "Coseré",
       "ENGLISH": "I will sew"
     },
     "TU": {
-      "SPANISH": "coserás",
-      "ENGLISH": "you will sew"
+      "SPANISH": "Coserás",
+      "ENGLISH": "You will sew"
     },
     "EL": {
-      "SPANISH": "coserá",
-      "ENGLISH": "s/he will sew, you (formal) will sew"
+      "SPANISH": "Coserá",
+      "ENGLISH": "He will sew"
     },
     "ELLOS": {
-      "SPANISH": "coserán",
-      "ENGLISH": "they will sew, you (plural formal) will sew"
+      "SPANISH": "Coserán",
+      "ENGLISH": "They will sew"
     },
     "NOSOTROS": {
-      "SPANISH": "coseremos",
-      "ENGLISH": "we will sew"
+      "SPANISH": "Coseremos",
+      "ENGLISH": "We will sew"
     },
     "VOSOTROS": {
-      "SPANISH": "coseréis",
-      "ENGLISH": "you (plural) will sew"
+      "SPANISH": "Coseréis",
+      "ENGLISH": "You will sew"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cosido",
+      "SPANISH": "Habré cosido",
       "ENGLISH": "I will have sewn"
     },
     "TU": {
-      "SPANISH": "habrás cosido",
-      "ENGLISH": "you will have sewn"
+      "SPANISH": "Habrás cosido",
+      "ENGLISH": "You will have sewn"
     },
     "EL": {
-      "SPANISH": "habrá cosido",
-      "ENGLISH": "s/he will have sewn, you (formal) will have sewn"
+      "SPANISH": "Habrá cosido",
+      "ENGLISH": "He will have sewn"
     },
     "ELLOS": {
-      "SPANISH": "habrán cosido",
-      "ENGLISH": "they will have sewn, you (plural formal) will have sewn"
+      "SPANISH": "Habrán cosido",
+      "ENGLISH": "They will have sewn"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cosido",
-      "ENGLISH": "we will have sewn"
+      "SPANISH": "Habremos cosido",
+      "ENGLISH": "We will have sewn"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cosido",
-      "ENGLISH": "you (plural) will have sewn"
+      "SPANISH": "Habréis cosido",
+      "ENGLISH": "You will have sewn"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cosería",
+      "SPANISH": "Cosería",
       "ENGLISH": "I would sew"
     },
     "TU": {
-      "SPANISH": "coserías",
-      "ENGLISH": "you would sew"
+      "SPANISH": "Coserías",
+      "ENGLISH": "You would sew"
     },
     "EL": {
-      "SPANISH": "cosería",
-      "ENGLISH": "s/he would sew, you (formal) would sew"
+      "SPANISH": "Cosería",
+      "ENGLISH": "He would sew"
     },
     "ELLOS": {
-      "SPANISH": "coserían",
-      "ENGLISH": "they would sew, you (plural formal) would sew"
+      "SPANISH": "Coserían",
+      "ENGLISH": "They would sew"
     },
     "NOSOTROS": {
-      "SPANISH": "coseríamos",
-      "ENGLISH": "we would sew"
+      "SPANISH": "Coseríamos",
+      "ENGLISH": "We would sew"
     },
     "VOSOTROS": {
-      "SPANISH": "coseríais",
-      "ENGLISH": "you (plural) would sew"
+      "SPANISH": "Coseríais",
+      "ENGLISH": "You would sew"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cosido",
+      "SPANISH": "Habría cosido",
       "ENGLISH": "I would have sewn"
     },
     "TU": {
-      "SPANISH": "habrías cosido",
-      "ENGLISH": "you would have sewn"
+      "SPANISH": "Habrías cosido",
+      "ENGLISH": "You would have sewn"
     },
     "EL": {
-      "SPANISH": "habría cosido",
-      "ENGLISH": "s/he would have sewn, you (formal) would have sewn"
+      "SPANISH": "Habría cosido",
+      "ENGLISH": "He would have sewn"
     },
     "ELLOS": {
-      "SPANISH": "habrían cosido",
-      "ENGLISH": "they would have sewn, you (plural formal) would have sewn"
+      "SPANISH": "Habrían cosido",
+      "ENGLISH": "They would have sewn"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cosido",
-      "ENGLISH": "we would have sewn"
+      "SPANISH": "Habríamos cosido",
+      "ENGLISH": "We would have sewn"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cosido",
-      "ENGLISH": "you (plural) would have sewn"
+      "SPANISH": "Habríais cosido",
+      "ENGLISH": "You would have sewn"
     }
   }
 }

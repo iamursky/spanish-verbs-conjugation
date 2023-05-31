@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dibujo",
+      "SPANISH": "Dibujo",
       "ENGLISH": "I draw"
     },
     "TU": {
-      "SPANISH": "dibujas",
-      "ENGLISH": "you draw"
+      "SPANISH": "Dibujas",
+      "ENGLISH": "You draw"
     },
     "EL": {
-      "SPANISH": "dibuja",
-      "ENGLISH": "s/he draws, you (formal) draws"
+      "SPANISH": "Dibuja",
+      "ENGLISH": "He draws"
     },
     "ELLOS": {
-      "SPANISH": "dibujan",
-      "ENGLISH": "they draw, you (plural formal) draw"
+      "SPANISH": "Dibujan",
+      "ENGLISH": "They draw"
     },
     "NOSOTROS": {
-      "SPANISH": "dibujamos",
-      "ENGLISH": "we draw"
+      "SPANISH": "Dibujamos",
+      "ENGLISH": "We draw"
     },
     "VOSOTROS": {
-      "SPANISH": "dibujáis",
-      "ENGLISH": "you (plural) draw"
+      "SPANISH": "Dibujáis",
+      "ENGLISH": "You draw"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dibujado",
+      "SPANISH": "He dibujado",
       "ENGLISH": "I have drawn"
     },
     "TU": {
-      "SPANISH": "has dibujado",
-      "ENGLISH": "you have drawn"
+      "SPANISH": "Has dibujado",
+      "ENGLISH": "You have drawn"
     },
     "EL": {
-      "SPANISH": "ha dibujado",
-      "ENGLISH": "s/he has drawn, you (formal) have drawn"
+      "SPANISH": "Ha dibujado",
+      "ENGLISH": "He has drawn"
     },
     "ELLOS": {
-      "SPANISH": "han dibujado",
-      "ENGLISH": "they have drawn, you (plural formal) have drawn"
+      "SPANISH": "Han dibujado",
+      "ENGLISH": "They have drawn"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dibujado",
-      "ENGLISH": "we have drawn"
+      "SPANISH": "Hemos dibujado",
+      "ENGLISH": "We have drawn"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dibujado",
-      "ENGLISH": "you (plural) have drawn"
+      "SPANISH": "Habéis dibujado",
+      "ENGLISH": "You have drawn"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dibujé",
+      "SPANISH": "Dibujé",
       "ENGLISH": "I drew"
     },
     "TU": {
-      "SPANISH": "dibujaste",
-      "ENGLISH": "you drew"
+      "SPANISH": "Dibujaste",
+      "ENGLISH": "You drew"
     },
     "EL": {
-      "SPANISH": "dibujó",
-      "ENGLISH": "s/he drew, you (formal) drew"
+      "SPANISH": "Dibujó",
+      "ENGLISH": "He drew"
     },
     "ELLOS": {
-      "SPANISH": "dibujaron",
-      "ENGLISH": "they drew, you (plural formal) drew"
+      "SPANISH": "Dibujaron",
+      "ENGLISH": "They drew"
     },
     "NOSOTROS": {
-      "SPANISH": "dibujamos",
-      "ENGLISH": "we drew"
+      "SPANISH": "Dibujamos",
+      "ENGLISH": "We drew"
     },
     "VOSOTROS": {
-      "SPANISH": "dibujasteis",
-      "ENGLISH": "you (plural) drew"
+      "SPANISH": "Dibujasteis",
+      "ENGLISH": "You drew"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dibujado",
+      "SPANISH": "Había dibujado",
       "ENGLISH": "I had drawn"
     },
     "TU": {
-      "SPANISH": "habías dibujado",
-      "ENGLISH": "you had drawn"
+      "SPANISH": "Habías dibujado",
+      "ENGLISH": "You had drawn"
     },
     "EL": {
-      "SPANISH": "había dibujado",
-      "ENGLISH": "s/he had drawn, you (formal) had drawn"
+      "SPANISH": "Había dibujado",
+      "ENGLISH": "He had drawn"
     },
     "ELLOS": {
-      "SPANISH": "habían dibujado",
-      "ENGLISH": "they had drawn, you (plural formal) had drawn"
+      "SPANISH": "Habían dibujado",
+      "ENGLISH": "They had drawn"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dibujado",
-      "ENGLISH": "we had drawn"
+      "SPANISH": "Habíamos dibujado",
+      "ENGLISH": "We had drawn"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dibujado",
-      "ENGLISH": "you (plural) had drawn"
+      "SPANISH": "Habíais dibujado",
+      "ENGLISH": "You had drawn"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dibujé",
+      "SPANISH": "Dibujé",
       "ENGLISH": "I drew"
     },
     "TU": {
-      "SPANISH": "dibujaste",
-      "ENGLISH": "you drew"
+      "SPANISH": "Dibujaste",
+      "ENGLISH": "You drew"
     },
     "EL": {
-      "SPANISH": "dibujó",
-      "ENGLISH": "s/he drew, you (formal) drew"
+      "SPANISH": "Dibujó",
+      "ENGLISH": "He drew"
     },
     "ELLOS": {
-      "SPANISH": "dibujaron",
-      "ENGLISH": "they drew, you (plural formal) drew"
+      "SPANISH": "Dibujaron",
+      "ENGLISH": "They drew"
     },
     "NOSOTROS": {
-      "SPANISH": "dibujamos",
-      "ENGLISH": "we drew"
+      "SPANISH": "Dibujamos",
+      "ENGLISH": "We drew"
     },
     "VOSOTROS": {
-      "SPANISH": "dibujasteis",
-      "ENGLISH": "you (plural) drew"
+      "SPANISH": "Dibujasteis",
+      "ENGLISH": "You drew"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dibujaré",
+      "SPANISH": "Dibujaré",
       "ENGLISH": "I will draw"
     },
     "TU": {
-      "SPANISH": "dibujarás",
-      "ENGLISH": "you will draw"
+      "SPANISH": "Dibujarás",
+      "ENGLISH": "You will draw"
     },
     "EL": {
-      "SPANISH": "dibujará",
-      "ENGLISH": "s/he will draw, you (formal) will draw"
+      "SPANISH": "Dibujará",
+      "ENGLISH": "He will draw"
     },
     "ELLOS": {
-      "SPANISH": "dibujarán",
-      "ENGLISH": "they will draw, you (plural formal) will draw"
+      "SPANISH": "Dibujarán",
+      "ENGLISH": "They will draw"
     },
     "NOSOTROS": {
-      "SPANISH": "dibujaremos",
-      "ENGLISH": "we will draw"
+      "SPANISH": "Dibujaremos",
+      "ENGLISH": "We will draw"
     },
     "VOSOTROS": {
-      "SPANISH": "dibujaréis",
-      "ENGLISH": "you (plural) will draw"
+      "SPANISH": "Dibujaréis",
+      "ENGLISH": "You will draw"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dibujado",
+      "SPANISH": "Habré dibujado",
       "ENGLISH": "I will have drawn"
     },
     "TU": {
-      "SPANISH": "habrás dibujado",
-      "ENGLISH": "you will have drawn"
+      "SPANISH": "Habrás dibujado",
+      "ENGLISH": "You will have drawn"
     },
     "EL": {
-      "SPANISH": "habrá dibujado",
-      "ENGLISH": "s/he will have drawn, you (formal) will have drawn"
+      "SPANISH": "Habrá dibujado",
+      "ENGLISH": "He will have drawn"
     },
     "ELLOS": {
-      "SPANISH": "habrán dibujado",
-      "ENGLISH": "they will have drawn, you (plural formal) will have drawn"
+      "SPANISH": "Habrán dibujado",
+      "ENGLISH": "They will have drawn"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dibujado",
-      "ENGLISH": "we will have drawn"
+      "SPANISH": "Habremos dibujado",
+      "ENGLISH": "We will have drawn"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dibujado",
-      "ENGLISH": "you (plural) will have drawn"
+      "SPANISH": "Habréis dibujado",
+      "ENGLISH": "You will have drawn"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dibujaría",
+      "SPANISH": "Dibujaría",
       "ENGLISH": "I would draw"
     },
     "TU": {
-      "SPANISH": "dibujarías",
-      "ENGLISH": "you would draw"
+      "SPANISH": "Dibujarías",
+      "ENGLISH": "You would draw"
     },
     "EL": {
-      "SPANISH": "dibujaría",
-      "ENGLISH": "s/he would draw, you (formal) would draw"
+      "SPANISH": "Dibujaría",
+      "ENGLISH": "He would draw"
     },
     "ELLOS": {
-      "SPANISH": "dibujarían",
-      "ENGLISH": "they would draw, you (plural formal) would draw"
+      "SPANISH": "Dibujarían",
+      "ENGLISH": "They would draw"
     },
     "NOSOTROS": {
-      "SPANISH": "dibujaríamos",
-      "ENGLISH": "we would draw"
+      "SPANISH": "Dibujaríamos",
+      "ENGLISH": "We would draw"
     },
     "VOSOTROS": {
-      "SPANISH": "dibujaríais",
-      "ENGLISH": "you (plural) would draw"
+      "SPANISH": "Dibujaríais",
+      "ENGLISH": "You would draw"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dibujado",
+      "SPANISH": "Habría dibujado",
       "ENGLISH": "I would have drawn"
     },
     "TU": {
-      "SPANISH": "habrías dibujado",
-      "ENGLISH": "you would have drawn"
+      "SPANISH": "Habrías dibujado",
+      "ENGLISH": "You would have drawn"
     },
     "EL": {
-      "SPANISH": "habría dibujado",
-      "ENGLISH": "s/he would have drawn, you (formal) would have drawn"
+      "SPANISH": "Habría dibujado",
+      "ENGLISH": "He would have drawn"
     },
     "ELLOS": {
-      "SPANISH": "habrían dibujado",
-      "ENGLISH": "they would have drawn, you (plural formal) would have drawn"
+      "SPANISH": "Habrían dibujado",
+      "ENGLISH": "They would have drawn"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dibujado",
-      "ENGLISH": "we would have drawn"
+      "SPANISH": "Habríamos dibujado",
+      "ENGLISH": "We would have drawn"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dibujado",
-      "ENGLISH": "you (plural) would have drawn"
+      "SPANISH": "Habríais dibujado",
+      "ENGLISH": "You would have drawn"
     }
   }
 }

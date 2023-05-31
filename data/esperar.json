@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "espero",
+      "SPANISH": "Espero",
       "ENGLISH": "I wait"
     },
     "TU": {
-      "SPANISH": "esperas",
-      "ENGLISH": "you wait"
+      "SPANISH": "Esperas",
+      "ENGLISH": "You wait"
     },
     "EL": {
-      "SPANISH": "espera",
-      "ENGLISH": "s/he waits, you (formal) waits"
+      "SPANISH": "Espera",
+      "ENGLISH": "He waits"
     },
     "ELLOS": {
-      "SPANISH": "esperan",
-      "ENGLISH": "they wait, you (plural formal) wait"
+      "SPANISH": "Esperan",
+      "ENGLISH": "They wait"
     },
     "NOSOTROS": {
-      "SPANISH": "esperamos",
-      "ENGLISH": "we wait"
+      "SPANISH": "Esperamos",
+      "ENGLISH": "We wait"
     },
     "VOSOTROS": {
-      "SPANISH": "esperáis",
-      "ENGLISH": "you (plural) wait"
+      "SPANISH": "Esperáis",
+      "ENGLISH": "You wait"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he esperado",
+      "SPANISH": "He esperado",
       "ENGLISH": "I have waited"
     },
     "TU": {
-      "SPANISH": "has esperado",
-      "ENGLISH": "you have waited"
+      "SPANISH": "Has esperado",
+      "ENGLISH": "You have waited"
     },
     "EL": {
-      "SPANISH": "ha esperado",
-      "ENGLISH": "s/he has waited, you (formal) have waited"
+      "SPANISH": "Ha esperado",
+      "ENGLISH": "He has waited"
     },
     "ELLOS": {
-      "SPANISH": "han esperado",
-      "ENGLISH": "they have waited, you (plural formal) have waited"
+      "SPANISH": "Han esperado",
+      "ENGLISH": "They have waited"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos esperado",
-      "ENGLISH": "we have waited"
+      "SPANISH": "Hemos esperado",
+      "ENGLISH": "We have waited"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis esperado",
-      "ENGLISH": "you (plural) have waited"
+      "SPANISH": "Habéis esperado",
+      "ENGLISH": "You have waited"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "esperé",
+      "SPANISH": "Esperé",
       "ENGLISH": "I waited"
     },
     "TU": {
-      "SPANISH": "esperaste",
-      "ENGLISH": "you waited"
+      "SPANISH": "Esperaste",
+      "ENGLISH": "You waited"
     },
     "EL": {
-      "SPANISH": "esperó",
-      "ENGLISH": "s/he waited, you (formal) waited"
+      "SPANISH": "Esperó",
+      "ENGLISH": "He waited"
     },
     "ELLOS": {
-      "SPANISH": "esperaron",
-      "ENGLISH": "they waited, you (plural formal) waited"
+      "SPANISH": "Esperaron",
+      "ENGLISH": "They waited"
     },
     "NOSOTROS": {
-      "SPANISH": "esperamos",
-      "ENGLISH": "we waited"
+      "SPANISH": "Esperamos",
+      "ENGLISH": "We waited"
     },
     "VOSOTROS": {
-      "SPANISH": "esperasteis",
-      "ENGLISH": "you (plural) waited"
+      "SPANISH": "Esperasteis",
+      "ENGLISH": "You waited"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había esperado",
+      "SPANISH": "Había esperado",
       "ENGLISH": "I had waited"
     },
     "TU": {
-      "SPANISH": "habías esperado",
-      "ENGLISH": "you had waited"
+      "SPANISH": "Habías esperado",
+      "ENGLISH": "You had waited"
     },
     "EL": {
-      "SPANISH": "había esperado",
-      "ENGLISH": "s/he had waited, you (formal) had waited"
+      "SPANISH": "Había esperado",
+      "ENGLISH": "He had waited"
     },
     "ELLOS": {
-      "SPANISH": "habían esperado",
-      "ENGLISH": "they had waited, you (plural formal) had waited"
+      "SPANISH": "Habían esperado",
+      "ENGLISH": "They had waited"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos esperado",
-      "ENGLISH": "we had waited"
+      "SPANISH": "Habíamos esperado",
+      "ENGLISH": "We had waited"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais esperado",
-      "ENGLISH": "you (plural) had waited"
+      "SPANISH": "Habíais esperado",
+      "ENGLISH": "You had waited"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "esperé",
+      "SPANISH": "Esperé",
       "ENGLISH": "I waited"
     },
     "TU": {
-      "SPANISH": "esperaste",
-      "ENGLISH": "you waited"
+      "SPANISH": "Esperaste",
+      "ENGLISH": "You waited"
     },
     "EL": {
-      "SPANISH": "esperó",
-      "ENGLISH": "s/he waited, you (formal) waited"
+      "SPANISH": "Esperó",
+      "ENGLISH": "He waited"
     },
     "ELLOS": {
-      "SPANISH": "esperaron",
-      "ENGLISH": "they waited, you (plural formal) waited"
+      "SPANISH": "Esperaron",
+      "ENGLISH": "They waited"
     },
     "NOSOTROS": {
-      "SPANISH": "esperamos",
-      "ENGLISH": "we waited"
+      "SPANISH": "Esperamos",
+      "ENGLISH": "We waited"
     },
     "VOSOTROS": {
-      "SPANISH": "esperasteis",
-      "ENGLISH": "you (plural) waited"
+      "SPANISH": "Esperasteis",
+      "ENGLISH": "You waited"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "esperaré",
+      "SPANISH": "Esperaré",
       "ENGLISH": "I will wait"
     },
     "TU": {
-      "SPANISH": "esperarás",
-      "ENGLISH": "you will wait"
+      "SPANISH": "Esperarás",
+      "ENGLISH": "You will wait"
     },
     "EL": {
-      "SPANISH": "esperará",
-      "ENGLISH": "s/he will wait, you (formal) will wait"
+      "SPANISH": "Esperará",
+      "ENGLISH": "He will wait"
     },
     "ELLOS": {
-      "SPANISH": "esperarán",
-      "ENGLISH": "they will wait, you (plural formal) will wait"
+      "SPANISH": "Esperarán",
+      "ENGLISH": "They will wait"
     },
     "NOSOTROS": {
-      "SPANISH": "esperaremos",
-      "ENGLISH": "we will wait"
+      "SPANISH": "Esperaremos",
+      "ENGLISH": "We will wait"
     },
     "VOSOTROS": {
-      "SPANISH": "esperaréis",
-      "ENGLISH": "you (plural) will wait"
+      "SPANISH": "Esperaréis",
+      "ENGLISH": "You will wait"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré esperado",
+      "SPANISH": "Habré esperado",
       "ENGLISH": "I will have waited"
     },
     "TU": {
-      "SPANISH": "habrás esperado",
-      "ENGLISH": "you will have waited"
+      "SPANISH": "Habrás esperado",
+      "ENGLISH": "You will have waited"
     },
     "EL": {
-      "SPANISH": "habrá esperado",
-      "ENGLISH": "s/he will have waited, you (formal) will have waited"
+      "SPANISH": "Habrá esperado",
+      "ENGLISH": "He will have waited"
     },
     "ELLOS": {
-      "SPANISH": "habrán esperado",
-      "ENGLISH": "they will have waited, you (plural formal) will have waited"
+      "SPANISH": "Habrán esperado",
+      "ENGLISH": "They will have waited"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos esperado",
-      "ENGLISH": "we will have waited"
+      "SPANISH": "Habremos esperado",
+      "ENGLISH": "We will have waited"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis esperado",
-      "ENGLISH": "you (plural) will have waited"
+      "SPANISH": "Habréis esperado",
+      "ENGLISH": "You will have waited"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "esperaría",
+      "SPANISH": "Esperaría",
       "ENGLISH": "I would wait"
     },
     "TU": {
-      "SPANISH": "esperarías",
-      "ENGLISH": "you would wait"
+      "SPANISH": "Esperarías",
+      "ENGLISH": "You would wait"
     },
     "EL": {
-      "SPANISH": "esperaría",
-      "ENGLISH": "s/he would wait, you (formal) would wait"
+      "SPANISH": "Esperaría",
+      "ENGLISH": "He would wait"
     },
     "ELLOS": {
-      "SPANISH": "esperarían",
-      "ENGLISH": "they would wait, you (plural formal) would wait"
+      "SPANISH": "Esperarían",
+      "ENGLISH": "They would wait"
     },
     "NOSOTROS": {
-      "SPANISH": "esperaríamos",
-      "ENGLISH": "we would wait"
+      "SPANISH": "Esperaríamos",
+      "ENGLISH": "We would wait"
     },
     "VOSOTROS": {
-      "SPANISH": "esperaríais",
-      "ENGLISH": "you (plural) would wait"
+      "SPANISH": "Esperaríais",
+      "ENGLISH": "You would wait"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría esperado",
+      "SPANISH": "Habría esperado",
       "ENGLISH": "I would have waited"
     },
     "TU": {
-      "SPANISH": "habrías esperado",
-      "ENGLISH": "you would have waited"
+      "SPANISH": "Habrías esperado",
+      "ENGLISH": "You would have waited"
     },
     "EL": {
-      "SPANISH": "habría esperado",
-      "ENGLISH": "s/he would have waited, you (formal) would have waited"
+      "SPANISH": "Habría esperado",
+      "ENGLISH": "He would have waited"
     },
     "ELLOS": {
-      "SPANISH": "habrían esperado",
-      "ENGLISH": "they would have waited, you (plural formal) would have waited"
+      "SPANISH": "Habrían esperado",
+      "ENGLISH": "They would have waited"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos esperado",
-      "ENGLISH": "we would have waited"
+      "SPANISH": "Habríamos esperado",
+      "ENGLISH": "We would have waited"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais esperado",
-      "ENGLISH": "you (plural) would have waited"
+      "SPANISH": "Habríais esperado",
+      "ENGLISH": "You would have waited"
     }
   }
 }

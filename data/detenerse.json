@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me detengo ",
+      "SPANISH": "Me detengo ",
       "ENGLISH": "I stop"
     },
     "TU": {
-      "SPANISH": "te detienes ",
-      "ENGLISH": "you stop"
+      "SPANISH": "Te detienes ",
+      "ENGLISH": "You stop"
     },
     "EL": {
-      "SPANISH": "se detiene ",
-      "ENGLISH": "s/he stops, you (formal) stops"
+      "SPANISH": "Se detiene ",
+      "ENGLISH": "He stops"
     },
     "ELLOS": {
-      "SPANISH": "se detienen ",
-      "ENGLISH": "they stop, you (plural formal) stop"
+      "SPANISH": "Se detienen ",
+      "ENGLISH": "They stop"
     },
     "NOSOTROS": {
-      "SPANISH": "nos detenemos",
-      "ENGLISH": "we stop"
+      "SPANISH": "Nos detenemos",
+      "ENGLISH": "We stop"
     },
     "VOSOTROS": {
-      "SPANISH": "os detenéis",
-      "ENGLISH": "you (plural) stop"
+      "SPANISH": "Os detenéis",
+      "ENGLISH": "You stop"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he detenido",
+      "SPANISH": "Me he detenido",
       "ENGLISH": "I have stopped"
     },
     "TU": {
-      "SPANISH": "te has detenido",
-      "ENGLISH": "you have stopped"
+      "SPANISH": "Te has detenido",
+      "ENGLISH": "You have stopped"
     },
     "EL": {
-      "SPANISH": "se ha detenido",
-      "ENGLISH": "s/he has stopped, you (formal) have stopped"
+      "SPANISH": "Se ha detenido",
+      "ENGLISH": "He has stopped"
     },
     "ELLOS": {
-      "SPANISH": "se han detenido",
-      "ENGLISH": "they have stopped, you (plural formal) have stopped"
+      "SPANISH": "Se han detenido",
+      "ENGLISH": "They have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos detenido",
-      "ENGLISH": "we have stopped"
+      "SPANISH": "Nos hemos detenido",
+      "ENGLISH": "We have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis detenido",
-      "ENGLISH": "you (plural) have stopped"
+      "SPANISH": "Os habéis detenido",
+      "ENGLISH": "You have stopped"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me detuve ",
+      "SPANISH": "Me detuve ",
       "ENGLISH": "I stopped"
     },
     "TU": {
-      "SPANISH": "te detuviste ",
-      "ENGLISH": "you stopped"
+      "SPANISH": "Te detuviste ",
+      "ENGLISH": "You stopped"
     },
     "EL": {
-      "SPANISH": "se detuvo ",
-      "ENGLISH": "s/he stopped, you (formal) stopped"
+      "SPANISH": "Se detuvo ",
+      "ENGLISH": "He stopped"
     },
     "ELLOS": {
-      "SPANISH": "se detuvieron ",
-      "ENGLISH": "they stopped, you (plural formal) stopped"
+      "SPANISH": "Se detuvieron ",
+      "ENGLISH": "They stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos detuvimos ",
-      "ENGLISH": "we stopped"
+      "SPANISH": "Nos detuvimos ",
+      "ENGLISH": "We stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os detuvisteis ",
-      "ENGLISH": "you (plural) stopped"
+      "SPANISH": "Os detuvisteis ",
+      "ENGLISH": "You stopped"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había detenido",
+      "SPANISH": "Me había detenido",
       "ENGLISH": "I had stopped"
     },
     "TU": {
-      "SPANISH": "te habías detenido",
-      "ENGLISH": "you had stopped"
+      "SPANISH": "Te habías detenido",
+      "ENGLISH": "You had stopped"
     },
     "EL": {
-      "SPANISH": "se había detenido",
-      "ENGLISH": "s/he had stopped, you (formal) had stopped"
+      "SPANISH": "Se había detenido",
+      "ENGLISH": "He had stopped"
     },
     "ELLOS": {
-      "SPANISH": "se habían detenido",
-      "ENGLISH": "they had stopped, you (plural formal) had stopped"
+      "SPANISH": "Se habían detenido",
+      "ENGLISH": "They had stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos detenido",
-      "ENGLISH": "we had stopped"
+      "SPANISH": "Nos habíamos detenido",
+      "ENGLISH": "We had stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais detenido",
-      "ENGLISH": "you (plural) had stopped"
+      "SPANISH": "Os habíais detenido",
+      "ENGLISH": "You had stopped"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me detuve ",
+      "SPANISH": "Me detuve ",
       "ENGLISH": "I stopped"
     },
     "TU": {
-      "SPANISH": "te detuviste ",
-      "ENGLISH": "you stopped"
+      "SPANISH": "Te detuviste ",
+      "ENGLISH": "You stopped"
     },
     "EL": {
-      "SPANISH": "se detuvo ",
-      "ENGLISH": "s/he stopped, you (formal) stopped"
+      "SPANISH": "Se detuvo ",
+      "ENGLISH": "He stopped"
     },
     "ELLOS": {
-      "SPANISH": "se detuvieron ",
-      "ENGLISH": "they stopped, you (plural formal) stopped"
+      "SPANISH": "Se detuvieron ",
+      "ENGLISH": "They stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos detuvimos ",
-      "ENGLISH": "we stopped"
+      "SPANISH": "Nos detuvimos ",
+      "ENGLISH": "We stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os detuvisteis ",
-      "ENGLISH": "you (plural) stopped"
+      "SPANISH": "Os detuvisteis ",
+      "ENGLISH": "You stopped"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me detendré ",
+      "SPANISH": "Me detendré ",
       "ENGLISH": "I will stop"
     },
     "TU": {
-      "SPANISH": "te detendrás ",
-      "ENGLISH": "you will stop"
+      "SPANISH": "Te detendrás ",
+      "ENGLISH": "You will stop"
     },
     "EL": {
-      "SPANISH": "se detendrá ",
-      "ENGLISH": "s/he will stop, you (formal) will stop"
+      "SPANISH": "Se detendrá ",
+      "ENGLISH": "He will stop"
     },
     "ELLOS": {
-      "SPANISH": "se detendrán ",
-      "ENGLISH": "they will stop, you (plural formal) will stop"
+      "SPANISH": "Se detendrán ",
+      "ENGLISH": "They will stop"
     },
     "NOSOTROS": {
-      "SPANISH": "nos detendremos ",
-      "ENGLISH": "we will stop"
+      "SPANISH": "Nos detendremos ",
+      "ENGLISH": "We will stop"
     },
     "VOSOTROS": {
-      "SPANISH": "os detendréis ",
-      "ENGLISH": "you (plural) will stop"
+      "SPANISH": "Os detendréis ",
+      "ENGLISH": "You will stop"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré detenido",
+      "SPANISH": "Me habré detenido",
       "ENGLISH": "I will have stopped"
     },
     "TU": {
-      "SPANISH": "te habrás detenido",
-      "ENGLISH": "you will have stopped"
+      "SPANISH": "Te habrás detenido",
+      "ENGLISH": "You will have stopped"
     },
     "EL": {
-      "SPANISH": "se habrá detenido",
-      "ENGLISH": "s/he will have stopped, you (formal) will have stopped"
+      "SPANISH": "Se habrá detenido",
+      "ENGLISH": "He will have stopped"
     },
     "ELLOS": {
-      "SPANISH": "se habrán detenido",
-      "ENGLISH": "they will have stopped, you (plural formal) will have stopped"
+      "SPANISH": "Se habrán detenido",
+      "ENGLISH": "They will have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos detenido",
-      "ENGLISH": "we will have stopped"
+      "SPANISH": "Nos habremos detenido",
+      "ENGLISH": "We will have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis detenido",
-      "ENGLISH": "you (plural) will have stopped"
+      "SPANISH": "Os habréis detenido",
+      "ENGLISH": "You will have stopped"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me detendría ",
+      "SPANISH": "Me detendría ",
       "ENGLISH": "I would stop"
     },
     "TU": {
-      "SPANISH": "te detendrías ",
-      "ENGLISH": "you would stop"
+      "SPANISH": "Te detendrías ",
+      "ENGLISH": "You would stop"
     },
     "EL": {
-      "SPANISH": "se detendría ",
-      "ENGLISH": "s/he would stop, you (formal) would stop"
+      "SPANISH": "Se detendría ",
+      "ENGLISH": "He would stop"
     },
     "ELLOS": {
-      "SPANISH": "se detendrían ",
-      "ENGLISH": "they would stop, you (plural formal) would stop"
+      "SPANISH": "Se detendrían ",
+      "ENGLISH": "They would stop"
     },
     "NOSOTROS": {
-      "SPANISH": "nos detendríamos ",
-      "ENGLISH": "we would stop"
+      "SPANISH": "Nos detendríamos ",
+      "ENGLISH": "We would stop"
     },
     "VOSOTROS": {
-      "SPANISH": "os detendríais ",
-      "ENGLISH": "you (plural) would stop"
+      "SPANISH": "Os detendríais ",
+      "ENGLISH": "You would stop"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría detenido",
+      "SPANISH": "Me habría detenido",
       "ENGLISH": "I would have stopped"
     },
     "TU": {
-      "SPANISH": "te habrías detenido",
-      "ENGLISH": "you would have stopped"
+      "SPANISH": "Te habrías detenido",
+      "ENGLISH": "You would have stopped"
     },
     "EL": {
-      "SPANISH": "se habría detenido",
-      "ENGLISH": "s/he would have stopped, you (formal) would have stopped"
+      "SPANISH": "Se habría detenido",
+      "ENGLISH": "He would have stopped"
     },
     "ELLOS": {
-      "SPANISH": "se habrían detenido",
-      "ENGLISH": "they would have stopped, you (plural formal) would have stopped"
+      "SPANISH": "Se habrían detenido",
+      "ENGLISH": "They would have stopped"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos detenido",
-      "ENGLISH": "we would have stopped"
+      "SPANISH": "Nos habríamos detenido",
+      "ENGLISH": "We would have stopped"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais detenido",
-      "ENGLISH": "you (plural) would have stopped"
+      "SPANISH": "Os habríais detenido",
+      "ENGLISH": "You would have stopped"
     }
   }
 }

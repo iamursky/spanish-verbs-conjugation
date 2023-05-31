@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "establezco ",
+      "SPANISH": "Establezco ",
       "ENGLISH": "I establish"
     },
     "TU": {
-      "SPANISH": "estableces",
-      "ENGLISH": "you establish"
+      "SPANISH": "Estableces",
+      "ENGLISH": "You establish"
     },
     "EL": {
-      "SPANISH": "establece",
-      "ENGLISH": "s/he establishes, you (formal) establishes"
+      "SPANISH": "Establece",
+      "ENGLISH": "He establishes"
     },
     "ELLOS": {
-      "SPANISH": "establecen",
-      "ENGLISH": "they establish, you (plural formal) establish"
+      "SPANISH": "Establecen",
+      "ENGLISH": "They establish"
     },
     "NOSOTROS": {
-      "SPANISH": "establecemos",
-      "ENGLISH": "we establish"
+      "SPANISH": "Establecemos",
+      "ENGLISH": "We establish"
     },
     "VOSOTROS": {
-      "SPANISH": "establecéis",
-      "ENGLISH": "you (plural) establish"
+      "SPANISH": "Establecéis",
+      "ENGLISH": "You establish"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he establecido",
+      "SPANISH": "He establecido",
       "ENGLISH": "I have established"
     },
     "TU": {
-      "SPANISH": "has establecido",
-      "ENGLISH": "you have established"
+      "SPANISH": "Has establecido",
+      "ENGLISH": "You have established"
     },
     "EL": {
-      "SPANISH": "ha establecido",
-      "ENGLISH": "s/he has established, you (formal) have established"
+      "SPANISH": "Ha establecido",
+      "ENGLISH": "He has established"
     },
     "ELLOS": {
-      "SPANISH": "han establecido",
-      "ENGLISH": "they have established, you (plural formal) have established"
+      "SPANISH": "Han establecido",
+      "ENGLISH": "They have established"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos establecido",
-      "ENGLISH": "we have established"
+      "SPANISH": "Hemos establecido",
+      "ENGLISH": "We have established"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis establecido",
-      "ENGLISH": "you (plural) have established"
+      "SPANISH": "Habéis establecido",
+      "ENGLISH": "You have established"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "establecí",
+      "SPANISH": "Establecí",
       "ENGLISH": "I established"
     },
     "TU": {
-      "SPANISH": "estableciste",
-      "ENGLISH": "you established"
+      "SPANISH": "Estableciste",
+      "ENGLISH": "You established"
     },
     "EL": {
-      "SPANISH": "estableció",
-      "ENGLISH": "s/he established, you (formal) established"
+      "SPANISH": "Estableció",
+      "ENGLISH": "He established"
     },
     "ELLOS": {
-      "SPANISH": "establecieron",
-      "ENGLISH": "they established, you (plural formal) established"
+      "SPANISH": "Establecieron",
+      "ENGLISH": "They established"
     },
     "NOSOTROS": {
-      "SPANISH": "establecimos",
-      "ENGLISH": "we established"
+      "SPANISH": "Establecimos",
+      "ENGLISH": "We established"
     },
     "VOSOTROS": {
-      "SPANISH": "establecisteis",
-      "ENGLISH": "you (plural) established"
+      "SPANISH": "Establecisteis",
+      "ENGLISH": "You established"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había establecido",
+      "SPANISH": "Había establecido",
       "ENGLISH": "I had established"
     },
     "TU": {
-      "SPANISH": "habías establecido",
-      "ENGLISH": "you had established"
+      "SPANISH": "Habías establecido",
+      "ENGLISH": "You had established"
     },
     "EL": {
-      "SPANISH": "había establecido",
-      "ENGLISH": "s/he had established, you (formal) had established"
+      "SPANISH": "Había establecido",
+      "ENGLISH": "He had established"
     },
     "ELLOS": {
-      "SPANISH": "habían establecido",
-      "ENGLISH": "they had established, you (plural formal) had established"
+      "SPANISH": "Habían establecido",
+      "ENGLISH": "They had established"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos establecido",
-      "ENGLISH": "we had established"
+      "SPANISH": "Habíamos establecido",
+      "ENGLISH": "We had established"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais establecido",
-      "ENGLISH": "you (plural) had established"
+      "SPANISH": "Habíais establecido",
+      "ENGLISH": "You had established"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "establecí",
+      "SPANISH": "Establecí",
       "ENGLISH": "I established"
     },
     "TU": {
-      "SPANISH": "estableciste",
-      "ENGLISH": "you established"
+      "SPANISH": "Estableciste",
+      "ENGLISH": "You established"
     },
     "EL": {
-      "SPANISH": "estableció",
-      "ENGLISH": "s/he established, you (formal) established"
+      "SPANISH": "Estableció",
+      "ENGLISH": "He established"
     },
     "ELLOS": {
-      "SPANISH": "establecieron",
-      "ENGLISH": "they established, you (plural formal) established"
+      "SPANISH": "Establecieron",
+      "ENGLISH": "They established"
     },
     "NOSOTROS": {
-      "SPANISH": "establecimos",
-      "ENGLISH": "we established"
+      "SPANISH": "Establecimos",
+      "ENGLISH": "We established"
     },
     "VOSOTROS": {
-      "SPANISH": "establecisteis",
-      "ENGLISH": "you (plural) established"
+      "SPANISH": "Establecisteis",
+      "ENGLISH": "You established"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "estableceré",
+      "SPANISH": "Estableceré",
       "ENGLISH": "I will establish"
     },
     "TU": {
-      "SPANISH": "establecerás",
-      "ENGLISH": "you will establish"
+      "SPANISH": "Establecerás",
+      "ENGLISH": "You will establish"
     },
     "EL": {
-      "SPANISH": "establecerá",
-      "ENGLISH": "s/he will establish, you (formal) will establish"
+      "SPANISH": "Establecerá",
+      "ENGLISH": "He will establish"
     },
     "ELLOS": {
-      "SPANISH": "establecerán",
-      "ENGLISH": "they will establish, you (plural formal) will establish"
+      "SPANISH": "Establecerán",
+      "ENGLISH": "They will establish"
     },
     "NOSOTROS": {
-      "SPANISH": "estableceremos",
-      "ENGLISH": "we will establish"
+      "SPANISH": "Estableceremos",
+      "ENGLISH": "We will establish"
     },
     "VOSOTROS": {
-      "SPANISH": "estableceréis",
-      "ENGLISH": "you (plural) will establish"
+      "SPANISH": "Estableceréis",
+      "ENGLISH": "You will establish"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré establecido",
+      "SPANISH": "Habré establecido",
       "ENGLISH": "I will have established"
     },
     "TU": {
-      "SPANISH": "habrás establecido",
-      "ENGLISH": "you will have established"
+      "SPANISH": "Habrás establecido",
+      "ENGLISH": "You will have established"
     },
     "EL": {
-      "SPANISH": "habrá establecido",
-      "ENGLISH": "s/he will have established, you (formal) will have established"
+      "SPANISH": "Habrá establecido",
+      "ENGLISH": "He will have established"
     },
     "ELLOS": {
-      "SPANISH": "habrán establecido",
-      "ENGLISH": "they will have established, you (plural formal) will have established"
+      "SPANISH": "Habrán establecido",
+      "ENGLISH": "They will have established"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos establecido",
-      "ENGLISH": "we will have established"
+      "SPANISH": "Habremos establecido",
+      "ENGLISH": "We will have established"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis establecido",
-      "ENGLISH": "you (plural) will have established"
+      "SPANISH": "Habréis establecido",
+      "ENGLISH": "You will have established"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "establecería",
+      "SPANISH": "Establecería",
       "ENGLISH": "I would establish"
     },
     "TU": {
-      "SPANISH": "establecerías",
-      "ENGLISH": "you would establish"
+      "SPANISH": "Establecerías",
+      "ENGLISH": "You would establish"
     },
     "EL": {
-      "SPANISH": "establecería",
-      "ENGLISH": "s/he would establish, you (formal) would establish"
+      "SPANISH": "Establecería",
+      "ENGLISH": "He would establish"
     },
     "ELLOS": {
-      "SPANISH": "establecerían",
-      "ENGLISH": "they would establish, you (plural formal) would establish"
+      "SPANISH": "Establecerían",
+      "ENGLISH": "They would establish"
     },
     "NOSOTROS": {
-      "SPANISH": "estableceríamos",
-      "ENGLISH": "we would establish"
+      "SPANISH": "Estableceríamos",
+      "ENGLISH": "We would establish"
     },
     "VOSOTROS": {
-      "SPANISH": "estableceríais",
-      "ENGLISH": "you (plural) would establish"
+      "SPANISH": "Estableceríais",
+      "ENGLISH": "You would establish"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría establecido",
+      "SPANISH": "Habría establecido",
       "ENGLISH": "I would have established"
     },
     "TU": {
-      "SPANISH": "habrías establecido",
-      "ENGLISH": "you would have established"
+      "SPANISH": "Habrías establecido",
+      "ENGLISH": "You would have established"
     },
     "EL": {
-      "SPANISH": "habría establecido",
-      "ENGLISH": "s/he would have established, you (formal) would have established"
+      "SPANISH": "Habría establecido",
+      "ENGLISH": "He would have established"
     },
     "ELLOS": {
-      "SPANISH": "habrían establecido",
-      "ENGLISH": "they would have established, you (plural formal) would have established"
+      "SPANISH": "Habrían establecido",
+      "ENGLISH": "They would have established"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos establecido",
-      "ENGLISH": "we would have established"
+      "SPANISH": "Habríamos establecido",
+      "ENGLISH": "We would have established"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais establecido",
-      "ENGLISH": "you (plural) would have established"
+      "SPANISH": "Habríais establecido",
+      "ENGLISH": "You would have established"
     }
   }
 }

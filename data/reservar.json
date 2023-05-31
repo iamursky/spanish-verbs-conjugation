@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "reservo",
+      "SPANISH": "Reservo",
       "ENGLISH": "I reserve"
     },
     "TU": {
-      "SPANISH": "reservas",
-      "ENGLISH": "you reserve"
+      "SPANISH": "Reservas",
+      "ENGLISH": "You reserve"
     },
     "EL": {
-      "SPANISH": "reserva",
-      "ENGLISH": "s/he reserves, you (formal) reserves"
+      "SPANISH": "Reserva",
+      "ENGLISH": "He reserves"
     },
     "ELLOS": {
-      "SPANISH": "reservan",
-      "ENGLISH": "they reserve, you (plural formal) reserve"
+      "SPANISH": "Reservan",
+      "ENGLISH": "They reserve"
     },
     "NOSOTROS": {
-      "SPANISH": "reservamos",
-      "ENGLISH": "we reserve"
+      "SPANISH": "Reservamos",
+      "ENGLISH": "We reserve"
     },
     "VOSOTROS": {
-      "SPANISH": "reserváis",
-      "ENGLISH": "you (plural) reserve"
+      "SPANISH": "Reserváis",
+      "ENGLISH": "You reserve"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he reservado",
+      "SPANISH": "He reservado",
       "ENGLISH": "I have reserved"
     },
     "TU": {
-      "SPANISH": "has reservado",
-      "ENGLISH": "you have reserved"
+      "SPANISH": "Has reservado",
+      "ENGLISH": "You have reserved"
     },
     "EL": {
-      "SPANISH": "ha reservado",
-      "ENGLISH": "s/he has reserved, you (formal) have reserved"
+      "SPANISH": "Ha reservado",
+      "ENGLISH": "He has reserved"
     },
     "ELLOS": {
-      "SPANISH": "han reservado",
-      "ENGLISH": "they have reserved, you (plural formal) have reserved"
+      "SPANISH": "Han reservado",
+      "ENGLISH": "They have reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos reservado",
-      "ENGLISH": "we have reserved"
+      "SPANISH": "Hemos reservado",
+      "ENGLISH": "We have reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis reservado",
-      "ENGLISH": "you (plural) have reserved"
+      "SPANISH": "Habéis reservado",
+      "ENGLISH": "You have reserved"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "reservé",
+      "SPANISH": "Reservé",
       "ENGLISH": "I reserved"
     },
     "TU": {
-      "SPANISH": "reservaste",
-      "ENGLISH": "you reserved"
+      "SPANISH": "Reservaste",
+      "ENGLISH": "You reserved"
     },
     "EL": {
-      "SPANISH": "reservó",
-      "ENGLISH": "s/he reserved, you (formal) reserved"
+      "SPANISH": "Reservó",
+      "ENGLISH": "He reserved"
     },
     "ELLOS": {
-      "SPANISH": "reservaron",
-      "ENGLISH": "they reserved, you (plural formal) reserved"
+      "SPANISH": "Reservaron",
+      "ENGLISH": "They reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "reservamos",
-      "ENGLISH": "we reserved"
+      "SPANISH": "Reservamos",
+      "ENGLISH": "We reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "reservasteis",
-      "ENGLISH": "you (plural) reserved"
+      "SPANISH": "Reservasteis",
+      "ENGLISH": "You reserved"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había reservado",
+      "SPANISH": "Había reservado",
       "ENGLISH": "I had reserved"
     },
     "TU": {
-      "SPANISH": "habías reservado",
-      "ENGLISH": "you had reserved"
+      "SPANISH": "Habías reservado",
+      "ENGLISH": "You had reserved"
     },
     "EL": {
-      "SPANISH": "había reservado",
-      "ENGLISH": "s/he had reserved, you (formal) had reserved"
+      "SPANISH": "Había reservado",
+      "ENGLISH": "He had reserved"
     },
     "ELLOS": {
-      "SPANISH": "habían reservado",
-      "ENGLISH": "they had reserved, you (plural formal) had reserved"
+      "SPANISH": "Habían reservado",
+      "ENGLISH": "They had reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos reservado",
-      "ENGLISH": "we had reserved"
+      "SPANISH": "Habíamos reservado",
+      "ENGLISH": "We had reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais reservado",
-      "ENGLISH": "you (plural) had reserved"
+      "SPANISH": "Habíais reservado",
+      "ENGLISH": "You had reserved"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "reservé",
+      "SPANISH": "Reservé",
       "ENGLISH": "I reserved"
     },
     "TU": {
-      "SPANISH": "reservaste",
-      "ENGLISH": "you reserved"
+      "SPANISH": "Reservaste",
+      "ENGLISH": "You reserved"
     },
     "EL": {
-      "SPANISH": "reservó",
-      "ENGLISH": "s/he reserved, you (formal) reserved"
+      "SPANISH": "Reservó",
+      "ENGLISH": "He reserved"
     },
     "ELLOS": {
-      "SPANISH": "reservaron",
-      "ENGLISH": "they reserved, you (plural formal) reserved"
+      "SPANISH": "Reservaron",
+      "ENGLISH": "They reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "reservamos",
-      "ENGLISH": "we reserved"
+      "SPANISH": "Reservamos",
+      "ENGLISH": "We reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "reservasteis",
-      "ENGLISH": "you (plural) reserved"
+      "SPANISH": "Reservasteis",
+      "ENGLISH": "You reserved"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "reservaré",
+      "SPANISH": "Reservaré",
       "ENGLISH": "I will reserve"
     },
     "TU": {
-      "SPANISH": "reservarás",
-      "ENGLISH": "you will reserve"
+      "SPANISH": "Reservarás",
+      "ENGLISH": "You will reserve"
     },
     "EL": {
-      "SPANISH": "reservará",
-      "ENGLISH": "s/he will reserve, you (formal) will reserve"
+      "SPANISH": "Reservará",
+      "ENGLISH": "He will reserve"
     },
     "ELLOS": {
-      "SPANISH": "reservarán",
-      "ENGLISH": "they will reserve, you (plural formal) will reserve"
+      "SPANISH": "Reservarán",
+      "ENGLISH": "They will reserve"
     },
     "NOSOTROS": {
-      "SPANISH": "reservaremos",
-      "ENGLISH": "we will reserve"
+      "SPANISH": "Reservaremos",
+      "ENGLISH": "We will reserve"
     },
     "VOSOTROS": {
-      "SPANISH": "reservaréis",
-      "ENGLISH": "you (plural) will reserve"
+      "SPANISH": "Reservaréis",
+      "ENGLISH": "You will reserve"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré reservado",
+      "SPANISH": "Habré reservado",
       "ENGLISH": "I will have reserved"
     },
     "TU": {
-      "SPANISH": "habrás reservado",
-      "ENGLISH": "you will have reserved"
+      "SPANISH": "Habrás reservado",
+      "ENGLISH": "You will have reserved"
     },
     "EL": {
-      "SPANISH": "habrá reservado",
-      "ENGLISH": "s/he will have reserved, you (formal) will have reserved"
+      "SPANISH": "Habrá reservado",
+      "ENGLISH": "He will have reserved"
     },
     "ELLOS": {
-      "SPANISH": "habrán reservado",
-      "ENGLISH": "they will have reserved, you (plural formal) will have reserved"
+      "SPANISH": "Habrán reservado",
+      "ENGLISH": "They will have reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos reservado",
-      "ENGLISH": "we will have reserved"
+      "SPANISH": "Habremos reservado",
+      "ENGLISH": "We will have reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis reservado",
-      "ENGLISH": "you (plural) will have reserved"
+      "SPANISH": "Habréis reservado",
+      "ENGLISH": "You will have reserved"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "reservaría",
+      "SPANISH": "Reservaría",
       "ENGLISH": "I would reserve"
     },
     "TU": {
-      "SPANISH": "reservarías",
-      "ENGLISH": "you would reserve"
+      "SPANISH": "Reservarías",
+      "ENGLISH": "You would reserve"
     },
     "EL": {
-      "SPANISH": "reservaría",
-      "ENGLISH": "s/he would reserve, you (formal) would reserve"
+      "SPANISH": "Reservaría",
+      "ENGLISH": "He would reserve"
     },
     "ELLOS": {
-      "SPANISH": "reservarían",
-      "ENGLISH": "they would reserve, you (plural formal) would reserve"
+      "SPANISH": "Reservarían",
+      "ENGLISH": "They would reserve"
     },
     "NOSOTROS": {
-      "SPANISH": "reservaríamos",
-      "ENGLISH": "we would reserve"
+      "SPANISH": "Reservaríamos",
+      "ENGLISH": "We would reserve"
     },
     "VOSOTROS": {
-      "SPANISH": "reservaríais",
-      "ENGLISH": "you (plural) would reserve"
+      "SPANISH": "Reservaríais",
+      "ENGLISH": "You would reserve"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría reservado",
+      "SPANISH": "Habría reservado",
       "ENGLISH": "I would have reserved"
     },
     "TU": {
-      "SPANISH": "habrías reservado",
-      "ENGLISH": "you would have reserved"
+      "SPANISH": "Habrías reservado",
+      "ENGLISH": "You would have reserved"
     },
     "EL": {
-      "SPANISH": "habría reservado",
-      "ENGLISH": "s/he would have reserved, you (formal) would have reserved"
+      "SPANISH": "Habría reservado",
+      "ENGLISH": "He would have reserved"
     },
     "ELLOS": {
-      "SPANISH": "habrían reservado",
-      "ENGLISH": "they would have reserved, you (plural formal) would have reserved"
+      "SPANISH": "Habrían reservado",
+      "ENGLISH": "They would have reserved"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos reservado",
-      "ENGLISH": "we would have reserved"
+      "SPANISH": "Habríamos reservado",
+      "ENGLISH": "We would have reserved"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais reservado",
-      "ENGLISH": "you (plural) would have reserved"
+      "SPANISH": "Habríais reservado",
+      "ENGLISH": "You would have reserved"
     }
   }
 }

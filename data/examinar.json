@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "examino",
+      "SPANISH": "Examino",
       "ENGLISH": "I examine"
     },
     "TU": {
-      "SPANISH": "examinas",
-      "ENGLISH": "you examine"
+      "SPANISH": "Examinas",
+      "ENGLISH": "You examine"
     },
     "EL": {
-      "SPANISH": "examina",
-      "ENGLISH": "s/he examines, you (formal) examines"
+      "SPANISH": "Examina",
+      "ENGLISH": "He examines"
     },
     "ELLOS": {
-      "SPANISH": "examinan",
-      "ENGLISH": "they examine, you (plural formal) examine"
+      "SPANISH": "Examinan",
+      "ENGLISH": "They examine"
     },
     "NOSOTROS": {
-      "SPANISH": "examinamos",
-      "ENGLISH": "we examine"
+      "SPANISH": "Examinamos",
+      "ENGLISH": "We examine"
     },
     "VOSOTROS": {
-      "SPANISH": "examináis",
-      "ENGLISH": "you (plural) examine"
+      "SPANISH": "Examináis",
+      "ENGLISH": "You examine"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he examinado",
+      "SPANISH": "He examinado",
       "ENGLISH": "I have examined"
     },
     "TU": {
-      "SPANISH": "has examinado",
-      "ENGLISH": "you have examined"
+      "SPANISH": "Has examinado",
+      "ENGLISH": "You have examined"
     },
     "EL": {
-      "SPANISH": "ha examinado",
-      "ENGLISH": "s/he has examined, you (formal) have examined"
+      "SPANISH": "Ha examinado",
+      "ENGLISH": "He has examined"
     },
     "ELLOS": {
-      "SPANISH": "han examinado",
-      "ENGLISH": "they have examined, you (plural formal) have examined"
+      "SPANISH": "Han examinado",
+      "ENGLISH": "They have examined"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos examinado",
-      "ENGLISH": "we have examined"
+      "SPANISH": "Hemos examinado",
+      "ENGLISH": "We have examined"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis examinado",
-      "ENGLISH": "you (plural) have examined"
+      "SPANISH": "Habéis examinado",
+      "ENGLISH": "You have examined"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "examiné",
+      "SPANISH": "Examiné",
       "ENGLISH": "I examined"
     },
     "TU": {
-      "SPANISH": "examinaste",
-      "ENGLISH": "you examined"
+      "SPANISH": "Examinaste",
+      "ENGLISH": "You examined"
     },
     "EL": {
-      "SPANISH": "examinó",
-      "ENGLISH": "s/he examined, you (formal) examined"
+      "SPANISH": "Examinó",
+      "ENGLISH": "He examined"
     },
     "ELLOS": {
-      "SPANISH": "examinaron",
-      "ENGLISH": "they examined, you (plural formal) examined"
+      "SPANISH": "Examinaron",
+      "ENGLISH": "They examined"
     },
     "NOSOTROS": {
-      "SPANISH": "examinamos",
-      "ENGLISH": "we examined"
+      "SPANISH": "Examinamos",
+      "ENGLISH": "We examined"
     },
     "VOSOTROS": {
-      "SPANISH": "examinasteis",
-      "ENGLISH": "you (plural) examined"
+      "SPANISH": "Examinasteis",
+      "ENGLISH": "You examined"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había examinado",
+      "SPANISH": "Había examinado",
       "ENGLISH": "I had examined"
     },
     "TU": {
-      "SPANISH": "habías examinado",
-      "ENGLISH": "you had examined"
+      "SPANISH": "Habías examinado",
+      "ENGLISH": "You had examined"
     },
     "EL": {
-      "SPANISH": "había examinado",
-      "ENGLISH": "s/he had examined, you (formal) had examined"
+      "SPANISH": "Había examinado",
+      "ENGLISH": "He had examined"
     },
     "ELLOS": {
-      "SPANISH": "habían examinado",
-      "ENGLISH": "they had examined, you (plural formal) had examined"
+      "SPANISH": "Habían examinado",
+      "ENGLISH": "They had examined"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos examinado",
-      "ENGLISH": "we had examined"
+      "SPANISH": "Habíamos examinado",
+      "ENGLISH": "We had examined"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais examinado",
-      "ENGLISH": "you (plural) had examined"
+      "SPANISH": "Habíais examinado",
+      "ENGLISH": "You had examined"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "examiné",
+      "SPANISH": "Examiné",
       "ENGLISH": "I examined"
     },
     "TU": {
-      "SPANISH": "examinaste",
-      "ENGLISH": "you examined"
+      "SPANISH": "Examinaste",
+      "ENGLISH": "You examined"
     },
     "EL": {
-      "SPANISH": "examinó",
-      "ENGLISH": "s/he examined, you (formal) examined"
+      "SPANISH": "Examinó",
+      "ENGLISH": "He examined"
     },
     "ELLOS": {
-      "SPANISH": "examinaron",
-      "ENGLISH": "they examined, you (plural formal) examined"
+      "SPANISH": "Examinaron",
+      "ENGLISH": "They examined"
     },
     "NOSOTROS": {
-      "SPANISH": "examinamos",
-      "ENGLISH": "we examined"
+      "SPANISH": "Examinamos",
+      "ENGLISH": "We examined"
     },
     "VOSOTROS": {
-      "SPANISH": "examinasteis",
-      "ENGLISH": "you (plural) examined"
+      "SPANISH": "Examinasteis",
+      "ENGLISH": "You examined"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "examinaré",
+      "SPANISH": "Examinaré",
       "ENGLISH": "I will examine"
     },
     "TU": {
-      "SPANISH": "examinarás",
-      "ENGLISH": "you will examine"
+      "SPANISH": "Examinarás",
+      "ENGLISH": "You will examine"
     },
     "EL": {
-      "SPANISH": "examinará",
-      "ENGLISH": "s/he will examine, you (formal) will examine"
+      "SPANISH": "Examinará",
+      "ENGLISH": "He will examine"
     },
     "ELLOS": {
-      "SPANISH": "examinarán",
-      "ENGLISH": "they will examine, you (plural formal) will examine"
+      "SPANISH": "Examinarán",
+      "ENGLISH": "They will examine"
     },
     "NOSOTROS": {
-      "SPANISH": "examinaremos",
-      "ENGLISH": "we will examine"
+      "SPANISH": "Examinaremos",
+      "ENGLISH": "We will examine"
     },
     "VOSOTROS": {
-      "SPANISH": "examinaréis",
-      "ENGLISH": "you (plural) will examine"
+      "SPANISH": "Examinaréis",
+      "ENGLISH": "You will examine"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré examinado",
+      "SPANISH": "Habré examinado",
       "ENGLISH": "I will have examined"
     },
     "TU": {
-      "SPANISH": "habrás examinado",
-      "ENGLISH": "you will have examined"
+      "SPANISH": "Habrás examinado",
+      "ENGLISH": "You will have examined"
     },
     "EL": {
-      "SPANISH": "habrá examinado",
-      "ENGLISH": "s/he will have examined, you (formal) will have examined"
+      "SPANISH": "Habrá examinado",
+      "ENGLISH": "He will have examined"
     },
     "ELLOS": {
-      "SPANISH": "habrán examinado",
-      "ENGLISH": "they will have examined, you (plural formal) will have examined"
+      "SPANISH": "Habrán examinado",
+      "ENGLISH": "They will have examined"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos examinado",
-      "ENGLISH": "we will have examined"
+      "SPANISH": "Habremos examinado",
+      "ENGLISH": "We will have examined"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis examinado",
-      "ENGLISH": "you (plural) will have examined"
+      "SPANISH": "Habréis examinado",
+      "ENGLISH": "You will have examined"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "examinaría",
+      "SPANISH": "Examinaría",
       "ENGLISH": "I would examine"
     },
     "TU": {
-      "SPANISH": "examinarías",
-      "ENGLISH": "you would examine"
+      "SPANISH": "Examinarías",
+      "ENGLISH": "You would examine"
     },
     "EL": {
-      "SPANISH": "examinaría",
-      "ENGLISH": "s/he would examine, you (formal) would examine"
+      "SPANISH": "Examinaría",
+      "ENGLISH": "He would examine"
     },
     "ELLOS": {
-      "SPANISH": "examinarían",
-      "ENGLISH": "they would examine, you (plural formal) would examine"
+      "SPANISH": "Examinarían",
+      "ENGLISH": "They would examine"
     },
     "NOSOTROS": {
-      "SPANISH": "examinaríamos",
-      "ENGLISH": "we would examine"
+      "SPANISH": "Examinaríamos",
+      "ENGLISH": "We would examine"
     },
     "VOSOTROS": {
-      "SPANISH": "examinaríais",
-      "ENGLISH": "you (plural) would examine"
+      "SPANISH": "Examinaríais",
+      "ENGLISH": "You would examine"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría examinado",
+      "SPANISH": "Habría examinado",
       "ENGLISH": "I would have examined"
     },
     "TU": {
-      "SPANISH": "habrías examinado",
-      "ENGLISH": "you would have examined"
+      "SPANISH": "Habrías examinado",
+      "ENGLISH": "You would have examined"
     },
     "EL": {
-      "SPANISH": "habría examinado",
-      "ENGLISH": "s/he would have examined, you (formal) would have examined"
+      "SPANISH": "Habría examinado",
+      "ENGLISH": "He would have examined"
     },
     "ELLOS": {
-      "SPANISH": "habrían examinado",
-      "ENGLISH": "they would have examined, you (plural formal) would have examined"
+      "SPANISH": "Habrían examinado",
+      "ENGLISH": "They would have examined"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos examinado",
-      "ENGLISH": "we would have examined"
+      "SPANISH": "Habríamos examinado",
+      "ENGLISH": "We would have examined"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais examinado",
-      "ENGLISH": "you (plural) would have examined"
+      "SPANISH": "Habríais examinado",
+      "ENGLISH": "You would have examined"
     }
   }
 }

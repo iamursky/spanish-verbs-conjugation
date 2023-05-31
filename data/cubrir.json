@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cubro",
+      "SPANISH": "Cubro",
       "ENGLISH": "I cover"
     },
     "TU": {
-      "SPANISH": "cubres",
-      "ENGLISH": "you cover"
+      "SPANISH": "Cubres",
+      "ENGLISH": "You cover"
     },
     "EL": {
-      "SPANISH": "cubre",
-      "ENGLISH": "s/he covers, you (formal) covers"
+      "SPANISH": "Cubre",
+      "ENGLISH": "He covers"
     },
     "ELLOS": {
-      "SPANISH": "cubren",
-      "ENGLISH": "they cover, you (plural formal) cover"
+      "SPANISH": "Cubren",
+      "ENGLISH": "They cover"
     },
     "NOSOTROS": {
-      "SPANISH": "cubrimos",
-      "ENGLISH": "we cover"
+      "SPANISH": "Cubrimos",
+      "ENGLISH": "We cover"
     },
     "VOSOTROS": {
-      "SPANISH": "cubrís",
-      "ENGLISH": "you (plural) cover"
+      "SPANISH": "Cubrís",
+      "ENGLISH": "You cover"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cubierto ",
+      "SPANISH": "He cubierto ",
       "ENGLISH": "I have covered"
     },
     "TU": {
-      "SPANISH": "has cubierto ",
-      "ENGLISH": "you have covered"
+      "SPANISH": "Has cubierto ",
+      "ENGLISH": "You have covered"
     },
     "EL": {
-      "SPANISH": "ha cubierto ",
-      "ENGLISH": "s/he has covered, you (formal) have covered"
+      "SPANISH": "Ha cubierto ",
+      "ENGLISH": "He has covered"
     },
     "ELLOS": {
-      "SPANISH": "han cubierto ",
-      "ENGLISH": "they have covered, you (plural formal) have covered"
+      "SPANISH": "Han cubierto ",
+      "ENGLISH": "They have covered"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cubierto ",
-      "ENGLISH": "we have covered"
+      "SPANISH": "Hemos cubierto ",
+      "ENGLISH": "We have covered"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cubierto ",
-      "ENGLISH": "you (plural) have covered"
+      "SPANISH": "Habéis cubierto ",
+      "ENGLISH": "You have covered"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cubrí",
+      "SPANISH": "Cubrí",
       "ENGLISH": "I covered"
     },
     "TU": {
-      "SPANISH": "cubriste",
-      "ENGLISH": "you covered"
+      "SPANISH": "Cubriste",
+      "ENGLISH": "You covered"
     },
     "EL": {
-      "SPANISH": "cubrió",
-      "ENGLISH": "s/he covered, you (formal) covered"
+      "SPANISH": "Cubrió",
+      "ENGLISH": "He covered"
     },
     "ELLOS": {
-      "SPANISH": "cubrieron",
-      "ENGLISH": "they covered, you (plural formal) covered"
+      "SPANISH": "Cubrieron",
+      "ENGLISH": "They covered"
     },
     "NOSOTROS": {
-      "SPANISH": "cubrimos",
-      "ENGLISH": "we covered"
+      "SPANISH": "Cubrimos",
+      "ENGLISH": "We covered"
     },
     "VOSOTROS": {
-      "SPANISH": "cubristeis",
-      "ENGLISH": "you (plural) covered"
+      "SPANISH": "Cubristeis",
+      "ENGLISH": "You covered"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cubierto ",
+      "SPANISH": "Había cubierto ",
       "ENGLISH": "I had covered"
     },
     "TU": {
-      "SPANISH": "habías cubierto ",
-      "ENGLISH": "you had covered"
+      "SPANISH": "Habías cubierto ",
+      "ENGLISH": "You had covered"
     },
     "EL": {
-      "SPANISH": "había cubierto ",
-      "ENGLISH": "s/he had covered, you (formal) had covered"
+      "SPANISH": "Había cubierto ",
+      "ENGLISH": "He had covered"
     },
     "ELLOS": {
-      "SPANISH": "habían cubierto ",
-      "ENGLISH": "they had covered, you (plural formal) had covered"
+      "SPANISH": "Habían cubierto ",
+      "ENGLISH": "They had covered"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cubierto ",
-      "ENGLISH": "we had covered"
+      "SPANISH": "Habíamos cubierto ",
+      "ENGLISH": "We had covered"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cubierto ",
-      "ENGLISH": "you (plural) had covered"
+      "SPANISH": "Habíais cubierto ",
+      "ENGLISH": "You had covered"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cubrí",
+      "SPANISH": "Cubrí",
       "ENGLISH": "I covered"
     },
     "TU": {
-      "SPANISH": "cubriste",
-      "ENGLISH": "you covered"
+      "SPANISH": "Cubriste",
+      "ENGLISH": "You covered"
     },
     "EL": {
-      "SPANISH": "cubrió",
-      "ENGLISH": "s/he covered, you (formal) covered"
+      "SPANISH": "Cubrió",
+      "ENGLISH": "He covered"
     },
     "ELLOS": {
-      "SPANISH": "cubrieron",
-      "ENGLISH": "they covered, you (plural formal) covered"
+      "SPANISH": "Cubrieron",
+      "ENGLISH": "They covered"
     },
     "NOSOTROS": {
-      "SPANISH": "cubrimos",
-      "ENGLISH": "we covered"
+      "SPANISH": "Cubrimos",
+      "ENGLISH": "We covered"
     },
     "VOSOTROS": {
-      "SPANISH": "cubristeis",
-      "ENGLISH": "you (plural) covered"
+      "SPANISH": "Cubristeis",
+      "ENGLISH": "You covered"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cubriré",
+      "SPANISH": "Cubriré",
       "ENGLISH": "I will cover"
     },
     "TU": {
-      "SPANISH": "cubrirás",
-      "ENGLISH": "you will cover"
+      "SPANISH": "Cubrirás",
+      "ENGLISH": "You will cover"
     },
     "EL": {
-      "SPANISH": "cubrirá",
-      "ENGLISH": "s/he will cover, you (formal) will cover"
+      "SPANISH": "Cubrirá",
+      "ENGLISH": "He will cover"
     },
     "ELLOS": {
-      "SPANISH": "cubrirán",
-      "ENGLISH": "they will cover, you (plural formal) will cover"
+      "SPANISH": "Cubrirán",
+      "ENGLISH": "They will cover"
     },
     "NOSOTROS": {
-      "SPANISH": "cubriremos",
-      "ENGLISH": "we will cover"
+      "SPANISH": "Cubriremos",
+      "ENGLISH": "We will cover"
     },
     "VOSOTROS": {
-      "SPANISH": "cubriréis",
-      "ENGLISH": "you (plural) will cover"
+      "SPANISH": "Cubriréis",
+      "ENGLISH": "You will cover"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cubierto ",
+      "SPANISH": "Habré cubierto ",
       "ENGLISH": "I will have covered"
     },
     "TU": {
-      "SPANISH": "habrás cubierto ",
-      "ENGLISH": "you will have covered"
+      "SPANISH": "Habrás cubierto ",
+      "ENGLISH": "You will have covered"
     },
     "EL": {
-      "SPANISH": "habrá cubierto ",
-      "ENGLISH": "s/he will have covered, you (formal) will have covered"
+      "SPANISH": "Habrá cubierto ",
+      "ENGLISH": "He will have covered"
     },
     "ELLOS": {
-      "SPANISH": "habrán cubierto ",
-      "ENGLISH": "they will have covered, you (plural formal) will have covered"
+      "SPANISH": "Habrán cubierto ",
+      "ENGLISH": "They will have covered"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cubierto ",
-      "ENGLISH": "we will have covered"
+      "SPANISH": "Habremos cubierto ",
+      "ENGLISH": "We will have covered"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cubierto ",
-      "ENGLISH": "you (plural) will have covered"
+      "SPANISH": "Habréis cubierto ",
+      "ENGLISH": "You will have covered"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cubriría",
+      "SPANISH": "Cubriría",
       "ENGLISH": "I would cover"
     },
     "TU": {
-      "SPANISH": "cubrirías",
-      "ENGLISH": "you would cover"
+      "SPANISH": "Cubrirías",
+      "ENGLISH": "You would cover"
     },
     "EL": {
-      "SPANISH": "cubriría",
-      "ENGLISH": "s/he would cover, you (formal) would cover"
+      "SPANISH": "Cubriría",
+      "ENGLISH": "He would cover"
     },
     "ELLOS": {
-      "SPANISH": "cubrirían",
-      "ENGLISH": "they would cover, you (plural formal) would cover"
+      "SPANISH": "Cubrirían",
+      "ENGLISH": "They would cover"
     },
     "NOSOTROS": {
-      "SPANISH": "cubriríamos",
-      "ENGLISH": "we would cover"
+      "SPANISH": "Cubriríamos",
+      "ENGLISH": "We would cover"
     },
     "VOSOTROS": {
-      "SPANISH": "cubriríais",
-      "ENGLISH": "you (plural) would cover"
+      "SPANISH": "Cubriríais",
+      "ENGLISH": "You would cover"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cubierto ",
+      "SPANISH": "Habría cubierto ",
       "ENGLISH": "I would have covered"
     },
     "TU": {
-      "SPANISH": "habrías cubierto ",
-      "ENGLISH": "you would have covered"
+      "SPANISH": "Habrías cubierto ",
+      "ENGLISH": "You would have covered"
     },
     "EL": {
-      "SPANISH": "habría cubierto ",
-      "ENGLISH": "s/he would have covered, you (formal) would have covered"
+      "SPANISH": "Habría cubierto ",
+      "ENGLISH": "He would have covered"
     },
     "ELLOS": {
-      "SPANISH": "habrían cubierto ",
-      "ENGLISH": "they would have covered, you (plural formal) would have covered"
+      "SPANISH": "Habrían cubierto ",
+      "ENGLISH": "They would have covered"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cubierto ",
-      "ENGLISH": "we would have covered"
+      "SPANISH": "Habríamos cubierto ",
+      "ENGLISH": "We would have covered"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cubierto ",
-      "ENGLISH": "you (plural) would have covered"
+      "SPANISH": "Habríais cubierto ",
+      "ENGLISH": "You would have covered"
     }
   }
 }

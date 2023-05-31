@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cambio",
+      "SPANISH": "Cambio",
       "ENGLISH": "I change"
     },
     "TU": {
-      "SPANISH": "cambias",
-      "ENGLISH": "you change"
+      "SPANISH": "Cambias",
+      "ENGLISH": "You change"
     },
     "EL": {
-      "SPANISH": "cambia",
-      "ENGLISH": "s/he changes, you (formal) changes"
+      "SPANISH": "Cambia",
+      "ENGLISH": "He changes"
     },
     "ELLOS": {
-      "SPANISH": "cambian",
-      "ENGLISH": "they change, you (plural formal) change"
+      "SPANISH": "Cambian",
+      "ENGLISH": "They change"
     },
     "NOSOTROS": {
-      "SPANISH": "cambiamos",
-      "ENGLISH": "we change"
+      "SPANISH": "Cambiamos",
+      "ENGLISH": "We change"
     },
     "VOSOTROS": {
-      "SPANISH": "cambiáis",
-      "ENGLISH": "you (plural) change"
+      "SPANISH": "Cambiáis",
+      "ENGLISH": "You change"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cambiado",
+      "SPANISH": "He cambiado",
       "ENGLISH": "I have changed"
     },
     "TU": {
-      "SPANISH": "has cambiado",
-      "ENGLISH": "you have changed"
+      "SPANISH": "Has cambiado",
+      "ENGLISH": "You have changed"
     },
     "EL": {
-      "SPANISH": "ha cambiado",
-      "ENGLISH": "s/he has changed, you (formal) have changed"
+      "SPANISH": "Ha cambiado",
+      "ENGLISH": "He has changed"
     },
     "ELLOS": {
-      "SPANISH": "han cambiado",
-      "ENGLISH": "they have changed, you (plural formal) have changed"
+      "SPANISH": "Han cambiado",
+      "ENGLISH": "They have changed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cambiado",
-      "ENGLISH": "we have changed"
+      "SPANISH": "Hemos cambiado",
+      "ENGLISH": "We have changed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cambiado",
-      "ENGLISH": "you (plural) have changed"
+      "SPANISH": "Habéis cambiado",
+      "ENGLISH": "You have changed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cambié",
+      "SPANISH": "Cambié",
       "ENGLISH": "I changed"
     },
     "TU": {
-      "SPANISH": "cambiaste",
-      "ENGLISH": "you changed"
+      "SPANISH": "Cambiaste",
+      "ENGLISH": "You changed"
     },
     "EL": {
-      "SPANISH": "cambió",
-      "ENGLISH": "s/he changed, you (formal) changed"
+      "SPANISH": "Cambió",
+      "ENGLISH": "He changed"
     },
     "ELLOS": {
-      "SPANISH": "cambiaron",
-      "ENGLISH": "they changed, you (plural formal) changed"
+      "SPANISH": "Cambiaron",
+      "ENGLISH": "They changed"
     },
     "NOSOTROS": {
-      "SPANISH": "cambiamos",
-      "ENGLISH": "we changed"
+      "SPANISH": "Cambiamos",
+      "ENGLISH": "We changed"
     },
     "VOSOTROS": {
-      "SPANISH": "cambiasteis",
-      "ENGLISH": "you (plural) changed"
+      "SPANISH": "Cambiasteis",
+      "ENGLISH": "You changed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cambiado",
+      "SPANISH": "Había cambiado",
       "ENGLISH": "I had changed"
     },
     "TU": {
-      "SPANISH": "habías cambiado",
-      "ENGLISH": "you had changed"
+      "SPANISH": "Habías cambiado",
+      "ENGLISH": "You had changed"
     },
     "EL": {
-      "SPANISH": "había cambiado",
-      "ENGLISH": "s/he had changed, you (formal) had changed"
+      "SPANISH": "Había cambiado",
+      "ENGLISH": "He had changed"
     },
     "ELLOS": {
-      "SPANISH": "habían cambiado",
-      "ENGLISH": "they had changed, you (plural formal) had changed"
+      "SPANISH": "Habían cambiado",
+      "ENGLISH": "They had changed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cambiado",
-      "ENGLISH": "we had changed"
+      "SPANISH": "Habíamos cambiado",
+      "ENGLISH": "We had changed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cambiado",
-      "ENGLISH": "you (plural) had changed"
+      "SPANISH": "Habíais cambiado",
+      "ENGLISH": "You had changed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cambié",
+      "SPANISH": "Cambié",
       "ENGLISH": "I changed"
     },
     "TU": {
-      "SPANISH": "cambiaste",
-      "ENGLISH": "you changed"
+      "SPANISH": "Cambiaste",
+      "ENGLISH": "You changed"
     },
     "EL": {
-      "SPANISH": "cambió",
-      "ENGLISH": "s/he changed, you (formal) changed"
+      "SPANISH": "Cambió",
+      "ENGLISH": "He changed"
     },
     "ELLOS": {
-      "SPANISH": "cambiaron",
-      "ENGLISH": "they changed, you (plural formal) changed"
+      "SPANISH": "Cambiaron",
+      "ENGLISH": "They changed"
     },
     "NOSOTROS": {
-      "SPANISH": "cambiamos",
-      "ENGLISH": "we changed"
+      "SPANISH": "Cambiamos",
+      "ENGLISH": "We changed"
     },
     "VOSOTROS": {
-      "SPANISH": "cambiasteis",
-      "ENGLISH": "you (plural) changed"
+      "SPANISH": "Cambiasteis",
+      "ENGLISH": "You changed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cambiaré",
+      "SPANISH": "Cambiaré",
       "ENGLISH": "I will change"
     },
     "TU": {
-      "SPANISH": "cambiarás",
-      "ENGLISH": "you will change"
+      "SPANISH": "Cambiarás",
+      "ENGLISH": "You will change"
     },
     "EL": {
-      "SPANISH": "cambiará",
-      "ENGLISH": "s/he will change, you (formal) will change"
+      "SPANISH": "Cambiará",
+      "ENGLISH": "He will change"
     },
     "ELLOS": {
-      "SPANISH": "cambiarán",
-      "ENGLISH": "they will change, you (plural formal) will change"
+      "SPANISH": "Cambiarán",
+      "ENGLISH": "They will change"
     },
     "NOSOTROS": {
-      "SPANISH": "cambiaremos",
-      "ENGLISH": "we will change"
+      "SPANISH": "Cambiaremos",
+      "ENGLISH": "We will change"
     },
     "VOSOTROS": {
-      "SPANISH": "cambiaréis",
-      "ENGLISH": "you (plural) will change"
+      "SPANISH": "Cambiaréis",
+      "ENGLISH": "You will change"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cambiado",
+      "SPANISH": "Habré cambiado",
       "ENGLISH": "I will have changed"
     },
     "TU": {
-      "SPANISH": "habrás cambiado",
-      "ENGLISH": "you will have changed"
+      "SPANISH": "Habrás cambiado",
+      "ENGLISH": "You will have changed"
     },
     "EL": {
-      "SPANISH": "habrá cambiado",
-      "ENGLISH": "s/he will have changed, you (formal) will have changed"
+      "SPANISH": "Habrá cambiado",
+      "ENGLISH": "He will have changed"
     },
     "ELLOS": {
-      "SPANISH": "habrán cambiado",
-      "ENGLISH": "they will have changed, you (plural formal) will have changed"
+      "SPANISH": "Habrán cambiado",
+      "ENGLISH": "They will have changed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cambiado",
-      "ENGLISH": "we will have changed"
+      "SPANISH": "Habremos cambiado",
+      "ENGLISH": "We will have changed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cambiado",
-      "ENGLISH": "you (plural) will have changed"
+      "SPANISH": "Habréis cambiado",
+      "ENGLISH": "You will have changed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cambiaría",
+      "SPANISH": "Cambiaría",
       "ENGLISH": "I would change"
     },
     "TU": {
-      "SPANISH": "cambiarías",
-      "ENGLISH": "you would change"
+      "SPANISH": "Cambiarías",
+      "ENGLISH": "You would change"
     },
     "EL": {
-      "SPANISH": "cambiaría",
-      "ENGLISH": "s/he would change, you (formal) would change"
+      "SPANISH": "Cambiaría",
+      "ENGLISH": "He would change"
     },
     "ELLOS": {
-      "SPANISH": "cambiarían",
-      "ENGLISH": "they would change, you (plural formal) would change"
+      "SPANISH": "Cambiarían",
+      "ENGLISH": "They would change"
     },
     "NOSOTROS": {
-      "SPANISH": "cambiaríamos",
-      "ENGLISH": "we would change"
+      "SPANISH": "Cambiaríamos",
+      "ENGLISH": "We would change"
     },
     "VOSOTROS": {
-      "SPANISH": "cambiaríais",
-      "ENGLISH": "you (plural) would change"
+      "SPANISH": "Cambiaríais",
+      "ENGLISH": "You would change"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cambiado",
+      "SPANISH": "Habría cambiado",
       "ENGLISH": "I would have changed"
     },
     "TU": {
-      "SPANISH": "habrías cambiado",
-      "ENGLISH": "you would have changed"
+      "SPANISH": "Habrías cambiado",
+      "ENGLISH": "You would have changed"
     },
     "EL": {
-      "SPANISH": "habría cambiado",
-      "ENGLISH": "s/he would have changed, you (formal) would have changed"
+      "SPANISH": "Habría cambiado",
+      "ENGLISH": "He would have changed"
     },
     "ELLOS": {
-      "SPANISH": "habrían cambiado",
-      "ENGLISH": "they would have changed, you (plural formal) would have changed"
+      "SPANISH": "Habrían cambiado",
+      "ENGLISH": "They would have changed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cambiado",
-      "ENGLISH": "we would have changed"
+      "SPANISH": "Habríamos cambiado",
+      "ENGLISH": "We would have changed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cambiado",
-      "ENGLISH": "you (plural) would have changed"
+      "SPANISH": "Habríais cambiado",
+      "ENGLISH": "You would have changed"
     }
   }
 }

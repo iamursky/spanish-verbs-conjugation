@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "acerco",
+      "SPANISH": "Acerco",
       "ENGLISH": "I bring closer"
     },
     "TU": {
-      "SPANISH": "acercas",
-      "ENGLISH": "you bring closer"
+      "SPANISH": "Acercas",
+      "ENGLISH": "You bring closer"
     },
     "EL": {
-      "SPANISH": "acerca",
-      "ENGLISH": "s/he brings closer, you (formal) brings closer"
+      "SPANISH": "Acerca",
+      "ENGLISH": "He brings closer"
     },
     "ELLOS": {
-      "SPANISH": "acercan",
-      "ENGLISH": "they bring closer, you (plural formal) bring closer"
+      "SPANISH": "Acercan",
+      "ENGLISH": "They bring closer"
     },
     "NOSOTROS": {
-      "SPANISH": "acercamos",
-      "ENGLISH": "we bring closer"
+      "SPANISH": "Acercamos",
+      "ENGLISH": "We bring closer"
     },
     "VOSOTROS": {
-      "SPANISH": "acercáis",
-      "ENGLISH": "you (plural) bring closer"
+      "SPANISH": "Acercáis",
+      "ENGLISH": "You bring closer"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he acercado",
+      "SPANISH": "He acercado",
       "ENGLISH": "I have brought closer"
     },
     "TU": {
-      "SPANISH": "has acercado",
-      "ENGLISH": "you have brought closer"
+      "SPANISH": "Has acercado",
+      "ENGLISH": "You have brought closer"
     },
     "EL": {
-      "SPANISH": "ha acercado",
-      "ENGLISH": "s/he has brought closer, you (formal) have brought closer"
+      "SPANISH": "Ha acercado",
+      "ENGLISH": "He has brought closer"
     },
     "ELLOS": {
-      "SPANISH": "han acercado",
-      "ENGLISH": "they have brought closer, you (plural formal) have brought closer"
+      "SPANISH": "Han acercado",
+      "ENGLISH": "They have brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos acercado",
-      "ENGLISH": "we have brought closer"
+      "SPANISH": "Hemos acercado",
+      "ENGLISH": "We have brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis acercado",
-      "ENGLISH": "you (plural) have brought closer"
+      "SPANISH": "Habéis acercado",
+      "ENGLISH": "You have brought closer"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "acerqué ",
+      "SPANISH": "Acerqué ",
       "ENGLISH": "I brought closer"
     },
     "TU": {
-      "SPANISH": "acercaste",
-      "ENGLISH": "you brought closer"
+      "SPANISH": "Acercaste",
+      "ENGLISH": "You brought closer"
     },
     "EL": {
-      "SPANISH": "acercó",
-      "ENGLISH": "s/he brought closer, you (formal) brought closer"
+      "SPANISH": "Acercó",
+      "ENGLISH": "He brought closer"
     },
     "ELLOS": {
-      "SPANISH": "acercaron",
-      "ENGLISH": "they brought closer, you (plural formal) brought closer"
+      "SPANISH": "Acercaron",
+      "ENGLISH": "They brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "acercamos",
-      "ENGLISH": "we brought closer"
+      "SPANISH": "Acercamos",
+      "ENGLISH": "We brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "acercasteis",
-      "ENGLISH": "you (plural) brought closer"
+      "SPANISH": "Acercasteis",
+      "ENGLISH": "You brought closer"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había acercado",
+      "SPANISH": "Había acercado",
       "ENGLISH": "I had brought closer"
     },
     "TU": {
-      "SPANISH": "habías acercado",
-      "ENGLISH": "you had brought closer"
+      "SPANISH": "Habías acercado",
+      "ENGLISH": "You had brought closer"
     },
     "EL": {
-      "SPANISH": "había acercado",
-      "ENGLISH": "s/he had brought closer, you (formal) had brought closer"
+      "SPANISH": "Había acercado",
+      "ENGLISH": "He had brought closer"
     },
     "ELLOS": {
-      "SPANISH": "habían acercado",
-      "ENGLISH": "they had brought closer, you (plural formal) had brought closer"
+      "SPANISH": "Habían acercado",
+      "ENGLISH": "They had brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos acercado",
-      "ENGLISH": "we had brought closer"
+      "SPANISH": "Habíamos acercado",
+      "ENGLISH": "We had brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais acercado",
-      "ENGLISH": "you (plural) had brought closer"
+      "SPANISH": "Habíais acercado",
+      "ENGLISH": "You had brought closer"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "acerqué ",
+      "SPANISH": "Acerqué ",
       "ENGLISH": "I brought closer"
     },
     "TU": {
-      "SPANISH": "acercaste",
-      "ENGLISH": "you brought closer"
+      "SPANISH": "Acercaste",
+      "ENGLISH": "You brought closer"
     },
     "EL": {
-      "SPANISH": "acercó",
-      "ENGLISH": "s/he brought closer, you (formal) brought closer"
+      "SPANISH": "Acercó",
+      "ENGLISH": "He brought closer"
     },
     "ELLOS": {
-      "SPANISH": "acercaron",
-      "ENGLISH": "they brought closer, you (plural formal) brought closer"
+      "SPANISH": "Acercaron",
+      "ENGLISH": "They brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "acercamos",
-      "ENGLISH": "we brought closer"
+      "SPANISH": "Acercamos",
+      "ENGLISH": "We brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "acercasteis",
-      "ENGLISH": "you (plural) brought closer"
+      "SPANISH": "Acercasteis",
+      "ENGLISH": "You brought closer"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "acercaré",
+      "SPANISH": "Acercaré",
       "ENGLISH": "I will bring closer"
     },
     "TU": {
-      "SPANISH": "acercarás",
-      "ENGLISH": "you will bring closer"
+      "SPANISH": "Acercarás",
+      "ENGLISH": "You will bring closer"
     },
     "EL": {
-      "SPANISH": "acercará",
-      "ENGLISH": "s/he will bring closer, you (formal) will bring closer"
+      "SPANISH": "Acercará",
+      "ENGLISH": "He will bring closer"
     },
     "ELLOS": {
-      "SPANISH": "acercarán",
-      "ENGLISH": "they will bring closer, you (plural formal) will bring closer"
+      "SPANISH": "Acercarán",
+      "ENGLISH": "They will bring closer"
     },
     "NOSOTROS": {
-      "SPANISH": "acercaremos",
-      "ENGLISH": "we will bring closer"
+      "SPANISH": "Acercaremos",
+      "ENGLISH": "We will bring closer"
     },
     "VOSOTROS": {
-      "SPANISH": "acercaréis",
-      "ENGLISH": "you (plural) will bring closer"
+      "SPANISH": "Acercaréis",
+      "ENGLISH": "You will bring closer"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré acercado",
+      "SPANISH": "Habré acercado",
       "ENGLISH": "I will have brought closer"
     },
     "TU": {
-      "SPANISH": "habrás acercado",
-      "ENGLISH": "you will have brought closer"
+      "SPANISH": "Habrás acercado",
+      "ENGLISH": "You will have brought closer"
     },
     "EL": {
-      "SPANISH": "habrá acercado",
-      "ENGLISH": "s/he will have brought closer, you (formal) will have brought closer"
+      "SPANISH": "Habrá acercado",
+      "ENGLISH": "He will have brought closer"
     },
     "ELLOS": {
-      "SPANISH": "habrán acercado",
-      "ENGLISH": "they will have brought closer, you (plural formal) will have brought closer"
+      "SPANISH": "Habrán acercado",
+      "ENGLISH": "They will have brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos acercado",
-      "ENGLISH": "we will have brought closer"
+      "SPANISH": "Habremos acercado",
+      "ENGLISH": "We will have brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis acercado",
-      "ENGLISH": "you (plural) will have brought closer"
+      "SPANISH": "Habréis acercado",
+      "ENGLISH": "You will have brought closer"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "acercaría",
+      "SPANISH": "Acercaría",
       "ENGLISH": "I would bring closer"
     },
     "TU": {
-      "SPANISH": "acercarías",
-      "ENGLISH": "you would bring closer"
+      "SPANISH": "Acercarías",
+      "ENGLISH": "You would bring closer"
     },
     "EL": {
-      "SPANISH": "acercaría",
-      "ENGLISH": "s/he would bring closer, you (formal) would bring closer"
+      "SPANISH": "Acercaría",
+      "ENGLISH": "He would bring closer"
     },
     "ELLOS": {
-      "SPANISH": "acercarían",
-      "ENGLISH": "they would bring closer, you (plural formal) would bring closer"
+      "SPANISH": "Acercarían",
+      "ENGLISH": "They would bring closer"
     },
     "NOSOTROS": {
-      "SPANISH": "acercaríamos",
-      "ENGLISH": "we would bring closer"
+      "SPANISH": "Acercaríamos",
+      "ENGLISH": "We would bring closer"
     },
     "VOSOTROS": {
-      "SPANISH": "acercaríais",
-      "ENGLISH": "you (plural) would bring closer"
+      "SPANISH": "Acercaríais",
+      "ENGLISH": "You would bring closer"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría acercado",
+      "SPANISH": "Habría acercado",
       "ENGLISH": "I would have brought closer"
     },
     "TU": {
-      "SPANISH": "habrías acercado",
-      "ENGLISH": "you would have brought closer"
+      "SPANISH": "Habrías acercado",
+      "ENGLISH": "You would have brought closer"
     },
     "EL": {
-      "SPANISH": "habría acercado",
-      "ENGLISH": "s/he would have brought closer, you (formal) would have brought closer"
+      "SPANISH": "Habría acercado",
+      "ENGLISH": "He would have brought closer"
     },
     "ELLOS": {
-      "SPANISH": "habrían acercado",
-      "ENGLISH": "they would have brought closer, you (plural formal) would have brought closer"
+      "SPANISH": "Habrían acercado",
+      "ENGLISH": "They would have brought closer"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos acercado",
-      "ENGLISH": "we would have brought closer"
+      "SPANISH": "Habríamos acercado",
+      "ENGLISH": "We would have brought closer"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais acercado",
-      "ENGLISH": "you (plural) would have brought closer"
+      "SPANISH": "Habríais acercado",
+      "ENGLISH": "You would have brought closer"
     }
   }
 }

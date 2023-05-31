@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "voto",
+      "SPANISH": "Voto",
       "ENGLISH": "I vote"
     },
     "TU": {
-      "SPANISH": "votas",
-      "ENGLISH": "you vote"
+      "SPANISH": "Votas",
+      "ENGLISH": "You vote"
     },
     "EL": {
-      "SPANISH": "vota",
-      "ENGLISH": "s/he votes, you (formal) votes"
+      "SPANISH": "Vota",
+      "ENGLISH": "He votes"
     },
     "ELLOS": {
-      "SPANISH": "votan",
-      "ENGLISH": "they vote, you (plural formal) vote"
+      "SPANISH": "Votan",
+      "ENGLISH": "They vote"
     },
     "NOSOTROS": {
-      "SPANISH": "votamos",
-      "ENGLISH": "we vote"
+      "SPANISH": "Votamos",
+      "ENGLISH": "We vote"
     },
     "VOSOTROS": {
-      "SPANISH": "votáis",
-      "ENGLISH": "you (plural) vote"
+      "SPANISH": "Votáis",
+      "ENGLISH": "You vote"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he votado",
+      "SPANISH": "He votado",
       "ENGLISH": "I have voted"
     },
     "TU": {
-      "SPANISH": "has votado",
-      "ENGLISH": "you have voted"
+      "SPANISH": "Has votado",
+      "ENGLISH": "You have voted"
     },
     "EL": {
-      "SPANISH": "ha votado",
-      "ENGLISH": "s/he has voted, you (formal) have voted"
+      "SPANISH": "Ha votado",
+      "ENGLISH": "He has voted"
     },
     "ELLOS": {
-      "SPANISH": "han votado",
-      "ENGLISH": "they have voted, you (plural formal) have voted"
+      "SPANISH": "Han votado",
+      "ENGLISH": "They have voted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos votado",
-      "ENGLISH": "we have voted"
+      "SPANISH": "Hemos votado",
+      "ENGLISH": "We have voted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis votado",
-      "ENGLISH": "you (plural) have voted"
+      "SPANISH": "Habéis votado",
+      "ENGLISH": "You have voted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "voté",
+      "SPANISH": "Voté",
       "ENGLISH": "I voted"
     },
     "TU": {
-      "SPANISH": "votaste",
-      "ENGLISH": "you voted"
+      "SPANISH": "Votaste",
+      "ENGLISH": "You voted"
     },
     "EL": {
-      "SPANISH": "votó",
-      "ENGLISH": "s/he voted, you (formal) voted"
+      "SPANISH": "Votó",
+      "ENGLISH": "He voted"
     },
     "ELLOS": {
-      "SPANISH": "votaron",
-      "ENGLISH": "they voted, you (plural formal) voted"
+      "SPANISH": "Votaron",
+      "ENGLISH": "They voted"
     },
     "NOSOTROS": {
-      "SPANISH": "votamos",
-      "ENGLISH": "we voted"
+      "SPANISH": "Votamos",
+      "ENGLISH": "We voted"
     },
     "VOSOTROS": {
-      "SPANISH": "votasteis",
-      "ENGLISH": "you (plural) voted"
+      "SPANISH": "Votasteis",
+      "ENGLISH": "You voted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había votado",
+      "SPANISH": "Había votado",
       "ENGLISH": "I had voted"
     },
     "TU": {
-      "SPANISH": "habías votado",
-      "ENGLISH": "you had voted"
+      "SPANISH": "Habías votado",
+      "ENGLISH": "You had voted"
     },
     "EL": {
-      "SPANISH": "había votado",
-      "ENGLISH": "s/he had voted, you (formal) had voted"
+      "SPANISH": "Había votado",
+      "ENGLISH": "He had voted"
     },
     "ELLOS": {
-      "SPANISH": "habían votado",
-      "ENGLISH": "they had voted, you (plural formal) had voted"
+      "SPANISH": "Habían votado",
+      "ENGLISH": "They had voted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos votado",
-      "ENGLISH": "we had voted"
+      "SPANISH": "Habíamos votado",
+      "ENGLISH": "We had voted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais votado",
-      "ENGLISH": "you (plural) had voted"
+      "SPANISH": "Habíais votado",
+      "ENGLISH": "You had voted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "voté",
+      "SPANISH": "Voté",
       "ENGLISH": "I voted"
     },
     "TU": {
-      "SPANISH": "votaste",
-      "ENGLISH": "you voted"
+      "SPANISH": "Votaste",
+      "ENGLISH": "You voted"
     },
     "EL": {
-      "SPANISH": "votó",
-      "ENGLISH": "s/he voted, you (formal) voted"
+      "SPANISH": "Votó",
+      "ENGLISH": "He voted"
     },
     "ELLOS": {
-      "SPANISH": "votaron",
-      "ENGLISH": "they voted, you (plural formal) voted"
+      "SPANISH": "Votaron",
+      "ENGLISH": "They voted"
     },
     "NOSOTROS": {
-      "SPANISH": "votamos",
-      "ENGLISH": "we voted"
+      "SPANISH": "Votamos",
+      "ENGLISH": "We voted"
     },
     "VOSOTROS": {
-      "SPANISH": "votasteis",
-      "ENGLISH": "you (plural) voted"
+      "SPANISH": "Votasteis",
+      "ENGLISH": "You voted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "votaré",
+      "SPANISH": "Votaré",
       "ENGLISH": "I will vote"
     },
     "TU": {
-      "SPANISH": "votarás",
-      "ENGLISH": "you will vote"
+      "SPANISH": "Votarás",
+      "ENGLISH": "You will vote"
     },
     "EL": {
-      "SPANISH": "votará",
-      "ENGLISH": "s/he will vote, you (formal) will vote"
+      "SPANISH": "Votará",
+      "ENGLISH": "He will vote"
     },
     "ELLOS": {
-      "SPANISH": "votarán",
-      "ENGLISH": "they will vote, you (plural formal) will vote"
+      "SPANISH": "Votarán",
+      "ENGLISH": "They will vote"
     },
     "NOSOTROS": {
-      "SPANISH": "votaremos",
-      "ENGLISH": "we will vote"
+      "SPANISH": "Votaremos",
+      "ENGLISH": "We will vote"
     },
     "VOSOTROS": {
-      "SPANISH": "votaréis",
-      "ENGLISH": "you (plural) will vote"
+      "SPANISH": "Votaréis",
+      "ENGLISH": "You will vote"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré votado",
+      "SPANISH": "Habré votado",
       "ENGLISH": "I will have voted"
     },
     "TU": {
-      "SPANISH": "habrás votado",
-      "ENGLISH": "you will have voted"
+      "SPANISH": "Habrás votado",
+      "ENGLISH": "You will have voted"
     },
     "EL": {
-      "SPANISH": "habrá votado",
-      "ENGLISH": "s/he will have voted, you (formal) will have voted"
+      "SPANISH": "Habrá votado",
+      "ENGLISH": "He will have voted"
     },
     "ELLOS": {
-      "SPANISH": "habrán votado",
-      "ENGLISH": "they will have voted, you (plural formal) will have voted"
+      "SPANISH": "Habrán votado",
+      "ENGLISH": "They will have voted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos votado",
-      "ENGLISH": "we will have voted"
+      "SPANISH": "Habremos votado",
+      "ENGLISH": "We will have voted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis votado",
-      "ENGLISH": "you (plural) will have voted"
+      "SPANISH": "Habréis votado",
+      "ENGLISH": "You will have voted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "votaría",
+      "SPANISH": "Votaría",
       "ENGLISH": "I would vote"
     },
     "TU": {
-      "SPANISH": "votarías",
-      "ENGLISH": "you would vote"
+      "SPANISH": "Votarías",
+      "ENGLISH": "You would vote"
     },
     "EL": {
-      "SPANISH": "votaría",
-      "ENGLISH": "s/he would vote, you (formal) would vote"
+      "SPANISH": "Votaría",
+      "ENGLISH": "He would vote"
     },
     "ELLOS": {
-      "SPANISH": "votarían",
-      "ENGLISH": "they would vote, you (plural formal) would vote"
+      "SPANISH": "Votarían",
+      "ENGLISH": "They would vote"
     },
     "NOSOTROS": {
-      "SPANISH": "votaríamos",
-      "ENGLISH": "we would vote"
+      "SPANISH": "Votaríamos",
+      "ENGLISH": "We would vote"
     },
     "VOSOTROS": {
-      "SPANISH": "votaríais",
-      "ENGLISH": "you (plural) would vote"
+      "SPANISH": "Votaríais",
+      "ENGLISH": "You would vote"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría votado",
+      "SPANISH": "Habría votado",
       "ENGLISH": "I would have voted"
     },
     "TU": {
-      "SPANISH": "habrías votado",
-      "ENGLISH": "you would have voted"
+      "SPANISH": "Habrías votado",
+      "ENGLISH": "You would have voted"
     },
     "EL": {
-      "SPANISH": "habría votado",
-      "ENGLISH": "s/he would have voted, you (formal) would have voted"
+      "SPANISH": "Habría votado",
+      "ENGLISH": "He would have voted"
     },
     "ELLOS": {
-      "SPANISH": "habrían votado",
-      "ENGLISH": "they would have voted, you (plural formal) would have voted"
+      "SPANISH": "Habrían votado",
+      "ENGLISH": "They would have voted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos votado",
-      "ENGLISH": "we would have voted"
+      "SPANISH": "Habríamos votado",
+      "ENGLISH": "We would have voted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais votado",
-      "ENGLISH": "you (plural) would have voted"
+      "SPANISH": "Habríais votado",
+      "ENGLISH": "You would have voted"
     }
   }
 }

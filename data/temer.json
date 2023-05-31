@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "temo",
+      "SPANISH": "Temo",
       "ENGLISH": "I fear"
     },
     "TU": {
-      "SPANISH": "temes",
-      "ENGLISH": "you fear"
+      "SPANISH": "Temes",
+      "ENGLISH": "You fear"
     },
     "EL": {
-      "SPANISH": "teme",
-      "ENGLISH": "s/he fears, you (formal) fears"
+      "SPANISH": "Teme",
+      "ENGLISH": "He fears"
     },
     "ELLOS": {
-      "SPANISH": "temen",
-      "ENGLISH": "they fear, you (plural formal) fear"
+      "SPANISH": "Temen",
+      "ENGLISH": "They fear"
     },
     "NOSOTROS": {
-      "SPANISH": "tememos",
-      "ENGLISH": "we fear"
+      "SPANISH": "Tememos",
+      "ENGLISH": "We fear"
     },
     "VOSOTROS": {
-      "SPANISH": "teméis",
-      "ENGLISH": "you (plural) fear"
+      "SPANISH": "Teméis",
+      "ENGLISH": "You fear"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he temido",
+      "SPANISH": "He temido",
       "ENGLISH": "I have feared"
     },
     "TU": {
-      "SPANISH": "has temido",
-      "ENGLISH": "you have feared"
+      "SPANISH": "Has temido",
+      "ENGLISH": "You have feared"
     },
     "EL": {
-      "SPANISH": "ha temido",
-      "ENGLISH": "s/he has feared, you (formal) have feared"
+      "SPANISH": "Ha temido",
+      "ENGLISH": "He has feared"
     },
     "ELLOS": {
-      "SPANISH": "han temido",
-      "ENGLISH": "they have feared, you (plural formal) have feared"
+      "SPANISH": "Han temido",
+      "ENGLISH": "They have feared"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos temido",
-      "ENGLISH": "we have feared"
+      "SPANISH": "Hemos temido",
+      "ENGLISH": "We have feared"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis temido",
-      "ENGLISH": "you (plural) have feared"
+      "SPANISH": "Habéis temido",
+      "ENGLISH": "You have feared"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "temí",
+      "SPANISH": "Temí",
       "ENGLISH": "I feared"
     },
     "TU": {
-      "SPANISH": "temiste",
-      "ENGLISH": "you feared"
+      "SPANISH": "Temiste",
+      "ENGLISH": "You feared"
     },
     "EL": {
-      "SPANISH": "temió",
-      "ENGLISH": "s/he feared, you (formal) feared"
+      "SPANISH": "Temió",
+      "ENGLISH": "He feared"
     },
     "ELLOS": {
-      "SPANISH": "temieron",
-      "ENGLISH": "they feared, you (plural formal) feared"
+      "SPANISH": "Temieron",
+      "ENGLISH": "They feared"
     },
     "NOSOTROS": {
-      "SPANISH": "temimos",
-      "ENGLISH": "we feared"
+      "SPANISH": "Temimos",
+      "ENGLISH": "We feared"
     },
     "VOSOTROS": {
-      "SPANISH": "temisteis",
-      "ENGLISH": "you (plural) feared"
+      "SPANISH": "Temisteis",
+      "ENGLISH": "You feared"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había temido",
+      "SPANISH": "Había temido",
       "ENGLISH": "I had feared"
     },
     "TU": {
-      "SPANISH": "habías temido",
-      "ENGLISH": "you had feared"
+      "SPANISH": "Habías temido",
+      "ENGLISH": "You had feared"
     },
     "EL": {
-      "SPANISH": "había temido",
-      "ENGLISH": "s/he had feared, you (formal) had feared"
+      "SPANISH": "Había temido",
+      "ENGLISH": "He had feared"
     },
     "ELLOS": {
-      "SPANISH": "habían temido",
-      "ENGLISH": "they had feared, you (plural formal) had feared"
+      "SPANISH": "Habían temido",
+      "ENGLISH": "They had feared"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos temido",
-      "ENGLISH": "we had feared"
+      "SPANISH": "Habíamos temido",
+      "ENGLISH": "We had feared"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais temido",
-      "ENGLISH": "you (plural) had feared"
+      "SPANISH": "Habíais temido",
+      "ENGLISH": "You had feared"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "temí",
+      "SPANISH": "Temí",
       "ENGLISH": "I feared"
     },
     "TU": {
-      "SPANISH": "temiste",
-      "ENGLISH": "you feared"
+      "SPANISH": "Temiste",
+      "ENGLISH": "You feared"
     },
     "EL": {
-      "SPANISH": "temió",
-      "ENGLISH": "s/he feared, you (formal) feared"
+      "SPANISH": "Temió",
+      "ENGLISH": "He feared"
     },
     "ELLOS": {
-      "SPANISH": "temieron",
-      "ENGLISH": "they feared, you (plural formal) feared"
+      "SPANISH": "Temieron",
+      "ENGLISH": "They feared"
     },
     "NOSOTROS": {
-      "SPANISH": "temimos",
-      "ENGLISH": "we feared"
+      "SPANISH": "Temimos",
+      "ENGLISH": "We feared"
     },
     "VOSOTROS": {
-      "SPANISH": "temisteis",
-      "ENGLISH": "you (plural) feared"
+      "SPANISH": "Temisteis",
+      "ENGLISH": "You feared"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "temeré",
+      "SPANISH": "Temeré",
       "ENGLISH": "I will fear"
     },
     "TU": {
-      "SPANISH": "temerás",
-      "ENGLISH": "you will fear"
+      "SPANISH": "Temerás",
+      "ENGLISH": "You will fear"
     },
     "EL": {
-      "SPANISH": "temerá",
-      "ENGLISH": "s/he will fear, you (formal) will fear"
+      "SPANISH": "Temerá",
+      "ENGLISH": "He will fear"
     },
     "ELLOS": {
-      "SPANISH": "temerán",
-      "ENGLISH": "they will fear, you (plural formal) will fear"
+      "SPANISH": "Temerán",
+      "ENGLISH": "They will fear"
     },
     "NOSOTROS": {
-      "SPANISH": "temeremos",
-      "ENGLISH": "we will fear"
+      "SPANISH": "Temeremos",
+      "ENGLISH": "We will fear"
     },
     "VOSOTROS": {
-      "SPANISH": "temeréis",
-      "ENGLISH": "you (plural) will fear"
+      "SPANISH": "Temeréis",
+      "ENGLISH": "You will fear"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré temido",
+      "SPANISH": "Habré temido",
       "ENGLISH": "I will have feared"
     },
     "TU": {
-      "SPANISH": "habrás temido",
-      "ENGLISH": "you will have feared"
+      "SPANISH": "Habrás temido",
+      "ENGLISH": "You will have feared"
     },
     "EL": {
-      "SPANISH": "habrá temido",
-      "ENGLISH": "s/he will have feared, you (formal) will have feared"
+      "SPANISH": "Habrá temido",
+      "ENGLISH": "He will have feared"
     },
     "ELLOS": {
-      "SPANISH": "habrán temido",
-      "ENGLISH": "they will have feared, you (plural formal) will have feared"
+      "SPANISH": "Habrán temido",
+      "ENGLISH": "They will have feared"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos temido",
-      "ENGLISH": "we will have feared"
+      "SPANISH": "Habremos temido",
+      "ENGLISH": "We will have feared"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis temido",
-      "ENGLISH": "you (plural) will have feared"
+      "SPANISH": "Habréis temido",
+      "ENGLISH": "You will have feared"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "temería",
+      "SPANISH": "Temería",
       "ENGLISH": "I would fear"
     },
     "TU": {
-      "SPANISH": "temerías",
-      "ENGLISH": "you would fear"
+      "SPANISH": "Temerías",
+      "ENGLISH": "You would fear"
     },
     "EL": {
-      "SPANISH": "temería",
-      "ENGLISH": "s/he would fear, you (formal) would fear"
+      "SPANISH": "Temería",
+      "ENGLISH": "He would fear"
     },
     "ELLOS": {
-      "SPANISH": "temerían",
-      "ENGLISH": "they would fear, you (plural formal) would fear"
+      "SPANISH": "Temerían",
+      "ENGLISH": "They would fear"
     },
     "NOSOTROS": {
-      "SPANISH": "temeríamos",
-      "ENGLISH": "we would fear"
+      "SPANISH": "Temeríamos",
+      "ENGLISH": "We would fear"
     },
     "VOSOTROS": {
-      "SPANISH": "temeríais",
-      "ENGLISH": "you (plural) would fear"
+      "SPANISH": "Temeríais",
+      "ENGLISH": "You would fear"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría temido",
+      "SPANISH": "Habría temido",
       "ENGLISH": "I would have feared"
     },
     "TU": {
-      "SPANISH": "habrías temido",
-      "ENGLISH": "you would have feared"
+      "SPANISH": "Habrías temido",
+      "ENGLISH": "You would have feared"
     },
     "EL": {
-      "SPANISH": "habría temido",
-      "ENGLISH": "s/he would have feared, you (formal) would have feared"
+      "SPANISH": "Habría temido",
+      "ENGLISH": "He would have feared"
     },
     "ELLOS": {
-      "SPANISH": "habrían temido",
-      "ENGLISH": "they would have feared, you (plural formal) would have feared"
+      "SPANISH": "Habrían temido",
+      "ENGLISH": "They would have feared"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos temido",
-      "ENGLISH": "we would have feared"
+      "SPANISH": "Habríamos temido",
+      "ENGLISH": "We would have feared"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais temido",
-      "ENGLISH": "you (plural) would have feared"
+      "SPANISH": "Habríais temido",
+      "ENGLISH": "You would have feared"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "lamento",
+      "SPANISH": "Lamento",
       "ENGLISH": "I regret"
     },
     "TU": {
-      "SPANISH": "lamentas",
-      "ENGLISH": "you regret"
+      "SPANISH": "Lamentas",
+      "ENGLISH": "You regret"
     },
     "EL": {
-      "SPANISH": "lamenta",
-      "ENGLISH": "s/he regrets, you (formal) regrets"
+      "SPANISH": "Lamenta",
+      "ENGLISH": "He regrets"
     },
     "ELLOS": {
-      "SPANISH": "lamentan",
-      "ENGLISH": "they regret, you (plural formal) regret"
+      "SPANISH": "Lamentan",
+      "ENGLISH": "They regret"
     },
     "NOSOTROS": {
-      "SPANISH": "lamentamos",
-      "ENGLISH": "we regret"
+      "SPANISH": "Lamentamos",
+      "ENGLISH": "We regret"
     },
     "VOSOTROS": {
-      "SPANISH": "lamentáis",
-      "ENGLISH": "you (plural) regret"
+      "SPANISH": "Lamentáis",
+      "ENGLISH": "You regret"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he lamentado",
+      "SPANISH": "He lamentado",
       "ENGLISH": "I have regretted"
     },
     "TU": {
-      "SPANISH": "has lamentado",
-      "ENGLISH": "you have regretted"
+      "SPANISH": "Has lamentado",
+      "ENGLISH": "You have regretted"
     },
     "EL": {
-      "SPANISH": "ha lamentado",
-      "ENGLISH": "s/he has regretted, you (formal) have regretted"
+      "SPANISH": "Ha lamentado",
+      "ENGLISH": "He has regretted"
     },
     "ELLOS": {
-      "SPANISH": "han lamentado",
-      "ENGLISH": "they have regretted, you (plural formal) have regretted"
+      "SPANISH": "Han lamentado",
+      "ENGLISH": "They have regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos lamentado",
-      "ENGLISH": "we have regretted"
+      "SPANISH": "Hemos lamentado",
+      "ENGLISH": "We have regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis lamentado",
-      "ENGLISH": "you (plural) have regretted"
+      "SPANISH": "Habéis lamentado",
+      "ENGLISH": "You have regretted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "lamenté",
+      "SPANISH": "Lamenté",
       "ENGLISH": "I regretted"
     },
     "TU": {
-      "SPANISH": "lamentaste",
-      "ENGLISH": "you regretted"
+      "SPANISH": "Lamentaste",
+      "ENGLISH": "You regretted"
     },
     "EL": {
-      "SPANISH": "lamentó",
-      "ENGLISH": "s/he regretted, you (formal) regretted"
+      "SPANISH": "Lamentó",
+      "ENGLISH": "He regretted"
     },
     "ELLOS": {
-      "SPANISH": "lamentaron",
-      "ENGLISH": "they regretted, you (plural formal) regretted"
+      "SPANISH": "Lamentaron",
+      "ENGLISH": "They regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "lamentamos",
-      "ENGLISH": "we regretted"
+      "SPANISH": "Lamentamos",
+      "ENGLISH": "We regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "lamentasteis",
-      "ENGLISH": "you (plural) regretted"
+      "SPANISH": "Lamentasteis",
+      "ENGLISH": "You regretted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había lamentado",
+      "SPANISH": "Había lamentado",
       "ENGLISH": "I had regretted"
     },
     "TU": {
-      "SPANISH": "habías lamentado",
-      "ENGLISH": "you had regretted"
+      "SPANISH": "Habías lamentado",
+      "ENGLISH": "You had regretted"
     },
     "EL": {
-      "SPANISH": "había lamentado",
-      "ENGLISH": "s/he had regretted, you (formal) had regretted"
+      "SPANISH": "Había lamentado",
+      "ENGLISH": "He had regretted"
     },
     "ELLOS": {
-      "SPANISH": "habían lamentado",
-      "ENGLISH": "they had regretted, you (plural formal) had regretted"
+      "SPANISH": "Habían lamentado",
+      "ENGLISH": "They had regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos lamentado",
-      "ENGLISH": "we had regretted"
+      "SPANISH": "Habíamos lamentado",
+      "ENGLISH": "We had regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais lamentado",
-      "ENGLISH": "you (plural) had regretted"
+      "SPANISH": "Habíais lamentado",
+      "ENGLISH": "You had regretted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "lamenté",
+      "SPANISH": "Lamenté",
       "ENGLISH": "I regretted"
     },
     "TU": {
-      "SPANISH": "lamentaste",
-      "ENGLISH": "you regretted"
+      "SPANISH": "Lamentaste",
+      "ENGLISH": "You regretted"
     },
     "EL": {
-      "SPANISH": "lamentó",
-      "ENGLISH": "s/he regretted, you (formal) regretted"
+      "SPANISH": "Lamentó",
+      "ENGLISH": "He regretted"
     },
     "ELLOS": {
-      "SPANISH": "lamentaron",
-      "ENGLISH": "they regretted, you (plural formal) regretted"
+      "SPANISH": "Lamentaron",
+      "ENGLISH": "They regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "lamentamos",
-      "ENGLISH": "we regretted"
+      "SPANISH": "Lamentamos",
+      "ENGLISH": "We regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "lamentasteis",
-      "ENGLISH": "you (plural) regretted"
+      "SPANISH": "Lamentasteis",
+      "ENGLISH": "You regretted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "lamentaré",
+      "SPANISH": "Lamentaré",
       "ENGLISH": "I will regret"
     },
     "TU": {
-      "SPANISH": "lamentarás",
-      "ENGLISH": "you will regret"
+      "SPANISH": "Lamentarás",
+      "ENGLISH": "You will regret"
     },
     "EL": {
-      "SPANISH": "lamentará",
-      "ENGLISH": "s/he will regret, you (formal) will regret"
+      "SPANISH": "Lamentará",
+      "ENGLISH": "He will regret"
     },
     "ELLOS": {
-      "SPANISH": "lamentarán",
-      "ENGLISH": "they will regret, you (plural formal) will regret"
+      "SPANISH": "Lamentarán",
+      "ENGLISH": "They will regret"
     },
     "NOSOTROS": {
-      "SPANISH": "lamentaremos",
-      "ENGLISH": "we will regret"
+      "SPANISH": "Lamentaremos",
+      "ENGLISH": "We will regret"
     },
     "VOSOTROS": {
-      "SPANISH": "lamentaréis",
-      "ENGLISH": "you (plural) will regret"
+      "SPANISH": "Lamentaréis",
+      "ENGLISH": "You will regret"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré lamentado",
+      "SPANISH": "Habré lamentado",
       "ENGLISH": "I will have regretted"
     },
     "TU": {
-      "SPANISH": "habrás lamentado",
-      "ENGLISH": "you will have regretted"
+      "SPANISH": "Habrás lamentado",
+      "ENGLISH": "You will have regretted"
     },
     "EL": {
-      "SPANISH": "habrá lamentado",
-      "ENGLISH": "s/he will have regretted, you (formal) will have regretted"
+      "SPANISH": "Habrá lamentado",
+      "ENGLISH": "He will have regretted"
     },
     "ELLOS": {
-      "SPANISH": "habrán lamentado",
-      "ENGLISH": "they will have regretted, you (plural formal) will have regretted"
+      "SPANISH": "Habrán lamentado",
+      "ENGLISH": "They will have regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos lamentado",
-      "ENGLISH": "we will have regretted"
+      "SPANISH": "Habremos lamentado",
+      "ENGLISH": "We will have regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis lamentado",
-      "ENGLISH": "you (plural) will have regretted"
+      "SPANISH": "Habréis lamentado",
+      "ENGLISH": "You will have regretted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "lamentaría",
+      "SPANISH": "Lamentaría",
       "ENGLISH": "I would regret"
     },
     "TU": {
-      "SPANISH": "lamentarías",
-      "ENGLISH": "you would regret"
+      "SPANISH": "Lamentarías",
+      "ENGLISH": "You would regret"
     },
     "EL": {
-      "SPANISH": "lamentaría",
-      "ENGLISH": "s/he would regret, you (formal) would regret"
+      "SPANISH": "Lamentaría",
+      "ENGLISH": "He would regret"
     },
     "ELLOS": {
-      "SPANISH": "lamentarían",
-      "ENGLISH": "they would regret, you (plural formal) would regret"
+      "SPANISH": "Lamentarían",
+      "ENGLISH": "They would regret"
     },
     "NOSOTROS": {
-      "SPANISH": "lamentaríamos",
-      "ENGLISH": "we would regret"
+      "SPANISH": "Lamentaríamos",
+      "ENGLISH": "We would regret"
     },
     "VOSOTROS": {
-      "SPANISH": "lamentaríais",
-      "ENGLISH": "you (plural) would regret"
+      "SPANISH": "Lamentaríais",
+      "ENGLISH": "You would regret"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría lamentado",
+      "SPANISH": "Habría lamentado",
       "ENGLISH": "I would have regretted"
     },
     "TU": {
-      "SPANISH": "habrías lamentado",
-      "ENGLISH": "you would have regretted"
+      "SPANISH": "Habrías lamentado",
+      "ENGLISH": "You would have regretted"
     },
     "EL": {
-      "SPANISH": "habría lamentado",
-      "ENGLISH": "s/he would have regretted, you (formal) would have regretted"
+      "SPANISH": "Habría lamentado",
+      "ENGLISH": "He would have regretted"
     },
     "ELLOS": {
-      "SPANISH": "habrían lamentado",
-      "ENGLISH": "they would have regretted, you (plural formal) would have regretted"
+      "SPANISH": "Habrían lamentado",
+      "ENGLISH": "They would have regretted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos lamentado",
-      "ENGLISH": "we would have regretted"
+      "SPANISH": "Habríamos lamentado",
+      "ENGLISH": "We would have regretted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais lamentado",
-      "ENGLISH": "you (plural) would have regretted"
+      "SPANISH": "Habríais lamentado",
+      "ENGLISH": "You would have regretted"
     }
   }
 }

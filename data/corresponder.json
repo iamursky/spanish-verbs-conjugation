@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "correspondo",
+      "SPANISH": "Correspondo",
       "ENGLISH": "I correspond"
     },
     "TU": {
-      "SPANISH": "correspondes",
-      "ENGLISH": "you correspond"
+      "SPANISH": "Correspondes",
+      "ENGLISH": "You correspond"
     },
     "EL": {
-      "SPANISH": "corresponde",
-      "ENGLISH": "s/he corresponds, you (formal) corresponds"
+      "SPANISH": "Corresponde",
+      "ENGLISH": "He corresponds"
     },
     "ELLOS": {
-      "SPANISH": "corresponden",
-      "ENGLISH": "they correspond, you (plural formal) correspond"
+      "SPANISH": "Corresponden",
+      "ENGLISH": "They correspond"
     },
     "NOSOTROS": {
-      "SPANISH": "correspondemos",
-      "ENGLISH": "we correspond"
+      "SPANISH": "Correspondemos",
+      "ENGLISH": "We correspond"
     },
     "VOSOTROS": {
-      "SPANISH": "correspondéis",
-      "ENGLISH": "you (plural) correspond"
+      "SPANISH": "Correspondéis",
+      "ENGLISH": "You correspond"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he correspondido",
+      "SPANISH": "He correspondido",
       "ENGLISH": "I have corresponded"
     },
     "TU": {
-      "SPANISH": "has correspondido",
-      "ENGLISH": "you have corresponded"
+      "SPANISH": "Has correspondido",
+      "ENGLISH": "You have corresponded"
     },
     "EL": {
-      "SPANISH": "ha correspondido",
-      "ENGLISH": "s/he has corresponded, you (formal) have corresponded"
+      "SPANISH": "Ha correspondido",
+      "ENGLISH": "He has corresponded"
     },
     "ELLOS": {
-      "SPANISH": "han correspondido",
-      "ENGLISH": "they have corresponded, you (plural formal) have corresponded"
+      "SPANISH": "Han correspondido",
+      "ENGLISH": "They have corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos correspondido",
-      "ENGLISH": "we have corresponded"
+      "SPANISH": "Hemos correspondido",
+      "ENGLISH": "We have corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis correspondido",
-      "ENGLISH": "you (plural) have corresponded"
+      "SPANISH": "Habéis correspondido",
+      "ENGLISH": "You have corresponded"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "correspondí",
+      "SPANISH": "Correspondí",
       "ENGLISH": "I corresponded"
     },
     "TU": {
-      "SPANISH": "correspondiste",
-      "ENGLISH": "you corresponded"
+      "SPANISH": "Correspondiste",
+      "ENGLISH": "You corresponded"
     },
     "EL": {
-      "SPANISH": "correspondió",
-      "ENGLISH": "s/he corresponded, you (formal) corresponded"
+      "SPANISH": "Correspondió",
+      "ENGLISH": "He corresponded"
     },
     "ELLOS": {
-      "SPANISH": "correspondieron",
-      "ENGLISH": "they corresponded, you (plural formal) corresponded"
+      "SPANISH": "Correspondieron",
+      "ENGLISH": "They corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "correspondimos",
-      "ENGLISH": "we corresponded"
+      "SPANISH": "Correspondimos",
+      "ENGLISH": "We corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "correspondisteis",
-      "ENGLISH": "you (plural) corresponded"
+      "SPANISH": "Correspondisteis",
+      "ENGLISH": "You corresponded"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había correspondido",
+      "SPANISH": "Había correspondido",
       "ENGLISH": "I had corresponded"
     },
     "TU": {
-      "SPANISH": "habías correspondido",
-      "ENGLISH": "you had corresponded"
+      "SPANISH": "Habías correspondido",
+      "ENGLISH": "You had corresponded"
     },
     "EL": {
-      "SPANISH": "había correspondido",
-      "ENGLISH": "s/he had corresponded, you (formal) had corresponded"
+      "SPANISH": "Había correspondido",
+      "ENGLISH": "He had corresponded"
     },
     "ELLOS": {
-      "SPANISH": "habían correspondido",
-      "ENGLISH": "they had corresponded, you (plural formal) had corresponded"
+      "SPANISH": "Habían correspondido",
+      "ENGLISH": "They had corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos correspondido",
-      "ENGLISH": "we had corresponded"
+      "SPANISH": "Habíamos correspondido",
+      "ENGLISH": "We had corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais correspondido",
-      "ENGLISH": "you (plural) had corresponded"
+      "SPANISH": "Habíais correspondido",
+      "ENGLISH": "You had corresponded"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "correspondí",
+      "SPANISH": "Correspondí",
       "ENGLISH": "I corresponded"
     },
     "TU": {
-      "SPANISH": "correspondiste",
-      "ENGLISH": "you corresponded"
+      "SPANISH": "Correspondiste",
+      "ENGLISH": "You corresponded"
     },
     "EL": {
-      "SPANISH": "correspondió",
-      "ENGLISH": "s/he corresponded, you (formal) corresponded"
+      "SPANISH": "Correspondió",
+      "ENGLISH": "He corresponded"
     },
     "ELLOS": {
-      "SPANISH": "correspondieron",
-      "ENGLISH": "they corresponded, you (plural formal) corresponded"
+      "SPANISH": "Correspondieron",
+      "ENGLISH": "They corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "correspondimos",
-      "ENGLISH": "we corresponded"
+      "SPANISH": "Correspondimos",
+      "ENGLISH": "We corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "correspondisteis",
-      "ENGLISH": "you (plural) corresponded"
+      "SPANISH": "Correspondisteis",
+      "ENGLISH": "You corresponded"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "corresponderé",
+      "SPANISH": "Corresponderé",
       "ENGLISH": "I will correspond"
     },
     "TU": {
-      "SPANISH": "corresponderás",
-      "ENGLISH": "you will correspond"
+      "SPANISH": "Corresponderás",
+      "ENGLISH": "You will correspond"
     },
     "EL": {
-      "SPANISH": "corresponderá",
-      "ENGLISH": "s/he will correspond, you (formal) will correspond"
+      "SPANISH": "Corresponderá",
+      "ENGLISH": "He will correspond"
     },
     "ELLOS": {
-      "SPANISH": "corresponderán",
-      "ENGLISH": "they will correspond, you (plural formal) will correspond"
+      "SPANISH": "Corresponderán",
+      "ENGLISH": "They will correspond"
     },
     "NOSOTROS": {
-      "SPANISH": "corresponderemos",
-      "ENGLISH": "we will correspond"
+      "SPANISH": "Corresponderemos",
+      "ENGLISH": "We will correspond"
     },
     "VOSOTROS": {
-      "SPANISH": "corresponderéis",
-      "ENGLISH": "you (plural) will correspond"
+      "SPANISH": "Corresponderéis",
+      "ENGLISH": "You will correspond"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré correspondido",
+      "SPANISH": "Habré correspondido",
       "ENGLISH": "I will have corresponded"
     },
     "TU": {
-      "SPANISH": "habrás correspondido",
-      "ENGLISH": "you will have corresponded"
+      "SPANISH": "Habrás correspondido",
+      "ENGLISH": "You will have corresponded"
     },
     "EL": {
-      "SPANISH": "habrá correspondido",
-      "ENGLISH": "s/he will have corresponded, you (formal) will have corresponded"
+      "SPANISH": "Habrá correspondido",
+      "ENGLISH": "He will have corresponded"
     },
     "ELLOS": {
-      "SPANISH": "habrán correspondido",
-      "ENGLISH": "they will have corresponded, you (plural formal) will have corresponded"
+      "SPANISH": "Habrán correspondido",
+      "ENGLISH": "They will have corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos correspondido",
-      "ENGLISH": "we will have corresponded"
+      "SPANISH": "Habremos correspondido",
+      "ENGLISH": "We will have corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis correspondido",
-      "ENGLISH": "you (plural) will have corresponded"
+      "SPANISH": "Habréis correspondido",
+      "ENGLISH": "You will have corresponded"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "correspondería",
+      "SPANISH": "Correspondería",
       "ENGLISH": "I would correspond"
     },
     "TU": {
-      "SPANISH": "corresponderías",
-      "ENGLISH": "you would correspond"
+      "SPANISH": "Corresponderías",
+      "ENGLISH": "You would correspond"
     },
     "EL": {
-      "SPANISH": "correspondería",
-      "ENGLISH": "s/he would correspond, you (formal) would correspond"
+      "SPANISH": "Correspondería",
+      "ENGLISH": "He would correspond"
     },
     "ELLOS": {
-      "SPANISH": "corresponderían",
-      "ENGLISH": "they would correspond, you (plural formal) would correspond"
+      "SPANISH": "Corresponderían",
+      "ENGLISH": "They would correspond"
     },
     "NOSOTROS": {
-      "SPANISH": "corresponderíamos",
-      "ENGLISH": "we would correspond"
+      "SPANISH": "Corresponderíamos",
+      "ENGLISH": "We would correspond"
     },
     "VOSOTROS": {
-      "SPANISH": "corresponderíais",
-      "ENGLISH": "you (plural) would correspond"
+      "SPANISH": "Corresponderíais",
+      "ENGLISH": "You would correspond"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría correspondido",
+      "SPANISH": "Habría correspondido",
       "ENGLISH": "I would have corresponded"
     },
     "TU": {
-      "SPANISH": "habrías correspondido",
-      "ENGLISH": "you would have corresponded"
+      "SPANISH": "Habrías correspondido",
+      "ENGLISH": "You would have corresponded"
     },
     "EL": {
-      "SPANISH": "habría correspondido",
-      "ENGLISH": "s/he would have corresponded, you (formal) would have corresponded"
+      "SPANISH": "Habría correspondido",
+      "ENGLISH": "He would have corresponded"
     },
     "ELLOS": {
-      "SPANISH": "habrían correspondido",
-      "ENGLISH": "they would have corresponded, you (plural formal) would have corresponded"
+      "SPANISH": "Habrían correspondido",
+      "ENGLISH": "They would have corresponded"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos correspondido",
-      "ENGLISH": "we would have corresponded"
+      "SPANISH": "Habríamos correspondido",
+      "ENGLISH": "We would have corresponded"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais correspondido",
-      "ENGLISH": "you (plural) would have corresponded"
+      "SPANISH": "Habríais correspondido",
+      "ENGLISH": "You would have corresponded"
     }
   }
 }

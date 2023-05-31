@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "practico",
+      "SPANISH": "Practico",
       "ENGLISH": "I practice"
     },
     "TU": {
-      "SPANISH": "practicas",
-      "ENGLISH": "you practice"
+      "SPANISH": "Practicas",
+      "ENGLISH": "You practice"
     },
     "EL": {
-      "SPANISH": "practica",
-      "ENGLISH": "s/he practices, you (formal) practices"
+      "SPANISH": "Practica",
+      "ENGLISH": "He practices"
     },
     "ELLOS": {
-      "SPANISH": "practican",
-      "ENGLISH": "they practice, you (plural formal) practice"
+      "SPANISH": "Practican",
+      "ENGLISH": "They practice"
     },
     "NOSOTROS": {
-      "SPANISH": "practicamos",
-      "ENGLISH": "we practice"
+      "SPANISH": "Practicamos",
+      "ENGLISH": "We practice"
     },
     "VOSOTROS": {
-      "SPANISH": "practicáis",
-      "ENGLISH": "you (plural) practice"
+      "SPANISH": "Practicáis",
+      "ENGLISH": "You practice"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he practicado",
+      "SPANISH": "He practicado",
       "ENGLISH": "I have practiced"
     },
     "TU": {
-      "SPANISH": "has practicado",
-      "ENGLISH": "you have practiced"
+      "SPANISH": "Has practicado",
+      "ENGLISH": "You have practiced"
     },
     "EL": {
-      "SPANISH": "ha practicado",
-      "ENGLISH": "s/he has practiced, you (formal) have practiced"
+      "SPANISH": "Ha practicado",
+      "ENGLISH": "He has practiced"
     },
     "ELLOS": {
-      "SPANISH": "han practicado",
-      "ENGLISH": "they have practiced, you (plural formal) have practiced"
+      "SPANISH": "Han practicado",
+      "ENGLISH": "They have practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos practicado",
-      "ENGLISH": "we have practiced"
+      "SPANISH": "Hemos practicado",
+      "ENGLISH": "We have practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis practicado",
-      "ENGLISH": "you (plural) have practiced"
+      "SPANISH": "Habéis practicado",
+      "ENGLISH": "You have practiced"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "practiqué ",
+      "SPANISH": "Practiqué ",
       "ENGLISH": "I practiced"
     },
     "TU": {
-      "SPANISH": "practicaste",
-      "ENGLISH": "you practiced"
+      "SPANISH": "Practicaste",
+      "ENGLISH": "You practiced"
     },
     "EL": {
-      "SPANISH": "practicó",
-      "ENGLISH": "s/he practiced, you (formal) practiced"
+      "SPANISH": "Practicó",
+      "ENGLISH": "He practiced"
     },
     "ELLOS": {
-      "SPANISH": "practicaron",
-      "ENGLISH": "they practiced, you (plural formal) practiced"
+      "SPANISH": "Practicaron",
+      "ENGLISH": "They practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "practicamos",
-      "ENGLISH": "we practiced"
+      "SPANISH": "Practicamos",
+      "ENGLISH": "We practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "practicasteis",
-      "ENGLISH": "you (plural) practiced"
+      "SPANISH": "Practicasteis",
+      "ENGLISH": "You practiced"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había practicado",
+      "SPANISH": "Había practicado",
       "ENGLISH": "I had practiced"
     },
     "TU": {
-      "SPANISH": "habías practicado",
-      "ENGLISH": "you had practiced"
+      "SPANISH": "Habías practicado",
+      "ENGLISH": "You had practiced"
     },
     "EL": {
-      "SPANISH": "había practicado",
-      "ENGLISH": "s/he had practiced, you (formal) had practiced"
+      "SPANISH": "Había practicado",
+      "ENGLISH": "He had practiced"
     },
     "ELLOS": {
-      "SPANISH": "habían practicado",
-      "ENGLISH": "they had practiced, you (plural formal) had practiced"
+      "SPANISH": "Habían practicado",
+      "ENGLISH": "They had practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos practicado",
-      "ENGLISH": "we had practiced"
+      "SPANISH": "Habíamos practicado",
+      "ENGLISH": "We had practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais practicado",
-      "ENGLISH": "you (plural) had practiced"
+      "SPANISH": "Habíais practicado",
+      "ENGLISH": "You had practiced"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "practiqué ",
+      "SPANISH": "Practiqué ",
       "ENGLISH": "I practiced"
     },
     "TU": {
-      "SPANISH": "practicaste",
-      "ENGLISH": "you practiced"
+      "SPANISH": "Practicaste",
+      "ENGLISH": "You practiced"
     },
     "EL": {
-      "SPANISH": "practicó",
-      "ENGLISH": "s/he practiced, you (formal) practiced"
+      "SPANISH": "Practicó",
+      "ENGLISH": "He practiced"
     },
     "ELLOS": {
-      "SPANISH": "practicaron",
-      "ENGLISH": "they practiced, you (plural formal) practiced"
+      "SPANISH": "Practicaron",
+      "ENGLISH": "They practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "practicamos",
-      "ENGLISH": "we practiced"
+      "SPANISH": "Practicamos",
+      "ENGLISH": "We practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "practicasteis",
-      "ENGLISH": "you (plural) practiced"
+      "SPANISH": "Practicasteis",
+      "ENGLISH": "You practiced"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "practicaré",
+      "SPANISH": "Practicaré",
       "ENGLISH": "I will practice"
     },
     "TU": {
-      "SPANISH": "practicarás",
-      "ENGLISH": "you will practice"
+      "SPANISH": "Practicarás",
+      "ENGLISH": "You will practice"
     },
     "EL": {
-      "SPANISH": "practicará",
-      "ENGLISH": "s/he will practice, you (formal) will practice"
+      "SPANISH": "Practicará",
+      "ENGLISH": "He will practice"
     },
     "ELLOS": {
-      "SPANISH": "practicarán",
-      "ENGLISH": "they will practice, you (plural formal) will practice"
+      "SPANISH": "Practicarán",
+      "ENGLISH": "They will practice"
     },
     "NOSOTROS": {
-      "SPANISH": "practicaremos",
-      "ENGLISH": "we will practice"
+      "SPANISH": "Practicaremos",
+      "ENGLISH": "We will practice"
     },
     "VOSOTROS": {
-      "SPANISH": "practicaréis",
-      "ENGLISH": "you (plural) will practice"
+      "SPANISH": "Practicaréis",
+      "ENGLISH": "You will practice"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré practicado",
+      "SPANISH": "Habré practicado",
       "ENGLISH": "I will have practiced"
     },
     "TU": {
-      "SPANISH": "habrás practicado",
-      "ENGLISH": "you will have practiced"
+      "SPANISH": "Habrás practicado",
+      "ENGLISH": "You will have practiced"
     },
     "EL": {
-      "SPANISH": "habrá practicado",
-      "ENGLISH": "s/he will have practiced, you (formal) will have practiced"
+      "SPANISH": "Habrá practicado",
+      "ENGLISH": "He will have practiced"
     },
     "ELLOS": {
-      "SPANISH": "habrán practicado",
-      "ENGLISH": "they will have practiced, you (plural formal) will have practiced"
+      "SPANISH": "Habrán practicado",
+      "ENGLISH": "They will have practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos practicado",
-      "ENGLISH": "we will have practiced"
+      "SPANISH": "Habremos practicado",
+      "ENGLISH": "We will have practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis practicado",
-      "ENGLISH": "you (plural) will have practiced"
+      "SPANISH": "Habréis practicado",
+      "ENGLISH": "You will have practiced"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "practicaría",
+      "SPANISH": "Practicaría",
       "ENGLISH": "I would practice"
     },
     "TU": {
-      "SPANISH": "practicarías",
-      "ENGLISH": "you would practice"
+      "SPANISH": "Practicarías",
+      "ENGLISH": "You would practice"
     },
     "EL": {
-      "SPANISH": "practicaría",
-      "ENGLISH": "s/he would practice, you (formal) would practice"
+      "SPANISH": "Practicaría",
+      "ENGLISH": "He would practice"
     },
     "ELLOS": {
-      "SPANISH": "practicarían",
-      "ENGLISH": "they would practice, you (plural formal) would practice"
+      "SPANISH": "Practicarían",
+      "ENGLISH": "They would practice"
     },
     "NOSOTROS": {
-      "SPANISH": "practicaríamos",
-      "ENGLISH": "we would practice"
+      "SPANISH": "Practicaríamos",
+      "ENGLISH": "We would practice"
     },
     "VOSOTROS": {
-      "SPANISH": "practicaríais",
-      "ENGLISH": "you (plural) would practice"
+      "SPANISH": "Practicaríais",
+      "ENGLISH": "You would practice"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría practicado",
+      "SPANISH": "Habría practicado",
       "ENGLISH": "I would have practiced"
     },
     "TU": {
-      "SPANISH": "habrías practicado",
-      "ENGLISH": "you would have practiced"
+      "SPANISH": "Habrías practicado",
+      "ENGLISH": "You would have practiced"
     },
     "EL": {
-      "SPANISH": "habría practicado",
-      "ENGLISH": "s/he would have practiced, you (formal) would have practiced"
+      "SPANISH": "Habría practicado",
+      "ENGLISH": "He would have practiced"
     },
     "ELLOS": {
-      "SPANISH": "habrían practicado",
-      "ENGLISH": "they would have practiced, you (plural formal) would have practiced"
+      "SPANISH": "Habrían practicado",
+      "ENGLISH": "They would have practiced"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos practicado",
-      "ENGLISH": "we would have practiced"
+      "SPANISH": "Habríamos practicado",
+      "ENGLISH": "We would have practiced"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais practicado",
-      "ENGLISH": "you (plural) would have practiced"
+      "SPANISH": "Habríais practicado",
+      "ENGLISH": "You would have practiced"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "niego ",
+      "SPANISH": "Niego ",
       "ENGLISH": "I deny"
     },
     "TU": {
-      "SPANISH": "niegas ",
-      "ENGLISH": "you deny"
+      "SPANISH": "Niegas ",
+      "ENGLISH": "You deny"
     },
     "EL": {
-      "SPANISH": "niega ",
-      "ENGLISH": "s/he denies, you (formal) denies"
+      "SPANISH": "Niega ",
+      "ENGLISH": "He denies"
     },
     "ELLOS": {
-      "SPANISH": "niegan ",
-      "ENGLISH": "they deny, you (plural formal) deny"
+      "SPANISH": "Niegan ",
+      "ENGLISH": "They deny"
     },
     "NOSOTROS": {
-      "SPANISH": "negamos",
-      "ENGLISH": "we deny"
+      "SPANISH": "Negamos",
+      "ENGLISH": "We deny"
     },
     "VOSOTROS": {
-      "SPANISH": "negáis",
-      "ENGLISH": "you (plural) deny"
+      "SPANISH": "Negáis",
+      "ENGLISH": "You deny"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he negado",
+      "SPANISH": "He negado",
       "ENGLISH": "I have denied"
     },
     "TU": {
-      "SPANISH": "has negado",
-      "ENGLISH": "you have denied"
+      "SPANISH": "Has negado",
+      "ENGLISH": "You have denied"
     },
     "EL": {
-      "SPANISH": "ha negado",
-      "ENGLISH": "s/he has denied, you (formal) have denied"
+      "SPANISH": "Ha negado",
+      "ENGLISH": "He has denied"
     },
     "ELLOS": {
-      "SPANISH": "han negado",
-      "ENGLISH": "they have denied, you (plural formal) have denied"
+      "SPANISH": "Han negado",
+      "ENGLISH": "They have denied"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos negado",
-      "ENGLISH": "we have denied"
+      "SPANISH": "Hemos negado",
+      "ENGLISH": "We have denied"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis negado",
-      "ENGLISH": "you (plural) have denied"
+      "SPANISH": "Habéis negado",
+      "ENGLISH": "You have denied"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "negué ",
+      "SPANISH": "Negué ",
       "ENGLISH": "I denied"
     },
     "TU": {
-      "SPANISH": "negaste",
-      "ENGLISH": "you denied"
+      "SPANISH": "Negaste",
+      "ENGLISH": "You denied"
     },
     "EL": {
-      "SPANISH": "negó",
-      "ENGLISH": "s/he denied, you (formal) denied"
+      "SPANISH": "Negó",
+      "ENGLISH": "He denied"
     },
     "ELLOS": {
-      "SPANISH": "negaron",
-      "ENGLISH": "they denied, you (plural formal) denied"
+      "SPANISH": "Negaron",
+      "ENGLISH": "They denied"
     },
     "NOSOTROS": {
-      "SPANISH": "negamos",
-      "ENGLISH": "we denied"
+      "SPANISH": "Negamos",
+      "ENGLISH": "We denied"
     },
     "VOSOTROS": {
-      "SPANISH": "negasteis",
-      "ENGLISH": "you (plural) denied"
+      "SPANISH": "Negasteis",
+      "ENGLISH": "You denied"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había negado",
+      "SPANISH": "Había negado",
       "ENGLISH": "I had denied"
     },
     "TU": {
-      "SPANISH": "habías negado",
-      "ENGLISH": "you had denied"
+      "SPANISH": "Habías negado",
+      "ENGLISH": "You had denied"
     },
     "EL": {
-      "SPANISH": "había negado",
-      "ENGLISH": "s/he had denied, you (formal) had denied"
+      "SPANISH": "Había negado",
+      "ENGLISH": "He had denied"
     },
     "ELLOS": {
-      "SPANISH": "habían negado",
-      "ENGLISH": "they had denied, you (plural formal) had denied"
+      "SPANISH": "Habían negado",
+      "ENGLISH": "They had denied"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos negado",
-      "ENGLISH": "we had denied"
+      "SPANISH": "Habíamos negado",
+      "ENGLISH": "We had denied"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais negado",
-      "ENGLISH": "you (plural) had denied"
+      "SPANISH": "Habíais negado",
+      "ENGLISH": "You had denied"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "negué ",
+      "SPANISH": "Negué ",
       "ENGLISH": "I denied"
     },
     "TU": {
-      "SPANISH": "negaste",
-      "ENGLISH": "you denied"
+      "SPANISH": "Negaste",
+      "ENGLISH": "You denied"
     },
     "EL": {
-      "SPANISH": "negó",
-      "ENGLISH": "s/he denied, you (formal) denied"
+      "SPANISH": "Negó",
+      "ENGLISH": "He denied"
     },
     "ELLOS": {
-      "SPANISH": "negaron",
-      "ENGLISH": "they denied, you (plural formal) denied"
+      "SPANISH": "Negaron",
+      "ENGLISH": "They denied"
     },
     "NOSOTROS": {
-      "SPANISH": "negamos",
-      "ENGLISH": "we denied"
+      "SPANISH": "Negamos",
+      "ENGLISH": "We denied"
     },
     "VOSOTROS": {
-      "SPANISH": "negasteis",
-      "ENGLISH": "you (plural) denied"
+      "SPANISH": "Negasteis",
+      "ENGLISH": "You denied"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "negaré",
+      "SPANISH": "Negaré",
       "ENGLISH": "I will deny"
     },
     "TU": {
-      "SPANISH": "negarás",
-      "ENGLISH": "you will deny"
+      "SPANISH": "Negarás",
+      "ENGLISH": "You will deny"
     },
     "EL": {
-      "SPANISH": "negará",
-      "ENGLISH": "s/he will deny, you (formal) will deny"
+      "SPANISH": "Negará",
+      "ENGLISH": "He will deny"
     },
     "ELLOS": {
-      "SPANISH": "negarán",
-      "ENGLISH": "they will deny, you (plural formal) will deny"
+      "SPANISH": "Negarán",
+      "ENGLISH": "They will deny"
     },
     "NOSOTROS": {
-      "SPANISH": "negaremos",
-      "ENGLISH": "we will deny"
+      "SPANISH": "Negaremos",
+      "ENGLISH": "We will deny"
     },
     "VOSOTROS": {
-      "SPANISH": "negaréis",
-      "ENGLISH": "you (plural) will deny"
+      "SPANISH": "Negaréis",
+      "ENGLISH": "You will deny"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré negado",
+      "SPANISH": "Habré negado",
       "ENGLISH": "I will have denied"
     },
     "TU": {
-      "SPANISH": "habrás negado",
-      "ENGLISH": "you will have denied"
+      "SPANISH": "Habrás negado",
+      "ENGLISH": "You will have denied"
     },
     "EL": {
-      "SPANISH": "habrá negado",
-      "ENGLISH": "s/he will have denied, you (formal) will have denied"
+      "SPANISH": "Habrá negado",
+      "ENGLISH": "He will have denied"
     },
     "ELLOS": {
-      "SPANISH": "habrán negado",
-      "ENGLISH": "they will have denied, you (plural formal) will have denied"
+      "SPANISH": "Habrán negado",
+      "ENGLISH": "They will have denied"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos negado",
-      "ENGLISH": "we will have denied"
+      "SPANISH": "Habremos negado",
+      "ENGLISH": "We will have denied"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis negado",
-      "ENGLISH": "you (plural) will have denied"
+      "SPANISH": "Habréis negado",
+      "ENGLISH": "You will have denied"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "negaría",
+      "SPANISH": "Negaría",
       "ENGLISH": "I would deny"
     },
     "TU": {
-      "SPANISH": "negarías",
-      "ENGLISH": "you would deny"
+      "SPANISH": "Negarías",
+      "ENGLISH": "You would deny"
     },
     "EL": {
-      "SPANISH": "negaría",
-      "ENGLISH": "s/he would deny, you (formal) would deny"
+      "SPANISH": "Negaría",
+      "ENGLISH": "He would deny"
     },
     "ELLOS": {
-      "SPANISH": "negarían",
-      "ENGLISH": "they would deny, you (plural formal) would deny"
+      "SPANISH": "Negarían",
+      "ENGLISH": "They would deny"
     },
     "NOSOTROS": {
-      "SPANISH": "negaríamos",
-      "ENGLISH": "we would deny"
+      "SPANISH": "Negaríamos",
+      "ENGLISH": "We would deny"
     },
     "VOSOTROS": {
-      "SPANISH": "negaríais",
-      "ENGLISH": "you (plural) would deny"
+      "SPANISH": "Negaríais",
+      "ENGLISH": "You would deny"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría negado",
+      "SPANISH": "Habría negado",
       "ENGLISH": "I would have denied"
     },
     "TU": {
-      "SPANISH": "habrías negado",
-      "ENGLISH": "you would have denied"
+      "SPANISH": "Habrías negado",
+      "ENGLISH": "You would have denied"
     },
     "EL": {
-      "SPANISH": "habría negado",
-      "ENGLISH": "s/he would have denied, you (formal) would have denied"
+      "SPANISH": "Habría negado",
+      "ENGLISH": "He would have denied"
     },
     "ELLOS": {
-      "SPANISH": "habrían negado",
-      "ENGLISH": "they would have denied, you (plural formal) would have denied"
+      "SPANISH": "Habrían negado",
+      "ENGLISH": "They would have denied"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos negado",
-      "ENGLISH": "we would have denied"
+      "SPANISH": "Habríamos negado",
+      "ENGLISH": "We would have denied"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais negado",
-      "ENGLISH": "you (plural) would have denied"
+      "SPANISH": "Habríais negado",
+      "ENGLISH": "You would have denied"
     }
   }
 }

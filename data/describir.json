@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "describo",
+      "SPANISH": "Describo",
       "ENGLISH": "I describe"
     },
     "TU": {
-      "SPANISH": "describes",
-      "ENGLISH": "you describe"
+      "SPANISH": "Describes",
+      "ENGLISH": "You describe"
     },
     "EL": {
-      "SPANISH": "describe",
-      "ENGLISH": "s/he describes, you (formal) describes"
+      "SPANISH": "Describe",
+      "ENGLISH": "He describes"
     },
     "ELLOS": {
-      "SPANISH": "describen",
-      "ENGLISH": "they describe, you (plural formal) describe"
+      "SPANISH": "Describen",
+      "ENGLISH": "They describe"
     },
     "NOSOTROS": {
-      "SPANISH": "describimos",
-      "ENGLISH": "we describe"
+      "SPANISH": "Describimos",
+      "ENGLISH": "We describe"
     },
     "VOSOTROS": {
-      "SPANISH": "describís",
-      "ENGLISH": "you (plural) describe"
+      "SPANISH": "Describís",
+      "ENGLISH": "You describe"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he descrito ",
+      "SPANISH": "He descrito ",
       "ENGLISH": "I have described"
     },
     "TU": {
-      "SPANISH": "has descrito ",
-      "ENGLISH": "you have described"
+      "SPANISH": "Has descrito ",
+      "ENGLISH": "You have described"
     },
     "EL": {
-      "SPANISH": "ha descrito ",
-      "ENGLISH": "s/he has described, you (formal) have described"
+      "SPANISH": "Ha descrito ",
+      "ENGLISH": "He has described"
     },
     "ELLOS": {
-      "SPANISH": "han descrito ",
-      "ENGLISH": "they have described, you (plural formal) have described"
+      "SPANISH": "Han descrito ",
+      "ENGLISH": "They have described"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos descrito ",
-      "ENGLISH": "we have described"
+      "SPANISH": "Hemos descrito ",
+      "ENGLISH": "We have described"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis descrito ",
-      "ENGLISH": "you (plural) have described"
+      "SPANISH": "Habéis descrito ",
+      "ENGLISH": "You have described"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "describí",
+      "SPANISH": "Describí",
       "ENGLISH": "I described"
     },
     "TU": {
-      "SPANISH": "describiste",
-      "ENGLISH": "you described"
+      "SPANISH": "Describiste",
+      "ENGLISH": "You described"
     },
     "EL": {
-      "SPANISH": "describió",
-      "ENGLISH": "s/he described, you (formal) described"
+      "SPANISH": "Describió",
+      "ENGLISH": "He described"
     },
     "ELLOS": {
-      "SPANISH": "describieron",
-      "ENGLISH": "they described, you (plural formal) described"
+      "SPANISH": "Describieron",
+      "ENGLISH": "They described"
     },
     "NOSOTROS": {
-      "SPANISH": "describimos",
-      "ENGLISH": "we described"
+      "SPANISH": "Describimos",
+      "ENGLISH": "We described"
     },
     "VOSOTROS": {
-      "SPANISH": "describisteis",
-      "ENGLISH": "you (plural) described"
+      "SPANISH": "Describisteis",
+      "ENGLISH": "You described"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había descrito ",
+      "SPANISH": "Había descrito ",
       "ENGLISH": "I had described"
     },
     "TU": {
-      "SPANISH": "habías descrito ",
-      "ENGLISH": "you had described"
+      "SPANISH": "Habías descrito ",
+      "ENGLISH": "You had described"
     },
     "EL": {
-      "SPANISH": "había descrito ",
-      "ENGLISH": "s/he had described, you (formal) had described"
+      "SPANISH": "Había descrito ",
+      "ENGLISH": "He had described"
     },
     "ELLOS": {
-      "SPANISH": "habían descrito ",
-      "ENGLISH": "they had described, you (plural formal) had described"
+      "SPANISH": "Habían descrito ",
+      "ENGLISH": "They had described"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos descrito ",
-      "ENGLISH": "we had described"
+      "SPANISH": "Habíamos descrito ",
+      "ENGLISH": "We had described"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais descrito ",
-      "ENGLISH": "you (plural) had described"
+      "SPANISH": "Habíais descrito ",
+      "ENGLISH": "You had described"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "describí",
+      "SPANISH": "Describí",
       "ENGLISH": "I described"
     },
     "TU": {
-      "SPANISH": "describiste",
-      "ENGLISH": "you described"
+      "SPANISH": "Describiste",
+      "ENGLISH": "You described"
     },
     "EL": {
-      "SPANISH": "describió",
-      "ENGLISH": "s/he described, you (formal) described"
+      "SPANISH": "Describió",
+      "ENGLISH": "He described"
     },
     "ELLOS": {
-      "SPANISH": "describieron",
-      "ENGLISH": "they described, you (plural formal) described"
+      "SPANISH": "Describieron",
+      "ENGLISH": "They described"
     },
     "NOSOTROS": {
-      "SPANISH": "describimos",
-      "ENGLISH": "we described"
+      "SPANISH": "Describimos",
+      "ENGLISH": "We described"
     },
     "VOSOTROS": {
-      "SPANISH": "describisteis",
-      "ENGLISH": "you (plural) described"
+      "SPANISH": "Describisteis",
+      "ENGLISH": "You described"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "describiré",
+      "SPANISH": "Describiré",
       "ENGLISH": "I will describe"
     },
     "TU": {
-      "SPANISH": "describirás",
-      "ENGLISH": "you will describe"
+      "SPANISH": "Describirás",
+      "ENGLISH": "You will describe"
     },
     "EL": {
-      "SPANISH": "describirá",
-      "ENGLISH": "s/he will describe, you (formal) will describe"
+      "SPANISH": "Describirá",
+      "ENGLISH": "He will describe"
     },
     "ELLOS": {
-      "SPANISH": "describirán",
-      "ENGLISH": "they will describe, you (plural formal) will describe"
+      "SPANISH": "Describirán",
+      "ENGLISH": "They will describe"
     },
     "NOSOTROS": {
-      "SPANISH": "describiremos",
-      "ENGLISH": "we will describe"
+      "SPANISH": "Describiremos",
+      "ENGLISH": "We will describe"
     },
     "VOSOTROS": {
-      "SPANISH": "describiréis",
-      "ENGLISH": "you (plural) will describe"
+      "SPANISH": "Describiréis",
+      "ENGLISH": "You will describe"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré descrito ",
+      "SPANISH": "Habré descrito ",
       "ENGLISH": "I will have described"
     },
     "TU": {
-      "SPANISH": "habrás descrito ",
-      "ENGLISH": "you will have described"
+      "SPANISH": "Habrás descrito ",
+      "ENGLISH": "You will have described"
     },
     "EL": {
-      "SPANISH": "habrá descrito ",
-      "ENGLISH": "s/he will have described, you (formal) will have described"
+      "SPANISH": "Habrá descrito ",
+      "ENGLISH": "He will have described"
     },
     "ELLOS": {
-      "SPANISH": "habrán descrito ",
-      "ENGLISH": "they will have described, you (plural formal) will have described"
+      "SPANISH": "Habrán descrito ",
+      "ENGLISH": "They will have described"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos descrito ",
-      "ENGLISH": "we will have described"
+      "SPANISH": "Habremos descrito ",
+      "ENGLISH": "We will have described"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis descrito ",
-      "ENGLISH": "you (plural) will have described"
+      "SPANISH": "Habréis descrito ",
+      "ENGLISH": "You will have described"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "describiría",
+      "SPANISH": "Describiría",
       "ENGLISH": "I would describe"
     },
     "TU": {
-      "SPANISH": "describirías",
-      "ENGLISH": "you would describe"
+      "SPANISH": "Describirías",
+      "ENGLISH": "You would describe"
     },
     "EL": {
-      "SPANISH": "describiría",
-      "ENGLISH": "s/he would describe, you (formal) would describe"
+      "SPANISH": "Describiría",
+      "ENGLISH": "He would describe"
     },
     "ELLOS": {
-      "SPANISH": "describirían",
-      "ENGLISH": "they would describe, you (plural formal) would describe"
+      "SPANISH": "Describirían",
+      "ENGLISH": "They would describe"
     },
     "NOSOTROS": {
-      "SPANISH": "describiríamos",
-      "ENGLISH": "we would describe"
+      "SPANISH": "Describiríamos",
+      "ENGLISH": "We would describe"
     },
     "VOSOTROS": {
-      "SPANISH": "describiríais",
-      "ENGLISH": "you (plural) would describe"
+      "SPANISH": "Describiríais",
+      "ENGLISH": "You would describe"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría descrito ",
+      "SPANISH": "Habría descrito ",
       "ENGLISH": "I would have described"
     },
     "TU": {
-      "SPANISH": "habrías descrito ",
-      "ENGLISH": "you would have described"
+      "SPANISH": "Habrías descrito ",
+      "ENGLISH": "You would have described"
     },
     "EL": {
-      "SPANISH": "habría descrito ",
-      "ENGLISH": "s/he would have described, you (formal) would have described"
+      "SPANISH": "Habría descrito ",
+      "ENGLISH": "He would have described"
     },
     "ELLOS": {
-      "SPANISH": "habrían descrito ",
-      "ENGLISH": "they would have described, you (plural formal) would have described"
+      "SPANISH": "Habrían descrito ",
+      "ENGLISH": "They would have described"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos descrito ",
-      "ENGLISH": "we would have described"
+      "SPANISH": "Habríamos descrito ",
+      "ENGLISH": "We would have described"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais descrito ",
-      "ENGLISH": "you (plural) would have described"
+      "SPANISH": "Habríais descrito ",
+      "ENGLISH": "You would have described"
     }
   }
 }

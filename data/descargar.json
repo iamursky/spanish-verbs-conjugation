@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "descargo",
+      "SPANISH": "Descargo",
       "ENGLISH": "I download"
     },
     "TU": {
-      "SPANISH": "descargas",
-      "ENGLISH": "you download"
+      "SPANISH": "Descargas",
+      "ENGLISH": "You download"
     },
     "EL": {
-      "SPANISH": "descarga",
-      "ENGLISH": "s/he downloads, you (formal) downloads"
+      "SPANISH": "Descarga",
+      "ENGLISH": "He downloads"
     },
     "ELLOS": {
-      "SPANISH": "descargan",
-      "ENGLISH": "they download, you (plural formal) download"
+      "SPANISH": "Descargan",
+      "ENGLISH": "They download"
     },
     "NOSOTROS": {
-      "SPANISH": "descargamos",
-      "ENGLISH": "we download"
+      "SPANISH": "Descargamos",
+      "ENGLISH": "We download"
     },
     "VOSOTROS": {
-      "SPANISH": "descargáis",
-      "ENGLISH": "you (plural) download"
+      "SPANISH": "Descargáis",
+      "ENGLISH": "You download"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he descargado",
+      "SPANISH": "He descargado",
       "ENGLISH": "I have downloaded"
     },
     "TU": {
-      "SPANISH": "has descargado",
-      "ENGLISH": "you have downloaded"
+      "SPANISH": "Has descargado",
+      "ENGLISH": "You have downloaded"
     },
     "EL": {
-      "SPANISH": "ha descargado",
-      "ENGLISH": "s/he has downloaded, you (formal) have downloaded"
+      "SPANISH": "Ha descargado",
+      "ENGLISH": "He has downloaded"
     },
     "ELLOS": {
-      "SPANISH": "han descargado",
-      "ENGLISH": "they have downloaded, you (plural formal) have downloaded"
+      "SPANISH": "Han descargado",
+      "ENGLISH": "They have downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos descargado",
-      "ENGLISH": "we have downloaded"
+      "SPANISH": "Hemos descargado",
+      "ENGLISH": "We have downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis descargado",
-      "ENGLISH": "you (plural) have downloaded"
+      "SPANISH": "Habéis descargado",
+      "ENGLISH": "You have downloaded"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "descargué ",
+      "SPANISH": "Descargué ",
       "ENGLISH": "I downloaded"
     },
     "TU": {
-      "SPANISH": "descargaste",
-      "ENGLISH": "you downloaded"
+      "SPANISH": "Descargaste",
+      "ENGLISH": "You downloaded"
     },
     "EL": {
-      "SPANISH": "descargó",
-      "ENGLISH": "s/he downloaded, you (formal) downloaded"
+      "SPANISH": "Descargó",
+      "ENGLISH": "He downloaded"
     },
     "ELLOS": {
-      "SPANISH": "descargaron",
-      "ENGLISH": "they downloaded, you (plural formal) downloaded"
+      "SPANISH": "Descargaron",
+      "ENGLISH": "They downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "descargamos",
-      "ENGLISH": "we downloaded"
+      "SPANISH": "Descargamos",
+      "ENGLISH": "We downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "descargasteis",
-      "ENGLISH": "you (plural) downloaded"
+      "SPANISH": "Descargasteis",
+      "ENGLISH": "You downloaded"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había descargado",
+      "SPANISH": "Había descargado",
       "ENGLISH": "I had downloaded"
     },
     "TU": {
-      "SPANISH": "habías descargado",
-      "ENGLISH": "you had downloaded"
+      "SPANISH": "Habías descargado",
+      "ENGLISH": "You had downloaded"
     },
     "EL": {
-      "SPANISH": "había descargado",
-      "ENGLISH": "s/he had downloaded, you (formal) had downloaded"
+      "SPANISH": "Había descargado",
+      "ENGLISH": "He had downloaded"
     },
     "ELLOS": {
-      "SPANISH": "habían descargado",
-      "ENGLISH": "they had downloaded, you (plural formal) had downloaded"
+      "SPANISH": "Habían descargado",
+      "ENGLISH": "They had downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos descargado",
-      "ENGLISH": "we had downloaded"
+      "SPANISH": "Habíamos descargado",
+      "ENGLISH": "We had downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais descargado",
-      "ENGLISH": "you (plural) had downloaded"
+      "SPANISH": "Habíais descargado",
+      "ENGLISH": "You had downloaded"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "descargué ",
+      "SPANISH": "Descargué ",
       "ENGLISH": "I downloaded"
     },
     "TU": {
-      "SPANISH": "descargaste",
-      "ENGLISH": "you downloaded"
+      "SPANISH": "Descargaste",
+      "ENGLISH": "You downloaded"
     },
     "EL": {
-      "SPANISH": "descargó",
-      "ENGLISH": "s/he downloaded, you (formal) downloaded"
+      "SPANISH": "Descargó",
+      "ENGLISH": "He downloaded"
     },
     "ELLOS": {
-      "SPANISH": "descargaron",
-      "ENGLISH": "they downloaded, you (plural formal) downloaded"
+      "SPANISH": "Descargaron",
+      "ENGLISH": "They downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "descargamos",
-      "ENGLISH": "we downloaded"
+      "SPANISH": "Descargamos",
+      "ENGLISH": "We downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "descargasteis",
-      "ENGLISH": "you (plural) downloaded"
+      "SPANISH": "Descargasteis",
+      "ENGLISH": "You downloaded"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "descargaré",
+      "SPANISH": "Descargaré",
       "ENGLISH": "I will download"
     },
     "TU": {
-      "SPANISH": "descargarás",
-      "ENGLISH": "you will download"
+      "SPANISH": "Descargarás",
+      "ENGLISH": "You will download"
     },
     "EL": {
-      "SPANISH": "descargará",
-      "ENGLISH": "s/he will download, you (formal) will download"
+      "SPANISH": "Descargará",
+      "ENGLISH": "He will download"
     },
     "ELLOS": {
-      "SPANISH": "descargarán",
-      "ENGLISH": "they will download, you (plural formal) will download"
+      "SPANISH": "Descargarán",
+      "ENGLISH": "They will download"
     },
     "NOSOTROS": {
-      "SPANISH": "descargaremos",
-      "ENGLISH": "we will download"
+      "SPANISH": "Descargaremos",
+      "ENGLISH": "We will download"
     },
     "VOSOTROS": {
-      "SPANISH": "descargaréis",
-      "ENGLISH": "you (plural) will download"
+      "SPANISH": "Descargaréis",
+      "ENGLISH": "You will download"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré descargado",
+      "SPANISH": "Habré descargado",
       "ENGLISH": "I will have downloaded"
     },
     "TU": {
-      "SPANISH": "habrás descargado",
-      "ENGLISH": "you will have downloaded"
+      "SPANISH": "Habrás descargado",
+      "ENGLISH": "You will have downloaded"
     },
     "EL": {
-      "SPANISH": "habrá descargado",
-      "ENGLISH": "s/he will have downloaded, you (formal) will have downloaded"
+      "SPANISH": "Habrá descargado",
+      "ENGLISH": "He will have downloaded"
     },
     "ELLOS": {
-      "SPANISH": "habrán descargado",
-      "ENGLISH": "they will have downloaded, you (plural formal) will have downloaded"
+      "SPANISH": "Habrán descargado",
+      "ENGLISH": "They will have downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos descargado",
-      "ENGLISH": "we will have downloaded"
+      "SPANISH": "Habremos descargado",
+      "ENGLISH": "We will have downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis descargado",
-      "ENGLISH": "you (plural) will have downloaded"
+      "SPANISH": "Habréis descargado",
+      "ENGLISH": "You will have downloaded"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "descargaría",
+      "SPANISH": "Descargaría",
       "ENGLISH": "I would download"
     },
     "TU": {
-      "SPANISH": "descargarías",
-      "ENGLISH": "you would download"
+      "SPANISH": "Descargarías",
+      "ENGLISH": "You would download"
     },
     "EL": {
-      "SPANISH": "descargaría",
-      "ENGLISH": "s/he would download, you (formal) would download"
+      "SPANISH": "Descargaría",
+      "ENGLISH": "He would download"
     },
     "ELLOS": {
-      "SPANISH": "descargarían",
-      "ENGLISH": "they would download, you (plural formal) would download"
+      "SPANISH": "Descargarían",
+      "ENGLISH": "They would download"
     },
     "NOSOTROS": {
-      "SPANISH": "descargaríamos",
-      "ENGLISH": "we would download"
+      "SPANISH": "Descargaríamos",
+      "ENGLISH": "We would download"
     },
     "VOSOTROS": {
-      "SPANISH": "descargaríais",
-      "ENGLISH": "you (plural) would download"
+      "SPANISH": "Descargaríais",
+      "ENGLISH": "You would download"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría descargado",
+      "SPANISH": "Habría descargado",
       "ENGLISH": "I would have downloaded"
     },
     "TU": {
-      "SPANISH": "habrías descargado",
-      "ENGLISH": "you would have downloaded"
+      "SPANISH": "Habrías descargado",
+      "ENGLISH": "You would have downloaded"
     },
     "EL": {
-      "SPANISH": "habría descargado",
-      "ENGLISH": "s/he would have downloaded, you (formal) would have downloaded"
+      "SPANISH": "Habría descargado",
+      "ENGLISH": "He would have downloaded"
     },
     "ELLOS": {
-      "SPANISH": "habrían descargado",
-      "ENGLISH": "they would have downloaded, you (plural formal) would have downloaded"
+      "SPANISH": "Habrían descargado",
+      "ENGLISH": "They would have downloaded"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos descargado",
-      "ENGLISH": "we would have downloaded"
+      "SPANISH": "Habríamos descargado",
+      "ENGLISH": "We would have downloaded"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais descargado",
-      "ENGLISH": "you (plural) would have downloaded"
+      "SPANISH": "Habríais descargado",
+      "ENGLISH": "You would have downloaded"
     }
   }
 }

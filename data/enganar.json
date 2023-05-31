@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "engaño",
+      "SPANISH": "Engaño",
       "ENGLISH": "I cheat"
     },
     "TU": {
-      "SPANISH": "engañas",
-      "ENGLISH": "you cheat"
+      "SPANISH": "Engañas",
+      "ENGLISH": "You cheat"
     },
     "EL": {
-      "SPANISH": "engaña",
-      "ENGLISH": "s/he cheats, you (formal) cheats"
+      "SPANISH": "Engaña",
+      "ENGLISH": "He cheats"
     },
     "ELLOS": {
-      "SPANISH": "engañan",
-      "ENGLISH": "they cheat, you (plural formal) cheat"
+      "SPANISH": "Engañan",
+      "ENGLISH": "They cheat"
     },
     "NOSOTROS": {
-      "SPANISH": "engañamos",
-      "ENGLISH": "we cheat"
+      "SPANISH": "Engañamos",
+      "ENGLISH": "We cheat"
     },
     "VOSOTROS": {
-      "SPANISH": "engañáis",
-      "ENGLISH": "you (plural) cheat"
+      "SPANISH": "Engañáis",
+      "ENGLISH": "You cheat"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he engañado",
+      "SPANISH": "He engañado",
       "ENGLISH": "I have cheated"
     },
     "TU": {
-      "SPANISH": "has engañado",
-      "ENGLISH": "you have cheated"
+      "SPANISH": "Has engañado",
+      "ENGLISH": "You have cheated"
     },
     "EL": {
-      "SPANISH": "ha engañado",
-      "ENGLISH": "s/he has cheated, you (formal) have cheated"
+      "SPANISH": "Ha engañado",
+      "ENGLISH": "He has cheated"
     },
     "ELLOS": {
-      "SPANISH": "han engañado",
-      "ENGLISH": "they have cheated, you (plural formal) have cheated"
+      "SPANISH": "Han engañado",
+      "ENGLISH": "They have cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos engañado",
-      "ENGLISH": "we have cheated"
+      "SPANISH": "Hemos engañado",
+      "ENGLISH": "We have cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis engañado",
-      "ENGLISH": "you (plural) have cheated"
+      "SPANISH": "Habéis engañado",
+      "ENGLISH": "You have cheated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "engañé",
+      "SPANISH": "Engañé",
       "ENGLISH": "I cheated"
     },
     "TU": {
-      "SPANISH": "engañaste",
-      "ENGLISH": "you cheated"
+      "SPANISH": "Engañaste",
+      "ENGLISH": "You cheated"
     },
     "EL": {
-      "SPANISH": "engañó",
-      "ENGLISH": "s/he cheated, you (formal) cheated"
+      "SPANISH": "Engañó",
+      "ENGLISH": "He cheated"
     },
     "ELLOS": {
-      "SPANISH": "engañaron",
-      "ENGLISH": "they cheated, you (plural formal) cheated"
+      "SPANISH": "Engañaron",
+      "ENGLISH": "They cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "engañamos",
-      "ENGLISH": "we cheated"
+      "SPANISH": "Engañamos",
+      "ENGLISH": "We cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "engañasteis",
-      "ENGLISH": "you (plural) cheated"
+      "SPANISH": "Engañasteis",
+      "ENGLISH": "You cheated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había engañado",
+      "SPANISH": "Había engañado",
       "ENGLISH": "I had cheated"
     },
     "TU": {
-      "SPANISH": "habías engañado",
-      "ENGLISH": "you had cheated"
+      "SPANISH": "Habías engañado",
+      "ENGLISH": "You had cheated"
     },
     "EL": {
-      "SPANISH": "había engañado",
-      "ENGLISH": "s/he had cheated, you (formal) had cheated"
+      "SPANISH": "Había engañado",
+      "ENGLISH": "He had cheated"
     },
     "ELLOS": {
-      "SPANISH": "habían engañado",
-      "ENGLISH": "they had cheated, you (plural formal) had cheated"
+      "SPANISH": "Habían engañado",
+      "ENGLISH": "They had cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos engañado",
-      "ENGLISH": "we had cheated"
+      "SPANISH": "Habíamos engañado",
+      "ENGLISH": "We had cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais engañado",
-      "ENGLISH": "you (plural) had cheated"
+      "SPANISH": "Habíais engañado",
+      "ENGLISH": "You had cheated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "engañé",
+      "SPANISH": "Engañé",
       "ENGLISH": "I cheated"
     },
     "TU": {
-      "SPANISH": "engañaste",
-      "ENGLISH": "you cheated"
+      "SPANISH": "Engañaste",
+      "ENGLISH": "You cheated"
     },
     "EL": {
-      "SPANISH": "engañó",
-      "ENGLISH": "s/he cheated, you (formal) cheated"
+      "SPANISH": "Engañó",
+      "ENGLISH": "He cheated"
     },
     "ELLOS": {
-      "SPANISH": "engañaron",
-      "ENGLISH": "they cheated, you (plural formal) cheated"
+      "SPANISH": "Engañaron",
+      "ENGLISH": "They cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "engañamos",
-      "ENGLISH": "we cheated"
+      "SPANISH": "Engañamos",
+      "ENGLISH": "We cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "engañasteis",
-      "ENGLISH": "you (plural) cheated"
+      "SPANISH": "Engañasteis",
+      "ENGLISH": "You cheated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "engañaré",
+      "SPANISH": "Engañaré",
       "ENGLISH": "I will cheat"
     },
     "TU": {
-      "SPANISH": "engañarás",
-      "ENGLISH": "you will cheat"
+      "SPANISH": "Engañarás",
+      "ENGLISH": "You will cheat"
     },
     "EL": {
-      "SPANISH": "engañará",
-      "ENGLISH": "s/he will cheat, you (formal) will cheat"
+      "SPANISH": "Engañará",
+      "ENGLISH": "He will cheat"
     },
     "ELLOS": {
-      "SPANISH": "engañarán",
-      "ENGLISH": "they will cheat, you (plural formal) will cheat"
+      "SPANISH": "Engañarán",
+      "ENGLISH": "They will cheat"
     },
     "NOSOTROS": {
-      "SPANISH": "engañaremos",
-      "ENGLISH": "we will cheat"
+      "SPANISH": "Engañaremos",
+      "ENGLISH": "We will cheat"
     },
     "VOSOTROS": {
-      "SPANISH": "engañaréis",
-      "ENGLISH": "you (plural) will cheat"
+      "SPANISH": "Engañaréis",
+      "ENGLISH": "You will cheat"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré engañado",
+      "SPANISH": "Habré engañado",
       "ENGLISH": "I will have cheated"
     },
     "TU": {
-      "SPANISH": "habrás engañado",
-      "ENGLISH": "you will have cheated"
+      "SPANISH": "Habrás engañado",
+      "ENGLISH": "You will have cheated"
     },
     "EL": {
-      "SPANISH": "habrá engañado",
-      "ENGLISH": "s/he will have cheated, you (formal) will have cheated"
+      "SPANISH": "Habrá engañado",
+      "ENGLISH": "He will have cheated"
     },
     "ELLOS": {
-      "SPANISH": "habrán engañado",
-      "ENGLISH": "they will have cheated, you (plural formal) will have cheated"
+      "SPANISH": "Habrán engañado",
+      "ENGLISH": "They will have cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos engañado",
-      "ENGLISH": "we will have cheated"
+      "SPANISH": "Habremos engañado",
+      "ENGLISH": "We will have cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis engañado",
-      "ENGLISH": "you (plural) will have cheated"
+      "SPANISH": "Habréis engañado",
+      "ENGLISH": "You will have cheated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "engañaría",
+      "SPANISH": "Engañaría",
       "ENGLISH": "I would cheat"
     },
     "TU": {
-      "SPANISH": "engañarías",
-      "ENGLISH": "you would cheat"
+      "SPANISH": "Engañarías",
+      "ENGLISH": "You would cheat"
     },
     "EL": {
-      "SPANISH": "engañaría",
-      "ENGLISH": "s/he would cheat, you (formal) would cheat"
+      "SPANISH": "Engañaría",
+      "ENGLISH": "He would cheat"
     },
     "ELLOS": {
-      "SPANISH": "engañarían",
-      "ENGLISH": "they would cheat, you (plural formal) would cheat"
+      "SPANISH": "Engañarían",
+      "ENGLISH": "They would cheat"
     },
     "NOSOTROS": {
-      "SPANISH": "engañaríamos",
-      "ENGLISH": "we would cheat"
+      "SPANISH": "Engañaríamos",
+      "ENGLISH": "We would cheat"
     },
     "VOSOTROS": {
-      "SPANISH": "engañaríais",
-      "ENGLISH": "you (plural) would cheat"
+      "SPANISH": "Engañaríais",
+      "ENGLISH": "You would cheat"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría engañado",
+      "SPANISH": "Habría engañado",
       "ENGLISH": "I would have cheated"
     },
     "TU": {
-      "SPANISH": "habrías engañado",
-      "ENGLISH": "you would have cheated"
+      "SPANISH": "Habrías engañado",
+      "ENGLISH": "You would have cheated"
     },
     "EL": {
-      "SPANISH": "habría engañado",
-      "ENGLISH": "s/he would have cheated, you (formal) would have cheated"
+      "SPANISH": "Habría engañado",
+      "ENGLISH": "He would have cheated"
     },
     "ELLOS": {
-      "SPANISH": "habrían engañado",
-      "ENGLISH": "they would have cheated, you (plural formal) would have cheated"
+      "SPANISH": "Habrían engañado",
+      "ENGLISH": "They would have cheated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos engañado",
-      "ENGLISH": "we would have cheated"
+      "SPANISH": "Habríamos engañado",
+      "ENGLISH": "We would have cheated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais engañado",
-      "ENGLISH": "you (plural) would have cheated"
+      "SPANISH": "Habríais engañado",
+      "ENGLISH": "You would have cheated"
     }
   }
 }

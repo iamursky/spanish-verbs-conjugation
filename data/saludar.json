@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "saludo",
+      "SPANISH": "Saludo",
       "ENGLISH": "I greet"
     },
     "TU": {
-      "SPANISH": "saludas",
-      "ENGLISH": "you greet"
+      "SPANISH": "Saludas",
+      "ENGLISH": "You greet"
     },
     "EL": {
-      "SPANISH": "saluda",
-      "ENGLISH": "s/he greets, you (formal) greets"
+      "SPANISH": "Saluda",
+      "ENGLISH": "He greets"
     },
     "ELLOS": {
-      "SPANISH": "saludan",
-      "ENGLISH": "they greet, you (plural formal) greet"
+      "SPANISH": "Saludan",
+      "ENGLISH": "They greet"
     },
     "NOSOTROS": {
-      "SPANISH": "saludamos",
-      "ENGLISH": "we greet"
+      "SPANISH": "Saludamos",
+      "ENGLISH": "We greet"
     },
     "VOSOTROS": {
-      "SPANISH": "saludáis",
-      "ENGLISH": "you (plural) greet"
+      "SPANISH": "Saludáis",
+      "ENGLISH": "You greet"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he saludado",
+      "SPANISH": "He saludado",
       "ENGLISH": "I have greeted"
     },
     "TU": {
-      "SPANISH": "has saludado",
-      "ENGLISH": "you have greeted"
+      "SPANISH": "Has saludado",
+      "ENGLISH": "You have greeted"
     },
     "EL": {
-      "SPANISH": "ha saludado",
-      "ENGLISH": "s/he has greeted, you (formal) have greeted"
+      "SPANISH": "Ha saludado",
+      "ENGLISH": "He has greeted"
     },
     "ELLOS": {
-      "SPANISH": "han saludado",
-      "ENGLISH": "they have greeted, you (plural formal) have greeted"
+      "SPANISH": "Han saludado",
+      "ENGLISH": "They have greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos saludado",
-      "ENGLISH": "we have greeted"
+      "SPANISH": "Hemos saludado",
+      "ENGLISH": "We have greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis saludado",
-      "ENGLISH": "you (plural) have greeted"
+      "SPANISH": "Habéis saludado",
+      "ENGLISH": "You have greeted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "saludé",
+      "SPANISH": "Saludé",
       "ENGLISH": "I greeted"
     },
     "TU": {
-      "SPANISH": "saludaste",
-      "ENGLISH": "you greeted"
+      "SPANISH": "Saludaste",
+      "ENGLISH": "You greeted"
     },
     "EL": {
-      "SPANISH": "saludó",
-      "ENGLISH": "s/he greeted, you (formal) greeted"
+      "SPANISH": "Saludó",
+      "ENGLISH": "He greeted"
     },
     "ELLOS": {
-      "SPANISH": "saludaron",
-      "ENGLISH": "they greeted, you (plural formal) greeted"
+      "SPANISH": "Saludaron",
+      "ENGLISH": "They greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "saludamos",
-      "ENGLISH": "we greeted"
+      "SPANISH": "Saludamos",
+      "ENGLISH": "We greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "saludasteis",
-      "ENGLISH": "you (plural) greeted"
+      "SPANISH": "Saludasteis",
+      "ENGLISH": "You greeted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había saludado",
+      "SPANISH": "Había saludado",
       "ENGLISH": "I had greeted"
     },
     "TU": {
-      "SPANISH": "habías saludado",
-      "ENGLISH": "you had greeted"
+      "SPANISH": "Habías saludado",
+      "ENGLISH": "You had greeted"
     },
     "EL": {
-      "SPANISH": "había saludado",
-      "ENGLISH": "s/he had greeted, you (formal) had greeted"
+      "SPANISH": "Había saludado",
+      "ENGLISH": "He had greeted"
     },
     "ELLOS": {
-      "SPANISH": "habían saludado",
-      "ENGLISH": "they had greeted, you (plural formal) had greeted"
+      "SPANISH": "Habían saludado",
+      "ENGLISH": "They had greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos saludado",
-      "ENGLISH": "we had greeted"
+      "SPANISH": "Habíamos saludado",
+      "ENGLISH": "We had greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais saludado",
-      "ENGLISH": "you (plural) had greeted"
+      "SPANISH": "Habíais saludado",
+      "ENGLISH": "You had greeted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "saludé",
+      "SPANISH": "Saludé",
       "ENGLISH": "I greeted"
     },
     "TU": {
-      "SPANISH": "saludaste",
-      "ENGLISH": "you greeted"
+      "SPANISH": "Saludaste",
+      "ENGLISH": "You greeted"
     },
     "EL": {
-      "SPANISH": "saludó",
-      "ENGLISH": "s/he greeted, you (formal) greeted"
+      "SPANISH": "Saludó",
+      "ENGLISH": "He greeted"
     },
     "ELLOS": {
-      "SPANISH": "saludaron",
-      "ENGLISH": "they greeted, you (plural formal) greeted"
+      "SPANISH": "Saludaron",
+      "ENGLISH": "They greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "saludamos",
-      "ENGLISH": "we greeted"
+      "SPANISH": "Saludamos",
+      "ENGLISH": "We greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "saludasteis",
-      "ENGLISH": "you (plural) greeted"
+      "SPANISH": "Saludasteis",
+      "ENGLISH": "You greeted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "saludaré",
+      "SPANISH": "Saludaré",
       "ENGLISH": "I will greet"
     },
     "TU": {
-      "SPANISH": "saludarás",
-      "ENGLISH": "you will greet"
+      "SPANISH": "Saludarás",
+      "ENGLISH": "You will greet"
     },
     "EL": {
-      "SPANISH": "saludará",
-      "ENGLISH": "s/he will greet, you (formal) will greet"
+      "SPANISH": "Saludará",
+      "ENGLISH": "He will greet"
     },
     "ELLOS": {
-      "SPANISH": "saludarán",
-      "ENGLISH": "they will greet, you (plural formal) will greet"
+      "SPANISH": "Saludarán",
+      "ENGLISH": "They will greet"
     },
     "NOSOTROS": {
-      "SPANISH": "saludaremos",
-      "ENGLISH": "we will greet"
+      "SPANISH": "Saludaremos",
+      "ENGLISH": "We will greet"
     },
     "VOSOTROS": {
-      "SPANISH": "saludaréis",
-      "ENGLISH": "you (plural) will greet"
+      "SPANISH": "Saludaréis",
+      "ENGLISH": "You will greet"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré saludado",
+      "SPANISH": "Habré saludado",
       "ENGLISH": "I will have greeted"
     },
     "TU": {
-      "SPANISH": "habrás saludado",
-      "ENGLISH": "you will have greeted"
+      "SPANISH": "Habrás saludado",
+      "ENGLISH": "You will have greeted"
     },
     "EL": {
-      "SPANISH": "habrá saludado",
-      "ENGLISH": "s/he will have greeted, you (formal) will have greeted"
+      "SPANISH": "Habrá saludado",
+      "ENGLISH": "He will have greeted"
     },
     "ELLOS": {
-      "SPANISH": "habrán saludado",
-      "ENGLISH": "they will have greeted, you (plural formal) will have greeted"
+      "SPANISH": "Habrán saludado",
+      "ENGLISH": "They will have greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos saludado",
-      "ENGLISH": "we will have greeted"
+      "SPANISH": "Habremos saludado",
+      "ENGLISH": "We will have greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis saludado",
-      "ENGLISH": "you (plural) will have greeted"
+      "SPANISH": "Habréis saludado",
+      "ENGLISH": "You will have greeted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "saludaría",
+      "SPANISH": "Saludaría",
       "ENGLISH": "I would greet"
     },
     "TU": {
-      "SPANISH": "saludarías",
-      "ENGLISH": "you would greet"
+      "SPANISH": "Saludarías",
+      "ENGLISH": "You would greet"
     },
     "EL": {
-      "SPANISH": "saludaría",
-      "ENGLISH": "s/he would greet, you (formal) would greet"
+      "SPANISH": "Saludaría",
+      "ENGLISH": "He would greet"
     },
     "ELLOS": {
-      "SPANISH": "saludarían",
-      "ENGLISH": "they would greet, you (plural formal) would greet"
+      "SPANISH": "Saludarían",
+      "ENGLISH": "They would greet"
     },
     "NOSOTROS": {
-      "SPANISH": "saludaríamos",
-      "ENGLISH": "we would greet"
+      "SPANISH": "Saludaríamos",
+      "ENGLISH": "We would greet"
     },
     "VOSOTROS": {
-      "SPANISH": "saludaríais",
-      "ENGLISH": "you (plural) would greet"
+      "SPANISH": "Saludaríais",
+      "ENGLISH": "You would greet"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría saludado",
+      "SPANISH": "Habría saludado",
       "ENGLISH": "I would have greeted"
     },
     "TU": {
-      "SPANISH": "habrías saludado",
-      "ENGLISH": "you would have greeted"
+      "SPANISH": "Habrías saludado",
+      "ENGLISH": "You would have greeted"
     },
     "EL": {
-      "SPANISH": "habría saludado",
-      "ENGLISH": "s/he would have greeted, you (formal) would have greeted"
+      "SPANISH": "Habría saludado",
+      "ENGLISH": "He would have greeted"
     },
     "ELLOS": {
-      "SPANISH": "habrían saludado",
-      "ENGLISH": "they would have greeted, you (plural formal) would have greeted"
+      "SPANISH": "Habrían saludado",
+      "ENGLISH": "They would have greeted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos saludado",
-      "ENGLISH": "we would have greeted"
+      "SPANISH": "Habríamos saludado",
+      "ENGLISH": "We would have greeted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais saludado",
-      "ENGLISH": "you (plural) would have greeted"
+      "SPANISH": "Habríais saludado",
+      "ENGLISH": "You would have greeted"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me levanto",
+      "SPANISH": "Me levanto",
       "ENGLISH": "I get up"
     },
     "TU": {
-      "SPANISH": "te levantas",
-      "ENGLISH": "you get up"
+      "SPANISH": "Te levantas",
+      "ENGLISH": "You get up"
     },
     "EL": {
-      "SPANISH": "se levanta",
-      "ENGLISH": "s/he gets up, you (formal) gets up"
+      "SPANISH": "Se levanta",
+      "ENGLISH": "He gets up"
     },
     "ELLOS": {
-      "SPANISH": "se levantan",
-      "ENGLISH": "they get up, you (plural formal) get up"
+      "SPANISH": "Se levantan",
+      "ENGLISH": "They get up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos levantamos",
-      "ENGLISH": "we get up"
+      "SPANISH": "Nos levantamos",
+      "ENGLISH": "We get up"
     },
     "VOSOTROS": {
-      "SPANISH": "os levantáis",
-      "ENGLISH": "you (plural) get up"
+      "SPANISH": "Os levantáis",
+      "ENGLISH": "You get up"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he levantado",
+      "SPANISH": "Me he levantado",
       "ENGLISH": "I have gotten up"
     },
     "TU": {
-      "SPANISH": "te has levantado",
-      "ENGLISH": "you have gotten up"
+      "SPANISH": "Te has levantado",
+      "ENGLISH": "You have gotten up"
     },
     "EL": {
-      "SPANISH": "se ha levantado",
-      "ENGLISH": "s/he has gotten up, you (formal) have gotten up"
+      "SPANISH": "Se ha levantado",
+      "ENGLISH": "He has gotten up"
     },
     "ELLOS": {
-      "SPANISH": "se han levantado",
-      "ENGLISH": "they have gotten up, you (plural formal) have gotten up"
+      "SPANISH": "Se han levantado",
+      "ENGLISH": "They have gotten up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos levantado",
-      "ENGLISH": "we have gotten up"
+      "SPANISH": "Nos hemos levantado",
+      "ENGLISH": "We have gotten up"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis levantado",
-      "ENGLISH": "you (plural) have gotten up"
+      "SPANISH": "Os habéis levantado",
+      "ENGLISH": "You have gotten up"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me levanté",
+      "SPANISH": "Me levanté",
       "ENGLISH": "I got up"
     },
     "TU": {
-      "SPANISH": "te levantaste",
-      "ENGLISH": "you got up"
+      "SPANISH": "Te levantaste",
+      "ENGLISH": "You got up"
     },
     "EL": {
-      "SPANISH": "se levantó",
-      "ENGLISH": "s/he got up, you (formal) got up"
+      "SPANISH": "Se levantó",
+      "ENGLISH": "He got up"
     },
     "ELLOS": {
-      "SPANISH": "se levantaron",
-      "ENGLISH": "they got up, you (plural formal) got up"
+      "SPANISH": "Se levantaron",
+      "ENGLISH": "They got up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos levantamos",
-      "ENGLISH": "we got up"
+      "SPANISH": "Nos levantamos",
+      "ENGLISH": "We got up"
     },
     "VOSOTROS": {
-      "SPANISH": "os levantasteis",
-      "ENGLISH": "you (plural) got up"
+      "SPANISH": "Os levantasteis",
+      "ENGLISH": "You got up"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había levantado",
+      "SPANISH": "Me había levantado",
       "ENGLISH": "I had gotten up"
     },
     "TU": {
-      "SPANISH": "te habías levantado",
-      "ENGLISH": "you had gotten up"
+      "SPANISH": "Te habías levantado",
+      "ENGLISH": "You had gotten up"
     },
     "EL": {
-      "SPANISH": "se había levantado",
-      "ENGLISH": "s/he had gotten up, you (formal) had gotten up"
+      "SPANISH": "Se había levantado",
+      "ENGLISH": "He had gotten up"
     },
     "ELLOS": {
-      "SPANISH": "se habían levantado",
-      "ENGLISH": "they had gotten up, you (plural formal) had gotten up"
+      "SPANISH": "Se habían levantado",
+      "ENGLISH": "They had gotten up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos levantado",
-      "ENGLISH": "we had gotten up"
+      "SPANISH": "Nos habíamos levantado",
+      "ENGLISH": "We had gotten up"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais levantado",
-      "ENGLISH": "you (plural) had gotten up"
+      "SPANISH": "Os habíais levantado",
+      "ENGLISH": "You had gotten up"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me levanté",
+      "SPANISH": "Me levanté",
       "ENGLISH": "I got up"
     },
     "TU": {
-      "SPANISH": "te levantaste",
-      "ENGLISH": "you got up"
+      "SPANISH": "Te levantaste",
+      "ENGLISH": "You got up"
     },
     "EL": {
-      "SPANISH": "se levantó",
-      "ENGLISH": "s/he got up, you (formal) got up"
+      "SPANISH": "Se levantó",
+      "ENGLISH": "He got up"
     },
     "ELLOS": {
-      "SPANISH": "se levantaron",
-      "ENGLISH": "they got up, you (plural formal) got up"
+      "SPANISH": "Se levantaron",
+      "ENGLISH": "They got up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos levantamos",
-      "ENGLISH": "we got up"
+      "SPANISH": "Nos levantamos",
+      "ENGLISH": "We got up"
     },
     "VOSOTROS": {
-      "SPANISH": "os levantasteis",
-      "ENGLISH": "you (plural) got up"
+      "SPANISH": "Os levantasteis",
+      "ENGLISH": "You got up"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me levantaré",
+      "SPANISH": "Me levantaré",
       "ENGLISH": "I will get up"
     },
     "TU": {
-      "SPANISH": "te levantarás",
-      "ENGLISH": "you will get up"
+      "SPANISH": "Te levantarás",
+      "ENGLISH": "You will get up"
     },
     "EL": {
-      "SPANISH": "se levantará",
-      "ENGLISH": "s/he will get up, you (formal) will get up"
+      "SPANISH": "Se levantará",
+      "ENGLISH": "He will get up"
     },
     "ELLOS": {
-      "SPANISH": "se levantarán",
-      "ENGLISH": "they will get up, you (plural formal) will get up"
+      "SPANISH": "Se levantarán",
+      "ENGLISH": "They will get up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos levantaremos",
-      "ENGLISH": "we will get up"
+      "SPANISH": "Nos levantaremos",
+      "ENGLISH": "We will get up"
     },
     "VOSOTROS": {
-      "SPANISH": "os levantaréis",
-      "ENGLISH": "you (plural) will get up"
+      "SPANISH": "Os levantaréis",
+      "ENGLISH": "You will get up"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré levantado",
+      "SPANISH": "Me habré levantado",
       "ENGLISH": "I will have gotten up"
     },
     "TU": {
-      "SPANISH": "te habrás levantado",
-      "ENGLISH": "you will have gotten up"
+      "SPANISH": "Te habrás levantado",
+      "ENGLISH": "You will have gotten up"
     },
     "EL": {
-      "SPANISH": "se habrá levantado",
-      "ENGLISH": "s/he will have gotten up, you (formal) will have gotten up"
+      "SPANISH": "Se habrá levantado",
+      "ENGLISH": "He will have gotten up"
     },
     "ELLOS": {
-      "SPANISH": "se habrán levantado",
-      "ENGLISH": "they will have gotten up, you (plural formal) will have gotten up"
+      "SPANISH": "Se habrán levantado",
+      "ENGLISH": "They will have gotten up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos levantado",
-      "ENGLISH": "we will have gotten up"
+      "SPANISH": "Nos habremos levantado",
+      "ENGLISH": "We will have gotten up"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis levantado",
-      "ENGLISH": "you (plural) will have gotten up"
+      "SPANISH": "Os habréis levantado",
+      "ENGLISH": "You will have gotten up"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me levantaría",
+      "SPANISH": "Me levantaría",
       "ENGLISH": "I would get up"
     },
     "TU": {
-      "SPANISH": "te levantarías",
-      "ENGLISH": "you would get up"
+      "SPANISH": "Te levantarías",
+      "ENGLISH": "You would get up"
     },
     "EL": {
-      "SPANISH": "se levantaría",
-      "ENGLISH": "s/he would get up, you (formal) would get up"
+      "SPANISH": "Se levantaría",
+      "ENGLISH": "He would get up"
     },
     "ELLOS": {
-      "SPANISH": "se levantarían",
-      "ENGLISH": "they would get up, you (plural formal) would get up"
+      "SPANISH": "Se levantarían",
+      "ENGLISH": "They would get up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos levantaríamos",
-      "ENGLISH": "we would get up"
+      "SPANISH": "Nos levantaríamos",
+      "ENGLISH": "We would get up"
     },
     "VOSOTROS": {
-      "SPANISH": "os levantaríais",
-      "ENGLISH": "you (plural) would get up"
+      "SPANISH": "Os levantaríais",
+      "ENGLISH": "You would get up"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría levantado",
+      "SPANISH": "Me habría levantado",
       "ENGLISH": "I would have gotten up"
     },
     "TU": {
-      "SPANISH": "te habrías levantado",
-      "ENGLISH": "you would have gotten up"
+      "SPANISH": "Te habrías levantado",
+      "ENGLISH": "You would have gotten up"
     },
     "EL": {
-      "SPANISH": "se habría levantado",
-      "ENGLISH": "s/he would have gotten up, you (formal) would have gotten up"
+      "SPANISH": "Se habría levantado",
+      "ENGLISH": "He would have gotten up"
     },
     "ELLOS": {
-      "SPANISH": "se habrían levantado",
-      "ENGLISH": "they would have gotten up, you (plural formal) would have gotten up"
+      "SPANISH": "Se habrían levantado",
+      "ENGLISH": "They would have gotten up"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos levantado",
-      "ENGLISH": "we would have gotten up"
+      "SPANISH": "Nos habríamos levantado",
+      "ENGLISH": "We would have gotten up"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais levantado",
-      "ENGLISH": "you (plural) would have gotten up"
+      "SPANISH": "Os habríais levantado",
+      "ENGLISH": "You would have gotten up"
     }
   }
 }

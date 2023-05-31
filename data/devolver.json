@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "devuelvo ",
+      "SPANISH": "Devuelvo ",
       "ENGLISH": "I give back"
     },
     "TU": {
-      "SPANISH": "devuelves ",
-      "ENGLISH": "you give back"
+      "SPANISH": "Devuelves ",
+      "ENGLISH": "You give back"
     },
     "EL": {
-      "SPANISH": "devuelve ",
-      "ENGLISH": "s/he gives back, you (formal) gives back"
+      "SPANISH": "Devuelve ",
+      "ENGLISH": "He gives back"
     },
     "ELLOS": {
-      "SPANISH": "devuelven ",
-      "ENGLISH": "they give back, you (plural formal) give back"
+      "SPANISH": "Devuelven ",
+      "ENGLISH": "They give back"
     },
     "NOSOTROS": {
-      "SPANISH": "devolvemos",
-      "ENGLISH": "we give back"
+      "SPANISH": "Devolvemos",
+      "ENGLISH": "We give back"
     },
     "VOSOTROS": {
-      "SPANISH": "devolvéis",
-      "ENGLISH": "you (plural) give back"
+      "SPANISH": "Devolvéis",
+      "ENGLISH": "You give back"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he devuelto ",
+      "SPANISH": "He devuelto ",
       "ENGLISH": "I have given back"
     },
     "TU": {
-      "SPANISH": "has devuelto ",
-      "ENGLISH": "you have given back"
+      "SPANISH": "Has devuelto ",
+      "ENGLISH": "You have given back"
     },
     "EL": {
-      "SPANISH": "ha devuelto ",
-      "ENGLISH": "s/he has given back, you (formal) have given back"
+      "SPANISH": "Ha devuelto ",
+      "ENGLISH": "He has given back"
     },
     "ELLOS": {
-      "SPANISH": "han devuelto ",
-      "ENGLISH": "they have given back, you (plural formal) have given back"
+      "SPANISH": "Han devuelto ",
+      "ENGLISH": "They have given back"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos devuelto ",
-      "ENGLISH": "we have given back"
+      "SPANISH": "Hemos devuelto ",
+      "ENGLISH": "We have given back"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis devuelto ",
-      "ENGLISH": "you (plural) have given back"
+      "SPANISH": "Habéis devuelto ",
+      "ENGLISH": "You have given back"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "devolví",
+      "SPANISH": "Devolví",
       "ENGLISH": "I gave back"
     },
     "TU": {
-      "SPANISH": "devolviste",
-      "ENGLISH": "you gave back"
+      "SPANISH": "Devolviste",
+      "ENGLISH": "You gave back"
     },
     "EL": {
-      "SPANISH": "devolvió",
-      "ENGLISH": "s/he gave back, you (formal) gave back"
+      "SPANISH": "Devolvió",
+      "ENGLISH": "He gave back"
     },
     "ELLOS": {
-      "SPANISH": "devolvieron",
-      "ENGLISH": "they gave back, you (plural formal) gave back"
+      "SPANISH": "Devolvieron",
+      "ENGLISH": "They gave back"
     },
     "NOSOTROS": {
-      "SPANISH": "devolvimos",
-      "ENGLISH": "we gave back"
+      "SPANISH": "Devolvimos",
+      "ENGLISH": "We gave back"
     },
     "VOSOTROS": {
-      "SPANISH": "devolvisteis",
-      "ENGLISH": "you (plural) gave back"
+      "SPANISH": "Devolvisteis",
+      "ENGLISH": "You gave back"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había devuelto ",
+      "SPANISH": "Había devuelto ",
       "ENGLISH": "I had given back"
     },
     "TU": {
-      "SPANISH": "habías devuelto ",
-      "ENGLISH": "you had given back"
+      "SPANISH": "Habías devuelto ",
+      "ENGLISH": "You had given back"
     },
     "EL": {
-      "SPANISH": "había devuelto ",
-      "ENGLISH": "s/he had given back, you (formal) had given back"
+      "SPANISH": "Había devuelto ",
+      "ENGLISH": "He had given back"
     },
     "ELLOS": {
-      "SPANISH": "habían devuelto ",
-      "ENGLISH": "they had given back, you (plural formal) had given back"
+      "SPANISH": "Habían devuelto ",
+      "ENGLISH": "They had given back"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos devuelto ",
-      "ENGLISH": "we had given back"
+      "SPANISH": "Habíamos devuelto ",
+      "ENGLISH": "We had given back"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais devuelto ",
-      "ENGLISH": "you (plural) had given back"
+      "SPANISH": "Habíais devuelto ",
+      "ENGLISH": "You had given back"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "devolví",
+      "SPANISH": "Devolví",
       "ENGLISH": "I gave back"
     },
     "TU": {
-      "SPANISH": "devolviste",
-      "ENGLISH": "you gave back"
+      "SPANISH": "Devolviste",
+      "ENGLISH": "You gave back"
     },
     "EL": {
-      "SPANISH": "devolvió",
-      "ENGLISH": "s/he gave back, you (formal) gave back"
+      "SPANISH": "Devolvió",
+      "ENGLISH": "He gave back"
     },
     "ELLOS": {
-      "SPANISH": "devolvieron",
-      "ENGLISH": "they gave back, you (plural formal) gave back"
+      "SPANISH": "Devolvieron",
+      "ENGLISH": "They gave back"
     },
     "NOSOTROS": {
-      "SPANISH": "devolvimos",
-      "ENGLISH": "we gave back"
+      "SPANISH": "Devolvimos",
+      "ENGLISH": "We gave back"
     },
     "VOSOTROS": {
-      "SPANISH": "devolvisteis",
-      "ENGLISH": "you (plural) gave back"
+      "SPANISH": "Devolvisteis",
+      "ENGLISH": "You gave back"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "devolveré",
+      "SPANISH": "Devolveré",
       "ENGLISH": "I will give back"
     },
     "TU": {
-      "SPANISH": "devolverás",
-      "ENGLISH": "you will give back"
+      "SPANISH": "Devolverás",
+      "ENGLISH": "You will give back"
     },
     "EL": {
-      "SPANISH": "devolverá",
-      "ENGLISH": "s/he will give back, you (formal) will give back"
+      "SPANISH": "Devolverá",
+      "ENGLISH": "He will give back"
     },
     "ELLOS": {
-      "SPANISH": "devolverán",
-      "ENGLISH": "they will give back, you (plural formal) will give back"
+      "SPANISH": "Devolverán",
+      "ENGLISH": "They will give back"
     },
     "NOSOTROS": {
-      "SPANISH": "devolveremos",
-      "ENGLISH": "we will give back"
+      "SPANISH": "Devolveremos",
+      "ENGLISH": "We will give back"
     },
     "VOSOTROS": {
-      "SPANISH": "devolveréis",
-      "ENGLISH": "you (plural) will give back"
+      "SPANISH": "Devolveréis",
+      "ENGLISH": "You will give back"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré devuelto ",
+      "SPANISH": "Habré devuelto ",
       "ENGLISH": "I will have given back"
     },
     "TU": {
-      "SPANISH": "habrás devuelto ",
-      "ENGLISH": "you will have given back"
+      "SPANISH": "Habrás devuelto ",
+      "ENGLISH": "You will have given back"
     },
     "EL": {
-      "SPANISH": "habrá devuelto ",
-      "ENGLISH": "s/he will have given back, you (formal) will have given back"
+      "SPANISH": "Habrá devuelto ",
+      "ENGLISH": "He will have given back"
     },
     "ELLOS": {
-      "SPANISH": "habrán devuelto ",
-      "ENGLISH": "they will have given back, you (plural formal) will have given back"
+      "SPANISH": "Habrán devuelto ",
+      "ENGLISH": "They will have given back"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos devuelto ",
-      "ENGLISH": "we will have given back"
+      "SPANISH": "Habremos devuelto ",
+      "ENGLISH": "We will have given back"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis devuelto ",
-      "ENGLISH": "you (plural) will have given back"
+      "SPANISH": "Habréis devuelto ",
+      "ENGLISH": "You will have given back"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "devolvería",
+      "SPANISH": "Devolvería",
       "ENGLISH": "I would give back"
     },
     "TU": {
-      "SPANISH": "devolverías",
-      "ENGLISH": "you would give back"
+      "SPANISH": "Devolverías",
+      "ENGLISH": "You would give back"
     },
     "EL": {
-      "SPANISH": "devolvería",
-      "ENGLISH": "s/he would give back, you (formal) would give back"
+      "SPANISH": "Devolvería",
+      "ENGLISH": "He would give back"
     },
     "ELLOS": {
-      "SPANISH": "devolverían",
-      "ENGLISH": "they would give back, you (plural formal) would give back"
+      "SPANISH": "Devolverían",
+      "ENGLISH": "They would give back"
     },
     "NOSOTROS": {
-      "SPANISH": "devolveríamos",
-      "ENGLISH": "we would give back"
+      "SPANISH": "Devolveríamos",
+      "ENGLISH": "We would give back"
     },
     "VOSOTROS": {
-      "SPANISH": "devolveríais",
-      "ENGLISH": "you (plural) would give back"
+      "SPANISH": "Devolveríais",
+      "ENGLISH": "You would give back"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría devuelto ",
+      "SPANISH": "Habría devuelto ",
       "ENGLISH": "I would have given back"
     },
     "TU": {
-      "SPANISH": "habrías devuelto ",
-      "ENGLISH": "you would have given back"
+      "SPANISH": "Habrías devuelto ",
+      "ENGLISH": "You would have given back"
     },
     "EL": {
-      "SPANISH": "habría devuelto ",
-      "ENGLISH": "s/he would have given back, you (formal) would have given back"
+      "SPANISH": "Habría devuelto ",
+      "ENGLISH": "He would have given back"
     },
     "ELLOS": {
-      "SPANISH": "habrían devuelto ",
-      "ENGLISH": "they would have given back, you (plural formal) would have given back"
+      "SPANISH": "Habrían devuelto ",
+      "ENGLISH": "They would have given back"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos devuelto ",
-      "ENGLISH": "we would have given back"
+      "SPANISH": "Habríamos devuelto ",
+      "ENGLISH": "We would have given back"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais devuelto ",
-      "ENGLISH": "you (plural) would have given back"
+      "SPANISH": "Habríais devuelto ",
+      "ENGLISH": "You would have given back"
     }
   }
 }

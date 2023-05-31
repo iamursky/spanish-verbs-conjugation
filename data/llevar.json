@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "llevo",
+      "SPANISH": "Llevo",
       "ENGLISH": "I carry"
     },
     "TU": {
-      "SPANISH": "llevas",
-      "ENGLISH": "you carry"
+      "SPANISH": "Llevas",
+      "ENGLISH": "You carry"
     },
     "EL": {
-      "SPANISH": "lleva",
-      "ENGLISH": "s/he carries, you (formal) carries"
+      "SPANISH": "Lleva",
+      "ENGLISH": "He carries"
     },
     "ELLOS": {
-      "SPANISH": "llevan",
-      "ENGLISH": "they carry, you (plural formal) carry"
+      "SPANISH": "Llevan",
+      "ENGLISH": "They carry"
     },
     "NOSOTROS": {
-      "SPANISH": "llevamos",
-      "ENGLISH": "we carry"
+      "SPANISH": "Llevamos",
+      "ENGLISH": "We carry"
     },
     "VOSOTROS": {
-      "SPANISH": "lleváis",
-      "ENGLISH": "you (plural) carry"
+      "SPANISH": "Lleváis",
+      "ENGLISH": "You carry"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he llevado",
+      "SPANISH": "He llevado",
       "ENGLISH": "I have carried"
     },
     "TU": {
-      "SPANISH": "has llevado",
-      "ENGLISH": "you have carried"
+      "SPANISH": "Has llevado",
+      "ENGLISH": "You have carried"
     },
     "EL": {
-      "SPANISH": "ha llevado",
-      "ENGLISH": "s/he has carried, you (formal) have carried"
+      "SPANISH": "Ha llevado",
+      "ENGLISH": "He has carried"
     },
     "ELLOS": {
-      "SPANISH": "han llevado",
-      "ENGLISH": "they have carried, you (plural formal) have carried"
+      "SPANISH": "Han llevado",
+      "ENGLISH": "They have carried"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos llevado",
-      "ENGLISH": "we have carried"
+      "SPANISH": "Hemos llevado",
+      "ENGLISH": "We have carried"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis llevado",
-      "ENGLISH": "you (plural) have carried"
+      "SPANISH": "Habéis llevado",
+      "ENGLISH": "You have carried"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "llevé",
+      "SPANISH": "Llevé",
       "ENGLISH": "I carried"
     },
     "TU": {
-      "SPANISH": "llevaste",
-      "ENGLISH": "you carried"
+      "SPANISH": "Llevaste",
+      "ENGLISH": "You carried"
     },
     "EL": {
-      "SPANISH": "llevó",
-      "ENGLISH": "s/he carried, you (formal) carried"
+      "SPANISH": "Llevó",
+      "ENGLISH": "He carried"
     },
     "ELLOS": {
-      "SPANISH": "llevaron",
-      "ENGLISH": "they carried, you (plural formal) carried"
+      "SPANISH": "Llevaron",
+      "ENGLISH": "They carried"
     },
     "NOSOTROS": {
-      "SPANISH": "llevamos",
-      "ENGLISH": "we carried"
+      "SPANISH": "Llevamos",
+      "ENGLISH": "We carried"
     },
     "VOSOTROS": {
-      "SPANISH": "llevasteis",
-      "ENGLISH": "you (plural) carried"
+      "SPANISH": "Llevasteis",
+      "ENGLISH": "You carried"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había llevado",
+      "SPANISH": "Había llevado",
       "ENGLISH": "I had carried"
     },
     "TU": {
-      "SPANISH": "habías llevado",
-      "ENGLISH": "you had carried"
+      "SPANISH": "Habías llevado",
+      "ENGLISH": "You had carried"
     },
     "EL": {
-      "SPANISH": "había llevado",
-      "ENGLISH": "s/he had carried, you (formal) had carried"
+      "SPANISH": "Había llevado",
+      "ENGLISH": "He had carried"
     },
     "ELLOS": {
-      "SPANISH": "habían llevado",
-      "ENGLISH": "they had carried, you (plural formal) had carried"
+      "SPANISH": "Habían llevado",
+      "ENGLISH": "They had carried"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos llevado",
-      "ENGLISH": "we had carried"
+      "SPANISH": "Habíamos llevado",
+      "ENGLISH": "We had carried"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais llevado",
-      "ENGLISH": "you (plural) had carried"
+      "SPANISH": "Habíais llevado",
+      "ENGLISH": "You had carried"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "llevé",
+      "SPANISH": "Llevé",
       "ENGLISH": "I carried"
     },
     "TU": {
-      "SPANISH": "llevaste",
-      "ENGLISH": "you carried"
+      "SPANISH": "Llevaste",
+      "ENGLISH": "You carried"
     },
     "EL": {
-      "SPANISH": "llevó",
-      "ENGLISH": "s/he carried, you (formal) carried"
+      "SPANISH": "Llevó",
+      "ENGLISH": "He carried"
     },
     "ELLOS": {
-      "SPANISH": "llevaron",
-      "ENGLISH": "they carried, you (plural formal) carried"
+      "SPANISH": "Llevaron",
+      "ENGLISH": "They carried"
     },
     "NOSOTROS": {
-      "SPANISH": "llevamos",
-      "ENGLISH": "we carried"
+      "SPANISH": "Llevamos",
+      "ENGLISH": "We carried"
     },
     "VOSOTROS": {
-      "SPANISH": "llevasteis",
-      "ENGLISH": "you (plural) carried"
+      "SPANISH": "Llevasteis",
+      "ENGLISH": "You carried"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "llevaré",
+      "SPANISH": "Llevaré",
       "ENGLISH": "I will carry"
     },
     "TU": {
-      "SPANISH": "llevarás",
-      "ENGLISH": "you will carry"
+      "SPANISH": "Llevarás",
+      "ENGLISH": "You will carry"
     },
     "EL": {
-      "SPANISH": "llevará",
-      "ENGLISH": "s/he will carry, you (formal) will carry"
+      "SPANISH": "Llevará",
+      "ENGLISH": "He will carry"
     },
     "ELLOS": {
-      "SPANISH": "llevarán",
-      "ENGLISH": "they will carry, you (plural formal) will carry"
+      "SPANISH": "Llevarán",
+      "ENGLISH": "They will carry"
     },
     "NOSOTROS": {
-      "SPANISH": "llevaremos",
-      "ENGLISH": "we will carry"
+      "SPANISH": "Llevaremos",
+      "ENGLISH": "We will carry"
     },
     "VOSOTROS": {
-      "SPANISH": "llevaréis",
-      "ENGLISH": "you (plural) will carry"
+      "SPANISH": "Llevaréis",
+      "ENGLISH": "You will carry"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré llevado",
+      "SPANISH": "Habré llevado",
       "ENGLISH": "I will have carried"
     },
     "TU": {
-      "SPANISH": "habrás llevado",
-      "ENGLISH": "you will have carried"
+      "SPANISH": "Habrás llevado",
+      "ENGLISH": "You will have carried"
     },
     "EL": {
-      "SPANISH": "habrá llevado",
-      "ENGLISH": "s/he will have carried, you (formal) will have carried"
+      "SPANISH": "Habrá llevado",
+      "ENGLISH": "He will have carried"
     },
     "ELLOS": {
-      "SPANISH": "habrán llevado",
-      "ENGLISH": "they will have carried, you (plural formal) will have carried"
+      "SPANISH": "Habrán llevado",
+      "ENGLISH": "They will have carried"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos llevado",
-      "ENGLISH": "we will have carried"
+      "SPANISH": "Habremos llevado",
+      "ENGLISH": "We will have carried"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis llevado",
-      "ENGLISH": "you (plural) will have carried"
+      "SPANISH": "Habréis llevado",
+      "ENGLISH": "You will have carried"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "llevaría",
+      "SPANISH": "Llevaría",
       "ENGLISH": "I would carry"
     },
     "TU": {
-      "SPANISH": "llevarías",
-      "ENGLISH": "you would carry"
+      "SPANISH": "Llevarías",
+      "ENGLISH": "You would carry"
     },
     "EL": {
-      "SPANISH": "llevaría",
-      "ENGLISH": "s/he would carry, you (formal) would carry"
+      "SPANISH": "Llevaría",
+      "ENGLISH": "He would carry"
     },
     "ELLOS": {
-      "SPANISH": "llevarían",
-      "ENGLISH": "they would carry, you (plural formal) would carry"
+      "SPANISH": "Llevarían",
+      "ENGLISH": "They would carry"
     },
     "NOSOTROS": {
-      "SPANISH": "llevaríamos",
-      "ENGLISH": "we would carry"
+      "SPANISH": "Llevaríamos",
+      "ENGLISH": "We would carry"
     },
     "VOSOTROS": {
-      "SPANISH": "llevaríais",
-      "ENGLISH": "you (plural) would carry"
+      "SPANISH": "Llevaríais",
+      "ENGLISH": "You would carry"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría llevado",
+      "SPANISH": "Habría llevado",
       "ENGLISH": "I would have carried"
     },
     "TU": {
-      "SPANISH": "habrías llevado",
-      "ENGLISH": "you would have carried"
+      "SPANISH": "Habrías llevado",
+      "ENGLISH": "You would have carried"
     },
     "EL": {
-      "SPANISH": "habría llevado",
-      "ENGLISH": "s/he would have carried, you (formal) would have carried"
+      "SPANISH": "Habría llevado",
+      "ENGLISH": "He would have carried"
     },
     "ELLOS": {
-      "SPANISH": "habrían llevado",
-      "ENGLISH": "they would have carried, you (plural formal) would have carried"
+      "SPANISH": "Habrían llevado",
+      "ENGLISH": "They would have carried"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos llevado",
-      "ENGLISH": "we would have carried"
+      "SPANISH": "Habríamos llevado",
+      "ENGLISH": "We would have carried"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais llevado",
-      "ENGLISH": "you (plural) would have carried"
+      "SPANISH": "Habríais llevado",
+      "ENGLISH": "You would have carried"
     }
   }
 }

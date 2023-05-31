@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "imprimo",
+      "SPANISH": "Imprimo",
       "ENGLISH": "I print"
     },
     "TU": {
-      "SPANISH": "imprimes",
-      "ENGLISH": "you print"
+      "SPANISH": "Imprimes",
+      "ENGLISH": "You print"
     },
     "EL": {
-      "SPANISH": "imprime",
-      "ENGLISH": "s/he prints, you (formal) prints"
+      "SPANISH": "Imprime",
+      "ENGLISH": "He prints"
     },
     "ELLOS": {
-      "SPANISH": "imprimen",
-      "ENGLISH": "they print, you (plural formal) print"
+      "SPANISH": "Imprimen",
+      "ENGLISH": "They print"
     },
     "NOSOTROS": {
-      "SPANISH": "imprimimos",
-      "ENGLISH": "we print"
+      "SPANISH": "Imprimimos",
+      "ENGLISH": "We print"
     },
     "VOSOTROS": {
-      "SPANISH": "imprimís",
-      "ENGLISH": "you (plural) print"
+      "SPANISH": "Imprimís",
+      "ENGLISH": "You print"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he imprimido",
+      "SPANISH": "He imprimido",
       "ENGLISH": "I have printed"
     },
     "TU": {
-      "SPANISH": "has imprimido",
-      "ENGLISH": "you have printed"
+      "SPANISH": "Has imprimido",
+      "ENGLISH": "You have printed"
     },
     "EL": {
-      "SPANISH": "ha imprimido",
-      "ENGLISH": "s/he has printed, you (formal) have printed"
+      "SPANISH": "Ha imprimido",
+      "ENGLISH": "He has printed"
     },
     "ELLOS": {
-      "SPANISH": "han imprimido",
-      "ENGLISH": "they have printed, you (plural formal) have printed"
+      "SPANISH": "Han imprimido",
+      "ENGLISH": "They have printed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos imprimido",
-      "ENGLISH": "we have printed"
+      "SPANISH": "Hemos imprimido",
+      "ENGLISH": "We have printed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis imprimido",
-      "ENGLISH": "you (plural) have printed"
+      "SPANISH": "Habéis imprimido",
+      "ENGLISH": "You have printed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "imprimí",
+      "SPANISH": "Imprimí",
       "ENGLISH": "I printed"
     },
     "TU": {
-      "SPANISH": "imprimiste",
-      "ENGLISH": "you printed"
+      "SPANISH": "Imprimiste",
+      "ENGLISH": "You printed"
     },
     "EL": {
-      "SPANISH": "imprimió",
-      "ENGLISH": "s/he printed, you (formal) printed"
+      "SPANISH": "Imprimió",
+      "ENGLISH": "He printed"
     },
     "ELLOS": {
-      "SPANISH": "imprimieron",
-      "ENGLISH": "they printed, you (plural formal) printed"
+      "SPANISH": "Imprimieron",
+      "ENGLISH": "They printed"
     },
     "NOSOTROS": {
-      "SPANISH": "imprimimos",
-      "ENGLISH": "we printed"
+      "SPANISH": "Imprimimos",
+      "ENGLISH": "We printed"
     },
     "VOSOTROS": {
-      "SPANISH": "imprimisteis",
-      "ENGLISH": "you (plural) printed"
+      "SPANISH": "Imprimisteis",
+      "ENGLISH": "You printed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había imprimido",
+      "SPANISH": "Había imprimido",
       "ENGLISH": "I had printed"
     },
     "TU": {
-      "SPANISH": "habías imprimido",
-      "ENGLISH": "you had printed"
+      "SPANISH": "Habías imprimido",
+      "ENGLISH": "You had printed"
     },
     "EL": {
-      "SPANISH": "había imprimido",
-      "ENGLISH": "s/he had printed, you (formal) had printed"
+      "SPANISH": "Había imprimido",
+      "ENGLISH": "He had printed"
     },
     "ELLOS": {
-      "SPANISH": "habían imprimido",
-      "ENGLISH": "they had printed, you (plural formal) had printed"
+      "SPANISH": "Habían imprimido",
+      "ENGLISH": "They had printed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos imprimido",
-      "ENGLISH": "we had printed"
+      "SPANISH": "Habíamos imprimido",
+      "ENGLISH": "We had printed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais imprimido",
-      "ENGLISH": "you (plural) had printed"
+      "SPANISH": "Habíais imprimido",
+      "ENGLISH": "You had printed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "imprimí",
+      "SPANISH": "Imprimí",
       "ENGLISH": "I printed"
     },
     "TU": {
-      "SPANISH": "imprimiste",
-      "ENGLISH": "you printed"
+      "SPANISH": "Imprimiste",
+      "ENGLISH": "You printed"
     },
     "EL": {
-      "SPANISH": "imprimió",
-      "ENGLISH": "s/he printed, you (formal) printed"
+      "SPANISH": "Imprimió",
+      "ENGLISH": "He printed"
     },
     "ELLOS": {
-      "SPANISH": "imprimieron",
-      "ENGLISH": "they printed, you (plural formal) printed"
+      "SPANISH": "Imprimieron",
+      "ENGLISH": "They printed"
     },
     "NOSOTROS": {
-      "SPANISH": "imprimimos",
-      "ENGLISH": "we printed"
+      "SPANISH": "Imprimimos",
+      "ENGLISH": "We printed"
     },
     "VOSOTROS": {
-      "SPANISH": "imprimisteis",
-      "ENGLISH": "you (plural) printed"
+      "SPANISH": "Imprimisteis",
+      "ENGLISH": "You printed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "imprimiré",
+      "SPANISH": "Imprimiré",
       "ENGLISH": "I will print"
     },
     "TU": {
-      "SPANISH": "imprimirás",
-      "ENGLISH": "you will print"
+      "SPANISH": "Imprimirás",
+      "ENGLISH": "You will print"
     },
     "EL": {
-      "SPANISH": "imprimirá",
-      "ENGLISH": "s/he will print, you (formal) will print"
+      "SPANISH": "Imprimirá",
+      "ENGLISH": "He will print"
     },
     "ELLOS": {
-      "SPANISH": "imprimirán",
-      "ENGLISH": "they will print, you (plural formal) will print"
+      "SPANISH": "Imprimirán",
+      "ENGLISH": "They will print"
     },
     "NOSOTROS": {
-      "SPANISH": "imprimiremos",
-      "ENGLISH": "we will print"
+      "SPANISH": "Imprimiremos",
+      "ENGLISH": "We will print"
     },
     "VOSOTROS": {
-      "SPANISH": "imprimiréis",
-      "ENGLISH": "you (plural) will print"
+      "SPANISH": "Imprimiréis",
+      "ENGLISH": "You will print"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré imprimido",
+      "SPANISH": "Habré imprimido",
       "ENGLISH": "I will have printed"
     },
     "TU": {
-      "SPANISH": "habrás imprimido",
-      "ENGLISH": "you will have printed"
+      "SPANISH": "Habrás imprimido",
+      "ENGLISH": "You will have printed"
     },
     "EL": {
-      "SPANISH": "habrá imprimido",
-      "ENGLISH": "s/he will have printed, you (formal) will have printed"
+      "SPANISH": "Habrá imprimido",
+      "ENGLISH": "He will have printed"
     },
     "ELLOS": {
-      "SPANISH": "habrán imprimido",
-      "ENGLISH": "they will have printed, you (plural formal) will have printed"
+      "SPANISH": "Habrán imprimido",
+      "ENGLISH": "They will have printed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos imprimido",
-      "ENGLISH": "we will have printed"
+      "SPANISH": "Habremos imprimido",
+      "ENGLISH": "We will have printed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis imprimido",
-      "ENGLISH": "you (plural) will have printed"
+      "SPANISH": "Habréis imprimido",
+      "ENGLISH": "You will have printed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "imprimiría",
+      "SPANISH": "Imprimiría",
       "ENGLISH": "I would print"
     },
     "TU": {
-      "SPANISH": "imprimirías",
-      "ENGLISH": "you would print"
+      "SPANISH": "Imprimirías",
+      "ENGLISH": "You would print"
     },
     "EL": {
-      "SPANISH": "imprimiría",
-      "ENGLISH": "s/he would print, you (formal) would print"
+      "SPANISH": "Imprimiría",
+      "ENGLISH": "He would print"
     },
     "ELLOS": {
-      "SPANISH": "imprimirían",
-      "ENGLISH": "they would print, you (plural formal) would print"
+      "SPANISH": "Imprimirían",
+      "ENGLISH": "They would print"
     },
     "NOSOTROS": {
-      "SPANISH": "imprimiríamos",
-      "ENGLISH": "we would print"
+      "SPANISH": "Imprimiríamos",
+      "ENGLISH": "We would print"
     },
     "VOSOTROS": {
-      "SPANISH": "imprimiríais",
-      "ENGLISH": "you (plural) would print"
+      "SPANISH": "Imprimiríais",
+      "ENGLISH": "You would print"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría imprimido",
+      "SPANISH": "Habría imprimido",
       "ENGLISH": "I would have printed"
     },
     "TU": {
-      "SPANISH": "habrías imprimido",
-      "ENGLISH": "you would have printed"
+      "SPANISH": "Habrías imprimido",
+      "ENGLISH": "You would have printed"
     },
     "EL": {
-      "SPANISH": "habría imprimido",
-      "ENGLISH": "s/he would have printed, you (formal) would have printed"
+      "SPANISH": "Habría imprimido",
+      "ENGLISH": "He would have printed"
     },
     "ELLOS": {
-      "SPANISH": "habrían imprimido",
-      "ENGLISH": "they would have printed, you (plural formal) would have printed"
+      "SPANISH": "Habrían imprimido",
+      "ENGLISH": "They would have printed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos imprimido",
-      "ENGLISH": "we would have printed"
+      "SPANISH": "Habríamos imprimido",
+      "ENGLISH": "We would have printed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais imprimido",
-      "ENGLISH": "you (plural) would have printed"
+      "SPANISH": "Habríais imprimido",
+      "ENGLISH": "You would have printed"
     }
   }
 }

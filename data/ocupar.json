@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "ocupo",
+      "SPANISH": "Ocupo",
       "ENGLISH": "I occupy"
     },
     "TU": {
-      "SPANISH": "ocupas",
-      "ENGLISH": "you occupy"
+      "SPANISH": "Ocupas",
+      "ENGLISH": "You occupy"
     },
     "EL": {
-      "SPANISH": "ocupa",
-      "ENGLISH": "s/he occupies, you (formal) occupies"
+      "SPANISH": "Ocupa",
+      "ENGLISH": "He occupies"
     },
     "ELLOS": {
-      "SPANISH": "ocupan",
-      "ENGLISH": "they occupy, you (plural formal) occupy"
+      "SPANISH": "Ocupan",
+      "ENGLISH": "They occupy"
     },
     "NOSOTROS": {
-      "SPANISH": "ocupamos",
-      "ENGLISH": "we occupy"
+      "SPANISH": "Ocupamos",
+      "ENGLISH": "We occupy"
     },
     "VOSOTROS": {
-      "SPANISH": "ocupáis",
-      "ENGLISH": "you (plural) occupy"
+      "SPANISH": "Ocupáis",
+      "ENGLISH": "You occupy"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he ocupado",
+      "SPANISH": "He ocupado",
       "ENGLISH": "I have occupied"
     },
     "TU": {
-      "SPANISH": "has ocupado",
-      "ENGLISH": "you have occupied"
+      "SPANISH": "Has ocupado",
+      "ENGLISH": "You have occupied"
     },
     "EL": {
-      "SPANISH": "ha ocupado",
-      "ENGLISH": "s/he has occupied, you (formal) have occupied"
+      "SPANISH": "Ha ocupado",
+      "ENGLISH": "He has occupied"
     },
     "ELLOS": {
-      "SPANISH": "han ocupado",
-      "ENGLISH": "they have occupied, you (plural formal) have occupied"
+      "SPANISH": "Han ocupado",
+      "ENGLISH": "They have occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos ocupado",
-      "ENGLISH": "we have occupied"
+      "SPANISH": "Hemos ocupado",
+      "ENGLISH": "We have occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis ocupado",
-      "ENGLISH": "you (plural) have occupied"
+      "SPANISH": "Habéis ocupado",
+      "ENGLISH": "You have occupied"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "ocupé",
+      "SPANISH": "Ocupé",
       "ENGLISH": "I occupied"
     },
     "TU": {
-      "SPANISH": "ocupaste",
-      "ENGLISH": "you occupied"
+      "SPANISH": "Ocupaste",
+      "ENGLISH": "You occupied"
     },
     "EL": {
-      "SPANISH": "ocupó",
-      "ENGLISH": "s/he occupied, you (formal) occupied"
+      "SPANISH": "Ocupó",
+      "ENGLISH": "He occupied"
     },
     "ELLOS": {
-      "SPANISH": "ocuparon",
-      "ENGLISH": "they occupied, you (plural formal) occupied"
+      "SPANISH": "Ocuparon",
+      "ENGLISH": "They occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "ocupamos",
-      "ENGLISH": "we occupied"
+      "SPANISH": "Ocupamos",
+      "ENGLISH": "We occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "ocupasteis",
-      "ENGLISH": "you (plural) occupied"
+      "SPANISH": "Ocupasteis",
+      "ENGLISH": "You occupied"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había ocupado",
+      "SPANISH": "Había ocupado",
       "ENGLISH": "I had occupied"
     },
     "TU": {
-      "SPANISH": "habías ocupado",
-      "ENGLISH": "you had occupied"
+      "SPANISH": "Habías ocupado",
+      "ENGLISH": "You had occupied"
     },
     "EL": {
-      "SPANISH": "había ocupado",
-      "ENGLISH": "s/he had occupied, you (formal) had occupied"
+      "SPANISH": "Había ocupado",
+      "ENGLISH": "He had occupied"
     },
     "ELLOS": {
-      "SPANISH": "habían ocupado",
-      "ENGLISH": "they had occupied, you (plural formal) had occupied"
+      "SPANISH": "Habían ocupado",
+      "ENGLISH": "They had occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos ocupado",
-      "ENGLISH": "we had occupied"
+      "SPANISH": "Habíamos ocupado",
+      "ENGLISH": "We had occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais ocupado",
-      "ENGLISH": "you (plural) had occupied"
+      "SPANISH": "Habíais ocupado",
+      "ENGLISH": "You had occupied"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "ocupé",
+      "SPANISH": "Ocupé",
       "ENGLISH": "I occupied"
     },
     "TU": {
-      "SPANISH": "ocupaste",
-      "ENGLISH": "you occupied"
+      "SPANISH": "Ocupaste",
+      "ENGLISH": "You occupied"
     },
     "EL": {
-      "SPANISH": "ocupó",
-      "ENGLISH": "s/he occupied, you (formal) occupied"
+      "SPANISH": "Ocupó",
+      "ENGLISH": "He occupied"
     },
     "ELLOS": {
-      "SPANISH": "ocuparon",
-      "ENGLISH": "they occupied, you (plural formal) occupied"
+      "SPANISH": "Ocuparon",
+      "ENGLISH": "They occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "ocupamos",
-      "ENGLISH": "we occupied"
+      "SPANISH": "Ocupamos",
+      "ENGLISH": "We occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "ocupasteis",
-      "ENGLISH": "you (plural) occupied"
+      "SPANISH": "Ocupasteis",
+      "ENGLISH": "You occupied"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "ocuparé",
+      "SPANISH": "Ocuparé",
       "ENGLISH": "I will occupy"
     },
     "TU": {
-      "SPANISH": "ocuparás",
-      "ENGLISH": "you will occupy"
+      "SPANISH": "Ocuparás",
+      "ENGLISH": "You will occupy"
     },
     "EL": {
-      "SPANISH": "ocupará",
-      "ENGLISH": "s/he will occupy, you (formal) will occupy"
+      "SPANISH": "Ocupará",
+      "ENGLISH": "He will occupy"
     },
     "ELLOS": {
-      "SPANISH": "ocuparán",
-      "ENGLISH": "they will occupy, you (plural formal) will occupy"
+      "SPANISH": "Ocuparán",
+      "ENGLISH": "They will occupy"
     },
     "NOSOTROS": {
-      "SPANISH": "ocuparemos",
-      "ENGLISH": "we will occupy"
+      "SPANISH": "Ocuparemos",
+      "ENGLISH": "We will occupy"
     },
     "VOSOTROS": {
-      "SPANISH": "ocuparéis",
-      "ENGLISH": "you (plural) will occupy"
+      "SPANISH": "Ocuparéis",
+      "ENGLISH": "You will occupy"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré ocupado",
+      "SPANISH": "Habré ocupado",
       "ENGLISH": "I will have occupied"
     },
     "TU": {
-      "SPANISH": "habrás ocupado",
-      "ENGLISH": "you will have occupied"
+      "SPANISH": "Habrás ocupado",
+      "ENGLISH": "You will have occupied"
     },
     "EL": {
-      "SPANISH": "habrá ocupado",
-      "ENGLISH": "s/he will have occupied, you (formal) will have occupied"
+      "SPANISH": "Habrá ocupado",
+      "ENGLISH": "He will have occupied"
     },
     "ELLOS": {
-      "SPANISH": "habrán ocupado",
-      "ENGLISH": "they will have occupied, you (plural formal) will have occupied"
+      "SPANISH": "Habrán ocupado",
+      "ENGLISH": "They will have occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos ocupado",
-      "ENGLISH": "we will have occupied"
+      "SPANISH": "Habremos ocupado",
+      "ENGLISH": "We will have occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis ocupado",
-      "ENGLISH": "you (plural) will have occupied"
+      "SPANISH": "Habréis ocupado",
+      "ENGLISH": "You will have occupied"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "ocuparía",
+      "SPANISH": "Ocuparía",
       "ENGLISH": "I would occupy"
     },
     "TU": {
-      "SPANISH": "ocuparías",
-      "ENGLISH": "you would occupy"
+      "SPANISH": "Ocuparías",
+      "ENGLISH": "You would occupy"
     },
     "EL": {
-      "SPANISH": "ocuparía",
-      "ENGLISH": "s/he would occupy, you (formal) would occupy"
+      "SPANISH": "Ocuparía",
+      "ENGLISH": "He would occupy"
     },
     "ELLOS": {
-      "SPANISH": "ocuparían",
-      "ENGLISH": "they would occupy, you (plural formal) would occupy"
+      "SPANISH": "Ocuparían",
+      "ENGLISH": "They would occupy"
     },
     "NOSOTROS": {
-      "SPANISH": "ocuparíamos",
-      "ENGLISH": "we would occupy"
+      "SPANISH": "Ocuparíamos",
+      "ENGLISH": "We would occupy"
     },
     "VOSOTROS": {
-      "SPANISH": "ocuparíais",
-      "ENGLISH": "you (plural) would occupy"
+      "SPANISH": "Ocuparíais",
+      "ENGLISH": "You would occupy"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría ocupado",
+      "SPANISH": "Habría ocupado",
       "ENGLISH": "I would have occupied"
     },
     "TU": {
-      "SPANISH": "habrías ocupado",
-      "ENGLISH": "you would have occupied"
+      "SPANISH": "Habrías ocupado",
+      "ENGLISH": "You would have occupied"
     },
     "EL": {
-      "SPANISH": "habría ocupado",
-      "ENGLISH": "s/he would have occupied, you (formal) would have occupied"
+      "SPANISH": "Habría ocupado",
+      "ENGLISH": "He would have occupied"
     },
     "ELLOS": {
-      "SPANISH": "habrían ocupado",
-      "ENGLISH": "they would have occupied, you (plural formal) would have occupied"
+      "SPANISH": "Habrían ocupado",
+      "ENGLISH": "They would have occupied"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos ocupado",
-      "ENGLISH": "we would have occupied"
+      "SPANISH": "Habríamos ocupado",
+      "ENGLISH": "We would have occupied"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais ocupado",
-      "ENGLISH": "you (plural) would have occupied"
+      "SPANISH": "Habríais ocupado",
+      "ENGLISH": "You would have occupied"
     }
   }
 }

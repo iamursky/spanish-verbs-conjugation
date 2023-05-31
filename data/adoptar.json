@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "adopto",
+      "SPANISH": "Adopto",
       "ENGLISH": "I adopt"
     },
     "TU": {
-      "SPANISH": "adoptas",
-      "ENGLISH": "you adopt"
+      "SPANISH": "Adoptas",
+      "ENGLISH": "You adopt"
     },
     "EL": {
-      "SPANISH": "adopta",
-      "ENGLISH": "s/he adopts, you (formal) adopts"
+      "SPANISH": "Adopta",
+      "ENGLISH": "He adopts"
     },
     "ELLOS": {
-      "SPANISH": "adoptan",
-      "ENGLISH": "they adopt, you (plural formal) adopt"
+      "SPANISH": "Adoptan",
+      "ENGLISH": "They adopt"
     },
     "NOSOTROS": {
-      "SPANISH": "adoptamos",
-      "ENGLISH": "we adopt"
+      "SPANISH": "Adoptamos",
+      "ENGLISH": "We adopt"
     },
     "VOSOTROS": {
-      "SPANISH": "adoptáis",
-      "ENGLISH": "you (plural) adopt"
+      "SPANISH": "Adoptáis",
+      "ENGLISH": "You adopt"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he adoptado",
+      "SPANISH": "He adoptado",
       "ENGLISH": "I have adopted"
     },
     "TU": {
-      "SPANISH": "has adoptado",
-      "ENGLISH": "you have adopted"
+      "SPANISH": "Has adoptado",
+      "ENGLISH": "You have adopted"
     },
     "EL": {
-      "SPANISH": "ha adoptado",
-      "ENGLISH": "s/he has adopted, you (formal) have adopted"
+      "SPANISH": "Ha adoptado",
+      "ENGLISH": "He has adopted"
     },
     "ELLOS": {
-      "SPANISH": "han adoptado",
-      "ENGLISH": "they have adopted, you (plural formal) have adopted"
+      "SPANISH": "Han adoptado",
+      "ENGLISH": "They have adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos adoptado",
-      "ENGLISH": "we have adopted"
+      "SPANISH": "Hemos adoptado",
+      "ENGLISH": "We have adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis adoptado",
-      "ENGLISH": "you (plural) have adopted"
+      "SPANISH": "Habéis adoptado",
+      "ENGLISH": "You have adopted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "adopté",
+      "SPANISH": "Adopté",
       "ENGLISH": "I adopted"
     },
     "TU": {
-      "SPANISH": "adoptaste",
-      "ENGLISH": "you adopted"
+      "SPANISH": "Adoptaste",
+      "ENGLISH": "You adopted"
     },
     "EL": {
-      "SPANISH": "adoptó",
-      "ENGLISH": "s/he adopted, you (formal) adopted"
+      "SPANISH": "Adoptó",
+      "ENGLISH": "He adopted"
     },
     "ELLOS": {
-      "SPANISH": "adoptaron",
-      "ENGLISH": "they adopted, you (plural formal) adopted"
+      "SPANISH": "Adoptaron",
+      "ENGLISH": "They adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "adoptamos",
-      "ENGLISH": "we adopted"
+      "SPANISH": "Adoptamos",
+      "ENGLISH": "We adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "adoptasteis",
-      "ENGLISH": "you (plural) adopted"
+      "SPANISH": "Adoptasteis",
+      "ENGLISH": "You adopted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había adoptado",
+      "SPANISH": "Había adoptado",
       "ENGLISH": "I had adopted"
     },
     "TU": {
-      "SPANISH": "habías adoptado",
-      "ENGLISH": "you had adopted"
+      "SPANISH": "Habías adoptado",
+      "ENGLISH": "You had adopted"
     },
     "EL": {
-      "SPANISH": "había adoptado",
-      "ENGLISH": "s/he had adopted, you (formal) had adopted"
+      "SPANISH": "Había adoptado",
+      "ENGLISH": "He had adopted"
     },
     "ELLOS": {
-      "SPANISH": "habían adoptado",
-      "ENGLISH": "they had adopted, you (plural formal) had adopted"
+      "SPANISH": "Habían adoptado",
+      "ENGLISH": "They had adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos adoptado",
-      "ENGLISH": "we had adopted"
+      "SPANISH": "Habíamos adoptado",
+      "ENGLISH": "We had adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais adoptado",
-      "ENGLISH": "you (plural) had adopted"
+      "SPANISH": "Habíais adoptado",
+      "ENGLISH": "You had adopted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "adopté",
+      "SPANISH": "Adopté",
       "ENGLISH": "I adopted"
     },
     "TU": {
-      "SPANISH": "adoptaste",
-      "ENGLISH": "you adopted"
+      "SPANISH": "Adoptaste",
+      "ENGLISH": "You adopted"
     },
     "EL": {
-      "SPANISH": "adoptó",
-      "ENGLISH": "s/he adopted, you (formal) adopted"
+      "SPANISH": "Adoptó",
+      "ENGLISH": "He adopted"
     },
     "ELLOS": {
-      "SPANISH": "adoptaron",
-      "ENGLISH": "they adopted, you (plural formal) adopted"
+      "SPANISH": "Adoptaron",
+      "ENGLISH": "They adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "adoptamos",
-      "ENGLISH": "we adopted"
+      "SPANISH": "Adoptamos",
+      "ENGLISH": "We adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "adoptasteis",
-      "ENGLISH": "you (plural) adopted"
+      "SPANISH": "Adoptasteis",
+      "ENGLISH": "You adopted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "adoptaré",
+      "SPANISH": "Adoptaré",
       "ENGLISH": "I will adopt"
     },
     "TU": {
-      "SPANISH": "adoptarás",
-      "ENGLISH": "you will adopt"
+      "SPANISH": "Adoptarás",
+      "ENGLISH": "You will adopt"
     },
     "EL": {
-      "SPANISH": "adoptará",
-      "ENGLISH": "s/he will adopt, you (formal) will adopt"
+      "SPANISH": "Adoptará",
+      "ENGLISH": "He will adopt"
     },
     "ELLOS": {
-      "SPANISH": "adoptarán",
-      "ENGLISH": "they will adopt, you (plural formal) will adopt"
+      "SPANISH": "Adoptarán",
+      "ENGLISH": "They will adopt"
     },
     "NOSOTROS": {
-      "SPANISH": "adoptaremos",
-      "ENGLISH": "we will adopt"
+      "SPANISH": "Adoptaremos",
+      "ENGLISH": "We will adopt"
     },
     "VOSOTROS": {
-      "SPANISH": "adoptaréis",
-      "ENGLISH": "you (plural) will adopt"
+      "SPANISH": "Adoptaréis",
+      "ENGLISH": "You will adopt"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré adoptado",
+      "SPANISH": "Habré adoptado",
       "ENGLISH": "I will have adopted"
     },
     "TU": {
-      "SPANISH": "habrás adoptado",
-      "ENGLISH": "you will have adopted"
+      "SPANISH": "Habrás adoptado",
+      "ENGLISH": "You will have adopted"
     },
     "EL": {
-      "SPANISH": "habrá adoptado",
-      "ENGLISH": "s/he will have adopted, you (formal) will have adopted"
+      "SPANISH": "Habrá adoptado",
+      "ENGLISH": "He will have adopted"
     },
     "ELLOS": {
-      "SPANISH": "habrán adoptado",
-      "ENGLISH": "they will have adopted, you (plural formal) will have adopted"
+      "SPANISH": "Habrán adoptado",
+      "ENGLISH": "They will have adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos adoptado",
-      "ENGLISH": "we will have adopted"
+      "SPANISH": "Habremos adoptado",
+      "ENGLISH": "We will have adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis adoptado",
-      "ENGLISH": "you (plural) will have adopted"
+      "SPANISH": "Habréis adoptado",
+      "ENGLISH": "You will have adopted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "adoptaría",
+      "SPANISH": "Adoptaría",
       "ENGLISH": "I would adopt"
     },
     "TU": {
-      "SPANISH": "adoptarías",
-      "ENGLISH": "you would adopt"
+      "SPANISH": "Adoptarías",
+      "ENGLISH": "You would adopt"
     },
     "EL": {
-      "SPANISH": "adoptaría",
-      "ENGLISH": "s/he would adopt, you (formal) would adopt"
+      "SPANISH": "Adoptaría",
+      "ENGLISH": "He would adopt"
     },
     "ELLOS": {
-      "SPANISH": "adoptarían",
-      "ENGLISH": "they would adopt, you (plural formal) would adopt"
+      "SPANISH": "Adoptarían",
+      "ENGLISH": "They would adopt"
     },
     "NOSOTROS": {
-      "SPANISH": "adoptaríamos",
-      "ENGLISH": "we would adopt"
+      "SPANISH": "Adoptaríamos",
+      "ENGLISH": "We would adopt"
     },
     "VOSOTROS": {
-      "SPANISH": "adoptaríais",
-      "ENGLISH": "you (plural) would adopt"
+      "SPANISH": "Adoptaríais",
+      "ENGLISH": "You would adopt"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría adoptado",
+      "SPANISH": "Habría adoptado",
       "ENGLISH": "I would have adopted"
     },
     "TU": {
-      "SPANISH": "habrías adoptado",
-      "ENGLISH": "you would have adopted"
+      "SPANISH": "Habrías adoptado",
+      "ENGLISH": "You would have adopted"
     },
     "EL": {
-      "SPANISH": "habría adoptado",
-      "ENGLISH": "s/he would have adopted, you (formal) would have adopted"
+      "SPANISH": "Habría adoptado",
+      "ENGLISH": "He would have adopted"
     },
     "ELLOS": {
-      "SPANISH": "habrían adoptado",
-      "ENGLISH": "they would have adopted, you (plural formal) would have adopted"
+      "SPANISH": "Habrían adoptado",
+      "ENGLISH": "They would have adopted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos adoptado",
-      "ENGLISH": "we would have adopted"
+      "SPANISH": "Habríamos adoptado",
+      "ENGLISH": "We would have adopted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais adoptado",
-      "ENGLISH": "you (plural) would have adopted"
+      "SPANISH": "Habríais adoptado",
+      "ENGLISH": "You would have adopted"
     }
   }
 }

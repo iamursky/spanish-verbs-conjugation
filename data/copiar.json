@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "copio",
+      "SPANISH": "Copio",
       "ENGLISH": "I copy"
     },
     "TU": {
-      "SPANISH": "copias",
-      "ENGLISH": "you copy"
+      "SPANISH": "Copias",
+      "ENGLISH": "You copy"
     },
     "EL": {
-      "SPANISH": "copia",
-      "ENGLISH": "s/he copies, you (formal) copies"
+      "SPANISH": "Copia",
+      "ENGLISH": "He copies"
     },
     "ELLOS": {
-      "SPANISH": "copian",
-      "ENGLISH": "they copy, you (plural formal) copy"
+      "SPANISH": "Copian",
+      "ENGLISH": "They copy"
     },
     "NOSOTROS": {
-      "SPANISH": "copiamos",
-      "ENGLISH": "we copy"
+      "SPANISH": "Copiamos",
+      "ENGLISH": "We copy"
     },
     "VOSOTROS": {
-      "SPANISH": "copiáis",
-      "ENGLISH": "you (plural) copy"
+      "SPANISH": "Copiáis",
+      "ENGLISH": "You copy"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he copiado",
+      "SPANISH": "He copiado",
       "ENGLISH": "I have copied"
     },
     "TU": {
-      "SPANISH": "has copiado",
-      "ENGLISH": "you have copied"
+      "SPANISH": "Has copiado",
+      "ENGLISH": "You have copied"
     },
     "EL": {
-      "SPANISH": "ha copiado",
-      "ENGLISH": "s/he has copied, you (formal) have copied"
+      "SPANISH": "Ha copiado",
+      "ENGLISH": "He has copied"
     },
     "ELLOS": {
-      "SPANISH": "han copiado",
-      "ENGLISH": "they have copied, you (plural formal) have copied"
+      "SPANISH": "Han copiado",
+      "ENGLISH": "They have copied"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos copiado",
-      "ENGLISH": "we have copied"
+      "SPANISH": "Hemos copiado",
+      "ENGLISH": "We have copied"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis copiado",
-      "ENGLISH": "you (plural) have copied"
+      "SPANISH": "Habéis copiado",
+      "ENGLISH": "You have copied"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "copié",
+      "SPANISH": "Copié",
       "ENGLISH": "I copied"
     },
     "TU": {
-      "SPANISH": "copiaste",
-      "ENGLISH": "you copied"
+      "SPANISH": "Copiaste",
+      "ENGLISH": "You copied"
     },
     "EL": {
-      "SPANISH": "copió",
-      "ENGLISH": "s/he copied, you (formal) copied"
+      "SPANISH": "Copió",
+      "ENGLISH": "He copied"
     },
     "ELLOS": {
-      "SPANISH": "copiaron",
-      "ENGLISH": "they copied, you (plural formal) copied"
+      "SPANISH": "Copiaron",
+      "ENGLISH": "They copied"
     },
     "NOSOTROS": {
-      "SPANISH": "copiamos",
-      "ENGLISH": "we copied"
+      "SPANISH": "Copiamos",
+      "ENGLISH": "We copied"
     },
     "VOSOTROS": {
-      "SPANISH": "copiasteis",
-      "ENGLISH": "you (plural) copied"
+      "SPANISH": "Copiasteis",
+      "ENGLISH": "You copied"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había copiado",
+      "SPANISH": "Había copiado",
       "ENGLISH": "I had copied"
     },
     "TU": {
-      "SPANISH": "habías copiado",
-      "ENGLISH": "you had copied"
+      "SPANISH": "Habías copiado",
+      "ENGLISH": "You had copied"
     },
     "EL": {
-      "SPANISH": "había copiado",
-      "ENGLISH": "s/he had copied, you (formal) had copied"
+      "SPANISH": "Había copiado",
+      "ENGLISH": "He had copied"
     },
     "ELLOS": {
-      "SPANISH": "habían copiado",
-      "ENGLISH": "they had copied, you (plural formal) had copied"
+      "SPANISH": "Habían copiado",
+      "ENGLISH": "They had copied"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos copiado",
-      "ENGLISH": "we had copied"
+      "SPANISH": "Habíamos copiado",
+      "ENGLISH": "We had copied"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais copiado",
-      "ENGLISH": "you (plural) had copied"
+      "SPANISH": "Habíais copiado",
+      "ENGLISH": "You had copied"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "copié",
+      "SPANISH": "Copié",
       "ENGLISH": "I copied"
     },
     "TU": {
-      "SPANISH": "copiaste",
-      "ENGLISH": "you copied"
+      "SPANISH": "Copiaste",
+      "ENGLISH": "You copied"
     },
     "EL": {
-      "SPANISH": "copió",
-      "ENGLISH": "s/he copied, you (formal) copied"
+      "SPANISH": "Copió",
+      "ENGLISH": "He copied"
     },
     "ELLOS": {
-      "SPANISH": "copiaron",
-      "ENGLISH": "they copied, you (plural formal) copied"
+      "SPANISH": "Copiaron",
+      "ENGLISH": "They copied"
     },
     "NOSOTROS": {
-      "SPANISH": "copiamos",
-      "ENGLISH": "we copied"
+      "SPANISH": "Copiamos",
+      "ENGLISH": "We copied"
     },
     "VOSOTROS": {
-      "SPANISH": "copiasteis",
-      "ENGLISH": "you (plural) copied"
+      "SPANISH": "Copiasteis",
+      "ENGLISH": "You copied"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "copiaré",
+      "SPANISH": "Copiaré",
       "ENGLISH": "I will copy"
     },
     "TU": {
-      "SPANISH": "copiarás",
-      "ENGLISH": "you will copy"
+      "SPANISH": "Copiarás",
+      "ENGLISH": "You will copy"
     },
     "EL": {
-      "SPANISH": "copiará",
-      "ENGLISH": "s/he will copy, you (formal) will copy"
+      "SPANISH": "Copiará",
+      "ENGLISH": "He will copy"
     },
     "ELLOS": {
-      "SPANISH": "copiarán",
-      "ENGLISH": "they will copy, you (plural formal) will copy"
+      "SPANISH": "Copiarán",
+      "ENGLISH": "They will copy"
     },
     "NOSOTROS": {
-      "SPANISH": "copiaremos",
-      "ENGLISH": "we will copy"
+      "SPANISH": "Copiaremos",
+      "ENGLISH": "We will copy"
     },
     "VOSOTROS": {
-      "SPANISH": "copiaréis",
-      "ENGLISH": "you (plural) will copy"
+      "SPANISH": "Copiaréis",
+      "ENGLISH": "You will copy"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré copiado",
+      "SPANISH": "Habré copiado",
       "ENGLISH": "I will have copied"
     },
     "TU": {
-      "SPANISH": "habrás copiado",
-      "ENGLISH": "you will have copied"
+      "SPANISH": "Habrás copiado",
+      "ENGLISH": "You will have copied"
     },
     "EL": {
-      "SPANISH": "habrá copiado",
-      "ENGLISH": "s/he will have copied, you (formal) will have copied"
+      "SPANISH": "Habrá copiado",
+      "ENGLISH": "He will have copied"
     },
     "ELLOS": {
-      "SPANISH": "habrán copiado",
-      "ENGLISH": "they will have copied, you (plural formal) will have copied"
+      "SPANISH": "Habrán copiado",
+      "ENGLISH": "They will have copied"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos copiado",
-      "ENGLISH": "we will have copied"
+      "SPANISH": "Habremos copiado",
+      "ENGLISH": "We will have copied"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis copiado",
-      "ENGLISH": "you (plural) will have copied"
+      "SPANISH": "Habréis copiado",
+      "ENGLISH": "You will have copied"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "copiaría",
+      "SPANISH": "Copiaría",
       "ENGLISH": "I would copy"
     },
     "TU": {
-      "SPANISH": "copiarías",
-      "ENGLISH": "you would copy"
+      "SPANISH": "Copiarías",
+      "ENGLISH": "You would copy"
     },
     "EL": {
-      "SPANISH": "copiaría",
-      "ENGLISH": "s/he would copy, you (formal) would copy"
+      "SPANISH": "Copiaría",
+      "ENGLISH": "He would copy"
     },
     "ELLOS": {
-      "SPANISH": "copiarían",
-      "ENGLISH": "they would copy, you (plural formal) would copy"
+      "SPANISH": "Copiarían",
+      "ENGLISH": "They would copy"
     },
     "NOSOTROS": {
-      "SPANISH": "copiaríamos",
-      "ENGLISH": "we would copy"
+      "SPANISH": "Copiaríamos",
+      "ENGLISH": "We would copy"
     },
     "VOSOTROS": {
-      "SPANISH": "copiaríais",
-      "ENGLISH": "you (plural) would copy"
+      "SPANISH": "Copiaríais",
+      "ENGLISH": "You would copy"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría copiado",
+      "SPANISH": "Habría copiado",
       "ENGLISH": "I would have copied"
     },
     "TU": {
-      "SPANISH": "habrías copiado",
-      "ENGLISH": "you would have copied"
+      "SPANISH": "Habrías copiado",
+      "ENGLISH": "You would have copied"
     },
     "EL": {
-      "SPANISH": "habría copiado",
-      "ENGLISH": "s/he would have copied, you (formal) would have copied"
+      "SPANISH": "Habría copiado",
+      "ENGLISH": "He would have copied"
     },
     "ELLOS": {
-      "SPANISH": "habrían copiado",
-      "ENGLISH": "they would have copied, you (plural formal) would have copied"
+      "SPANISH": "Habrían copiado",
+      "ENGLISH": "They would have copied"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos copiado",
-      "ENGLISH": "we would have copied"
+      "SPANISH": "Habríamos copiado",
+      "ENGLISH": "We would have copied"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais copiado",
-      "ENGLISH": "you (plural) would have copied"
+      "SPANISH": "Habríais copiado",
+      "ENGLISH": "You would have copied"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "deseo",
+      "SPANISH": "Deseo",
       "ENGLISH": "I wish"
     },
     "TU": {
-      "SPANISH": "deseas",
-      "ENGLISH": "you wish"
+      "SPANISH": "Deseas",
+      "ENGLISH": "You wish"
     },
     "EL": {
-      "SPANISH": "desea",
-      "ENGLISH": "s/he wishes, you (formal) wishes"
+      "SPANISH": "Desea",
+      "ENGLISH": "He wishes"
     },
     "ELLOS": {
-      "SPANISH": "desean",
-      "ENGLISH": "they wish, you (plural formal) wish"
+      "SPANISH": "Desean",
+      "ENGLISH": "They wish"
     },
     "NOSOTROS": {
-      "SPANISH": "deseamos",
-      "ENGLISH": "we wish"
+      "SPANISH": "Deseamos",
+      "ENGLISH": "We wish"
     },
     "VOSOTROS": {
-      "SPANISH": "deseáis",
-      "ENGLISH": "you (plural) wish"
+      "SPANISH": "Deseáis",
+      "ENGLISH": "You wish"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he deseado",
+      "SPANISH": "He deseado",
       "ENGLISH": "I have wished"
     },
     "TU": {
-      "SPANISH": "has deseado",
-      "ENGLISH": "you have wished"
+      "SPANISH": "Has deseado",
+      "ENGLISH": "You have wished"
     },
     "EL": {
-      "SPANISH": "ha deseado",
-      "ENGLISH": "s/he has wished, you (formal) have wished"
+      "SPANISH": "Ha deseado",
+      "ENGLISH": "He has wished"
     },
     "ELLOS": {
-      "SPANISH": "han deseado",
-      "ENGLISH": "they have wished, you (plural formal) have wished"
+      "SPANISH": "Han deseado",
+      "ENGLISH": "They have wished"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos deseado",
-      "ENGLISH": "we have wished"
+      "SPANISH": "Hemos deseado",
+      "ENGLISH": "We have wished"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis deseado",
-      "ENGLISH": "you (plural) have wished"
+      "SPANISH": "Habéis deseado",
+      "ENGLISH": "You have wished"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "deseé",
+      "SPANISH": "Deseé",
       "ENGLISH": "I wished"
     },
     "TU": {
-      "SPANISH": "deseaste",
-      "ENGLISH": "you wished"
+      "SPANISH": "Deseaste",
+      "ENGLISH": "You wished"
     },
     "EL": {
-      "SPANISH": "deseó",
-      "ENGLISH": "s/he wished, you (formal) wished"
+      "SPANISH": "Deseó",
+      "ENGLISH": "He wished"
     },
     "ELLOS": {
-      "SPANISH": "desearon",
-      "ENGLISH": "they wished, you (plural formal) wished"
+      "SPANISH": "Desearon",
+      "ENGLISH": "They wished"
     },
     "NOSOTROS": {
-      "SPANISH": "deseamos",
-      "ENGLISH": "we wished"
+      "SPANISH": "Deseamos",
+      "ENGLISH": "We wished"
     },
     "VOSOTROS": {
-      "SPANISH": "deseasteis",
-      "ENGLISH": "you (plural) wished"
+      "SPANISH": "Deseasteis",
+      "ENGLISH": "You wished"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había deseado",
+      "SPANISH": "Había deseado",
       "ENGLISH": "I had wished"
     },
     "TU": {
-      "SPANISH": "habías deseado",
-      "ENGLISH": "you had wished"
+      "SPANISH": "Habías deseado",
+      "ENGLISH": "You had wished"
     },
     "EL": {
-      "SPANISH": "había deseado",
-      "ENGLISH": "s/he had wished, you (formal) had wished"
+      "SPANISH": "Había deseado",
+      "ENGLISH": "He had wished"
     },
     "ELLOS": {
-      "SPANISH": "habían deseado",
-      "ENGLISH": "they had wished, you (plural formal) had wished"
+      "SPANISH": "Habían deseado",
+      "ENGLISH": "They had wished"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos deseado",
-      "ENGLISH": "we had wished"
+      "SPANISH": "Habíamos deseado",
+      "ENGLISH": "We had wished"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais deseado",
-      "ENGLISH": "you (plural) had wished"
+      "SPANISH": "Habíais deseado",
+      "ENGLISH": "You had wished"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "deseé",
+      "SPANISH": "Deseé",
       "ENGLISH": "I wished"
     },
     "TU": {
-      "SPANISH": "deseaste",
-      "ENGLISH": "you wished"
+      "SPANISH": "Deseaste",
+      "ENGLISH": "You wished"
     },
     "EL": {
-      "SPANISH": "deseó",
-      "ENGLISH": "s/he wished, you (formal) wished"
+      "SPANISH": "Deseó",
+      "ENGLISH": "He wished"
     },
     "ELLOS": {
-      "SPANISH": "desearon",
-      "ENGLISH": "they wished, you (plural formal) wished"
+      "SPANISH": "Desearon",
+      "ENGLISH": "They wished"
     },
     "NOSOTROS": {
-      "SPANISH": "deseamos",
-      "ENGLISH": "we wished"
+      "SPANISH": "Deseamos",
+      "ENGLISH": "We wished"
     },
     "VOSOTROS": {
-      "SPANISH": "deseasteis",
-      "ENGLISH": "you (plural) wished"
+      "SPANISH": "Deseasteis",
+      "ENGLISH": "You wished"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "desearé",
+      "SPANISH": "Desearé",
       "ENGLISH": "I will wish"
     },
     "TU": {
-      "SPANISH": "desearás",
-      "ENGLISH": "you will wish"
+      "SPANISH": "Desearás",
+      "ENGLISH": "You will wish"
     },
     "EL": {
-      "SPANISH": "deseará",
-      "ENGLISH": "s/he will wish, you (formal) will wish"
+      "SPANISH": "Deseará",
+      "ENGLISH": "He will wish"
     },
     "ELLOS": {
-      "SPANISH": "desearán",
-      "ENGLISH": "they will wish, you (plural formal) will wish"
+      "SPANISH": "Desearán",
+      "ENGLISH": "They will wish"
     },
     "NOSOTROS": {
-      "SPANISH": "desearemos",
-      "ENGLISH": "we will wish"
+      "SPANISH": "Desearemos",
+      "ENGLISH": "We will wish"
     },
     "VOSOTROS": {
-      "SPANISH": "desearéis",
-      "ENGLISH": "you (plural) will wish"
+      "SPANISH": "Desearéis",
+      "ENGLISH": "You will wish"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré deseado",
+      "SPANISH": "Habré deseado",
       "ENGLISH": "I will have wished"
     },
     "TU": {
-      "SPANISH": "habrás deseado",
-      "ENGLISH": "you will have wished"
+      "SPANISH": "Habrás deseado",
+      "ENGLISH": "You will have wished"
     },
     "EL": {
-      "SPANISH": "habrá deseado",
-      "ENGLISH": "s/he will have wished, you (formal) will have wished"
+      "SPANISH": "Habrá deseado",
+      "ENGLISH": "He will have wished"
     },
     "ELLOS": {
-      "SPANISH": "habrán deseado",
-      "ENGLISH": "they will have wished, you (plural formal) will have wished"
+      "SPANISH": "Habrán deseado",
+      "ENGLISH": "They will have wished"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos deseado",
-      "ENGLISH": "we will have wished"
+      "SPANISH": "Habremos deseado",
+      "ENGLISH": "We will have wished"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis deseado",
-      "ENGLISH": "you (plural) will have wished"
+      "SPANISH": "Habréis deseado",
+      "ENGLISH": "You will have wished"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "desearía",
+      "SPANISH": "Desearía",
       "ENGLISH": "I would wish"
     },
     "TU": {
-      "SPANISH": "desearías",
-      "ENGLISH": "you would wish"
+      "SPANISH": "Desearías",
+      "ENGLISH": "You would wish"
     },
     "EL": {
-      "SPANISH": "desearía",
-      "ENGLISH": "s/he would wish, you (formal) would wish"
+      "SPANISH": "Desearía",
+      "ENGLISH": "He would wish"
     },
     "ELLOS": {
-      "SPANISH": "desearían",
-      "ENGLISH": "they would wish, you (plural formal) would wish"
+      "SPANISH": "Desearían",
+      "ENGLISH": "They would wish"
     },
     "NOSOTROS": {
-      "SPANISH": "desearíamos",
-      "ENGLISH": "we would wish"
+      "SPANISH": "Desearíamos",
+      "ENGLISH": "We would wish"
     },
     "VOSOTROS": {
-      "SPANISH": "desearíais",
-      "ENGLISH": "you (plural) would wish"
+      "SPANISH": "Desearíais",
+      "ENGLISH": "You would wish"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría deseado",
+      "SPANISH": "Habría deseado",
       "ENGLISH": "I would have wished"
     },
     "TU": {
-      "SPANISH": "habrías deseado",
-      "ENGLISH": "you would have wished"
+      "SPANISH": "Habrías deseado",
+      "ENGLISH": "You would have wished"
     },
     "EL": {
-      "SPANISH": "habría deseado",
-      "ENGLISH": "s/he would have wished, you (formal) would have wished"
+      "SPANISH": "Habría deseado",
+      "ENGLISH": "He would have wished"
     },
     "ELLOS": {
-      "SPANISH": "habrían deseado",
-      "ENGLISH": "they would have wished, you (plural formal) would have wished"
+      "SPANISH": "Habrían deseado",
+      "ENGLISH": "They would have wished"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos deseado",
-      "ENGLISH": "we would have wished"
+      "SPANISH": "Habríamos deseado",
+      "ENGLISH": "We would have wished"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais deseado",
-      "ENGLISH": "you (plural) would have wished"
+      "SPANISH": "Habríais deseado",
+      "ENGLISH": "You would have wished"
     }
   }
 }

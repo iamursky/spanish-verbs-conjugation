@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cierro ",
+      "SPANISH": "Cierro ",
       "ENGLISH": "I close"
     },
     "TU": {
-      "SPANISH": "cierras ",
-      "ENGLISH": "you close"
+      "SPANISH": "Cierras ",
+      "ENGLISH": "You close"
     },
     "EL": {
-      "SPANISH": "cierra ",
-      "ENGLISH": "s/he closes, you (formal) closes"
+      "SPANISH": "Cierra ",
+      "ENGLISH": "He closes"
     },
     "ELLOS": {
-      "SPANISH": "cierran ",
-      "ENGLISH": "they close, you (plural formal) close"
+      "SPANISH": "Cierran ",
+      "ENGLISH": "They close"
     },
     "NOSOTROS": {
-      "SPANISH": "cerramos",
-      "ENGLISH": "we close"
+      "SPANISH": "Cerramos",
+      "ENGLISH": "We close"
     },
     "VOSOTROS": {
-      "SPANISH": "cerráis",
-      "ENGLISH": "you (plural) close"
+      "SPANISH": "Cerráis",
+      "ENGLISH": "You close"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cerrado",
+      "SPANISH": "He cerrado",
       "ENGLISH": "I have closed"
     },
     "TU": {
-      "SPANISH": "has cerrado",
-      "ENGLISH": "you have closed"
+      "SPANISH": "Has cerrado",
+      "ENGLISH": "You have closed"
     },
     "EL": {
-      "SPANISH": "ha cerrado",
-      "ENGLISH": "s/he has closed, you (formal) have closed"
+      "SPANISH": "Ha cerrado",
+      "ENGLISH": "He has closed"
     },
     "ELLOS": {
-      "SPANISH": "han cerrado",
-      "ENGLISH": "they have closed, you (plural formal) have closed"
+      "SPANISH": "Han cerrado",
+      "ENGLISH": "They have closed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cerrado",
-      "ENGLISH": "we have closed"
+      "SPANISH": "Hemos cerrado",
+      "ENGLISH": "We have closed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cerrado",
-      "ENGLISH": "you (plural) have closed"
+      "SPANISH": "Habéis cerrado",
+      "ENGLISH": "You have closed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cerré",
+      "SPANISH": "Cerré",
       "ENGLISH": "I closed"
     },
     "TU": {
-      "SPANISH": "cerraste",
-      "ENGLISH": "you closed"
+      "SPANISH": "Cerraste",
+      "ENGLISH": "You closed"
     },
     "EL": {
-      "SPANISH": "cerró",
-      "ENGLISH": "s/he closed, you (formal) closed"
+      "SPANISH": "Cerró",
+      "ENGLISH": "He closed"
     },
     "ELLOS": {
-      "SPANISH": "cerraron",
-      "ENGLISH": "they closed, you (plural formal) closed"
+      "SPANISH": "Cerraron",
+      "ENGLISH": "They closed"
     },
     "NOSOTROS": {
-      "SPANISH": "cerramos",
-      "ENGLISH": "we closed"
+      "SPANISH": "Cerramos",
+      "ENGLISH": "We closed"
     },
     "VOSOTROS": {
-      "SPANISH": "cerrasteis",
-      "ENGLISH": "you (plural) closed"
+      "SPANISH": "Cerrasteis",
+      "ENGLISH": "You closed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cerrado",
+      "SPANISH": "Había cerrado",
       "ENGLISH": "I had closed"
     },
     "TU": {
-      "SPANISH": "habías cerrado",
-      "ENGLISH": "you had closed"
+      "SPANISH": "Habías cerrado",
+      "ENGLISH": "You had closed"
     },
     "EL": {
-      "SPANISH": "había cerrado",
-      "ENGLISH": "s/he had closed, you (formal) had closed"
+      "SPANISH": "Había cerrado",
+      "ENGLISH": "He had closed"
     },
     "ELLOS": {
-      "SPANISH": "habían cerrado",
-      "ENGLISH": "they had closed, you (plural formal) had closed"
+      "SPANISH": "Habían cerrado",
+      "ENGLISH": "They had closed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cerrado",
-      "ENGLISH": "we had closed"
+      "SPANISH": "Habíamos cerrado",
+      "ENGLISH": "We had closed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cerrado",
-      "ENGLISH": "you (plural) had closed"
+      "SPANISH": "Habíais cerrado",
+      "ENGLISH": "You had closed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cerré",
+      "SPANISH": "Cerré",
       "ENGLISH": "I closed"
     },
     "TU": {
-      "SPANISH": "cerraste",
-      "ENGLISH": "you closed"
+      "SPANISH": "Cerraste",
+      "ENGLISH": "You closed"
     },
     "EL": {
-      "SPANISH": "cerró",
-      "ENGLISH": "s/he closed, you (formal) closed"
+      "SPANISH": "Cerró",
+      "ENGLISH": "He closed"
     },
     "ELLOS": {
-      "SPANISH": "cerraron",
-      "ENGLISH": "they closed, you (plural formal) closed"
+      "SPANISH": "Cerraron",
+      "ENGLISH": "They closed"
     },
     "NOSOTROS": {
-      "SPANISH": "cerramos",
-      "ENGLISH": "we closed"
+      "SPANISH": "Cerramos",
+      "ENGLISH": "We closed"
     },
     "VOSOTROS": {
-      "SPANISH": "cerrasteis",
-      "ENGLISH": "you (plural) closed"
+      "SPANISH": "Cerrasteis",
+      "ENGLISH": "You closed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cerraré",
+      "SPANISH": "Cerraré",
       "ENGLISH": "I will close"
     },
     "TU": {
-      "SPANISH": "cerrarás",
-      "ENGLISH": "you will close"
+      "SPANISH": "Cerrarás",
+      "ENGLISH": "You will close"
     },
     "EL": {
-      "SPANISH": "cerrará",
-      "ENGLISH": "s/he will close, you (formal) will close"
+      "SPANISH": "Cerrará",
+      "ENGLISH": "He will close"
     },
     "ELLOS": {
-      "SPANISH": "cerrarán",
-      "ENGLISH": "they will close, you (plural formal) will close"
+      "SPANISH": "Cerrarán",
+      "ENGLISH": "They will close"
     },
     "NOSOTROS": {
-      "SPANISH": "cerraremos",
-      "ENGLISH": "we will close"
+      "SPANISH": "Cerraremos",
+      "ENGLISH": "We will close"
     },
     "VOSOTROS": {
-      "SPANISH": "cerraréis",
-      "ENGLISH": "you (plural) will close"
+      "SPANISH": "Cerraréis",
+      "ENGLISH": "You will close"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cerrado",
+      "SPANISH": "Habré cerrado",
       "ENGLISH": "I will have closed"
     },
     "TU": {
-      "SPANISH": "habrás cerrado",
-      "ENGLISH": "you will have closed"
+      "SPANISH": "Habrás cerrado",
+      "ENGLISH": "You will have closed"
     },
     "EL": {
-      "SPANISH": "habrá cerrado",
-      "ENGLISH": "s/he will have closed, you (formal) will have closed"
+      "SPANISH": "Habrá cerrado",
+      "ENGLISH": "He will have closed"
     },
     "ELLOS": {
-      "SPANISH": "habrán cerrado",
-      "ENGLISH": "they will have closed, you (plural formal) will have closed"
+      "SPANISH": "Habrán cerrado",
+      "ENGLISH": "They will have closed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cerrado",
-      "ENGLISH": "we will have closed"
+      "SPANISH": "Habremos cerrado",
+      "ENGLISH": "We will have closed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cerrado",
-      "ENGLISH": "you (plural) will have closed"
+      "SPANISH": "Habréis cerrado",
+      "ENGLISH": "You will have closed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cerraría",
+      "SPANISH": "Cerraría",
       "ENGLISH": "I would close"
     },
     "TU": {
-      "SPANISH": "cerrarías",
-      "ENGLISH": "you would close"
+      "SPANISH": "Cerrarías",
+      "ENGLISH": "You would close"
     },
     "EL": {
-      "SPANISH": "cerraría",
-      "ENGLISH": "s/he would close, you (formal) would close"
+      "SPANISH": "Cerraría",
+      "ENGLISH": "He would close"
     },
     "ELLOS": {
-      "SPANISH": "cerrarían",
-      "ENGLISH": "they would close, you (plural formal) would close"
+      "SPANISH": "Cerrarían",
+      "ENGLISH": "They would close"
     },
     "NOSOTROS": {
-      "SPANISH": "cerraríamos",
-      "ENGLISH": "we would close"
+      "SPANISH": "Cerraríamos",
+      "ENGLISH": "We would close"
     },
     "VOSOTROS": {
-      "SPANISH": "cerraríais",
-      "ENGLISH": "you (plural) would close"
+      "SPANISH": "Cerraríais",
+      "ENGLISH": "You would close"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cerrado",
+      "SPANISH": "Habría cerrado",
       "ENGLISH": "I would have closed"
     },
     "TU": {
-      "SPANISH": "habrías cerrado",
-      "ENGLISH": "you would have closed"
+      "SPANISH": "Habrías cerrado",
+      "ENGLISH": "You would have closed"
     },
     "EL": {
-      "SPANISH": "habría cerrado",
-      "ENGLISH": "s/he would have closed, you (formal) would have closed"
+      "SPANISH": "Habría cerrado",
+      "ENGLISH": "He would have closed"
     },
     "ELLOS": {
-      "SPANISH": "habrían cerrado",
-      "ENGLISH": "they would have closed, you (plural formal) would have closed"
+      "SPANISH": "Habrían cerrado",
+      "ENGLISH": "They would have closed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cerrado",
-      "ENGLISH": "we would have closed"
+      "SPANISH": "Habríamos cerrado",
+      "ENGLISH": "We would have closed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cerrado",
-      "ENGLISH": "you (plural) would have closed"
+      "SPANISH": "Habríais cerrado",
+      "ENGLISH": "You would have closed"
     }
   }
 }

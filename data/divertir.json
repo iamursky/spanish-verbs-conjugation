@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "divierto ",
+      "SPANISH": "Divierto ",
       "ENGLISH": "I amuse"
     },
     "TU": {
-      "SPANISH": "diviertes ",
-      "ENGLISH": "you amuse"
+      "SPANISH": "Diviertes ",
+      "ENGLISH": "You amuse"
     },
     "EL": {
-      "SPANISH": "divierte ",
-      "ENGLISH": "s/he amuses, you (formal) amuses"
+      "SPANISH": "Divierte ",
+      "ENGLISH": "He amuses"
     },
     "ELLOS": {
-      "SPANISH": "divierten ",
-      "ENGLISH": "they amuse, you (plural formal) amuse"
+      "SPANISH": "Divierten ",
+      "ENGLISH": "They amuse"
     },
     "NOSOTROS": {
-      "SPANISH": "divertimos",
-      "ENGLISH": "we amuse"
+      "SPANISH": "Divertimos",
+      "ENGLISH": "We amuse"
     },
     "VOSOTROS": {
-      "SPANISH": "divertís",
-      "ENGLISH": "you (plural) amuse"
+      "SPANISH": "Divertís",
+      "ENGLISH": "You amuse"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he divertido",
+      "SPANISH": "He divertido",
       "ENGLISH": "I have amused"
     },
     "TU": {
-      "SPANISH": "has divertido",
-      "ENGLISH": "you have amused"
+      "SPANISH": "Has divertido",
+      "ENGLISH": "You have amused"
     },
     "EL": {
-      "SPANISH": "ha divertido",
-      "ENGLISH": "s/he has amused, you (formal) have amused"
+      "SPANISH": "Ha divertido",
+      "ENGLISH": "He has amused"
     },
     "ELLOS": {
-      "SPANISH": "han divertido",
-      "ENGLISH": "they have amused, you (plural formal) have amused"
+      "SPANISH": "Han divertido",
+      "ENGLISH": "They have amused"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos divertido",
-      "ENGLISH": "we have amused"
+      "SPANISH": "Hemos divertido",
+      "ENGLISH": "We have amused"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis divertido",
-      "ENGLISH": "you (plural) have amused"
+      "SPANISH": "Habéis divertido",
+      "ENGLISH": "You have amused"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "divertí",
+      "SPANISH": "Divertí",
       "ENGLISH": "I amused"
     },
     "TU": {
-      "SPANISH": "divertiste",
-      "ENGLISH": "you amused"
+      "SPANISH": "Divertiste",
+      "ENGLISH": "You amused"
     },
     "EL": {
-      "SPANISH": "divirtió ",
-      "ENGLISH": "s/he amused, you (formal) amused"
+      "SPANISH": "Divirtió ",
+      "ENGLISH": "He amused"
     },
     "ELLOS": {
-      "SPANISH": "divirtieron ",
-      "ENGLISH": "they amused, you (plural formal) amused"
+      "SPANISH": "Divirtieron ",
+      "ENGLISH": "They amused"
     },
     "NOSOTROS": {
-      "SPANISH": "divertimos",
-      "ENGLISH": "we amused"
+      "SPANISH": "Divertimos",
+      "ENGLISH": "We amused"
     },
     "VOSOTROS": {
-      "SPANISH": "divertisteis",
-      "ENGLISH": "you (plural) amused"
+      "SPANISH": "Divertisteis",
+      "ENGLISH": "You amused"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había divertido",
+      "SPANISH": "Había divertido",
       "ENGLISH": "I had amused"
     },
     "TU": {
-      "SPANISH": "habías divertido",
-      "ENGLISH": "you had amused"
+      "SPANISH": "Habías divertido",
+      "ENGLISH": "You had amused"
     },
     "EL": {
-      "SPANISH": "había divertido",
-      "ENGLISH": "s/he had amused, you (formal) had amused"
+      "SPANISH": "Había divertido",
+      "ENGLISH": "He had amused"
     },
     "ELLOS": {
-      "SPANISH": "habían divertido",
-      "ENGLISH": "they had amused, you (plural formal) had amused"
+      "SPANISH": "Habían divertido",
+      "ENGLISH": "They had amused"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos divertido",
-      "ENGLISH": "we had amused"
+      "SPANISH": "Habíamos divertido",
+      "ENGLISH": "We had amused"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais divertido",
-      "ENGLISH": "you (plural) had amused"
+      "SPANISH": "Habíais divertido",
+      "ENGLISH": "You had amused"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "divertí",
+      "SPANISH": "Divertí",
       "ENGLISH": "I amused"
     },
     "TU": {
-      "SPANISH": "divertiste",
-      "ENGLISH": "you amused"
+      "SPANISH": "Divertiste",
+      "ENGLISH": "You amused"
     },
     "EL": {
-      "SPANISH": "divirtió ",
-      "ENGLISH": "s/he amused, you (formal) amused"
+      "SPANISH": "Divirtió ",
+      "ENGLISH": "He amused"
     },
     "ELLOS": {
-      "SPANISH": "divirtieron ",
-      "ENGLISH": "they amused, you (plural formal) amused"
+      "SPANISH": "Divirtieron ",
+      "ENGLISH": "They amused"
     },
     "NOSOTROS": {
-      "SPANISH": "divertimos",
-      "ENGLISH": "we amused"
+      "SPANISH": "Divertimos",
+      "ENGLISH": "We amused"
     },
     "VOSOTROS": {
-      "SPANISH": "divertisteis",
-      "ENGLISH": "you (plural) amused"
+      "SPANISH": "Divertisteis",
+      "ENGLISH": "You amused"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "divertiré",
+      "SPANISH": "Divertiré",
       "ENGLISH": "I will amuse"
     },
     "TU": {
-      "SPANISH": "divertirás",
-      "ENGLISH": "you will amuse"
+      "SPANISH": "Divertirás",
+      "ENGLISH": "You will amuse"
     },
     "EL": {
-      "SPANISH": "divertirá",
-      "ENGLISH": "s/he will amuse, you (formal) will amuse"
+      "SPANISH": "Divertirá",
+      "ENGLISH": "He will amuse"
     },
     "ELLOS": {
-      "SPANISH": "divertirán",
-      "ENGLISH": "they will amuse, you (plural formal) will amuse"
+      "SPANISH": "Divertirán",
+      "ENGLISH": "They will amuse"
     },
     "NOSOTROS": {
-      "SPANISH": "divertiremos",
-      "ENGLISH": "we will amuse"
+      "SPANISH": "Divertiremos",
+      "ENGLISH": "We will amuse"
     },
     "VOSOTROS": {
-      "SPANISH": "divertiréis",
-      "ENGLISH": "you (plural) will amuse"
+      "SPANISH": "Divertiréis",
+      "ENGLISH": "You will amuse"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré divertido",
+      "SPANISH": "Habré divertido",
       "ENGLISH": "I will have amused"
     },
     "TU": {
-      "SPANISH": "habrás divertido",
-      "ENGLISH": "you will have amused"
+      "SPANISH": "Habrás divertido",
+      "ENGLISH": "You will have amused"
     },
     "EL": {
-      "SPANISH": "habrá divertido",
-      "ENGLISH": "s/he will have amused, you (formal) will have amused"
+      "SPANISH": "Habrá divertido",
+      "ENGLISH": "He will have amused"
     },
     "ELLOS": {
-      "SPANISH": "habrán divertido",
-      "ENGLISH": "they will have amused, you (plural formal) will have amused"
+      "SPANISH": "Habrán divertido",
+      "ENGLISH": "They will have amused"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos divertido",
-      "ENGLISH": "we will have amused"
+      "SPANISH": "Habremos divertido",
+      "ENGLISH": "We will have amused"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis divertido",
-      "ENGLISH": "you (plural) will have amused"
+      "SPANISH": "Habréis divertido",
+      "ENGLISH": "You will have amused"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "divertiría",
+      "SPANISH": "Divertiría",
       "ENGLISH": "I would amuse"
     },
     "TU": {
-      "SPANISH": "divertirías",
-      "ENGLISH": "you would amuse"
+      "SPANISH": "Divertirías",
+      "ENGLISH": "You would amuse"
     },
     "EL": {
-      "SPANISH": "divertiría",
-      "ENGLISH": "s/he would amuse, you (formal) would amuse"
+      "SPANISH": "Divertiría",
+      "ENGLISH": "He would amuse"
     },
     "ELLOS": {
-      "SPANISH": "divertirían",
-      "ENGLISH": "they would amuse, you (plural formal) would amuse"
+      "SPANISH": "Divertirían",
+      "ENGLISH": "They would amuse"
     },
     "NOSOTROS": {
-      "SPANISH": "divertiríamos",
-      "ENGLISH": "we would amuse"
+      "SPANISH": "Divertiríamos",
+      "ENGLISH": "We would amuse"
     },
     "VOSOTROS": {
-      "SPANISH": "divertiríais",
-      "ENGLISH": "you (plural) would amuse"
+      "SPANISH": "Divertiríais",
+      "ENGLISH": "You would amuse"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría divertido",
+      "SPANISH": "Habría divertido",
       "ENGLISH": "I would have amused"
     },
     "TU": {
-      "SPANISH": "habrías divertido",
-      "ENGLISH": "you would have amused"
+      "SPANISH": "Habrías divertido",
+      "ENGLISH": "You would have amused"
     },
     "EL": {
-      "SPANISH": "habría divertido",
-      "ENGLISH": "s/he would have amused, you (formal) would have amused"
+      "SPANISH": "Habría divertido",
+      "ENGLISH": "He would have amused"
     },
     "ELLOS": {
-      "SPANISH": "habrían divertido",
-      "ENGLISH": "they would have amused, you (plural formal) would have amused"
+      "SPANISH": "Habrían divertido",
+      "ENGLISH": "They would have amused"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos divertido",
-      "ENGLISH": "we would have amused"
+      "SPANISH": "Habríamos divertido",
+      "ENGLISH": "We would have amused"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais divertido",
-      "ENGLISH": "you (plural) would have amused"
+      "SPANISH": "Habríais divertido",
+      "ENGLISH": "You would have amused"
     }
   }
 }

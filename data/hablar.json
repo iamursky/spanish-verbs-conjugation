@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "hablo",
+      "SPANISH": "Hablo",
       "ENGLISH": "I speak"
     },
     "TU": {
-      "SPANISH": "hablas",
-      "ENGLISH": "you speak"
+      "SPANISH": "Hablas",
+      "ENGLISH": "You speak"
     },
     "EL": {
-      "SPANISH": "habla",
-      "ENGLISH": "s/he speaks, you (formal) speaks"
+      "SPANISH": "Habla",
+      "ENGLISH": "He speaks"
     },
     "ELLOS": {
-      "SPANISH": "hablan",
-      "ENGLISH": "they speak, you (plural formal) speak"
+      "SPANISH": "Hablan",
+      "ENGLISH": "They speak"
     },
     "NOSOTROS": {
-      "SPANISH": "hablamos",
-      "ENGLISH": "we speak"
+      "SPANISH": "Hablamos",
+      "ENGLISH": "We speak"
     },
     "VOSOTROS": {
-      "SPANISH": "habláis",
-      "ENGLISH": "you (plural) speak"
+      "SPANISH": "Habláis",
+      "ENGLISH": "You speak"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he hablado",
+      "SPANISH": "He hablado",
       "ENGLISH": "I have spoken"
     },
     "TU": {
-      "SPANISH": "has hablado",
-      "ENGLISH": "you have spoken"
+      "SPANISH": "Has hablado",
+      "ENGLISH": "You have spoken"
     },
     "EL": {
-      "SPANISH": "ha hablado",
-      "ENGLISH": "s/he has spoken, you (formal) have spoken"
+      "SPANISH": "Ha hablado",
+      "ENGLISH": "He has spoken"
     },
     "ELLOS": {
-      "SPANISH": "han hablado",
-      "ENGLISH": "they have spoken, you (plural formal) have spoken"
+      "SPANISH": "Han hablado",
+      "ENGLISH": "They have spoken"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos hablado",
-      "ENGLISH": "we have spoken"
+      "SPANISH": "Hemos hablado",
+      "ENGLISH": "We have spoken"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis hablado",
-      "ENGLISH": "you (plural) have spoken"
+      "SPANISH": "Habéis hablado",
+      "ENGLISH": "You have spoken"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "hablé",
+      "SPANISH": "Hablé",
       "ENGLISH": "I spoke"
     },
     "TU": {
-      "SPANISH": "hablaste",
-      "ENGLISH": "you spoke"
+      "SPANISH": "Hablaste",
+      "ENGLISH": "You spoke"
     },
     "EL": {
-      "SPANISH": "habló",
-      "ENGLISH": "s/he spoke, you (formal) spoke"
+      "SPANISH": "Habló",
+      "ENGLISH": "He spoke"
     },
     "ELLOS": {
-      "SPANISH": "hablaron",
-      "ENGLISH": "they spoke, you (plural formal) spoke"
+      "SPANISH": "Hablaron",
+      "ENGLISH": "They spoke"
     },
     "NOSOTROS": {
-      "SPANISH": "hablamos",
-      "ENGLISH": "we spoke"
+      "SPANISH": "Hablamos",
+      "ENGLISH": "We spoke"
     },
     "VOSOTROS": {
-      "SPANISH": "hablasteis",
-      "ENGLISH": "you (plural) spoke"
+      "SPANISH": "Hablasteis",
+      "ENGLISH": "You spoke"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había hablado",
+      "SPANISH": "Había hablado",
       "ENGLISH": "I had spoken"
     },
     "TU": {
-      "SPANISH": "habías hablado",
-      "ENGLISH": "you had spoken"
+      "SPANISH": "Habías hablado",
+      "ENGLISH": "You had spoken"
     },
     "EL": {
-      "SPANISH": "había hablado",
-      "ENGLISH": "s/he had spoken, you (formal) had spoken"
+      "SPANISH": "Había hablado",
+      "ENGLISH": "He had spoken"
     },
     "ELLOS": {
-      "SPANISH": "habían hablado",
-      "ENGLISH": "they had spoken, you (plural formal) had spoken"
+      "SPANISH": "Habían hablado",
+      "ENGLISH": "They had spoken"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos hablado",
-      "ENGLISH": "we had spoken"
+      "SPANISH": "Habíamos hablado",
+      "ENGLISH": "We had spoken"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais hablado",
-      "ENGLISH": "you (plural) had spoken"
+      "SPANISH": "Habíais hablado",
+      "ENGLISH": "You had spoken"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "hablé",
+      "SPANISH": "Hablé",
       "ENGLISH": "I spoke"
     },
     "TU": {
-      "SPANISH": "hablaste",
-      "ENGLISH": "you spoke"
+      "SPANISH": "Hablaste",
+      "ENGLISH": "You spoke"
     },
     "EL": {
-      "SPANISH": "habló",
-      "ENGLISH": "s/he spoke, you (formal) spoke"
+      "SPANISH": "Habló",
+      "ENGLISH": "He spoke"
     },
     "ELLOS": {
-      "SPANISH": "hablaron",
-      "ENGLISH": "they spoke, you (plural formal) spoke"
+      "SPANISH": "Hablaron",
+      "ENGLISH": "They spoke"
     },
     "NOSOTROS": {
-      "SPANISH": "hablamos",
-      "ENGLISH": "we spoke"
+      "SPANISH": "Hablamos",
+      "ENGLISH": "We spoke"
     },
     "VOSOTROS": {
-      "SPANISH": "hablasteis",
-      "ENGLISH": "you (plural) spoke"
+      "SPANISH": "Hablasteis",
+      "ENGLISH": "You spoke"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "hablaré",
+      "SPANISH": "Hablaré",
       "ENGLISH": "I will speak"
     },
     "TU": {
-      "SPANISH": "hablarás",
-      "ENGLISH": "you will speak"
+      "SPANISH": "Hablarás",
+      "ENGLISH": "You will speak"
     },
     "EL": {
-      "SPANISH": "hablará",
-      "ENGLISH": "s/he will speak, you (formal) will speak"
+      "SPANISH": "Hablará",
+      "ENGLISH": "He will speak"
     },
     "ELLOS": {
-      "SPANISH": "hablarán",
-      "ENGLISH": "they will speak, you (plural formal) will speak"
+      "SPANISH": "Hablarán",
+      "ENGLISH": "They will speak"
     },
     "NOSOTROS": {
-      "SPANISH": "hablaremos",
-      "ENGLISH": "we will speak"
+      "SPANISH": "Hablaremos",
+      "ENGLISH": "We will speak"
     },
     "VOSOTROS": {
-      "SPANISH": "hablaréis",
-      "ENGLISH": "you (plural) will speak"
+      "SPANISH": "Hablaréis",
+      "ENGLISH": "You will speak"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré hablado",
+      "SPANISH": "Habré hablado",
       "ENGLISH": "I will have spoken"
     },
     "TU": {
-      "SPANISH": "habrás hablado",
-      "ENGLISH": "you will have spoken"
+      "SPANISH": "Habrás hablado",
+      "ENGLISH": "You will have spoken"
     },
     "EL": {
-      "SPANISH": "habrá hablado",
-      "ENGLISH": "s/he will have spoken, you (formal) will have spoken"
+      "SPANISH": "Habrá hablado",
+      "ENGLISH": "He will have spoken"
     },
     "ELLOS": {
-      "SPANISH": "habrán hablado",
-      "ENGLISH": "they will have spoken, you (plural formal) will have spoken"
+      "SPANISH": "Habrán hablado",
+      "ENGLISH": "They will have spoken"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos hablado",
-      "ENGLISH": "we will have spoken"
+      "SPANISH": "Habremos hablado",
+      "ENGLISH": "We will have spoken"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis hablado",
-      "ENGLISH": "you (plural) will have spoken"
+      "SPANISH": "Habréis hablado",
+      "ENGLISH": "You will have spoken"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "hablaría",
+      "SPANISH": "Hablaría",
       "ENGLISH": "I would speak"
     },
     "TU": {
-      "SPANISH": "hablarías",
-      "ENGLISH": "you would speak"
+      "SPANISH": "Hablarías",
+      "ENGLISH": "You would speak"
     },
     "EL": {
-      "SPANISH": "hablaría",
-      "ENGLISH": "s/he would speak, you (formal) would speak"
+      "SPANISH": "Hablaría",
+      "ENGLISH": "He would speak"
     },
     "ELLOS": {
-      "SPANISH": "hablarían",
-      "ENGLISH": "they would speak, you (plural formal) would speak"
+      "SPANISH": "Hablarían",
+      "ENGLISH": "They would speak"
     },
     "NOSOTROS": {
-      "SPANISH": "hablaríamos",
-      "ENGLISH": "we would speak"
+      "SPANISH": "Hablaríamos",
+      "ENGLISH": "We would speak"
     },
     "VOSOTROS": {
-      "SPANISH": "hablaríais",
-      "ENGLISH": "you (plural) would speak"
+      "SPANISH": "Hablaríais",
+      "ENGLISH": "You would speak"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría hablado",
+      "SPANISH": "Habría hablado",
       "ENGLISH": "I would have spoken"
     },
     "TU": {
-      "SPANISH": "habrías hablado",
-      "ENGLISH": "you would have spoken"
+      "SPANISH": "Habrías hablado",
+      "ENGLISH": "You would have spoken"
     },
     "EL": {
-      "SPANISH": "habría hablado",
-      "ENGLISH": "s/he would have spoken, you (formal) would have spoken"
+      "SPANISH": "Habría hablado",
+      "ENGLISH": "He would have spoken"
     },
     "ELLOS": {
-      "SPANISH": "habrían hablado",
-      "ENGLISH": "they would have spoken, you (plural formal) would have spoken"
+      "SPANISH": "Habrían hablado",
+      "ENGLISH": "They would have spoken"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos hablado",
-      "ENGLISH": "we would have spoken"
+      "SPANISH": "Habríamos hablado",
+      "ENGLISH": "We would have spoken"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais hablado",
-      "ENGLISH": "you (plural) would have spoken"
+      "SPANISH": "Habríais hablado",
+      "ENGLISH": "You would have spoken"
     }
   }
 }

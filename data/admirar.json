@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "admiro",
+      "SPANISH": "Admiro",
       "ENGLISH": "I admire"
     },
     "TU": {
-      "SPANISH": "admiras",
-      "ENGLISH": "you admire"
+      "SPANISH": "Admiras",
+      "ENGLISH": "You admire"
     },
     "EL": {
-      "SPANISH": "admira",
-      "ENGLISH": "s/he admires, you (formal) admires"
+      "SPANISH": "Admira",
+      "ENGLISH": "He admires"
     },
     "ELLOS": {
-      "SPANISH": "admiran",
-      "ENGLISH": "they admire, you (plural formal) admire"
+      "SPANISH": "Admiran",
+      "ENGLISH": "They admire"
     },
     "NOSOTROS": {
-      "SPANISH": "admiramos",
-      "ENGLISH": "we admire"
+      "SPANISH": "Admiramos",
+      "ENGLISH": "We admire"
     },
     "VOSOTROS": {
-      "SPANISH": "admiráis",
-      "ENGLISH": "you (plural) admire"
+      "SPANISH": "Admiráis",
+      "ENGLISH": "You admire"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he admirado",
+      "SPANISH": "He admirado",
       "ENGLISH": "I have admired"
     },
     "TU": {
-      "SPANISH": "has admirado",
-      "ENGLISH": "you have admired"
+      "SPANISH": "Has admirado",
+      "ENGLISH": "You have admired"
     },
     "EL": {
-      "SPANISH": "ha admirado",
-      "ENGLISH": "s/he has admired, you (formal) have admired"
+      "SPANISH": "Ha admirado",
+      "ENGLISH": "He has admired"
     },
     "ELLOS": {
-      "SPANISH": "han admirado",
-      "ENGLISH": "they have admired, you (plural formal) have admired"
+      "SPANISH": "Han admirado",
+      "ENGLISH": "They have admired"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos admirado",
-      "ENGLISH": "we have admired"
+      "SPANISH": "Hemos admirado",
+      "ENGLISH": "We have admired"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis admirado",
-      "ENGLISH": "you (plural) have admired"
+      "SPANISH": "Habéis admirado",
+      "ENGLISH": "You have admired"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "admiré",
+      "SPANISH": "Admiré",
       "ENGLISH": "I admired"
     },
     "TU": {
-      "SPANISH": "admiraste",
-      "ENGLISH": "you admired"
+      "SPANISH": "Admiraste",
+      "ENGLISH": "You admired"
     },
     "EL": {
-      "SPANISH": "admiró",
-      "ENGLISH": "s/he admired, you (formal) admired"
+      "SPANISH": "Admiró",
+      "ENGLISH": "He admired"
     },
     "ELLOS": {
-      "SPANISH": "admiraron",
-      "ENGLISH": "they admired, you (plural formal) admired"
+      "SPANISH": "Admiraron",
+      "ENGLISH": "They admired"
     },
     "NOSOTROS": {
-      "SPANISH": "admiramos",
-      "ENGLISH": "we admired"
+      "SPANISH": "Admiramos",
+      "ENGLISH": "We admired"
     },
     "VOSOTROS": {
-      "SPANISH": "admirasteis",
-      "ENGLISH": "you (plural) admired"
+      "SPANISH": "Admirasteis",
+      "ENGLISH": "You admired"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había admirado",
+      "SPANISH": "Había admirado",
       "ENGLISH": "I had admired"
     },
     "TU": {
-      "SPANISH": "habías admirado",
-      "ENGLISH": "you had admired"
+      "SPANISH": "Habías admirado",
+      "ENGLISH": "You had admired"
     },
     "EL": {
-      "SPANISH": "había admirado",
-      "ENGLISH": "s/he had admired, you (formal) had admired"
+      "SPANISH": "Había admirado",
+      "ENGLISH": "He had admired"
     },
     "ELLOS": {
-      "SPANISH": "habían admirado",
-      "ENGLISH": "they had admired, you (plural formal) had admired"
+      "SPANISH": "Habían admirado",
+      "ENGLISH": "They had admired"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos admirado",
-      "ENGLISH": "we had admired"
+      "SPANISH": "Habíamos admirado",
+      "ENGLISH": "We had admired"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais admirado",
-      "ENGLISH": "you (plural) had admired"
+      "SPANISH": "Habíais admirado",
+      "ENGLISH": "You had admired"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "admiré",
+      "SPANISH": "Admiré",
       "ENGLISH": "I admired"
     },
     "TU": {
-      "SPANISH": "admiraste",
-      "ENGLISH": "you admired"
+      "SPANISH": "Admiraste",
+      "ENGLISH": "You admired"
     },
     "EL": {
-      "SPANISH": "admiró",
-      "ENGLISH": "s/he admired, you (formal) admired"
+      "SPANISH": "Admiró",
+      "ENGLISH": "He admired"
     },
     "ELLOS": {
-      "SPANISH": "admiraron",
-      "ENGLISH": "they admired, you (plural formal) admired"
+      "SPANISH": "Admiraron",
+      "ENGLISH": "They admired"
     },
     "NOSOTROS": {
-      "SPANISH": "admiramos",
-      "ENGLISH": "we admired"
+      "SPANISH": "Admiramos",
+      "ENGLISH": "We admired"
     },
     "VOSOTROS": {
-      "SPANISH": "admirasteis",
-      "ENGLISH": "you (plural) admired"
+      "SPANISH": "Admirasteis",
+      "ENGLISH": "You admired"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "admiraré",
+      "SPANISH": "Admiraré",
       "ENGLISH": "I will admire"
     },
     "TU": {
-      "SPANISH": "admirarás",
-      "ENGLISH": "you will admire"
+      "SPANISH": "Admirarás",
+      "ENGLISH": "You will admire"
     },
     "EL": {
-      "SPANISH": "admirará",
-      "ENGLISH": "s/he will admire, you (formal) will admire"
+      "SPANISH": "Admirará",
+      "ENGLISH": "He will admire"
     },
     "ELLOS": {
-      "SPANISH": "admirarán",
-      "ENGLISH": "they will admire, you (plural formal) will admire"
+      "SPANISH": "Admirarán",
+      "ENGLISH": "They will admire"
     },
     "NOSOTROS": {
-      "SPANISH": "admiraremos",
-      "ENGLISH": "we will admire"
+      "SPANISH": "Admiraremos",
+      "ENGLISH": "We will admire"
     },
     "VOSOTROS": {
-      "SPANISH": "admiraréis",
-      "ENGLISH": "you (plural) will admire"
+      "SPANISH": "Admiraréis",
+      "ENGLISH": "You will admire"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré admirado",
+      "SPANISH": "Habré admirado",
       "ENGLISH": "I will have admired"
     },
     "TU": {
-      "SPANISH": "habrás admirado",
-      "ENGLISH": "you will have admired"
+      "SPANISH": "Habrás admirado",
+      "ENGLISH": "You will have admired"
     },
     "EL": {
-      "SPANISH": "habrá admirado",
-      "ENGLISH": "s/he will have admired, you (formal) will have admired"
+      "SPANISH": "Habrá admirado",
+      "ENGLISH": "He will have admired"
     },
     "ELLOS": {
-      "SPANISH": "habrán admirado",
-      "ENGLISH": "they will have admired, you (plural formal) will have admired"
+      "SPANISH": "Habrán admirado",
+      "ENGLISH": "They will have admired"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos admirado",
-      "ENGLISH": "we will have admired"
+      "SPANISH": "Habremos admirado",
+      "ENGLISH": "We will have admired"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis admirado",
-      "ENGLISH": "you (plural) will have admired"
+      "SPANISH": "Habréis admirado",
+      "ENGLISH": "You will have admired"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "admiraría",
+      "SPANISH": "Admiraría",
       "ENGLISH": "I would admire"
     },
     "TU": {
-      "SPANISH": "admirarías",
-      "ENGLISH": "you would admire"
+      "SPANISH": "Admirarías",
+      "ENGLISH": "You would admire"
     },
     "EL": {
-      "SPANISH": "admiraría",
-      "ENGLISH": "s/he would admire, you (formal) would admire"
+      "SPANISH": "Admiraría",
+      "ENGLISH": "He would admire"
     },
     "ELLOS": {
-      "SPANISH": "admirarían",
-      "ENGLISH": "they would admire, you (plural formal) would admire"
+      "SPANISH": "Admirarían",
+      "ENGLISH": "They would admire"
     },
     "NOSOTROS": {
-      "SPANISH": "admiraríamos",
-      "ENGLISH": "we would admire"
+      "SPANISH": "Admiraríamos",
+      "ENGLISH": "We would admire"
     },
     "VOSOTROS": {
-      "SPANISH": "admiraríais",
-      "ENGLISH": "you (plural) would admire"
+      "SPANISH": "Admiraríais",
+      "ENGLISH": "You would admire"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría admirado",
+      "SPANISH": "Habría admirado",
       "ENGLISH": "I would have admired"
     },
     "TU": {
-      "SPANISH": "habrías admirado",
-      "ENGLISH": "you would have admired"
+      "SPANISH": "Habrías admirado",
+      "ENGLISH": "You would have admired"
     },
     "EL": {
-      "SPANISH": "habría admirado",
-      "ENGLISH": "s/he would have admired, you (formal) would have admired"
+      "SPANISH": "Habría admirado",
+      "ENGLISH": "He would have admired"
     },
     "ELLOS": {
-      "SPANISH": "habrían admirado",
-      "ENGLISH": "they would have admired, you (plural formal) would have admired"
+      "SPANISH": "Habrían admirado",
+      "ENGLISH": "They would have admired"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos admirado",
-      "ENGLISH": "we would have admired"
+      "SPANISH": "Habríamos admirado",
+      "ENGLISH": "We would have admired"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais admirado",
-      "ENGLISH": "you (plural) would have admired"
+      "SPANISH": "Habríais admirado",
+      "ENGLISH": "You would have admired"
     }
   }
 }

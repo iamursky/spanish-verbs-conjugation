@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "prohíbo ",
+      "SPANISH": "Prohíbo ",
       "ENGLISH": "I ban"
     },
     "TU": {
-      "SPANISH": "prohíbes ",
-      "ENGLISH": "you ban"
+      "SPANISH": "Prohíbes ",
+      "ENGLISH": "You ban"
     },
     "EL": {
-      "SPANISH": "prohíbe ",
-      "ENGLISH": "s/he bans, you (formal) bans"
+      "SPANISH": "Prohíbe ",
+      "ENGLISH": "He bans"
     },
     "ELLOS": {
-      "SPANISH": "prohíben ",
-      "ENGLISH": "they ban, you (plural formal) ban"
+      "SPANISH": "Prohíben ",
+      "ENGLISH": "They ban"
     },
     "NOSOTROS": {
-      "SPANISH": "prohibimos",
-      "ENGLISH": "we ban"
+      "SPANISH": "Prohibimos",
+      "ENGLISH": "We ban"
     },
     "VOSOTROS": {
-      "SPANISH": "prohibís",
-      "ENGLISH": "you (plural) ban"
+      "SPANISH": "Prohibís",
+      "ENGLISH": "You ban"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he prohibido",
+      "SPANISH": "He prohibido",
       "ENGLISH": "I have banned"
     },
     "TU": {
-      "SPANISH": "has prohibido",
-      "ENGLISH": "you have banned"
+      "SPANISH": "Has prohibido",
+      "ENGLISH": "You have banned"
     },
     "EL": {
-      "SPANISH": "ha prohibido",
-      "ENGLISH": "s/he has banned, you (formal) have banned"
+      "SPANISH": "Ha prohibido",
+      "ENGLISH": "He has banned"
     },
     "ELLOS": {
-      "SPANISH": "han prohibido",
-      "ENGLISH": "they have banned, you (plural formal) have banned"
+      "SPANISH": "Han prohibido",
+      "ENGLISH": "They have banned"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos prohibido",
-      "ENGLISH": "we have banned"
+      "SPANISH": "Hemos prohibido",
+      "ENGLISH": "We have banned"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis prohibido",
-      "ENGLISH": "you (plural) have banned"
+      "SPANISH": "Habéis prohibido",
+      "ENGLISH": "You have banned"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "prohibí",
+      "SPANISH": "Prohibí",
       "ENGLISH": "I banned"
     },
     "TU": {
-      "SPANISH": "prohibiste",
-      "ENGLISH": "you banned"
+      "SPANISH": "Prohibiste",
+      "ENGLISH": "You banned"
     },
     "EL": {
-      "SPANISH": "prohibió",
-      "ENGLISH": "s/he banned, you (formal) banned"
+      "SPANISH": "Prohibió",
+      "ENGLISH": "He banned"
     },
     "ELLOS": {
-      "SPANISH": "prohibieron",
-      "ENGLISH": "they banned, you (plural formal) banned"
+      "SPANISH": "Prohibieron",
+      "ENGLISH": "They banned"
     },
     "NOSOTROS": {
-      "SPANISH": "prohibimos",
-      "ENGLISH": "we banned"
+      "SPANISH": "Prohibimos",
+      "ENGLISH": "We banned"
     },
     "VOSOTROS": {
-      "SPANISH": "prohibisteis",
-      "ENGLISH": "you (plural) banned"
+      "SPANISH": "Prohibisteis",
+      "ENGLISH": "You banned"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había prohibido",
+      "SPANISH": "Había prohibido",
       "ENGLISH": "I had banned"
     },
     "TU": {
-      "SPANISH": "habías prohibido",
-      "ENGLISH": "you had banned"
+      "SPANISH": "Habías prohibido",
+      "ENGLISH": "You had banned"
     },
     "EL": {
-      "SPANISH": "había prohibido",
-      "ENGLISH": "s/he had banned, you (formal) had banned"
+      "SPANISH": "Había prohibido",
+      "ENGLISH": "He had banned"
     },
     "ELLOS": {
-      "SPANISH": "habían prohibido",
-      "ENGLISH": "they had banned, you (plural formal) had banned"
+      "SPANISH": "Habían prohibido",
+      "ENGLISH": "They had banned"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos prohibido",
-      "ENGLISH": "we had banned"
+      "SPANISH": "Habíamos prohibido",
+      "ENGLISH": "We had banned"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais prohibido",
-      "ENGLISH": "you (plural) had banned"
+      "SPANISH": "Habíais prohibido",
+      "ENGLISH": "You had banned"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "prohibí",
+      "SPANISH": "Prohibí",
       "ENGLISH": "I banned"
     },
     "TU": {
-      "SPANISH": "prohibiste",
-      "ENGLISH": "you banned"
+      "SPANISH": "Prohibiste",
+      "ENGLISH": "You banned"
     },
     "EL": {
-      "SPANISH": "prohibió",
-      "ENGLISH": "s/he banned, you (formal) banned"
+      "SPANISH": "Prohibió",
+      "ENGLISH": "He banned"
     },
     "ELLOS": {
-      "SPANISH": "prohibieron",
-      "ENGLISH": "they banned, you (plural formal) banned"
+      "SPANISH": "Prohibieron",
+      "ENGLISH": "They banned"
     },
     "NOSOTROS": {
-      "SPANISH": "prohibimos",
-      "ENGLISH": "we banned"
+      "SPANISH": "Prohibimos",
+      "ENGLISH": "We banned"
     },
     "VOSOTROS": {
-      "SPANISH": "prohibisteis",
-      "ENGLISH": "you (plural) banned"
+      "SPANISH": "Prohibisteis",
+      "ENGLISH": "You banned"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "prohibiré",
+      "SPANISH": "Prohibiré",
       "ENGLISH": "I will ban"
     },
     "TU": {
-      "SPANISH": "prohibirás",
-      "ENGLISH": "you will ban"
+      "SPANISH": "Prohibirás",
+      "ENGLISH": "You will ban"
     },
     "EL": {
-      "SPANISH": "prohibirá",
-      "ENGLISH": "s/he will ban, you (formal) will ban"
+      "SPANISH": "Prohibirá",
+      "ENGLISH": "He will ban"
     },
     "ELLOS": {
-      "SPANISH": "prohibirán",
-      "ENGLISH": "they will ban, you (plural formal) will ban"
+      "SPANISH": "Prohibirán",
+      "ENGLISH": "They will ban"
     },
     "NOSOTROS": {
-      "SPANISH": "prohibiremos",
-      "ENGLISH": "we will ban"
+      "SPANISH": "Prohibiremos",
+      "ENGLISH": "We will ban"
     },
     "VOSOTROS": {
-      "SPANISH": "prohibiréis",
-      "ENGLISH": "you (plural) will ban"
+      "SPANISH": "Prohibiréis",
+      "ENGLISH": "You will ban"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré prohibido",
+      "SPANISH": "Habré prohibido",
       "ENGLISH": "I will have banned"
     },
     "TU": {
-      "SPANISH": "habrás prohibido",
-      "ENGLISH": "you will have banned"
+      "SPANISH": "Habrás prohibido",
+      "ENGLISH": "You will have banned"
     },
     "EL": {
-      "SPANISH": "habrá prohibido",
-      "ENGLISH": "s/he will have banned, you (formal) will have banned"
+      "SPANISH": "Habrá prohibido",
+      "ENGLISH": "He will have banned"
     },
     "ELLOS": {
-      "SPANISH": "habrán prohibido",
-      "ENGLISH": "they will have banned, you (plural formal) will have banned"
+      "SPANISH": "Habrán prohibido",
+      "ENGLISH": "They will have banned"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos prohibido",
-      "ENGLISH": "we will have banned"
+      "SPANISH": "Habremos prohibido",
+      "ENGLISH": "We will have banned"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis prohibido",
-      "ENGLISH": "you (plural) will have banned"
+      "SPANISH": "Habréis prohibido",
+      "ENGLISH": "You will have banned"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "prohibiría",
+      "SPANISH": "Prohibiría",
       "ENGLISH": "I would ban"
     },
     "TU": {
-      "SPANISH": "prohibirías",
-      "ENGLISH": "you would ban"
+      "SPANISH": "Prohibirías",
+      "ENGLISH": "You would ban"
     },
     "EL": {
-      "SPANISH": "prohibiría",
-      "ENGLISH": "s/he would ban, you (formal) would ban"
+      "SPANISH": "Prohibiría",
+      "ENGLISH": "He would ban"
     },
     "ELLOS": {
-      "SPANISH": "prohibirían",
-      "ENGLISH": "they would ban, you (plural formal) would ban"
+      "SPANISH": "Prohibirían",
+      "ENGLISH": "They would ban"
     },
     "NOSOTROS": {
-      "SPANISH": "prohibiríamos",
-      "ENGLISH": "we would ban"
+      "SPANISH": "Prohibiríamos",
+      "ENGLISH": "We would ban"
     },
     "VOSOTROS": {
-      "SPANISH": "prohibiríais",
-      "ENGLISH": "you (plural) would ban"
+      "SPANISH": "Prohibiríais",
+      "ENGLISH": "You would ban"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría prohibido",
+      "SPANISH": "Habría prohibido",
       "ENGLISH": "I would have banned"
     },
     "TU": {
-      "SPANISH": "habrías prohibido",
-      "ENGLISH": "you would have banned"
+      "SPANISH": "Habrías prohibido",
+      "ENGLISH": "You would have banned"
     },
     "EL": {
-      "SPANISH": "habría prohibido",
-      "ENGLISH": "s/he would have banned, you (formal) would have banned"
+      "SPANISH": "Habría prohibido",
+      "ENGLISH": "He would have banned"
     },
     "ELLOS": {
-      "SPANISH": "habrían prohibido",
-      "ENGLISH": "they would have banned, you (plural formal) would have banned"
+      "SPANISH": "Habrían prohibido",
+      "ENGLISH": "They would have banned"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos prohibido",
-      "ENGLISH": "we would have banned"
+      "SPANISH": "Habríamos prohibido",
+      "ENGLISH": "We would have banned"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais prohibido",
-      "ENGLISH": "you (plural) would have banned"
+      "SPANISH": "Habríais prohibido",
+      "ENGLISH": "You would have banned"
     }
   }
 }

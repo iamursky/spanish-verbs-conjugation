@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "valoro",
+      "SPANISH": "Valoro",
       "ENGLISH": "I value"
     },
     "TU": {
-      "SPANISH": "valoras",
-      "ENGLISH": "you value"
+      "SPANISH": "Valoras",
+      "ENGLISH": "You value"
     },
     "EL": {
-      "SPANISH": "valora",
-      "ENGLISH": "s/he values, you (formal) values"
+      "SPANISH": "Valora",
+      "ENGLISH": "He values"
     },
     "ELLOS": {
-      "SPANISH": "valoran",
-      "ENGLISH": "they value, you (plural formal) value"
+      "SPANISH": "Valoran",
+      "ENGLISH": "They value"
     },
     "NOSOTROS": {
-      "SPANISH": "valoramos",
-      "ENGLISH": "we value"
+      "SPANISH": "Valoramos",
+      "ENGLISH": "We value"
     },
     "VOSOTROS": {
-      "SPANISH": "valoráis",
-      "ENGLISH": "you (plural) value"
+      "SPANISH": "Valoráis",
+      "ENGLISH": "You value"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he valorado",
+      "SPANISH": "He valorado",
       "ENGLISH": "I have valued"
     },
     "TU": {
-      "SPANISH": "has valorado",
-      "ENGLISH": "you have valued"
+      "SPANISH": "Has valorado",
+      "ENGLISH": "You have valued"
     },
     "EL": {
-      "SPANISH": "ha valorado",
-      "ENGLISH": "s/he has valued, you (formal) have valued"
+      "SPANISH": "Ha valorado",
+      "ENGLISH": "He has valued"
     },
     "ELLOS": {
-      "SPANISH": "han valorado",
-      "ENGLISH": "they have valued, you (plural formal) have valued"
+      "SPANISH": "Han valorado",
+      "ENGLISH": "They have valued"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos valorado",
-      "ENGLISH": "we have valued"
+      "SPANISH": "Hemos valorado",
+      "ENGLISH": "We have valued"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis valorado",
-      "ENGLISH": "you (plural) have valued"
+      "SPANISH": "Habéis valorado",
+      "ENGLISH": "You have valued"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "valoré",
+      "SPANISH": "Valoré",
       "ENGLISH": "I valued"
     },
     "TU": {
-      "SPANISH": "valoraste",
-      "ENGLISH": "you valued"
+      "SPANISH": "Valoraste",
+      "ENGLISH": "You valued"
     },
     "EL": {
-      "SPANISH": "valoró",
-      "ENGLISH": "s/he valued, you (formal) valued"
+      "SPANISH": "Valoró",
+      "ENGLISH": "He valued"
     },
     "ELLOS": {
-      "SPANISH": "valoraron",
-      "ENGLISH": "they valued, you (plural formal) valued"
+      "SPANISH": "Valoraron",
+      "ENGLISH": "They valued"
     },
     "NOSOTROS": {
-      "SPANISH": "valoramos",
-      "ENGLISH": "we valued"
+      "SPANISH": "Valoramos",
+      "ENGLISH": "We valued"
     },
     "VOSOTROS": {
-      "SPANISH": "valorasteis",
-      "ENGLISH": "you (plural) valued"
+      "SPANISH": "Valorasteis",
+      "ENGLISH": "You valued"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había valorado",
+      "SPANISH": "Había valorado",
       "ENGLISH": "I had valued"
     },
     "TU": {
-      "SPANISH": "habías valorado",
-      "ENGLISH": "you had valued"
+      "SPANISH": "Habías valorado",
+      "ENGLISH": "You had valued"
     },
     "EL": {
-      "SPANISH": "había valorado",
-      "ENGLISH": "s/he had valued, you (formal) had valued"
+      "SPANISH": "Había valorado",
+      "ENGLISH": "He had valued"
     },
     "ELLOS": {
-      "SPANISH": "habían valorado",
-      "ENGLISH": "they had valued, you (plural formal) had valued"
+      "SPANISH": "Habían valorado",
+      "ENGLISH": "They had valued"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos valorado",
-      "ENGLISH": "we had valued"
+      "SPANISH": "Habíamos valorado",
+      "ENGLISH": "We had valued"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais valorado",
-      "ENGLISH": "you (plural) had valued"
+      "SPANISH": "Habíais valorado",
+      "ENGLISH": "You had valued"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "valoré",
+      "SPANISH": "Valoré",
       "ENGLISH": "I valued"
     },
     "TU": {
-      "SPANISH": "valoraste",
-      "ENGLISH": "you valued"
+      "SPANISH": "Valoraste",
+      "ENGLISH": "You valued"
     },
     "EL": {
-      "SPANISH": "valoró",
-      "ENGLISH": "s/he valued, you (formal) valued"
+      "SPANISH": "Valoró",
+      "ENGLISH": "He valued"
     },
     "ELLOS": {
-      "SPANISH": "valoraron",
-      "ENGLISH": "they valued, you (plural formal) valued"
+      "SPANISH": "Valoraron",
+      "ENGLISH": "They valued"
     },
     "NOSOTROS": {
-      "SPANISH": "valoramos",
-      "ENGLISH": "we valued"
+      "SPANISH": "Valoramos",
+      "ENGLISH": "We valued"
     },
     "VOSOTROS": {
-      "SPANISH": "valorasteis",
-      "ENGLISH": "you (plural) valued"
+      "SPANISH": "Valorasteis",
+      "ENGLISH": "You valued"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "valoraré",
+      "SPANISH": "Valoraré",
       "ENGLISH": "I will value"
     },
     "TU": {
-      "SPANISH": "valorarás",
-      "ENGLISH": "you will value"
+      "SPANISH": "Valorarás",
+      "ENGLISH": "You will value"
     },
     "EL": {
-      "SPANISH": "valorará",
-      "ENGLISH": "s/he will value, you (formal) will value"
+      "SPANISH": "Valorará",
+      "ENGLISH": "He will value"
     },
     "ELLOS": {
-      "SPANISH": "valorarán",
-      "ENGLISH": "they will value, you (plural formal) will value"
+      "SPANISH": "Valorarán",
+      "ENGLISH": "They will value"
     },
     "NOSOTROS": {
-      "SPANISH": "valoraremos",
-      "ENGLISH": "we will value"
+      "SPANISH": "Valoraremos",
+      "ENGLISH": "We will value"
     },
     "VOSOTROS": {
-      "SPANISH": "valoraréis",
-      "ENGLISH": "you (plural) will value"
+      "SPANISH": "Valoraréis",
+      "ENGLISH": "You will value"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré valorado",
+      "SPANISH": "Habré valorado",
       "ENGLISH": "I will have valued"
     },
     "TU": {
-      "SPANISH": "habrás valorado",
-      "ENGLISH": "you will have valued"
+      "SPANISH": "Habrás valorado",
+      "ENGLISH": "You will have valued"
     },
     "EL": {
-      "SPANISH": "habrá valorado",
-      "ENGLISH": "s/he will have valued, you (formal) will have valued"
+      "SPANISH": "Habrá valorado",
+      "ENGLISH": "He will have valued"
     },
     "ELLOS": {
-      "SPANISH": "habrán valorado",
-      "ENGLISH": "they will have valued, you (plural formal) will have valued"
+      "SPANISH": "Habrán valorado",
+      "ENGLISH": "They will have valued"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos valorado",
-      "ENGLISH": "we will have valued"
+      "SPANISH": "Habremos valorado",
+      "ENGLISH": "We will have valued"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis valorado",
-      "ENGLISH": "you (plural) will have valued"
+      "SPANISH": "Habréis valorado",
+      "ENGLISH": "You will have valued"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "valoraría",
+      "SPANISH": "Valoraría",
       "ENGLISH": "I would value"
     },
     "TU": {
-      "SPANISH": "valorarías",
-      "ENGLISH": "you would value"
+      "SPANISH": "Valorarías",
+      "ENGLISH": "You would value"
     },
     "EL": {
-      "SPANISH": "valoraría",
-      "ENGLISH": "s/he would value, you (formal) would value"
+      "SPANISH": "Valoraría",
+      "ENGLISH": "He would value"
     },
     "ELLOS": {
-      "SPANISH": "valorarían",
-      "ENGLISH": "they would value, you (plural formal) would value"
+      "SPANISH": "Valorarían",
+      "ENGLISH": "They would value"
     },
     "NOSOTROS": {
-      "SPANISH": "valoraríamos",
-      "ENGLISH": "we would value"
+      "SPANISH": "Valoraríamos",
+      "ENGLISH": "We would value"
     },
     "VOSOTROS": {
-      "SPANISH": "valoraríais",
-      "ENGLISH": "you (plural) would value"
+      "SPANISH": "Valoraríais",
+      "ENGLISH": "You would value"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría valorado",
+      "SPANISH": "Habría valorado",
       "ENGLISH": "I would have valued"
     },
     "TU": {
-      "SPANISH": "habrías valorado",
-      "ENGLISH": "you would have valued"
+      "SPANISH": "Habrías valorado",
+      "ENGLISH": "You would have valued"
     },
     "EL": {
-      "SPANISH": "habría valorado",
-      "ENGLISH": "s/he would have valued, you (formal) would have valued"
+      "SPANISH": "Habría valorado",
+      "ENGLISH": "He would have valued"
     },
     "ELLOS": {
-      "SPANISH": "habrían valorado",
-      "ENGLISH": "they would have valued, you (plural formal) would have valued"
+      "SPANISH": "Habrían valorado",
+      "ENGLISH": "They would have valued"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos valorado",
-      "ENGLISH": "we would have valued"
+      "SPANISH": "Habríamos valorado",
+      "ENGLISH": "We would have valued"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais valorado",
-      "ENGLISH": "you (plural) would have valued"
+      "SPANISH": "Habríais valorado",
+      "ENGLISH": "You would have valued"
     }
   }
 }

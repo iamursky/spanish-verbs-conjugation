@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "aprieto ",
+      "SPANISH": "Aprieto ",
       "ENGLISH": "I tighten"
     },
     "TU": {
-      "SPANISH": "aprietas ",
-      "ENGLISH": "you tighten"
+      "SPANISH": "Aprietas ",
+      "ENGLISH": "You tighten"
     },
     "EL": {
-      "SPANISH": "aprieta ",
-      "ENGLISH": "s/he tightens, you (formal) tightens"
+      "SPANISH": "Aprieta ",
+      "ENGLISH": "He tightens"
     },
     "ELLOS": {
-      "SPANISH": "aprietan ",
-      "ENGLISH": "they tighten, you (plural formal) tighten"
+      "SPANISH": "Aprietan ",
+      "ENGLISH": "They tighten"
     },
     "NOSOTROS": {
-      "SPANISH": "apretamos",
-      "ENGLISH": "we tighten"
+      "SPANISH": "Apretamos",
+      "ENGLISH": "We tighten"
     },
     "VOSOTROS": {
-      "SPANISH": "apretáis",
-      "ENGLISH": "you (plural) tighten"
+      "SPANISH": "Apretáis",
+      "ENGLISH": "You tighten"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he apretado",
+      "SPANISH": "He apretado",
       "ENGLISH": "I have tightened"
     },
     "TU": {
-      "SPANISH": "has apretado",
-      "ENGLISH": "you have tightened"
+      "SPANISH": "Has apretado",
+      "ENGLISH": "You have tightened"
     },
     "EL": {
-      "SPANISH": "ha apretado",
-      "ENGLISH": "s/he has tightened, you (formal) have tightened"
+      "SPANISH": "Ha apretado",
+      "ENGLISH": "He has tightened"
     },
     "ELLOS": {
-      "SPANISH": "han apretado",
-      "ENGLISH": "they have tightened, you (plural formal) have tightened"
+      "SPANISH": "Han apretado",
+      "ENGLISH": "They have tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos apretado",
-      "ENGLISH": "we have tightened"
+      "SPANISH": "Hemos apretado",
+      "ENGLISH": "We have tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis apretado",
-      "ENGLISH": "you (plural) have tightened"
+      "SPANISH": "Habéis apretado",
+      "ENGLISH": "You have tightened"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "apreté",
+      "SPANISH": "Apreté",
       "ENGLISH": "I tightened"
     },
     "TU": {
-      "SPANISH": "apretaste",
-      "ENGLISH": "you tightened"
+      "SPANISH": "Apretaste",
+      "ENGLISH": "You tightened"
     },
     "EL": {
-      "SPANISH": "apretó",
-      "ENGLISH": "s/he tightened, you (formal) tightened"
+      "SPANISH": "Apretó",
+      "ENGLISH": "He tightened"
     },
     "ELLOS": {
-      "SPANISH": "apretaron",
-      "ENGLISH": "they tightened, you (plural formal) tightened"
+      "SPANISH": "Apretaron",
+      "ENGLISH": "They tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "apretamos",
-      "ENGLISH": "we tightened"
+      "SPANISH": "Apretamos",
+      "ENGLISH": "We tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "apretasteis",
-      "ENGLISH": "you (plural) tightened"
+      "SPANISH": "Apretasteis",
+      "ENGLISH": "You tightened"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había apretado",
+      "SPANISH": "Había apretado",
       "ENGLISH": "I had tightened"
     },
     "TU": {
-      "SPANISH": "habías apretado",
-      "ENGLISH": "you had tightened"
+      "SPANISH": "Habías apretado",
+      "ENGLISH": "You had tightened"
     },
     "EL": {
-      "SPANISH": "había apretado",
-      "ENGLISH": "s/he had tightened, you (formal) had tightened"
+      "SPANISH": "Había apretado",
+      "ENGLISH": "He had tightened"
     },
     "ELLOS": {
-      "SPANISH": "habían apretado",
-      "ENGLISH": "they had tightened, you (plural formal) had tightened"
+      "SPANISH": "Habían apretado",
+      "ENGLISH": "They had tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos apretado",
-      "ENGLISH": "we had tightened"
+      "SPANISH": "Habíamos apretado",
+      "ENGLISH": "We had tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais apretado",
-      "ENGLISH": "you (plural) had tightened"
+      "SPANISH": "Habíais apretado",
+      "ENGLISH": "You had tightened"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "apreté",
+      "SPANISH": "Apreté",
       "ENGLISH": "I tightened"
     },
     "TU": {
-      "SPANISH": "apretaste",
-      "ENGLISH": "you tightened"
+      "SPANISH": "Apretaste",
+      "ENGLISH": "You tightened"
     },
     "EL": {
-      "SPANISH": "apretó",
-      "ENGLISH": "s/he tightened, you (formal) tightened"
+      "SPANISH": "Apretó",
+      "ENGLISH": "He tightened"
     },
     "ELLOS": {
-      "SPANISH": "apretaron",
-      "ENGLISH": "they tightened, you (plural formal) tightened"
+      "SPANISH": "Apretaron",
+      "ENGLISH": "They tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "apretamos",
-      "ENGLISH": "we tightened"
+      "SPANISH": "Apretamos",
+      "ENGLISH": "We tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "apretasteis",
-      "ENGLISH": "you (plural) tightened"
+      "SPANISH": "Apretasteis",
+      "ENGLISH": "You tightened"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "apretaré",
+      "SPANISH": "Apretaré",
       "ENGLISH": "I will tighten"
     },
     "TU": {
-      "SPANISH": "apretarás",
-      "ENGLISH": "you will tighten"
+      "SPANISH": "Apretarás",
+      "ENGLISH": "You will tighten"
     },
     "EL": {
-      "SPANISH": "apretará",
-      "ENGLISH": "s/he will tighten, you (formal) will tighten"
+      "SPANISH": "Apretará",
+      "ENGLISH": "He will tighten"
     },
     "ELLOS": {
-      "SPANISH": "apretarán",
-      "ENGLISH": "they will tighten, you (plural formal) will tighten"
+      "SPANISH": "Apretarán",
+      "ENGLISH": "They will tighten"
     },
     "NOSOTROS": {
-      "SPANISH": "apretaremos",
-      "ENGLISH": "we will tighten"
+      "SPANISH": "Apretaremos",
+      "ENGLISH": "We will tighten"
     },
     "VOSOTROS": {
-      "SPANISH": "apretaréis",
-      "ENGLISH": "you (plural) will tighten"
+      "SPANISH": "Apretaréis",
+      "ENGLISH": "You will tighten"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré apretado",
+      "SPANISH": "Habré apretado",
       "ENGLISH": "I will have tightened"
     },
     "TU": {
-      "SPANISH": "habrás apretado",
-      "ENGLISH": "you will have tightened"
+      "SPANISH": "Habrás apretado",
+      "ENGLISH": "You will have tightened"
     },
     "EL": {
-      "SPANISH": "habrá apretado",
-      "ENGLISH": "s/he will have tightened, you (formal) will have tightened"
+      "SPANISH": "Habrá apretado",
+      "ENGLISH": "He will have tightened"
     },
     "ELLOS": {
-      "SPANISH": "habrán apretado",
-      "ENGLISH": "they will have tightened, you (plural formal) will have tightened"
+      "SPANISH": "Habrán apretado",
+      "ENGLISH": "They will have tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos apretado",
-      "ENGLISH": "we will have tightened"
+      "SPANISH": "Habremos apretado",
+      "ENGLISH": "We will have tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis apretado",
-      "ENGLISH": "you (plural) will have tightened"
+      "SPANISH": "Habréis apretado",
+      "ENGLISH": "You will have tightened"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "apretaría",
+      "SPANISH": "Apretaría",
       "ENGLISH": "I would tighten"
     },
     "TU": {
-      "SPANISH": "apretarías",
-      "ENGLISH": "you would tighten"
+      "SPANISH": "Apretarías",
+      "ENGLISH": "You would tighten"
     },
     "EL": {
-      "SPANISH": "apretaría",
-      "ENGLISH": "s/he would tighten, you (formal) would tighten"
+      "SPANISH": "Apretaría",
+      "ENGLISH": "He would tighten"
     },
     "ELLOS": {
-      "SPANISH": "apretarían",
-      "ENGLISH": "they would tighten, you (plural formal) would tighten"
+      "SPANISH": "Apretarían",
+      "ENGLISH": "They would tighten"
     },
     "NOSOTROS": {
-      "SPANISH": "apretaríamos",
-      "ENGLISH": "we would tighten"
+      "SPANISH": "Apretaríamos",
+      "ENGLISH": "We would tighten"
     },
     "VOSOTROS": {
-      "SPANISH": "apretaríais",
-      "ENGLISH": "you (plural) would tighten"
+      "SPANISH": "Apretaríais",
+      "ENGLISH": "You would tighten"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría apretado",
+      "SPANISH": "Habría apretado",
       "ENGLISH": "I would have tightened"
     },
     "TU": {
-      "SPANISH": "habrías apretado",
-      "ENGLISH": "you would have tightened"
+      "SPANISH": "Habrías apretado",
+      "ENGLISH": "You would have tightened"
     },
     "EL": {
-      "SPANISH": "habría apretado",
-      "ENGLISH": "s/he would have tightened, you (formal) would have tightened"
+      "SPANISH": "Habría apretado",
+      "ENGLISH": "He would have tightened"
     },
     "ELLOS": {
-      "SPANISH": "habrían apretado",
-      "ENGLISH": "they would have tightened, you (plural formal) would have tightened"
+      "SPANISH": "Habrían apretado",
+      "ENGLISH": "They would have tightened"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos apretado",
-      "ENGLISH": "we would have tightened"
+      "SPANISH": "Habríamos apretado",
+      "ENGLISH": "We would have tightened"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais apretado",
-      "ENGLISH": "you (plural) would have tightened"
+      "SPANISH": "Habríais apretado",
+      "ENGLISH": "You would have tightened"
     }
   }
 }

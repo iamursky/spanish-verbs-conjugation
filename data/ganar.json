@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "gano",
+      "SPANISH": "Gano",
       "ENGLISH": "I win"
     },
     "TU": {
-      "SPANISH": "ganas",
-      "ENGLISH": "you win"
+      "SPANISH": "Ganas",
+      "ENGLISH": "You win"
     },
     "EL": {
-      "SPANISH": "gana",
-      "ENGLISH": "s/he wins, you (formal) wins"
+      "SPANISH": "Gana",
+      "ENGLISH": "He wins"
     },
     "ELLOS": {
-      "SPANISH": "ganan",
-      "ENGLISH": "they win, you (plural formal) win"
+      "SPANISH": "Ganan",
+      "ENGLISH": "They win"
     },
     "NOSOTROS": {
-      "SPANISH": "ganamos",
-      "ENGLISH": "we win"
+      "SPANISH": "Ganamos",
+      "ENGLISH": "We win"
     },
     "VOSOTROS": {
-      "SPANISH": "ganáis",
-      "ENGLISH": "you (plural) win"
+      "SPANISH": "Ganáis",
+      "ENGLISH": "You win"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he ganado",
+      "SPANISH": "He ganado",
       "ENGLISH": "I have won"
     },
     "TU": {
-      "SPANISH": "has ganado",
-      "ENGLISH": "you have won"
+      "SPANISH": "Has ganado",
+      "ENGLISH": "You have won"
     },
     "EL": {
-      "SPANISH": "ha ganado",
-      "ENGLISH": "s/he has won, you (formal) have won"
+      "SPANISH": "Ha ganado",
+      "ENGLISH": "He has won"
     },
     "ELLOS": {
-      "SPANISH": "han ganado",
-      "ENGLISH": "they have won, you (plural formal) have won"
+      "SPANISH": "Han ganado",
+      "ENGLISH": "They have won"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos ganado",
-      "ENGLISH": "we have won"
+      "SPANISH": "Hemos ganado",
+      "ENGLISH": "We have won"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis ganado",
-      "ENGLISH": "you (plural) have won"
+      "SPANISH": "Habéis ganado",
+      "ENGLISH": "You have won"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "gané",
+      "SPANISH": "Gané",
       "ENGLISH": "I won"
     },
     "TU": {
-      "SPANISH": "ganaste",
-      "ENGLISH": "you won"
+      "SPANISH": "Ganaste",
+      "ENGLISH": "You won"
     },
     "EL": {
-      "SPANISH": "ganó",
-      "ENGLISH": "s/he won, you (formal) won"
+      "SPANISH": "Ganó",
+      "ENGLISH": "He won"
     },
     "ELLOS": {
-      "SPANISH": "ganaron",
-      "ENGLISH": "they won, you (plural formal) won"
+      "SPANISH": "Ganaron",
+      "ENGLISH": "They won"
     },
     "NOSOTROS": {
-      "SPANISH": "ganamos",
-      "ENGLISH": "we won"
+      "SPANISH": "Ganamos",
+      "ENGLISH": "We won"
     },
     "VOSOTROS": {
-      "SPANISH": "ganasteis",
-      "ENGLISH": "you (plural) won"
+      "SPANISH": "Ganasteis",
+      "ENGLISH": "You won"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había ganado",
+      "SPANISH": "Había ganado",
       "ENGLISH": "I had won"
     },
     "TU": {
-      "SPANISH": "habías ganado",
-      "ENGLISH": "you had won"
+      "SPANISH": "Habías ganado",
+      "ENGLISH": "You had won"
     },
     "EL": {
-      "SPANISH": "había ganado",
-      "ENGLISH": "s/he had won, you (formal) had won"
+      "SPANISH": "Había ganado",
+      "ENGLISH": "He had won"
     },
     "ELLOS": {
-      "SPANISH": "habían ganado",
-      "ENGLISH": "they had won, you (plural formal) had won"
+      "SPANISH": "Habían ganado",
+      "ENGLISH": "They had won"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos ganado",
-      "ENGLISH": "we had won"
+      "SPANISH": "Habíamos ganado",
+      "ENGLISH": "We had won"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais ganado",
-      "ENGLISH": "you (plural) had won"
+      "SPANISH": "Habíais ganado",
+      "ENGLISH": "You had won"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "gané",
+      "SPANISH": "Gané",
       "ENGLISH": "I won"
     },
     "TU": {
-      "SPANISH": "ganaste",
-      "ENGLISH": "you won"
+      "SPANISH": "Ganaste",
+      "ENGLISH": "You won"
     },
     "EL": {
-      "SPANISH": "ganó",
-      "ENGLISH": "s/he won, you (formal) won"
+      "SPANISH": "Ganó",
+      "ENGLISH": "He won"
     },
     "ELLOS": {
-      "SPANISH": "ganaron",
-      "ENGLISH": "they won, you (plural formal) won"
+      "SPANISH": "Ganaron",
+      "ENGLISH": "They won"
     },
     "NOSOTROS": {
-      "SPANISH": "ganamos",
-      "ENGLISH": "we won"
+      "SPANISH": "Ganamos",
+      "ENGLISH": "We won"
     },
     "VOSOTROS": {
-      "SPANISH": "ganasteis",
-      "ENGLISH": "you (plural) won"
+      "SPANISH": "Ganasteis",
+      "ENGLISH": "You won"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "ganaré",
+      "SPANISH": "Ganaré",
       "ENGLISH": "I will win"
     },
     "TU": {
-      "SPANISH": "ganarás",
-      "ENGLISH": "you will win"
+      "SPANISH": "Ganarás",
+      "ENGLISH": "You will win"
     },
     "EL": {
-      "SPANISH": "ganará",
-      "ENGLISH": "s/he will win, you (formal) will win"
+      "SPANISH": "Ganará",
+      "ENGLISH": "He will win"
     },
     "ELLOS": {
-      "SPANISH": "ganarán",
-      "ENGLISH": "they will win, you (plural formal) will win"
+      "SPANISH": "Ganarán",
+      "ENGLISH": "They will win"
     },
     "NOSOTROS": {
-      "SPANISH": "ganaremos",
-      "ENGLISH": "we will win"
+      "SPANISH": "Ganaremos",
+      "ENGLISH": "We will win"
     },
     "VOSOTROS": {
-      "SPANISH": "ganaréis",
-      "ENGLISH": "you (plural) will win"
+      "SPANISH": "Ganaréis",
+      "ENGLISH": "You will win"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré ganado",
+      "SPANISH": "Habré ganado",
       "ENGLISH": "I will have won"
     },
     "TU": {
-      "SPANISH": "habrás ganado",
-      "ENGLISH": "you will have won"
+      "SPANISH": "Habrás ganado",
+      "ENGLISH": "You will have won"
     },
     "EL": {
-      "SPANISH": "habrá ganado",
-      "ENGLISH": "s/he will have won, you (formal) will have won"
+      "SPANISH": "Habrá ganado",
+      "ENGLISH": "He will have won"
     },
     "ELLOS": {
-      "SPANISH": "habrán ganado",
-      "ENGLISH": "they will have won, you (plural formal) will have won"
+      "SPANISH": "Habrán ganado",
+      "ENGLISH": "They will have won"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos ganado",
-      "ENGLISH": "we will have won"
+      "SPANISH": "Habremos ganado",
+      "ENGLISH": "We will have won"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis ganado",
-      "ENGLISH": "you (plural) will have won"
+      "SPANISH": "Habréis ganado",
+      "ENGLISH": "You will have won"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "ganaría",
+      "SPANISH": "Ganaría",
       "ENGLISH": "I would win"
     },
     "TU": {
-      "SPANISH": "ganarías",
-      "ENGLISH": "you would win"
+      "SPANISH": "Ganarías",
+      "ENGLISH": "You would win"
     },
     "EL": {
-      "SPANISH": "ganaría",
-      "ENGLISH": "s/he would win, you (formal) would win"
+      "SPANISH": "Ganaría",
+      "ENGLISH": "He would win"
     },
     "ELLOS": {
-      "SPANISH": "ganarían",
-      "ENGLISH": "they would win, you (plural formal) would win"
+      "SPANISH": "Ganarían",
+      "ENGLISH": "They would win"
     },
     "NOSOTROS": {
-      "SPANISH": "ganaríamos",
-      "ENGLISH": "we would win"
+      "SPANISH": "Ganaríamos",
+      "ENGLISH": "We would win"
     },
     "VOSOTROS": {
-      "SPANISH": "ganaríais",
-      "ENGLISH": "you (plural) would win"
+      "SPANISH": "Ganaríais",
+      "ENGLISH": "You would win"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría ganado",
+      "SPANISH": "Habría ganado",
       "ENGLISH": "I would have won"
     },
     "TU": {
-      "SPANISH": "habrías ganado",
-      "ENGLISH": "you would have won"
+      "SPANISH": "Habrías ganado",
+      "ENGLISH": "You would have won"
     },
     "EL": {
-      "SPANISH": "habría ganado",
-      "ENGLISH": "s/he would have won, you (formal) would have won"
+      "SPANISH": "Habría ganado",
+      "ENGLISH": "He would have won"
     },
     "ELLOS": {
-      "SPANISH": "habrían ganado",
-      "ENGLISH": "they would have won, you (plural formal) would have won"
+      "SPANISH": "Habrían ganado",
+      "ENGLISH": "They would have won"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos ganado",
-      "ENGLISH": "we would have won"
+      "SPANISH": "Habríamos ganado",
+      "ENGLISH": "We would have won"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais ganado",
-      "ENGLISH": "you (plural) would have won"
+      "SPANISH": "Habríais ganado",
+      "ENGLISH": "You would have won"
     }
   }
 }

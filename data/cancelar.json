@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cancelo",
+      "SPANISH": "Cancelo",
       "ENGLISH": "I cancel"
     },
     "TU": {
-      "SPANISH": "cancelas",
-      "ENGLISH": "you cancel"
+      "SPANISH": "Cancelas",
+      "ENGLISH": "You cancel"
     },
     "EL": {
-      "SPANISH": "cancela",
-      "ENGLISH": "s/he cancels, you (formal) cancels"
+      "SPANISH": "Cancela",
+      "ENGLISH": "He cancels"
     },
     "ELLOS": {
-      "SPANISH": "cancelan",
-      "ENGLISH": "they cancel, you (plural formal) cancel"
+      "SPANISH": "Cancelan",
+      "ENGLISH": "They cancel"
     },
     "NOSOTROS": {
-      "SPANISH": "cancelamos",
-      "ENGLISH": "we cancel"
+      "SPANISH": "Cancelamos",
+      "ENGLISH": "We cancel"
     },
     "VOSOTROS": {
-      "SPANISH": "canceláis",
-      "ENGLISH": "you (plural) cancel"
+      "SPANISH": "Canceláis",
+      "ENGLISH": "You cancel"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cancelado",
+      "SPANISH": "He cancelado",
       "ENGLISH": "I have cancelled"
     },
     "TU": {
-      "SPANISH": "has cancelado",
-      "ENGLISH": "you have cancelled"
+      "SPANISH": "Has cancelado",
+      "ENGLISH": "You have cancelled"
     },
     "EL": {
-      "SPANISH": "ha cancelado",
-      "ENGLISH": "s/he has cancelled, you (formal) have cancelled"
+      "SPANISH": "Ha cancelado",
+      "ENGLISH": "He has cancelled"
     },
     "ELLOS": {
-      "SPANISH": "han cancelado",
-      "ENGLISH": "they have cancelled, you (plural formal) have cancelled"
+      "SPANISH": "Han cancelado",
+      "ENGLISH": "They have cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cancelado",
-      "ENGLISH": "we have cancelled"
+      "SPANISH": "Hemos cancelado",
+      "ENGLISH": "We have cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cancelado",
-      "ENGLISH": "you (plural) have cancelled"
+      "SPANISH": "Habéis cancelado",
+      "ENGLISH": "You have cancelled"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cancelé",
+      "SPANISH": "Cancelé",
       "ENGLISH": "I cancelled"
     },
     "TU": {
-      "SPANISH": "cancelaste",
-      "ENGLISH": "you cancelled"
+      "SPANISH": "Cancelaste",
+      "ENGLISH": "You cancelled"
     },
     "EL": {
-      "SPANISH": "canceló",
-      "ENGLISH": "s/he cancelled, you (formal) cancelled"
+      "SPANISH": "Canceló",
+      "ENGLISH": "He cancelled"
     },
     "ELLOS": {
-      "SPANISH": "cancelaron",
-      "ENGLISH": "they cancelled, you (plural formal) cancelled"
+      "SPANISH": "Cancelaron",
+      "ENGLISH": "They cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "cancelamos",
-      "ENGLISH": "we cancelled"
+      "SPANISH": "Cancelamos",
+      "ENGLISH": "We cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "cancelasteis",
-      "ENGLISH": "you (plural) cancelled"
+      "SPANISH": "Cancelasteis",
+      "ENGLISH": "You cancelled"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cancelado",
+      "SPANISH": "Había cancelado",
       "ENGLISH": "I had cancelled"
     },
     "TU": {
-      "SPANISH": "habías cancelado",
-      "ENGLISH": "you had cancelled"
+      "SPANISH": "Habías cancelado",
+      "ENGLISH": "You had cancelled"
     },
     "EL": {
-      "SPANISH": "había cancelado",
-      "ENGLISH": "s/he had cancelled, you (formal) had cancelled"
+      "SPANISH": "Había cancelado",
+      "ENGLISH": "He had cancelled"
     },
     "ELLOS": {
-      "SPANISH": "habían cancelado",
-      "ENGLISH": "they had cancelled, you (plural formal) had cancelled"
+      "SPANISH": "Habían cancelado",
+      "ENGLISH": "They had cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cancelado",
-      "ENGLISH": "we had cancelled"
+      "SPANISH": "Habíamos cancelado",
+      "ENGLISH": "We had cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cancelado",
-      "ENGLISH": "you (plural) had cancelled"
+      "SPANISH": "Habíais cancelado",
+      "ENGLISH": "You had cancelled"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cancelé",
+      "SPANISH": "Cancelé",
       "ENGLISH": "I cancelled"
     },
     "TU": {
-      "SPANISH": "cancelaste",
-      "ENGLISH": "you cancelled"
+      "SPANISH": "Cancelaste",
+      "ENGLISH": "You cancelled"
     },
     "EL": {
-      "SPANISH": "canceló",
-      "ENGLISH": "s/he cancelled, you (formal) cancelled"
+      "SPANISH": "Canceló",
+      "ENGLISH": "He cancelled"
     },
     "ELLOS": {
-      "SPANISH": "cancelaron",
-      "ENGLISH": "they cancelled, you (plural formal) cancelled"
+      "SPANISH": "Cancelaron",
+      "ENGLISH": "They cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "cancelamos",
-      "ENGLISH": "we cancelled"
+      "SPANISH": "Cancelamos",
+      "ENGLISH": "We cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "cancelasteis",
-      "ENGLISH": "you (plural) cancelled"
+      "SPANISH": "Cancelasteis",
+      "ENGLISH": "You cancelled"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cancelaré",
+      "SPANISH": "Cancelaré",
       "ENGLISH": "I will cancel"
     },
     "TU": {
-      "SPANISH": "cancelarás",
-      "ENGLISH": "you will cancel"
+      "SPANISH": "Cancelarás",
+      "ENGLISH": "You will cancel"
     },
     "EL": {
-      "SPANISH": "cancelará",
-      "ENGLISH": "s/he will cancel, you (formal) will cancel"
+      "SPANISH": "Cancelará",
+      "ENGLISH": "He will cancel"
     },
     "ELLOS": {
-      "SPANISH": "cancelarán",
-      "ENGLISH": "they will cancel, you (plural formal) will cancel"
+      "SPANISH": "Cancelarán",
+      "ENGLISH": "They will cancel"
     },
     "NOSOTROS": {
-      "SPANISH": "cancelaremos",
-      "ENGLISH": "we will cancel"
+      "SPANISH": "Cancelaremos",
+      "ENGLISH": "We will cancel"
     },
     "VOSOTROS": {
-      "SPANISH": "cancelaréis",
-      "ENGLISH": "you (plural) will cancel"
+      "SPANISH": "Cancelaréis",
+      "ENGLISH": "You will cancel"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cancelado",
+      "SPANISH": "Habré cancelado",
       "ENGLISH": "I will have cancelled"
     },
     "TU": {
-      "SPANISH": "habrás cancelado",
-      "ENGLISH": "you will have cancelled"
+      "SPANISH": "Habrás cancelado",
+      "ENGLISH": "You will have cancelled"
     },
     "EL": {
-      "SPANISH": "habrá cancelado",
-      "ENGLISH": "s/he will have cancelled, you (formal) will have cancelled"
+      "SPANISH": "Habrá cancelado",
+      "ENGLISH": "He will have cancelled"
     },
     "ELLOS": {
-      "SPANISH": "habrán cancelado",
-      "ENGLISH": "they will have cancelled, you (plural formal) will have cancelled"
+      "SPANISH": "Habrán cancelado",
+      "ENGLISH": "They will have cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cancelado",
-      "ENGLISH": "we will have cancelled"
+      "SPANISH": "Habremos cancelado",
+      "ENGLISH": "We will have cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cancelado",
-      "ENGLISH": "you (plural) will have cancelled"
+      "SPANISH": "Habréis cancelado",
+      "ENGLISH": "You will have cancelled"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cancelaría",
+      "SPANISH": "Cancelaría",
       "ENGLISH": "I would cancel"
     },
     "TU": {
-      "SPANISH": "cancelarías",
-      "ENGLISH": "you would cancel"
+      "SPANISH": "Cancelarías",
+      "ENGLISH": "You would cancel"
     },
     "EL": {
-      "SPANISH": "cancelaría",
-      "ENGLISH": "s/he would cancel, you (formal) would cancel"
+      "SPANISH": "Cancelaría",
+      "ENGLISH": "He would cancel"
     },
     "ELLOS": {
-      "SPANISH": "cancelarían",
-      "ENGLISH": "they would cancel, you (plural formal) would cancel"
+      "SPANISH": "Cancelarían",
+      "ENGLISH": "They would cancel"
     },
     "NOSOTROS": {
-      "SPANISH": "cancelaríamos",
-      "ENGLISH": "we would cancel"
+      "SPANISH": "Cancelaríamos",
+      "ENGLISH": "We would cancel"
     },
     "VOSOTROS": {
-      "SPANISH": "cancelaríais",
-      "ENGLISH": "you (plural) would cancel"
+      "SPANISH": "Cancelaríais",
+      "ENGLISH": "You would cancel"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cancelado",
+      "SPANISH": "Habría cancelado",
       "ENGLISH": "I would have cancelled"
     },
     "TU": {
-      "SPANISH": "habrías cancelado",
-      "ENGLISH": "you would have cancelled"
+      "SPANISH": "Habrías cancelado",
+      "ENGLISH": "You would have cancelled"
     },
     "EL": {
-      "SPANISH": "habría cancelado",
-      "ENGLISH": "s/he would have cancelled, you (formal) would have cancelled"
+      "SPANISH": "Habría cancelado",
+      "ENGLISH": "He would have cancelled"
     },
     "ELLOS": {
-      "SPANISH": "habrían cancelado",
-      "ENGLISH": "they would have cancelled, you (plural formal) would have cancelled"
+      "SPANISH": "Habrían cancelado",
+      "ENGLISH": "They would have cancelled"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cancelado",
-      "ENGLISH": "we would have cancelled"
+      "SPANISH": "Habríamos cancelado",
+      "ENGLISH": "We would have cancelled"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cancelado",
-      "ENGLISH": "you (plural) would have cancelled"
+      "SPANISH": "Habríais cancelado",
+      "ENGLISH": "You would have cancelled"
     }
   }
 }

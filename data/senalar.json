@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "señalo",
+      "SPANISH": "Señalo",
       "ENGLISH": "I point"
     },
     "TU": {
-      "SPANISH": "señalas",
-      "ENGLISH": "you point"
+      "SPANISH": "Señalas",
+      "ENGLISH": "You point"
     },
     "EL": {
-      "SPANISH": "señala",
-      "ENGLISH": "s/he points, you (formal) points"
+      "SPANISH": "Señala",
+      "ENGLISH": "He points"
     },
     "ELLOS": {
-      "SPANISH": "señalan",
-      "ENGLISH": "they point, you (plural formal) point"
+      "SPANISH": "Señalan",
+      "ENGLISH": "They point"
     },
     "NOSOTROS": {
-      "SPANISH": "señalamos",
-      "ENGLISH": "we point"
+      "SPANISH": "Señalamos",
+      "ENGLISH": "We point"
     },
     "VOSOTROS": {
-      "SPANISH": "señaláis",
-      "ENGLISH": "you (plural) point"
+      "SPANISH": "Señaláis",
+      "ENGLISH": "You point"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he señalado",
+      "SPANISH": "He señalado",
       "ENGLISH": "I have pointed"
     },
     "TU": {
-      "SPANISH": "has señalado",
-      "ENGLISH": "you have pointed"
+      "SPANISH": "Has señalado",
+      "ENGLISH": "You have pointed"
     },
     "EL": {
-      "SPANISH": "ha señalado",
-      "ENGLISH": "s/he has pointed, you (formal) have pointed"
+      "SPANISH": "Ha señalado",
+      "ENGLISH": "He has pointed"
     },
     "ELLOS": {
-      "SPANISH": "han señalado",
-      "ENGLISH": "they have pointed, you (plural formal) have pointed"
+      "SPANISH": "Han señalado",
+      "ENGLISH": "They have pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos señalado",
-      "ENGLISH": "we have pointed"
+      "SPANISH": "Hemos señalado",
+      "ENGLISH": "We have pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis señalado",
-      "ENGLISH": "you (plural) have pointed"
+      "SPANISH": "Habéis señalado",
+      "ENGLISH": "You have pointed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "señalé",
+      "SPANISH": "Señalé",
       "ENGLISH": "I pointed"
     },
     "TU": {
-      "SPANISH": "señalaste",
-      "ENGLISH": "you pointed"
+      "SPANISH": "Señalaste",
+      "ENGLISH": "You pointed"
     },
     "EL": {
-      "SPANISH": "señaló",
-      "ENGLISH": "s/he pointed, you (formal) pointed"
+      "SPANISH": "Señaló",
+      "ENGLISH": "He pointed"
     },
     "ELLOS": {
-      "SPANISH": "señalaron",
-      "ENGLISH": "they pointed, you (plural formal) pointed"
+      "SPANISH": "Señalaron",
+      "ENGLISH": "They pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "señalamos",
-      "ENGLISH": "we pointed"
+      "SPANISH": "Señalamos",
+      "ENGLISH": "We pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "señalasteis",
-      "ENGLISH": "you (plural) pointed"
+      "SPANISH": "Señalasteis",
+      "ENGLISH": "You pointed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había señalado",
+      "SPANISH": "Había señalado",
       "ENGLISH": "I had pointed"
     },
     "TU": {
-      "SPANISH": "habías señalado",
-      "ENGLISH": "you had pointed"
+      "SPANISH": "Habías señalado",
+      "ENGLISH": "You had pointed"
     },
     "EL": {
-      "SPANISH": "había señalado",
-      "ENGLISH": "s/he had pointed, you (formal) had pointed"
+      "SPANISH": "Había señalado",
+      "ENGLISH": "He had pointed"
     },
     "ELLOS": {
-      "SPANISH": "habían señalado",
-      "ENGLISH": "they had pointed, you (plural formal) had pointed"
+      "SPANISH": "Habían señalado",
+      "ENGLISH": "They had pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos señalado",
-      "ENGLISH": "we had pointed"
+      "SPANISH": "Habíamos señalado",
+      "ENGLISH": "We had pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais señalado",
-      "ENGLISH": "you (plural) had pointed"
+      "SPANISH": "Habíais señalado",
+      "ENGLISH": "You had pointed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "señalé",
+      "SPANISH": "Señalé",
       "ENGLISH": "I pointed"
     },
     "TU": {
-      "SPANISH": "señalaste",
-      "ENGLISH": "you pointed"
+      "SPANISH": "Señalaste",
+      "ENGLISH": "You pointed"
     },
     "EL": {
-      "SPANISH": "señaló",
-      "ENGLISH": "s/he pointed, you (formal) pointed"
+      "SPANISH": "Señaló",
+      "ENGLISH": "He pointed"
     },
     "ELLOS": {
-      "SPANISH": "señalaron",
-      "ENGLISH": "they pointed, you (plural formal) pointed"
+      "SPANISH": "Señalaron",
+      "ENGLISH": "They pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "señalamos",
-      "ENGLISH": "we pointed"
+      "SPANISH": "Señalamos",
+      "ENGLISH": "We pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "señalasteis",
-      "ENGLISH": "you (plural) pointed"
+      "SPANISH": "Señalasteis",
+      "ENGLISH": "You pointed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "señalaré",
+      "SPANISH": "Señalaré",
       "ENGLISH": "I will point"
     },
     "TU": {
-      "SPANISH": "señalarás",
-      "ENGLISH": "you will point"
+      "SPANISH": "Señalarás",
+      "ENGLISH": "You will point"
     },
     "EL": {
-      "SPANISH": "señalará",
-      "ENGLISH": "s/he will point, you (formal) will point"
+      "SPANISH": "Señalará",
+      "ENGLISH": "He will point"
     },
     "ELLOS": {
-      "SPANISH": "señalarán",
-      "ENGLISH": "they will point, you (plural formal) will point"
+      "SPANISH": "Señalarán",
+      "ENGLISH": "They will point"
     },
     "NOSOTROS": {
-      "SPANISH": "señalaremos",
-      "ENGLISH": "we will point"
+      "SPANISH": "Señalaremos",
+      "ENGLISH": "We will point"
     },
     "VOSOTROS": {
-      "SPANISH": "señalaréis",
-      "ENGLISH": "you (plural) will point"
+      "SPANISH": "Señalaréis",
+      "ENGLISH": "You will point"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré señalado",
+      "SPANISH": "Habré señalado",
       "ENGLISH": "I will have pointed"
     },
     "TU": {
-      "SPANISH": "habrás señalado",
-      "ENGLISH": "you will have pointed"
+      "SPANISH": "Habrás señalado",
+      "ENGLISH": "You will have pointed"
     },
     "EL": {
-      "SPANISH": "habrá señalado",
-      "ENGLISH": "s/he will have pointed, you (formal) will have pointed"
+      "SPANISH": "Habrá señalado",
+      "ENGLISH": "He will have pointed"
     },
     "ELLOS": {
-      "SPANISH": "habrán señalado",
-      "ENGLISH": "they will have pointed, you (plural formal) will have pointed"
+      "SPANISH": "Habrán señalado",
+      "ENGLISH": "They will have pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos señalado",
-      "ENGLISH": "we will have pointed"
+      "SPANISH": "Habremos señalado",
+      "ENGLISH": "We will have pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis señalado",
-      "ENGLISH": "you (plural) will have pointed"
+      "SPANISH": "Habréis señalado",
+      "ENGLISH": "You will have pointed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "señalaría",
+      "SPANISH": "Señalaría",
       "ENGLISH": "I would point"
     },
     "TU": {
-      "SPANISH": "señalarías",
-      "ENGLISH": "you would point"
+      "SPANISH": "Señalarías",
+      "ENGLISH": "You would point"
     },
     "EL": {
-      "SPANISH": "señalaría",
-      "ENGLISH": "s/he would point, you (formal) would point"
+      "SPANISH": "Señalaría",
+      "ENGLISH": "He would point"
     },
     "ELLOS": {
-      "SPANISH": "señalarían",
-      "ENGLISH": "they would point, you (plural formal) would point"
+      "SPANISH": "Señalarían",
+      "ENGLISH": "They would point"
     },
     "NOSOTROS": {
-      "SPANISH": "señalaríamos",
-      "ENGLISH": "we would point"
+      "SPANISH": "Señalaríamos",
+      "ENGLISH": "We would point"
     },
     "VOSOTROS": {
-      "SPANISH": "señalaríais",
-      "ENGLISH": "you (plural) would point"
+      "SPANISH": "Señalaríais",
+      "ENGLISH": "You would point"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría señalado",
+      "SPANISH": "Habría señalado",
       "ENGLISH": "I would have pointed"
     },
     "TU": {
-      "SPANISH": "habrías señalado",
-      "ENGLISH": "you would have pointed"
+      "SPANISH": "Habrías señalado",
+      "ENGLISH": "You would have pointed"
     },
     "EL": {
-      "SPANISH": "habría señalado",
-      "ENGLISH": "s/he would have pointed, you (formal) would have pointed"
+      "SPANISH": "Habría señalado",
+      "ENGLISH": "He would have pointed"
     },
     "ELLOS": {
-      "SPANISH": "habrían señalado",
-      "ENGLISH": "they would have pointed, you (plural formal) would have pointed"
+      "SPANISH": "Habrían señalado",
+      "ENGLISH": "They would have pointed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos señalado",
-      "ENGLISH": "we would have pointed"
+      "SPANISH": "Habríamos señalado",
+      "ENGLISH": "We would have pointed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais señalado",
-      "ENGLISH": "you (plural) would have pointed"
+      "SPANISH": "Habríais señalado",
+      "ENGLISH": "You would have pointed"
     }
   }
 }

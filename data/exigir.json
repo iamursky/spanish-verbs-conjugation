@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "exijo ",
+      "SPANISH": "Exijo ",
       "ENGLISH": "I require"
     },
     "TU": {
-      "SPANISH": "exiges",
-      "ENGLISH": "you require"
+      "SPANISH": "Exiges",
+      "ENGLISH": "You require"
     },
     "EL": {
-      "SPANISH": "exige",
-      "ENGLISH": "s/he requires, you (formal) requires"
+      "SPANISH": "Exige",
+      "ENGLISH": "He requires"
     },
     "ELLOS": {
-      "SPANISH": "exigen",
-      "ENGLISH": "they require, you (plural formal) require"
+      "SPANISH": "Exigen",
+      "ENGLISH": "They require"
     },
     "NOSOTROS": {
-      "SPANISH": "exigimos",
-      "ENGLISH": "we require"
+      "SPANISH": "Exigimos",
+      "ENGLISH": "We require"
     },
     "VOSOTROS": {
-      "SPANISH": "exigís",
-      "ENGLISH": "you (plural) require"
+      "SPANISH": "Exigís",
+      "ENGLISH": "You require"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he exigido",
+      "SPANISH": "He exigido",
       "ENGLISH": "I have required"
     },
     "TU": {
-      "SPANISH": "has exigido",
-      "ENGLISH": "you have required"
+      "SPANISH": "Has exigido",
+      "ENGLISH": "You have required"
     },
     "EL": {
-      "SPANISH": "ha exigido",
-      "ENGLISH": "s/he has required, you (formal) have required"
+      "SPANISH": "Ha exigido",
+      "ENGLISH": "He has required"
     },
     "ELLOS": {
-      "SPANISH": "han exigido",
-      "ENGLISH": "they have required, you (plural formal) have required"
+      "SPANISH": "Han exigido",
+      "ENGLISH": "They have required"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos exigido",
-      "ENGLISH": "we have required"
+      "SPANISH": "Hemos exigido",
+      "ENGLISH": "We have required"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis exigido",
-      "ENGLISH": "you (plural) have required"
+      "SPANISH": "Habéis exigido",
+      "ENGLISH": "You have required"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "exigí",
+      "SPANISH": "Exigí",
       "ENGLISH": "I required"
     },
     "TU": {
-      "SPANISH": "exigiste",
-      "ENGLISH": "you required"
+      "SPANISH": "Exigiste",
+      "ENGLISH": "You required"
     },
     "EL": {
-      "SPANISH": "exigió",
-      "ENGLISH": "s/he required, you (formal) required"
+      "SPANISH": "Exigió",
+      "ENGLISH": "He required"
     },
     "ELLOS": {
-      "SPANISH": "exigieron",
-      "ENGLISH": "they required, you (plural formal) required"
+      "SPANISH": "Exigieron",
+      "ENGLISH": "They required"
     },
     "NOSOTROS": {
-      "SPANISH": "exigimos",
-      "ENGLISH": "we required"
+      "SPANISH": "Exigimos",
+      "ENGLISH": "We required"
     },
     "VOSOTROS": {
-      "SPANISH": "exigisteis",
-      "ENGLISH": "you (plural) required"
+      "SPANISH": "Exigisteis",
+      "ENGLISH": "You required"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había exigido",
+      "SPANISH": "Había exigido",
       "ENGLISH": "I had required"
     },
     "TU": {
-      "SPANISH": "habías exigido",
-      "ENGLISH": "you had required"
+      "SPANISH": "Habías exigido",
+      "ENGLISH": "You had required"
     },
     "EL": {
-      "SPANISH": "había exigido",
-      "ENGLISH": "s/he had required, you (formal) had required"
+      "SPANISH": "Había exigido",
+      "ENGLISH": "He had required"
     },
     "ELLOS": {
-      "SPANISH": "habían exigido",
-      "ENGLISH": "they had required, you (plural formal) had required"
+      "SPANISH": "Habían exigido",
+      "ENGLISH": "They had required"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos exigido",
-      "ENGLISH": "we had required"
+      "SPANISH": "Habíamos exigido",
+      "ENGLISH": "We had required"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais exigido",
-      "ENGLISH": "you (plural) had required"
+      "SPANISH": "Habíais exigido",
+      "ENGLISH": "You had required"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "exigí",
+      "SPANISH": "Exigí",
       "ENGLISH": "I required"
     },
     "TU": {
-      "SPANISH": "exigiste",
-      "ENGLISH": "you required"
+      "SPANISH": "Exigiste",
+      "ENGLISH": "You required"
     },
     "EL": {
-      "SPANISH": "exigió",
-      "ENGLISH": "s/he required, you (formal) required"
+      "SPANISH": "Exigió",
+      "ENGLISH": "He required"
     },
     "ELLOS": {
-      "SPANISH": "exigieron",
-      "ENGLISH": "they required, you (plural formal) required"
+      "SPANISH": "Exigieron",
+      "ENGLISH": "They required"
     },
     "NOSOTROS": {
-      "SPANISH": "exigimos",
-      "ENGLISH": "we required"
+      "SPANISH": "Exigimos",
+      "ENGLISH": "We required"
     },
     "VOSOTROS": {
-      "SPANISH": "exigisteis",
-      "ENGLISH": "you (plural) required"
+      "SPANISH": "Exigisteis",
+      "ENGLISH": "You required"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "exigiré",
+      "SPANISH": "Exigiré",
       "ENGLISH": "I will require"
     },
     "TU": {
-      "SPANISH": "exigirás",
-      "ENGLISH": "you will require"
+      "SPANISH": "Exigirás",
+      "ENGLISH": "You will require"
     },
     "EL": {
-      "SPANISH": "exigirá",
-      "ENGLISH": "s/he will require, you (formal) will require"
+      "SPANISH": "Exigirá",
+      "ENGLISH": "He will require"
     },
     "ELLOS": {
-      "SPANISH": "exigirán",
-      "ENGLISH": "they will require, you (plural formal) will require"
+      "SPANISH": "Exigirán",
+      "ENGLISH": "They will require"
     },
     "NOSOTROS": {
-      "SPANISH": "exigiremos",
-      "ENGLISH": "we will require"
+      "SPANISH": "Exigiremos",
+      "ENGLISH": "We will require"
     },
     "VOSOTROS": {
-      "SPANISH": "exigiréis",
-      "ENGLISH": "you (plural) will require"
+      "SPANISH": "Exigiréis",
+      "ENGLISH": "You will require"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré exigido",
+      "SPANISH": "Habré exigido",
       "ENGLISH": "I will have required"
     },
     "TU": {
-      "SPANISH": "habrás exigido",
-      "ENGLISH": "you will have required"
+      "SPANISH": "Habrás exigido",
+      "ENGLISH": "You will have required"
     },
     "EL": {
-      "SPANISH": "habrá exigido",
-      "ENGLISH": "s/he will have required, you (formal) will have required"
+      "SPANISH": "Habrá exigido",
+      "ENGLISH": "He will have required"
     },
     "ELLOS": {
-      "SPANISH": "habrán exigido",
-      "ENGLISH": "they will have required, you (plural formal) will have required"
+      "SPANISH": "Habrán exigido",
+      "ENGLISH": "They will have required"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos exigido",
-      "ENGLISH": "we will have required"
+      "SPANISH": "Habremos exigido",
+      "ENGLISH": "We will have required"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis exigido",
-      "ENGLISH": "you (plural) will have required"
+      "SPANISH": "Habréis exigido",
+      "ENGLISH": "You will have required"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "exigiría",
+      "SPANISH": "Exigiría",
       "ENGLISH": "I would require"
     },
     "TU": {
-      "SPANISH": "exigirías",
-      "ENGLISH": "you would require"
+      "SPANISH": "Exigirías",
+      "ENGLISH": "You would require"
     },
     "EL": {
-      "SPANISH": "exigiría",
-      "ENGLISH": "s/he would require, you (formal) would require"
+      "SPANISH": "Exigiría",
+      "ENGLISH": "He would require"
     },
     "ELLOS": {
-      "SPANISH": "exigirían",
-      "ENGLISH": "they would require, you (plural formal) would require"
+      "SPANISH": "Exigirían",
+      "ENGLISH": "They would require"
     },
     "NOSOTROS": {
-      "SPANISH": "exigiríamos",
-      "ENGLISH": "we would require"
+      "SPANISH": "Exigiríamos",
+      "ENGLISH": "We would require"
     },
     "VOSOTROS": {
-      "SPANISH": "exigiríais",
-      "ENGLISH": "you (plural) would require"
+      "SPANISH": "Exigiríais",
+      "ENGLISH": "You would require"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría exigido",
+      "SPANISH": "Habría exigido",
       "ENGLISH": "I would have required"
     },
     "TU": {
-      "SPANISH": "habrías exigido",
-      "ENGLISH": "you would have required"
+      "SPANISH": "Habrías exigido",
+      "ENGLISH": "You would have required"
     },
     "EL": {
-      "SPANISH": "habría exigido",
-      "ENGLISH": "s/he would have required, you (formal) would have required"
+      "SPANISH": "Habría exigido",
+      "ENGLISH": "He would have required"
     },
     "ELLOS": {
-      "SPANISH": "habrían exigido",
-      "ENGLISH": "they would have required, you (plural formal) would have required"
+      "SPANISH": "Habrían exigido",
+      "ENGLISH": "They would have required"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos exigido",
-      "ENGLISH": "we would have required"
+      "SPANISH": "Habríamos exigido",
+      "ENGLISH": "We would have required"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais exigido",
-      "ENGLISH": "you (plural) would have required"
+      "SPANISH": "Habríais exigido",
+      "ENGLISH": "You would have required"
     }
   }
 }

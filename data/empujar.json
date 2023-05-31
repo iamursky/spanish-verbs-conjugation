@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "empujo",
+      "SPANISH": "Empujo",
       "ENGLISH": "I push"
     },
     "TU": {
-      "SPANISH": "empujas",
-      "ENGLISH": "you push"
+      "SPANISH": "Empujas",
+      "ENGLISH": "You push"
     },
     "EL": {
-      "SPANISH": "empuja",
-      "ENGLISH": "s/he pushes, you (formal) pushes"
+      "SPANISH": "Empuja",
+      "ENGLISH": "He pushes"
     },
     "ELLOS": {
-      "SPANISH": "empujan",
-      "ENGLISH": "they push, you (plural formal) push"
+      "SPANISH": "Empujan",
+      "ENGLISH": "They push"
     },
     "NOSOTROS": {
-      "SPANISH": "empujamos",
-      "ENGLISH": "we push"
+      "SPANISH": "Empujamos",
+      "ENGLISH": "We push"
     },
     "VOSOTROS": {
-      "SPANISH": "empujáis",
-      "ENGLISH": "you (plural) push"
+      "SPANISH": "Empujáis",
+      "ENGLISH": "You push"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he empujado",
+      "SPANISH": "He empujado",
       "ENGLISH": "I have pushed"
     },
     "TU": {
-      "SPANISH": "has empujado",
-      "ENGLISH": "you have pushed"
+      "SPANISH": "Has empujado",
+      "ENGLISH": "You have pushed"
     },
     "EL": {
-      "SPANISH": "ha empujado",
-      "ENGLISH": "s/he has pushed, you (formal) have pushed"
+      "SPANISH": "Ha empujado",
+      "ENGLISH": "He has pushed"
     },
     "ELLOS": {
-      "SPANISH": "han empujado",
-      "ENGLISH": "they have pushed, you (plural formal) have pushed"
+      "SPANISH": "Han empujado",
+      "ENGLISH": "They have pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos empujado",
-      "ENGLISH": "we have pushed"
+      "SPANISH": "Hemos empujado",
+      "ENGLISH": "We have pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis empujado",
-      "ENGLISH": "you (plural) have pushed"
+      "SPANISH": "Habéis empujado",
+      "ENGLISH": "You have pushed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "empujé",
+      "SPANISH": "Empujé",
       "ENGLISH": "I pushed"
     },
     "TU": {
-      "SPANISH": "empujaste",
-      "ENGLISH": "you pushed"
+      "SPANISH": "Empujaste",
+      "ENGLISH": "You pushed"
     },
     "EL": {
-      "SPANISH": "empujó",
-      "ENGLISH": "s/he pushed, you (formal) pushed"
+      "SPANISH": "Empujó",
+      "ENGLISH": "He pushed"
     },
     "ELLOS": {
-      "SPANISH": "empujaron",
-      "ENGLISH": "they pushed, you (plural formal) pushed"
+      "SPANISH": "Empujaron",
+      "ENGLISH": "They pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "empujamos",
-      "ENGLISH": "we pushed"
+      "SPANISH": "Empujamos",
+      "ENGLISH": "We pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "empujasteis",
-      "ENGLISH": "you (plural) pushed"
+      "SPANISH": "Empujasteis",
+      "ENGLISH": "You pushed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había empujado",
+      "SPANISH": "Había empujado",
       "ENGLISH": "I had pushed"
     },
     "TU": {
-      "SPANISH": "habías empujado",
-      "ENGLISH": "you had pushed"
+      "SPANISH": "Habías empujado",
+      "ENGLISH": "You had pushed"
     },
     "EL": {
-      "SPANISH": "había empujado",
-      "ENGLISH": "s/he had pushed, you (formal) had pushed"
+      "SPANISH": "Había empujado",
+      "ENGLISH": "He had pushed"
     },
     "ELLOS": {
-      "SPANISH": "habían empujado",
-      "ENGLISH": "they had pushed, you (plural formal) had pushed"
+      "SPANISH": "Habían empujado",
+      "ENGLISH": "They had pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos empujado",
-      "ENGLISH": "we had pushed"
+      "SPANISH": "Habíamos empujado",
+      "ENGLISH": "We had pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais empujado",
-      "ENGLISH": "you (plural) had pushed"
+      "SPANISH": "Habíais empujado",
+      "ENGLISH": "You had pushed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "empujé",
+      "SPANISH": "Empujé",
       "ENGLISH": "I pushed"
     },
     "TU": {
-      "SPANISH": "empujaste",
-      "ENGLISH": "you pushed"
+      "SPANISH": "Empujaste",
+      "ENGLISH": "You pushed"
     },
     "EL": {
-      "SPANISH": "empujó",
-      "ENGLISH": "s/he pushed, you (formal) pushed"
+      "SPANISH": "Empujó",
+      "ENGLISH": "He pushed"
     },
     "ELLOS": {
-      "SPANISH": "empujaron",
-      "ENGLISH": "they pushed, you (plural formal) pushed"
+      "SPANISH": "Empujaron",
+      "ENGLISH": "They pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "empujamos",
-      "ENGLISH": "we pushed"
+      "SPANISH": "Empujamos",
+      "ENGLISH": "We pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "empujasteis",
-      "ENGLISH": "you (plural) pushed"
+      "SPANISH": "Empujasteis",
+      "ENGLISH": "You pushed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "empujaré",
+      "SPANISH": "Empujaré",
       "ENGLISH": "I will push"
     },
     "TU": {
-      "SPANISH": "empujarás",
-      "ENGLISH": "you will push"
+      "SPANISH": "Empujarás",
+      "ENGLISH": "You will push"
     },
     "EL": {
-      "SPANISH": "empujará",
-      "ENGLISH": "s/he will push, you (formal) will push"
+      "SPANISH": "Empujará",
+      "ENGLISH": "He will push"
     },
     "ELLOS": {
-      "SPANISH": "empujarán",
-      "ENGLISH": "they will push, you (plural formal) will push"
+      "SPANISH": "Empujarán",
+      "ENGLISH": "They will push"
     },
     "NOSOTROS": {
-      "SPANISH": "empujaremos",
-      "ENGLISH": "we will push"
+      "SPANISH": "Empujaremos",
+      "ENGLISH": "We will push"
     },
     "VOSOTROS": {
-      "SPANISH": "empujaréis",
-      "ENGLISH": "you (plural) will push"
+      "SPANISH": "Empujaréis",
+      "ENGLISH": "You will push"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré empujado",
+      "SPANISH": "Habré empujado",
       "ENGLISH": "I will have pushed"
     },
     "TU": {
-      "SPANISH": "habrás empujado",
-      "ENGLISH": "you will have pushed"
+      "SPANISH": "Habrás empujado",
+      "ENGLISH": "You will have pushed"
     },
     "EL": {
-      "SPANISH": "habrá empujado",
-      "ENGLISH": "s/he will have pushed, you (formal) will have pushed"
+      "SPANISH": "Habrá empujado",
+      "ENGLISH": "He will have pushed"
     },
     "ELLOS": {
-      "SPANISH": "habrán empujado",
-      "ENGLISH": "they will have pushed, you (plural formal) will have pushed"
+      "SPANISH": "Habrán empujado",
+      "ENGLISH": "They will have pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos empujado",
-      "ENGLISH": "we will have pushed"
+      "SPANISH": "Habremos empujado",
+      "ENGLISH": "We will have pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis empujado",
-      "ENGLISH": "you (plural) will have pushed"
+      "SPANISH": "Habréis empujado",
+      "ENGLISH": "You will have pushed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "empujaría",
+      "SPANISH": "Empujaría",
       "ENGLISH": "I would push"
     },
     "TU": {
-      "SPANISH": "empujarías",
-      "ENGLISH": "you would push"
+      "SPANISH": "Empujarías",
+      "ENGLISH": "You would push"
     },
     "EL": {
-      "SPANISH": "empujaría",
-      "ENGLISH": "s/he would push, you (formal) would push"
+      "SPANISH": "Empujaría",
+      "ENGLISH": "He would push"
     },
     "ELLOS": {
-      "SPANISH": "empujarían",
-      "ENGLISH": "they would push, you (plural formal) would push"
+      "SPANISH": "Empujarían",
+      "ENGLISH": "They would push"
     },
     "NOSOTROS": {
-      "SPANISH": "empujaríamos",
-      "ENGLISH": "we would push"
+      "SPANISH": "Empujaríamos",
+      "ENGLISH": "We would push"
     },
     "VOSOTROS": {
-      "SPANISH": "empujaríais",
-      "ENGLISH": "you (plural) would push"
+      "SPANISH": "Empujaríais",
+      "ENGLISH": "You would push"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría empujado",
+      "SPANISH": "Habría empujado",
       "ENGLISH": "I would have pushed"
     },
     "TU": {
-      "SPANISH": "habrías empujado",
-      "ENGLISH": "you would have pushed"
+      "SPANISH": "Habrías empujado",
+      "ENGLISH": "You would have pushed"
     },
     "EL": {
-      "SPANISH": "habría empujado",
-      "ENGLISH": "s/he would have pushed, you (formal) would have pushed"
+      "SPANISH": "Habría empujado",
+      "ENGLISH": "He would have pushed"
     },
     "ELLOS": {
-      "SPANISH": "habrían empujado",
-      "ENGLISH": "they would have pushed, you (plural formal) would have pushed"
+      "SPANISH": "Habrían empujado",
+      "ENGLISH": "They would have pushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos empujado",
-      "ENGLISH": "we would have pushed"
+      "SPANISH": "Habríamos empujado",
+      "ENGLISH": "We would have pushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais empujado",
-      "ENGLISH": "you (plural) would have pushed"
+      "SPANISH": "Habríais empujado",
+      "ENGLISH": "You would have pushed"
     }
   }
 }

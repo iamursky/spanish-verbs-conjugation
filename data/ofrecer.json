@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "ofrezco ",
+      "SPANISH": "Ofrezco ",
       "ENGLISH": "I offer"
     },
     "TU": {
-      "SPANISH": "ofreces",
-      "ENGLISH": "you offer"
+      "SPANISH": "Ofreces",
+      "ENGLISH": "You offer"
     },
     "EL": {
-      "SPANISH": "ofrece",
-      "ENGLISH": "s/he offers, you (formal) offers"
+      "SPANISH": "Ofrece",
+      "ENGLISH": "He offers"
     },
     "ELLOS": {
-      "SPANISH": "ofrecen",
-      "ENGLISH": "they offer, you (plural formal) offer"
+      "SPANISH": "Ofrecen",
+      "ENGLISH": "They offer"
     },
     "NOSOTROS": {
-      "SPANISH": "ofrecemos",
-      "ENGLISH": "we offer"
+      "SPANISH": "Ofrecemos",
+      "ENGLISH": "We offer"
     },
     "VOSOTROS": {
-      "SPANISH": "ofrecéis",
-      "ENGLISH": "you (plural) offer"
+      "SPANISH": "Ofrecéis",
+      "ENGLISH": "You offer"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he ofrecido",
+      "SPANISH": "He ofrecido",
       "ENGLISH": "I have offered"
     },
     "TU": {
-      "SPANISH": "has ofrecido",
-      "ENGLISH": "you have offered"
+      "SPANISH": "Has ofrecido",
+      "ENGLISH": "You have offered"
     },
     "EL": {
-      "SPANISH": "ha ofrecido",
-      "ENGLISH": "s/he has offered, you (formal) have offered"
+      "SPANISH": "Ha ofrecido",
+      "ENGLISH": "He has offered"
     },
     "ELLOS": {
-      "SPANISH": "han ofrecido",
-      "ENGLISH": "they have offered, you (plural formal) have offered"
+      "SPANISH": "Han ofrecido",
+      "ENGLISH": "They have offered"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos ofrecido",
-      "ENGLISH": "we have offered"
+      "SPANISH": "Hemos ofrecido",
+      "ENGLISH": "We have offered"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis ofrecido",
-      "ENGLISH": "you (plural) have offered"
+      "SPANISH": "Habéis ofrecido",
+      "ENGLISH": "You have offered"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "ofrecí",
+      "SPANISH": "Ofrecí",
       "ENGLISH": "I offered"
     },
     "TU": {
-      "SPANISH": "ofreciste",
-      "ENGLISH": "you offered"
+      "SPANISH": "Ofreciste",
+      "ENGLISH": "You offered"
     },
     "EL": {
-      "SPANISH": "ofreció",
-      "ENGLISH": "s/he offered, you (formal) offered"
+      "SPANISH": "Ofreció",
+      "ENGLISH": "He offered"
     },
     "ELLOS": {
-      "SPANISH": "ofrecieron",
-      "ENGLISH": "they offered, you (plural formal) offered"
+      "SPANISH": "Ofrecieron",
+      "ENGLISH": "They offered"
     },
     "NOSOTROS": {
-      "SPANISH": "ofrecimos",
-      "ENGLISH": "we offered"
+      "SPANISH": "Ofrecimos",
+      "ENGLISH": "We offered"
     },
     "VOSOTROS": {
-      "SPANISH": "ofrecisteis",
-      "ENGLISH": "you (plural) offered"
+      "SPANISH": "Ofrecisteis",
+      "ENGLISH": "You offered"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había ofrecido",
+      "SPANISH": "Había ofrecido",
       "ENGLISH": "I had offered"
     },
     "TU": {
-      "SPANISH": "habías ofrecido",
-      "ENGLISH": "you had offered"
+      "SPANISH": "Habías ofrecido",
+      "ENGLISH": "You had offered"
     },
     "EL": {
-      "SPANISH": "había ofrecido",
-      "ENGLISH": "s/he had offered, you (formal) had offered"
+      "SPANISH": "Había ofrecido",
+      "ENGLISH": "He had offered"
     },
     "ELLOS": {
-      "SPANISH": "habían ofrecido",
-      "ENGLISH": "they had offered, you (plural formal) had offered"
+      "SPANISH": "Habían ofrecido",
+      "ENGLISH": "They had offered"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos ofrecido",
-      "ENGLISH": "we had offered"
+      "SPANISH": "Habíamos ofrecido",
+      "ENGLISH": "We had offered"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais ofrecido",
-      "ENGLISH": "you (plural) had offered"
+      "SPANISH": "Habíais ofrecido",
+      "ENGLISH": "You had offered"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "ofrecí",
+      "SPANISH": "Ofrecí",
       "ENGLISH": "I offered"
     },
     "TU": {
-      "SPANISH": "ofreciste",
-      "ENGLISH": "you offered"
+      "SPANISH": "Ofreciste",
+      "ENGLISH": "You offered"
     },
     "EL": {
-      "SPANISH": "ofreció",
-      "ENGLISH": "s/he offered, you (formal) offered"
+      "SPANISH": "Ofreció",
+      "ENGLISH": "He offered"
     },
     "ELLOS": {
-      "SPANISH": "ofrecieron",
-      "ENGLISH": "they offered, you (plural formal) offered"
+      "SPANISH": "Ofrecieron",
+      "ENGLISH": "They offered"
     },
     "NOSOTROS": {
-      "SPANISH": "ofrecimos",
-      "ENGLISH": "we offered"
+      "SPANISH": "Ofrecimos",
+      "ENGLISH": "We offered"
     },
     "VOSOTROS": {
-      "SPANISH": "ofrecisteis",
-      "ENGLISH": "you (plural) offered"
+      "SPANISH": "Ofrecisteis",
+      "ENGLISH": "You offered"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "ofreceré",
+      "SPANISH": "Ofreceré",
       "ENGLISH": "I will offer"
     },
     "TU": {
-      "SPANISH": "ofrecerás",
-      "ENGLISH": "you will offer"
+      "SPANISH": "Ofrecerás",
+      "ENGLISH": "You will offer"
     },
     "EL": {
-      "SPANISH": "ofrecerá",
-      "ENGLISH": "s/he will offer, you (formal) will offer"
+      "SPANISH": "Ofrecerá",
+      "ENGLISH": "He will offer"
     },
     "ELLOS": {
-      "SPANISH": "ofrecerán",
-      "ENGLISH": "they will offer, you (plural formal) will offer"
+      "SPANISH": "Ofrecerán",
+      "ENGLISH": "They will offer"
     },
     "NOSOTROS": {
-      "SPANISH": "ofreceremos",
-      "ENGLISH": "we will offer"
+      "SPANISH": "Ofreceremos",
+      "ENGLISH": "We will offer"
     },
     "VOSOTROS": {
-      "SPANISH": "ofreceréis",
-      "ENGLISH": "you (plural) will offer"
+      "SPANISH": "Ofreceréis",
+      "ENGLISH": "You will offer"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré ofrecido",
+      "SPANISH": "Habré ofrecido",
       "ENGLISH": "I will have offered"
     },
     "TU": {
-      "SPANISH": "habrás ofrecido",
-      "ENGLISH": "you will have offered"
+      "SPANISH": "Habrás ofrecido",
+      "ENGLISH": "You will have offered"
     },
     "EL": {
-      "SPANISH": "habrá ofrecido",
-      "ENGLISH": "s/he will have offered, you (formal) will have offered"
+      "SPANISH": "Habrá ofrecido",
+      "ENGLISH": "He will have offered"
     },
     "ELLOS": {
-      "SPANISH": "habrán ofrecido",
-      "ENGLISH": "they will have offered, you (plural formal) will have offered"
+      "SPANISH": "Habrán ofrecido",
+      "ENGLISH": "They will have offered"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos ofrecido",
-      "ENGLISH": "we will have offered"
+      "SPANISH": "Habremos ofrecido",
+      "ENGLISH": "We will have offered"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis ofrecido",
-      "ENGLISH": "you (plural) will have offered"
+      "SPANISH": "Habréis ofrecido",
+      "ENGLISH": "You will have offered"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "ofrecería",
+      "SPANISH": "Ofrecería",
       "ENGLISH": "I would offer"
     },
     "TU": {
-      "SPANISH": "ofrecerías",
-      "ENGLISH": "you would offer"
+      "SPANISH": "Ofrecerías",
+      "ENGLISH": "You would offer"
     },
     "EL": {
-      "SPANISH": "ofrecería",
-      "ENGLISH": "s/he would offer, you (formal) would offer"
+      "SPANISH": "Ofrecería",
+      "ENGLISH": "He would offer"
     },
     "ELLOS": {
-      "SPANISH": "ofrecerían",
-      "ENGLISH": "they would offer, you (plural formal) would offer"
+      "SPANISH": "Ofrecerían",
+      "ENGLISH": "They would offer"
     },
     "NOSOTROS": {
-      "SPANISH": "ofreceríamos",
-      "ENGLISH": "we would offer"
+      "SPANISH": "Ofreceríamos",
+      "ENGLISH": "We would offer"
     },
     "VOSOTROS": {
-      "SPANISH": "ofreceríais",
-      "ENGLISH": "you (plural) would offer"
+      "SPANISH": "Ofreceríais",
+      "ENGLISH": "You would offer"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría ofrecido",
+      "SPANISH": "Habría ofrecido",
       "ENGLISH": "I would have offered"
     },
     "TU": {
-      "SPANISH": "habrías ofrecido",
-      "ENGLISH": "you would have offered"
+      "SPANISH": "Habrías ofrecido",
+      "ENGLISH": "You would have offered"
     },
     "EL": {
-      "SPANISH": "habría ofrecido",
-      "ENGLISH": "s/he would have offered, you (formal) would have offered"
+      "SPANISH": "Habría ofrecido",
+      "ENGLISH": "He would have offered"
     },
     "ELLOS": {
-      "SPANISH": "habrían ofrecido",
-      "ENGLISH": "they would have offered, you (plural formal) would have offered"
+      "SPANISH": "Habrían ofrecido",
+      "ENGLISH": "They would have offered"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos ofrecido",
-      "ENGLISH": "we would have offered"
+      "SPANISH": "Habríamos ofrecido",
+      "ENGLISH": "We would have offered"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais ofrecido",
-      "ENGLISH": "you (plural) would have offered"
+      "SPANISH": "Habríais ofrecido",
+      "ENGLISH": "You would have offered"
     }
   }
 }

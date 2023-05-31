@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "escucho",
+      "SPANISH": "Escucho",
       "ENGLISH": "I listen"
     },
     "TU": {
-      "SPANISH": "escuchas",
-      "ENGLISH": "you listen"
+      "SPANISH": "Escuchas",
+      "ENGLISH": "You listen"
     },
     "EL": {
-      "SPANISH": "escucha",
-      "ENGLISH": "s/he listens, you (formal) listens"
+      "SPANISH": "Escucha",
+      "ENGLISH": "He listens"
     },
     "ELLOS": {
-      "SPANISH": "escuchan",
-      "ENGLISH": "they listen, you (plural formal) listen"
+      "SPANISH": "Escuchan",
+      "ENGLISH": "They listen"
     },
     "NOSOTROS": {
-      "SPANISH": "escuchamos",
-      "ENGLISH": "we listen"
+      "SPANISH": "Escuchamos",
+      "ENGLISH": "We listen"
     },
     "VOSOTROS": {
-      "SPANISH": "escucháis",
-      "ENGLISH": "you (plural) listen"
+      "SPANISH": "Escucháis",
+      "ENGLISH": "You listen"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he escuchado",
+      "SPANISH": "He escuchado",
       "ENGLISH": "I have listened"
     },
     "TU": {
-      "SPANISH": "has escuchado",
-      "ENGLISH": "you have listened"
+      "SPANISH": "Has escuchado",
+      "ENGLISH": "You have listened"
     },
     "EL": {
-      "SPANISH": "ha escuchado",
-      "ENGLISH": "s/he has listened, you (formal) have listened"
+      "SPANISH": "Ha escuchado",
+      "ENGLISH": "He has listened"
     },
     "ELLOS": {
-      "SPANISH": "han escuchado",
-      "ENGLISH": "they have listened, you (plural formal) have listened"
+      "SPANISH": "Han escuchado",
+      "ENGLISH": "They have listened"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos escuchado",
-      "ENGLISH": "we have listened"
+      "SPANISH": "Hemos escuchado",
+      "ENGLISH": "We have listened"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis escuchado",
-      "ENGLISH": "you (plural) have listened"
+      "SPANISH": "Habéis escuchado",
+      "ENGLISH": "You have listened"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "escuché",
+      "SPANISH": "Escuché",
       "ENGLISH": "I listened"
     },
     "TU": {
-      "SPANISH": "escuchaste",
-      "ENGLISH": "you listened"
+      "SPANISH": "Escuchaste",
+      "ENGLISH": "You listened"
     },
     "EL": {
-      "SPANISH": "escuchó",
-      "ENGLISH": "s/he listened, you (formal) listened"
+      "SPANISH": "Escuchó",
+      "ENGLISH": "He listened"
     },
     "ELLOS": {
-      "SPANISH": "escucharon",
-      "ENGLISH": "they listened, you (plural formal) listened"
+      "SPANISH": "Escucharon",
+      "ENGLISH": "They listened"
     },
     "NOSOTROS": {
-      "SPANISH": "escuchamos",
-      "ENGLISH": "we listened"
+      "SPANISH": "Escuchamos",
+      "ENGLISH": "We listened"
     },
     "VOSOTROS": {
-      "SPANISH": "escuchasteis",
-      "ENGLISH": "you (plural) listened"
+      "SPANISH": "Escuchasteis",
+      "ENGLISH": "You listened"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había escuchado",
+      "SPANISH": "Había escuchado",
       "ENGLISH": "I had listened"
     },
     "TU": {
-      "SPANISH": "habías escuchado",
-      "ENGLISH": "you had listened"
+      "SPANISH": "Habías escuchado",
+      "ENGLISH": "You had listened"
     },
     "EL": {
-      "SPANISH": "había escuchado",
-      "ENGLISH": "s/he had listened, you (formal) had listened"
+      "SPANISH": "Había escuchado",
+      "ENGLISH": "He had listened"
     },
     "ELLOS": {
-      "SPANISH": "habían escuchado",
-      "ENGLISH": "they had listened, you (plural formal) had listened"
+      "SPANISH": "Habían escuchado",
+      "ENGLISH": "They had listened"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos escuchado",
-      "ENGLISH": "we had listened"
+      "SPANISH": "Habíamos escuchado",
+      "ENGLISH": "We had listened"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais escuchado",
-      "ENGLISH": "you (plural) had listened"
+      "SPANISH": "Habíais escuchado",
+      "ENGLISH": "You had listened"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "escuché",
+      "SPANISH": "Escuché",
       "ENGLISH": "I listened"
     },
     "TU": {
-      "SPANISH": "escuchaste",
-      "ENGLISH": "you listened"
+      "SPANISH": "Escuchaste",
+      "ENGLISH": "You listened"
     },
     "EL": {
-      "SPANISH": "escuchó",
-      "ENGLISH": "s/he listened, you (formal) listened"
+      "SPANISH": "Escuchó",
+      "ENGLISH": "He listened"
     },
     "ELLOS": {
-      "SPANISH": "escucharon",
-      "ENGLISH": "they listened, you (plural formal) listened"
+      "SPANISH": "Escucharon",
+      "ENGLISH": "They listened"
     },
     "NOSOTROS": {
-      "SPANISH": "escuchamos",
-      "ENGLISH": "we listened"
+      "SPANISH": "Escuchamos",
+      "ENGLISH": "We listened"
     },
     "VOSOTROS": {
-      "SPANISH": "escuchasteis",
-      "ENGLISH": "you (plural) listened"
+      "SPANISH": "Escuchasteis",
+      "ENGLISH": "You listened"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "escucharé",
+      "SPANISH": "Escucharé",
       "ENGLISH": "I will listen"
     },
     "TU": {
-      "SPANISH": "escucharás",
-      "ENGLISH": "you will listen"
+      "SPANISH": "Escucharás",
+      "ENGLISH": "You will listen"
     },
     "EL": {
-      "SPANISH": "escuchará",
-      "ENGLISH": "s/he will listen, you (formal) will listen"
+      "SPANISH": "Escuchará",
+      "ENGLISH": "He will listen"
     },
     "ELLOS": {
-      "SPANISH": "escucharán",
-      "ENGLISH": "they will listen, you (plural formal) will listen"
+      "SPANISH": "Escucharán",
+      "ENGLISH": "They will listen"
     },
     "NOSOTROS": {
-      "SPANISH": "escucharemos",
-      "ENGLISH": "we will listen"
+      "SPANISH": "Escucharemos",
+      "ENGLISH": "We will listen"
     },
     "VOSOTROS": {
-      "SPANISH": "escucharéis",
-      "ENGLISH": "you (plural) will listen"
+      "SPANISH": "Escucharéis",
+      "ENGLISH": "You will listen"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré escuchado",
+      "SPANISH": "Habré escuchado",
       "ENGLISH": "I will have listened"
     },
     "TU": {
-      "SPANISH": "habrás escuchado",
-      "ENGLISH": "you will have listened"
+      "SPANISH": "Habrás escuchado",
+      "ENGLISH": "You will have listened"
     },
     "EL": {
-      "SPANISH": "habrá escuchado",
-      "ENGLISH": "s/he will have listened, you (formal) will have listened"
+      "SPANISH": "Habrá escuchado",
+      "ENGLISH": "He will have listened"
     },
     "ELLOS": {
-      "SPANISH": "habrán escuchado",
-      "ENGLISH": "they will have listened, you (plural formal) will have listened"
+      "SPANISH": "Habrán escuchado",
+      "ENGLISH": "They will have listened"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos escuchado",
-      "ENGLISH": "we will have listened"
+      "SPANISH": "Habremos escuchado",
+      "ENGLISH": "We will have listened"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis escuchado",
-      "ENGLISH": "you (plural) will have listened"
+      "SPANISH": "Habréis escuchado",
+      "ENGLISH": "You will have listened"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "escucharía",
+      "SPANISH": "Escucharía",
       "ENGLISH": "I would listen"
     },
     "TU": {
-      "SPANISH": "escucharías",
-      "ENGLISH": "you would listen"
+      "SPANISH": "Escucharías",
+      "ENGLISH": "You would listen"
     },
     "EL": {
-      "SPANISH": "escucharía",
-      "ENGLISH": "s/he would listen, you (formal) would listen"
+      "SPANISH": "Escucharía",
+      "ENGLISH": "He would listen"
     },
     "ELLOS": {
-      "SPANISH": "escucharían",
-      "ENGLISH": "they would listen, you (plural formal) would listen"
+      "SPANISH": "Escucharían",
+      "ENGLISH": "They would listen"
     },
     "NOSOTROS": {
-      "SPANISH": "escucharíamos",
-      "ENGLISH": "we would listen"
+      "SPANISH": "Escucharíamos",
+      "ENGLISH": "We would listen"
     },
     "VOSOTROS": {
-      "SPANISH": "escucharíais",
-      "ENGLISH": "you (plural) would listen"
+      "SPANISH": "Escucharíais",
+      "ENGLISH": "You would listen"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría escuchado",
+      "SPANISH": "Habría escuchado",
       "ENGLISH": "I would have listened"
     },
     "TU": {
-      "SPANISH": "habrías escuchado",
-      "ENGLISH": "you would have listened"
+      "SPANISH": "Habrías escuchado",
+      "ENGLISH": "You would have listened"
     },
     "EL": {
-      "SPANISH": "habría escuchado",
-      "ENGLISH": "s/he would have listened, you (formal) would have listened"
+      "SPANISH": "Habría escuchado",
+      "ENGLISH": "He would have listened"
     },
     "ELLOS": {
-      "SPANISH": "habrían escuchado",
-      "ENGLISH": "they would have listened, you (plural formal) would have listened"
+      "SPANISH": "Habrían escuchado",
+      "ENGLISH": "They would have listened"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos escuchado",
-      "ENGLISH": "we would have listened"
+      "SPANISH": "Habríamos escuchado",
+      "ENGLISH": "We would have listened"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais escuchado",
-      "ENGLISH": "you (plural) would have listened"
+      "SPANISH": "Habríais escuchado",
+      "ENGLISH": "You would have listened"
     }
   }
 }

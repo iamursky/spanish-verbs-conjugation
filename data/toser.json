@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "toso",
+      "SPANISH": "Toso",
       "ENGLISH": "I cough"
     },
     "TU": {
-      "SPANISH": "toses",
-      "ENGLISH": "you cough"
+      "SPANISH": "Toses",
+      "ENGLISH": "You cough"
     },
     "EL": {
-      "SPANISH": "tose",
-      "ENGLISH": "s/he coughes, you (formal) coughes"
+      "SPANISH": "Tose",
+      "ENGLISH": "He coughes"
     },
     "ELLOS": {
-      "SPANISH": "tosen",
-      "ENGLISH": "they cough, you (plural formal) cough"
+      "SPANISH": "Tosen",
+      "ENGLISH": "They cough"
     },
     "NOSOTROS": {
-      "SPANISH": "tosemos",
-      "ENGLISH": "we cough"
+      "SPANISH": "Tosemos",
+      "ENGLISH": "We cough"
     },
     "VOSOTROS": {
-      "SPANISH": "toséis",
-      "ENGLISH": "you (plural) cough"
+      "SPANISH": "Toséis",
+      "ENGLISH": "You cough"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he tosido",
+      "SPANISH": "He tosido",
       "ENGLISH": "I have coughed"
     },
     "TU": {
-      "SPANISH": "has tosido",
-      "ENGLISH": "you have coughed"
+      "SPANISH": "Has tosido",
+      "ENGLISH": "You have coughed"
     },
     "EL": {
-      "SPANISH": "ha tosido",
-      "ENGLISH": "s/he has coughed, you (formal) have coughed"
+      "SPANISH": "Ha tosido",
+      "ENGLISH": "He has coughed"
     },
     "ELLOS": {
-      "SPANISH": "han tosido",
-      "ENGLISH": "they have coughed, you (plural formal) have coughed"
+      "SPANISH": "Han tosido",
+      "ENGLISH": "They have coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos tosido",
-      "ENGLISH": "we have coughed"
+      "SPANISH": "Hemos tosido",
+      "ENGLISH": "We have coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis tosido",
-      "ENGLISH": "you (plural) have coughed"
+      "SPANISH": "Habéis tosido",
+      "ENGLISH": "You have coughed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "tosí",
+      "SPANISH": "Tosí",
       "ENGLISH": "I coughed"
     },
     "TU": {
-      "SPANISH": "tosiste",
-      "ENGLISH": "you coughed"
+      "SPANISH": "Tosiste",
+      "ENGLISH": "You coughed"
     },
     "EL": {
-      "SPANISH": "tosió",
-      "ENGLISH": "s/he coughed, you (formal) coughed"
+      "SPANISH": "Tosió",
+      "ENGLISH": "He coughed"
     },
     "ELLOS": {
-      "SPANISH": "tosieron",
-      "ENGLISH": "they coughed, you (plural formal) coughed"
+      "SPANISH": "Tosieron",
+      "ENGLISH": "They coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "tosimos",
-      "ENGLISH": "we coughed"
+      "SPANISH": "Tosimos",
+      "ENGLISH": "We coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "tosisteis",
-      "ENGLISH": "you (plural) coughed"
+      "SPANISH": "Tosisteis",
+      "ENGLISH": "You coughed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había tosido",
+      "SPANISH": "Había tosido",
       "ENGLISH": "I had coughed"
     },
     "TU": {
-      "SPANISH": "habías tosido",
-      "ENGLISH": "you had coughed"
+      "SPANISH": "Habías tosido",
+      "ENGLISH": "You had coughed"
     },
     "EL": {
-      "SPANISH": "había tosido",
-      "ENGLISH": "s/he had coughed, you (formal) had coughed"
+      "SPANISH": "Había tosido",
+      "ENGLISH": "He had coughed"
     },
     "ELLOS": {
-      "SPANISH": "habían tosido",
-      "ENGLISH": "they had coughed, you (plural formal) had coughed"
+      "SPANISH": "Habían tosido",
+      "ENGLISH": "They had coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos tosido",
-      "ENGLISH": "we had coughed"
+      "SPANISH": "Habíamos tosido",
+      "ENGLISH": "We had coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais tosido",
-      "ENGLISH": "you (plural) had coughed"
+      "SPANISH": "Habíais tosido",
+      "ENGLISH": "You had coughed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "tosí",
+      "SPANISH": "Tosí",
       "ENGLISH": "I coughed"
     },
     "TU": {
-      "SPANISH": "tosiste",
-      "ENGLISH": "you coughed"
+      "SPANISH": "Tosiste",
+      "ENGLISH": "You coughed"
     },
     "EL": {
-      "SPANISH": "tosió",
-      "ENGLISH": "s/he coughed, you (formal) coughed"
+      "SPANISH": "Tosió",
+      "ENGLISH": "He coughed"
     },
     "ELLOS": {
-      "SPANISH": "tosieron",
-      "ENGLISH": "they coughed, you (plural formal) coughed"
+      "SPANISH": "Tosieron",
+      "ENGLISH": "They coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "tosimos",
-      "ENGLISH": "we coughed"
+      "SPANISH": "Tosimos",
+      "ENGLISH": "We coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "tosisteis",
-      "ENGLISH": "you (plural) coughed"
+      "SPANISH": "Tosisteis",
+      "ENGLISH": "You coughed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "toseré",
+      "SPANISH": "Toseré",
       "ENGLISH": "I will cough"
     },
     "TU": {
-      "SPANISH": "toserás",
-      "ENGLISH": "you will cough"
+      "SPANISH": "Toserás",
+      "ENGLISH": "You will cough"
     },
     "EL": {
-      "SPANISH": "toserá",
-      "ENGLISH": "s/he will cough, you (formal) will cough"
+      "SPANISH": "Toserá",
+      "ENGLISH": "He will cough"
     },
     "ELLOS": {
-      "SPANISH": "toserán",
-      "ENGLISH": "they will cough, you (plural formal) will cough"
+      "SPANISH": "Toserán",
+      "ENGLISH": "They will cough"
     },
     "NOSOTROS": {
-      "SPANISH": "toseremos",
-      "ENGLISH": "we will cough"
+      "SPANISH": "Toseremos",
+      "ENGLISH": "We will cough"
     },
     "VOSOTROS": {
-      "SPANISH": "toseréis",
-      "ENGLISH": "you (plural) will cough"
+      "SPANISH": "Toseréis",
+      "ENGLISH": "You will cough"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré tosido",
+      "SPANISH": "Habré tosido",
       "ENGLISH": "I will have coughed"
     },
     "TU": {
-      "SPANISH": "habrás tosido",
-      "ENGLISH": "you will have coughed"
+      "SPANISH": "Habrás tosido",
+      "ENGLISH": "You will have coughed"
     },
     "EL": {
-      "SPANISH": "habrá tosido",
-      "ENGLISH": "s/he will have coughed, you (formal) will have coughed"
+      "SPANISH": "Habrá tosido",
+      "ENGLISH": "He will have coughed"
     },
     "ELLOS": {
-      "SPANISH": "habrán tosido",
-      "ENGLISH": "they will have coughed, you (plural formal) will have coughed"
+      "SPANISH": "Habrán tosido",
+      "ENGLISH": "They will have coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos tosido",
-      "ENGLISH": "we will have coughed"
+      "SPANISH": "Habremos tosido",
+      "ENGLISH": "We will have coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis tosido",
-      "ENGLISH": "you (plural) will have coughed"
+      "SPANISH": "Habréis tosido",
+      "ENGLISH": "You will have coughed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "tosería",
+      "SPANISH": "Tosería",
       "ENGLISH": "I would cough"
     },
     "TU": {
-      "SPANISH": "toserías",
-      "ENGLISH": "you would cough"
+      "SPANISH": "Toserías",
+      "ENGLISH": "You would cough"
     },
     "EL": {
-      "SPANISH": "tosería",
-      "ENGLISH": "s/he would cough, you (formal) would cough"
+      "SPANISH": "Tosería",
+      "ENGLISH": "He would cough"
     },
     "ELLOS": {
-      "SPANISH": "toserían",
-      "ENGLISH": "they would cough, you (plural formal) would cough"
+      "SPANISH": "Toserían",
+      "ENGLISH": "They would cough"
     },
     "NOSOTROS": {
-      "SPANISH": "toseríamos",
-      "ENGLISH": "we would cough"
+      "SPANISH": "Toseríamos",
+      "ENGLISH": "We would cough"
     },
     "VOSOTROS": {
-      "SPANISH": "toseríais",
-      "ENGLISH": "you (plural) would cough"
+      "SPANISH": "Toseríais",
+      "ENGLISH": "You would cough"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría tosido",
+      "SPANISH": "Habría tosido",
       "ENGLISH": "I would have coughed"
     },
     "TU": {
-      "SPANISH": "habrías tosido",
-      "ENGLISH": "you would have coughed"
+      "SPANISH": "Habrías tosido",
+      "ENGLISH": "You would have coughed"
     },
     "EL": {
-      "SPANISH": "habría tosido",
-      "ENGLISH": "s/he would have coughed, you (formal) would have coughed"
+      "SPANISH": "Habría tosido",
+      "ENGLISH": "He would have coughed"
     },
     "ELLOS": {
-      "SPANISH": "habrían tosido",
-      "ENGLISH": "they would have coughed, you (plural formal) would have coughed"
+      "SPANISH": "Habrían tosido",
+      "ENGLISH": "They would have coughed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos tosido",
-      "ENGLISH": "we would have coughed"
+      "SPANISH": "Habríamos tosido",
+      "ENGLISH": "We would have coughed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais tosido",
-      "ENGLISH": "you (plural) would have coughed"
+      "SPANISH": "Habríais tosido",
+      "ENGLISH": "You would have coughed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "presento",
+      "SPANISH": "Presento",
       "ENGLISH": "I present"
     },
     "TU": {
-      "SPANISH": "presentas",
-      "ENGLISH": "you present"
+      "SPANISH": "Presentas",
+      "ENGLISH": "You present"
     },
     "EL": {
-      "SPANISH": "presenta",
-      "ENGLISH": "s/he presents, you (formal) presents"
+      "SPANISH": "Presenta",
+      "ENGLISH": "He presents"
     },
     "ELLOS": {
-      "SPANISH": "presentan",
-      "ENGLISH": "they present, you (plural formal) present"
+      "SPANISH": "Presentan",
+      "ENGLISH": "They present"
     },
     "NOSOTROS": {
-      "SPANISH": "presentamos",
-      "ENGLISH": "we present"
+      "SPANISH": "Presentamos",
+      "ENGLISH": "We present"
     },
     "VOSOTROS": {
-      "SPANISH": "presentáis",
-      "ENGLISH": "you (plural) present"
+      "SPANISH": "Presentáis",
+      "ENGLISH": "You present"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he presentado",
+      "SPANISH": "He presentado",
       "ENGLISH": "I have presented"
     },
     "TU": {
-      "SPANISH": "has presentado",
-      "ENGLISH": "you have presented"
+      "SPANISH": "Has presentado",
+      "ENGLISH": "You have presented"
     },
     "EL": {
-      "SPANISH": "ha presentado",
-      "ENGLISH": "s/he has presented, you (formal) have presented"
+      "SPANISH": "Ha presentado",
+      "ENGLISH": "He has presented"
     },
     "ELLOS": {
-      "SPANISH": "han presentado",
-      "ENGLISH": "they have presented, you (plural formal) have presented"
+      "SPANISH": "Han presentado",
+      "ENGLISH": "They have presented"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos presentado",
-      "ENGLISH": "we have presented"
+      "SPANISH": "Hemos presentado",
+      "ENGLISH": "We have presented"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis presentado",
-      "ENGLISH": "you (plural) have presented"
+      "SPANISH": "Habéis presentado",
+      "ENGLISH": "You have presented"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "presenté",
+      "SPANISH": "Presenté",
       "ENGLISH": "I presented"
     },
     "TU": {
-      "SPANISH": "presentaste",
-      "ENGLISH": "you presented"
+      "SPANISH": "Presentaste",
+      "ENGLISH": "You presented"
     },
     "EL": {
-      "SPANISH": "presentó",
-      "ENGLISH": "s/he presented, you (formal) presented"
+      "SPANISH": "Presentó",
+      "ENGLISH": "He presented"
     },
     "ELLOS": {
-      "SPANISH": "presentaron",
-      "ENGLISH": "they presented, you (plural formal) presented"
+      "SPANISH": "Presentaron",
+      "ENGLISH": "They presented"
     },
     "NOSOTROS": {
-      "SPANISH": "presentamos",
-      "ENGLISH": "we presented"
+      "SPANISH": "Presentamos",
+      "ENGLISH": "We presented"
     },
     "VOSOTROS": {
-      "SPANISH": "presentasteis",
-      "ENGLISH": "you (plural) presented"
+      "SPANISH": "Presentasteis",
+      "ENGLISH": "You presented"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había presentado",
+      "SPANISH": "Había presentado",
       "ENGLISH": "I had presented"
     },
     "TU": {
-      "SPANISH": "habías presentado",
-      "ENGLISH": "you had presented"
+      "SPANISH": "Habías presentado",
+      "ENGLISH": "You had presented"
     },
     "EL": {
-      "SPANISH": "había presentado",
-      "ENGLISH": "s/he had presented, you (formal) had presented"
+      "SPANISH": "Había presentado",
+      "ENGLISH": "He had presented"
     },
     "ELLOS": {
-      "SPANISH": "habían presentado",
-      "ENGLISH": "they had presented, you (plural formal) had presented"
+      "SPANISH": "Habían presentado",
+      "ENGLISH": "They had presented"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos presentado",
-      "ENGLISH": "we had presented"
+      "SPANISH": "Habíamos presentado",
+      "ENGLISH": "We had presented"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais presentado",
-      "ENGLISH": "you (plural) had presented"
+      "SPANISH": "Habíais presentado",
+      "ENGLISH": "You had presented"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "presenté",
+      "SPANISH": "Presenté",
       "ENGLISH": "I presented"
     },
     "TU": {
-      "SPANISH": "presentaste",
-      "ENGLISH": "you presented"
+      "SPANISH": "Presentaste",
+      "ENGLISH": "You presented"
     },
     "EL": {
-      "SPANISH": "presentó",
-      "ENGLISH": "s/he presented, you (formal) presented"
+      "SPANISH": "Presentó",
+      "ENGLISH": "He presented"
     },
     "ELLOS": {
-      "SPANISH": "presentaron",
-      "ENGLISH": "they presented, you (plural formal) presented"
+      "SPANISH": "Presentaron",
+      "ENGLISH": "They presented"
     },
     "NOSOTROS": {
-      "SPANISH": "presentamos",
-      "ENGLISH": "we presented"
+      "SPANISH": "Presentamos",
+      "ENGLISH": "We presented"
     },
     "VOSOTROS": {
-      "SPANISH": "presentasteis",
-      "ENGLISH": "you (plural) presented"
+      "SPANISH": "Presentasteis",
+      "ENGLISH": "You presented"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "presentaré",
+      "SPANISH": "Presentaré",
       "ENGLISH": "I will present"
     },
     "TU": {
-      "SPANISH": "presentarás",
-      "ENGLISH": "you will present"
+      "SPANISH": "Presentarás",
+      "ENGLISH": "You will present"
     },
     "EL": {
-      "SPANISH": "presentará",
-      "ENGLISH": "s/he will present, you (formal) will present"
+      "SPANISH": "Presentará",
+      "ENGLISH": "He will present"
     },
     "ELLOS": {
-      "SPANISH": "presentarán",
-      "ENGLISH": "they will present, you (plural formal) will present"
+      "SPANISH": "Presentarán",
+      "ENGLISH": "They will present"
     },
     "NOSOTROS": {
-      "SPANISH": "presentaremos",
-      "ENGLISH": "we will present"
+      "SPANISH": "Presentaremos",
+      "ENGLISH": "We will present"
     },
     "VOSOTROS": {
-      "SPANISH": "presentaréis",
-      "ENGLISH": "you (plural) will present"
+      "SPANISH": "Presentaréis",
+      "ENGLISH": "You will present"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré presentado",
+      "SPANISH": "Habré presentado",
       "ENGLISH": "I will have presented"
     },
     "TU": {
-      "SPANISH": "habrás presentado",
-      "ENGLISH": "you will have presented"
+      "SPANISH": "Habrás presentado",
+      "ENGLISH": "You will have presented"
     },
     "EL": {
-      "SPANISH": "habrá presentado",
-      "ENGLISH": "s/he will have presented, you (formal) will have presented"
+      "SPANISH": "Habrá presentado",
+      "ENGLISH": "He will have presented"
     },
     "ELLOS": {
-      "SPANISH": "habrán presentado",
-      "ENGLISH": "they will have presented, you (plural formal) will have presented"
+      "SPANISH": "Habrán presentado",
+      "ENGLISH": "They will have presented"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos presentado",
-      "ENGLISH": "we will have presented"
+      "SPANISH": "Habremos presentado",
+      "ENGLISH": "We will have presented"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis presentado",
-      "ENGLISH": "you (plural) will have presented"
+      "SPANISH": "Habréis presentado",
+      "ENGLISH": "You will have presented"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "presentaría",
+      "SPANISH": "Presentaría",
       "ENGLISH": "I would present"
     },
     "TU": {
-      "SPANISH": "presentarías",
-      "ENGLISH": "you would present"
+      "SPANISH": "Presentarías",
+      "ENGLISH": "You would present"
     },
     "EL": {
-      "SPANISH": "presentaría",
-      "ENGLISH": "s/he would present, you (formal) would present"
+      "SPANISH": "Presentaría",
+      "ENGLISH": "He would present"
     },
     "ELLOS": {
-      "SPANISH": "presentarían",
-      "ENGLISH": "they would present, you (plural formal) would present"
+      "SPANISH": "Presentarían",
+      "ENGLISH": "They would present"
     },
     "NOSOTROS": {
-      "SPANISH": "presentaríamos",
-      "ENGLISH": "we would present"
+      "SPANISH": "Presentaríamos",
+      "ENGLISH": "We would present"
     },
     "VOSOTROS": {
-      "SPANISH": "presentaríais",
-      "ENGLISH": "you (plural) would present"
+      "SPANISH": "Presentaríais",
+      "ENGLISH": "You would present"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría presentado",
+      "SPANISH": "Habría presentado",
       "ENGLISH": "I would have presented"
     },
     "TU": {
-      "SPANISH": "habrías presentado",
-      "ENGLISH": "you would have presented"
+      "SPANISH": "Habrías presentado",
+      "ENGLISH": "You would have presented"
     },
     "EL": {
-      "SPANISH": "habría presentado",
-      "ENGLISH": "s/he would have presented, you (formal) would have presented"
+      "SPANISH": "Habría presentado",
+      "ENGLISH": "He would have presented"
     },
     "ELLOS": {
-      "SPANISH": "habrían presentado",
-      "ENGLISH": "they would have presented, you (plural formal) would have presented"
+      "SPANISH": "Habrían presentado",
+      "ENGLISH": "They would have presented"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos presentado",
-      "ENGLISH": "we would have presented"
+      "SPANISH": "Habríamos presentado",
+      "ENGLISH": "We would have presented"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais presentado",
-      "ENGLISH": "you (plural) would have presented"
+      "SPANISH": "Habríais presentado",
+      "ENGLISH": "You would have presented"
     }
   }
 }

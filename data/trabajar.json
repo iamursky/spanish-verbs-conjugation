@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "trabajo",
+      "SPANISH": "Trabajo",
       "ENGLISH": "I work"
     },
     "TU": {
-      "SPANISH": "trabajas",
-      "ENGLISH": "you work"
+      "SPANISH": "Trabajas",
+      "ENGLISH": "You work"
     },
     "EL": {
-      "SPANISH": "trabaja",
-      "ENGLISH": "s/he works, you (formal) works"
+      "SPANISH": "Trabaja",
+      "ENGLISH": "He works"
     },
     "ELLOS": {
-      "SPANISH": "trabajan",
-      "ENGLISH": "they work, you (plural formal) work"
+      "SPANISH": "Trabajan",
+      "ENGLISH": "They work"
     },
     "NOSOTROS": {
-      "SPANISH": "trabajamos",
-      "ENGLISH": "we work"
+      "SPANISH": "Trabajamos",
+      "ENGLISH": "We work"
     },
     "VOSOTROS": {
-      "SPANISH": "trabajáis",
-      "ENGLISH": "you (plural) work"
+      "SPANISH": "Trabajáis",
+      "ENGLISH": "You work"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he trabajado",
+      "SPANISH": "He trabajado",
       "ENGLISH": "I have worked"
     },
     "TU": {
-      "SPANISH": "has trabajado",
-      "ENGLISH": "you have worked"
+      "SPANISH": "Has trabajado",
+      "ENGLISH": "You have worked"
     },
     "EL": {
-      "SPANISH": "ha trabajado",
-      "ENGLISH": "s/he has worked, you (formal) have worked"
+      "SPANISH": "Ha trabajado",
+      "ENGLISH": "He has worked"
     },
     "ELLOS": {
-      "SPANISH": "han trabajado",
-      "ENGLISH": "they have worked, you (plural formal) have worked"
+      "SPANISH": "Han trabajado",
+      "ENGLISH": "They have worked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos trabajado",
-      "ENGLISH": "we have worked"
+      "SPANISH": "Hemos trabajado",
+      "ENGLISH": "We have worked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis trabajado",
-      "ENGLISH": "you (plural) have worked"
+      "SPANISH": "Habéis trabajado",
+      "ENGLISH": "You have worked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "trabajé",
+      "SPANISH": "Trabajé",
       "ENGLISH": "I worked"
     },
     "TU": {
-      "SPANISH": "trabajaste",
-      "ENGLISH": "you worked"
+      "SPANISH": "Trabajaste",
+      "ENGLISH": "You worked"
     },
     "EL": {
-      "SPANISH": "trabajó",
-      "ENGLISH": "s/he worked, you (formal) worked"
+      "SPANISH": "Trabajó",
+      "ENGLISH": "He worked"
     },
     "ELLOS": {
-      "SPANISH": "trabajaron",
-      "ENGLISH": "they worked, you (plural formal) worked"
+      "SPANISH": "Trabajaron",
+      "ENGLISH": "They worked"
     },
     "NOSOTROS": {
-      "SPANISH": "trabajamos",
-      "ENGLISH": "we worked"
+      "SPANISH": "Trabajamos",
+      "ENGLISH": "We worked"
     },
     "VOSOTROS": {
-      "SPANISH": "trabajasteis",
-      "ENGLISH": "you (plural) worked"
+      "SPANISH": "Trabajasteis",
+      "ENGLISH": "You worked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había trabajado",
+      "SPANISH": "Había trabajado",
       "ENGLISH": "I had worked"
     },
     "TU": {
-      "SPANISH": "habías trabajado",
-      "ENGLISH": "you had worked"
+      "SPANISH": "Habías trabajado",
+      "ENGLISH": "You had worked"
     },
     "EL": {
-      "SPANISH": "había trabajado",
-      "ENGLISH": "s/he had worked, you (formal) had worked"
+      "SPANISH": "Había trabajado",
+      "ENGLISH": "He had worked"
     },
     "ELLOS": {
-      "SPANISH": "habían trabajado",
-      "ENGLISH": "they had worked, you (plural formal) had worked"
+      "SPANISH": "Habían trabajado",
+      "ENGLISH": "They had worked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos trabajado",
-      "ENGLISH": "we had worked"
+      "SPANISH": "Habíamos trabajado",
+      "ENGLISH": "We had worked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais trabajado",
-      "ENGLISH": "you (plural) had worked"
+      "SPANISH": "Habíais trabajado",
+      "ENGLISH": "You had worked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "trabajé",
+      "SPANISH": "Trabajé",
       "ENGLISH": "I worked"
     },
     "TU": {
-      "SPANISH": "trabajaste",
-      "ENGLISH": "you worked"
+      "SPANISH": "Trabajaste",
+      "ENGLISH": "You worked"
     },
     "EL": {
-      "SPANISH": "trabajó",
-      "ENGLISH": "s/he worked, you (formal) worked"
+      "SPANISH": "Trabajó",
+      "ENGLISH": "He worked"
     },
     "ELLOS": {
-      "SPANISH": "trabajaron",
-      "ENGLISH": "they worked, you (plural formal) worked"
+      "SPANISH": "Trabajaron",
+      "ENGLISH": "They worked"
     },
     "NOSOTROS": {
-      "SPANISH": "trabajamos",
-      "ENGLISH": "we worked"
+      "SPANISH": "Trabajamos",
+      "ENGLISH": "We worked"
     },
     "VOSOTROS": {
-      "SPANISH": "trabajasteis",
-      "ENGLISH": "you (plural) worked"
+      "SPANISH": "Trabajasteis",
+      "ENGLISH": "You worked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "trabajaré",
+      "SPANISH": "Trabajaré",
       "ENGLISH": "I will work"
     },
     "TU": {
-      "SPANISH": "trabajarás",
-      "ENGLISH": "you will work"
+      "SPANISH": "Trabajarás",
+      "ENGLISH": "You will work"
     },
     "EL": {
-      "SPANISH": "trabajará",
-      "ENGLISH": "s/he will work, you (formal) will work"
+      "SPANISH": "Trabajará",
+      "ENGLISH": "He will work"
     },
     "ELLOS": {
-      "SPANISH": "trabajarán",
-      "ENGLISH": "they will work, you (plural formal) will work"
+      "SPANISH": "Trabajarán",
+      "ENGLISH": "They will work"
     },
     "NOSOTROS": {
-      "SPANISH": "trabajaremos",
-      "ENGLISH": "we will work"
+      "SPANISH": "Trabajaremos",
+      "ENGLISH": "We will work"
     },
     "VOSOTROS": {
-      "SPANISH": "trabajaréis",
-      "ENGLISH": "you (plural) will work"
+      "SPANISH": "Trabajaréis",
+      "ENGLISH": "You will work"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré trabajado",
+      "SPANISH": "Habré trabajado",
       "ENGLISH": "I will have worked"
     },
     "TU": {
-      "SPANISH": "habrás trabajado",
-      "ENGLISH": "you will have worked"
+      "SPANISH": "Habrás trabajado",
+      "ENGLISH": "You will have worked"
     },
     "EL": {
-      "SPANISH": "habrá trabajado",
-      "ENGLISH": "s/he will have worked, you (formal) will have worked"
+      "SPANISH": "Habrá trabajado",
+      "ENGLISH": "He will have worked"
     },
     "ELLOS": {
-      "SPANISH": "habrán trabajado",
-      "ENGLISH": "they will have worked, you (plural formal) will have worked"
+      "SPANISH": "Habrán trabajado",
+      "ENGLISH": "They will have worked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos trabajado",
-      "ENGLISH": "we will have worked"
+      "SPANISH": "Habremos trabajado",
+      "ENGLISH": "We will have worked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis trabajado",
-      "ENGLISH": "you (plural) will have worked"
+      "SPANISH": "Habréis trabajado",
+      "ENGLISH": "You will have worked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "trabajaría",
+      "SPANISH": "Trabajaría",
       "ENGLISH": "I would work"
     },
     "TU": {
-      "SPANISH": "trabajarías",
-      "ENGLISH": "you would work"
+      "SPANISH": "Trabajarías",
+      "ENGLISH": "You would work"
     },
     "EL": {
-      "SPANISH": "trabajaría",
-      "ENGLISH": "s/he would work, you (formal) would work"
+      "SPANISH": "Trabajaría",
+      "ENGLISH": "He would work"
     },
     "ELLOS": {
-      "SPANISH": "trabajarían",
-      "ENGLISH": "they would work, you (plural formal) would work"
+      "SPANISH": "Trabajarían",
+      "ENGLISH": "They would work"
     },
     "NOSOTROS": {
-      "SPANISH": "trabajaríamos",
-      "ENGLISH": "we would work"
+      "SPANISH": "Trabajaríamos",
+      "ENGLISH": "We would work"
     },
     "VOSOTROS": {
-      "SPANISH": "trabajaríais",
-      "ENGLISH": "you (plural) would work"
+      "SPANISH": "Trabajaríais",
+      "ENGLISH": "You would work"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría trabajado",
+      "SPANISH": "Habría trabajado",
       "ENGLISH": "I would have worked"
     },
     "TU": {
-      "SPANISH": "habrías trabajado",
-      "ENGLISH": "you would have worked"
+      "SPANISH": "Habrías trabajado",
+      "ENGLISH": "You would have worked"
     },
     "EL": {
-      "SPANISH": "habría trabajado",
-      "ENGLISH": "s/he would have worked, you (formal) would have worked"
+      "SPANISH": "Habría trabajado",
+      "ENGLISH": "He would have worked"
     },
     "ELLOS": {
-      "SPANISH": "habrían trabajado",
-      "ENGLISH": "they would have worked, you (plural formal) would have worked"
+      "SPANISH": "Habrían trabajado",
+      "ENGLISH": "They would have worked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos trabajado",
-      "ENGLISH": "we would have worked"
+      "SPANISH": "Habríamos trabajado",
+      "ENGLISH": "We would have worked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais trabajado",
-      "ENGLISH": "you (plural) would have worked"
+      "SPANISH": "Habríais trabajado",
+      "ENGLISH": "You would have worked"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "termino",
+      "SPANISH": "Termino",
       "ENGLISH": "I end"
     },
     "TU": {
-      "SPANISH": "terminas",
-      "ENGLISH": "you end"
+      "SPANISH": "Terminas",
+      "ENGLISH": "You end"
     },
     "EL": {
-      "SPANISH": "termina",
-      "ENGLISH": "s/he ends, you (formal) ends"
+      "SPANISH": "Termina",
+      "ENGLISH": "He ends"
     },
     "ELLOS": {
-      "SPANISH": "terminan",
-      "ENGLISH": "they end, you (plural formal) end"
+      "SPANISH": "Terminan",
+      "ENGLISH": "They end"
     },
     "NOSOTROS": {
-      "SPANISH": "terminamos",
-      "ENGLISH": "we end"
+      "SPANISH": "Terminamos",
+      "ENGLISH": "We end"
     },
     "VOSOTROS": {
-      "SPANISH": "termináis",
-      "ENGLISH": "you (plural) end"
+      "SPANISH": "Termináis",
+      "ENGLISH": "You end"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he terminado",
+      "SPANISH": "He terminado",
       "ENGLISH": "I have ended"
     },
     "TU": {
-      "SPANISH": "has terminado",
-      "ENGLISH": "you have ended"
+      "SPANISH": "Has terminado",
+      "ENGLISH": "You have ended"
     },
     "EL": {
-      "SPANISH": "ha terminado",
-      "ENGLISH": "s/he has ended, you (formal) have ended"
+      "SPANISH": "Ha terminado",
+      "ENGLISH": "He has ended"
     },
     "ELLOS": {
-      "SPANISH": "han terminado",
-      "ENGLISH": "they have ended, you (plural formal) have ended"
+      "SPANISH": "Han terminado",
+      "ENGLISH": "They have ended"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos terminado",
-      "ENGLISH": "we have ended"
+      "SPANISH": "Hemos terminado",
+      "ENGLISH": "We have ended"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis terminado",
-      "ENGLISH": "you (plural) have ended"
+      "SPANISH": "Habéis terminado",
+      "ENGLISH": "You have ended"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "terminé",
+      "SPANISH": "Terminé",
       "ENGLISH": "I ended"
     },
     "TU": {
-      "SPANISH": "terminaste",
-      "ENGLISH": "you ended"
+      "SPANISH": "Terminaste",
+      "ENGLISH": "You ended"
     },
     "EL": {
-      "SPANISH": "terminó",
-      "ENGLISH": "s/he ended, you (formal) ended"
+      "SPANISH": "Terminó",
+      "ENGLISH": "He ended"
     },
     "ELLOS": {
-      "SPANISH": "terminaron",
-      "ENGLISH": "they ended, you (plural formal) ended"
+      "SPANISH": "Terminaron",
+      "ENGLISH": "They ended"
     },
     "NOSOTROS": {
-      "SPANISH": "terminamos",
-      "ENGLISH": "we ended"
+      "SPANISH": "Terminamos",
+      "ENGLISH": "We ended"
     },
     "VOSOTROS": {
-      "SPANISH": "terminasteis",
-      "ENGLISH": "you (plural) ended"
+      "SPANISH": "Terminasteis",
+      "ENGLISH": "You ended"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había terminado",
+      "SPANISH": "Había terminado",
       "ENGLISH": "I had ended"
     },
     "TU": {
-      "SPANISH": "habías terminado",
-      "ENGLISH": "you had ended"
+      "SPANISH": "Habías terminado",
+      "ENGLISH": "You had ended"
     },
     "EL": {
-      "SPANISH": "había terminado",
-      "ENGLISH": "s/he had ended, you (formal) had ended"
+      "SPANISH": "Había terminado",
+      "ENGLISH": "He had ended"
     },
     "ELLOS": {
-      "SPANISH": "habían terminado",
-      "ENGLISH": "they had ended, you (plural formal) had ended"
+      "SPANISH": "Habían terminado",
+      "ENGLISH": "They had ended"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos terminado",
-      "ENGLISH": "we had ended"
+      "SPANISH": "Habíamos terminado",
+      "ENGLISH": "We had ended"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais terminado",
-      "ENGLISH": "you (plural) had ended"
+      "SPANISH": "Habíais terminado",
+      "ENGLISH": "You had ended"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "terminé",
+      "SPANISH": "Terminé",
       "ENGLISH": "I ended"
     },
     "TU": {
-      "SPANISH": "terminaste",
-      "ENGLISH": "you ended"
+      "SPANISH": "Terminaste",
+      "ENGLISH": "You ended"
     },
     "EL": {
-      "SPANISH": "terminó",
-      "ENGLISH": "s/he ended, you (formal) ended"
+      "SPANISH": "Terminó",
+      "ENGLISH": "He ended"
     },
     "ELLOS": {
-      "SPANISH": "terminaron",
-      "ENGLISH": "they ended, you (plural formal) ended"
+      "SPANISH": "Terminaron",
+      "ENGLISH": "They ended"
     },
     "NOSOTROS": {
-      "SPANISH": "terminamos",
-      "ENGLISH": "we ended"
+      "SPANISH": "Terminamos",
+      "ENGLISH": "We ended"
     },
     "VOSOTROS": {
-      "SPANISH": "terminasteis",
-      "ENGLISH": "you (plural) ended"
+      "SPANISH": "Terminasteis",
+      "ENGLISH": "You ended"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "terminaré",
+      "SPANISH": "Terminaré",
       "ENGLISH": "I will end"
     },
     "TU": {
-      "SPANISH": "terminarás",
-      "ENGLISH": "you will end"
+      "SPANISH": "Terminarás",
+      "ENGLISH": "You will end"
     },
     "EL": {
-      "SPANISH": "terminará",
-      "ENGLISH": "s/he will end, you (formal) will end"
+      "SPANISH": "Terminará",
+      "ENGLISH": "He will end"
     },
     "ELLOS": {
-      "SPANISH": "terminarán",
-      "ENGLISH": "they will end, you (plural formal) will end"
+      "SPANISH": "Terminarán",
+      "ENGLISH": "They will end"
     },
     "NOSOTROS": {
-      "SPANISH": "terminaremos",
-      "ENGLISH": "we will end"
+      "SPANISH": "Terminaremos",
+      "ENGLISH": "We will end"
     },
     "VOSOTROS": {
-      "SPANISH": "terminaréis",
-      "ENGLISH": "you (plural) will end"
+      "SPANISH": "Terminaréis",
+      "ENGLISH": "You will end"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré terminado",
+      "SPANISH": "Habré terminado",
       "ENGLISH": "I will have ended"
     },
     "TU": {
-      "SPANISH": "habrás terminado",
-      "ENGLISH": "you will have ended"
+      "SPANISH": "Habrás terminado",
+      "ENGLISH": "You will have ended"
     },
     "EL": {
-      "SPANISH": "habrá terminado",
-      "ENGLISH": "s/he will have ended, you (formal) will have ended"
+      "SPANISH": "Habrá terminado",
+      "ENGLISH": "He will have ended"
     },
     "ELLOS": {
-      "SPANISH": "habrán terminado",
-      "ENGLISH": "they will have ended, you (plural formal) will have ended"
+      "SPANISH": "Habrán terminado",
+      "ENGLISH": "They will have ended"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos terminado",
-      "ENGLISH": "we will have ended"
+      "SPANISH": "Habremos terminado",
+      "ENGLISH": "We will have ended"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis terminado",
-      "ENGLISH": "you (plural) will have ended"
+      "SPANISH": "Habréis terminado",
+      "ENGLISH": "You will have ended"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "terminaría",
+      "SPANISH": "Terminaría",
       "ENGLISH": "I would end"
     },
     "TU": {
-      "SPANISH": "terminarías",
-      "ENGLISH": "you would end"
+      "SPANISH": "Terminarías",
+      "ENGLISH": "You would end"
     },
     "EL": {
-      "SPANISH": "terminaría",
-      "ENGLISH": "s/he would end, you (formal) would end"
+      "SPANISH": "Terminaría",
+      "ENGLISH": "He would end"
     },
     "ELLOS": {
-      "SPANISH": "terminarían",
-      "ENGLISH": "they would end, you (plural formal) would end"
+      "SPANISH": "Terminarían",
+      "ENGLISH": "They would end"
     },
     "NOSOTROS": {
-      "SPANISH": "terminaríamos",
-      "ENGLISH": "we would end"
+      "SPANISH": "Terminaríamos",
+      "ENGLISH": "We would end"
     },
     "VOSOTROS": {
-      "SPANISH": "terminaríais",
-      "ENGLISH": "you (plural) would end"
+      "SPANISH": "Terminaríais",
+      "ENGLISH": "You would end"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría terminado",
+      "SPANISH": "Habría terminado",
       "ENGLISH": "I would have ended"
     },
     "TU": {
-      "SPANISH": "habrías terminado",
-      "ENGLISH": "you would have ended"
+      "SPANISH": "Habrías terminado",
+      "ENGLISH": "You would have ended"
     },
     "EL": {
-      "SPANISH": "habría terminado",
-      "ENGLISH": "s/he would have ended, you (formal) would have ended"
+      "SPANISH": "Habría terminado",
+      "ENGLISH": "He would have ended"
     },
     "ELLOS": {
-      "SPANISH": "habrían terminado",
-      "ENGLISH": "they would have ended, you (plural formal) would have ended"
+      "SPANISH": "Habrían terminado",
+      "ENGLISH": "They would have ended"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos terminado",
-      "ENGLISH": "we would have ended"
+      "SPANISH": "Habríamos terminado",
+      "ENGLISH": "We would have ended"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais terminado",
-      "ENGLISH": "you (plural) would have ended"
+      "SPANISH": "Habríais terminado",
+      "ENGLISH": "You would have ended"
     }
   }
 }

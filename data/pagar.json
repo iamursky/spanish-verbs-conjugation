@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pago",
+      "SPANISH": "Pago",
       "ENGLISH": "I pay"
     },
     "TU": {
-      "SPANISH": "pagas",
-      "ENGLISH": "you pay"
+      "SPANISH": "Pagas",
+      "ENGLISH": "You pay"
     },
     "EL": {
-      "SPANISH": "paga",
-      "ENGLISH": "s/he pays, you (formal) pays"
+      "SPANISH": "Paga",
+      "ENGLISH": "He pays"
     },
     "ELLOS": {
-      "SPANISH": "pagan",
-      "ENGLISH": "they pay, you (plural formal) pay"
+      "SPANISH": "Pagan",
+      "ENGLISH": "They pay"
     },
     "NOSOTROS": {
-      "SPANISH": "pagamos",
-      "ENGLISH": "we pay"
+      "SPANISH": "Pagamos",
+      "ENGLISH": "We pay"
     },
     "VOSOTROS": {
-      "SPANISH": "pagáis",
-      "ENGLISH": "you (plural) pay"
+      "SPANISH": "Pagáis",
+      "ENGLISH": "You pay"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he pagado",
+      "SPANISH": "He pagado",
       "ENGLISH": "I have paid"
     },
     "TU": {
-      "SPANISH": "has pagado",
-      "ENGLISH": "you have paid"
+      "SPANISH": "Has pagado",
+      "ENGLISH": "You have paid"
     },
     "EL": {
-      "SPANISH": "ha pagado",
-      "ENGLISH": "s/he has paid, you (formal) have paid"
+      "SPANISH": "Ha pagado",
+      "ENGLISH": "He has paid"
     },
     "ELLOS": {
-      "SPANISH": "han pagado",
-      "ENGLISH": "they have paid, you (plural formal) have paid"
+      "SPANISH": "Han pagado",
+      "ENGLISH": "They have paid"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos pagado",
-      "ENGLISH": "we have paid"
+      "SPANISH": "Hemos pagado",
+      "ENGLISH": "We have paid"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis pagado",
-      "ENGLISH": "you (plural) have paid"
+      "SPANISH": "Habéis pagado",
+      "ENGLISH": "You have paid"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "pagué ",
+      "SPANISH": "Pagué ",
       "ENGLISH": "I paid"
     },
     "TU": {
-      "SPANISH": "pagaste",
-      "ENGLISH": "you paid"
+      "SPANISH": "Pagaste",
+      "ENGLISH": "You paid"
     },
     "EL": {
-      "SPANISH": "pagó",
-      "ENGLISH": "s/he paid, you (formal) paid"
+      "SPANISH": "Pagó",
+      "ENGLISH": "He paid"
     },
     "ELLOS": {
-      "SPANISH": "pagaron",
-      "ENGLISH": "they paid, you (plural formal) paid"
+      "SPANISH": "Pagaron",
+      "ENGLISH": "They paid"
     },
     "NOSOTROS": {
-      "SPANISH": "pagamos",
-      "ENGLISH": "we paid"
+      "SPANISH": "Pagamos",
+      "ENGLISH": "We paid"
     },
     "VOSOTROS": {
-      "SPANISH": "pagasteis",
-      "ENGLISH": "you (plural) paid"
+      "SPANISH": "Pagasteis",
+      "ENGLISH": "You paid"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había pagado",
+      "SPANISH": "Había pagado",
       "ENGLISH": "I had paid"
     },
     "TU": {
-      "SPANISH": "habías pagado",
-      "ENGLISH": "you had paid"
+      "SPANISH": "Habías pagado",
+      "ENGLISH": "You had paid"
     },
     "EL": {
-      "SPANISH": "había pagado",
-      "ENGLISH": "s/he had paid, you (formal) had paid"
+      "SPANISH": "Había pagado",
+      "ENGLISH": "He had paid"
     },
     "ELLOS": {
-      "SPANISH": "habían pagado",
-      "ENGLISH": "they had paid, you (plural formal) had paid"
+      "SPANISH": "Habían pagado",
+      "ENGLISH": "They had paid"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos pagado",
-      "ENGLISH": "we had paid"
+      "SPANISH": "Habíamos pagado",
+      "ENGLISH": "We had paid"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais pagado",
-      "ENGLISH": "you (plural) had paid"
+      "SPANISH": "Habíais pagado",
+      "ENGLISH": "You had paid"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "pagué ",
+      "SPANISH": "Pagué ",
       "ENGLISH": "I paid"
     },
     "TU": {
-      "SPANISH": "pagaste",
-      "ENGLISH": "you paid"
+      "SPANISH": "Pagaste",
+      "ENGLISH": "You paid"
     },
     "EL": {
-      "SPANISH": "pagó",
-      "ENGLISH": "s/he paid, you (formal) paid"
+      "SPANISH": "Pagó",
+      "ENGLISH": "He paid"
     },
     "ELLOS": {
-      "SPANISH": "pagaron",
-      "ENGLISH": "they paid, you (plural formal) paid"
+      "SPANISH": "Pagaron",
+      "ENGLISH": "They paid"
     },
     "NOSOTROS": {
-      "SPANISH": "pagamos",
-      "ENGLISH": "we paid"
+      "SPANISH": "Pagamos",
+      "ENGLISH": "We paid"
     },
     "VOSOTROS": {
-      "SPANISH": "pagasteis",
-      "ENGLISH": "you (plural) paid"
+      "SPANISH": "Pagasteis",
+      "ENGLISH": "You paid"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "pagaré",
+      "SPANISH": "Pagaré",
       "ENGLISH": "I will pay"
     },
     "TU": {
-      "SPANISH": "pagarás",
-      "ENGLISH": "you will pay"
+      "SPANISH": "Pagarás",
+      "ENGLISH": "You will pay"
     },
     "EL": {
-      "SPANISH": "pagará",
-      "ENGLISH": "s/he will pay, you (formal) will pay"
+      "SPANISH": "Pagará",
+      "ENGLISH": "He will pay"
     },
     "ELLOS": {
-      "SPANISH": "pagarán",
-      "ENGLISH": "they will pay, you (plural formal) will pay"
+      "SPANISH": "Pagarán",
+      "ENGLISH": "They will pay"
     },
     "NOSOTROS": {
-      "SPANISH": "pagaremos",
-      "ENGLISH": "we will pay"
+      "SPANISH": "Pagaremos",
+      "ENGLISH": "We will pay"
     },
     "VOSOTROS": {
-      "SPANISH": "pagaréis",
-      "ENGLISH": "you (plural) will pay"
+      "SPANISH": "Pagaréis",
+      "ENGLISH": "You will pay"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré pagado",
+      "SPANISH": "Habré pagado",
       "ENGLISH": "I will have paid"
     },
     "TU": {
-      "SPANISH": "habrás pagado",
-      "ENGLISH": "you will have paid"
+      "SPANISH": "Habrás pagado",
+      "ENGLISH": "You will have paid"
     },
     "EL": {
-      "SPANISH": "habrá pagado",
-      "ENGLISH": "s/he will have paid, you (formal) will have paid"
+      "SPANISH": "Habrá pagado",
+      "ENGLISH": "He will have paid"
     },
     "ELLOS": {
-      "SPANISH": "habrán pagado",
-      "ENGLISH": "they will have paid, you (plural formal) will have paid"
+      "SPANISH": "Habrán pagado",
+      "ENGLISH": "They will have paid"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos pagado",
-      "ENGLISH": "we will have paid"
+      "SPANISH": "Habremos pagado",
+      "ENGLISH": "We will have paid"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis pagado",
-      "ENGLISH": "you (plural) will have paid"
+      "SPANISH": "Habréis pagado",
+      "ENGLISH": "You will have paid"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pagaría",
+      "SPANISH": "Pagaría",
       "ENGLISH": "I would pay"
     },
     "TU": {
-      "SPANISH": "pagarías",
-      "ENGLISH": "you would pay"
+      "SPANISH": "Pagarías",
+      "ENGLISH": "You would pay"
     },
     "EL": {
-      "SPANISH": "pagaría",
-      "ENGLISH": "s/he would pay, you (formal) would pay"
+      "SPANISH": "Pagaría",
+      "ENGLISH": "He would pay"
     },
     "ELLOS": {
-      "SPANISH": "pagarían",
-      "ENGLISH": "they would pay, you (plural formal) would pay"
+      "SPANISH": "Pagarían",
+      "ENGLISH": "They would pay"
     },
     "NOSOTROS": {
-      "SPANISH": "pagaríamos",
-      "ENGLISH": "we would pay"
+      "SPANISH": "Pagaríamos",
+      "ENGLISH": "We would pay"
     },
     "VOSOTROS": {
-      "SPANISH": "pagaríais",
-      "ENGLISH": "you (plural) would pay"
+      "SPANISH": "Pagaríais",
+      "ENGLISH": "You would pay"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría pagado",
+      "SPANISH": "Habría pagado",
       "ENGLISH": "I would have paid"
     },
     "TU": {
-      "SPANISH": "habrías pagado",
-      "ENGLISH": "you would have paid"
+      "SPANISH": "Habrías pagado",
+      "ENGLISH": "You would have paid"
     },
     "EL": {
-      "SPANISH": "habría pagado",
-      "ENGLISH": "s/he would have paid, you (formal) would have paid"
+      "SPANISH": "Habría pagado",
+      "ENGLISH": "He would have paid"
     },
     "ELLOS": {
-      "SPANISH": "habrían pagado",
-      "ENGLISH": "they would have paid, you (plural formal) would have paid"
+      "SPANISH": "Habrían pagado",
+      "ENGLISH": "They would have paid"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos pagado",
-      "ENGLISH": "we would have paid"
+      "SPANISH": "Habríamos pagado",
+      "ENGLISH": "We would have paid"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais pagado",
-      "ENGLISH": "you (plural) would have paid"
+      "SPANISH": "Habríais pagado",
+      "ENGLISH": "You would have paid"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "regreso",
+      "SPANISH": "Regreso",
       "ENGLISH": "I return"
     },
     "TU": {
-      "SPANISH": "regresas",
-      "ENGLISH": "you return"
+      "SPANISH": "Regresas",
+      "ENGLISH": "You return"
     },
     "EL": {
-      "SPANISH": "regresa",
-      "ENGLISH": "s/he returns, you (formal) returns"
+      "SPANISH": "Regresa",
+      "ENGLISH": "He returns"
     },
     "ELLOS": {
-      "SPANISH": "regresan",
-      "ENGLISH": "they return, you (plural formal) return"
+      "SPANISH": "Regresan",
+      "ENGLISH": "They return"
     },
     "NOSOTROS": {
-      "SPANISH": "regresamos",
-      "ENGLISH": "we return"
+      "SPANISH": "Regresamos",
+      "ENGLISH": "We return"
     },
     "VOSOTROS": {
-      "SPANISH": "regresáis",
-      "ENGLISH": "you (plural) return"
+      "SPANISH": "Regresáis",
+      "ENGLISH": "You return"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he regresado",
+      "SPANISH": "He regresado",
       "ENGLISH": "I have returned"
     },
     "TU": {
-      "SPANISH": "has regresado",
-      "ENGLISH": "you have returned"
+      "SPANISH": "Has regresado",
+      "ENGLISH": "You have returned"
     },
     "EL": {
-      "SPANISH": "ha regresado",
-      "ENGLISH": "s/he has returned, you (formal) have returned"
+      "SPANISH": "Ha regresado",
+      "ENGLISH": "He has returned"
     },
     "ELLOS": {
-      "SPANISH": "han regresado",
-      "ENGLISH": "they have returned, you (plural formal) have returned"
+      "SPANISH": "Han regresado",
+      "ENGLISH": "They have returned"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos regresado",
-      "ENGLISH": "we have returned"
+      "SPANISH": "Hemos regresado",
+      "ENGLISH": "We have returned"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis regresado",
-      "ENGLISH": "you (plural) have returned"
+      "SPANISH": "Habéis regresado",
+      "ENGLISH": "You have returned"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "regresé",
+      "SPANISH": "Regresé",
       "ENGLISH": "I returned"
     },
     "TU": {
-      "SPANISH": "regresaste",
-      "ENGLISH": "you returned"
+      "SPANISH": "Regresaste",
+      "ENGLISH": "You returned"
     },
     "EL": {
-      "SPANISH": "regresó",
-      "ENGLISH": "s/he returned, you (formal) returned"
+      "SPANISH": "Regresó",
+      "ENGLISH": "He returned"
     },
     "ELLOS": {
-      "SPANISH": "regresaron",
-      "ENGLISH": "they returned, you (plural formal) returned"
+      "SPANISH": "Regresaron",
+      "ENGLISH": "They returned"
     },
     "NOSOTROS": {
-      "SPANISH": "regresamos",
-      "ENGLISH": "we returned"
+      "SPANISH": "Regresamos",
+      "ENGLISH": "We returned"
     },
     "VOSOTROS": {
-      "SPANISH": "regresasteis",
-      "ENGLISH": "you (plural) returned"
+      "SPANISH": "Regresasteis",
+      "ENGLISH": "You returned"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había regresado",
+      "SPANISH": "Había regresado",
       "ENGLISH": "I had returned"
     },
     "TU": {
-      "SPANISH": "habías regresado",
-      "ENGLISH": "you had returned"
+      "SPANISH": "Habías regresado",
+      "ENGLISH": "You had returned"
     },
     "EL": {
-      "SPANISH": "había regresado",
-      "ENGLISH": "s/he had returned, you (formal) had returned"
+      "SPANISH": "Había regresado",
+      "ENGLISH": "He had returned"
     },
     "ELLOS": {
-      "SPANISH": "habían regresado",
-      "ENGLISH": "they had returned, you (plural formal) had returned"
+      "SPANISH": "Habían regresado",
+      "ENGLISH": "They had returned"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos regresado",
-      "ENGLISH": "we had returned"
+      "SPANISH": "Habíamos regresado",
+      "ENGLISH": "We had returned"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais regresado",
-      "ENGLISH": "you (plural) had returned"
+      "SPANISH": "Habíais regresado",
+      "ENGLISH": "You had returned"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "regresé",
+      "SPANISH": "Regresé",
       "ENGLISH": "I returned"
     },
     "TU": {
-      "SPANISH": "regresaste",
-      "ENGLISH": "you returned"
+      "SPANISH": "Regresaste",
+      "ENGLISH": "You returned"
     },
     "EL": {
-      "SPANISH": "regresó",
-      "ENGLISH": "s/he returned, you (formal) returned"
+      "SPANISH": "Regresó",
+      "ENGLISH": "He returned"
     },
     "ELLOS": {
-      "SPANISH": "regresaron",
-      "ENGLISH": "they returned, you (plural formal) returned"
+      "SPANISH": "Regresaron",
+      "ENGLISH": "They returned"
     },
     "NOSOTROS": {
-      "SPANISH": "regresamos",
-      "ENGLISH": "we returned"
+      "SPANISH": "Regresamos",
+      "ENGLISH": "We returned"
     },
     "VOSOTROS": {
-      "SPANISH": "regresasteis",
-      "ENGLISH": "you (plural) returned"
+      "SPANISH": "Regresasteis",
+      "ENGLISH": "You returned"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "regresaré",
+      "SPANISH": "Regresaré",
       "ENGLISH": "I will return"
     },
     "TU": {
-      "SPANISH": "regresarás",
-      "ENGLISH": "you will return"
+      "SPANISH": "Regresarás",
+      "ENGLISH": "You will return"
     },
     "EL": {
-      "SPANISH": "regresará",
-      "ENGLISH": "s/he will return, you (formal) will return"
+      "SPANISH": "Regresará",
+      "ENGLISH": "He will return"
     },
     "ELLOS": {
-      "SPANISH": "regresarán",
-      "ENGLISH": "they will return, you (plural formal) will return"
+      "SPANISH": "Regresarán",
+      "ENGLISH": "They will return"
     },
     "NOSOTROS": {
-      "SPANISH": "regresaremos",
-      "ENGLISH": "we will return"
+      "SPANISH": "Regresaremos",
+      "ENGLISH": "We will return"
     },
     "VOSOTROS": {
-      "SPANISH": "regresaréis",
-      "ENGLISH": "you (plural) will return"
+      "SPANISH": "Regresaréis",
+      "ENGLISH": "You will return"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré regresado",
+      "SPANISH": "Habré regresado",
       "ENGLISH": "I will have returned"
     },
     "TU": {
-      "SPANISH": "habrás regresado",
-      "ENGLISH": "you will have returned"
+      "SPANISH": "Habrás regresado",
+      "ENGLISH": "You will have returned"
     },
     "EL": {
-      "SPANISH": "habrá regresado",
-      "ENGLISH": "s/he will have returned, you (formal) will have returned"
+      "SPANISH": "Habrá regresado",
+      "ENGLISH": "He will have returned"
     },
     "ELLOS": {
-      "SPANISH": "habrán regresado",
-      "ENGLISH": "they will have returned, you (plural formal) will have returned"
+      "SPANISH": "Habrán regresado",
+      "ENGLISH": "They will have returned"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos regresado",
-      "ENGLISH": "we will have returned"
+      "SPANISH": "Habremos regresado",
+      "ENGLISH": "We will have returned"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis regresado",
-      "ENGLISH": "you (plural) will have returned"
+      "SPANISH": "Habréis regresado",
+      "ENGLISH": "You will have returned"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "regresaría",
+      "SPANISH": "Regresaría",
       "ENGLISH": "I would return"
     },
     "TU": {
-      "SPANISH": "regresarías",
-      "ENGLISH": "you would return"
+      "SPANISH": "Regresarías",
+      "ENGLISH": "You would return"
     },
     "EL": {
-      "SPANISH": "regresaría",
-      "ENGLISH": "s/he would return, you (formal) would return"
+      "SPANISH": "Regresaría",
+      "ENGLISH": "He would return"
     },
     "ELLOS": {
-      "SPANISH": "regresarían",
-      "ENGLISH": "they would return, you (plural formal) would return"
+      "SPANISH": "Regresarían",
+      "ENGLISH": "They would return"
     },
     "NOSOTROS": {
-      "SPANISH": "regresaríamos",
-      "ENGLISH": "we would return"
+      "SPANISH": "Regresaríamos",
+      "ENGLISH": "We would return"
     },
     "VOSOTROS": {
-      "SPANISH": "regresaríais",
-      "ENGLISH": "you (plural) would return"
+      "SPANISH": "Regresaríais",
+      "ENGLISH": "You would return"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría regresado",
+      "SPANISH": "Habría regresado",
       "ENGLISH": "I would have returned"
     },
     "TU": {
-      "SPANISH": "habrías regresado",
-      "ENGLISH": "you would have returned"
+      "SPANISH": "Habrías regresado",
+      "ENGLISH": "You would have returned"
     },
     "EL": {
-      "SPANISH": "habría regresado",
-      "ENGLISH": "s/he would have returned, you (formal) would have returned"
+      "SPANISH": "Habría regresado",
+      "ENGLISH": "He would have returned"
     },
     "ELLOS": {
-      "SPANISH": "habrían regresado",
-      "ENGLISH": "they would have returned, you (plural formal) would have returned"
+      "SPANISH": "Habrían regresado",
+      "ENGLISH": "They would have returned"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos regresado",
-      "ENGLISH": "we would have returned"
+      "SPANISH": "Habríamos regresado",
+      "ENGLISH": "We would have returned"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais regresado",
-      "ENGLISH": "you (plural) would have returned"
+      "SPANISH": "Habríais regresado",
+      "ENGLISH": "You would have returned"
     }
   }
 }

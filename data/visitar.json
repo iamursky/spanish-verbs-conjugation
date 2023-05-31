@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "visito",
+      "SPANISH": "Visito",
       "ENGLISH": "I visit"
     },
     "TU": {
-      "SPANISH": "visitas",
-      "ENGLISH": "you visit"
+      "SPANISH": "Visitas",
+      "ENGLISH": "You visit"
     },
     "EL": {
-      "SPANISH": "visita",
-      "ENGLISH": "s/he visits, you (formal) visits"
+      "SPANISH": "Visita",
+      "ENGLISH": "He visits"
     },
     "ELLOS": {
-      "SPANISH": "visitan",
-      "ENGLISH": "they visit, you (plural formal) visit"
+      "SPANISH": "Visitan",
+      "ENGLISH": "They visit"
     },
     "NOSOTROS": {
-      "SPANISH": "visitamos",
-      "ENGLISH": "we visit"
+      "SPANISH": "Visitamos",
+      "ENGLISH": "We visit"
     },
     "VOSOTROS": {
-      "SPANISH": "visitáis",
-      "ENGLISH": "you (plural) visit"
+      "SPANISH": "Visitáis",
+      "ENGLISH": "You visit"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he visitado",
+      "SPANISH": "He visitado",
       "ENGLISH": "I have visited"
     },
     "TU": {
-      "SPANISH": "has visitado",
-      "ENGLISH": "you have visited"
+      "SPANISH": "Has visitado",
+      "ENGLISH": "You have visited"
     },
     "EL": {
-      "SPANISH": "ha visitado",
-      "ENGLISH": "s/he has visited, you (formal) have visited"
+      "SPANISH": "Ha visitado",
+      "ENGLISH": "He has visited"
     },
     "ELLOS": {
-      "SPANISH": "han visitado",
-      "ENGLISH": "they have visited, you (plural formal) have visited"
+      "SPANISH": "Han visitado",
+      "ENGLISH": "They have visited"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos visitado",
-      "ENGLISH": "we have visited"
+      "SPANISH": "Hemos visitado",
+      "ENGLISH": "We have visited"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis visitado",
-      "ENGLISH": "you (plural) have visited"
+      "SPANISH": "Habéis visitado",
+      "ENGLISH": "You have visited"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "visité",
+      "SPANISH": "Visité",
       "ENGLISH": "I visited"
     },
     "TU": {
-      "SPANISH": "visitaste",
-      "ENGLISH": "you visited"
+      "SPANISH": "Visitaste",
+      "ENGLISH": "You visited"
     },
     "EL": {
-      "SPANISH": "visitó",
-      "ENGLISH": "s/he visited, you (formal) visited"
+      "SPANISH": "Visitó",
+      "ENGLISH": "He visited"
     },
     "ELLOS": {
-      "SPANISH": "visitaron",
-      "ENGLISH": "they visited, you (plural formal) visited"
+      "SPANISH": "Visitaron",
+      "ENGLISH": "They visited"
     },
     "NOSOTROS": {
-      "SPANISH": "visitamos",
-      "ENGLISH": "we visited"
+      "SPANISH": "Visitamos",
+      "ENGLISH": "We visited"
     },
     "VOSOTROS": {
-      "SPANISH": "visitasteis",
-      "ENGLISH": "you (plural) visited"
+      "SPANISH": "Visitasteis",
+      "ENGLISH": "You visited"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había visitado",
+      "SPANISH": "Había visitado",
       "ENGLISH": "I had visited"
     },
     "TU": {
-      "SPANISH": "habías visitado",
-      "ENGLISH": "you had visited"
+      "SPANISH": "Habías visitado",
+      "ENGLISH": "You had visited"
     },
     "EL": {
-      "SPANISH": "había visitado",
-      "ENGLISH": "s/he had visited, you (formal) had visited"
+      "SPANISH": "Había visitado",
+      "ENGLISH": "He had visited"
     },
     "ELLOS": {
-      "SPANISH": "habían visitado",
-      "ENGLISH": "they had visited, you (plural formal) had visited"
+      "SPANISH": "Habían visitado",
+      "ENGLISH": "They had visited"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos visitado",
-      "ENGLISH": "we had visited"
+      "SPANISH": "Habíamos visitado",
+      "ENGLISH": "We had visited"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais visitado",
-      "ENGLISH": "you (plural) had visited"
+      "SPANISH": "Habíais visitado",
+      "ENGLISH": "You had visited"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "visité",
+      "SPANISH": "Visité",
       "ENGLISH": "I visited"
     },
     "TU": {
-      "SPANISH": "visitaste",
-      "ENGLISH": "you visited"
+      "SPANISH": "Visitaste",
+      "ENGLISH": "You visited"
     },
     "EL": {
-      "SPANISH": "visitó",
-      "ENGLISH": "s/he visited, you (formal) visited"
+      "SPANISH": "Visitó",
+      "ENGLISH": "He visited"
     },
     "ELLOS": {
-      "SPANISH": "visitaron",
-      "ENGLISH": "they visited, you (plural formal) visited"
+      "SPANISH": "Visitaron",
+      "ENGLISH": "They visited"
     },
     "NOSOTROS": {
-      "SPANISH": "visitamos",
-      "ENGLISH": "we visited"
+      "SPANISH": "Visitamos",
+      "ENGLISH": "We visited"
     },
     "VOSOTROS": {
-      "SPANISH": "visitasteis",
-      "ENGLISH": "you (plural) visited"
+      "SPANISH": "Visitasteis",
+      "ENGLISH": "You visited"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "visitaré",
+      "SPANISH": "Visitaré",
       "ENGLISH": "I will visit"
     },
     "TU": {
-      "SPANISH": "visitarás",
-      "ENGLISH": "you will visit"
+      "SPANISH": "Visitarás",
+      "ENGLISH": "You will visit"
     },
     "EL": {
-      "SPANISH": "visitará",
-      "ENGLISH": "s/he will visit, you (formal) will visit"
+      "SPANISH": "Visitará",
+      "ENGLISH": "He will visit"
     },
     "ELLOS": {
-      "SPANISH": "visitarán",
-      "ENGLISH": "they will visit, you (plural formal) will visit"
+      "SPANISH": "Visitarán",
+      "ENGLISH": "They will visit"
     },
     "NOSOTROS": {
-      "SPANISH": "visitaremos",
-      "ENGLISH": "we will visit"
+      "SPANISH": "Visitaremos",
+      "ENGLISH": "We will visit"
     },
     "VOSOTROS": {
-      "SPANISH": "visitaréis",
-      "ENGLISH": "you (plural) will visit"
+      "SPANISH": "Visitaréis",
+      "ENGLISH": "You will visit"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré visitado",
+      "SPANISH": "Habré visitado",
       "ENGLISH": "I will have visited"
     },
     "TU": {
-      "SPANISH": "habrás visitado",
-      "ENGLISH": "you will have visited"
+      "SPANISH": "Habrás visitado",
+      "ENGLISH": "You will have visited"
     },
     "EL": {
-      "SPANISH": "habrá visitado",
-      "ENGLISH": "s/he will have visited, you (formal) will have visited"
+      "SPANISH": "Habrá visitado",
+      "ENGLISH": "He will have visited"
     },
     "ELLOS": {
-      "SPANISH": "habrán visitado",
-      "ENGLISH": "they will have visited, you (plural formal) will have visited"
+      "SPANISH": "Habrán visitado",
+      "ENGLISH": "They will have visited"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos visitado",
-      "ENGLISH": "we will have visited"
+      "SPANISH": "Habremos visitado",
+      "ENGLISH": "We will have visited"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis visitado",
-      "ENGLISH": "you (plural) will have visited"
+      "SPANISH": "Habréis visitado",
+      "ENGLISH": "You will have visited"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "visitaría",
+      "SPANISH": "Visitaría",
       "ENGLISH": "I would visit"
     },
     "TU": {
-      "SPANISH": "visitarías",
-      "ENGLISH": "you would visit"
+      "SPANISH": "Visitarías",
+      "ENGLISH": "You would visit"
     },
     "EL": {
-      "SPANISH": "visitaría",
-      "ENGLISH": "s/he would visit, you (formal) would visit"
+      "SPANISH": "Visitaría",
+      "ENGLISH": "He would visit"
     },
     "ELLOS": {
-      "SPANISH": "visitarían",
-      "ENGLISH": "they would visit, you (plural formal) would visit"
+      "SPANISH": "Visitarían",
+      "ENGLISH": "They would visit"
     },
     "NOSOTROS": {
-      "SPANISH": "visitaríamos",
-      "ENGLISH": "we would visit"
+      "SPANISH": "Visitaríamos",
+      "ENGLISH": "We would visit"
     },
     "VOSOTROS": {
-      "SPANISH": "visitaríais",
-      "ENGLISH": "you (plural) would visit"
+      "SPANISH": "Visitaríais",
+      "ENGLISH": "You would visit"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría visitado",
+      "SPANISH": "Habría visitado",
       "ENGLISH": "I would have visited"
     },
     "TU": {
-      "SPANISH": "habrías visitado",
-      "ENGLISH": "you would have visited"
+      "SPANISH": "Habrías visitado",
+      "ENGLISH": "You would have visited"
     },
     "EL": {
-      "SPANISH": "habría visitado",
-      "ENGLISH": "s/he would have visited, you (formal) would have visited"
+      "SPANISH": "Habría visitado",
+      "ENGLISH": "He would have visited"
     },
     "ELLOS": {
-      "SPANISH": "habrían visitado",
-      "ENGLISH": "they would have visited, you (plural formal) would have visited"
+      "SPANISH": "Habrían visitado",
+      "ENGLISH": "They would have visited"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos visitado",
-      "ENGLISH": "we would have visited"
+      "SPANISH": "Habríamos visitado",
+      "ENGLISH": "We would have visited"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais visitado",
-      "ENGLISH": "you (plural) would have visited"
+      "SPANISH": "Habríais visitado",
+      "ENGLISH": "You would have visited"
     }
   }
 }

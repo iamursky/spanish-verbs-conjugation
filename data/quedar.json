@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "quedo",
+      "SPANISH": "Quedo",
       "ENGLISH": "I remain"
     },
     "TU": {
-      "SPANISH": "quedas",
-      "ENGLISH": "you remain"
+      "SPANISH": "Quedas",
+      "ENGLISH": "You remain"
     },
     "EL": {
-      "SPANISH": "queda",
-      "ENGLISH": "s/he remains, you (formal) remains"
+      "SPANISH": "Queda",
+      "ENGLISH": "He remains"
     },
     "ELLOS": {
-      "SPANISH": "quedan",
-      "ENGLISH": "they remain, you (plural formal) remain"
+      "SPANISH": "Quedan",
+      "ENGLISH": "They remain"
     },
     "NOSOTROS": {
-      "SPANISH": "quedamos",
-      "ENGLISH": "we remain"
+      "SPANISH": "Quedamos",
+      "ENGLISH": "We remain"
     },
     "VOSOTROS": {
-      "SPANISH": "quedáis",
-      "ENGLISH": "you (plural) remain"
+      "SPANISH": "Quedáis",
+      "ENGLISH": "You remain"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he quedado",
+      "SPANISH": "He quedado",
       "ENGLISH": "I have remained"
     },
     "TU": {
-      "SPANISH": "has quedado",
-      "ENGLISH": "you have remained"
+      "SPANISH": "Has quedado",
+      "ENGLISH": "You have remained"
     },
     "EL": {
-      "SPANISH": "ha quedado",
-      "ENGLISH": "s/he has remained, you (formal) have remained"
+      "SPANISH": "Ha quedado",
+      "ENGLISH": "He has remained"
     },
     "ELLOS": {
-      "SPANISH": "han quedado",
-      "ENGLISH": "they have remained, you (plural formal) have remained"
+      "SPANISH": "Han quedado",
+      "ENGLISH": "They have remained"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos quedado",
-      "ENGLISH": "we have remained"
+      "SPANISH": "Hemos quedado",
+      "ENGLISH": "We have remained"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis quedado",
-      "ENGLISH": "you (plural) have remained"
+      "SPANISH": "Habéis quedado",
+      "ENGLISH": "You have remained"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "quedé",
+      "SPANISH": "Quedé",
       "ENGLISH": "I remained"
     },
     "TU": {
-      "SPANISH": "quedaste",
-      "ENGLISH": "you remained"
+      "SPANISH": "Quedaste",
+      "ENGLISH": "You remained"
     },
     "EL": {
-      "SPANISH": "quedó",
-      "ENGLISH": "s/he remained, you (formal) remained"
+      "SPANISH": "Quedó",
+      "ENGLISH": "He remained"
     },
     "ELLOS": {
-      "SPANISH": "quedaron",
-      "ENGLISH": "they remained, you (plural formal) remained"
+      "SPANISH": "Quedaron",
+      "ENGLISH": "They remained"
     },
     "NOSOTROS": {
-      "SPANISH": "quedamos",
-      "ENGLISH": "we remained"
+      "SPANISH": "Quedamos",
+      "ENGLISH": "We remained"
     },
     "VOSOTROS": {
-      "SPANISH": "quedasteis",
-      "ENGLISH": "you (plural) remained"
+      "SPANISH": "Quedasteis",
+      "ENGLISH": "You remained"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había quedado",
+      "SPANISH": "Había quedado",
       "ENGLISH": "I had remained"
     },
     "TU": {
-      "SPANISH": "habías quedado",
-      "ENGLISH": "you had remained"
+      "SPANISH": "Habías quedado",
+      "ENGLISH": "You had remained"
     },
     "EL": {
-      "SPANISH": "había quedado",
-      "ENGLISH": "s/he had remained, you (formal) had remained"
+      "SPANISH": "Había quedado",
+      "ENGLISH": "He had remained"
     },
     "ELLOS": {
-      "SPANISH": "habían quedado",
-      "ENGLISH": "they had remained, you (plural formal) had remained"
+      "SPANISH": "Habían quedado",
+      "ENGLISH": "They had remained"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos quedado",
-      "ENGLISH": "we had remained"
+      "SPANISH": "Habíamos quedado",
+      "ENGLISH": "We had remained"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais quedado",
-      "ENGLISH": "you (plural) had remained"
+      "SPANISH": "Habíais quedado",
+      "ENGLISH": "You had remained"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "quedé",
+      "SPANISH": "Quedé",
       "ENGLISH": "I remained"
     },
     "TU": {
-      "SPANISH": "quedaste",
-      "ENGLISH": "you remained"
+      "SPANISH": "Quedaste",
+      "ENGLISH": "You remained"
     },
     "EL": {
-      "SPANISH": "quedó",
-      "ENGLISH": "s/he remained, you (formal) remained"
+      "SPANISH": "Quedó",
+      "ENGLISH": "He remained"
     },
     "ELLOS": {
-      "SPANISH": "quedaron",
-      "ENGLISH": "they remained, you (plural formal) remained"
+      "SPANISH": "Quedaron",
+      "ENGLISH": "They remained"
     },
     "NOSOTROS": {
-      "SPANISH": "quedamos",
-      "ENGLISH": "we remained"
+      "SPANISH": "Quedamos",
+      "ENGLISH": "We remained"
     },
     "VOSOTROS": {
-      "SPANISH": "quedasteis",
-      "ENGLISH": "you (plural) remained"
+      "SPANISH": "Quedasteis",
+      "ENGLISH": "You remained"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "quedaré",
+      "SPANISH": "Quedaré",
       "ENGLISH": "I will remain"
     },
     "TU": {
-      "SPANISH": "quedarás",
-      "ENGLISH": "you will remain"
+      "SPANISH": "Quedarás",
+      "ENGLISH": "You will remain"
     },
     "EL": {
-      "SPANISH": "quedará",
-      "ENGLISH": "s/he will remain, you (formal) will remain"
+      "SPANISH": "Quedará",
+      "ENGLISH": "He will remain"
     },
     "ELLOS": {
-      "SPANISH": "quedarán",
-      "ENGLISH": "they will remain, you (plural formal) will remain"
+      "SPANISH": "Quedarán",
+      "ENGLISH": "They will remain"
     },
     "NOSOTROS": {
-      "SPANISH": "quedaremos",
-      "ENGLISH": "we will remain"
+      "SPANISH": "Quedaremos",
+      "ENGLISH": "We will remain"
     },
     "VOSOTROS": {
-      "SPANISH": "quedaréis",
-      "ENGLISH": "you (plural) will remain"
+      "SPANISH": "Quedaréis",
+      "ENGLISH": "You will remain"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré quedado",
+      "SPANISH": "Habré quedado",
       "ENGLISH": "I will have remained"
     },
     "TU": {
-      "SPANISH": "habrás quedado",
-      "ENGLISH": "you will have remained"
+      "SPANISH": "Habrás quedado",
+      "ENGLISH": "You will have remained"
     },
     "EL": {
-      "SPANISH": "habrá quedado",
-      "ENGLISH": "s/he will have remained, you (formal) will have remained"
+      "SPANISH": "Habrá quedado",
+      "ENGLISH": "He will have remained"
     },
     "ELLOS": {
-      "SPANISH": "habrán quedado",
-      "ENGLISH": "they will have remained, you (plural formal) will have remained"
+      "SPANISH": "Habrán quedado",
+      "ENGLISH": "They will have remained"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos quedado",
-      "ENGLISH": "we will have remained"
+      "SPANISH": "Habremos quedado",
+      "ENGLISH": "We will have remained"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis quedado",
-      "ENGLISH": "you (plural) will have remained"
+      "SPANISH": "Habréis quedado",
+      "ENGLISH": "You will have remained"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "quedaría",
+      "SPANISH": "Quedaría",
       "ENGLISH": "I would remain"
     },
     "TU": {
-      "SPANISH": "quedarías",
-      "ENGLISH": "you would remain"
+      "SPANISH": "Quedarías",
+      "ENGLISH": "You would remain"
     },
     "EL": {
-      "SPANISH": "quedaría",
-      "ENGLISH": "s/he would remain, you (formal) would remain"
+      "SPANISH": "Quedaría",
+      "ENGLISH": "He would remain"
     },
     "ELLOS": {
-      "SPANISH": "quedarían",
-      "ENGLISH": "they would remain, you (plural formal) would remain"
+      "SPANISH": "Quedarían",
+      "ENGLISH": "They would remain"
     },
     "NOSOTROS": {
-      "SPANISH": "quedaríamos",
-      "ENGLISH": "we would remain"
+      "SPANISH": "Quedaríamos",
+      "ENGLISH": "We would remain"
     },
     "VOSOTROS": {
-      "SPANISH": "quedaríais",
-      "ENGLISH": "you (plural) would remain"
+      "SPANISH": "Quedaríais",
+      "ENGLISH": "You would remain"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría quedado",
+      "SPANISH": "Habría quedado",
       "ENGLISH": "I would have remained"
     },
     "TU": {
-      "SPANISH": "habrías quedado",
-      "ENGLISH": "you would have remained"
+      "SPANISH": "Habrías quedado",
+      "ENGLISH": "You would have remained"
     },
     "EL": {
-      "SPANISH": "habría quedado",
-      "ENGLISH": "s/he would have remained, you (formal) would have remained"
+      "SPANISH": "Habría quedado",
+      "ENGLISH": "He would have remained"
     },
     "ELLOS": {
-      "SPANISH": "habrían quedado",
-      "ENGLISH": "they would have remained, you (plural formal) would have remained"
+      "SPANISH": "Habrían quedado",
+      "ENGLISH": "They would have remained"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos quedado",
-      "ENGLISH": "we would have remained"
+      "SPANISH": "Habríamos quedado",
+      "ENGLISH": "We would have remained"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais quedado",
-      "ENGLISH": "you (plural) would have remained"
+      "SPANISH": "Habríais quedado",
+      "ENGLISH": "You would have remained"
     }
   }
 }

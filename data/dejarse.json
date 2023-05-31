@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me dejo",
+      "SPANISH": "Me dejo",
       "ENGLISH": "I let"
     },
     "TU": {
-      "SPANISH": "te dejas",
-      "ENGLISH": "you let"
+      "SPANISH": "Te dejas",
+      "ENGLISH": "You let"
     },
     "EL": {
-      "SPANISH": "se deja",
-      "ENGLISH": "s/he lets, you (formal) lets"
+      "SPANISH": "Se deja",
+      "ENGLISH": "He lets"
     },
     "ELLOS": {
-      "SPANISH": "se dejan",
-      "ENGLISH": "they let, you (plural formal) let"
+      "SPANISH": "Se dejan",
+      "ENGLISH": "They let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dejamos",
-      "ENGLISH": "we let"
+      "SPANISH": "Nos dejamos",
+      "ENGLISH": "We let"
     },
     "VOSOTROS": {
-      "SPANISH": "os dejáis",
-      "ENGLISH": "you (plural) let"
+      "SPANISH": "Os dejáis",
+      "ENGLISH": "You let"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he dejado",
+      "SPANISH": "Me he dejado",
       "ENGLISH": "I have let"
     },
     "TU": {
-      "SPANISH": "te has dejado",
-      "ENGLISH": "you have let"
+      "SPANISH": "Te has dejado",
+      "ENGLISH": "You have let"
     },
     "EL": {
-      "SPANISH": "se ha dejado",
-      "ENGLISH": "s/he has let, you (formal) have let"
+      "SPANISH": "Se ha dejado",
+      "ENGLISH": "He has let"
     },
     "ELLOS": {
-      "SPANISH": "se han dejado",
-      "ENGLISH": "they have let, you (plural formal) have let"
+      "SPANISH": "Se han dejado",
+      "ENGLISH": "They have let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos dejado",
-      "ENGLISH": "we have let"
+      "SPANISH": "Nos hemos dejado",
+      "ENGLISH": "We have let"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis dejado",
-      "ENGLISH": "you (plural) have let"
+      "SPANISH": "Os habéis dejado",
+      "ENGLISH": "You have let"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me dejé",
+      "SPANISH": "Me dejé",
       "ENGLISH": "I let"
     },
     "TU": {
-      "SPANISH": "te dejaste",
-      "ENGLISH": "you let"
+      "SPANISH": "Te dejaste",
+      "ENGLISH": "You let"
     },
     "EL": {
-      "SPANISH": "se dejó",
-      "ENGLISH": "s/he let, you (formal) let"
+      "SPANISH": "Se dejó",
+      "ENGLISH": "He let"
     },
     "ELLOS": {
-      "SPANISH": "se dejaron",
-      "ENGLISH": "they let, you (plural formal) let"
+      "SPANISH": "Se dejaron",
+      "ENGLISH": "They let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dejamos",
-      "ENGLISH": "we let"
+      "SPANISH": "Nos dejamos",
+      "ENGLISH": "We let"
     },
     "VOSOTROS": {
-      "SPANISH": "os dejasteis",
-      "ENGLISH": "you (plural) let"
+      "SPANISH": "Os dejasteis",
+      "ENGLISH": "You let"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había dejado",
+      "SPANISH": "Me había dejado",
       "ENGLISH": "I had let"
     },
     "TU": {
-      "SPANISH": "te habías dejado",
-      "ENGLISH": "you had let"
+      "SPANISH": "Te habías dejado",
+      "ENGLISH": "You had let"
     },
     "EL": {
-      "SPANISH": "se había dejado",
-      "ENGLISH": "s/he had let, you (formal) had let"
+      "SPANISH": "Se había dejado",
+      "ENGLISH": "He had let"
     },
     "ELLOS": {
-      "SPANISH": "se habían dejado",
-      "ENGLISH": "they had let, you (plural formal) had let"
+      "SPANISH": "Se habían dejado",
+      "ENGLISH": "They had let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos dejado",
-      "ENGLISH": "we had let"
+      "SPANISH": "Nos habíamos dejado",
+      "ENGLISH": "We had let"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais dejado",
-      "ENGLISH": "you (plural) had let"
+      "SPANISH": "Os habíais dejado",
+      "ENGLISH": "You had let"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me dejé",
+      "SPANISH": "Me dejé",
       "ENGLISH": "I let"
     },
     "TU": {
-      "SPANISH": "te dejaste",
-      "ENGLISH": "you let"
+      "SPANISH": "Te dejaste",
+      "ENGLISH": "You let"
     },
     "EL": {
-      "SPANISH": "se dejó",
-      "ENGLISH": "s/he let, you (formal) let"
+      "SPANISH": "Se dejó",
+      "ENGLISH": "He let"
     },
     "ELLOS": {
-      "SPANISH": "se dejaron",
-      "ENGLISH": "they let, you (plural formal) let"
+      "SPANISH": "Se dejaron",
+      "ENGLISH": "They let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dejamos",
-      "ENGLISH": "we let"
+      "SPANISH": "Nos dejamos",
+      "ENGLISH": "We let"
     },
     "VOSOTROS": {
-      "SPANISH": "os dejasteis",
-      "ENGLISH": "you (plural) let"
+      "SPANISH": "Os dejasteis",
+      "ENGLISH": "You let"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me dejaré",
+      "SPANISH": "Me dejaré",
       "ENGLISH": "I will let"
     },
     "TU": {
-      "SPANISH": "te dejarás",
-      "ENGLISH": "you will let"
+      "SPANISH": "Te dejarás",
+      "ENGLISH": "You will let"
     },
     "EL": {
-      "SPANISH": "se dejará",
-      "ENGLISH": "s/he will let, you (formal) will let"
+      "SPANISH": "Se dejará",
+      "ENGLISH": "He will let"
     },
     "ELLOS": {
-      "SPANISH": "se dejarán",
-      "ENGLISH": "they will let, you (plural formal) will let"
+      "SPANISH": "Se dejarán",
+      "ENGLISH": "They will let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dejaremos",
-      "ENGLISH": "we will let"
+      "SPANISH": "Nos dejaremos",
+      "ENGLISH": "We will let"
     },
     "VOSOTROS": {
-      "SPANISH": "os dejaréis",
-      "ENGLISH": "you (plural) will let"
+      "SPANISH": "Os dejaréis",
+      "ENGLISH": "You will let"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré dejado",
+      "SPANISH": "Me habré dejado",
       "ENGLISH": "I will have let"
     },
     "TU": {
-      "SPANISH": "te habrás dejado",
-      "ENGLISH": "you will have let"
+      "SPANISH": "Te habrás dejado",
+      "ENGLISH": "You will have let"
     },
     "EL": {
-      "SPANISH": "se habrá dejado",
-      "ENGLISH": "s/he will have let, you (formal) will have let"
+      "SPANISH": "Se habrá dejado",
+      "ENGLISH": "He will have let"
     },
     "ELLOS": {
-      "SPANISH": "se habrán dejado",
-      "ENGLISH": "they will have let, you (plural formal) will have let"
+      "SPANISH": "Se habrán dejado",
+      "ENGLISH": "They will have let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos dejado",
-      "ENGLISH": "we will have let"
+      "SPANISH": "Nos habremos dejado",
+      "ENGLISH": "We will have let"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis dejado",
-      "ENGLISH": "you (plural) will have let"
+      "SPANISH": "Os habréis dejado",
+      "ENGLISH": "You will have let"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me dejaría",
+      "SPANISH": "Me dejaría",
       "ENGLISH": "I would let"
     },
     "TU": {
-      "SPANISH": "te dejarías",
-      "ENGLISH": "you would let"
+      "SPANISH": "Te dejarías",
+      "ENGLISH": "You would let"
     },
     "EL": {
-      "SPANISH": "se dejaría",
-      "ENGLISH": "s/he would let, you (formal) would let"
+      "SPANISH": "Se dejaría",
+      "ENGLISH": "He would let"
     },
     "ELLOS": {
-      "SPANISH": "se dejarían",
-      "ENGLISH": "they would let, you (plural formal) would let"
+      "SPANISH": "Se dejarían",
+      "ENGLISH": "They would let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos dejaríamos",
-      "ENGLISH": "we would let"
+      "SPANISH": "Nos dejaríamos",
+      "ENGLISH": "We would let"
     },
     "VOSOTROS": {
-      "SPANISH": "os dejaríais",
-      "ENGLISH": "you (plural) would let"
+      "SPANISH": "Os dejaríais",
+      "ENGLISH": "You would let"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría dejado",
+      "SPANISH": "Me habría dejado",
       "ENGLISH": "I would have let"
     },
     "TU": {
-      "SPANISH": "te habrías dejado",
-      "ENGLISH": "you would have let"
+      "SPANISH": "Te habrías dejado",
+      "ENGLISH": "You would have let"
     },
     "EL": {
-      "SPANISH": "se habría dejado",
-      "ENGLISH": "s/he would have let, you (formal) would have let"
+      "SPANISH": "Se habría dejado",
+      "ENGLISH": "He would have let"
     },
     "ELLOS": {
-      "SPANISH": "se habrían dejado",
-      "ENGLISH": "they would have let, you (plural formal) would have let"
+      "SPANISH": "Se habrían dejado",
+      "ENGLISH": "They would have let"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos dejado",
-      "ENGLISH": "we would have let"
+      "SPANISH": "Nos habríamos dejado",
+      "ENGLISH": "We would have let"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais dejado",
-      "ENGLISH": "you (plural) would have let"
+      "SPANISH": "Os habríais dejado",
+      "ENGLISH": "You would have let"
     }
   }
 }

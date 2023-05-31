@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "resulto",
+      "SPANISH": "Resulto",
       "ENGLISH": "I become"
     },
     "TU": {
-      "SPANISH": "resultas",
-      "ENGLISH": "you become"
+      "SPANISH": "Resultas",
+      "ENGLISH": "You become"
     },
     "EL": {
-      "SPANISH": "resulta",
-      "ENGLISH": "s/he becomes, you (formal) becomes"
+      "SPANISH": "Resulta",
+      "ENGLISH": "He becomes"
     },
     "ELLOS": {
-      "SPANISH": "resultan",
-      "ENGLISH": "they become, you (plural formal) become"
+      "SPANISH": "Resultan",
+      "ENGLISH": "They become"
     },
     "NOSOTROS": {
-      "SPANISH": "resultamos",
-      "ENGLISH": "we become"
+      "SPANISH": "Resultamos",
+      "ENGLISH": "We become"
     },
     "VOSOTROS": {
-      "SPANISH": "resultáis",
-      "ENGLISH": "you (plural) become"
+      "SPANISH": "Resultáis",
+      "ENGLISH": "You become"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he resultado",
+      "SPANISH": "He resultado",
       "ENGLISH": "I have become"
     },
     "TU": {
-      "SPANISH": "has resultado",
-      "ENGLISH": "you have become"
+      "SPANISH": "Has resultado",
+      "ENGLISH": "You have become"
     },
     "EL": {
-      "SPANISH": "ha resultado",
-      "ENGLISH": "s/he has become, you (formal) have become"
+      "SPANISH": "Ha resultado",
+      "ENGLISH": "He has become"
     },
     "ELLOS": {
-      "SPANISH": "han resultado",
-      "ENGLISH": "they have become, you (plural formal) have become"
+      "SPANISH": "Han resultado",
+      "ENGLISH": "They have become"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos resultado",
-      "ENGLISH": "we have become"
+      "SPANISH": "Hemos resultado",
+      "ENGLISH": "We have become"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis resultado",
-      "ENGLISH": "you (plural) have become"
+      "SPANISH": "Habéis resultado",
+      "ENGLISH": "You have become"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "resulté",
+      "SPANISH": "Resulté",
       "ENGLISH": "I became"
     },
     "TU": {
-      "SPANISH": "resultaste",
-      "ENGLISH": "you became"
+      "SPANISH": "Resultaste",
+      "ENGLISH": "You became"
     },
     "EL": {
-      "SPANISH": "resultó",
-      "ENGLISH": "s/he became, you (formal) became"
+      "SPANISH": "Resultó",
+      "ENGLISH": "He became"
     },
     "ELLOS": {
-      "SPANISH": "resultaron",
-      "ENGLISH": "they became, you (plural formal) became"
+      "SPANISH": "Resultaron",
+      "ENGLISH": "They became"
     },
     "NOSOTROS": {
-      "SPANISH": "resultamos",
-      "ENGLISH": "we became"
+      "SPANISH": "Resultamos",
+      "ENGLISH": "We became"
     },
     "VOSOTROS": {
-      "SPANISH": "resultasteis",
-      "ENGLISH": "you (plural) became"
+      "SPANISH": "Resultasteis",
+      "ENGLISH": "You became"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había resultado",
+      "SPANISH": "Había resultado",
       "ENGLISH": "I had become"
     },
     "TU": {
-      "SPANISH": "habías resultado",
-      "ENGLISH": "you had become"
+      "SPANISH": "Habías resultado",
+      "ENGLISH": "You had become"
     },
     "EL": {
-      "SPANISH": "había resultado",
-      "ENGLISH": "s/he had become, you (formal) had become"
+      "SPANISH": "Había resultado",
+      "ENGLISH": "He had become"
     },
     "ELLOS": {
-      "SPANISH": "habían resultado",
-      "ENGLISH": "they had become, you (plural formal) had become"
+      "SPANISH": "Habían resultado",
+      "ENGLISH": "They had become"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos resultado",
-      "ENGLISH": "we had become"
+      "SPANISH": "Habíamos resultado",
+      "ENGLISH": "We had become"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais resultado",
-      "ENGLISH": "you (plural) had become"
+      "SPANISH": "Habíais resultado",
+      "ENGLISH": "You had become"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "resulté",
+      "SPANISH": "Resulté",
       "ENGLISH": "I became"
     },
     "TU": {
-      "SPANISH": "resultaste",
-      "ENGLISH": "you became"
+      "SPANISH": "Resultaste",
+      "ENGLISH": "You became"
     },
     "EL": {
-      "SPANISH": "resultó",
-      "ENGLISH": "s/he became, you (formal) became"
+      "SPANISH": "Resultó",
+      "ENGLISH": "He became"
     },
     "ELLOS": {
-      "SPANISH": "resultaron",
-      "ENGLISH": "they became, you (plural formal) became"
+      "SPANISH": "Resultaron",
+      "ENGLISH": "They became"
     },
     "NOSOTROS": {
-      "SPANISH": "resultamos",
-      "ENGLISH": "we became"
+      "SPANISH": "Resultamos",
+      "ENGLISH": "We became"
     },
     "VOSOTROS": {
-      "SPANISH": "resultasteis",
-      "ENGLISH": "you (plural) became"
+      "SPANISH": "Resultasteis",
+      "ENGLISH": "You became"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "resultaré",
+      "SPANISH": "Resultaré",
       "ENGLISH": "I will become"
     },
     "TU": {
-      "SPANISH": "resultarás",
-      "ENGLISH": "you will become"
+      "SPANISH": "Resultarás",
+      "ENGLISH": "You will become"
     },
     "EL": {
-      "SPANISH": "resultará",
-      "ENGLISH": "s/he will become, you (formal) will become"
+      "SPANISH": "Resultará",
+      "ENGLISH": "He will become"
     },
     "ELLOS": {
-      "SPANISH": "resultarán",
-      "ENGLISH": "they will become, you (plural formal) will become"
+      "SPANISH": "Resultarán",
+      "ENGLISH": "They will become"
     },
     "NOSOTROS": {
-      "SPANISH": "resultaremos",
-      "ENGLISH": "we will become"
+      "SPANISH": "Resultaremos",
+      "ENGLISH": "We will become"
     },
     "VOSOTROS": {
-      "SPANISH": "resultaréis",
-      "ENGLISH": "you (plural) will become"
+      "SPANISH": "Resultaréis",
+      "ENGLISH": "You will become"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré resultado",
+      "SPANISH": "Habré resultado",
       "ENGLISH": "I will have become"
     },
     "TU": {
-      "SPANISH": "habrás resultado",
-      "ENGLISH": "you will have become"
+      "SPANISH": "Habrás resultado",
+      "ENGLISH": "You will have become"
     },
     "EL": {
-      "SPANISH": "habrá resultado",
-      "ENGLISH": "s/he will have become, you (formal) will have become"
+      "SPANISH": "Habrá resultado",
+      "ENGLISH": "He will have become"
     },
     "ELLOS": {
-      "SPANISH": "habrán resultado",
-      "ENGLISH": "they will have become, you (plural formal) will have become"
+      "SPANISH": "Habrán resultado",
+      "ENGLISH": "They will have become"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos resultado",
-      "ENGLISH": "we will have become"
+      "SPANISH": "Habremos resultado",
+      "ENGLISH": "We will have become"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis resultado",
-      "ENGLISH": "you (plural) will have become"
+      "SPANISH": "Habréis resultado",
+      "ENGLISH": "You will have become"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "resultaría",
+      "SPANISH": "Resultaría",
       "ENGLISH": "I would become"
     },
     "TU": {
-      "SPANISH": "resultarías",
-      "ENGLISH": "you would become"
+      "SPANISH": "Resultarías",
+      "ENGLISH": "You would become"
     },
     "EL": {
-      "SPANISH": "resultaría",
-      "ENGLISH": "s/he would become, you (formal) would become"
+      "SPANISH": "Resultaría",
+      "ENGLISH": "He would become"
     },
     "ELLOS": {
-      "SPANISH": "resultarían",
-      "ENGLISH": "they would become, you (plural formal) would become"
+      "SPANISH": "Resultarían",
+      "ENGLISH": "They would become"
     },
     "NOSOTROS": {
-      "SPANISH": "resultaríamos",
-      "ENGLISH": "we would become"
+      "SPANISH": "Resultaríamos",
+      "ENGLISH": "We would become"
     },
     "VOSOTROS": {
-      "SPANISH": "resultaríais",
-      "ENGLISH": "you (plural) would become"
+      "SPANISH": "Resultaríais",
+      "ENGLISH": "You would become"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría resultado",
+      "SPANISH": "Habría resultado",
       "ENGLISH": "I would have become"
     },
     "TU": {
-      "SPANISH": "habrías resultado",
-      "ENGLISH": "you would have become"
+      "SPANISH": "Habrías resultado",
+      "ENGLISH": "You would have become"
     },
     "EL": {
-      "SPANISH": "habría resultado",
-      "ENGLISH": "s/he would have become, you (formal) would have become"
+      "SPANISH": "Habría resultado",
+      "ENGLISH": "He would have become"
     },
     "ELLOS": {
-      "SPANISH": "habrían resultado",
-      "ENGLISH": "they would have become, you (plural formal) would have become"
+      "SPANISH": "Habrían resultado",
+      "ENGLISH": "They would have become"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos resultado",
-      "ENGLISH": "we would have become"
+      "SPANISH": "Habríamos resultado",
+      "ENGLISH": "We would have become"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais resultado",
-      "ENGLISH": "you (plural) would have become"
+      "SPANISH": "Habríais resultado",
+      "ENGLISH": "You would have become"
     }
   }
 }

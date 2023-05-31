@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "prometo",
+      "SPANISH": "Prometo",
       "ENGLISH": "I promise"
     },
     "TU": {
-      "SPANISH": "prometes",
-      "ENGLISH": "you promise"
+      "SPANISH": "Prometes",
+      "ENGLISH": "You promise"
     },
     "EL": {
-      "SPANISH": "promete",
-      "ENGLISH": "s/he promises, you (formal) promises"
+      "SPANISH": "Promete",
+      "ENGLISH": "He promises"
     },
     "ELLOS": {
-      "SPANISH": "prometen",
-      "ENGLISH": "they promise, you (plural formal) promise"
+      "SPANISH": "Prometen",
+      "ENGLISH": "They promise"
     },
     "NOSOTROS": {
-      "SPANISH": "prometemos",
-      "ENGLISH": "we promise"
+      "SPANISH": "Prometemos",
+      "ENGLISH": "We promise"
     },
     "VOSOTROS": {
-      "SPANISH": "prometéis",
-      "ENGLISH": "you (plural) promise"
+      "SPANISH": "Prometéis",
+      "ENGLISH": "You promise"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he prometido",
+      "SPANISH": "He prometido",
       "ENGLISH": "I have promised"
     },
     "TU": {
-      "SPANISH": "has prometido",
-      "ENGLISH": "you have promised"
+      "SPANISH": "Has prometido",
+      "ENGLISH": "You have promised"
     },
     "EL": {
-      "SPANISH": "ha prometido",
-      "ENGLISH": "s/he has promised, you (formal) have promised"
+      "SPANISH": "Ha prometido",
+      "ENGLISH": "He has promised"
     },
     "ELLOS": {
-      "SPANISH": "han prometido",
-      "ENGLISH": "they have promised, you (plural formal) have promised"
+      "SPANISH": "Han prometido",
+      "ENGLISH": "They have promised"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos prometido",
-      "ENGLISH": "we have promised"
+      "SPANISH": "Hemos prometido",
+      "ENGLISH": "We have promised"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis prometido",
-      "ENGLISH": "you (plural) have promised"
+      "SPANISH": "Habéis prometido",
+      "ENGLISH": "You have promised"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "prometí",
+      "SPANISH": "Prometí",
       "ENGLISH": "I promised"
     },
     "TU": {
-      "SPANISH": "prometiste",
-      "ENGLISH": "you promised"
+      "SPANISH": "Prometiste",
+      "ENGLISH": "You promised"
     },
     "EL": {
-      "SPANISH": "prometió",
-      "ENGLISH": "s/he promised, you (formal) promised"
+      "SPANISH": "Prometió",
+      "ENGLISH": "He promised"
     },
     "ELLOS": {
-      "SPANISH": "prometieron",
-      "ENGLISH": "they promised, you (plural formal) promised"
+      "SPANISH": "Prometieron",
+      "ENGLISH": "They promised"
     },
     "NOSOTROS": {
-      "SPANISH": "prometimos",
-      "ENGLISH": "we promised"
+      "SPANISH": "Prometimos",
+      "ENGLISH": "We promised"
     },
     "VOSOTROS": {
-      "SPANISH": "prometisteis",
-      "ENGLISH": "you (plural) promised"
+      "SPANISH": "Prometisteis",
+      "ENGLISH": "You promised"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había prometido",
+      "SPANISH": "Había prometido",
       "ENGLISH": "I had promised"
     },
     "TU": {
-      "SPANISH": "habías prometido",
-      "ENGLISH": "you had promised"
+      "SPANISH": "Habías prometido",
+      "ENGLISH": "You had promised"
     },
     "EL": {
-      "SPANISH": "había prometido",
-      "ENGLISH": "s/he had promised, you (formal) had promised"
+      "SPANISH": "Había prometido",
+      "ENGLISH": "He had promised"
     },
     "ELLOS": {
-      "SPANISH": "habían prometido",
-      "ENGLISH": "they had promised, you (plural formal) had promised"
+      "SPANISH": "Habían prometido",
+      "ENGLISH": "They had promised"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos prometido",
-      "ENGLISH": "we had promised"
+      "SPANISH": "Habíamos prometido",
+      "ENGLISH": "We had promised"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais prometido",
-      "ENGLISH": "you (plural) had promised"
+      "SPANISH": "Habíais prometido",
+      "ENGLISH": "You had promised"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "prometí",
+      "SPANISH": "Prometí",
       "ENGLISH": "I promised"
     },
     "TU": {
-      "SPANISH": "prometiste",
-      "ENGLISH": "you promised"
+      "SPANISH": "Prometiste",
+      "ENGLISH": "You promised"
     },
     "EL": {
-      "SPANISH": "prometió",
-      "ENGLISH": "s/he promised, you (formal) promised"
+      "SPANISH": "Prometió",
+      "ENGLISH": "He promised"
     },
     "ELLOS": {
-      "SPANISH": "prometieron",
-      "ENGLISH": "they promised, you (plural formal) promised"
+      "SPANISH": "Prometieron",
+      "ENGLISH": "They promised"
     },
     "NOSOTROS": {
-      "SPANISH": "prometimos",
-      "ENGLISH": "we promised"
+      "SPANISH": "Prometimos",
+      "ENGLISH": "We promised"
     },
     "VOSOTROS": {
-      "SPANISH": "prometisteis",
-      "ENGLISH": "you (plural) promised"
+      "SPANISH": "Prometisteis",
+      "ENGLISH": "You promised"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "prometeré",
+      "SPANISH": "Prometeré",
       "ENGLISH": "I will promise"
     },
     "TU": {
-      "SPANISH": "prometerás",
-      "ENGLISH": "you will promise"
+      "SPANISH": "Prometerás",
+      "ENGLISH": "You will promise"
     },
     "EL": {
-      "SPANISH": "prometerá",
-      "ENGLISH": "s/he will promise, you (formal) will promise"
+      "SPANISH": "Prometerá",
+      "ENGLISH": "He will promise"
     },
     "ELLOS": {
-      "SPANISH": "prometerán",
-      "ENGLISH": "they will promise, you (plural formal) will promise"
+      "SPANISH": "Prometerán",
+      "ENGLISH": "They will promise"
     },
     "NOSOTROS": {
-      "SPANISH": "prometeremos",
-      "ENGLISH": "we will promise"
+      "SPANISH": "Prometeremos",
+      "ENGLISH": "We will promise"
     },
     "VOSOTROS": {
-      "SPANISH": "prometeréis",
-      "ENGLISH": "you (plural) will promise"
+      "SPANISH": "Prometeréis",
+      "ENGLISH": "You will promise"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré prometido",
+      "SPANISH": "Habré prometido",
       "ENGLISH": "I will have promised"
     },
     "TU": {
-      "SPANISH": "habrás prometido",
-      "ENGLISH": "you will have promised"
+      "SPANISH": "Habrás prometido",
+      "ENGLISH": "You will have promised"
     },
     "EL": {
-      "SPANISH": "habrá prometido",
-      "ENGLISH": "s/he will have promised, you (formal) will have promised"
+      "SPANISH": "Habrá prometido",
+      "ENGLISH": "He will have promised"
     },
     "ELLOS": {
-      "SPANISH": "habrán prometido",
-      "ENGLISH": "they will have promised, you (plural formal) will have promised"
+      "SPANISH": "Habrán prometido",
+      "ENGLISH": "They will have promised"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos prometido",
-      "ENGLISH": "we will have promised"
+      "SPANISH": "Habremos prometido",
+      "ENGLISH": "We will have promised"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis prometido",
-      "ENGLISH": "you (plural) will have promised"
+      "SPANISH": "Habréis prometido",
+      "ENGLISH": "You will have promised"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "prometería",
+      "SPANISH": "Prometería",
       "ENGLISH": "I would promise"
     },
     "TU": {
-      "SPANISH": "prometerías",
-      "ENGLISH": "you would promise"
+      "SPANISH": "Prometerías",
+      "ENGLISH": "You would promise"
     },
     "EL": {
-      "SPANISH": "prometería",
-      "ENGLISH": "s/he would promise, you (formal) would promise"
+      "SPANISH": "Prometería",
+      "ENGLISH": "He would promise"
     },
     "ELLOS": {
-      "SPANISH": "prometerían",
-      "ENGLISH": "they would promise, you (plural formal) would promise"
+      "SPANISH": "Prometerían",
+      "ENGLISH": "They would promise"
     },
     "NOSOTROS": {
-      "SPANISH": "prometeríamos",
-      "ENGLISH": "we would promise"
+      "SPANISH": "Prometeríamos",
+      "ENGLISH": "We would promise"
     },
     "VOSOTROS": {
-      "SPANISH": "prometeríais",
-      "ENGLISH": "you (plural) would promise"
+      "SPANISH": "Prometeríais",
+      "ENGLISH": "You would promise"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría prometido",
+      "SPANISH": "Habría prometido",
       "ENGLISH": "I would have promised"
     },
     "TU": {
-      "SPANISH": "habrías prometido",
-      "ENGLISH": "you would have promised"
+      "SPANISH": "Habrías prometido",
+      "ENGLISH": "You would have promised"
     },
     "EL": {
-      "SPANISH": "habría prometido",
-      "ENGLISH": "s/he would have promised, you (formal) would have promised"
+      "SPANISH": "Habría prometido",
+      "ENGLISH": "He would have promised"
     },
     "ELLOS": {
-      "SPANISH": "habrían prometido",
-      "ENGLISH": "they would have promised, you (plural formal) would have promised"
+      "SPANISH": "Habrían prometido",
+      "ENGLISH": "They would have promised"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos prometido",
-      "ENGLISH": "we would have promised"
+      "SPANISH": "Habríamos prometido",
+      "ENGLISH": "We would have promised"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais prometido",
-      "ENGLISH": "you (plural) would have promised"
+      "SPANISH": "Habríais prometido",
+      "ENGLISH": "You would have promised"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "implico",
+      "SPANISH": "Implico",
       "ENGLISH": "I implicate"
     },
     "TU": {
-      "SPANISH": "implicas",
-      "ENGLISH": "you implicate"
+      "SPANISH": "Implicas",
+      "ENGLISH": "You implicate"
     },
     "EL": {
-      "SPANISH": "implica",
-      "ENGLISH": "s/he implicates, you (formal) implicates"
+      "SPANISH": "Implica",
+      "ENGLISH": "He implicates"
     },
     "ELLOS": {
-      "SPANISH": "implican",
-      "ENGLISH": "they implicate, you (plural formal) implicate"
+      "SPANISH": "Implican",
+      "ENGLISH": "They implicate"
     },
     "NOSOTROS": {
-      "SPANISH": "implicamos",
-      "ENGLISH": "we implicate"
+      "SPANISH": "Implicamos",
+      "ENGLISH": "We implicate"
     },
     "VOSOTROS": {
-      "SPANISH": "implicáis",
-      "ENGLISH": "you (plural) implicate"
+      "SPANISH": "Implicáis",
+      "ENGLISH": "You implicate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he implicado",
+      "SPANISH": "He implicado",
       "ENGLISH": "I have implicated"
     },
     "TU": {
-      "SPANISH": "has implicado",
-      "ENGLISH": "you have implicated"
+      "SPANISH": "Has implicado",
+      "ENGLISH": "You have implicated"
     },
     "EL": {
-      "SPANISH": "ha implicado",
-      "ENGLISH": "s/he has implicated, you (formal) have implicated"
+      "SPANISH": "Ha implicado",
+      "ENGLISH": "He has implicated"
     },
     "ELLOS": {
-      "SPANISH": "han implicado",
-      "ENGLISH": "they have implicated, you (plural formal) have implicated"
+      "SPANISH": "Han implicado",
+      "ENGLISH": "They have implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos implicado",
-      "ENGLISH": "we have implicated"
+      "SPANISH": "Hemos implicado",
+      "ENGLISH": "We have implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis implicado",
-      "ENGLISH": "you (plural) have implicated"
+      "SPANISH": "Habéis implicado",
+      "ENGLISH": "You have implicated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "impliqué ",
+      "SPANISH": "Impliqué ",
       "ENGLISH": "I implicated"
     },
     "TU": {
-      "SPANISH": "implicaste",
-      "ENGLISH": "you implicated"
+      "SPANISH": "Implicaste",
+      "ENGLISH": "You implicated"
     },
     "EL": {
-      "SPANISH": "implicó",
-      "ENGLISH": "s/he implicated, you (formal) implicated"
+      "SPANISH": "Implicó",
+      "ENGLISH": "He implicated"
     },
     "ELLOS": {
-      "SPANISH": "implicaron",
-      "ENGLISH": "they implicated, you (plural formal) implicated"
+      "SPANISH": "Implicaron",
+      "ENGLISH": "They implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "implicamos",
-      "ENGLISH": "we implicated"
+      "SPANISH": "Implicamos",
+      "ENGLISH": "We implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "implicasteis",
-      "ENGLISH": "you (plural) implicated"
+      "SPANISH": "Implicasteis",
+      "ENGLISH": "You implicated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había implicado",
+      "SPANISH": "Había implicado",
       "ENGLISH": "I had implicated"
     },
     "TU": {
-      "SPANISH": "habías implicado",
-      "ENGLISH": "you had implicated"
+      "SPANISH": "Habías implicado",
+      "ENGLISH": "You had implicated"
     },
     "EL": {
-      "SPANISH": "había implicado",
-      "ENGLISH": "s/he had implicated, you (formal) had implicated"
+      "SPANISH": "Había implicado",
+      "ENGLISH": "He had implicated"
     },
     "ELLOS": {
-      "SPANISH": "habían implicado",
-      "ENGLISH": "they had implicated, you (plural formal) had implicated"
+      "SPANISH": "Habían implicado",
+      "ENGLISH": "They had implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos implicado",
-      "ENGLISH": "we had implicated"
+      "SPANISH": "Habíamos implicado",
+      "ENGLISH": "We had implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais implicado",
-      "ENGLISH": "you (plural) had implicated"
+      "SPANISH": "Habíais implicado",
+      "ENGLISH": "You had implicated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "impliqué ",
+      "SPANISH": "Impliqué ",
       "ENGLISH": "I implicated"
     },
     "TU": {
-      "SPANISH": "implicaste",
-      "ENGLISH": "you implicated"
+      "SPANISH": "Implicaste",
+      "ENGLISH": "You implicated"
     },
     "EL": {
-      "SPANISH": "implicó",
-      "ENGLISH": "s/he implicated, you (formal) implicated"
+      "SPANISH": "Implicó",
+      "ENGLISH": "He implicated"
     },
     "ELLOS": {
-      "SPANISH": "implicaron",
-      "ENGLISH": "they implicated, you (plural formal) implicated"
+      "SPANISH": "Implicaron",
+      "ENGLISH": "They implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "implicamos",
-      "ENGLISH": "we implicated"
+      "SPANISH": "Implicamos",
+      "ENGLISH": "We implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "implicasteis",
-      "ENGLISH": "you (plural) implicated"
+      "SPANISH": "Implicasteis",
+      "ENGLISH": "You implicated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "implicaré",
+      "SPANISH": "Implicaré",
       "ENGLISH": "I will implicate"
     },
     "TU": {
-      "SPANISH": "implicarás",
-      "ENGLISH": "you will implicate"
+      "SPANISH": "Implicarás",
+      "ENGLISH": "You will implicate"
     },
     "EL": {
-      "SPANISH": "implicará",
-      "ENGLISH": "s/he will implicate, you (formal) will implicate"
+      "SPANISH": "Implicará",
+      "ENGLISH": "He will implicate"
     },
     "ELLOS": {
-      "SPANISH": "implicarán",
-      "ENGLISH": "they will implicate, you (plural formal) will implicate"
+      "SPANISH": "Implicarán",
+      "ENGLISH": "They will implicate"
     },
     "NOSOTROS": {
-      "SPANISH": "implicaremos",
-      "ENGLISH": "we will implicate"
+      "SPANISH": "Implicaremos",
+      "ENGLISH": "We will implicate"
     },
     "VOSOTROS": {
-      "SPANISH": "implicaréis",
-      "ENGLISH": "you (plural) will implicate"
+      "SPANISH": "Implicaréis",
+      "ENGLISH": "You will implicate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré implicado",
+      "SPANISH": "Habré implicado",
       "ENGLISH": "I will have implicated"
     },
     "TU": {
-      "SPANISH": "habrás implicado",
-      "ENGLISH": "you will have implicated"
+      "SPANISH": "Habrás implicado",
+      "ENGLISH": "You will have implicated"
     },
     "EL": {
-      "SPANISH": "habrá implicado",
-      "ENGLISH": "s/he will have implicated, you (formal) will have implicated"
+      "SPANISH": "Habrá implicado",
+      "ENGLISH": "He will have implicated"
     },
     "ELLOS": {
-      "SPANISH": "habrán implicado",
-      "ENGLISH": "they will have implicated, you (plural formal) will have implicated"
+      "SPANISH": "Habrán implicado",
+      "ENGLISH": "They will have implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos implicado",
-      "ENGLISH": "we will have implicated"
+      "SPANISH": "Habremos implicado",
+      "ENGLISH": "We will have implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis implicado",
-      "ENGLISH": "you (plural) will have implicated"
+      "SPANISH": "Habréis implicado",
+      "ENGLISH": "You will have implicated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "implicaría",
+      "SPANISH": "Implicaría",
       "ENGLISH": "I would implicate"
     },
     "TU": {
-      "SPANISH": "implicarías",
-      "ENGLISH": "you would implicate"
+      "SPANISH": "Implicarías",
+      "ENGLISH": "You would implicate"
     },
     "EL": {
-      "SPANISH": "implicaría",
-      "ENGLISH": "s/he would implicate, you (formal) would implicate"
+      "SPANISH": "Implicaría",
+      "ENGLISH": "He would implicate"
     },
     "ELLOS": {
-      "SPANISH": "implicarían",
-      "ENGLISH": "they would implicate, you (plural formal) would implicate"
+      "SPANISH": "Implicarían",
+      "ENGLISH": "They would implicate"
     },
     "NOSOTROS": {
-      "SPANISH": "implicaríamos",
-      "ENGLISH": "we would implicate"
+      "SPANISH": "Implicaríamos",
+      "ENGLISH": "We would implicate"
     },
     "VOSOTROS": {
-      "SPANISH": "implicaríais",
-      "ENGLISH": "you (plural) would implicate"
+      "SPANISH": "Implicaríais",
+      "ENGLISH": "You would implicate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría implicado",
+      "SPANISH": "Habría implicado",
       "ENGLISH": "I would have implicated"
     },
     "TU": {
-      "SPANISH": "habrías implicado",
-      "ENGLISH": "you would have implicated"
+      "SPANISH": "Habrías implicado",
+      "ENGLISH": "You would have implicated"
     },
     "EL": {
-      "SPANISH": "habría implicado",
-      "ENGLISH": "s/he would have implicated, you (formal) would have implicated"
+      "SPANISH": "Habría implicado",
+      "ENGLISH": "He would have implicated"
     },
     "ELLOS": {
-      "SPANISH": "habrían implicado",
-      "ENGLISH": "they would have implicated, you (plural formal) would have implicated"
+      "SPANISH": "Habrían implicado",
+      "ENGLISH": "They would have implicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos implicado",
-      "ENGLISH": "we would have implicated"
+      "SPANISH": "Habríamos implicado",
+      "ENGLISH": "We would have implicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais implicado",
-      "ENGLISH": "you (plural) would have implicated"
+      "SPANISH": "Habríais implicado",
+      "ENGLISH": "You would have implicated"
     }
   }
 }

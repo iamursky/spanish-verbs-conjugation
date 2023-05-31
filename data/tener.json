@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "tengo ",
+      "SPANISH": "Tengo ",
       "ENGLISH": "I have"
     },
     "TU": {
-      "SPANISH": "tienes ",
-      "ENGLISH": "you have"
+      "SPANISH": "Tienes ",
+      "ENGLISH": "You have"
     },
     "EL": {
-      "SPANISH": "tiene ",
-      "ENGLISH": "s/he has , you (formal) have"
+      "SPANISH": "Tiene ",
+      "ENGLISH": "He has "
     },
     "ELLOS": {
-      "SPANISH": "tienen ",
-      "ENGLISH": "they have , you (plural formal) have"
+      "SPANISH": "Tienen ",
+      "ENGLISH": "They have "
     },
     "NOSOTROS": {
-      "SPANISH": "tenemos",
-      "ENGLISH": "we have"
+      "SPANISH": "Tenemos",
+      "ENGLISH": "We have"
     },
     "VOSOTROS": {
-      "SPANISH": "tenéis",
-      "ENGLISH": "you (plural) have"
+      "SPANISH": "Tenéis",
+      "ENGLISH": "You have"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he tenido",
+      "SPANISH": "He tenido",
       "ENGLISH": "I have had"
     },
     "TU": {
-      "SPANISH": "has tenido",
-      "ENGLISH": "you have had"
+      "SPANISH": "Has tenido",
+      "ENGLISH": "You have had"
     },
     "EL": {
-      "SPANISH": "ha tenido",
-      "ENGLISH": "s/he has had, you (formal) have had"
+      "SPANISH": "Ha tenido",
+      "ENGLISH": "He has had"
     },
     "ELLOS": {
-      "SPANISH": "han tenido",
-      "ENGLISH": "they have had, you (plural formal) have had"
+      "SPANISH": "Han tenido",
+      "ENGLISH": "They have had"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos tenido",
-      "ENGLISH": "we have had"
+      "SPANISH": "Hemos tenido",
+      "ENGLISH": "We have had"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis tenido",
-      "ENGLISH": "you (plural) have had"
+      "SPANISH": "Habéis tenido",
+      "ENGLISH": "You have had"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "tuve ",
+      "SPANISH": "Tuve ",
       "ENGLISH": "I had"
     },
     "TU": {
-      "SPANISH": "tuviste ",
-      "ENGLISH": "you had"
+      "SPANISH": "Tuviste ",
+      "ENGLISH": "You had"
     },
     "EL": {
-      "SPANISH": "tuvo ",
-      "ENGLISH": "s/he had, you (formal) had"
+      "SPANISH": "Tuvo ",
+      "ENGLISH": "He had"
     },
     "ELLOS": {
-      "SPANISH": "tuvieron ",
-      "ENGLISH": "they had, you (plural formal) had"
+      "SPANISH": "Tuvieron ",
+      "ENGLISH": "They had"
     },
     "NOSOTROS": {
-      "SPANISH": "tuvimos ",
-      "ENGLISH": "we had"
+      "SPANISH": "Tuvimos ",
+      "ENGLISH": "We had"
     },
     "VOSOTROS": {
-      "SPANISH": "tuvisteis ",
-      "ENGLISH": "you (plural) had"
+      "SPANISH": "Tuvisteis ",
+      "ENGLISH": "You had"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había tenido",
+      "SPANISH": "Había tenido",
       "ENGLISH": "I had had"
     },
     "TU": {
-      "SPANISH": "habías tenido",
-      "ENGLISH": "you had had"
+      "SPANISH": "Habías tenido",
+      "ENGLISH": "You had had"
     },
     "EL": {
-      "SPANISH": "había tenido",
-      "ENGLISH": "s/he had had, you (formal) had had"
+      "SPANISH": "Había tenido",
+      "ENGLISH": "He had had"
     },
     "ELLOS": {
-      "SPANISH": "habían tenido",
-      "ENGLISH": "they had had, you (plural formal) had had"
+      "SPANISH": "Habían tenido",
+      "ENGLISH": "They had had"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos tenido",
-      "ENGLISH": "we had had"
+      "SPANISH": "Habíamos tenido",
+      "ENGLISH": "We had had"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais tenido",
-      "ENGLISH": "you (plural) had had"
+      "SPANISH": "Habíais tenido",
+      "ENGLISH": "You had had"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "tuve ",
+      "SPANISH": "Tuve ",
       "ENGLISH": "I had"
     },
     "TU": {
-      "SPANISH": "tuviste ",
-      "ENGLISH": "you had"
+      "SPANISH": "Tuviste ",
+      "ENGLISH": "You had"
     },
     "EL": {
-      "SPANISH": "tuvo ",
-      "ENGLISH": "s/he had, you (formal) had"
+      "SPANISH": "Tuvo ",
+      "ENGLISH": "He had"
     },
     "ELLOS": {
-      "SPANISH": "tuvieron ",
-      "ENGLISH": "they had, you (plural formal) had"
+      "SPANISH": "Tuvieron ",
+      "ENGLISH": "They had"
     },
     "NOSOTROS": {
-      "SPANISH": "tuvimos ",
-      "ENGLISH": "we had"
+      "SPANISH": "Tuvimos ",
+      "ENGLISH": "We had"
     },
     "VOSOTROS": {
-      "SPANISH": "tuvisteis ",
-      "ENGLISH": "you (plural) had"
+      "SPANISH": "Tuvisteis ",
+      "ENGLISH": "You had"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "tendré ",
+      "SPANISH": "Tendré ",
       "ENGLISH": "I will have"
     },
     "TU": {
-      "SPANISH": "tendrás ",
-      "ENGLISH": "you will have"
+      "SPANISH": "Tendrás ",
+      "ENGLISH": "You will have"
     },
     "EL": {
-      "SPANISH": "tendrá ",
-      "ENGLISH": "s/he will have, you (formal) will have"
+      "SPANISH": "Tendrá ",
+      "ENGLISH": "He will have"
     },
     "ELLOS": {
-      "SPANISH": "tendrán ",
-      "ENGLISH": "they will have, you (plural formal) will have"
+      "SPANISH": "Tendrán ",
+      "ENGLISH": "They will have"
     },
     "NOSOTROS": {
-      "SPANISH": "tendremos ",
-      "ENGLISH": "we will have"
+      "SPANISH": "Tendremos ",
+      "ENGLISH": "We will have"
     },
     "VOSOTROS": {
-      "SPANISH": "tendréis ",
-      "ENGLISH": "you (plural) will have"
+      "SPANISH": "Tendréis ",
+      "ENGLISH": "You will have"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré tenido",
+      "SPANISH": "Habré tenido",
       "ENGLISH": "I will have had"
     },
     "TU": {
-      "SPANISH": "habrás tenido",
-      "ENGLISH": "you will have had"
+      "SPANISH": "Habrás tenido",
+      "ENGLISH": "You will have had"
     },
     "EL": {
-      "SPANISH": "habrá tenido",
-      "ENGLISH": "s/he will have had, you (formal) will have had"
+      "SPANISH": "Habrá tenido",
+      "ENGLISH": "He will have had"
     },
     "ELLOS": {
-      "SPANISH": "habrán tenido",
-      "ENGLISH": "they will have had, you (plural formal) will have had"
+      "SPANISH": "Habrán tenido",
+      "ENGLISH": "They will have had"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos tenido",
-      "ENGLISH": "we will have had"
+      "SPANISH": "Habremos tenido",
+      "ENGLISH": "We will have had"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis tenido",
-      "ENGLISH": "you (plural) will have had"
+      "SPANISH": "Habréis tenido",
+      "ENGLISH": "You will have had"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "tendría ",
+      "SPANISH": "Tendría ",
       "ENGLISH": "I would have"
     },
     "TU": {
-      "SPANISH": "tendrías ",
-      "ENGLISH": "you would have"
+      "SPANISH": "Tendrías ",
+      "ENGLISH": "You would have"
     },
     "EL": {
-      "SPANISH": "tendría ",
-      "ENGLISH": "s/he would have, you (formal) would have"
+      "SPANISH": "Tendría ",
+      "ENGLISH": "He would have"
     },
     "ELLOS": {
-      "SPANISH": "tendrían ",
-      "ENGLISH": "they would have, you (plural formal) would have"
+      "SPANISH": "Tendrían ",
+      "ENGLISH": "They would have"
     },
     "NOSOTROS": {
-      "SPANISH": "tendríamos ",
-      "ENGLISH": "we would have"
+      "SPANISH": "Tendríamos ",
+      "ENGLISH": "We would have"
     },
     "VOSOTROS": {
-      "SPANISH": "tendríais ",
-      "ENGLISH": "you (plural) would have"
+      "SPANISH": "Tendríais ",
+      "ENGLISH": "You would have"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría tenido",
+      "SPANISH": "Habría tenido",
       "ENGLISH": "I would have had"
     },
     "TU": {
-      "SPANISH": "habrías tenido",
-      "ENGLISH": "you would have had"
+      "SPANISH": "Habrías tenido",
+      "ENGLISH": "You would have had"
     },
     "EL": {
-      "SPANISH": "habría tenido",
-      "ENGLISH": "s/he would have had, you (formal) would have had"
+      "SPANISH": "Habría tenido",
+      "ENGLISH": "He would have had"
     },
     "ELLOS": {
-      "SPANISH": "habrían tenido",
-      "ENGLISH": "they would have had, you (plural formal) would have had"
+      "SPANISH": "Habrían tenido",
+      "ENGLISH": "They would have had"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos tenido",
-      "ENGLISH": "we would have had"
+      "SPANISH": "Habríamos tenido",
+      "ENGLISH": "We would have had"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais tenido",
-      "ENGLISH": "you (plural) would have had"
+      "SPANISH": "Habríais tenido",
+      "ENGLISH": "You would have had"
     }
   }
 }

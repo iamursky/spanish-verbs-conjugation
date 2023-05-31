@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "vuelo ",
+      "SPANISH": "Vuelo ",
       "ENGLISH": "I fly"
     },
     "TU": {
-      "SPANISH": "vuelas ",
-      "ENGLISH": "you fly"
+      "SPANISH": "Vuelas ",
+      "ENGLISH": "You fly"
     },
     "EL": {
-      "SPANISH": "vuela ",
-      "ENGLISH": "s/he flies, you (formal) flies"
+      "SPANISH": "Vuela ",
+      "ENGLISH": "He flies"
     },
     "ELLOS": {
-      "SPANISH": "vuelan ",
-      "ENGLISH": "they fly, you (plural formal) fly"
+      "SPANISH": "Vuelan ",
+      "ENGLISH": "They fly"
     },
     "NOSOTROS": {
-      "SPANISH": "volamos",
-      "ENGLISH": "we fly"
+      "SPANISH": "Volamos",
+      "ENGLISH": "We fly"
     },
     "VOSOTROS": {
-      "SPANISH": "voláis",
-      "ENGLISH": "you (plural) fly"
+      "SPANISH": "Voláis",
+      "ENGLISH": "You fly"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he volado",
+      "SPANISH": "He volado",
       "ENGLISH": "I have flown"
     },
     "TU": {
-      "SPANISH": "has volado",
-      "ENGLISH": "you have flown"
+      "SPANISH": "Has volado",
+      "ENGLISH": "You have flown"
     },
     "EL": {
-      "SPANISH": "ha volado",
-      "ENGLISH": "s/he has flown, you (formal) have flown"
+      "SPANISH": "Ha volado",
+      "ENGLISH": "He has flown"
     },
     "ELLOS": {
-      "SPANISH": "han volado",
-      "ENGLISH": "they have flown, you (plural formal) have flown"
+      "SPANISH": "Han volado",
+      "ENGLISH": "They have flown"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos volado",
-      "ENGLISH": "we have flown"
+      "SPANISH": "Hemos volado",
+      "ENGLISH": "We have flown"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis volado",
-      "ENGLISH": "you (plural) have flown"
+      "SPANISH": "Habéis volado",
+      "ENGLISH": "You have flown"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "volé",
+      "SPANISH": "Volé",
       "ENGLISH": "I flew"
     },
     "TU": {
-      "SPANISH": "volaste",
-      "ENGLISH": "you flew"
+      "SPANISH": "Volaste",
+      "ENGLISH": "You flew"
     },
     "EL": {
-      "SPANISH": "voló",
-      "ENGLISH": "s/he flew, you (formal) flew"
+      "SPANISH": "Voló",
+      "ENGLISH": "He flew"
     },
     "ELLOS": {
-      "SPANISH": "volaron",
-      "ENGLISH": "they flew, you (plural formal) flew"
+      "SPANISH": "Volaron",
+      "ENGLISH": "They flew"
     },
     "NOSOTROS": {
-      "SPANISH": "volamos",
-      "ENGLISH": "we flew"
+      "SPANISH": "Volamos",
+      "ENGLISH": "We flew"
     },
     "VOSOTROS": {
-      "SPANISH": "volasteis",
-      "ENGLISH": "you (plural) flew"
+      "SPANISH": "Volasteis",
+      "ENGLISH": "You flew"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había volado",
+      "SPANISH": "Había volado",
       "ENGLISH": "I had flown"
     },
     "TU": {
-      "SPANISH": "habías volado",
-      "ENGLISH": "you had flown"
+      "SPANISH": "Habías volado",
+      "ENGLISH": "You had flown"
     },
     "EL": {
-      "SPANISH": "había volado",
-      "ENGLISH": "s/he had flown, you (formal) had flown"
+      "SPANISH": "Había volado",
+      "ENGLISH": "He had flown"
     },
     "ELLOS": {
-      "SPANISH": "habían volado",
-      "ENGLISH": "they had flown, you (plural formal) had flown"
+      "SPANISH": "Habían volado",
+      "ENGLISH": "They had flown"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos volado",
-      "ENGLISH": "we had flown"
+      "SPANISH": "Habíamos volado",
+      "ENGLISH": "We had flown"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais volado",
-      "ENGLISH": "you (plural) had flown"
+      "SPANISH": "Habíais volado",
+      "ENGLISH": "You had flown"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "volé",
+      "SPANISH": "Volé",
       "ENGLISH": "I flew"
     },
     "TU": {
-      "SPANISH": "volaste",
-      "ENGLISH": "you flew"
+      "SPANISH": "Volaste",
+      "ENGLISH": "You flew"
     },
     "EL": {
-      "SPANISH": "voló",
-      "ENGLISH": "s/he flew, you (formal) flew"
+      "SPANISH": "Voló",
+      "ENGLISH": "He flew"
     },
     "ELLOS": {
-      "SPANISH": "volaron",
-      "ENGLISH": "they flew, you (plural formal) flew"
+      "SPANISH": "Volaron",
+      "ENGLISH": "They flew"
     },
     "NOSOTROS": {
-      "SPANISH": "volamos",
-      "ENGLISH": "we flew"
+      "SPANISH": "Volamos",
+      "ENGLISH": "We flew"
     },
     "VOSOTROS": {
-      "SPANISH": "volasteis",
-      "ENGLISH": "you (plural) flew"
+      "SPANISH": "Volasteis",
+      "ENGLISH": "You flew"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "volaré",
+      "SPANISH": "Volaré",
       "ENGLISH": "I will fly"
     },
     "TU": {
-      "SPANISH": "volarás",
-      "ENGLISH": "you will fly"
+      "SPANISH": "Volarás",
+      "ENGLISH": "You will fly"
     },
     "EL": {
-      "SPANISH": "volará",
-      "ENGLISH": "s/he will fly, you (formal) will fly"
+      "SPANISH": "Volará",
+      "ENGLISH": "He will fly"
     },
     "ELLOS": {
-      "SPANISH": "volarán",
-      "ENGLISH": "they will fly, you (plural formal) will fly"
+      "SPANISH": "Volarán",
+      "ENGLISH": "They will fly"
     },
     "NOSOTROS": {
-      "SPANISH": "volaremos",
-      "ENGLISH": "we will fly"
+      "SPANISH": "Volaremos",
+      "ENGLISH": "We will fly"
     },
     "VOSOTROS": {
-      "SPANISH": "volaréis",
-      "ENGLISH": "you (plural) will fly"
+      "SPANISH": "Volaréis",
+      "ENGLISH": "You will fly"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré volado",
+      "SPANISH": "Habré volado",
       "ENGLISH": "I will have flown"
     },
     "TU": {
-      "SPANISH": "habrás volado",
-      "ENGLISH": "you will have flown"
+      "SPANISH": "Habrás volado",
+      "ENGLISH": "You will have flown"
     },
     "EL": {
-      "SPANISH": "habrá volado",
-      "ENGLISH": "s/he will have flown, you (formal) will have flown"
+      "SPANISH": "Habrá volado",
+      "ENGLISH": "He will have flown"
     },
     "ELLOS": {
-      "SPANISH": "habrán volado",
-      "ENGLISH": "they will have flown, you (plural formal) will have flown"
+      "SPANISH": "Habrán volado",
+      "ENGLISH": "They will have flown"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos volado",
-      "ENGLISH": "we will have flown"
+      "SPANISH": "Habremos volado",
+      "ENGLISH": "We will have flown"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis volado",
-      "ENGLISH": "you (plural) will have flown"
+      "SPANISH": "Habréis volado",
+      "ENGLISH": "You will have flown"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "volaría",
+      "SPANISH": "Volaría",
       "ENGLISH": "I would fly"
     },
     "TU": {
-      "SPANISH": "volarías",
-      "ENGLISH": "you would fly"
+      "SPANISH": "Volarías",
+      "ENGLISH": "You would fly"
     },
     "EL": {
-      "SPANISH": "volaría",
-      "ENGLISH": "s/he would fly, you (formal) would fly"
+      "SPANISH": "Volaría",
+      "ENGLISH": "He would fly"
     },
     "ELLOS": {
-      "SPANISH": "volarían",
-      "ENGLISH": "they would fly, you (plural formal) would fly"
+      "SPANISH": "Volarían",
+      "ENGLISH": "They would fly"
     },
     "NOSOTROS": {
-      "SPANISH": "volaríamos",
-      "ENGLISH": "we would fly"
+      "SPANISH": "Volaríamos",
+      "ENGLISH": "We would fly"
     },
     "VOSOTROS": {
-      "SPANISH": "volaríais",
-      "ENGLISH": "you (plural) would fly"
+      "SPANISH": "Volaríais",
+      "ENGLISH": "You would fly"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría volado",
+      "SPANISH": "Habría volado",
       "ENGLISH": "I would have flown"
     },
     "TU": {
-      "SPANISH": "habrías volado",
-      "ENGLISH": "you would have flown"
+      "SPANISH": "Habrías volado",
+      "ENGLISH": "You would have flown"
     },
     "EL": {
-      "SPANISH": "habría volado",
-      "ENGLISH": "s/he would have flown, you (formal) would have flown"
+      "SPANISH": "Habría volado",
+      "ENGLISH": "He would have flown"
     },
     "ELLOS": {
-      "SPANISH": "habrían volado",
-      "ENGLISH": "they would have flown, you (plural formal) would have flown"
+      "SPANISH": "Habrían volado",
+      "ENGLISH": "They would have flown"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos volado",
-      "ENGLISH": "we would have flown"
+      "SPANISH": "Habríamos volado",
+      "ENGLISH": "We would have flown"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais volado",
-      "ENGLISH": "you (plural) would have flown"
+      "SPANISH": "Habríais volado",
+      "ENGLISH": "You would have flown"
     }
   }
 }

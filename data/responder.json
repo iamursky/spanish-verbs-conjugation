@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "respondo",
+      "SPANISH": "Respondo",
       "ENGLISH": "I answer"
     },
     "TU": {
-      "SPANISH": "respondes",
-      "ENGLISH": "you answer"
+      "SPANISH": "Respondes",
+      "ENGLISH": "You answer"
     },
     "EL": {
-      "SPANISH": "responde",
-      "ENGLISH": "s/he answers, you (formal) answers"
+      "SPANISH": "Responde",
+      "ENGLISH": "He answers"
     },
     "ELLOS": {
-      "SPANISH": "responden",
-      "ENGLISH": "they answer, you (plural formal) answer"
+      "SPANISH": "Responden",
+      "ENGLISH": "They answer"
     },
     "NOSOTROS": {
-      "SPANISH": "respondemos",
-      "ENGLISH": "we answer"
+      "SPANISH": "Respondemos",
+      "ENGLISH": "We answer"
     },
     "VOSOTROS": {
-      "SPANISH": "respondéis",
-      "ENGLISH": "you (plural) answer"
+      "SPANISH": "Respondéis",
+      "ENGLISH": "You answer"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he respondido",
+      "SPANISH": "He respondido",
       "ENGLISH": "I have answered"
     },
     "TU": {
-      "SPANISH": "has respondido",
-      "ENGLISH": "you have answered"
+      "SPANISH": "Has respondido",
+      "ENGLISH": "You have answered"
     },
     "EL": {
-      "SPANISH": "ha respondido",
-      "ENGLISH": "s/he has answered, you (formal) have answered"
+      "SPANISH": "Ha respondido",
+      "ENGLISH": "He has answered"
     },
     "ELLOS": {
-      "SPANISH": "han respondido",
-      "ENGLISH": "they have answered, you (plural formal) have answered"
+      "SPANISH": "Han respondido",
+      "ENGLISH": "They have answered"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos respondido",
-      "ENGLISH": "we have answered"
+      "SPANISH": "Hemos respondido",
+      "ENGLISH": "We have answered"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis respondido",
-      "ENGLISH": "you (plural) have answered"
+      "SPANISH": "Habéis respondido",
+      "ENGLISH": "You have answered"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "respondí",
+      "SPANISH": "Respondí",
       "ENGLISH": "I answered"
     },
     "TU": {
-      "SPANISH": "respondiste",
-      "ENGLISH": "you answered"
+      "SPANISH": "Respondiste",
+      "ENGLISH": "You answered"
     },
     "EL": {
-      "SPANISH": "respondió",
-      "ENGLISH": "s/he answered, you (formal) answered"
+      "SPANISH": "Respondió",
+      "ENGLISH": "He answered"
     },
     "ELLOS": {
-      "SPANISH": "respondieron",
-      "ENGLISH": "they answered, you (plural formal) answered"
+      "SPANISH": "Respondieron",
+      "ENGLISH": "They answered"
     },
     "NOSOTROS": {
-      "SPANISH": "respondimos",
-      "ENGLISH": "we answered"
+      "SPANISH": "Respondimos",
+      "ENGLISH": "We answered"
     },
     "VOSOTROS": {
-      "SPANISH": "respondisteis",
-      "ENGLISH": "you (plural) answered"
+      "SPANISH": "Respondisteis",
+      "ENGLISH": "You answered"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había respondido",
+      "SPANISH": "Había respondido",
       "ENGLISH": "I had answered"
     },
     "TU": {
-      "SPANISH": "habías respondido",
-      "ENGLISH": "you had answered"
+      "SPANISH": "Habías respondido",
+      "ENGLISH": "You had answered"
     },
     "EL": {
-      "SPANISH": "había respondido",
-      "ENGLISH": "s/he had answered, you (formal) had answered"
+      "SPANISH": "Había respondido",
+      "ENGLISH": "He had answered"
     },
     "ELLOS": {
-      "SPANISH": "habían respondido",
-      "ENGLISH": "they had answered, you (plural formal) had answered"
+      "SPANISH": "Habían respondido",
+      "ENGLISH": "They had answered"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos respondido",
-      "ENGLISH": "we had answered"
+      "SPANISH": "Habíamos respondido",
+      "ENGLISH": "We had answered"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais respondido",
-      "ENGLISH": "you (plural) had answered"
+      "SPANISH": "Habíais respondido",
+      "ENGLISH": "You had answered"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "respondí",
+      "SPANISH": "Respondí",
       "ENGLISH": "I answered"
     },
     "TU": {
-      "SPANISH": "respondiste",
-      "ENGLISH": "you answered"
+      "SPANISH": "Respondiste",
+      "ENGLISH": "You answered"
     },
     "EL": {
-      "SPANISH": "respondió",
-      "ENGLISH": "s/he answered, you (formal) answered"
+      "SPANISH": "Respondió",
+      "ENGLISH": "He answered"
     },
     "ELLOS": {
-      "SPANISH": "respondieron",
-      "ENGLISH": "they answered, you (plural formal) answered"
+      "SPANISH": "Respondieron",
+      "ENGLISH": "They answered"
     },
     "NOSOTROS": {
-      "SPANISH": "respondimos",
-      "ENGLISH": "we answered"
+      "SPANISH": "Respondimos",
+      "ENGLISH": "We answered"
     },
     "VOSOTROS": {
-      "SPANISH": "respondisteis",
-      "ENGLISH": "you (plural) answered"
+      "SPANISH": "Respondisteis",
+      "ENGLISH": "You answered"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "responderé",
+      "SPANISH": "Responderé",
       "ENGLISH": "I will answer"
     },
     "TU": {
-      "SPANISH": "responderás",
-      "ENGLISH": "you will answer"
+      "SPANISH": "Responderás",
+      "ENGLISH": "You will answer"
     },
     "EL": {
-      "SPANISH": "responderá",
-      "ENGLISH": "s/he will answer, you (formal) will answer"
+      "SPANISH": "Responderá",
+      "ENGLISH": "He will answer"
     },
     "ELLOS": {
-      "SPANISH": "responderán",
-      "ENGLISH": "they will answer, you (plural formal) will answer"
+      "SPANISH": "Responderán",
+      "ENGLISH": "They will answer"
     },
     "NOSOTROS": {
-      "SPANISH": "responderemos",
-      "ENGLISH": "we will answer"
+      "SPANISH": "Responderemos",
+      "ENGLISH": "We will answer"
     },
     "VOSOTROS": {
-      "SPANISH": "responderéis",
-      "ENGLISH": "you (plural) will answer"
+      "SPANISH": "Responderéis",
+      "ENGLISH": "You will answer"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré respondido",
+      "SPANISH": "Habré respondido",
       "ENGLISH": "I will have answered"
     },
     "TU": {
-      "SPANISH": "habrás respondido",
-      "ENGLISH": "you will have answered"
+      "SPANISH": "Habrás respondido",
+      "ENGLISH": "You will have answered"
     },
     "EL": {
-      "SPANISH": "habrá respondido",
-      "ENGLISH": "s/he will have answered, you (formal) will have answered"
+      "SPANISH": "Habrá respondido",
+      "ENGLISH": "He will have answered"
     },
     "ELLOS": {
-      "SPANISH": "habrán respondido",
-      "ENGLISH": "they will have answered, you (plural formal) will have answered"
+      "SPANISH": "Habrán respondido",
+      "ENGLISH": "They will have answered"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos respondido",
-      "ENGLISH": "we will have answered"
+      "SPANISH": "Habremos respondido",
+      "ENGLISH": "We will have answered"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis respondido",
-      "ENGLISH": "you (plural) will have answered"
+      "SPANISH": "Habréis respondido",
+      "ENGLISH": "You will have answered"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "respondería",
+      "SPANISH": "Respondería",
       "ENGLISH": "I would answer"
     },
     "TU": {
-      "SPANISH": "responderías",
-      "ENGLISH": "you would answer"
+      "SPANISH": "Responderías",
+      "ENGLISH": "You would answer"
     },
     "EL": {
-      "SPANISH": "respondería",
-      "ENGLISH": "s/he would answer, you (formal) would answer"
+      "SPANISH": "Respondería",
+      "ENGLISH": "He would answer"
     },
     "ELLOS": {
-      "SPANISH": "responderían",
-      "ENGLISH": "they would answer, you (plural formal) would answer"
+      "SPANISH": "Responderían",
+      "ENGLISH": "They would answer"
     },
     "NOSOTROS": {
-      "SPANISH": "responderíamos",
-      "ENGLISH": "we would answer"
+      "SPANISH": "Responderíamos",
+      "ENGLISH": "We would answer"
     },
     "VOSOTROS": {
-      "SPANISH": "responderíais",
-      "ENGLISH": "you (plural) would answer"
+      "SPANISH": "Responderíais",
+      "ENGLISH": "You would answer"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría respondido",
+      "SPANISH": "Habría respondido",
       "ENGLISH": "I would have answered"
     },
     "TU": {
-      "SPANISH": "habrías respondido",
-      "ENGLISH": "you would have answered"
+      "SPANISH": "Habrías respondido",
+      "ENGLISH": "You would have answered"
     },
     "EL": {
-      "SPANISH": "habría respondido",
-      "ENGLISH": "s/he would have answered, you (formal) would have answered"
+      "SPANISH": "Habría respondido",
+      "ENGLISH": "He would have answered"
     },
     "ELLOS": {
-      "SPANISH": "habrían respondido",
-      "ENGLISH": "they would have answered, you (plural formal) would have answered"
+      "SPANISH": "Habrían respondido",
+      "ENGLISH": "They would have answered"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos respondido",
-      "ENGLISH": "we would have answered"
+      "SPANISH": "Habríamos respondido",
+      "ENGLISH": "We would have answered"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais respondido",
-      "ENGLISH": "you (plural) would have answered"
+      "SPANISH": "Habríais respondido",
+      "ENGLISH": "You would have answered"
     }
   }
 }

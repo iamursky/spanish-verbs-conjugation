@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me encuentro ",
+      "SPANISH": "Me encuentro ",
       "ENGLISH": "I find"
     },
     "TU": {
-      "SPANISH": "te encuentras ",
-      "ENGLISH": "you find"
+      "SPANISH": "Te encuentras ",
+      "ENGLISH": "You find"
     },
     "EL": {
-      "SPANISH": "se encuentra ",
-      "ENGLISH": "s/he finds, you (formal) finds"
+      "SPANISH": "Se encuentra ",
+      "ENGLISH": "He finds"
     },
     "ELLOS": {
-      "SPANISH": "se encuentran ",
-      "ENGLISH": "they find, you (plural formal) find"
+      "SPANISH": "Se encuentran ",
+      "ENGLISH": "They find"
     },
     "NOSOTROS": {
-      "SPANISH": "nos encontramos",
-      "ENGLISH": "we find"
+      "SPANISH": "Nos encontramos",
+      "ENGLISH": "We find"
     },
     "VOSOTROS": {
-      "SPANISH": "os encontráis",
-      "ENGLISH": "you (plural) find"
+      "SPANISH": "Os encontráis",
+      "ENGLISH": "You find"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he encontrado",
+      "SPANISH": "Me he encontrado",
       "ENGLISH": "I have found"
     },
     "TU": {
-      "SPANISH": "te has encontrado",
-      "ENGLISH": "you have found"
+      "SPANISH": "Te has encontrado",
+      "ENGLISH": "You have found"
     },
     "EL": {
-      "SPANISH": "se ha encontrado",
-      "ENGLISH": "s/he has found, you (formal) have found"
+      "SPANISH": "Se ha encontrado",
+      "ENGLISH": "He has found"
     },
     "ELLOS": {
-      "SPANISH": "se han encontrado",
-      "ENGLISH": "they have found, you (plural formal) have found"
+      "SPANISH": "Se han encontrado",
+      "ENGLISH": "They have found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos encontrado",
-      "ENGLISH": "we have found"
+      "SPANISH": "Nos hemos encontrado",
+      "ENGLISH": "We have found"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis encontrado",
-      "ENGLISH": "you (plural) have found"
+      "SPANISH": "Os habéis encontrado",
+      "ENGLISH": "You have found"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me encontré",
+      "SPANISH": "Me encontré",
       "ENGLISH": "I found"
     },
     "TU": {
-      "SPANISH": "te encontraste",
-      "ENGLISH": "you found"
+      "SPANISH": "Te encontraste",
+      "ENGLISH": "You found"
     },
     "EL": {
-      "SPANISH": "se encontró",
-      "ENGLISH": "s/he found, you (formal) found"
+      "SPANISH": "Se encontró",
+      "ENGLISH": "He found"
     },
     "ELLOS": {
-      "SPANISH": "se encontraron",
-      "ENGLISH": "they found, you (plural formal) found"
+      "SPANISH": "Se encontraron",
+      "ENGLISH": "They found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos encontramos",
-      "ENGLISH": "we found"
+      "SPANISH": "Nos encontramos",
+      "ENGLISH": "We found"
     },
     "VOSOTROS": {
-      "SPANISH": "os encontrasteis",
-      "ENGLISH": "you (plural) found"
+      "SPANISH": "Os encontrasteis",
+      "ENGLISH": "You found"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había encontrado",
+      "SPANISH": "Me había encontrado",
       "ENGLISH": "I had found"
     },
     "TU": {
-      "SPANISH": "te habías encontrado",
-      "ENGLISH": "you had found"
+      "SPANISH": "Te habías encontrado",
+      "ENGLISH": "You had found"
     },
     "EL": {
-      "SPANISH": "se había encontrado",
-      "ENGLISH": "s/he had found, you (formal) had found"
+      "SPANISH": "Se había encontrado",
+      "ENGLISH": "He had found"
     },
     "ELLOS": {
-      "SPANISH": "se habían encontrado",
-      "ENGLISH": "they had found, you (plural formal) had found"
+      "SPANISH": "Se habían encontrado",
+      "ENGLISH": "They had found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos encontrado",
-      "ENGLISH": "we had found"
+      "SPANISH": "Nos habíamos encontrado",
+      "ENGLISH": "We had found"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais encontrado",
-      "ENGLISH": "you (plural) had found"
+      "SPANISH": "Os habíais encontrado",
+      "ENGLISH": "You had found"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me encontré",
+      "SPANISH": "Me encontré",
       "ENGLISH": "I found"
     },
     "TU": {
-      "SPANISH": "te encontraste",
-      "ENGLISH": "you found"
+      "SPANISH": "Te encontraste",
+      "ENGLISH": "You found"
     },
     "EL": {
-      "SPANISH": "se encontró",
-      "ENGLISH": "s/he found, you (formal) found"
+      "SPANISH": "Se encontró",
+      "ENGLISH": "He found"
     },
     "ELLOS": {
-      "SPANISH": "se encontraron",
-      "ENGLISH": "they found, you (plural formal) found"
+      "SPANISH": "Se encontraron",
+      "ENGLISH": "They found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos encontramos",
-      "ENGLISH": "we found"
+      "SPANISH": "Nos encontramos",
+      "ENGLISH": "We found"
     },
     "VOSOTROS": {
-      "SPANISH": "os encontrasteis",
-      "ENGLISH": "you (plural) found"
+      "SPANISH": "Os encontrasteis",
+      "ENGLISH": "You found"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me encontraré",
+      "SPANISH": "Me encontraré",
       "ENGLISH": "I will find"
     },
     "TU": {
-      "SPANISH": "te encontrarás",
-      "ENGLISH": "you will find"
+      "SPANISH": "Te encontrarás",
+      "ENGLISH": "You will find"
     },
     "EL": {
-      "SPANISH": "se encontrará",
-      "ENGLISH": "s/he will find, you (formal) will find"
+      "SPANISH": "Se encontrará",
+      "ENGLISH": "He will find"
     },
     "ELLOS": {
-      "SPANISH": "se encontrarán",
-      "ENGLISH": "they will find, you (plural formal) will find"
+      "SPANISH": "Se encontrarán",
+      "ENGLISH": "They will find"
     },
     "NOSOTROS": {
-      "SPANISH": "nos encontraremos",
-      "ENGLISH": "we will find"
+      "SPANISH": "Nos encontraremos",
+      "ENGLISH": "We will find"
     },
     "VOSOTROS": {
-      "SPANISH": "os encontraréis",
-      "ENGLISH": "you (plural) will find"
+      "SPANISH": "Os encontraréis",
+      "ENGLISH": "You will find"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré encontrado",
+      "SPANISH": "Me habré encontrado",
       "ENGLISH": "I will have found"
     },
     "TU": {
-      "SPANISH": "te habrás encontrado",
-      "ENGLISH": "you will have found"
+      "SPANISH": "Te habrás encontrado",
+      "ENGLISH": "You will have found"
     },
     "EL": {
-      "SPANISH": "se habrá encontrado",
-      "ENGLISH": "s/he will have found, you (formal) will have found"
+      "SPANISH": "Se habrá encontrado",
+      "ENGLISH": "He will have found"
     },
     "ELLOS": {
-      "SPANISH": "se habrán encontrado",
-      "ENGLISH": "they will have found, you (plural formal) will have found"
+      "SPANISH": "Se habrán encontrado",
+      "ENGLISH": "They will have found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos encontrado",
-      "ENGLISH": "we will have found"
+      "SPANISH": "Nos habremos encontrado",
+      "ENGLISH": "We will have found"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis encontrado",
-      "ENGLISH": "you (plural) will have found"
+      "SPANISH": "Os habréis encontrado",
+      "ENGLISH": "You will have found"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me encontraría",
+      "SPANISH": "Me encontraría",
       "ENGLISH": "I would find"
     },
     "TU": {
-      "SPANISH": "te encontrarías",
-      "ENGLISH": "you would find"
+      "SPANISH": "Te encontrarías",
+      "ENGLISH": "You would find"
     },
     "EL": {
-      "SPANISH": "se encontraría",
-      "ENGLISH": "s/he would find, you (formal) would find"
+      "SPANISH": "Se encontraría",
+      "ENGLISH": "He would find"
     },
     "ELLOS": {
-      "SPANISH": "se encontrarían",
-      "ENGLISH": "they would find, you (plural formal) would find"
+      "SPANISH": "Se encontrarían",
+      "ENGLISH": "They would find"
     },
     "NOSOTROS": {
-      "SPANISH": "nos encontraríamos",
-      "ENGLISH": "we would find"
+      "SPANISH": "Nos encontraríamos",
+      "ENGLISH": "We would find"
     },
     "VOSOTROS": {
-      "SPANISH": "os encontraríais",
-      "ENGLISH": "you (plural) would find"
+      "SPANISH": "Os encontraríais",
+      "ENGLISH": "You would find"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría encontrado",
+      "SPANISH": "Me habría encontrado",
       "ENGLISH": "I would have found"
     },
     "TU": {
-      "SPANISH": "te habrías encontrado",
-      "ENGLISH": "you would have found"
+      "SPANISH": "Te habrías encontrado",
+      "ENGLISH": "You would have found"
     },
     "EL": {
-      "SPANISH": "se habría encontrado",
-      "ENGLISH": "s/he would have found, you (formal) would have found"
+      "SPANISH": "Se habría encontrado",
+      "ENGLISH": "He would have found"
     },
     "ELLOS": {
-      "SPANISH": "se habrían encontrado",
-      "ENGLISH": "they would have found, you (plural formal) would have found"
+      "SPANISH": "Se habrían encontrado",
+      "ENGLISH": "They would have found"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos encontrado",
-      "ENGLISH": "we would have found"
+      "SPANISH": "Nos habríamos encontrado",
+      "ENGLISH": "We would have found"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais encontrado",
-      "ENGLISH": "you (plural) would have found"
+      "SPANISH": "Os habríais encontrado",
+      "ENGLISH": "You would have found"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me conozco ",
+      "SPANISH": "Me conozco ",
       "ENGLISH": "I know"
     },
     "TU": {
-      "SPANISH": "te conoces",
-      "ENGLISH": "you know"
+      "SPANISH": "Te conoces",
+      "ENGLISH": "You know"
     },
     "EL": {
-      "SPANISH": "se conoce",
-      "ENGLISH": "s/he knows, you (formal) knows"
+      "SPANISH": "Se conoce",
+      "ENGLISH": "He knows"
     },
     "ELLOS": {
-      "SPANISH": "se conocen",
-      "ENGLISH": "they know, you (plural formal) know"
+      "SPANISH": "Se conocen",
+      "ENGLISH": "They know"
     },
     "NOSOTROS": {
-      "SPANISH": "nos conocemos",
-      "ENGLISH": "we know"
+      "SPANISH": "Nos conocemos",
+      "ENGLISH": "We know"
     },
     "VOSOTROS": {
-      "SPANISH": "os conocéis",
-      "ENGLISH": "you (plural) know"
+      "SPANISH": "Os conocéis",
+      "ENGLISH": "You know"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he conocido",
+      "SPANISH": "Me he conocido",
       "ENGLISH": "I have known"
     },
     "TU": {
-      "SPANISH": "te has conocido",
-      "ENGLISH": "you have known"
+      "SPANISH": "Te has conocido",
+      "ENGLISH": "You have known"
     },
     "EL": {
-      "SPANISH": "se ha conocido",
-      "ENGLISH": "s/he has known, you (formal) have known"
+      "SPANISH": "Se ha conocido",
+      "ENGLISH": "He has known"
     },
     "ELLOS": {
-      "SPANISH": "se han conocido",
-      "ENGLISH": "they have known, you (plural formal) have known"
+      "SPANISH": "Se han conocido",
+      "ENGLISH": "They have known"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos conocido",
-      "ENGLISH": "we have known"
+      "SPANISH": "Nos hemos conocido",
+      "ENGLISH": "We have known"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis conocido",
-      "ENGLISH": "you (plural) have known"
+      "SPANISH": "Os habéis conocido",
+      "ENGLISH": "You have known"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me conocí",
+      "SPANISH": "Me conocí",
       "ENGLISH": "I knew"
     },
     "TU": {
-      "SPANISH": "te conociste",
-      "ENGLISH": "you knew"
+      "SPANISH": "Te conociste",
+      "ENGLISH": "You knew"
     },
     "EL": {
-      "SPANISH": "se conoció",
-      "ENGLISH": "s/he knew, you (formal) knew"
+      "SPANISH": "Se conoció",
+      "ENGLISH": "He knew"
     },
     "ELLOS": {
-      "SPANISH": "se conocieron",
-      "ENGLISH": "they knew, you (plural formal) knew"
+      "SPANISH": "Se conocieron",
+      "ENGLISH": "They knew"
     },
     "NOSOTROS": {
-      "SPANISH": "nos conocimos",
-      "ENGLISH": "we knew"
+      "SPANISH": "Nos conocimos",
+      "ENGLISH": "We knew"
     },
     "VOSOTROS": {
-      "SPANISH": "os conocisteis",
-      "ENGLISH": "you (plural) knew"
+      "SPANISH": "Os conocisteis",
+      "ENGLISH": "You knew"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había conocido",
+      "SPANISH": "Me había conocido",
       "ENGLISH": "I had known"
     },
     "TU": {
-      "SPANISH": "te habías conocido",
-      "ENGLISH": "you had known"
+      "SPANISH": "Te habías conocido",
+      "ENGLISH": "You had known"
     },
     "EL": {
-      "SPANISH": "se había conocido",
-      "ENGLISH": "s/he had known, you (formal) had known"
+      "SPANISH": "Se había conocido",
+      "ENGLISH": "He had known"
     },
     "ELLOS": {
-      "SPANISH": "se habían conocido",
-      "ENGLISH": "they had known, you (plural formal) had known"
+      "SPANISH": "Se habían conocido",
+      "ENGLISH": "They had known"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos conocido",
-      "ENGLISH": "we had known"
+      "SPANISH": "Nos habíamos conocido",
+      "ENGLISH": "We had known"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais conocido",
-      "ENGLISH": "you (plural) had known"
+      "SPANISH": "Os habíais conocido",
+      "ENGLISH": "You had known"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me conocí",
+      "SPANISH": "Me conocí",
       "ENGLISH": "I knew"
     },
     "TU": {
-      "SPANISH": "te conociste",
-      "ENGLISH": "you knew"
+      "SPANISH": "Te conociste",
+      "ENGLISH": "You knew"
     },
     "EL": {
-      "SPANISH": "se conoció",
-      "ENGLISH": "s/he knew, you (formal) knew"
+      "SPANISH": "Se conoció",
+      "ENGLISH": "He knew"
     },
     "ELLOS": {
-      "SPANISH": "se conocieron",
-      "ENGLISH": "they knew, you (plural formal) knew"
+      "SPANISH": "Se conocieron",
+      "ENGLISH": "They knew"
     },
     "NOSOTROS": {
-      "SPANISH": "nos conocimos",
-      "ENGLISH": "we knew"
+      "SPANISH": "Nos conocimos",
+      "ENGLISH": "We knew"
     },
     "VOSOTROS": {
-      "SPANISH": "os conocisteis",
-      "ENGLISH": "you (plural) knew"
+      "SPANISH": "Os conocisteis",
+      "ENGLISH": "You knew"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me conoceré",
+      "SPANISH": "Me conoceré",
       "ENGLISH": "I will know"
     },
     "TU": {
-      "SPANISH": "te conocerás",
-      "ENGLISH": "you will know"
+      "SPANISH": "Te conocerás",
+      "ENGLISH": "You will know"
     },
     "EL": {
-      "SPANISH": "se conocerá",
-      "ENGLISH": "s/he will know, you (formal) will know"
+      "SPANISH": "Se conocerá",
+      "ENGLISH": "He will know"
     },
     "ELLOS": {
-      "SPANISH": "se conocerán",
-      "ENGLISH": "they will know, you (plural formal) will know"
+      "SPANISH": "Se conocerán",
+      "ENGLISH": "They will know"
     },
     "NOSOTROS": {
-      "SPANISH": "nos conoceremos",
-      "ENGLISH": "we will know"
+      "SPANISH": "Nos conoceremos",
+      "ENGLISH": "We will know"
     },
     "VOSOTROS": {
-      "SPANISH": "os conoceréis",
-      "ENGLISH": "you (plural) will know"
+      "SPANISH": "Os conoceréis",
+      "ENGLISH": "You will know"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré conocido",
+      "SPANISH": "Me habré conocido",
       "ENGLISH": "I will have known"
     },
     "TU": {
-      "SPANISH": "te habrás conocido",
-      "ENGLISH": "you will have known"
+      "SPANISH": "Te habrás conocido",
+      "ENGLISH": "You will have known"
     },
     "EL": {
-      "SPANISH": "se habrá conocido",
-      "ENGLISH": "s/he will have known, you (formal) will have known"
+      "SPANISH": "Se habrá conocido",
+      "ENGLISH": "He will have known"
     },
     "ELLOS": {
-      "SPANISH": "se habrán conocido",
-      "ENGLISH": "they will have known, you (plural formal) will have known"
+      "SPANISH": "Se habrán conocido",
+      "ENGLISH": "They will have known"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos conocido",
-      "ENGLISH": "we will have known"
+      "SPANISH": "Nos habremos conocido",
+      "ENGLISH": "We will have known"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis conocido",
-      "ENGLISH": "you (plural) will have known"
+      "SPANISH": "Os habréis conocido",
+      "ENGLISH": "You will have known"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me conocería",
+      "SPANISH": "Me conocería",
       "ENGLISH": "I would know"
     },
     "TU": {
-      "SPANISH": "te conocerías",
-      "ENGLISH": "you would know"
+      "SPANISH": "Te conocerías",
+      "ENGLISH": "You would know"
     },
     "EL": {
-      "SPANISH": "se conocería",
-      "ENGLISH": "s/he would know, you (formal) would know"
+      "SPANISH": "Se conocería",
+      "ENGLISH": "He would know"
     },
     "ELLOS": {
-      "SPANISH": "se conocerían",
-      "ENGLISH": "they would know, you (plural formal) would know"
+      "SPANISH": "Se conocerían",
+      "ENGLISH": "They would know"
     },
     "NOSOTROS": {
-      "SPANISH": "nos conoceríamos",
-      "ENGLISH": "we would know"
+      "SPANISH": "Nos conoceríamos",
+      "ENGLISH": "We would know"
     },
     "VOSOTROS": {
-      "SPANISH": "os conoceríais",
-      "ENGLISH": "you (plural) would know"
+      "SPANISH": "Os conoceríais",
+      "ENGLISH": "You would know"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría conocido",
+      "SPANISH": "Me habría conocido",
       "ENGLISH": "I would have known"
     },
     "TU": {
-      "SPANISH": "te habrías conocido",
-      "ENGLISH": "you would have known"
+      "SPANISH": "Te habrías conocido",
+      "ENGLISH": "You would have known"
     },
     "EL": {
-      "SPANISH": "se habría conocido",
-      "ENGLISH": "s/he would have known, you (formal) would have known"
+      "SPANISH": "Se habría conocido",
+      "ENGLISH": "He would have known"
     },
     "ELLOS": {
-      "SPANISH": "se habrían conocido",
-      "ENGLISH": "they would have known, you (plural formal) would have known"
+      "SPANISH": "Se habrían conocido",
+      "ENGLISH": "They would have known"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos conocido",
-      "ENGLISH": "we would have known"
+      "SPANISH": "Nos habríamos conocido",
+      "ENGLISH": "We would have known"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais conocido",
-      "ENGLISH": "you (plural) would have known"
+      "SPANISH": "Os habríais conocido",
+      "ENGLISH": "You would have known"
     }
   }
 }

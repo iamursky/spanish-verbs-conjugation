@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "menciono",
+      "SPANISH": "Menciono",
       "ENGLISH": "I mention"
     },
     "TU": {
-      "SPANISH": "mencionas",
-      "ENGLISH": "you mention"
+      "SPANISH": "Mencionas",
+      "ENGLISH": "You mention"
     },
     "EL": {
-      "SPANISH": "menciona",
-      "ENGLISH": "s/he mentions, you (formal) mentions"
+      "SPANISH": "Menciona",
+      "ENGLISH": "He mentions"
     },
     "ELLOS": {
-      "SPANISH": "mencionan",
-      "ENGLISH": "they mention, you (plural formal) mention"
+      "SPANISH": "Mencionan",
+      "ENGLISH": "They mention"
     },
     "NOSOTROS": {
-      "SPANISH": "mencionamos",
-      "ENGLISH": "we mention"
+      "SPANISH": "Mencionamos",
+      "ENGLISH": "We mention"
     },
     "VOSOTROS": {
-      "SPANISH": "mencionáis",
-      "ENGLISH": "you (plural) mention"
+      "SPANISH": "Mencionáis",
+      "ENGLISH": "You mention"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he mencionado",
+      "SPANISH": "He mencionado",
       "ENGLISH": "I have mentioned"
     },
     "TU": {
-      "SPANISH": "has mencionado",
-      "ENGLISH": "you have mentioned"
+      "SPANISH": "Has mencionado",
+      "ENGLISH": "You have mentioned"
     },
     "EL": {
-      "SPANISH": "ha mencionado",
-      "ENGLISH": "s/he has mentioned, you (formal) have mentioned"
+      "SPANISH": "Ha mencionado",
+      "ENGLISH": "He has mentioned"
     },
     "ELLOS": {
-      "SPANISH": "han mencionado",
-      "ENGLISH": "they have mentioned, you (plural formal) have mentioned"
+      "SPANISH": "Han mencionado",
+      "ENGLISH": "They have mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos mencionado",
-      "ENGLISH": "we have mentioned"
+      "SPANISH": "Hemos mencionado",
+      "ENGLISH": "We have mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis mencionado",
-      "ENGLISH": "you (plural) have mentioned"
+      "SPANISH": "Habéis mencionado",
+      "ENGLISH": "You have mentioned"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "mencioné",
+      "SPANISH": "Mencioné",
       "ENGLISH": "I mentioned"
     },
     "TU": {
-      "SPANISH": "mencionaste",
-      "ENGLISH": "you mentioned"
+      "SPANISH": "Mencionaste",
+      "ENGLISH": "You mentioned"
     },
     "EL": {
-      "SPANISH": "mencionó",
-      "ENGLISH": "s/he mentioned, you (formal) mentioned"
+      "SPANISH": "Mencionó",
+      "ENGLISH": "He mentioned"
     },
     "ELLOS": {
-      "SPANISH": "mencionaron",
-      "ENGLISH": "they mentioned, you (plural formal) mentioned"
+      "SPANISH": "Mencionaron",
+      "ENGLISH": "They mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "mencionamos",
-      "ENGLISH": "we mentioned"
+      "SPANISH": "Mencionamos",
+      "ENGLISH": "We mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "mencionasteis",
-      "ENGLISH": "you (plural) mentioned"
+      "SPANISH": "Mencionasteis",
+      "ENGLISH": "You mentioned"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había mencionado",
+      "SPANISH": "Había mencionado",
       "ENGLISH": "I had mentioned"
     },
     "TU": {
-      "SPANISH": "habías mencionado",
-      "ENGLISH": "you had mentioned"
+      "SPANISH": "Habías mencionado",
+      "ENGLISH": "You had mentioned"
     },
     "EL": {
-      "SPANISH": "había mencionado",
-      "ENGLISH": "s/he had mentioned, you (formal) had mentioned"
+      "SPANISH": "Había mencionado",
+      "ENGLISH": "He had mentioned"
     },
     "ELLOS": {
-      "SPANISH": "habían mencionado",
-      "ENGLISH": "they had mentioned, you (plural formal) had mentioned"
+      "SPANISH": "Habían mencionado",
+      "ENGLISH": "They had mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos mencionado",
-      "ENGLISH": "we had mentioned"
+      "SPANISH": "Habíamos mencionado",
+      "ENGLISH": "We had mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais mencionado",
-      "ENGLISH": "you (plural) had mentioned"
+      "SPANISH": "Habíais mencionado",
+      "ENGLISH": "You had mentioned"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "mencioné",
+      "SPANISH": "Mencioné",
       "ENGLISH": "I mentioned"
     },
     "TU": {
-      "SPANISH": "mencionaste",
-      "ENGLISH": "you mentioned"
+      "SPANISH": "Mencionaste",
+      "ENGLISH": "You mentioned"
     },
     "EL": {
-      "SPANISH": "mencionó",
-      "ENGLISH": "s/he mentioned, you (formal) mentioned"
+      "SPANISH": "Mencionó",
+      "ENGLISH": "He mentioned"
     },
     "ELLOS": {
-      "SPANISH": "mencionaron",
-      "ENGLISH": "they mentioned, you (plural formal) mentioned"
+      "SPANISH": "Mencionaron",
+      "ENGLISH": "They mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "mencionamos",
-      "ENGLISH": "we mentioned"
+      "SPANISH": "Mencionamos",
+      "ENGLISH": "We mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "mencionasteis",
-      "ENGLISH": "you (plural) mentioned"
+      "SPANISH": "Mencionasteis",
+      "ENGLISH": "You mentioned"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "mencionaré",
+      "SPANISH": "Mencionaré",
       "ENGLISH": "I will mention"
     },
     "TU": {
-      "SPANISH": "mencionarás",
-      "ENGLISH": "you will mention"
+      "SPANISH": "Mencionarás",
+      "ENGLISH": "You will mention"
     },
     "EL": {
-      "SPANISH": "mencionará",
-      "ENGLISH": "s/he will mention, you (formal) will mention"
+      "SPANISH": "Mencionará",
+      "ENGLISH": "He will mention"
     },
     "ELLOS": {
-      "SPANISH": "mencionarán",
-      "ENGLISH": "they will mention, you (plural formal) will mention"
+      "SPANISH": "Mencionarán",
+      "ENGLISH": "They will mention"
     },
     "NOSOTROS": {
-      "SPANISH": "mencionaremos",
-      "ENGLISH": "we will mention"
+      "SPANISH": "Mencionaremos",
+      "ENGLISH": "We will mention"
     },
     "VOSOTROS": {
-      "SPANISH": "mencionaréis",
-      "ENGLISH": "you (plural) will mention"
+      "SPANISH": "Mencionaréis",
+      "ENGLISH": "You will mention"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré mencionado",
+      "SPANISH": "Habré mencionado",
       "ENGLISH": "I will have mentioned"
     },
     "TU": {
-      "SPANISH": "habrás mencionado",
-      "ENGLISH": "you will have mentioned"
+      "SPANISH": "Habrás mencionado",
+      "ENGLISH": "You will have mentioned"
     },
     "EL": {
-      "SPANISH": "habrá mencionado",
-      "ENGLISH": "s/he will have mentioned, you (formal) will have mentioned"
+      "SPANISH": "Habrá mencionado",
+      "ENGLISH": "He will have mentioned"
     },
     "ELLOS": {
-      "SPANISH": "habrán mencionado",
-      "ENGLISH": "they will have mentioned, you (plural formal) will have mentioned"
+      "SPANISH": "Habrán mencionado",
+      "ENGLISH": "They will have mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos mencionado",
-      "ENGLISH": "we will have mentioned"
+      "SPANISH": "Habremos mencionado",
+      "ENGLISH": "We will have mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis mencionado",
-      "ENGLISH": "you (plural) will have mentioned"
+      "SPANISH": "Habréis mencionado",
+      "ENGLISH": "You will have mentioned"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "mencionaría",
+      "SPANISH": "Mencionaría",
       "ENGLISH": "I would mention"
     },
     "TU": {
-      "SPANISH": "mencionarías",
-      "ENGLISH": "you would mention"
+      "SPANISH": "Mencionarías",
+      "ENGLISH": "You would mention"
     },
     "EL": {
-      "SPANISH": "mencionaría",
-      "ENGLISH": "s/he would mention, you (formal) would mention"
+      "SPANISH": "Mencionaría",
+      "ENGLISH": "He would mention"
     },
     "ELLOS": {
-      "SPANISH": "mencionarían",
-      "ENGLISH": "they would mention, you (plural formal) would mention"
+      "SPANISH": "Mencionarían",
+      "ENGLISH": "They would mention"
     },
     "NOSOTROS": {
-      "SPANISH": "mencionaríamos",
-      "ENGLISH": "we would mention"
+      "SPANISH": "Mencionaríamos",
+      "ENGLISH": "We would mention"
     },
     "VOSOTROS": {
-      "SPANISH": "mencionaríais",
-      "ENGLISH": "you (plural) would mention"
+      "SPANISH": "Mencionaríais",
+      "ENGLISH": "You would mention"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría mencionado",
+      "SPANISH": "Habría mencionado",
       "ENGLISH": "I would have mentioned"
     },
     "TU": {
-      "SPANISH": "habrías mencionado",
-      "ENGLISH": "you would have mentioned"
+      "SPANISH": "Habrías mencionado",
+      "ENGLISH": "You would have mentioned"
     },
     "EL": {
-      "SPANISH": "habría mencionado",
-      "ENGLISH": "s/he would have mentioned, you (formal) would have mentioned"
+      "SPANISH": "Habría mencionado",
+      "ENGLISH": "He would have mentioned"
     },
     "ELLOS": {
-      "SPANISH": "habrían mencionado",
-      "ENGLISH": "they would have mentioned, you (plural formal) would have mentioned"
+      "SPANISH": "Habrían mencionado",
+      "ENGLISH": "They would have mentioned"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos mencionado",
-      "ENGLISH": "we would have mentioned"
+      "SPANISH": "Habríamos mencionado",
+      "ENGLISH": "We would have mentioned"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais mencionado",
-      "ENGLISH": "you (plural) would have mentioned"
+      "SPANISH": "Habríais mencionado",
+      "ENGLISH": "You would have mentioned"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "recibo",
+      "SPANISH": "Recibo",
       "ENGLISH": "I receive"
     },
     "TU": {
-      "SPANISH": "recibes",
-      "ENGLISH": "you receive"
+      "SPANISH": "Recibes",
+      "ENGLISH": "You receive"
     },
     "EL": {
-      "SPANISH": "recibe",
-      "ENGLISH": "s/he receives, you (formal) receives"
+      "SPANISH": "Recibe",
+      "ENGLISH": "He receives"
     },
     "ELLOS": {
-      "SPANISH": "reciben",
-      "ENGLISH": "they receive, you (plural formal) receive"
+      "SPANISH": "Reciben",
+      "ENGLISH": "They receive"
     },
     "NOSOTROS": {
-      "SPANISH": "recibimos",
-      "ENGLISH": "we receive"
+      "SPANISH": "Recibimos",
+      "ENGLISH": "We receive"
     },
     "VOSOTROS": {
-      "SPANISH": "recibís",
-      "ENGLISH": "you (plural) receive"
+      "SPANISH": "Recibís",
+      "ENGLISH": "You receive"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he recibido",
+      "SPANISH": "He recibido",
       "ENGLISH": "I have received"
     },
     "TU": {
-      "SPANISH": "has recibido",
-      "ENGLISH": "you have received"
+      "SPANISH": "Has recibido",
+      "ENGLISH": "You have received"
     },
     "EL": {
-      "SPANISH": "ha recibido",
-      "ENGLISH": "s/he has received, you (formal) have received"
+      "SPANISH": "Ha recibido",
+      "ENGLISH": "He has received"
     },
     "ELLOS": {
-      "SPANISH": "han recibido",
-      "ENGLISH": "they have received, you (plural formal) have received"
+      "SPANISH": "Han recibido",
+      "ENGLISH": "They have received"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos recibido",
-      "ENGLISH": "we have received"
+      "SPANISH": "Hemos recibido",
+      "ENGLISH": "We have received"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis recibido",
-      "ENGLISH": "you (plural) have received"
+      "SPANISH": "Habéis recibido",
+      "ENGLISH": "You have received"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "recibí",
+      "SPANISH": "Recibí",
       "ENGLISH": "I received"
     },
     "TU": {
-      "SPANISH": "recibiste",
-      "ENGLISH": "you received"
+      "SPANISH": "Recibiste",
+      "ENGLISH": "You received"
     },
     "EL": {
-      "SPANISH": "recibió",
-      "ENGLISH": "s/he received, you (formal) received"
+      "SPANISH": "Recibió",
+      "ENGLISH": "He received"
     },
     "ELLOS": {
-      "SPANISH": "recibieron",
-      "ENGLISH": "they received, you (plural formal) received"
+      "SPANISH": "Recibieron",
+      "ENGLISH": "They received"
     },
     "NOSOTROS": {
-      "SPANISH": "recibimos",
-      "ENGLISH": "we received"
+      "SPANISH": "Recibimos",
+      "ENGLISH": "We received"
     },
     "VOSOTROS": {
-      "SPANISH": "recibisteis",
-      "ENGLISH": "you (plural) received"
+      "SPANISH": "Recibisteis",
+      "ENGLISH": "You received"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había recibido",
+      "SPANISH": "Había recibido",
       "ENGLISH": "I had received"
     },
     "TU": {
-      "SPANISH": "habías recibido",
-      "ENGLISH": "you had received"
+      "SPANISH": "Habías recibido",
+      "ENGLISH": "You had received"
     },
     "EL": {
-      "SPANISH": "había recibido",
-      "ENGLISH": "s/he had received, you (formal) had received"
+      "SPANISH": "Había recibido",
+      "ENGLISH": "He had received"
     },
     "ELLOS": {
-      "SPANISH": "habían recibido",
-      "ENGLISH": "they had received, you (plural formal) had received"
+      "SPANISH": "Habían recibido",
+      "ENGLISH": "They had received"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos recibido",
-      "ENGLISH": "we had received"
+      "SPANISH": "Habíamos recibido",
+      "ENGLISH": "We had received"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais recibido",
-      "ENGLISH": "you (plural) had received"
+      "SPANISH": "Habíais recibido",
+      "ENGLISH": "You had received"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "recibí",
+      "SPANISH": "Recibí",
       "ENGLISH": "I received"
     },
     "TU": {
-      "SPANISH": "recibiste",
-      "ENGLISH": "you received"
+      "SPANISH": "Recibiste",
+      "ENGLISH": "You received"
     },
     "EL": {
-      "SPANISH": "recibió",
-      "ENGLISH": "s/he received, you (formal) received"
+      "SPANISH": "Recibió",
+      "ENGLISH": "He received"
     },
     "ELLOS": {
-      "SPANISH": "recibieron",
-      "ENGLISH": "they received, you (plural formal) received"
+      "SPANISH": "Recibieron",
+      "ENGLISH": "They received"
     },
     "NOSOTROS": {
-      "SPANISH": "recibimos",
-      "ENGLISH": "we received"
+      "SPANISH": "Recibimos",
+      "ENGLISH": "We received"
     },
     "VOSOTROS": {
-      "SPANISH": "recibisteis",
-      "ENGLISH": "you (plural) received"
+      "SPANISH": "Recibisteis",
+      "ENGLISH": "You received"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "recibiré",
+      "SPANISH": "Recibiré",
       "ENGLISH": "I will receive"
     },
     "TU": {
-      "SPANISH": "recibirás",
-      "ENGLISH": "you will receive"
+      "SPANISH": "Recibirás",
+      "ENGLISH": "You will receive"
     },
     "EL": {
-      "SPANISH": "recibirá",
-      "ENGLISH": "s/he will receive, you (formal) will receive"
+      "SPANISH": "Recibirá",
+      "ENGLISH": "He will receive"
     },
     "ELLOS": {
-      "SPANISH": "recibirán",
-      "ENGLISH": "they will receive, you (plural formal) will receive"
+      "SPANISH": "Recibirán",
+      "ENGLISH": "They will receive"
     },
     "NOSOTROS": {
-      "SPANISH": "recibiremos",
-      "ENGLISH": "we will receive"
+      "SPANISH": "Recibiremos",
+      "ENGLISH": "We will receive"
     },
     "VOSOTROS": {
-      "SPANISH": "recibiréis",
-      "ENGLISH": "you (plural) will receive"
+      "SPANISH": "Recibiréis",
+      "ENGLISH": "You will receive"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré recibido",
+      "SPANISH": "Habré recibido",
       "ENGLISH": "I will have received"
     },
     "TU": {
-      "SPANISH": "habrás recibido",
-      "ENGLISH": "you will have received"
+      "SPANISH": "Habrás recibido",
+      "ENGLISH": "You will have received"
     },
     "EL": {
-      "SPANISH": "habrá recibido",
-      "ENGLISH": "s/he will have received, you (formal) will have received"
+      "SPANISH": "Habrá recibido",
+      "ENGLISH": "He will have received"
     },
     "ELLOS": {
-      "SPANISH": "habrán recibido",
-      "ENGLISH": "they will have received, you (plural formal) will have received"
+      "SPANISH": "Habrán recibido",
+      "ENGLISH": "They will have received"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos recibido",
-      "ENGLISH": "we will have received"
+      "SPANISH": "Habremos recibido",
+      "ENGLISH": "We will have received"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis recibido",
-      "ENGLISH": "you (plural) will have received"
+      "SPANISH": "Habréis recibido",
+      "ENGLISH": "You will have received"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "recibiría",
+      "SPANISH": "Recibiría",
       "ENGLISH": "I would receive"
     },
     "TU": {
-      "SPANISH": "recibirías",
-      "ENGLISH": "you would receive"
+      "SPANISH": "Recibirías",
+      "ENGLISH": "You would receive"
     },
     "EL": {
-      "SPANISH": "recibiría",
-      "ENGLISH": "s/he would receive, you (formal) would receive"
+      "SPANISH": "Recibiría",
+      "ENGLISH": "He would receive"
     },
     "ELLOS": {
-      "SPANISH": "recibirían",
-      "ENGLISH": "they would receive, you (plural formal) would receive"
+      "SPANISH": "Recibirían",
+      "ENGLISH": "They would receive"
     },
     "NOSOTROS": {
-      "SPANISH": "recibiríamos",
-      "ENGLISH": "we would receive"
+      "SPANISH": "Recibiríamos",
+      "ENGLISH": "We would receive"
     },
     "VOSOTROS": {
-      "SPANISH": "recibiríais",
-      "ENGLISH": "you (plural) would receive"
+      "SPANISH": "Recibiríais",
+      "ENGLISH": "You would receive"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría recibido",
+      "SPANISH": "Habría recibido",
       "ENGLISH": "I would have received"
     },
     "TU": {
-      "SPANISH": "habrías recibido",
-      "ENGLISH": "you would have received"
+      "SPANISH": "Habrías recibido",
+      "ENGLISH": "You would have received"
     },
     "EL": {
-      "SPANISH": "habría recibido",
-      "ENGLISH": "s/he would have received, you (formal) would have received"
+      "SPANISH": "Habría recibido",
+      "ENGLISH": "He would have received"
     },
     "ELLOS": {
-      "SPANISH": "habrían recibido",
-      "ENGLISH": "they would have received, you (plural formal) would have received"
+      "SPANISH": "Habrían recibido",
+      "ENGLISH": "They would have received"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos recibido",
-      "ENGLISH": "we would have received"
+      "SPANISH": "Habríamos recibido",
+      "ENGLISH": "We would have received"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais recibido",
-      "ENGLISH": "you (plural) would have received"
+      "SPANISH": "Habríais recibido",
+      "ENGLISH": "You would have received"
     }
   }
 }

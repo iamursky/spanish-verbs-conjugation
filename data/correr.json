@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "corro",
+      "SPANISH": "Corro",
       "ENGLISH": "I run"
     },
     "TU": {
-      "SPANISH": "corres",
-      "ENGLISH": "you run"
+      "SPANISH": "Corres",
+      "ENGLISH": "You run"
     },
     "EL": {
-      "SPANISH": "corre",
-      "ENGLISH": "s/he runs, you (formal) runs"
+      "SPANISH": "Corre",
+      "ENGLISH": "He runs"
     },
     "ELLOS": {
-      "SPANISH": "corren",
-      "ENGLISH": "they run, you (plural formal) run"
+      "SPANISH": "Corren",
+      "ENGLISH": "They run"
     },
     "NOSOTROS": {
-      "SPANISH": "corremos",
-      "ENGLISH": "we run"
+      "SPANISH": "Corremos",
+      "ENGLISH": "We run"
     },
     "VOSOTROS": {
-      "SPANISH": "corréis",
-      "ENGLISH": "you (plural) run"
+      "SPANISH": "Corréis",
+      "ENGLISH": "You run"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he corrido",
+      "SPANISH": "He corrido",
       "ENGLISH": "I have run"
     },
     "TU": {
-      "SPANISH": "has corrido",
-      "ENGLISH": "you have run"
+      "SPANISH": "Has corrido",
+      "ENGLISH": "You have run"
     },
     "EL": {
-      "SPANISH": "ha corrido",
-      "ENGLISH": "s/he has run, you (formal) have run"
+      "SPANISH": "Ha corrido",
+      "ENGLISH": "He has run"
     },
     "ELLOS": {
-      "SPANISH": "han corrido",
-      "ENGLISH": "they have run, you (plural formal) have run"
+      "SPANISH": "Han corrido",
+      "ENGLISH": "They have run"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos corrido",
-      "ENGLISH": "we have run"
+      "SPANISH": "Hemos corrido",
+      "ENGLISH": "We have run"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis corrido",
-      "ENGLISH": "you (plural) have run"
+      "SPANISH": "Habéis corrido",
+      "ENGLISH": "You have run"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "corrí",
+      "SPANISH": "Corrí",
       "ENGLISH": "I ran"
     },
     "TU": {
-      "SPANISH": "corriste",
-      "ENGLISH": "you ran"
+      "SPANISH": "Corriste",
+      "ENGLISH": "You ran"
     },
     "EL": {
-      "SPANISH": "corrió",
-      "ENGLISH": "s/he ran, you (formal) ran"
+      "SPANISH": "Corrió",
+      "ENGLISH": "He ran"
     },
     "ELLOS": {
-      "SPANISH": "corrieron",
-      "ENGLISH": "they ran, you (plural formal) ran"
+      "SPANISH": "Corrieron",
+      "ENGLISH": "They ran"
     },
     "NOSOTROS": {
-      "SPANISH": "corrimos",
-      "ENGLISH": "we ran"
+      "SPANISH": "Corrimos",
+      "ENGLISH": "We ran"
     },
     "VOSOTROS": {
-      "SPANISH": "corristeis",
-      "ENGLISH": "you (plural) ran"
+      "SPANISH": "Corristeis",
+      "ENGLISH": "You ran"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había corrido",
+      "SPANISH": "Había corrido",
       "ENGLISH": "I had run"
     },
     "TU": {
-      "SPANISH": "habías corrido",
-      "ENGLISH": "you had run"
+      "SPANISH": "Habías corrido",
+      "ENGLISH": "You had run"
     },
     "EL": {
-      "SPANISH": "había corrido",
-      "ENGLISH": "s/he had run, you (formal) had run"
+      "SPANISH": "Había corrido",
+      "ENGLISH": "He had run"
     },
     "ELLOS": {
-      "SPANISH": "habían corrido",
-      "ENGLISH": "they had run, you (plural formal) had run"
+      "SPANISH": "Habían corrido",
+      "ENGLISH": "They had run"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos corrido",
-      "ENGLISH": "we had run"
+      "SPANISH": "Habíamos corrido",
+      "ENGLISH": "We had run"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais corrido",
-      "ENGLISH": "you (plural) had run"
+      "SPANISH": "Habíais corrido",
+      "ENGLISH": "You had run"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "corrí",
+      "SPANISH": "Corrí",
       "ENGLISH": "I ran"
     },
     "TU": {
-      "SPANISH": "corriste",
-      "ENGLISH": "you ran"
+      "SPANISH": "Corriste",
+      "ENGLISH": "You ran"
     },
     "EL": {
-      "SPANISH": "corrió",
-      "ENGLISH": "s/he ran, you (formal) ran"
+      "SPANISH": "Corrió",
+      "ENGLISH": "He ran"
     },
     "ELLOS": {
-      "SPANISH": "corrieron",
-      "ENGLISH": "they ran, you (plural formal) ran"
+      "SPANISH": "Corrieron",
+      "ENGLISH": "They ran"
     },
     "NOSOTROS": {
-      "SPANISH": "corrimos",
-      "ENGLISH": "we ran"
+      "SPANISH": "Corrimos",
+      "ENGLISH": "We ran"
     },
     "VOSOTROS": {
-      "SPANISH": "corristeis",
-      "ENGLISH": "you (plural) ran"
+      "SPANISH": "Corristeis",
+      "ENGLISH": "You ran"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "correré",
+      "SPANISH": "Correré",
       "ENGLISH": "I will run"
     },
     "TU": {
-      "SPANISH": "correrás",
-      "ENGLISH": "you will run"
+      "SPANISH": "Correrás",
+      "ENGLISH": "You will run"
     },
     "EL": {
-      "SPANISH": "correrá",
-      "ENGLISH": "s/he will run, you (formal) will run"
+      "SPANISH": "Correrá",
+      "ENGLISH": "He will run"
     },
     "ELLOS": {
-      "SPANISH": "correrán",
-      "ENGLISH": "they will run, you (plural formal) will run"
+      "SPANISH": "Correrán",
+      "ENGLISH": "They will run"
     },
     "NOSOTROS": {
-      "SPANISH": "correremos",
-      "ENGLISH": "we will run"
+      "SPANISH": "Correremos",
+      "ENGLISH": "We will run"
     },
     "VOSOTROS": {
-      "SPANISH": "correréis",
-      "ENGLISH": "you (plural) will run"
+      "SPANISH": "Correréis",
+      "ENGLISH": "You will run"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré corrido",
+      "SPANISH": "Habré corrido",
       "ENGLISH": "I will have run"
     },
     "TU": {
-      "SPANISH": "habrás corrido",
-      "ENGLISH": "you will have run"
+      "SPANISH": "Habrás corrido",
+      "ENGLISH": "You will have run"
     },
     "EL": {
-      "SPANISH": "habrá corrido",
-      "ENGLISH": "s/he will have run, you (formal) will have run"
+      "SPANISH": "Habrá corrido",
+      "ENGLISH": "He will have run"
     },
     "ELLOS": {
-      "SPANISH": "habrán corrido",
-      "ENGLISH": "they will have run, you (plural formal) will have run"
+      "SPANISH": "Habrán corrido",
+      "ENGLISH": "They will have run"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos corrido",
-      "ENGLISH": "we will have run"
+      "SPANISH": "Habremos corrido",
+      "ENGLISH": "We will have run"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis corrido",
-      "ENGLISH": "you (plural) will have run"
+      "SPANISH": "Habréis corrido",
+      "ENGLISH": "You will have run"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "correría",
+      "SPANISH": "Correría",
       "ENGLISH": "I would run"
     },
     "TU": {
-      "SPANISH": "correrías",
-      "ENGLISH": "you would run"
+      "SPANISH": "Correrías",
+      "ENGLISH": "You would run"
     },
     "EL": {
-      "SPANISH": "correría",
-      "ENGLISH": "s/he would run, you (formal) would run"
+      "SPANISH": "Correría",
+      "ENGLISH": "He would run"
     },
     "ELLOS": {
-      "SPANISH": "correrían",
-      "ENGLISH": "they would run, you (plural formal) would run"
+      "SPANISH": "Correrían",
+      "ENGLISH": "They would run"
     },
     "NOSOTROS": {
-      "SPANISH": "correríamos",
-      "ENGLISH": "we would run"
+      "SPANISH": "Correríamos",
+      "ENGLISH": "We would run"
     },
     "VOSOTROS": {
-      "SPANISH": "correríais",
-      "ENGLISH": "you (plural) would run"
+      "SPANISH": "Correríais",
+      "ENGLISH": "You would run"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría corrido",
+      "SPANISH": "Habría corrido",
       "ENGLISH": "I would have run"
     },
     "TU": {
-      "SPANISH": "habrías corrido",
-      "ENGLISH": "you would have run"
+      "SPANISH": "Habrías corrido",
+      "ENGLISH": "You would have run"
     },
     "EL": {
-      "SPANISH": "habría corrido",
-      "ENGLISH": "s/he would have run, you (formal) would have run"
+      "SPANISH": "Habría corrido",
+      "ENGLISH": "He would have run"
     },
     "ELLOS": {
-      "SPANISH": "habrían corrido",
-      "ENGLISH": "they would have run, you (plural formal) would have run"
+      "SPANISH": "Habrían corrido",
+      "ENGLISH": "They would have run"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos corrido",
-      "ENGLISH": "we would have run"
+      "SPANISH": "Habríamos corrido",
+      "ENGLISH": "We would have run"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais corrido",
-      "ENGLISH": "you (plural) would have run"
+      "SPANISH": "Habríais corrido",
+      "ENGLISH": "You would have run"
     }
   }
 }

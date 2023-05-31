@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "apoyo",
+      "SPANISH": "Apoyo",
       "ENGLISH": "I support"
     },
     "TU": {
-      "SPANISH": "apoyas",
-      "ENGLISH": "you support"
+      "SPANISH": "Apoyas",
+      "ENGLISH": "You support"
     },
     "EL": {
-      "SPANISH": "apoya",
-      "ENGLISH": "s/he supports, you (formal) supports"
+      "SPANISH": "Apoya",
+      "ENGLISH": "He supports"
     },
     "ELLOS": {
-      "SPANISH": "apoyan",
-      "ENGLISH": "they support, you (plural formal) support"
+      "SPANISH": "Apoyan",
+      "ENGLISH": "They support"
     },
     "NOSOTROS": {
-      "SPANISH": "apoyamos",
-      "ENGLISH": "we support"
+      "SPANISH": "Apoyamos",
+      "ENGLISH": "We support"
     },
     "VOSOTROS": {
-      "SPANISH": "apoyáis",
-      "ENGLISH": "you (plural) support"
+      "SPANISH": "Apoyáis",
+      "ENGLISH": "You support"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he apoyado",
+      "SPANISH": "He apoyado",
       "ENGLISH": "I have supported"
     },
     "TU": {
-      "SPANISH": "has apoyado",
-      "ENGLISH": "you have supported"
+      "SPANISH": "Has apoyado",
+      "ENGLISH": "You have supported"
     },
     "EL": {
-      "SPANISH": "ha apoyado",
-      "ENGLISH": "s/he has supported, you (formal) have supported"
+      "SPANISH": "Ha apoyado",
+      "ENGLISH": "He has supported"
     },
     "ELLOS": {
-      "SPANISH": "han apoyado",
-      "ENGLISH": "they have supported, you (plural formal) have supported"
+      "SPANISH": "Han apoyado",
+      "ENGLISH": "They have supported"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos apoyado",
-      "ENGLISH": "we have supported"
+      "SPANISH": "Hemos apoyado",
+      "ENGLISH": "We have supported"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis apoyado",
-      "ENGLISH": "you (plural) have supported"
+      "SPANISH": "Habéis apoyado",
+      "ENGLISH": "You have supported"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "apoyé",
+      "SPANISH": "Apoyé",
       "ENGLISH": "I supported"
     },
     "TU": {
-      "SPANISH": "apoyaste",
-      "ENGLISH": "you supported"
+      "SPANISH": "Apoyaste",
+      "ENGLISH": "You supported"
     },
     "EL": {
-      "SPANISH": "apoyó",
-      "ENGLISH": "s/he supported, you (formal) supported"
+      "SPANISH": "Apoyó",
+      "ENGLISH": "He supported"
     },
     "ELLOS": {
-      "SPANISH": "apoyaron",
-      "ENGLISH": "they supported, you (plural formal) supported"
+      "SPANISH": "Apoyaron",
+      "ENGLISH": "They supported"
     },
     "NOSOTROS": {
-      "SPANISH": "apoyamos",
-      "ENGLISH": "we supported"
+      "SPANISH": "Apoyamos",
+      "ENGLISH": "We supported"
     },
     "VOSOTROS": {
-      "SPANISH": "apoyasteis",
-      "ENGLISH": "you (plural) supported"
+      "SPANISH": "Apoyasteis",
+      "ENGLISH": "You supported"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había apoyado",
+      "SPANISH": "Había apoyado",
       "ENGLISH": "I had supported"
     },
     "TU": {
-      "SPANISH": "habías apoyado",
-      "ENGLISH": "you had supported"
+      "SPANISH": "Habías apoyado",
+      "ENGLISH": "You had supported"
     },
     "EL": {
-      "SPANISH": "había apoyado",
-      "ENGLISH": "s/he had supported, you (formal) had supported"
+      "SPANISH": "Había apoyado",
+      "ENGLISH": "He had supported"
     },
     "ELLOS": {
-      "SPANISH": "habían apoyado",
-      "ENGLISH": "they had supported, you (plural formal) had supported"
+      "SPANISH": "Habían apoyado",
+      "ENGLISH": "They had supported"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos apoyado",
-      "ENGLISH": "we had supported"
+      "SPANISH": "Habíamos apoyado",
+      "ENGLISH": "We had supported"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais apoyado",
-      "ENGLISH": "you (plural) had supported"
+      "SPANISH": "Habíais apoyado",
+      "ENGLISH": "You had supported"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "apoyé",
+      "SPANISH": "Apoyé",
       "ENGLISH": "I supported"
     },
     "TU": {
-      "SPANISH": "apoyaste",
-      "ENGLISH": "you supported"
+      "SPANISH": "Apoyaste",
+      "ENGLISH": "You supported"
     },
     "EL": {
-      "SPANISH": "apoyó",
-      "ENGLISH": "s/he supported, you (formal) supported"
+      "SPANISH": "Apoyó",
+      "ENGLISH": "He supported"
     },
     "ELLOS": {
-      "SPANISH": "apoyaron",
-      "ENGLISH": "they supported, you (plural formal) supported"
+      "SPANISH": "Apoyaron",
+      "ENGLISH": "They supported"
     },
     "NOSOTROS": {
-      "SPANISH": "apoyamos",
-      "ENGLISH": "we supported"
+      "SPANISH": "Apoyamos",
+      "ENGLISH": "We supported"
     },
     "VOSOTROS": {
-      "SPANISH": "apoyasteis",
-      "ENGLISH": "you (plural) supported"
+      "SPANISH": "Apoyasteis",
+      "ENGLISH": "You supported"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "apoyaré",
+      "SPANISH": "Apoyaré",
       "ENGLISH": "I will support"
     },
     "TU": {
-      "SPANISH": "apoyarás",
-      "ENGLISH": "you will support"
+      "SPANISH": "Apoyarás",
+      "ENGLISH": "You will support"
     },
     "EL": {
-      "SPANISH": "apoyará",
-      "ENGLISH": "s/he will support, you (formal) will support"
+      "SPANISH": "Apoyará",
+      "ENGLISH": "He will support"
     },
     "ELLOS": {
-      "SPANISH": "apoyarán",
-      "ENGLISH": "they will support, you (plural formal) will support"
+      "SPANISH": "Apoyarán",
+      "ENGLISH": "They will support"
     },
     "NOSOTROS": {
-      "SPANISH": "apoyaremos",
-      "ENGLISH": "we will support"
+      "SPANISH": "Apoyaremos",
+      "ENGLISH": "We will support"
     },
     "VOSOTROS": {
-      "SPANISH": "apoyaréis",
-      "ENGLISH": "you (plural) will support"
+      "SPANISH": "Apoyaréis",
+      "ENGLISH": "You will support"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré apoyado",
+      "SPANISH": "Habré apoyado",
       "ENGLISH": "I will have supported"
     },
     "TU": {
-      "SPANISH": "habrás apoyado",
-      "ENGLISH": "you will have supported"
+      "SPANISH": "Habrás apoyado",
+      "ENGLISH": "You will have supported"
     },
     "EL": {
-      "SPANISH": "habrá apoyado",
-      "ENGLISH": "s/he will have supported, you (formal) will have supported"
+      "SPANISH": "Habrá apoyado",
+      "ENGLISH": "He will have supported"
     },
     "ELLOS": {
-      "SPANISH": "habrán apoyado",
-      "ENGLISH": "they will have supported, you (plural formal) will have supported"
+      "SPANISH": "Habrán apoyado",
+      "ENGLISH": "They will have supported"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos apoyado",
-      "ENGLISH": "we will have supported"
+      "SPANISH": "Habremos apoyado",
+      "ENGLISH": "We will have supported"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis apoyado",
-      "ENGLISH": "you (plural) will have supported"
+      "SPANISH": "Habréis apoyado",
+      "ENGLISH": "You will have supported"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "apoyaría",
+      "SPANISH": "Apoyaría",
       "ENGLISH": "I would support"
     },
     "TU": {
-      "SPANISH": "apoyarías",
-      "ENGLISH": "you would support"
+      "SPANISH": "Apoyarías",
+      "ENGLISH": "You would support"
     },
     "EL": {
-      "SPANISH": "apoyaría",
-      "ENGLISH": "s/he would support, you (formal) would support"
+      "SPANISH": "Apoyaría",
+      "ENGLISH": "He would support"
     },
     "ELLOS": {
-      "SPANISH": "apoyarían",
-      "ENGLISH": "they would support, you (plural formal) would support"
+      "SPANISH": "Apoyarían",
+      "ENGLISH": "They would support"
     },
     "NOSOTROS": {
-      "SPANISH": "apoyaríamos",
-      "ENGLISH": "we would support"
+      "SPANISH": "Apoyaríamos",
+      "ENGLISH": "We would support"
     },
     "VOSOTROS": {
-      "SPANISH": "apoyaríais",
-      "ENGLISH": "you (plural) would support"
+      "SPANISH": "Apoyaríais",
+      "ENGLISH": "You would support"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría apoyado",
+      "SPANISH": "Habría apoyado",
       "ENGLISH": "I would have supported"
     },
     "TU": {
-      "SPANISH": "habrías apoyado",
-      "ENGLISH": "you would have supported"
+      "SPANISH": "Habrías apoyado",
+      "ENGLISH": "You would have supported"
     },
     "EL": {
-      "SPANISH": "habría apoyado",
-      "ENGLISH": "s/he would have supported, you (formal) would have supported"
+      "SPANISH": "Habría apoyado",
+      "ENGLISH": "He would have supported"
     },
     "ELLOS": {
-      "SPANISH": "habrían apoyado",
-      "ENGLISH": "they would have supported, you (plural formal) would have supported"
+      "SPANISH": "Habrían apoyado",
+      "ENGLISH": "They would have supported"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos apoyado",
-      "ENGLISH": "we would have supported"
+      "SPANISH": "Habríamos apoyado",
+      "ENGLISH": "We would have supported"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais apoyado",
-      "ENGLISH": "you (plural) would have supported"
+      "SPANISH": "Habríais apoyado",
+      "ENGLISH": "You would have supported"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "inhalo",
+      "SPANISH": "Inhalo",
       "ENGLISH": "I breathe in"
     },
     "TU": {
-      "SPANISH": "inhalas",
-      "ENGLISH": "you breathe in"
+      "SPANISH": "Inhalas",
+      "ENGLISH": "You breathe in"
     },
     "EL": {
-      "SPANISH": "inhala",
-      "ENGLISH": "s/he breathes in, you (formal) breathes in"
+      "SPANISH": "Inhala",
+      "ENGLISH": "He breathes in"
     },
     "ELLOS": {
-      "SPANISH": "inhalan",
-      "ENGLISH": "they breathe in, you (plural formal) breathe in"
+      "SPANISH": "Inhalan",
+      "ENGLISH": "They breathe in"
     },
     "NOSOTROS": {
-      "SPANISH": "inhalamos",
-      "ENGLISH": "we breathe in"
+      "SPANISH": "Inhalamos",
+      "ENGLISH": "We breathe in"
     },
     "VOSOTROS": {
-      "SPANISH": "inhaláis",
-      "ENGLISH": "you (plural) breathe in"
+      "SPANISH": "Inhaláis",
+      "ENGLISH": "You breathe in"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he inhalado",
+      "SPANISH": "He inhalado",
       "ENGLISH": "I have breathed in"
     },
     "TU": {
-      "SPANISH": "has inhalado",
-      "ENGLISH": "you have breathed in"
+      "SPANISH": "Has inhalado",
+      "ENGLISH": "You have breathed in"
     },
     "EL": {
-      "SPANISH": "ha inhalado",
-      "ENGLISH": "s/he has breathed in, you (formal) have breathed in"
+      "SPANISH": "Ha inhalado",
+      "ENGLISH": "He has breathed in"
     },
     "ELLOS": {
-      "SPANISH": "han inhalado",
-      "ENGLISH": "they have breathed in, you (plural formal) have breathed in"
+      "SPANISH": "Han inhalado",
+      "ENGLISH": "They have breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos inhalado",
-      "ENGLISH": "we have breathed in"
+      "SPANISH": "Hemos inhalado",
+      "ENGLISH": "We have breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis inhalado",
-      "ENGLISH": "you (plural) have breathed in"
+      "SPANISH": "Habéis inhalado",
+      "ENGLISH": "You have breathed in"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "inhalé",
+      "SPANISH": "Inhalé",
       "ENGLISH": "I breathed in"
     },
     "TU": {
-      "SPANISH": "inhalaste",
-      "ENGLISH": "you breathed in"
+      "SPANISH": "Inhalaste",
+      "ENGLISH": "You breathed in"
     },
     "EL": {
-      "SPANISH": "inhaló",
-      "ENGLISH": "s/he breathed in, you (formal) breathed in"
+      "SPANISH": "Inhaló",
+      "ENGLISH": "He breathed in"
     },
     "ELLOS": {
-      "SPANISH": "inhalaron",
-      "ENGLISH": "they breathed in, you (plural formal) breathed in"
+      "SPANISH": "Inhalaron",
+      "ENGLISH": "They breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "inhalamos",
-      "ENGLISH": "we breathed in"
+      "SPANISH": "Inhalamos",
+      "ENGLISH": "We breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "inhalasteis",
-      "ENGLISH": "you (plural) breathed in"
+      "SPANISH": "Inhalasteis",
+      "ENGLISH": "You breathed in"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había inhalado",
+      "SPANISH": "Había inhalado",
       "ENGLISH": "I had breathed in"
     },
     "TU": {
-      "SPANISH": "habías inhalado",
-      "ENGLISH": "you had breathed in"
+      "SPANISH": "Habías inhalado",
+      "ENGLISH": "You had breathed in"
     },
     "EL": {
-      "SPANISH": "había inhalado",
-      "ENGLISH": "s/he had breathed in, you (formal) had breathed in"
+      "SPANISH": "Había inhalado",
+      "ENGLISH": "He had breathed in"
     },
     "ELLOS": {
-      "SPANISH": "habían inhalado",
-      "ENGLISH": "they had breathed in, you (plural formal) had breathed in"
+      "SPANISH": "Habían inhalado",
+      "ENGLISH": "They had breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos inhalado",
-      "ENGLISH": "we had breathed in"
+      "SPANISH": "Habíamos inhalado",
+      "ENGLISH": "We had breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais inhalado",
-      "ENGLISH": "you (plural) had breathed in"
+      "SPANISH": "Habíais inhalado",
+      "ENGLISH": "You had breathed in"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "inhalé",
+      "SPANISH": "Inhalé",
       "ENGLISH": "I breathed in"
     },
     "TU": {
-      "SPANISH": "inhalaste",
-      "ENGLISH": "you breathed in"
+      "SPANISH": "Inhalaste",
+      "ENGLISH": "You breathed in"
     },
     "EL": {
-      "SPANISH": "inhaló",
-      "ENGLISH": "s/he breathed in, you (formal) breathed in"
+      "SPANISH": "Inhaló",
+      "ENGLISH": "He breathed in"
     },
     "ELLOS": {
-      "SPANISH": "inhalaron",
-      "ENGLISH": "they breathed in, you (plural formal) breathed in"
+      "SPANISH": "Inhalaron",
+      "ENGLISH": "They breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "inhalamos",
-      "ENGLISH": "we breathed in"
+      "SPANISH": "Inhalamos",
+      "ENGLISH": "We breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "inhalasteis",
-      "ENGLISH": "you (plural) breathed in"
+      "SPANISH": "Inhalasteis",
+      "ENGLISH": "You breathed in"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "inhalaré",
+      "SPANISH": "Inhalaré",
       "ENGLISH": "I will breathe in"
     },
     "TU": {
-      "SPANISH": "inhalarás",
-      "ENGLISH": "you will breathe in"
+      "SPANISH": "Inhalarás",
+      "ENGLISH": "You will breathe in"
     },
     "EL": {
-      "SPANISH": "inhalará",
-      "ENGLISH": "s/he will breathe in, you (formal) will breathe in"
+      "SPANISH": "Inhalará",
+      "ENGLISH": "He will breathe in"
     },
     "ELLOS": {
-      "SPANISH": "inhalarán",
-      "ENGLISH": "they will breathe in, you (plural formal) will breathe in"
+      "SPANISH": "Inhalarán",
+      "ENGLISH": "They will breathe in"
     },
     "NOSOTROS": {
-      "SPANISH": "inhalaremos",
-      "ENGLISH": "we will breathe in"
+      "SPANISH": "Inhalaremos",
+      "ENGLISH": "We will breathe in"
     },
     "VOSOTROS": {
-      "SPANISH": "inhalaréis",
-      "ENGLISH": "you (plural) will breathe in"
+      "SPANISH": "Inhalaréis",
+      "ENGLISH": "You will breathe in"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré inhalado",
+      "SPANISH": "Habré inhalado",
       "ENGLISH": "I will have breathed in"
     },
     "TU": {
-      "SPANISH": "habrás inhalado",
-      "ENGLISH": "you will have breathed in"
+      "SPANISH": "Habrás inhalado",
+      "ENGLISH": "You will have breathed in"
     },
     "EL": {
-      "SPANISH": "habrá inhalado",
-      "ENGLISH": "s/he will have breathed in, you (formal) will have breathed in"
+      "SPANISH": "Habrá inhalado",
+      "ENGLISH": "He will have breathed in"
     },
     "ELLOS": {
-      "SPANISH": "habrán inhalado",
-      "ENGLISH": "they will have breathed in, you (plural formal) will have breathed in"
+      "SPANISH": "Habrán inhalado",
+      "ENGLISH": "They will have breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos inhalado",
-      "ENGLISH": "we will have breathed in"
+      "SPANISH": "Habremos inhalado",
+      "ENGLISH": "We will have breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis inhalado",
-      "ENGLISH": "you (plural) will have breathed in"
+      "SPANISH": "Habréis inhalado",
+      "ENGLISH": "You will have breathed in"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "inhalaría",
+      "SPANISH": "Inhalaría",
       "ENGLISH": "I would breathe in"
     },
     "TU": {
-      "SPANISH": "inhalarías",
-      "ENGLISH": "you would breathe in"
+      "SPANISH": "Inhalarías",
+      "ENGLISH": "You would breathe in"
     },
     "EL": {
-      "SPANISH": "inhalaría",
-      "ENGLISH": "s/he would breathe in, you (formal) would breathe in"
+      "SPANISH": "Inhalaría",
+      "ENGLISH": "He would breathe in"
     },
     "ELLOS": {
-      "SPANISH": "inhalarían",
-      "ENGLISH": "they would breathe in, you (plural formal) would breathe in"
+      "SPANISH": "Inhalarían",
+      "ENGLISH": "They would breathe in"
     },
     "NOSOTROS": {
-      "SPANISH": "inhalaríamos",
-      "ENGLISH": "we would breathe in"
+      "SPANISH": "Inhalaríamos",
+      "ENGLISH": "We would breathe in"
     },
     "VOSOTROS": {
-      "SPANISH": "inhalaríais",
-      "ENGLISH": "you (plural) would breathe in"
+      "SPANISH": "Inhalaríais",
+      "ENGLISH": "You would breathe in"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría inhalado",
+      "SPANISH": "Habría inhalado",
       "ENGLISH": "I would have breathed in"
     },
     "TU": {
-      "SPANISH": "habrías inhalado",
-      "ENGLISH": "you would have breathed in"
+      "SPANISH": "Habrías inhalado",
+      "ENGLISH": "You would have breathed in"
     },
     "EL": {
-      "SPANISH": "habría inhalado",
-      "ENGLISH": "s/he would have breathed in, you (formal) would have breathed in"
+      "SPANISH": "Habría inhalado",
+      "ENGLISH": "He would have breathed in"
     },
     "ELLOS": {
-      "SPANISH": "habrían inhalado",
-      "ENGLISH": "they would have breathed in, you (plural formal) would have breathed in"
+      "SPANISH": "Habrían inhalado",
+      "ENGLISH": "They would have breathed in"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos inhalado",
-      "ENGLISH": "we would have breathed in"
+      "SPANISH": "Habríamos inhalado",
+      "ENGLISH": "We would have breathed in"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais inhalado",
-      "ENGLISH": "you (plural) would have breathed in"
+      "SPANISH": "Habríais inhalado",
+      "ENGLISH": "You would have breathed in"
     }
   }
 }

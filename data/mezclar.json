@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "mezclo",
+      "SPANISH": "Mezclo",
       "ENGLISH": "I mix"
     },
     "TU": {
-      "SPANISH": "mezclas",
-      "ENGLISH": "you mix"
+      "SPANISH": "Mezclas",
+      "ENGLISH": "You mix"
     },
     "EL": {
-      "SPANISH": "mezcla",
-      "ENGLISH": "s/he mixes, you (formal) mixes"
+      "SPANISH": "Mezcla",
+      "ENGLISH": "He mixes"
     },
     "ELLOS": {
-      "SPANISH": "mezclan",
-      "ENGLISH": "they mix, you (plural formal) mix"
+      "SPANISH": "Mezclan",
+      "ENGLISH": "They mix"
     },
     "NOSOTROS": {
-      "SPANISH": "mezclamos",
-      "ENGLISH": "we mix"
+      "SPANISH": "Mezclamos",
+      "ENGLISH": "We mix"
     },
     "VOSOTROS": {
-      "SPANISH": "mezcláis",
-      "ENGLISH": "you (plural) mix"
+      "SPANISH": "Mezcláis",
+      "ENGLISH": "You mix"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he mezclado",
+      "SPANISH": "He mezclado",
       "ENGLISH": "I have mixed"
     },
     "TU": {
-      "SPANISH": "has mezclado",
-      "ENGLISH": "you have mixed"
+      "SPANISH": "Has mezclado",
+      "ENGLISH": "You have mixed"
     },
     "EL": {
-      "SPANISH": "ha mezclado",
-      "ENGLISH": "s/he has mixed, you (formal) have mixed"
+      "SPANISH": "Ha mezclado",
+      "ENGLISH": "He has mixed"
     },
     "ELLOS": {
-      "SPANISH": "han mezclado",
-      "ENGLISH": "they have mixed, you (plural formal) have mixed"
+      "SPANISH": "Han mezclado",
+      "ENGLISH": "They have mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos mezclado",
-      "ENGLISH": "we have mixed"
+      "SPANISH": "Hemos mezclado",
+      "ENGLISH": "We have mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis mezclado",
-      "ENGLISH": "you (plural) have mixed"
+      "SPANISH": "Habéis mezclado",
+      "ENGLISH": "You have mixed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "mezclé",
+      "SPANISH": "Mezclé",
       "ENGLISH": "I mixed"
     },
     "TU": {
-      "SPANISH": "mezclaste",
-      "ENGLISH": "you mixed"
+      "SPANISH": "Mezclaste",
+      "ENGLISH": "You mixed"
     },
     "EL": {
-      "SPANISH": "mezcló",
-      "ENGLISH": "s/he mixed, you (formal) mixed"
+      "SPANISH": "Mezcló",
+      "ENGLISH": "He mixed"
     },
     "ELLOS": {
-      "SPANISH": "mezclaron",
-      "ENGLISH": "they mixed, you (plural formal) mixed"
+      "SPANISH": "Mezclaron",
+      "ENGLISH": "They mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "mezclamos",
-      "ENGLISH": "we mixed"
+      "SPANISH": "Mezclamos",
+      "ENGLISH": "We mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "mezclasteis",
-      "ENGLISH": "you (plural) mixed"
+      "SPANISH": "Mezclasteis",
+      "ENGLISH": "You mixed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había mezclado",
+      "SPANISH": "Había mezclado",
       "ENGLISH": "I had mixed"
     },
     "TU": {
-      "SPANISH": "habías mezclado",
-      "ENGLISH": "you had mixed"
+      "SPANISH": "Habías mezclado",
+      "ENGLISH": "You had mixed"
     },
     "EL": {
-      "SPANISH": "había mezclado",
-      "ENGLISH": "s/he had mixed, you (formal) had mixed"
+      "SPANISH": "Había mezclado",
+      "ENGLISH": "He had mixed"
     },
     "ELLOS": {
-      "SPANISH": "habían mezclado",
-      "ENGLISH": "they had mixed, you (plural formal) had mixed"
+      "SPANISH": "Habían mezclado",
+      "ENGLISH": "They had mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos mezclado",
-      "ENGLISH": "we had mixed"
+      "SPANISH": "Habíamos mezclado",
+      "ENGLISH": "We had mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais mezclado",
-      "ENGLISH": "you (plural) had mixed"
+      "SPANISH": "Habíais mezclado",
+      "ENGLISH": "You had mixed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "mezclé",
+      "SPANISH": "Mezclé",
       "ENGLISH": "I mixed"
     },
     "TU": {
-      "SPANISH": "mezclaste",
-      "ENGLISH": "you mixed"
+      "SPANISH": "Mezclaste",
+      "ENGLISH": "You mixed"
     },
     "EL": {
-      "SPANISH": "mezcló",
-      "ENGLISH": "s/he mixed, you (formal) mixed"
+      "SPANISH": "Mezcló",
+      "ENGLISH": "He mixed"
     },
     "ELLOS": {
-      "SPANISH": "mezclaron",
-      "ENGLISH": "they mixed, you (plural formal) mixed"
+      "SPANISH": "Mezclaron",
+      "ENGLISH": "They mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "mezclamos",
-      "ENGLISH": "we mixed"
+      "SPANISH": "Mezclamos",
+      "ENGLISH": "We mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "mezclasteis",
-      "ENGLISH": "you (plural) mixed"
+      "SPANISH": "Mezclasteis",
+      "ENGLISH": "You mixed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "mezclaré",
+      "SPANISH": "Mezclaré",
       "ENGLISH": "I will mix"
     },
     "TU": {
-      "SPANISH": "mezclarás",
-      "ENGLISH": "you will mix"
+      "SPANISH": "Mezclarás",
+      "ENGLISH": "You will mix"
     },
     "EL": {
-      "SPANISH": "mezclará",
-      "ENGLISH": "s/he will mix, you (formal) will mix"
+      "SPANISH": "Mezclará",
+      "ENGLISH": "He will mix"
     },
     "ELLOS": {
-      "SPANISH": "mezclarán",
-      "ENGLISH": "they will mix, you (plural formal) will mix"
+      "SPANISH": "Mezclarán",
+      "ENGLISH": "They will mix"
     },
     "NOSOTROS": {
-      "SPANISH": "mezclaremos",
-      "ENGLISH": "we will mix"
+      "SPANISH": "Mezclaremos",
+      "ENGLISH": "We will mix"
     },
     "VOSOTROS": {
-      "SPANISH": "mezclaréis",
-      "ENGLISH": "you (plural) will mix"
+      "SPANISH": "Mezclaréis",
+      "ENGLISH": "You will mix"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré mezclado",
+      "SPANISH": "Habré mezclado",
       "ENGLISH": "I will have mixed"
     },
     "TU": {
-      "SPANISH": "habrás mezclado",
-      "ENGLISH": "you will have mixed"
+      "SPANISH": "Habrás mezclado",
+      "ENGLISH": "You will have mixed"
     },
     "EL": {
-      "SPANISH": "habrá mezclado",
-      "ENGLISH": "s/he will have mixed, you (formal) will have mixed"
+      "SPANISH": "Habrá mezclado",
+      "ENGLISH": "He will have mixed"
     },
     "ELLOS": {
-      "SPANISH": "habrán mezclado",
-      "ENGLISH": "they will have mixed, you (plural formal) will have mixed"
+      "SPANISH": "Habrán mezclado",
+      "ENGLISH": "They will have mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos mezclado",
-      "ENGLISH": "we will have mixed"
+      "SPANISH": "Habremos mezclado",
+      "ENGLISH": "We will have mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis mezclado",
-      "ENGLISH": "you (plural) will have mixed"
+      "SPANISH": "Habréis mezclado",
+      "ENGLISH": "You will have mixed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "mezclaría",
+      "SPANISH": "Mezclaría",
       "ENGLISH": "I would mix"
     },
     "TU": {
-      "SPANISH": "mezclarías",
-      "ENGLISH": "you would mix"
+      "SPANISH": "Mezclarías",
+      "ENGLISH": "You would mix"
     },
     "EL": {
-      "SPANISH": "mezclaría",
-      "ENGLISH": "s/he would mix, you (formal) would mix"
+      "SPANISH": "Mezclaría",
+      "ENGLISH": "He would mix"
     },
     "ELLOS": {
-      "SPANISH": "mezclarían",
-      "ENGLISH": "they would mix, you (plural formal) would mix"
+      "SPANISH": "Mezclarían",
+      "ENGLISH": "They would mix"
     },
     "NOSOTROS": {
-      "SPANISH": "mezclaríamos",
-      "ENGLISH": "we would mix"
+      "SPANISH": "Mezclaríamos",
+      "ENGLISH": "We would mix"
     },
     "VOSOTROS": {
-      "SPANISH": "mezclaríais",
-      "ENGLISH": "you (plural) would mix"
+      "SPANISH": "Mezclaríais",
+      "ENGLISH": "You would mix"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría mezclado",
+      "SPANISH": "Habría mezclado",
       "ENGLISH": "I would have mixed"
     },
     "TU": {
-      "SPANISH": "habrías mezclado",
-      "ENGLISH": "you would have mixed"
+      "SPANISH": "Habrías mezclado",
+      "ENGLISH": "You would have mixed"
     },
     "EL": {
-      "SPANISH": "habría mezclado",
-      "ENGLISH": "s/he would have mixed, you (formal) would have mixed"
+      "SPANISH": "Habría mezclado",
+      "ENGLISH": "He would have mixed"
     },
     "ELLOS": {
-      "SPANISH": "habrían mezclado",
-      "ENGLISH": "they would have mixed, you (plural formal) would have mixed"
+      "SPANISH": "Habrían mezclado",
+      "ENGLISH": "They would have mixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos mezclado",
-      "ENGLISH": "we would have mixed"
+      "SPANISH": "Habríamos mezclado",
+      "ENGLISH": "We would have mixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais mezclado",
-      "ENGLISH": "you (plural) would have mixed"
+      "SPANISH": "Habríais mezclado",
+      "ENGLISH": "You would have mixed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "consolido",
+      "SPANISH": "Consolido",
       "ENGLISH": "I consolidate"
     },
     "TU": {
-      "SPANISH": "consolidas",
-      "ENGLISH": "you consolidate"
+      "SPANISH": "Consolidas",
+      "ENGLISH": "You consolidate"
     },
     "EL": {
-      "SPANISH": "consolida",
-      "ENGLISH": "s/he consolidates, you (formal) consolidates"
+      "SPANISH": "Consolida",
+      "ENGLISH": "He consolidates"
     },
     "ELLOS": {
-      "SPANISH": "consolidan",
-      "ENGLISH": "they consolidate, you (plural formal) consolidate"
+      "SPANISH": "Consolidan",
+      "ENGLISH": "They consolidate"
     },
     "NOSOTROS": {
-      "SPANISH": "consolidamos",
-      "ENGLISH": "we consolidate"
+      "SPANISH": "Consolidamos",
+      "ENGLISH": "We consolidate"
     },
     "VOSOTROS": {
-      "SPANISH": "consolidáis",
-      "ENGLISH": "you (plural) consolidate"
+      "SPANISH": "Consolidáis",
+      "ENGLISH": "You consolidate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he consolidado",
+      "SPANISH": "He consolidado",
       "ENGLISH": "I have consolidated"
     },
     "TU": {
-      "SPANISH": "has consolidado",
-      "ENGLISH": "you have consolidated"
+      "SPANISH": "Has consolidado",
+      "ENGLISH": "You have consolidated"
     },
     "EL": {
-      "SPANISH": "ha consolidado",
-      "ENGLISH": "s/he has consolidated, you (formal) have consolidated"
+      "SPANISH": "Ha consolidado",
+      "ENGLISH": "He has consolidated"
     },
     "ELLOS": {
-      "SPANISH": "han consolidado",
-      "ENGLISH": "they have consolidated, you (plural formal) have consolidated"
+      "SPANISH": "Han consolidado",
+      "ENGLISH": "They have consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos consolidado",
-      "ENGLISH": "we have consolidated"
+      "SPANISH": "Hemos consolidado",
+      "ENGLISH": "We have consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis consolidado",
-      "ENGLISH": "you (plural) have consolidated"
+      "SPANISH": "Habéis consolidado",
+      "ENGLISH": "You have consolidated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "consolidé",
+      "SPANISH": "Consolidé",
       "ENGLISH": "I consolidated"
     },
     "TU": {
-      "SPANISH": "consolidaste",
-      "ENGLISH": "you consolidated"
+      "SPANISH": "Consolidaste",
+      "ENGLISH": "You consolidated"
     },
     "EL": {
-      "SPANISH": "consolidó",
-      "ENGLISH": "s/he consolidated, you (formal) consolidated"
+      "SPANISH": "Consolidó",
+      "ENGLISH": "He consolidated"
     },
     "ELLOS": {
-      "SPANISH": "consolidaron",
-      "ENGLISH": "they consolidated, you (plural formal) consolidated"
+      "SPANISH": "Consolidaron",
+      "ENGLISH": "They consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "consolidamos",
-      "ENGLISH": "we consolidated"
+      "SPANISH": "Consolidamos",
+      "ENGLISH": "We consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "consolidasteis",
-      "ENGLISH": "you (plural) consolidated"
+      "SPANISH": "Consolidasteis",
+      "ENGLISH": "You consolidated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había consolidado",
+      "SPANISH": "Había consolidado",
       "ENGLISH": "I had consolidated"
     },
     "TU": {
-      "SPANISH": "habías consolidado",
-      "ENGLISH": "you had consolidated"
+      "SPANISH": "Habías consolidado",
+      "ENGLISH": "You had consolidated"
     },
     "EL": {
-      "SPANISH": "había consolidado",
-      "ENGLISH": "s/he had consolidated, you (formal) had consolidated"
+      "SPANISH": "Había consolidado",
+      "ENGLISH": "He had consolidated"
     },
     "ELLOS": {
-      "SPANISH": "habían consolidado",
-      "ENGLISH": "they had consolidated, you (plural formal) had consolidated"
+      "SPANISH": "Habían consolidado",
+      "ENGLISH": "They had consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos consolidado",
-      "ENGLISH": "we had consolidated"
+      "SPANISH": "Habíamos consolidado",
+      "ENGLISH": "We had consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais consolidado",
-      "ENGLISH": "you (plural) had consolidated"
+      "SPANISH": "Habíais consolidado",
+      "ENGLISH": "You had consolidated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "consolidé",
+      "SPANISH": "Consolidé",
       "ENGLISH": "I consolidated"
     },
     "TU": {
-      "SPANISH": "consolidaste",
-      "ENGLISH": "you consolidated"
+      "SPANISH": "Consolidaste",
+      "ENGLISH": "You consolidated"
     },
     "EL": {
-      "SPANISH": "consolidó",
-      "ENGLISH": "s/he consolidated, you (formal) consolidated"
+      "SPANISH": "Consolidó",
+      "ENGLISH": "He consolidated"
     },
     "ELLOS": {
-      "SPANISH": "consolidaron",
-      "ENGLISH": "they consolidated, you (plural formal) consolidated"
+      "SPANISH": "Consolidaron",
+      "ENGLISH": "They consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "consolidamos",
-      "ENGLISH": "we consolidated"
+      "SPANISH": "Consolidamos",
+      "ENGLISH": "We consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "consolidasteis",
-      "ENGLISH": "you (plural) consolidated"
+      "SPANISH": "Consolidasteis",
+      "ENGLISH": "You consolidated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "consolidaré",
+      "SPANISH": "Consolidaré",
       "ENGLISH": "I will consolidate"
     },
     "TU": {
-      "SPANISH": "consolidarás",
-      "ENGLISH": "you will consolidate"
+      "SPANISH": "Consolidarás",
+      "ENGLISH": "You will consolidate"
     },
     "EL": {
-      "SPANISH": "consolidará",
-      "ENGLISH": "s/he will consolidate, you (formal) will consolidate"
+      "SPANISH": "Consolidará",
+      "ENGLISH": "He will consolidate"
     },
     "ELLOS": {
-      "SPANISH": "consolidarán",
-      "ENGLISH": "they will consolidate, you (plural formal) will consolidate"
+      "SPANISH": "Consolidarán",
+      "ENGLISH": "They will consolidate"
     },
     "NOSOTROS": {
-      "SPANISH": "consolidaremos",
-      "ENGLISH": "we will consolidate"
+      "SPANISH": "Consolidaremos",
+      "ENGLISH": "We will consolidate"
     },
     "VOSOTROS": {
-      "SPANISH": "consolidaréis",
-      "ENGLISH": "you (plural) will consolidate"
+      "SPANISH": "Consolidaréis",
+      "ENGLISH": "You will consolidate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré consolidado",
+      "SPANISH": "Habré consolidado",
       "ENGLISH": "I will have consolidated"
     },
     "TU": {
-      "SPANISH": "habrás consolidado",
-      "ENGLISH": "you will have consolidated"
+      "SPANISH": "Habrás consolidado",
+      "ENGLISH": "You will have consolidated"
     },
     "EL": {
-      "SPANISH": "habrá consolidado",
-      "ENGLISH": "s/he will have consolidated, you (formal) will have consolidated"
+      "SPANISH": "Habrá consolidado",
+      "ENGLISH": "He will have consolidated"
     },
     "ELLOS": {
-      "SPANISH": "habrán consolidado",
-      "ENGLISH": "they will have consolidated, you (plural formal) will have consolidated"
+      "SPANISH": "Habrán consolidado",
+      "ENGLISH": "They will have consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos consolidado",
-      "ENGLISH": "we will have consolidated"
+      "SPANISH": "Habremos consolidado",
+      "ENGLISH": "We will have consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis consolidado",
-      "ENGLISH": "you (plural) will have consolidated"
+      "SPANISH": "Habréis consolidado",
+      "ENGLISH": "You will have consolidated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "consolidaría",
+      "SPANISH": "Consolidaría",
       "ENGLISH": "I would consolidate"
     },
     "TU": {
-      "SPANISH": "consolidarías",
-      "ENGLISH": "you would consolidate"
+      "SPANISH": "Consolidarías",
+      "ENGLISH": "You would consolidate"
     },
     "EL": {
-      "SPANISH": "consolidaría",
-      "ENGLISH": "s/he would consolidate, you (formal) would consolidate"
+      "SPANISH": "Consolidaría",
+      "ENGLISH": "He would consolidate"
     },
     "ELLOS": {
-      "SPANISH": "consolidarían",
-      "ENGLISH": "they would consolidate, you (plural formal) would consolidate"
+      "SPANISH": "Consolidarían",
+      "ENGLISH": "They would consolidate"
     },
     "NOSOTROS": {
-      "SPANISH": "consolidaríamos",
-      "ENGLISH": "we would consolidate"
+      "SPANISH": "Consolidaríamos",
+      "ENGLISH": "We would consolidate"
     },
     "VOSOTROS": {
-      "SPANISH": "consolidaríais",
-      "ENGLISH": "you (plural) would consolidate"
+      "SPANISH": "Consolidaríais",
+      "ENGLISH": "You would consolidate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría consolidado",
+      "SPANISH": "Habría consolidado",
       "ENGLISH": "I would have consolidated"
     },
     "TU": {
-      "SPANISH": "habrías consolidado",
-      "ENGLISH": "you would have consolidated"
+      "SPANISH": "Habrías consolidado",
+      "ENGLISH": "You would have consolidated"
     },
     "EL": {
-      "SPANISH": "habría consolidado",
-      "ENGLISH": "s/he would have consolidated, you (formal) would have consolidated"
+      "SPANISH": "Habría consolidado",
+      "ENGLISH": "He would have consolidated"
     },
     "ELLOS": {
-      "SPANISH": "habrían consolidado",
-      "ENGLISH": "they would have consolidated, you (plural formal) would have consolidated"
+      "SPANISH": "Habrían consolidado",
+      "ENGLISH": "They would have consolidated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos consolidado",
-      "ENGLISH": "we would have consolidated"
+      "SPANISH": "Habríamos consolidado",
+      "ENGLISH": "We would have consolidated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais consolidado",
-      "ENGLISH": "you (plural) would have consolidated"
+      "SPANISH": "Habríais consolidado",
+      "ENGLISH": "You would have consolidated"
     }
   }
 }

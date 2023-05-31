@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "quiero ",
+      "SPANISH": "Quiero ",
       "ENGLISH": "I want"
     },
     "TU": {
-      "SPANISH": "quieres ",
-      "ENGLISH": "you want"
+      "SPANISH": "Quieres ",
+      "ENGLISH": "You want"
     },
     "EL": {
-      "SPANISH": "quiere ",
-      "ENGLISH": "s/he wants, you (formal) wants"
+      "SPANISH": "Quiere ",
+      "ENGLISH": "He wants"
     },
     "ELLOS": {
-      "SPANISH": "quieren ",
-      "ENGLISH": "they want, you (plural formal) want"
+      "SPANISH": "Quieren ",
+      "ENGLISH": "They want"
     },
     "NOSOTROS": {
-      "SPANISH": "queremos",
-      "ENGLISH": "we want"
+      "SPANISH": "Queremos",
+      "ENGLISH": "We want"
     },
     "VOSOTROS": {
-      "SPANISH": "queréis",
-      "ENGLISH": "you (plural) want"
+      "SPANISH": "Queréis",
+      "ENGLISH": "You want"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he querido",
+      "SPANISH": "He querido",
       "ENGLISH": "I have wanted"
     },
     "TU": {
-      "SPANISH": "has querido",
-      "ENGLISH": "you have wanted"
+      "SPANISH": "Has querido",
+      "ENGLISH": "You have wanted"
     },
     "EL": {
-      "SPANISH": "ha querido",
-      "ENGLISH": "s/he has wanted, you (formal) have wanted"
+      "SPANISH": "Ha querido",
+      "ENGLISH": "He has wanted"
     },
     "ELLOS": {
-      "SPANISH": "han querido",
-      "ENGLISH": "they have wanted, you (plural formal) have wanted"
+      "SPANISH": "Han querido",
+      "ENGLISH": "They have wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos querido",
-      "ENGLISH": "we have wanted"
+      "SPANISH": "Hemos querido",
+      "ENGLISH": "We have wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis querido",
-      "ENGLISH": "you (plural) have wanted"
+      "SPANISH": "Habéis querido",
+      "ENGLISH": "You have wanted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "quise ",
+      "SPANISH": "Quise ",
       "ENGLISH": "I wanted"
     },
     "TU": {
-      "SPANISH": "quisiste ",
-      "ENGLISH": "you wanted"
+      "SPANISH": "Quisiste ",
+      "ENGLISH": "You wanted"
     },
     "EL": {
-      "SPANISH": "quiso ",
-      "ENGLISH": "s/he wanted, you (formal) wanted"
+      "SPANISH": "Quiso ",
+      "ENGLISH": "He wanted"
     },
     "ELLOS": {
-      "SPANISH": "quisieron ",
-      "ENGLISH": "they wanted, you (plural formal) wanted"
+      "SPANISH": "Quisieron ",
+      "ENGLISH": "They wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "quisimos ",
-      "ENGLISH": "we wanted"
+      "SPANISH": "Quisimos ",
+      "ENGLISH": "We wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "quisisteis ",
-      "ENGLISH": "you (plural) wanted"
+      "SPANISH": "Quisisteis ",
+      "ENGLISH": "You wanted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había querido",
+      "SPANISH": "Había querido",
       "ENGLISH": "I had wanted"
     },
     "TU": {
-      "SPANISH": "habías querido",
-      "ENGLISH": "you had wanted"
+      "SPANISH": "Habías querido",
+      "ENGLISH": "You had wanted"
     },
     "EL": {
-      "SPANISH": "había querido",
-      "ENGLISH": "s/he had wanted, you (formal) had wanted"
+      "SPANISH": "Había querido",
+      "ENGLISH": "He had wanted"
     },
     "ELLOS": {
-      "SPANISH": "habían querido",
-      "ENGLISH": "they had wanted, you (plural formal) had wanted"
+      "SPANISH": "Habían querido",
+      "ENGLISH": "They had wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos querido",
-      "ENGLISH": "we had wanted"
+      "SPANISH": "Habíamos querido",
+      "ENGLISH": "We had wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais querido",
-      "ENGLISH": "you (plural) had wanted"
+      "SPANISH": "Habíais querido",
+      "ENGLISH": "You had wanted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "quise ",
+      "SPANISH": "Quise ",
       "ENGLISH": "I wanted"
     },
     "TU": {
-      "SPANISH": "quisiste ",
-      "ENGLISH": "you wanted"
+      "SPANISH": "Quisiste ",
+      "ENGLISH": "You wanted"
     },
     "EL": {
-      "SPANISH": "quiso ",
-      "ENGLISH": "s/he wanted, you (formal) wanted"
+      "SPANISH": "Quiso ",
+      "ENGLISH": "He wanted"
     },
     "ELLOS": {
-      "SPANISH": "quisieron ",
-      "ENGLISH": "they wanted, you (plural formal) wanted"
+      "SPANISH": "Quisieron ",
+      "ENGLISH": "They wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "quisimos ",
-      "ENGLISH": "we wanted"
+      "SPANISH": "Quisimos ",
+      "ENGLISH": "We wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "quisisteis ",
-      "ENGLISH": "you (plural) wanted"
+      "SPANISH": "Quisisteis ",
+      "ENGLISH": "You wanted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "querré ",
+      "SPANISH": "Querré ",
       "ENGLISH": "I will want"
     },
     "TU": {
-      "SPANISH": "querrás ",
-      "ENGLISH": "you will want"
+      "SPANISH": "Querrás ",
+      "ENGLISH": "You will want"
     },
     "EL": {
-      "SPANISH": "querrá ",
-      "ENGLISH": "s/he will want, you (formal) will want"
+      "SPANISH": "Querrá ",
+      "ENGLISH": "He will want"
     },
     "ELLOS": {
-      "SPANISH": "querrán ",
-      "ENGLISH": "they will want, you (plural formal) will want"
+      "SPANISH": "Querrán ",
+      "ENGLISH": "They will want"
     },
     "NOSOTROS": {
-      "SPANISH": "querremos ",
-      "ENGLISH": "we will want"
+      "SPANISH": "Querremos ",
+      "ENGLISH": "We will want"
     },
     "VOSOTROS": {
-      "SPANISH": "querréis ",
-      "ENGLISH": "you (plural) will want"
+      "SPANISH": "Querréis ",
+      "ENGLISH": "You will want"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré querido",
+      "SPANISH": "Habré querido",
       "ENGLISH": "I will have wanted"
     },
     "TU": {
-      "SPANISH": "habrás querido",
-      "ENGLISH": "you will have wanted"
+      "SPANISH": "Habrás querido",
+      "ENGLISH": "You will have wanted"
     },
     "EL": {
-      "SPANISH": "habrá querido",
-      "ENGLISH": "s/he will have wanted, you (formal) will have wanted"
+      "SPANISH": "Habrá querido",
+      "ENGLISH": "He will have wanted"
     },
     "ELLOS": {
-      "SPANISH": "habrán querido",
-      "ENGLISH": "they will have wanted, you (plural formal) will have wanted"
+      "SPANISH": "Habrán querido",
+      "ENGLISH": "They will have wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos querido",
-      "ENGLISH": "we will have wanted"
+      "SPANISH": "Habremos querido",
+      "ENGLISH": "We will have wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis querido",
-      "ENGLISH": "you (plural) will have wanted"
+      "SPANISH": "Habréis querido",
+      "ENGLISH": "You will have wanted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "querría ",
+      "SPANISH": "Querría ",
       "ENGLISH": "I would want"
     },
     "TU": {
-      "SPANISH": "querrías ",
-      "ENGLISH": "you would want"
+      "SPANISH": "Querrías ",
+      "ENGLISH": "You would want"
     },
     "EL": {
-      "SPANISH": "querría ",
-      "ENGLISH": "s/he would want, you (formal) would want"
+      "SPANISH": "Querría ",
+      "ENGLISH": "He would want"
     },
     "ELLOS": {
-      "SPANISH": "querrían ",
-      "ENGLISH": "they would want, you (plural formal) would want"
+      "SPANISH": "Querrían ",
+      "ENGLISH": "They would want"
     },
     "NOSOTROS": {
-      "SPANISH": "querríamos ",
-      "ENGLISH": "we would want"
+      "SPANISH": "Querríamos ",
+      "ENGLISH": "We would want"
     },
     "VOSOTROS": {
-      "SPANISH": "querríais ",
-      "ENGLISH": "you (plural) would want"
+      "SPANISH": "Querríais ",
+      "ENGLISH": "You would want"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría querido",
+      "SPANISH": "Habría querido",
       "ENGLISH": "I would have wanted"
     },
     "TU": {
-      "SPANISH": "habrías querido",
-      "ENGLISH": "you would have wanted"
+      "SPANISH": "Habrías querido",
+      "ENGLISH": "You would have wanted"
     },
     "EL": {
-      "SPANISH": "habría querido",
-      "ENGLISH": "s/he would have wanted, you (formal) would have wanted"
+      "SPANISH": "Habría querido",
+      "ENGLISH": "He would have wanted"
     },
     "ELLOS": {
-      "SPANISH": "habrían querido",
-      "ENGLISH": "they would have wanted, you (plural formal) would have wanted"
+      "SPANISH": "Habrían querido",
+      "ENGLISH": "They would have wanted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos querido",
-      "ENGLISH": "we would have wanted"
+      "SPANISH": "Habríamos querido",
+      "ENGLISH": "We would have wanted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais querido",
-      "ENGLISH": "you (plural) would have wanted"
+      "SPANISH": "Habríais querido",
+      "ENGLISH": "You would have wanted"
     }
   }
 }

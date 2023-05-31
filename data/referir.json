@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "refiero ",
+      "SPANISH": "Refiero ",
       "ENGLISH": "I refer"
     },
     "TU": {
-      "SPANISH": "refieres ",
-      "ENGLISH": "you refer"
+      "SPANISH": "Refieres ",
+      "ENGLISH": "You refer"
     },
     "EL": {
-      "SPANISH": "refiere ",
-      "ENGLISH": "s/he refers, you (formal) refers"
+      "SPANISH": "Refiere ",
+      "ENGLISH": "He refers"
     },
     "ELLOS": {
-      "SPANISH": "refieren ",
-      "ENGLISH": "they refer, you (plural formal) refer"
+      "SPANISH": "Refieren ",
+      "ENGLISH": "They refer"
     },
     "NOSOTROS": {
-      "SPANISH": "referimos",
-      "ENGLISH": "we refer"
+      "SPANISH": "Referimos",
+      "ENGLISH": "We refer"
     },
     "VOSOTROS": {
-      "SPANISH": "referís",
-      "ENGLISH": "you (plural) refer"
+      "SPANISH": "Referís",
+      "ENGLISH": "You refer"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he referido",
+      "SPANISH": "He referido",
       "ENGLISH": "I have referred"
     },
     "TU": {
-      "SPANISH": "has referido",
-      "ENGLISH": "you have referred"
+      "SPANISH": "Has referido",
+      "ENGLISH": "You have referred"
     },
     "EL": {
-      "SPANISH": "ha referido",
-      "ENGLISH": "s/he has referred, you (formal) have referred"
+      "SPANISH": "Ha referido",
+      "ENGLISH": "He has referred"
     },
     "ELLOS": {
-      "SPANISH": "han referido",
-      "ENGLISH": "they have referred, you (plural formal) have referred"
+      "SPANISH": "Han referido",
+      "ENGLISH": "They have referred"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos referido",
-      "ENGLISH": "we have referred"
+      "SPANISH": "Hemos referido",
+      "ENGLISH": "We have referred"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis referido",
-      "ENGLISH": "you (plural) have referred"
+      "SPANISH": "Habéis referido",
+      "ENGLISH": "You have referred"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "referí",
+      "SPANISH": "Referí",
       "ENGLISH": "I referred"
     },
     "TU": {
-      "SPANISH": "referiste",
-      "ENGLISH": "you referred"
+      "SPANISH": "Referiste",
+      "ENGLISH": "You referred"
     },
     "EL": {
-      "SPANISH": "refirió ",
-      "ENGLISH": "s/he referred, you (formal) referred"
+      "SPANISH": "Refirió ",
+      "ENGLISH": "He referred"
     },
     "ELLOS": {
-      "SPANISH": "refirieron ",
-      "ENGLISH": "they referred, you (plural formal) referred"
+      "SPANISH": "Refirieron ",
+      "ENGLISH": "They referred"
     },
     "NOSOTROS": {
-      "SPANISH": "referimos",
-      "ENGLISH": "we referred"
+      "SPANISH": "Referimos",
+      "ENGLISH": "We referred"
     },
     "VOSOTROS": {
-      "SPANISH": "referisteis",
-      "ENGLISH": "you (plural) referred"
+      "SPANISH": "Referisteis",
+      "ENGLISH": "You referred"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había referido",
+      "SPANISH": "Había referido",
       "ENGLISH": "I had referred"
     },
     "TU": {
-      "SPANISH": "habías referido",
-      "ENGLISH": "you had referred"
+      "SPANISH": "Habías referido",
+      "ENGLISH": "You had referred"
     },
     "EL": {
-      "SPANISH": "había referido",
-      "ENGLISH": "s/he had referred, you (formal) had referred"
+      "SPANISH": "Había referido",
+      "ENGLISH": "He had referred"
     },
     "ELLOS": {
-      "SPANISH": "habían referido",
-      "ENGLISH": "they had referred, you (plural formal) had referred"
+      "SPANISH": "Habían referido",
+      "ENGLISH": "They had referred"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos referido",
-      "ENGLISH": "we had referred"
+      "SPANISH": "Habíamos referido",
+      "ENGLISH": "We had referred"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais referido",
-      "ENGLISH": "you (plural) had referred"
+      "SPANISH": "Habíais referido",
+      "ENGLISH": "You had referred"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "referí",
+      "SPANISH": "Referí",
       "ENGLISH": "I referred"
     },
     "TU": {
-      "SPANISH": "referiste",
-      "ENGLISH": "you referred"
+      "SPANISH": "Referiste",
+      "ENGLISH": "You referred"
     },
     "EL": {
-      "SPANISH": "refirió ",
-      "ENGLISH": "s/he referred, you (formal) referred"
+      "SPANISH": "Refirió ",
+      "ENGLISH": "He referred"
     },
     "ELLOS": {
-      "SPANISH": "refirieron ",
-      "ENGLISH": "they referred, you (plural formal) referred"
+      "SPANISH": "Refirieron ",
+      "ENGLISH": "They referred"
     },
     "NOSOTROS": {
-      "SPANISH": "referimos",
-      "ENGLISH": "we referred"
+      "SPANISH": "Referimos",
+      "ENGLISH": "We referred"
     },
     "VOSOTROS": {
-      "SPANISH": "referisteis",
-      "ENGLISH": "you (plural) referred"
+      "SPANISH": "Referisteis",
+      "ENGLISH": "You referred"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "referiré",
+      "SPANISH": "Referiré",
       "ENGLISH": "I will refer"
     },
     "TU": {
-      "SPANISH": "referirás",
-      "ENGLISH": "you will refer"
+      "SPANISH": "Referirás",
+      "ENGLISH": "You will refer"
     },
     "EL": {
-      "SPANISH": "referirá",
-      "ENGLISH": "s/he will refer, you (formal) will refer"
+      "SPANISH": "Referirá",
+      "ENGLISH": "He will refer"
     },
     "ELLOS": {
-      "SPANISH": "referirán",
-      "ENGLISH": "they will refer, you (plural formal) will refer"
+      "SPANISH": "Referirán",
+      "ENGLISH": "They will refer"
     },
     "NOSOTROS": {
-      "SPANISH": "referiremos",
-      "ENGLISH": "we will refer"
+      "SPANISH": "Referiremos",
+      "ENGLISH": "We will refer"
     },
     "VOSOTROS": {
-      "SPANISH": "referiréis",
-      "ENGLISH": "you (plural) will refer"
+      "SPANISH": "Referiréis",
+      "ENGLISH": "You will refer"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré referido",
+      "SPANISH": "Habré referido",
       "ENGLISH": "I will have referred"
     },
     "TU": {
-      "SPANISH": "habrás referido",
-      "ENGLISH": "you will have referred"
+      "SPANISH": "Habrás referido",
+      "ENGLISH": "You will have referred"
     },
     "EL": {
-      "SPANISH": "habrá referido",
-      "ENGLISH": "s/he will have referred, you (formal) will have referred"
+      "SPANISH": "Habrá referido",
+      "ENGLISH": "He will have referred"
     },
     "ELLOS": {
-      "SPANISH": "habrán referido",
-      "ENGLISH": "they will have referred, you (plural formal) will have referred"
+      "SPANISH": "Habrán referido",
+      "ENGLISH": "They will have referred"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos referido",
-      "ENGLISH": "we will have referred"
+      "SPANISH": "Habremos referido",
+      "ENGLISH": "We will have referred"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis referido",
-      "ENGLISH": "you (plural) will have referred"
+      "SPANISH": "Habréis referido",
+      "ENGLISH": "You will have referred"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "referiría",
+      "SPANISH": "Referiría",
       "ENGLISH": "I would refer"
     },
     "TU": {
-      "SPANISH": "referirías",
-      "ENGLISH": "you would refer"
+      "SPANISH": "Referirías",
+      "ENGLISH": "You would refer"
     },
     "EL": {
-      "SPANISH": "referiría",
-      "ENGLISH": "s/he would refer, you (formal) would refer"
+      "SPANISH": "Referiría",
+      "ENGLISH": "He would refer"
     },
     "ELLOS": {
-      "SPANISH": "referirían",
-      "ENGLISH": "they would refer, you (plural formal) would refer"
+      "SPANISH": "Referirían",
+      "ENGLISH": "They would refer"
     },
     "NOSOTROS": {
-      "SPANISH": "referiríamos",
-      "ENGLISH": "we would refer"
+      "SPANISH": "Referiríamos",
+      "ENGLISH": "We would refer"
     },
     "VOSOTROS": {
-      "SPANISH": "referiríais",
-      "ENGLISH": "you (plural) would refer"
+      "SPANISH": "Referiríais",
+      "ENGLISH": "You would refer"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría referido",
+      "SPANISH": "Habría referido",
       "ENGLISH": "I would have referred"
     },
     "TU": {
-      "SPANISH": "habrías referido",
-      "ENGLISH": "you would have referred"
+      "SPANISH": "Habrías referido",
+      "ENGLISH": "You would have referred"
     },
     "EL": {
-      "SPANISH": "habría referido",
-      "ENGLISH": "s/he would have referred, you (formal) would have referred"
+      "SPANISH": "Habría referido",
+      "ENGLISH": "He would have referred"
     },
     "ELLOS": {
-      "SPANISH": "habrían referido",
-      "ENGLISH": "they would have referred, you (plural formal) would have referred"
+      "SPANISH": "Habrían referido",
+      "ENGLISH": "They would have referred"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos referido",
-      "ENGLISH": "we would have referred"
+      "SPANISH": "Habríamos referido",
+      "ENGLISH": "We would have referred"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais referido",
-      "ENGLISH": "you (plural) would have referred"
+      "SPANISH": "Habríais referido",
+      "ENGLISH": "You would have referred"
     }
   }
 }

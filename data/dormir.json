@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "duermo ",
+      "SPANISH": "Duermo ",
       "ENGLISH": "I sleep"
     },
     "TU": {
-      "SPANISH": "duermes ",
-      "ENGLISH": "you sleep"
+      "SPANISH": "Duermes ",
+      "ENGLISH": "You sleep"
     },
     "EL": {
-      "SPANISH": "duerme ",
-      "ENGLISH": "s/he sleeps, you (formal) sleeps"
+      "SPANISH": "Duerme ",
+      "ENGLISH": "He sleeps"
     },
     "ELLOS": {
-      "SPANISH": "duermen ",
-      "ENGLISH": "they sleep, you (plural formal) sleep"
+      "SPANISH": "Duermen ",
+      "ENGLISH": "They sleep"
     },
     "NOSOTROS": {
-      "SPANISH": "dormimos",
-      "ENGLISH": "we sleep"
+      "SPANISH": "Dormimos",
+      "ENGLISH": "We sleep"
     },
     "VOSOTROS": {
-      "SPANISH": "dormís",
-      "ENGLISH": "you (plural) sleep"
+      "SPANISH": "Dormís",
+      "ENGLISH": "You sleep"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dormido",
+      "SPANISH": "He dormido",
       "ENGLISH": "I have slept"
     },
     "TU": {
-      "SPANISH": "has dormido",
-      "ENGLISH": "you have slept"
+      "SPANISH": "Has dormido",
+      "ENGLISH": "You have slept"
     },
     "EL": {
-      "SPANISH": "ha dormido",
-      "ENGLISH": "s/he has slept, you (formal) have slept"
+      "SPANISH": "Ha dormido",
+      "ENGLISH": "He has slept"
     },
     "ELLOS": {
-      "SPANISH": "han dormido",
-      "ENGLISH": "they have slept, you (plural formal) have slept"
+      "SPANISH": "Han dormido",
+      "ENGLISH": "They have slept"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dormido",
-      "ENGLISH": "we have slept"
+      "SPANISH": "Hemos dormido",
+      "ENGLISH": "We have slept"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dormido",
-      "ENGLISH": "you (plural) have slept"
+      "SPANISH": "Habéis dormido",
+      "ENGLISH": "You have slept"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dormí",
+      "SPANISH": "Dormí",
       "ENGLISH": "I slept"
     },
     "TU": {
-      "SPANISH": "dormiste",
-      "ENGLISH": "you slept"
+      "SPANISH": "Dormiste",
+      "ENGLISH": "You slept"
     },
     "EL": {
-      "SPANISH": "durmió ",
-      "ENGLISH": "s/he slept, you (formal) slept"
+      "SPANISH": "Durmió ",
+      "ENGLISH": "He slept"
     },
     "ELLOS": {
-      "SPANISH": "durmieron ",
-      "ENGLISH": "they slept, you (plural formal) slept"
+      "SPANISH": "Durmieron ",
+      "ENGLISH": "They slept"
     },
     "NOSOTROS": {
-      "SPANISH": "dormimos",
-      "ENGLISH": "we slept"
+      "SPANISH": "Dormimos",
+      "ENGLISH": "We slept"
     },
     "VOSOTROS": {
-      "SPANISH": "dormisteis",
-      "ENGLISH": "you (plural) slept"
+      "SPANISH": "Dormisteis",
+      "ENGLISH": "You slept"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dormido",
+      "SPANISH": "Había dormido",
       "ENGLISH": "I had slept"
     },
     "TU": {
-      "SPANISH": "habías dormido",
-      "ENGLISH": "you had slept"
+      "SPANISH": "Habías dormido",
+      "ENGLISH": "You had slept"
     },
     "EL": {
-      "SPANISH": "había dormido",
-      "ENGLISH": "s/he had slept, you (formal) had slept"
+      "SPANISH": "Había dormido",
+      "ENGLISH": "He had slept"
     },
     "ELLOS": {
-      "SPANISH": "habían dormido",
-      "ENGLISH": "they had slept, you (plural formal) had slept"
+      "SPANISH": "Habían dormido",
+      "ENGLISH": "They had slept"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dormido",
-      "ENGLISH": "we had slept"
+      "SPANISH": "Habíamos dormido",
+      "ENGLISH": "We had slept"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dormido",
-      "ENGLISH": "you (plural) had slept"
+      "SPANISH": "Habíais dormido",
+      "ENGLISH": "You had slept"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dormí",
+      "SPANISH": "Dormí",
       "ENGLISH": "I slept"
     },
     "TU": {
-      "SPANISH": "dormiste",
-      "ENGLISH": "you slept"
+      "SPANISH": "Dormiste",
+      "ENGLISH": "You slept"
     },
     "EL": {
-      "SPANISH": "durmió ",
-      "ENGLISH": "s/he slept, you (formal) slept"
+      "SPANISH": "Durmió ",
+      "ENGLISH": "He slept"
     },
     "ELLOS": {
-      "SPANISH": "durmieron ",
-      "ENGLISH": "they slept, you (plural formal) slept"
+      "SPANISH": "Durmieron ",
+      "ENGLISH": "They slept"
     },
     "NOSOTROS": {
-      "SPANISH": "dormimos",
-      "ENGLISH": "we slept"
+      "SPANISH": "Dormimos",
+      "ENGLISH": "We slept"
     },
     "VOSOTROS": {
-      "SPANISH": "dormisteis",
-      "ENGLISH": "you (plural) slept"
+      "SPANISH": "Dormisteis",
+      "ENGLISH": "You slept"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dormiré",
+      "SPANISH": "Dormiré",
       "ENGLISH": "I will sleep"
     },
     "TU": {
-      "SPANISH": "dormirás",
-      "ENGLISH": "you will sleep"
+      "SPANISH": "Dormirás",
+      "ENGLISH": "You will sleep"
     },
     "EL": {
-      "SPANISH": "dormirá",
-      "ENGLISH": "s/he will sleep, you (formal) will sleep"
+      "SPANISH": "Dormirá",
+      "ENGLISH": "He will sleep"
     },
     "ELLOS": {
-      "SPANISH": "dormirán",
-      "ENGLISH": "they will sleep, you (plural formal) will sleep"
+      "SPANISH": "Dormirán",
+      "ENGLISH": "They will sleep"
     },
     "NOSOTROS": {
-      "SPANISH": "dormiremos",
-      "ENGLISH": "we will sleep"
+      "SPANISH": "Dormiremos",
+      "ENGLISH": "We will sleep"
     },
     "VOSOTROS": {
-      "SPANISH": "dormiréis",
-      "ENGLISH": "you (plural) will sleep"
+      "SPANISH": "Dormiréis",
+      "ENGLISH": "You will sleep"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dormido",
+      "SPANISH": "Habré dormido",
       "ENGLISH": "I will have slept"
     },
     "TU": {
-      "SPANISH": "habrás dormido",
-      "ENGLISH": "you will have slept"
+      "SPANISH": "Habrás dormido",
+      "ENGLISH": "You will have slept"
     },
     "EL": {
-      "SPANISH": "habrá dormido",
-      "ENGLISH": "s/he will have slept, you (formal) will have slept"
+      "SPANISH": "Habrá dormido",
+      "ENGLISH": "He will have slept"
     },
     "ELLOS": {
-      "SPANISH": "habrán dormido",
-      "ENGLISH": "they will have slept, you (plural formal) will have slept"
+      "SPANISH": "Habrán dormido",
+      "ENGLISH": "They will have slept"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dormido",
-      "ENGLISH": "we will have slept"
+      "SPANISH": "Habremos dormido",
+      "ENGLISH": "We will have slept"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dormido",
-      "ENGLISH": "you (plural) will have slept"
+      "SPANISH": "Habréis dormido",
+      "ENGLISH": "You will have slept"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dormiría",
+      "SPANISH": "Dormiría",
       "ENGLISH": "I would sleep"
     },
     "TU": {
-      "SPANISH": "dormirías",
-      "ENGLISH": "you would sleep"
+      "SPANISH": "Dormirías",
+      "ENGLISH": "You would sleep"
     },
     "EL": {
-      "SPANISH": "dormiría",
-      "ENGLISH": "s/he would sleep, you (formal) would sleep"
+      "SPANISH": "Dormiría",
+      "ENGLISH": "He would sleep"
     },
     "ELLOS": {
-      "SPANISH": "dormirían",
-      "ENGLISH": "they would sleep, you (plural formal) would sleep"
+      "SPANISH": "Dormirían",
+      "ENGLISH": "They would sleep"
     },
     "NOSOTROS": {
-      "SPANISH": "dormiríamos",
-      "ENGLISH": "we would sleep"
+      "SPANISH": "Dormiríamos",
+      "ENGLISH": "We would sleep"
     },
     "VOSOTROS": {
-      "SPANISH": "dormiríais",
-      "ENGLISH": "you (plural) would sleep"
+      "SPANISH": "Dormiríais",
+      "ENGLISH": "You would sleep"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dormido",
+      "SPANISH": "Habría dormido",
       "ENGLISH": "I would have slept"
     },
     "TU": {
-      "SPANISH": "habrías dormido",
-      "ENGLISH": "you would have slept"
+      "SPANISH": "Habrías dormido",
+      "ENGLISH": "You would have slept"
     },
     "EL": {
-      "SPANISH": "habría dormido",
-      "ENGLISH": "s/he would have slept, you (formal) would have slept"
+      "SPANISH": "Habría dormido",
+      "ENGLISH": "He would have slept"
     },
     "ELLOS": {
-      "SPANISH": "habrían dormido",
-      "ENGLISH": "they would have slept, you (plural formal) would have slept"
+      "SPANISH": "Habrían dormido",
+      "ENGLISH": "They would have slept"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dormido",
-      "ENGLISH": "we would have slept"
+      "SPANISH": "Habríamos dormido",
+      "ENGLISH": "We would have slept"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dormido",
-      "ENGLISH": "you (plural) would have slept"
+      "SPANISH": "Habríais dormido",
+      "ENGLISH": "You would have slept"
     }
   }
 }

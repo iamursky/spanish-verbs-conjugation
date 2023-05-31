@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "continúo ",
+      "SPANISH": "Continúo ",
       "ENGLISH": "I continue"
     },
     "TU": {
-      "SPANISH": "continúas ",
-      "ENGLISH": "you continue"
+      "SPANISH": "Continúas ",
+      "ENGLISH": "You continue"
     },
     "EL": {
-      "SPANISH": "continúa ",
-      "ENGLISH": "s/he continues, you (formal) continues"
+      "SPANISH": "Continúa ",
+      "ENGLISH": "He continues"
     },
     "ELLOS": {
-      "SPANISH": "continúan ",
-      "ENGLISH": "they continue, you (plural formal) continue"
+      "SPANISH": "Continúan ",
+      "ENGLISH": "They continue"
     },
     "NOSOTROS": {
-      "SPANISH": "continuamos",
-      "ENGLISH": "we continue"
+      "SPANISH": "Continuamos",
+      "ENGLISH": "We continue"
     },
     "VOSOTROS": {
-      "SPANISH": "continuáis",
-      "ENGLISH": "you (plural) continue"
+      "SPANISH": "Continuáis",
+      "ENGLISH": "You continue"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he continuado",
+      "SPANISH": "He continuado",
       "ENGLISH": "I have continued"
     },
     "TU": {
-      "SPANISH": "has continuado",
-      "ENGLISH": "you have continued"
+      "SPANISH": "Has continuado",
+      "ENGLISH": "You have continued"
     },
     "EL": {
-      "SPANISH": "ha continuado",
-      "ENGLISH": "s/he has continued, you (formal) have continued"
+      "SPANISH": "Ha continuado",
+      "ENGLISH": "He has continued"
     },
     "ELLOS": {
-      "SPANISH": "han continuado",
-      "ENGLISH": "they have continued, you (plural formal) have continued"
+      "SPANISH": "Han continuado",
+      "ENGLISH": "They have continued"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos continuado",
-      "ENGLISH": "we have continued"
+      "SPANISH": "Hemos continuado",
+      "ENGLISH": "We have continued"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis continuado",
-      "ENGLISH": "you (plural) have continued"
+      "SPANISH": "Habéis continuado",
+      "ENGLISH": "You have continued"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "continué",
+      "SPANISH": "Continué",
       "ENGLISH": "I continued"
     },
     "TU": {
-      "SPANISH": "continuaste",
-      "ENGLISH": "you continued"
+      "SPANISH": "Continuaste",
+      "ENGLISH": "You continued"
     },
     "EL": {
-      "SPANISH": "continuó",
-      "ENGLISH": "s/he continued, you (formal) continued"
+      "SPANISH": "Continuó",
+      "ENGLISH": "He continued"
     },
     "ELLOS": {
-      "SPANISH": "continuaron",
-      "ENGLISH": "they continued, you (plural formal) continued"
+      "SPANISH": "Continuaron",
+      "ENGLISH": "They continued"
     },
     "NOSOTROS": {
-      "SPANISH": "continuamos",
-      "ENGLISH": "we continued"
+      "SPANISH": "Continuamos",
+      "ENGLISH": "We continued"
     },
     "VOSOTROS": {
-      "SPANISH": "continuasteis",
-      "ENGLISH": "you (plural) continued"
+      "SPANISH": "Continuasteis",
+      "ENGLISH": "You continued"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había continuado",
+      "SPANISH": "Había continuado",
       "ENGLISH": "I had continued"
     },
     "TU": {
-      "SPANISH": "habías continuado",
-      "ENGLISH": "you had continued"
+      "SPANISH": "Habías continuado",
+      "ENGLISH": "You had continued"
     },
     "EL": {
-      "SPANISH": "había continuado",
-      "ENGLISH": "s/he had continued, you (formal) had continued"
+      "SPANISH": "Había continuado",
+      "ENGLISH": "He had continued"
     },
     "ELLOS": {
-      "SPANISH": "habían continuado",
-      "ENGLISH": "they had continued, you (plural formal) had continued"
+      "SPANISH": "Habían continuado",
+      "ENGLISH": "They had continued"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos continuado",
-      "ENGLISH": "we had continued"
+      "SPANISH": "Habíamos continuado",
+      "ENGLISH": "We had continued"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais continuado",
-      "ENGLISH": "you (plural) had continued"
+      "SPANISH": "Habíais continuado",
+      "ENGLISH": "You had continued"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "continué",
+      "SPANISH": "Continué",
       "ENGLISH": "I continued"
     },
     "TU": {
-      "SPANISH": "continuaste",
-      "ENGLISH": "you continued"
+      "SPANISH": "Continuaste",
+      "ENGLISH": "You continued"
     },
     "EL": {
-      "SPANISH": "continuó",
-      "ENGLISH": "s/he continued, you (formal) continued"
+      "SPANISH": "Continuó",
+      "ENGLISH": "He continued"
     },
     "ELLOS": {
-      "SPANISH": "continuaron",
-      "ENGLISH": "they continued, you (plural formal) continued"
+      "SPANISH": "Continuaron",
+      "ENGLISH": "They continued"
     },
     "NOSOTROS": {
-      "SPANISH": "continuamos",
-      "ENGLISH": "we continued"
+      "SPANISH": "Continuamos",
+      "ENGLISH": "We continued"
     },
     "VOSOTROS": {
-      "SPANISH": "continuasteis",
-      "ENGLISH": "you (plural) continued"
+      "SPANISH": "Continuasteis",
+      "ENGLISH": "You continued"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "continuaré",
+      "SPANISH": "Continuaré",
       "ENGLISH": "I will continue"
     },
     "TU": {
-      "SPANISH": "continuarás",
-      "ENGLISH": "you will continue"
+      "SPANISH": "Continuarás",
+      "ENGLISH": "You will continue"
     },
     "EL": {
-      "SPANISH": "continuará",
-      "ENGLISH": "s/he will continue, you (formal) will continue"
+      "SPANISH": "Continuará",
+      "ENGLISH": "He will continue"
     },
     "ELLOS": {
-      "SPANISH": "continuarán",
-      "ENGLISH": "they will continue, you (plural formal) will continue"
+      "SPANISH": "Continuarán",
+      "ENGLISH": "They will continue"
     },
     "NOSOTROS": {
-      "SPANISH": "continuaremos",
-      "ENGLISH": "we will continue"
+      "SPANISH": "Continuaremos",
+      "ENGLISH": "We will continue"
     },
     "VOSOTROS": {
-      "SPANISH": "continuaréis",
-      "ENGLISH": "you (plural) will continue"
+      "SPANISH": "Continuaréis",
+      "ENGLISH": "You will continue"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré continuado",
+      "SPANISH": "Habré continuado",
       "ENGLISH": "I will have continued"
     },
     "TU": {
-      "SPANISH": "habrás continuado",
-      "ENGLISH": "you will have continued"
+      "SPANISH": "Habrás continuado",
+      "ENGLISH": "You will have continued"
     },
     "EL": {
-      "SPANISH": "habrá continuado",
-      "ENGLISH": "s/he will have continued, you (formal) will have continued"
+      "SPANISH": "Habrá continuado",
+      "ENGLISH": "He will have continued"
     },
     "ELLOS": {
-      "SPANISH": "habrán continuado",
-      "ENGLISH": "they will have continued, you (plural formal) will have continued"
+      "SPANISH": "Habrán continuado",
+      "ENGLISH": "They will have continued"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos continuado",
-      "ENGLISH": "we will have continued"
+      "SPANISH": "Habremos continuado",
+      "ENGLISH": "We will have continued"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis continuado",
-      "ENGLISH": "you (plural) will have continued"
+      "SPANISH": "Habréis continuado",
+      "ENGLISH": "You will have continued"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "continuaría",
+      "SPANISH": "Continuaría",
       "ENGLISH": "I would continue"
     },
     "TU": {
-      "SPANISH": "continuarías",
-      "ENGLISH": "you would continue"
+      "SPANISH": "Continuarías",
+      "ENGLISH": "You would continue"
     },
     "EL": {
-      "SPANISH": "continuaría",
-      "ENGLISH": "s/he would continue, you (formal) would continue"
+      "SPANISH": "Continuaría",
+      "ENGLISH": "He would continue"
     },
     "ELLOS": {
-      "SPANISH": "continuarían",
-      "ENGLISH": "they would continue, you (plural formal) would continue"
+      "SPANISH": "Continuarían",
+      "ENGLISH": "They would continue"
     },
     "NOSOTROS": {
-      "SPANISH": "continuaríamos",
-      "ENGLISH": "we would continue"
+      "SPANISH": "Continuaríamos",
+      "ENGLISH": "We would continue"
     },
     "VOSOTROS": {
-      "SPANISH": "continuaríais",
-      "ENGLISH": "you (plural) would continue"
+      "SPANISH": "Continuaríais",
+      "ENGLISH": "You would continue"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría continuado",
+      "SPANISH": "Habría continuado",
       "ENGLISH": "I would have continued"
     },
     "TU": {
-      "SPANISH": "habrías continuado",
-      "ENGLISH": "you would have continued"
+      "SPANISH": "Habrías continuado",
+      "ENGLISH": "You would have continued"
     },
     "EL": {
-      "SPANISH": "habría continuado",
-      "ENGLISH": "s/he would have continued, you (formal) would have continued"
+      "SPANISH": "Habría continuado",
+      "ENGLISH": "He would have continued"
     },
     "ELLOS": {
-      "SPANISH": "habrían continuado",
-      "ENGLISH": "they would have continued, you (plural formal) would have continued"
+      "SPANISH": "Habrían continuado",
+      "ENGLISH": "They would have continued"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos continuado",
-      "ENGLISH": "we would have continued"
+      "SPANISH": "Habríamos continuado",
+      "ENGLISH": "We would have continued"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais continuado",
-      "ENGLISH": "you (plural) would have continued"
+      "SPANISH": "Habríais continuado",
+      "ENGLISH": "You would have continued"
     }
   }
 }

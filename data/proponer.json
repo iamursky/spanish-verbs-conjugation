@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "propongo ",
+      "SPANISH": "Propongo ",
       "ENGLISH": "I propose"
     },
     "TU": {
-      "SPANISH": "propones",
-      "ENGLISH": "you propose"
+      "SPANISH": "Propones",
+      "ENGLISH": "You propose"
     },
     "EL": {
-      "SPANISH": "propone",
-      "ENGLISH": "s/he proposes, you (formal) proposes"
+      "SPANISH": "Propone",
+      "ENGLISH": "He proposes"
     },
     "ELLOS": {
-      "SPANISH": "proponen",
-      "ENGLISH": "they propose, you (plural formal) propose"
+      "SPANISH": "Proponen",
+      "ENGLISH": "They propose"
     },
     "NOSOTROS": {
-      "SPANISH": "proponemos",
-      "ENGLISH": "we propose"
+      "SPANISH": "Proponemos",
+      "ENGLISH": "We propose"
     },
     "VOSOTROS": {
-      "SPANISH": "proponéis",
-      "ENGLISH": "you (plural) propose"
+      "SPANISH": "Proponéis",
+      "ENGLISH": "You propose"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he propuesto ",
+      "SPANISH": "He propuesto ",
       "ENGLISH": "I have proposed"
     },
     "TU": {
-      "SPANISH": "has propuesto ",
-      "ENGLISH": "you have proposed"
+      "SPANISH": "Has propuesto ",
+      "ENGLISH": "You have proposed"
     },
     "EL": {
-      "SPANISH": "ha propuesto ",
-      "ENGLISH": "s/he has proposed, you (formal) have proposed"
+      "SPANISH": "Ha propuesto ",
+      "ENGLISH": "He has proposed"
     },
     "ELLOS": {
-      "SPANISH": "han propuesto ",
-      "ENGLISH": "they have proposed, you (plural formal) have proposed"
+      "SPANISH": "Han propuesto ",
+      "ENGLISH": "They have proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos propuesto ",
-      "ENGLISH": "we have proposed"
+      "SPANISH": "Hemos propuesto ",
+      "ENGLISH": "We have proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis propuesto ",
-      "ENGLISH": "you (plural) have proposed"
+      "SPANISH": "Habéis propuesto ",
+      "ENGLISH": "You have proposed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "propuse ",
+      "SPANISH": "Propuse ",
       "ENGLISH": "I proposed"
     },
     "TU": {
-      "SPANISH": "propusiste ",
-      "ENGLISH": "you proposed"
+      "SPANISH": "Propusiste ",
+      "ENGLISH": "You proposed"
     },
     "EL": {
-      "SPANISH": "propuso ",
-      "ENGLISH": "s/he proposed, you (formal) proposed"
+      "SPANISH": "Propuso ",
+      "ENGLISH": "He proposed"
     },
     "ELLOS": {
-      "SPANISH": "propusieron ",
-      "ENGLISH": "they proposed, you (plural formal) proposed"
+      "SPANISH": "Propusieron ",
+      "ENGLISH": "They proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "propusimos ",
-      "ENGLISH": "we proposed"
+      "SPANISH": "Propusimos ",
+      "ENGLISH": "We proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "propusisteis ",
-      "ENGLISH": "you (plural) proposed"
+      "SPANISH": "Propusisteis ",
+      "ENGLISH": "You proposed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había propuesto ",
+      "SPANISH": "Había propuesto ",
       "ENGLISH": "I had proposed"
     },
     "TU": {
-      "SPANISH": "habías propuesto ",
-      "ENGLISH": "you had proposed"
+      "SPANISH": "Habías propuesto ",
+      "ENGLISH": "You had proposed"
     },
     "EL": {
-      "SPANISH": "había propuesto ",
-      "ENGLISH": "s/he had proposed, you (formal) had proposed"
+      "SPANISH": "Había propuesto ",
+      "ENGLISH": "He had proposed"
     },
     "ELLOS": {
-      "SPANISH": "habían propuesto ",
-      "ENGLISH": "they had proposed, you (plural formal) had proposed"
+      "SPANISH": "Habían propuesto ",
+      "ENGLISH": "They had proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos propuesto ",
-      "ENGLISH": "we had proposed"
+      "SPANISH": "Habíamos propuesto ",
+      "ENGLISH": "We had proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais propuesto ",
-      "ENGLISH": "you (plural) had proposed"
+      "SPANISH": "Habíais propuesto ",
+      "ENGLISH": "You had proposed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "propuse ",
+      "SPANISH": "Propuse ",
       "ENGLISH": "I proposed"
     },
     "TU": {
-      "SPANISH": "propusiste ",
-      "ENGLISH": "you proposed"
+      "SPANISH": "Propusiste ",
+      "ENGLISH": "You proposed"
     },
     "EL": {
-      "SPANISH": "propuso ",
-      "ENGLISH": "s/he proposed, you (formal) proposed"
+      "SPANISH": "Propuso ",
+      "ENGLISH": "He proposed"
     },
     "ELLOS": {
-      "SPANISH": "propusieron ",
-      "ENGLISH": "they proposed, you (plural formal) proposed"
+      "SPANISH": "Propusieron ",
+      "ENGLISH": "They proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "propusimos ",
-      "ENGLISH": "we proposed"
+      "SPANISH": "Propusimos ",
+      "ENGLISH": "We proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "propusisteis ",
-      "ENGLISH": "you (plural) proposed"
+      "SPANISH": "Propusisteis ",
+      "ENGLISH": "You proposed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "propondré ",
+      "SPANISH": "Propondré ",
       "ENGLISH": "I will propose"
     },
     "TU": {
-      "SPANISH": "propondrás ",
-      "ENGLISH": "you will propose"
+      "SPANISH": "Propondrás ",
+      "ENGLISH": "You will propose"
     },
     "EL": {
-      "SPANISH": "propondrá ",
-      "ENGLISH": "s/he will propose, you (formal) will propose"
+      "SPANISH": "Propondrá ",
+      "ENGLISH": "He will propose"
     },
     "ELLOS": {
-      "SPANISH": "propondrán ",
-      "ENGLISH": "they will propose, you (plural formal) will propose"
+      "SPANISH": "Propondrán ",
+      "ENGLISH": "They will propose"
     },
     "NOSOTROS": {
-      "SPANISH": "propondremos ",
-      "ENGLISH": "we will propose"
+      "SPANISH": "Propondremos ",
+      "ENGLISH": "We will propose"
     },
     "VOSOTROS": {
-      "SPANISH": "propondréis ",
-      "ENGLISH": "you (plural) will propose"
+      "SPANISH": "Propondréis ",
+      "ENGLISH": "You will propose"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré propuesto ",
+      "SPANISH": "Habré propuesto ",
       "ENGLISH": "I will have proposed"
     },
     "TU": {
-      "SPANISH": "habrás propuesto ",
-      "ENGLISH": "you will have proposed"
+      "SPANISH": "Habrás propuesto ",
+      "ENGLISH": "You will have proposed"
     },
     "EL": {
-      "SPANISH": "habrá propuesto ",
-      "ENGLISH": "s/he will have proposed, you (formal) will have proposed"
+      "SPANISH": "Habrá propuesto ",
+      "ENGLISH": "He will have proposed"
     },
     "ELLOS": {
-      "SPANISH": "habrán propuesto ",
-      "ENGLISH": "they will have proposed, you (plural formal) will have proposed"
+      "SPANISH": "Habrán propuesto ",
+      "ENGLISH": "They will have proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos propuesto ",
-      "ENGLISH": "we will have proposed"
+      "SPANISH": "Habremos propuesto ",
+      "ENGLISH": "We will have proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis propuesto ",
-      "ENGLISH": "you (plural) will have proposed"
+      "SPANISH": "Habréis propuesto ",
+      "ENGLISH": "You will have proposed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "propondría ",
+      "SPANISH": "Propondría ",
       "ENGLISH": "I would propose"
     },
     "TU": {
-      "SPANISH": "propondrías ",
-      "ENGLISH": "you would propose"
+      "SPANISH": "Propondrías ",
+      "ENGLISH": "You would propose"
     },
     "EL": {
-      "SPANISH": "propondría ",
-      "ENGLISH": "s/he would propose, you (formal) would propose"
+      "SPANISH": "Propondría ",
+      "ENGLISH": "He would propose"
     },
     "ELLOS": {
-      "SPANISH": "propondrían ",
-      "ENGLISH": "they would propose, you (plural formal) would propose"
+      "SPANISH": "Propondrían ",
+      "ENGLISH": "They would propose"
     },
     "NOSOTROS": {
-      "SPANISH": "propondríamos ",
-      "ENGLISH": "we would propose"
+      "SPANISH": "Propondríamos ",
+      "ENGLISH": "We would propose"
     },
     "VOSOTROS": {
-      "SPANISH": "propondríais ",
-      "ENGLISH": "you (plural) would propose"
+      "SPANISH": "Propondríais ",
+      "ENGLISH": "You would propose"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría propuesto ",
+      "SPANISH": "Habría propuesto ",
       "ENGLISH": "I would have proposed"
     },
     "TU": {
-      "SPANISH": "habrías propuesto ",
-      "ENGLISH": "you would have proposed"
+      "SPANISH": "Habrías propuesto ",
+      "ENGLISH": "You would have proposed"
     },
     "EL": {
-      "SPANISH": "habría propuesto ",
-      "ENGLISH": "s/he would have proposed, you (formal) would have proposed"
+      "SPANISH": "Habría propuesto ",
+      "ENGLISH": "He would have proposed"
     },
     "ELLOS": {
-      "SPANISH": "habrían propuesto ",
-      "ENGLISH": "they would have proposed, you (plural formal) would have proposed"
+      "SPANISH": "Habrían propuesto ",
+      "ENGLISH": "They would have proposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos propuesto ",
-      "ENGLISH": "we would have proposed"
+      "SPANISH": "Habríamos propuesto ",
+      "ENGLISH": "We would have proposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais propuesto ",
-      "ENGLISH": "you (plural) would have proposed"
+      "SPANISH": "Habríais propuesto ",
+      "ENGLISH": "You would have proposed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "aconsejo",
+      "SPANISH": "Aconsejo",
       "ENGLISH": "I advise"
     },
     "TU": {
-      "SPANISH": "aconsejas",
-      "ENGLISH": "you advise"
+      "SPANISH": "Aconsejas",
+      "ENGLISH": "You advise"
     },
     "EL": {
-      "SPANISH": "aconseja",
-      "ENGLISH": "s/he advises, you (formal) advises"
+      "SPANISH": "Aconseja",
+      "ENGLISH": "He advises"
     },
     "ELLOS": {
-      "SPANISH": "aconsejan",
-      "ENGLISH": "they advise, you (plural formal) advise"
+      "SPANISH": "Aconsejan",
+      "ENGLISH": "They advise"
     },
     "NOSOTROS": {
-      "SPANISH": "aconsejamos",
-      "ENGLISH": "we advise"
+      "SPANISH": "Aconsejamos",
+      "ENGLISH": "We advise"
     },
     "VOSOTROS": {
-      "SPANISH": "aconsejáis",
-      "ENGLISH": "you (plural) advise"
+      "SPANISH": "Aconsejáis",
+      "ENGLISH": "You advise"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he aconsejado",
+      "SPANISH": "He aconsejado",
       "ENGLISH": "I have advised"
     },
     "TU": {
-      "SPANISH": "has aconsejado",
-      "ENGLISH": "you have advised"
+      "SPANISH": "Has aconsejado",
+      "ENGLISH": "You have advised"
     },
     "EL": {
-      "SPANISH": "ha aconsejado",
-      "ENGLISH": "s/he has advised, you (formal) have advised"
+      "SPANISH": "Ha aconsejado",
+      "ENGLISH": "He has advised"
     },
     "ELLOS": {
-      "SPANISH": "han aconsejado",
-      "ENGLISH": "they have advised, you (plural formal) have advised"
+      "SPANISH": "Han aconsejado",
+      "ENGLISH": "They have advised"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos aconsejado",
-      "ENGLISH": "we have advised"
+      "SPANISH": "Hemos aconsejado",
+      "ENGLISH": "We have advised"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis aconsejado",
-      "ENGLISH": "you (plural) have advised"
+      "SPANISH": "Habéis aconsejado",
+      "ENGLISH": "You have advised"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "aconsejé",
+      "SPANISH": "Aconsejé",
       "ENGLISH": "I advised"
     },
     "TU": {
-      "SPANISH": "aconsejaste",
-      "ENGLISH": "you advised"
+      "SPANISH": "Aconsejaste",
+      "ENGLISH": "You advised"
     },
     "EL": {
-      "SPANISH": "aconsejó",
-      "ENGLISH": "s/he advised, you (formal) advised"
+      "SPANISH": "Aconsejó",
+      "ENGLISH": "He advised"
     },
     "ELLOS": {
-      "SPANISH": "aconsejaron",
-      "ENGLISH": "they advised, you (plural formal) advised"
+      "SPANISH": "Aconsejaron",
+      "ENGLISH": "They advised"
     },
     "NOSOTROS": {
-      "SPANISH": "aconsejamos",
-      "ENGLISH": "we advised"
+      "SPANISH": "Aconsejamos",
+      "ENGLISH": "We advised"
     },
     "VOSOTROS": {
-      "SPANISH": "aconsejasteis",
-      "ENGLISH": "you (plural) advised"
+      "SPANISH": "Aconsejasteis",
+      "ENGLISH": "You advised"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había aconsejado",
+      "SPANISH": "Había aconsejado",
       "ENGLISH": "I had advised"
     },
     "TU": {
-      "SPANISH": "habías aconsejado",
-      "ENGLISH": "you had advised"
+      "SPANISH": "Habías aconsejado",
+      "ENGLISH": "You had advised"
     },
     "EL": {
-      "SPANISH": "había aconsejado",
-      "ENGLISH": "s/he had advised, you (formal) had advised"
+      "SPANISH": "Había aconsejado",
+      "ENGLISH": "He had advised"
     },
     "ELLOS": {
-      "SPANISH": "habían aconsejado",
-      "ENGLISH": "they had advised, you (plural formal) had advised"
+      "SPANISH": "Habían aconsejado",
+      "ENGLISH": "They had advised"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos aconsejado",
-      "ENGLISH": "we had advised"
+      "SPANISH": "Habíamos aconsejado",
+      "ENGLISH": "We had advised"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais aconsejado",
-      "ENGLISH": "you (plural) had advised"
+      "SPANISH": "Habíais aconsejado",
+      "ENGLISH": "You had advised"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "aconsejé",
+      "SPANISH": "Aconsejé",
       "ENGLISH": "I advised"
     },
     "TU": {
-      "SPANISH": "aconsejaste",
-      "ENGLISH": "you advised"
+      "SPANISH": "Aconsejaste",
+      "ENGLISH": "You advised"
     },
     "EL": {
-      "SPANISH": "aconsejó",
-      "ENGLISH": "s/he advised, you (formal) advised"
+      "SPANISH": "Aconsejó",
+      "ENGLISH": "He advised"
     },
     "ELLOS": {
-      "SPANISH": "aconsejaron",
-      "ENGLISH": "they advised, you (plural formal) advised"
+      "SPANISH": "Aconsejaron",
+      "ENGLISH": "They advised"
     },
     "NOSOTROS": {
-      "SPANISH": "aconsejamos",
-      "ENGLISH": "we advised"
+      "SPANISH": "Aconsejamos",
+      "ENGLISH": "We advised"
     },
     "VOSOTROS": {
-      "SPANISH": "aconsejasteis",
-      "ENGLISH": "you (plural) advised"
+      "SPANISH": "Aconsejasteis",
+      "ENGLISH": "You advised"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "aconsejaré",
+      "SPANISH": "Aconsejaré",
       "ENGLISH": "I will advise"
     },
     "TU": {
-      "SPANISH": "aconsejarás",
-      "ENGLISH": "you will advise"
+      "SPANISH": "Aconsejarás",
+      "ENGLISH": "You will advise"
     },
     "EL": {
-      "SPANISH": "aconsejará",
-      "ENGLISH": "s/he will advise, you (formal) will advise"
+      "SPANISH": "Aconsejará",
+      "ENGLISH": "He will advise"
     },
     "ELLOS": {
-      "SPANISH": "aconsejarán",
-      "ENGLISH": "they will advise, you (plural formal) will advise"
+      "SPANISH": "Aconsejarán",
+      "ENGLISH": "They will advise"
     },
     "NOSOTROS": {
-      "SPANISH": "aconsejaremos",
-      "ENGLISH": "we will advise"
+      "SPANISH": "Aconsejaremos",
+      "ENGLISH": "We will advise"
     },
     "VOSOTROS": {
-      "SPANISH": "aconsejaréis",
-      "ENGLISH": "you (plural) will advise"
+      "SPANISH": "Aconsejaréis",
+      "ENGLISH": "You will advise"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré aconsejado",
+      "SPANISH": "Habré aconsejado",
       "ENGLISH": "I will have advised"
     },
     "TU": {
-      "SPANISH": "habrás aconsejado",
-      "ENGLISH": "you will have advised"
+      "SPANISH": "Habrás aconsejado",
+      "ENGLISH": "You will have advised"
     },
     "EL": {
-      "SPANISH": "habrá aconsejado",
-      "ENGLISH": "s/he will have advised, you (formal) will have advised"
+      "SPANISH": "Habrá aconsejado",
+      "ENGLISH": "He will have advised"
     },
     "ELLOS": {
-      "SPANISH": "habrán aconsejado",
-      "ENGLISH": "they will have advised, you (plural formal) will have advised"
+      "SPANISH": "Habrán aconsejado",
+      "ENGLISH": "They will have advised"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos aconsejado",
-      "ENGLISH": "we will have advised"
+      "SPANISH": "Habremos aconsejado",
+      "ENGLISH": "We will have advised"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis aconsejado",
-      "ENGLISH": "you (plural) will have advised"
+      "SPANISH": "Habréis aconsejado",
+      "ENGLISH": "You will have advised"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "aconsejaría",
+      "SPANISH": "Aconsejaría",
       "ENGLISH": "I would advise"
     },
     "TU": {
-      "SPANISH": "aconsejarías",
-      "ENGLISH": "you would advise"
+      "SPANISH": "Aconsejarías",
+      "ENGLISH": "You would advise"
     },
     "EL": {
-      "SPANISH": "aconsejaría",
-      "ENGLISH": "s/he would advise, you (formal) would advise"
+      "SPANISH": "Aconsejaría",
+      "ENGLISH": "He would advise"
     },
     "ELLOS": {
-      "SPANISH": "aconsejarían",
-      "ENGLISH": "they would advise, you (plural formal) would advise"
+      "SPANISH": "Aconsejarían",
+      "ENGLISH": "They would advise"
     },
     "NOSOTROS": {
-      "SPANISH": "aconsejaríamos",
-      "ENGLISH": "we would advise"
+      "SPANISH": "Aconsejaríamos",
+      "ENGLISH": "We would advise"
     },
     "VOSOTROS": {
-      "SPANISH": "aconsejaríais",
-      "ENGLISH": "you (plural) would advise"
+      "SPANISH": "Aconsejaríais",
+      "ENGLISH": "You would advise"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría aconsejado",
+      "SPANISH": "Habría aconsejado",
       "ENGLISH": "I would have advised"
     },
     "TU": {
-      "SPANISH": "habrías aconsejado",
-      "ENGLISH": "you would have advised"
+      "SPANISH": "Habrías aconsejado",
+      "ENGLISH": "You would have advised"
     },
     "EL": {
-      "SPANISH": "habría aconsejado",
-      "ENGLISH": "s/he would have advised, you (formal) would have advised"
+      "SPANISH": "Habría aconsejado",
+      "ENGLISH": "He would have advised"
     },
     "ELLOS": {
-      "SPANISH": "habrían aconsejado",
-      "ENGLISH": "they would have advised, you (plural formal) would have advised"
+      "SPANISH": "Habrían aconsejado",
+      "ENGLISH": "They would have advised"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos aconsejado",
-      "ENGLISH": "we would have advised"
+      "SPANISH": "Habríamos aconsejado",
+      "ENGLISH": "We would have advised"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais aconsejado",
-      "ENGLISH": "you (plural) would have advised"
+      "SPANISH": "Habríais aconsejado",
+      "ENGLISH": "You would have advised"
     }
   }
 }

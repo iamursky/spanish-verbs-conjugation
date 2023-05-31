@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "subo",
+      "SPANISH": "Subo",
       "ENGLISH": "I go up"
     },
     "TU": {
-      "SPANISH": "subes",
-      "ENGLISH": "you go up"
+      "SPANISH": "Subes",
+      "ENGLISH": "You go up"
     },
     "EL": {
-      "SPANISH": "sube",
-      "ENGLISH": "s/he goes up, you (formal) goes up"
+      "SPANISH": "Sube",
+      "ENGLISH": "He goes up"
     },
     "ELLOS": {
-      "SPANISH": "suben",
-      "ENGLISH": "they go up, you (plural formal) go up"
+      "SPANISH": "Suben",
+      "ENGLISH": "They go up"
     },
     "NOSOTROS": {
-      "SPANISH": "subimos",
-      "ENGLISH": "we go up"
+      "SPANISH": "Subimos",
+      "ENGLISH": "We go up"
     },
     "VOSOTROS": {
-      "SPANISH": "subís",
-      "ENGLISH": "you (plural) go up"
+      "SPANISH": "Subís",
+      "ENGLISH": "You go up"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he subido",
+      "SPANISH": "He subido",
       "ENGLISH": "I have gone up"
     },
     "TU": {
-      "SPANISH": "has subido",
-      "ENGLISH": "you have gone up"
+      "SPANISH": "Has subido",
+      "ENGLISH": "You have gone up"
     },
     "EL": {
-      "SPANISH": "ha subido",
-      "ENGLISH": "s/he has gone up, you (formal) have gone up"
+      "SPANISH": "Ha subido",
+      "ENGLISH": "He has gone up"
     },
     "ELLOS": {
-      "SPANISH": "han subido",
-      "ENGLISH": "they have gone up, you (plural formal) have gone up"
+      "SPANISH": "Han subido",
+      "ENGLISH": "They have gone up"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos subido",
-      "ENGLISH": "we have gone up"
+      "SPANISH": "Hemos subido",
+      "ENGLISH": "We have gone up"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis subido",
-      "ENGLISH": "you (plural) have gone up"
+      "SPANISH": "Habéis subido",
+      "ENGLISH": "You have gone up"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "subí",
+      "SPANISH": "Subí",
       "ENGLISH": "I went up"
     },
     "TU": {
-      "SPANISH": "subiste",
-      "ENGLISH": "you went up"
+      "SPANISH": "Subiste",
+      "ENGLISH": "You went up"
     },
     "EL": {
-      "SPANISH": "subió",
-      "ENGLISH": "s/he went up, you (formal) went up"
+      "SPANISH": "Subió",
+      "ENGLISH": "He went up"
     },
     "ELLOS": {
-      "SPANISH": "subieron",
-      "ENGLISH": "they went up, you (plural formal) went up"
+      "SPANISH": "Subieron",
+      "ENGLISH": "They went up"
     },
     "NOSOTROS": {
-      "SPANISH": "subimos",
-      "ENGLISH": "we went up"
+      "SPANISH": "Subimos",
+      "ENGLISH": "We went up"
     },
     "VOSOTROS": {
-      "SPANISH": "subisteis",
-      "ENGLISH": "you (plural) went up"
+      "SPANISH": "Subisteis",
+      "ENGLISH": "You went up"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había subido",
+      "SPANISH": "Había subido",
       "ENGLISH": "I had gone up"
     },
     "TU": {
-      "SPANISH": "habías subido",
-      "ENGLISH": "you had gone up"
+      "SPANISH": "Habías subido",
+      "ENGLISH": "You had gone up"
     },
     "EL": {
-      "SPANISH": "había subido",
-      "ENGLISH": "s/he had gone up, you (formal) had gone up"
+      "SPANISH": "Había subido",
+      "ENGLISH": "He had gone up"
     },
     "ELLOS": {
-      "SPANISH": "habían subido",
-      "ENGLISH": "they had gone up, you (plural formal) had gone up"
+      "SPANISH": "Habían subido",
+      "ENGLISH": "They had gone up"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos subido",
-      "ENGLISH": "we had gone up"
+      "SPANISH": "Habíamos subido",
+      "ENGLISH": "We had gone up"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais subido",
-      "ENGLISH": "you (plural) had gone up"
+      "SPANISH": "Habíais subido",
+      "ENGLISH": "You had gone up"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "subí",
+      "SPANISH": "Subí",
       "ENGLISH": "I went up"
     },
     "TU": {
-      "SPANISH": "subiste",
-      "ENGLISH": "you went up"
+      "SPANISH": "Subiste",
+      "ENGLISH": "You went up"
     },
     "EL": {
-      "SPANISH": "subió",
-      "ENGLISH": "s/he went up, you (formal) went up"
+      "SPANISH": "Subió",
+      "ENGLISH": "He went up"
     },
     "ELLOS": {
-      "SPANISH": "subieron",
-      "ENGLISH": "they went up, you (plural formal) went up"
+      "SPANISH": "Subieron",
+      "ENGLISH": "They went up"
     },
     "NOSOTROS": {
-      "SPANISH": "subimos",
-      "ENGLISH": "we went up"
+      "SPANISH": "Subimos",
+      "ENGLISH": "We went up"
     },
     "VOSOTROS": {
-      "SPANISH": "subisteis",
-      "ENGLISH": "you (plural) went up"
+      "SPANISH": "Subisteis",
+      "ENGLISH": "You went up"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "subiré",
+      "SPANISH": "Subiré",
       "ENGLISH": "I will go up"
     },
     "TU": {
-      "SPANISH": "subirás",
-      "ENGLISH": "you will go up"
+      "SPANISH": "Subirás",
+      "ENGLISH": "You will go up"
     },
     "EL": {
-      "SPANISH": "subirá",
-      "ENGLISH": "s/he will go up, you (formal) will go up"
+      "SPANISH": "Subirá",
+      "ENGLISH": "He will go up"
     },
     "ELLOS": {
-      "SPANISH": "subirán",
-      "ENGLISH": "they will go up, you (plural formal) will go up"
+      "SPANISH": "Subirán",
+      "ENGLISH": "They will go up"
     },
     "NOSOTROS": {
-      "SPANISH": "subiremos",
-      "ENGLISH": "we will go up"
+      "SPANISH": "Subiremos",
+      "ENGLISH": "We will go up"
     },
     "VOSOTROS": {
-      "SPANISH": "subiréis",
-      "ENGLISH": "you (plural) will go up"
+      "SPANISH": "Subiréis",
+      "ENGLISH": "You will go up"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré subido",
+      "SPANISH": "Habré subido",
       "ENGLISH": "I will have gone up"
     },
     "TU": {
-      "SPANISH": "habrás subido",
-      "ENGLISH": "you will have gone up"
+      "SPANISH": "Habrás subido",
+      "ENGLISH": "You will have gone up"
     },
     "EL": {
-      "SPANISH": "habrá subido",
-      "ENGLISH": "s/he will have gone up, you (formal) will have gone up"
+      "SPANISH": "Habrá subido",
+      "ENGLISH": "He will have gone up"
     },
     "ELLOS": {
-      "SPANISH": "habrán subido",
-      "ENGLISH": "they will have gone up, you (plural formal) will have gone up"
+      "SPANISH": "Habrán subido",
+      "ENGLISH": "They will have gone up"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos subido",
-      "ENGLISH": "we will have gone up"
+      "SPANISH": "Habremos subido",
+      "ENGLISH": "We will have gone up"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis subido",
-      "ENGLISH": "you (plural) will have gone up"
+      "SPANISH": "Habréis subido",
+      "ENGLISH": "You will have gone up"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "subiría",
+      "SPANISH": "Subiría",
       "ENGLISH": "I would go up"
     },
     "TU": {
-      "SPANISH": "subirías",
-      "ENGLISH": "you would go up"
+      "SPANISH": "Subirías",
+      "ENGLISH": "You would go up"
     },
     "EL": {
-      "SPANISH": "subiría",
-      "ENGLISH": "s/he would go up, you (formal) would go up"
+      "SPANISH": "Subiría",
+      "ENGLISH": "He would go up"
     },
     "ELLOS": {
-      "SPANISH": "subirían",
-      "ENGLISH": "they would go up, you (plural formal) would go up"
+      "SPANISH": "Subirían",
+      "ENGLISH": "They would go up"
     },
     "NOSOTROS": {
-      "SPANISH": "subiríamos",
-      "ENGLISH": "we would go up"
+      "SPANISH": "Subiríamos",
+      "ENGLISH": "We would go up"
     },
     "VOSOTROS": {
-      "SPANISH": "subiríais",
-      "ENGLISH": "you (plural) would go up"
+      "SPANISH": "Subiríais",
+      "ENGLISH": "You would go up"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría subido",
+      "SPANISH": "Habría subido",
       "ENGLISH": "I would have gone up"
     },
     "TU": {
-      "SPANISH": "habrías subido",
-      "ENGLISH": "you would have gone up"
+      "SPANISH": "Habrías subido",
+      "ENGLISH": "You would have gone up"
     },
     "EL": {
-      "SPANISH": "habría subido",
-      "ENGLISH": "s/he would have gone up, you (formal) would have gone up"
+      "SPANISH": "Habría subido",
+      "ENGLISH": "He would have gone up"
     },
     "ELLOS": {
-      "SPANISH": "habrían subido",
-      "ENGLISH": "they would have gone up, you (plural formal) would have gone up"
+      "SPANISH": "Habrían subido",
+      "ENGLISH": "They would have gone up"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos subido",
-      "ENGLISH": "we would have gone up"
+      "SPANISH": "Habríamos subido",
+      "ENGLISH": "We would have gone up"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais subido",
-      "ENGLISH": "you (plural) would have gone up"
+      "SPANISH": "Habríais subido",
+      "ENGLISH": "You would have gone up"
     }
   }
 }

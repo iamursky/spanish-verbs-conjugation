@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "repito ",
+      "SPANISH": "Repito ",
       "ENGLISH": "I repeat"
     },
     "TU": {
-      "SPANISH": "repites ",
-      "ENGLISH": "you repeat"
+      "SPANISH": "Repites ",
+      "ENGLISH": "You repeat"
     },
     "EL": {
-      "SPANISH": "repite ",
-      "ENGLISH": "s/he repeats, you (formal) repeats"
+      "SPANISH": "Repite ",
+      "ENGLISH": "He repeats"
     },
     "ELLOS": {
-      "SPANISH": "repiten ",
-      "ENGLISH": "they repeat, you (plural formal) repeat"
+      "SPANISH": "Repiten ",
+      "ENGLISH": "They repeat"
     },
     "NOSOTROS": {
-      "SPANISH": "repetimos",
-      "ENGLISH": "we repeat"
+      "SPANISH": "Repetimos",
+      "ENGLISH": "We repeat"
     },
     "VOSOTROS": {
-      "SPANISH": "repetís",
-      "ENGLISH": "you (plural) repeat"
+      "SPANISH": "Repetís",
+      "ENGLISH": "You repeat"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he repetido",
+      "SPANISH": "He repetido",
       "ENGLISH": "I have repeated"
     },
     "TU": {
-      "SPANISH": "has repetido",
-      "ENGLISH": "you have repeated"
+      "SPANISH": "Has repetido",
+      "ENGLISH": "You have repeated"
     },
     "EL": {
-      "SPANISH": "ha repetido",
-      "ENGLISH": "s/he has repeated, you (formal) have repeated"
+      "SPANISH": "Ha repetido",
+      "ENGLISH": "He has repeated"
     },
     "ELLOS": {
-      "SPANISH": "han repetido",
-      "ENGLISH": "they have repeated, you (plural formal) have repeated"
+      "SPANISH": "Han repetido",
+      "ENGLISH": "They have repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos repetido",
-      "ENGLISH": "we have repeated"
+      "SPANISH": "Hemos repetido",
+      "ENGLISH": "We have repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis repetido",
-      "ENGLISH": "you (plural) have repeated"
+      "SPANISH": "Habéis repetido",
+      "ENGLISH": "You have repeated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "repetí",
+      "SPANISH": "Repetí",
       "ENGLISH": "I repeated"
     },
     "TU": {
-      "SPANISH": "repetiste",
-      "ENGLISH": "you repeated"
+      "SPANISH": "Repetiste",
+      "ENGLISH": "You repeated"
     },
     "EL": {
-      "SPANISH": "repitió ",
-      "ENGLISH": "s/he repeated, you (formal) repeated"
+      "SPANISH": "Repitió ",
+      "ENGLISH": "He repeated"
     },
     "ELLOS": {
-      "SPANISH": "repitieron ",
-      "ENGLISH": "they repeated, you (plural formal) repeated"
+      "SPANISH": "Repitieron ",
+      "ENGLISH": "They repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "repetimos",
-      "ENGLISH": "we repeated"
+      "SPANISH": "Repetimos",
+      "ENGLISH": "We repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "repetisteis",
-      "ENGLISH": "you (plural) repeated"
+      "SPANISH": "Repetisteis",
+      "ENGLISH": "You repeated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había repetido",
+      "SPANISH": "Había repetido",
       "ENGLISH": "I had repeated"
     },
     "TU": {
-      "SPANISH": "habías repetido",
-      "ENGLISH": "you had repeated"
+      "SPANISH": "Habías repetido",
+      "ENGLISH": "You had repeated"
     },
     "EL": {
-      "SPANISH": "había repetido",
-      "ENGLISH": "s/he had repeated, you (formal) had repeated"
+      "SPANISH": "Había repetido",
+      "ENGLISH": "He had repeated"
     },
     "ELLOS": {
-      "SPANISH": "habían repetido",
-      "ENGLISH": "they had repeated, you (plural formal) had repeated"
+      "SPANISH": "Habían repetido",
+      "ENGLISH": "They had repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos repetido",
-      "ENGLISH": "we had repeated"
+      "SPANISH": "Habíamos repetido",
+      "ENGLISH": "We had repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais repetido",
-      "ENGLISH": "you (plural) had repeated"
+      "SPANISH": "Habíais repetido",
+      "ENGLISH": "You had repeated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "repetí",
+      "SPANISH": "Repetí",
       "ENGLISH": "I repeated"
     },
     "TU": {
-      "SPANISH": "repetiste",
-      "ENGLISH": "you repeated"
+      "SPANISH": "Repetiste",
+      "ENGLISH": "You repeated"
     },
     "EL": {
-      "SPANISH": "repitió ",
-      "ENGLISH": "s/he repeated, you (formal) repeated"
+      "SPANISH": "Repitió ",
+      "ENGLISH": "He repeated"
     },
     "ELLOS": {
-      "SPANISH": "repitieron ",
-      "ENGLISH": "they repeated, you (plural formal) repeated"
+      "SPANISH": "Repitieron ",
+      "ENGLISH": "They repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "repetimos",
-      "ENGLISH": "we repeated"
+      "SPANISH": "Repetimos",
+      "ENGLISH": "We repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "repetisteis",
-      "ENGLISH": "you (plural) repeated"
+      "SPANISH": "Repetisteis",
+      "ENGLISH": "You repeated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "repetiré",
+      "SPANISH": "Repetiré",
       "ENGLISH": "I will repeat"
     },
     "TU": {
-      "SPANISH": "repetirás",
-      "ENGLISH": "you will repeat"
+      "SPANISH": "Repetirás",
+      "ENGLISH": "You will repeat"
     },
     "EL": {
-      "SPANISH": "repetirá",
-      "ENGLISH": "s/he will repeat, you (formal) will repeat"
+      "SPANISH": "Repetirá",
+      "ENGLISH": "He will repeat"
     },
     "ELLOS": {
-      "SPANISH": "repetirán",
-      "ENGLISH": "they will repeat, you (plural formal) will repeat"
+      "SPANISH": "Repetirán",
+      "ENGLISH": "They will repeat"
     },
     "NOSOTROS": {
-      "SPANISH": "repetiremos",
-      "ENGLISH": "we will repeat"
+      "SPANISH": "Repetiremos",
+      "ENGLISH": "We will repeat"
     },
     "VOSOTROS": {
-      "SPANISH": "repetiréis",
-      "ENGLISH": "you (plural) will repeat"
+      "SPANISH": "Repetiréis",
+      "ENGLISH": "You will repeat"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré repetido",
+      "SPANISH": "Habré repetido",
       "ENGLISH": "I will have repeated"
     },
     "TU": {
-      "SPANISH": "habrás repetido",
-      "ENGLISH": "you will have repeated"
+      "SPANISH": "Habrás repetido",
+      "ENGLISH": "You will have repeated"
     },
     "EL": {
-      "SPANISH": "habrá repetido",
-      "ENGLISH": "s/he will have repeated, you (formal) will have repeated"
+      "SPANISH": "Habrá repetido",
+      "ENGLISH": "He will have repeated"
     },
     "ELLOS": {
-      "SPANISH": "habrán repetido",
-      "ENGLISH": "they will have repeated, you (plural formal) will have repeated"
+      "SPANISH": "Habrán repetido",
+      "ENGLISH": "They will have repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos repetido",
-      "ENGLISH": "we will have repeated"
+      "SPANISH": "Habremos repetido",
+      "ENGLISH": "We will have repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis repetido",
-      "ENGLISH": "you (plural) will have repeated"
+      "SPANISH": "Habréis repetido",
+      "ENGLISH": "You will have repeated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "repetiría",
+      "SPANISH": "Repetiría",
       "ENGLISH": "I would repeat"
     },
     "TU": {
-      "SPANISH": "repetirías",
-      "ENGLISH": "you would repeat"
+      "SPANISH": "Repetirías",
+      "ENGLISH": "You would repeat"
     },
     "EL": {
-      "SPANISH": "repetiría",
-      "ENGLISH": "s/he would repeat, you (formal) would repeat"
+      "SPANISH": "Repetiría",
+      "ENGLISH": "He would repeat"
     },
     "ELLOS": {
-      "SPANISH": "repetirían",
-      "ENGLISH": "they would repeat, you (plural formal) would repeat"
+      "SPANISH": "Repetirían",
+      "ENGLISH": "They would repeat"
     },
     "NOSOTROS": {
-      "SPANISH": "repetiríamos",
-      "ENGLISH": "we would repeat"
+      "SPANISH": "Repetiríamos",
+      "ENGLISH": "We would repeat"
     },
     "VOSOTROS": {
-      "SPANISH": "repetiríais",
-      "ENGLISH": "you (plural) would repeat"
+      "SPANISH": "Repetiríais",
+      "ENGLISH": "You would repeat"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría repetido",
+      "SPANISH": "Habría repetido",
       "ENGLISH": "I would have repeated"
     },
     "TU": {
-      "SPANISH": "habrías repetido",
-      "ENGLISH": "you would have repeated"
+      "SPANISH": "Habrías repetido",
+      "ENGLISH": "You would have repeated"
     },
     "EL": {
-      "SPANISH": "habría repetido",
-      "ENGLISH": "s/he would have repeated, you (formal) would have repeated"
+      "SPANISH": "Habría repetido",
+      "ENGLISH": "He would have repeated"
     },
     "ELLOS": {
-      "SPANISH": "habrían repetido",
-      "ENGLISH": "they would have repeated, you (plural formal) would have repeated"
+      "SPANISH": "Habrían repetido",
+      "ENGLISH": "They would have repeated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos repetido",
-      "ENGLISH": "we would have repeated"
+      "SPANISH": "Habríamos repetido",
+      "ENGLISH": "We would have repeated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais repetido",
-      "ENGLISH": "you (plural) would have repeated"
+      "SPANISH": "Habríais repetido",
+      "ENGLISH": "You would have repeated"
     }
   }
 }

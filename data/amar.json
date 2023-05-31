@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "amo",
+      "SPANISH": "Amo",
       "ENGLISH": "I love"
     },
     "TU": {
-      "SPANISH": "amas",
-      "ENGLISH": "you love"
+      "SPANISH": "Amas",
+      "ENGLISH": "You love"
     },
     "EL": {
-      "SPANISH": "ama",
-      "ENGLISH": "s/he loves, you (formal) loves"
+      "SPANISH": "Ama",
+      "ENGLISH": "He loves"
     },
     "ELLOS": {
-      "SPANISH": "aman",
-      "ENGLISH": "they love, you (plural formal) love"
+      "SPANISH": "Aman",
+      "ENGLISH": "They love"
     },
     "NOSOTROS": {
-      "SPANISH": "amamos",
-      "ENGLISH": "we love"
+      "SPANISH": "Amamos",
+      "ENGLISH": "We love"
     },
     "VOSOTROS": {
-      "SPANISH": "amáis",
-      "ENGLISH": "you (plural) love"
+      "SPANISH": "Amáis",
+      "ENGLISH": "You love"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he amado",
+      "SPANISH": "He amado",
       "ENGLISH": "I have loved"
     },
     "TU": {
-      "SPANISH": "has amado",
-      "ENGLISH": "you have loved"
+      "SPANISH": "Has amado",
+      "ENGLISH": "You have loved"
     },
     "EL": {
-      "SPANISH": "ha amado",
-      "ENGLISH": "s/he has loved, you (formal) have loved"
+      "SPANISH": "Ha amado",
+      "ENGLISH": "He has loved"
     },
     "ELLOS": {
-      "SPANISH": "han amado",
-      "ENGLISH": "they have loved, you (plural formal) have loved"
+      "SPANISH": "Han amado",
+      "ENGLISH": "They have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos amado",
-      "ENGLISH": "we have loved"
+      "SPANISH": "Hemos amado",
+      "ENGLISH": "We have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis amado",
-      "ENGLISH": "you (plural) have loved"
+      "SPANISH": "Habéis amado",
+      "ENGLISH": "You have loved"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "amé",
+      "SPANISH": "Amé",
       "ENGLISH": "I loved"
     },
     "TU": {
-      "SPANISH": "amaste",
-      "ENGLISH": "you loved"
+      "SPANISH": "Amaste",
+      "ENGLISH": "You loved"
     },
     "EL": {
-      "SPANISH": "amó",
-      "ENGLISH": "s/he loved, you (formal) loved"
+      "SPANISH": "Amó",
+      "ENGLISH": "He loved"
     },
     "ELLOS": {
-      "SPANISH": "amaron",
-      "ENGLISH": "they loved, you (plural formal) loved"
+      "SPANISH": "Amaron",
+      "ENGLISH": "They loved"
     },
     "NOSOTROS": {
-      "SPANISH": "amamos",
-      "ENGLISH": "we loved"
+      "SPANISH": "Amamos",
+      "ENGLISH": "We loved"
     },
     "VOSOTROS": {
-      "SPANISH": "amasteis",
-      "ENGLISH": "you (plural) loved"
+      "SPANISH": "Amasteis",
+      "ENGLISH": "You loved"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había amado",
+      "SPANISH": "Había amado",
       "ENGLISH": "I had loved"
     },
     "TU": {
-      "SPANISH": "habías amado",
-      "ENGLISH": "you had loved"
+      "SPANISH": "Habías amado",
+      "ENGLISH": "You had loved"
     },
     "EL": {
-      "SPANISH": "había amado",
-      "ENGLISH": "s/he had loved, you (formal) had loved"
+      "SPANISH": "Había amado",
+      "ENGLISH": "He had loved"
     },
     "ELLOS": {
-      "SPANISH": "habían amado",
-      "ENGLISH": "they had loved, you (plural formal) had loved"
+      "SPANISH": "Habían amado",
+      "ENGLISH": "They had loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos amado",
-      "ENGLISH": "we had loved"
+      "SPANISH": "Habíamos amado",
+      "ENGLISH": "We had loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais amado",
-      "ENGLISH": "you (plural) had loved"
+      "SPANISH": "Habíais amado",
+      "ENGLISH": "You had loved"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "amé",
+      "SPANISH": "Amé",
       "ENGLISH": "I loved"
     },
     "TU": {
-      "SPANISH": "amaste",
-      "ENGLISH": "you loved"
+      "SPANISH": "Amaste",
+      "ENGLISH": "You loved"
     },
     "EL": {
-      "SPANISH": "amó",
-      "ENGLISH": "s/he loved, you (formal) loved"
+      "SPANISH": "Amó",
+      "ENGLISH": "He loved"
     },
     "ELLOS": {
-      "SPANISH": "amaron",
-      "ENGLISH": "they loved, you (plural formal) loved"
+      "SPANISH": "Amaron",
+      "ENGLISH": "They loved"
     },
     "NOSOTROS": {
-      "SPANISH": "amamos",
-      "ENGLISH": "we loved"
+      "SPANISH": "Amamos",
+      "ENGLISH": "We loved"
     },
     "VOSOTROS": {
-      "SPANISH": "amasteis",
-      "ENGLISH": "you (plural) loved"
+      "SPANISH": "Amasteis",
+      "ENGLISH": "You loved"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "amaré",
+      "SPANISH": "Amaré",
       "ENGLISH": "I will love"
     },
     "TU": {
-      "SPANISH": "amarás",
-      "ENGLISH": "you will love"
+      "SPANISH": "Amarás",
+      "ENGLISH": "You will love"
     },
     "EL": {
-      "SPANISH": "amará",
-      "ENGLISH": "s/he will love, you (formal) will love"
+      "SPANISH": "Amará",
+      "ENGLISH": "He will love"
     },
     "ELLOS": {
-      "SPANISH": "amarán",
-      "ENGLISH": "they will love, you (plural formal) will love"
+      "SPANISH": "Amarán",
+      "ENGLISH": "They will love"
     },
     "NOSOTROS": {
-      "SPANISH": "amaremos",
-      "ENGLISH": "we will love"
+      "SPANISH": "Amaremos",
+      "ENGLISH": "We will love"
     },
     "VOSOTROS": {
-      "SPANISH": "amaréis",
-      "ENGLISH": "you (plural) will love"
+      "SPANISH": "Amaréis",
+      "ENGLISH": "You will love"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré amado",
+      "SPANISH": "Habré amado",
       "ENGLISH": "I will have loved"
     },
     "TU": {
-      "SPANISH": "habrás amado",
-      "ENGLISH": "you will have loved"
+      "SPANISH": "Habrás amado",
+      "ENGLISH": "You will have loved"
     },
     "EL": {
-      "SPANISH": "habrá amado",
-      "ENGLISH": "s/he will have loved, you (formal) will have loved"
+      "SPANISH": "Habrá amado",
+      "ENGLISH": "He will have loved"
     },
     "ELLOS": {
-      "SPANISH": "habrán amado",
-      "ENGLISH": "they will have loved, you (plural formal) will have loved"
+      "SPANISH": "Habrán amado",
+      "ENGLISH": "They will have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos amado",
-      "ENGLISH": "we will have loved"
+      "SPANISH": "Habremos amado",
+      "ENGLISH": "We will have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis amado",
-      "ENGLISH": "you (plural) will have loved"
+      "SPANISH": "Habréis amado",
+      "ENGLISH": "You will have loved"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "amaría",
+      "SPANISH": "Amaría",
       "ENGLISH": "I would love"
     },
     "TU": {
-      "SPANISH": "amarías",
-      "ENGLISH": "you would love"
+      "SPANISH": "Amarías",
+      "ENGLISH": "You would love"
     },
     "EL": {
-      "SPANISH": "amaría",
-      "ENGLISH": "s/he would love, you (formal) would love"
+      "SPANISH": "Amaría",
+      "ENGLISH": "He would love"
     },
     "ELLOS": {
-      "SPANISH": "amarían",
-      "ENGLISH": "they would love, you (plural formal) would love"
+      "SPANISH": "Amarían",
+      "ENGLISH": "They would love"
     },
     "NOSOTROS": {
-      "SPANISH": "amaríamos",
-      "ENGLISH": "we would love"
+      "SPANISH": "Amaríamos",
+      "ENGLISH": "We would love"
     },
     "VOSOTROS": {
-      "SPANISH": "amaríais",
-      "ENGLISH": "you (plural) would love"
+      "SPANISH": "Amaríais",
+      "ENGLISH": "You would love"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría amado",
+      "SPANISH": "Habría amado",
       "ENGLISH": "I would have loved"
     },
     "TU": {
-      "SPANISH": "habrías amado",
-      "ENGLISH": "you would have loved"
+      "SPANISH": "Habrías amado",
+      "ENGLISH": "You would have loved"
     },
     "EL": {
-      "SPANISH": "habría amado",
-      "ENGLISH": "s/he would have loved, you (formal) would have loved"
+      "SPANISH": "Habría amado",
+      "ENGLISH": "He would have loved"
     },
     "ELLOS": {
-      "SPANISH": "habrían amado",
-      "ENGLISH": "they would have loved, you (plural formal) would have loved"
+      "SPANISH": "Habrían amado",
+      "ENGLISH": "They would have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos amado",
-      "ENGLISH": "we would have loved"
+      "SPANISH": "Habríamos amado",
+      "ENGLISH": "We would have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais amado",
-      "ENGLISH": "you (plural) would have loved"
+      "SPANISH": "Habríais amado",
+      "ENGLISH": "You would have loved"
     }
   }
 }

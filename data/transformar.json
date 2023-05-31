@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "transformo",
+      "SPANISH": "Transformo",
       "ENGLISH": "I transform"
     },
     "TU": {
-      "SPANISH": "transformas",
-      "ENGLISH": "you transform"
+      "SPANISH": "Transformas",
+      "ENGLISH": "You transform"
     },
     "EL": {
-      "SPANISH": "transforma",
-      "ENGLISH": "s/he transforms, you (formal) transforms"
+      "SPANISH": "Transforma",
+      "ENGLISH": "He transforms"
     },
     "ELLOS": {
-      "SPANISH": "transforman",
-      "ENGLISH": "they transform, you (plural formal) transform"
+      "SPANISH": "Transforman",
+      "ENGLISH": "They transform"
     },
     "NOSOTROS": {
-      "SPANISH": "transformamos",
-      "ENGLISH": "we transform"
+      "SPANISH": "Transformamos",
+      "ENGLISH": "We transform"
     },
     "VOSOTROS": {
-      "SPANISH": "transformáis",
-      "ENGLISH": "you (plural) transform"
+      "SPANISH": "Transformáis",
+      "ENGLISH": "You transform"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he transformado",
+      "SPANISH": "He transformado",
       "ENGLISH": "I have transformed"
     },
     "TU": {
-      "SPANISH": "has transformado",
-      "ENGLISH": "you have transformed"
+      "SPANISH": "Has transformado",
+      "ENGLISH": "You have transformed"
     },
     "EL": {
-      "SPANISH": "ha transformado",
-      "ENGLISH": "s/he has transformed, you (formal) have transformed"
+      "SPANISH": "Ha transformado",
+      "ENGLISH": "He has transformed"
     },
     "ELLOS": {
-      "SPANISH": "han transformado",
-      "ENGLISH": "they have transformed, you (plural formal) have transformed"
+      "SPANISH": "Han transformado",
+      "ENGLISH": "They have transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos transformado",
-      "ENGLISH": "we have transformed"
+      "SPANISH": "Hemos transformado",
+      "ENGLISH": "We have transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis transformado",
-      "ENGLISH": "you (plural) have transformed"
+      "SPANISH": "Habéis transformado",
+      "ENGLISH": "You have transformed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "transformé",
+      "SPANISH": "Transformé",
       "ENGLISH": "I transformed"
     },
     "TU": {
-      "SPANISH": "transformaste",
-      "ENGLISH": "you transformed"
+      "SPANISH": "Transformaste",
+      "ENGLISH": "You transformed"
     },
     "EL": {
-      "SPANISH": "transformó",
-      "ENGLISH": "s/he transformed, you (formal) transformed"
+      "SPANISH": "Transformó",
+      "ENGLISH": "He transformed"
     },
     "ELLOS": {
-      "SPANISH": "transformaron",
-      "ENGLISH": "they transformed, you (plural formal) transformed"
+      "SPANISH": "Transformaron",
+      "ENGLISH": "They transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "transformamos",
-      "ENGLISH": "we transformed"
+      "SPANISH": "Transformamos",
+      "ENGLISH": "We transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "transformasteis",
-      "ENGLISH": "you (plural) transformed"
+      "SPANISH": "Transformasteis",
+      "ENGLISH": "You transformed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había transformado",
+      "SPANISH": "Había transformado",
       "ENGLISH": "I had transformed"
     },
     "TU": {
-      "SPANISH": "habías transformado",
-      "ENGLISH": "you had transformed"
+      "SPANISH": "Habías transformado",
+      "ENGLISH": "You had transformed"
     },
     "EL": {
-      "SPANISH": "había transformado",
-      "ENGLISH": "s/he had transformed, you (formal) had transformed"
+      "SPANISH": "Había transformado",
+      "ENGLISH": "He had transformed"
     },
     "ELLOS": {
-      "SPANISH": "habían transformado",
-      "ENGLISH": "they had transformed, you (plural formal) had transformed"
+      "SPANISH": "Habían transformado",
+      "ENGLISH": "They had transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos transformado",
-      "ENGLISH": "we had transformed"
+      "SPANISH": "Habíamos transformado",
+      "ENGLISH": "We had transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais transformado",
-      "ENGLISH": "you (plural) had transformed"
+      "SPANISH": "Habíais transformado",
+      "ENGLISH": "You had transformed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "transformé",
+      "SPANISH": "Transformé",
       "ENGLISH": "I transformed"
     },
     "TU": {
-      "SPANISH": "transformaste",
-      "ENGLISH": "you transformed"
+      "SPANISH": "Transformaste",
+      "ENGLISH": "You transformed"
     },
     "EL": {
-      "SPANISH": "transformó",
-      "ENGLISH": "s/he transformed, you (formal) transformed"
+      "SPANISH": "Transformó",
+      "ENGLISH": "He transformed"
     },
     "ELLOS": {
-      "SPANISH": "transformaron",
-      "ENGLISH": "they transformed, you (plural formal) transformed"
+      "SPANISH": "Transformaron",
+      "ENGLISH": "They transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "transformamos",
-      "ENGLISH": "we transformed"
+      "SPANISH": "Transformamos",
+      "ENGLISH": "We transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "transformasteis",
-      "ENGLISH": "you (plural) transformed"
+      "SPANISH": "Transformasteis",
+      "ENGLISH": "You transformed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "transformaré",
+      "SPANISH": "Transformaré",
       "ENGLISH": "I will transform"
     },
     "TU": {
-      "SPANISH": "transformarás",
-      "ENGLISH": "you will transform"
+      "SPANISH": "Transformarás",
+      "ENGLISH": "You will transform"
     },
     "EL": {
-      "SPANISH": "transformará",
-      "ENGLISH": "s/he will transform, you (formal) will transform"
+      "SPANISH": "Transformará",
+      "ENGLISH": "He will transform"
     },
     "ELLOS": {
-      "SPANISH": "transformarán",
-      "ENGLISH": "they will transform, you (plural formal) will transform"
+      "SPANISH": "Transformarán",
+      "ENGLISH": "They will transform"
     },
     "NOSOTROS": {
-      "SPANISH": "transformaremos",
-      "ENGLISH": "we will transform"
+      "SPANISH": "Transformaremos",
+      "ENGLISH": "We will transform"
     },
     "VOSOTROS": {
-      "SPANISH": "transformaréis",
-      "ENGLISH": "you (plural) will transform"
+      "SPANISH": "Transformaréis",
+      "ENGLISH": "You will transform"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré transformado",
+      "SPANISH": "Habré transformado",
       "ENGLISH": "I will have transformed"
     },
     "TU": {
-      "SPANISH": "habrás transformado",
-      "ENGLISH": "you will have transformed"
+      "SPANISH": "Habrás transformado",
+      "ENGLISH": "You will have transformed"
     },
     "EL": {
-      "SPANISH": "habrá transformado",
-      "ENGLISH": "s/he will have transformed, you (formal) will have transformed"
+      "SPANISH": "Habrá transformado",
+      "ENGLISH": "He will have transformed"
     },
     "ELLOS": {
-      "SPANISH": "habrán transformado",
-      "ENGLISH": "they will have transformed, you (plural formal) will have transformed"
+      "SPANISH": "Habrán transformado",
+      "ENGLISH": "They will have transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos transformado",
-      "ENGLISH": "we will have transformed"
+      "SPANISH": "Habremos transformado",
+      "ENGLISH": "We will have transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis transformado",
-      "ENGLISH": "you (plural) will have transformed"
+      "SPANISH": "Habréis transformado",
+      "ENGLISH": "You will have transformed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "transformaría",
+      "SPANISH": "Transformaría",
       "ENGLISH": "I would transform"
     },
     "TU": {
-      "SPANISH": "transformarías",
-      "ENGLISH": "you would transform"
+      "SPANISH": "Transformarías",
+      "ENGLISH": "You would transform"
     },
     "EL": {
-      "SPANISH": "transformaría",
-      "ENGLISH": "s/he would transform, you (formal) would transform"
+      "SPANISH": "Transformaría",
+      "ENGLISH": "He would transform"
     },
     "ELLOS": {
-      "SPANISH": "transformarían",
-      "ENGLISH": "they would transform, you (plural formal) would transform"
+      "SPANISH": "Transformarían",
+      "ENGLISH": "They would transform"
     },
     "NOSOTROS": {
-      "SPANISH": "transformaríamos",
-      "ENGLISH": "we would transform"
+      "SPANISH": "Transformaríamos",
+      "ENGLISH": "We would transform"
     },
     "VOSOTROS": {
-      "SPANISH": "transformaríais",
-      "ENGLISH": "you (plural) would transform"
+      "SPANISH": "Transformaríais",
+      "ENGLISH": "You would transform"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría transformado",
+      "SPANISH": "Habría transformado",
       "ENGLISH": "I would have transformed"
     },
     "TU": {
-      "SPANISH": "habrías transformado",
-      "ENGLISH": "you would have transformed"
+      "SPANISH": "Habrías transformado",
+      "ENGLISH": "You would have transformed"
     },
     "EL": {
-      "SPANISH": "habría transformado",
-      "ENGLISH": "s/he would have transformed, you (formal) would have transformed"
+      "SPANISH": "Habría transformado",
+      "ENGLISH": "He would have transformed"
     },
     "ELLOS": {
-      "SPANISH": "habrían transformado",
-      "ENGLISH": "they would have transformed, you (plural formal) would have transformed"
+      "SPANISH": "Habrían transformado",
+      "ENGLISH": "They would have transformed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos transformado",
-      "ENGLISH": "we would have transformed"
+      "SPANISH": "Habríamos transformado",
+      "ENGLISH": "We would have transformed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais transformado",
-      "ENGLISH": "you (plural) would have transformed"
+      "SPANISH": "Habríais transformado",
+      "ENGLISH": "You would have transformed"
     }
   }
 }

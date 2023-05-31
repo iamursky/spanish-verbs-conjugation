@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "avanzo",
+      "SPANISH": "Avanzo",
       "ENGLISH": "I advance"
     },
     "TU": {
-      "SPANISH": "avanzas",
-      "ENGLISH": "you advance"
+      "SPANISH": "Avanzas",
+      "ENGLISH": "You advance"
     },
     "EL": {
-      "SPANISH": "avanza",
-      "ENGLISH": "s/he advances, you (formal) advances"
+      "SPANISH": "Avanza",
+      "ENGLISH": "He advances"
     },
     "ELLOS": {
-      "SPANISH": "avanzan",
-      "ENGLISH": "they advance, you (plural formal) advance"
+      "SPANISH": "Avanzan",
+      "ENGLISH": "They advance"
     },
     "NOSOTROS": {
-      "SPANISH": "avanzamos",
-      "ENGLISH": "we advance"
+      "SPANISH": "Avanzamos",
+      "ENGLISH": "We advance"
     },
     "VOSOTROS": {
-      "SPANISH": "avanzáis",
-      "ENGLISH": "you (plural) advance"
+      "SPANISH": "Avanzáis",
+      "ENGLISH": "You advance"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he avanzado",
+      "SPANISH": "He avanzado",
       "ENGLISH": "I have advanced"
     },
     "TU": {
-      "SPANISH": "has avanzado",
-      "ENGLISH": "you have advanced"
+      "SPANISH": "Has avanzado",
+      "ENGLISH": "You have advanced"
     },
     "EL": {
-      "SPANISH": "ha avanzado",
-      "ENGLISH": "s/he has advanced, you (formal) have advanced"
+      "SPANISH": "Ha avanzado",
+      "ENGLISH": "He has advanced"
     },
     "ELLOS": {
-      "SPANISH": "han avanzado",
-      "ENGLISH": "they have advanced, you (plural formal) have advanced"
+      "SPANISH": "Han avanzado",
+      "ENGLISH": "They have advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos avanzado",
-      "ENGLISH": "we have advanced"
+      "SPANISH": "Hemos avanzado",
+      "ENGLISH": "We have advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis avanzado",
-      "ENGLISH": "you (plural) have advanced"
+      "SPANISH": "Habéis avanzado",
+      "ENGLISH": "You have advanced"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "avancé ",
+      "SPANISH": "Avancé ",
       "ENGLISH": "I advanced"
     },
     "TU": {
-      "SPANISH": "avanzaste",
-      "ENGLISH": "you advanced"
+      "SPANISH": "Avanzaste",
+      "ENGLISH": "You advanced"
     },
     "EL": {
-      "SPANISH": "avanzó",
-      "ENGLISH": "s/he advanced, you (formal) advanced"
+      "SPANISH": "Avanzó",
+      "ENGLISH": "He advanced"
     },
     "ELLOS": {
-      "SPANISH": "avanzaron",
-      "ENGLISH": "they advanced, you (plural formal) advanced"
+      "SPANISH": "Avanzaron",
+      "ENGLISH": "They advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "avanzamos",
-      "ENGLISH": "we advanced"
+      "SPANISH": "Avanzamos",
+      "ENGLISH": "We advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "avanzasteis",
-      "ENGLISH": "you (plural) advanced"
+      "SPANISH": "Avanzasteis",
+      "ENGLISH": "You advanced"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había avanzado",
+      "SPANISH": "Había avanzado",
       "ENGLISH": "I had advanced"
     },
     "TU": {
-      "SPANISH": "habías avanzado",
-      "ENGLISH": "you had advanced"
+      "SPANISH": "Habías avanzado",
+      "ENGLISH": "You had advanced"
     },
     "EL": {
-      "SPANISH": "había avanzado",
-      "ENGLISH": "s/he had advanced, you (formal) had advanced"
+      "SPANISH": "Había avanzado",
+      "ENGLISH": "He had advanced"
     },
     "ELLOS": {
-      "SPANISH": "habían avanzado",
-      "ENGLISH": "they had advanced, you (plural formal) had advanced"
+      "SPANISH": "Habían avanzado",
+      "ENGLISH": "They had advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos avanzado",
-      "ENGLISH": "we had advanced"
+      "SPANISH": "Habíamos avanzado",
+      "ENGLISH": "We had advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais avanzado",
-      "ENGLISH": "you (plural) had advanced"
+      "SPANISH": "Habíais avanzado",
+      "ENGLISH": "You had advanced"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "avancé ",
+      "SPANISH": "Avancé ",
       "ENGLISH": "I advanced"
     },
     "TU": {
-      "SPANISH": "avanzaste",
-      "ENGLISH": "you advanced"
+      "SPANISH": "Avanzaste",
+      "ENGLISH": "You advanced"
     },
     "EL": {
-      "SPANISH": "avanzó",
-      "ENGLISH": "s/he advanced, you (formal) advanced"
+      "SPANISH": "Avanzó",
+      "ENGLISH": "He advanced"
     },
     "ELLOS": {
-      "SPANISH": "avanzaron",
-      "ENGLISH": "they advanced, you (plural formal) advanced"
+      "SPANISH": "Avanzaron",
+      "ENGLISH": "They advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "avanzamos",
-      "ENGLISH": "we advanced"
+      "SPANISH": "Avanzamos",
+      "ENGLISH": "We advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "avanzasteis",
-      "ENGLISH": "you (plural) advanced"
+      "SPANISH": "Avanzasteis",
+      "ENGLISH": "You advanced"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "avanzaré",
+      "SPANISH": "Avanzaré",
       "ENGLISH": "I will advance"
     },
     "TU": {
-      "SPANISH": "avanzarás",
-      "ENGLISH": "you will advance"
+      "SPANISH": "Avanzarás",
+      "ENGLISH": "You will advance"
     },
     "EL": {
-      "SPANISH": "avanzará",
-      "ENGLISH": "s/he will advance, you (formal) will advance"
+      "SPANISH": "Avanzará",
+      "ENGLISH": "He will advance"
     },
     "ELLOS": {
-      "SPANISH": "avanzarán",
-      "ENGLISH": "they will advance, you (plural formal) will advance"
+      "SPANISH": "Avanzarán",
+      "ENGLISH": "They will advance"
     },
     "NOSOTROS": {
-      "SPANISH": "avanzaremos",
-      "ENGLISH": "we will advance"
+      "SPANISH": "Avanzaremos",
+      "ENGLISH": "We will advance"
     },
     "VOSOTROS": {
-      "SPANISH": "avanzaréis",
-      "ENGLISH": "you (plural) will advance"
+      "SPANISH": "Avanzaréis",
+      "ENGLISH": "You will advance"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré avanzado",
+      "SPANISH": "Habré avanzado",
       "ENGLISH": "I will have advanced"
     },
     "TU": {
-      "SPANISH": "habrás avanzado",
-      "ENGLISH": "you will have advanced"
+      "SPANISH": "Habrás avanzado",
+      "ENGLISH": "You will have advanced"
     },
     "EL": {
-      "SPANISH": "habrá avanzado",
-      "ENGLISH": "s/he will have advanced, you (formal) will have advanced"
+      "SPANISH": "Habrá avanzado",
+      "ENGLISH": "He will have advanced"
     },
     "ELLOS": {
-      "SPANISH": "habrán avanzado",
-      "ENGLISH": "they will have advanced, you (plural formal) will have advanced"
+      "SPANISH": "Habrán avanzado",
+      "ENGLISH": "They will have advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos avanzado",
-      "ENGLISH": "we will have advanced"
+      "SPANISH": "Habremos avanzado",
+      "ENGLISH": "We will have advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis avanzado",
-      "ENGLISH": "you (plural) will have advanced"
+      "SPANISH": "Habréis avanzado",
+      "ENGLISH": "You will have advanced"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "avanzaría",
+      "SPANISH": "Avanzaría",
       "ENGLISH": "I would advance"
     },
     "TU": {
-      "SPANISH": "avanzarías",
-      "ENGLISH": "you would advance"
+      "SPANISH": "Avanzarías",
+      "ENGLISH": "You would advance"
     },
     "EL": {
-      "SPANISH": "avanzaría",
-      "ENGLISH": "s/he would advance, you (formal) would advance"
+      "SPANISH": "Avanzaría",
+      "ENGLISH": "He would advance"
     },
     "ELLOS": {
-      "SPANISH": "avanzarían",
-      "ENGLISH": "they would advance, you (plural formal) would advance"
+      "SPANISH": "Avanzarían",
+      "ENGLISH": "They would advance"
     },
     "NOSOTROS": {
-      "SPANISH": "avanzaríamos",
-      "ENGLISH": "we would advance"
+      "SPANISH": "Avanzaríamos",
+      "ENGLISH": "We would advance"
     },
     "VOSOTROS": {
-      "SPANISH": "avanzaríais",
-      "ENGLISH": "you (plural) would advance"
+      "SPANISH": "Avanzaríais",
+      "ENGLISH": "You would advance"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría avanzado",
+      "SPANISH": "Habría avanzado",
       "ENGLISH": "I would have advanced"
     },
     "TU": {
-      "SPANISH": "habrías avanzado",
-      "ENGLISH": "you would have advanced"
+      "SPANISH": "Habrías avanzado",
+      "ENGLISH": "You would have advanced"
     },
     "EL": {
-      "SPANISH": "habría avanzado",
-      "ENGLISH": "s/he would have advanced, you (formal) would have advanced"
+      "SPANISH": "Habría avanzado",
+      "ENGLISH": "He would have advanced"
     },
     "ELLOS": {
-      "SPANISH": "habrían avanzado",
-      "ENGLISH": "they would have advanced, you (plural formal) would have advanced"
+      "SPANISH": "Habrían avanzado",
+      "ENGLISH": "They would have advanced"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos avanzado",
-      "ENGLISH": "we would have advanced"
+      "SPANISH": "Habríamos avanzado",
+      "ENGLISH": "We would have advanced"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais avanzado",
-      "ENGLISH": "you (plural) would have advanced"
+      "SPANISH": "Habríais avanzado",
+      "ENGLISH": "You would have advanced"
     }
   }
 }

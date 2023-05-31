@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "consisto",
+      "SPANISH": "Consisto",
       "ENGLISH": "I consist"
     },
     "TU": {
-      "SPANISH": "consistes",
-      "ENGLISH": "you consist"
+      "SPANISH": "Consistes",
+      "ENGLISH": "You consist"
     },
     "EL": {
-      "SPANISH": "consiste",
-      "ENGLISH": "s/he consists, you (formal) consists"
+      "SPANISH": "Consiste",
+      "ENGLISH": "He consists"
     },
     "ELLOS": {
-      "SPANISH": "consisten",
-      "ENGLISH": "they consist, you (plural formal) consist"
+      "SPANISH": "Consisten",
+      "ENGLISH": "They consist"
     },
     "NOSOTROS": {
-      "SPANISH": "consistimos",
-      "ENGLISH": "we consist"
+      "SPANISH": "Consistimos",
+      "ENGLISH": "We consist"
     },
     "VOSOTROS": {
-      "SPANISH": "consistís",
-      "ENGLISH": "you (plural) consist"
+      "SPANISH": "Consistís",
+      "ENGLISH": "You consist"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he consistido",
+      "SPANISH": "He consistido",
       "ENGLISH": "I have consisted"
     },
     "TU": {
-      "SPANISH": "has consistido",
-      "ENGLISH": "you have consisted"
+      "SPANISH": "Has consistido",
+      "ENGLISH": "You have consisted"
     },
     "EL": {
-      "SPANISH": "ha consistido",
-      "ENGLISH": "s/he has consisted, you (formal) have consisted"
+      "SPANISH": "Ha consistido",
+      "ENGLISH": "He has consisted"
     },
     "ELLOS": {
-      "SPANISH": "han consistido",
-      "ENGLISH": "they have consisted, you (plural formal) have consisted"
+      "SPANISH": "Han consistido",
+      "ENGLISH": "They have consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos consistido",
-      "ENGLISH": "we have consisted"
+      "SPANISH": "Hemos consistido",
+      "ENGLISH": "We have consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis consistido",
-      "ENGLISH": "you (plural) have consisted"
+      "SPANISH": "Habéis consistido",
+      "ENGLISH": "You have consisted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "consistí",
+      "SPANISH": "Consistí",
       "ENGLISH": "I consisted"
     },
     "TU": {
-      "SPANISH": "consististe",
-      "ENGLISH": "you consisted"
+      "SPANISH": "Consististe",
+      "ENGLISH": "You consisted"
     },
     "EL": {
-      "SPANISH": "consistió",
-      "ENGLISH": "s/he consisted, you (formal) consisted"
+      "SPANISH": "Consistió",
+      "ENGLISH": "He consisted"
     },
     "ELLOS": {
-      "SPANISH": "consistieron",
-      "ENGLISH": "they consisted, you (plural formal) consisted"
+      "SPANISH": "Consistieron",
+      "ENGLISH": "They consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "consistimos",
-      "ENGLISH": "we consisted"
+      "SPANISH": "Consistimos",
+      "ENGLISH": "We consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "consististeis",
-      "ENGLISH": "you (plural) consisted"
+      "SPANISH": "Consististeis",
+      "ENGLISH": "You consisted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había consistido",
+      "SPANISH": "Había consistido",
       "ENGLISH": "I had consisted"
     },
     "TU": {
-      "SPANISH": "habías consistido",
-      "ENGLISH": "you had consisted"
+      "SPANISH": "Habías consistido",
+      "ENGLISH": "You had consisted"
     },
     "EL": {
-      "SPANISH": "había consistido",
-      "ENGLISH": "s/he had consisted, you (formal) had consisted"
+      "SPANISH": "Había consistido",
+      "ENGLISH": "He had consisted"
     },
     "ELLOS": {
-      "SPANISH": "habían consistido",
-      "ENGLISH": "they had consisted, you (plural formal) had consisted"
+      "SPANISH": "Habían consistido",
+      "ENGLISH": "They had consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos consistido",
-      "ENGLISH": "we had consisted"
+      "SPANISH": "Habíamos consistido",
+      "ENGLISH": "We had consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais consistido",
-      "ENGLISH": "you (plural) had consisted"
+      "SPANISH": "Habíais consistido",
+      "ENGLISH": "You had consisted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "consistí",
+      "SPANISH": "Consistí",
       "ENGLISH": "I consisted"
     },
     "TU": {
-      "SPANISH": "consististe",
-      "ENGLISH": "you consisted"
+      "SPANISH": "Consististe",
+      "ENGLISH": "You consisted"
     },
     "EL": {
-      "SPANISH": "consistió",
-      "ENGLISH": "s/he consisted, you (formal) consisted"
+      "SPANISH": "Consistió",
+      "ENGLISH": "He consisted"
     },
     "ELLOS": {
-      "SPANISH": "consistieron",
-      "ENGLISH": "they consisted, you (plural formal) consisted"
+      "SPANISH": "Consistieron",
+      "ENGLISH": "They consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "consistimos",
-      "ENGLISH": "we consisted"
+      "SPANISH": "Consistimos",
+      "ENGLISH": "We consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "consististeis",
-      "ENGLISH": "you (plural) consisted"
+      "SPANISH": "Consististeis",
+      "ENGLISH": "You consisted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "consistiré",
+      "SPANISH": "Consistiré",
       "ENGLISH": "I will consist"
     },
     "TU": {
-      "SPANISH": "consistirás",
-      "ENGLISH": "you will consist"
+      "SPANISH": "Consistirás",
+      "ENGLISH": "You will consist"
     },
     "EL": {
-      "SPANISH": "consistirá",
-      "ENGLISH": "s/he will consist, you (formal) will consist"
+      "SPANISH": "Consistirá",
+      "ENGLISH": "He will consist"
     },
     "ELLOS": {
-      "SPANISH": "consistirán",
-      "ENGLISH": "they will consist, you (plural formal) will consist"
+      "SPANISH": "Consistirán",
+      "ENGLISH": "They will consist"
     },
     "NOSOTROS": {
-      "SPANISH": "consistiremos",
-      "ENGLISH": "we will consist"
+      "SPANISH": "Consistiremos",
+      "ENGLISH": "We will consist"
     },
     "VOSOTROS": {
-      "SPANISH": "consistiréis",
-      "ENGLISH": "you (plural) will consist"
+      "SPANISH": "Consistiréis",
+      "ENGLISH": "You will consist"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré consistido",
+      "SPANISH": "Habré consistido",
       "ENGLISH": "I will have consisted"
     },
     "TU": {
-      "SPANISH": "habrás consistido",
-      "ENGLISH": "you will have consisted"
+      "SPANISH": "Habrás consistido",
+      "ENGLISH": "You will have consisted"
     },
     "EL": {
-      "SPANISH": "habrá consistido",
-      "ENGLISH": "s/he will have consisted, you (formal) will have consisted"
+      "SPANISH": "Habrá consistido",
+      "ENGLISH": "He will have consisted"
     },
     "ELLOS": {
-      "SPANISH": "habrán consistido",
-      "ENGLISH": "they will have consisted, you (plural formal) will have consisted"
+      "SPANISH": "Habrán consistido",
+      "ENGLISH": "They will have consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos consistido",
-      "ENGLISH": "we will have consisted"
+      "SPANISH": "Habremos consistido",
+      "ENGLISH": "We will have consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis consistido",
-      "ENGLISH": "you (plural) will have consisted"
+      "SPANISH": "Habréis consistido",
+      "ENGLISH": "You will have consisted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "consistiría",
+      "SPANISH": "Consistiría",
       "ENGLISH": "I would consist"
     },
     "TU": {
-      "SPANISH": "consistirías",
-      "ENGLISH": "you would consist"
+      "SPANISH": "Consistirías",
+      "ENGLISH": "You would consist"
     },
     "EL": {
-      "SPANISH": "consistiría",
-      "ENGLISH": "s/he would consist, you (formal) would consist"
+      "SPANISH": "Consistiría",
+      "ENGLISH": "He would consist"
     },
     "ELLOS": {
-      "SPANISH": "consistirían",
-      "ENGLISH": "they would consist, you (plural formal) would consist"
+      "SPANISH": "Consistirían",
+      "ENGLISH": "They would consist"
     },
     "NOSOTROS": {
-      "SPANISH": "consistiríamos",
-      "ENGLISH": "we would consist"
+      "SPANISH": "Consistiríamos",
+      "ENGLISH": "We would consist"
     },
     "VOSOTROS": {
-      "SPANISH": "consistiríais",
-      "ENGLISH": "you (plural) would consist"
+      "SPANISH": "Consistiríais",
+      "ENGLISH": "You would consist"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría consistido",
+      "SPANISH": "Habría consistido",
       "ENGLISH": "I would have consisted"
     },
     "TU": {
-      "SPANISH": "habrías consistido",
-      "ENGLISH": "you would have consisted"
+      "SPANISH": "Habrías consistido",
+      "ENGLISH": "You would have consisted"
     },
     "EL": {
-      "SPANISH": "habría consistido",
-      "ENGLISH": "s/he would have consisted, you (formal) would have consisted"
+      "SPANISH": "Habría consistido",
+      "ENGLISH": "He would have consisted"
     },
     "ELLOS": {
-      "SPANISH": "habrían consistido",
-      "ENGLISH": "they would have consisted, you (plural formal) would have consisted"
+      "SPANISH": "Habrían consistido",
+      "ENGLISH": "They would have consisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos consistido",
-      "ENGLISH": "we would have consisted"
+      "SPANISH": "Habríamos consistido",
+      "ENGLISH": "We would have consisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais consistido",
-      "ENGLISH": "you (plural) would have consisted"
+      "SPANISH": "Habríais consistido",
+      "ENGLISH": "You would have consisted"
     }
   }
 }

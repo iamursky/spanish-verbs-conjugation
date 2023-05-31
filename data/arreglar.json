@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "arreglo",
+      "SPANISH": "Arreglo",
       "ENGLISH": "I fix"
     },
     "TU": {
-      "SPANISH": "arreglas",
-      "ENGLISH": "you fix"
+      "SPANISH": "Arreglas",
+      "ENGLISH": "You fix"
     },
     "EL": {
-      "SPANISH": "arregla",
-      "ENGLISH": "s/he fixes, you (formal) fixes"
+      "SPANISH": "Arregla",
+      "ENGLISH": "He fixes"
     },
     "ELLOS": {
-      "SPANISH": "arreglan",
-      "ENGLISH": "they fix, you (plural formal) fix"
+      "SPANISH": "Arreglan",
+      "ENGLISH": "They fix"
     },
     "NOSOTROS": {
-      "SPANISH": "arreglamos",
-      "ENGLISH": "we fix"
+      "SPANISH": "Arreglamos",
+      "ENGLISH": "We fix"
     },
     "VOSOTROS": {
-      "SPANISH": "arregláis",
-      "ENGLISH": "you (plural) fix"
+      "SPANISH": "Arregláis",
+      "ENGLISH": "You fix"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he arreglado",
+      "SPANISH": "He arreglado",
       "ENGLISH": "I have fixed"
     },
     "TU": {
-      "SPANISH": "has arreglado",
-      "ENGLISH": "you have fixed"
+      "SPANISH": "Has arreglado",
+      "ENGLISH": "You have fixed"
     },
     "EL": {
-      "SPANISH": "ha arreglado",
-      "ENGLISH": "s/he has fixed, you (formal) have fixed"
+      "SPANISH": "Ha arreglado",
+      "ENGLISH": "He has fixed"
     },
     "ELLOS": {
-      "SPANISH": "han arreglado",
-      "ENGLISH": "they have fixed, you (plural formal) have fixed"
+      "SPANISH": "Han arreglado",
+      "ENGLISH": "They have fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos arreglado",
-      "ENGLISH": "we have fixed"
+      "SPANISH": "Hemos arreglado",
+      "ENGLISH": "We have fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis arreglado",
-      "ENGLISH": "you (plural) have fixed"
+      "SPANISH": "Habéis arreglado",
+      "ENGLISH": "You have fixed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "arreglé",
+      "SPANISH": "Arreglé",
       "ENGLISH": "I fixed"
     },
     "TU": {
-      "SPANISH": "arreglaste",
-      "ENGLISH": "you fixed"
+      "SPANISH": "Arreglaste",
+      "ENGLISH": "You fixed"
     },
     "EL": {
-      "SPANISH": "arregló",
-      "ENGLISH": "s/he fixed, you (formal) fixed"
+      "SPANISH": "Arregló",
+      "ENGLISH": "He fixed"
     },
     "ELLOS": {
-      "SPANISH": "arreglaron",
-      "ENGLISH": "they fixed, you (plural formal) fixed"
+      "SPANISH": "Arreglaron",
+      "ENGLISH": "They fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "arreglamos",
-      "ENGLISH": "we fixed"
+      "SPANISH": "Arreglamos",
+      "ENGLISH": "We fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "arreglasteis",
-      "ENGLISH": "you (plural) fixed"
+      "SPANISH": "Arreglasteis",
+      "ENGLISH": "You fixed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había arreglado",
+      "SPANISH": "Había arreglado",
       "ENGLISH": "I had fixed"
     },
     "TU": {
-      "SPANISH": "habías arreglado",
-      "ENGLISH": "you had fixed"
+      "SPANISH": "Habías arreglado",
+      "ENGLISH": "You had fixed"
     },
     "EL": {
-      "SPANISH": "había arreglado",
-      "ENGLISH": "s/he had fixed, you (formal) had fixed"
+      "SPANISH": "Había arreglado",
+      "ENGLISH": "He had fixed"
     },
     "ELLOS": {
-      "SPANISH": "habían arreglado",
-      "ENGLISH": "they had fixed, you (plural formal) had fixed"
+      "SPANISH": "Habían arreglado",
+      "ENGLISH": "They had fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos arreglado",
-      "ENGLISH": "we had fixed"
+      "SPANISH": "Habíamos arreglado",
+      "ENGLISH": "We had fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais arreglado",
-      "ENGLISH": "you (plural) had fixed"
+      "SPANISH": "Habíais arreglado",
+      "ENGLISH": "You had fixed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "arreglé",
+      "SPANISH": "Arreglé",
       "ENGLISH": "I fixed"
     },
     "TU": {
-      "SPANISH": "arreglaste",
-      "ENGLISH": "you fixed"
+      "SPANISH": "Arreglaste",
+      "ENGLISH": "You fixed"
     },
     "EL": {
-      "SPANISH": "arregló",
-      "ENGLISH": "s/he fixed, you (formal) fixed"
+      "SPANISH": "Arregló",
+      "ENGLISH": "He fixed"
     },
     "ELLOS": {
-      "SPANISH": "arreglaron",
-      "ENGLISH": "they fixed, you (plural formal) fixed"
+      "SPANISH": "Arreglaron",
+      "ENGLISH": "They fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "arreglamos",
-      "ENGLISH": "we fixed"
+      "SPANISH": "Arreglamos",
+      "ENGLISH": "We fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "arreglasteis",
-      "ENGLISH": "you (plural) fixed"
+      "SPANISH": "Arreglasteis",
+      "ENGLISH": "You fixed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "arreglaré",
+      "SPANISH": "Arreglaré",
       "ENGLISH": "I will fix"
     },
     "TU": {
-      "SPANISH": "arreglarás",
-      "ENGLISH": "you will fix"
+      "SPANISH": "Arreglarás",
+      "ENGLISH": "You will fix"
     },
     "EL": {
-      "SPANISH": "arreglará",
-      "ENGLISH": "s/he will fix, you (formal) will fix"
+      "SPANISH": "Arreglará",
+      "ENGLISH": "He will fix"
     },
     "ELLOS": {
-      "SPANISH": "arreglarán",
-      "ENGLISH": "they will fix, you (plural formal) will fix"
+      "SPANISH": "Arreglarán",
+      "ENGLISH": "They will fix"
     },
     "NOSOTROS": {
-      "SPANISH": "arreglaremos",
-      "ENGLISH": "we will fix"
+      "SPANISH": "Arreglaremos",
+      "ENGLISH": "We will fix"
     },
     "VOSOTROS": {
-      "SPANISH": "arreglaréis",
-      "ENGLISH": "you (plural) will fix"
+      "SPANISH": "Arreglaréis",
+      "ENGLISH": "You will fix"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré arreglado",
+      "SPANISH": "Habré arreglado",
       "ENGLISH": "I will have fixed"
     },
     "TU": {
-      "SPANISH": "habrás arreglado",
-      "ENGLISH": "you will have fixed"
+      "SPANISH": "Habrás arreglado",
+      "ENGLISH": "You will have fixed"
     },
     "EL": {
-      "SPANISH": "habrá arreglado",
-      "ENGLISH": "s/he will have fixed, you (formal) will have fixed"
+      "SPANISH": "Habrá arreglado",
+      "ENGLISH": "He will have fixed"
     },
     "ELLOS": {
-      "SPANISH": "habrán arreglado",
-      "ENGLISH": "they will have fixed, you (plural formal) will have fixed"
+      "SPANISH": "Habrán arreglado",
+      "ENGLISH": "They will have fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos arreglado",
-      "ENGLISH": "we will have fixed"
+      "SPANISH": "Habremos arreglado",
+      "ENGLISH": "We will have fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis arreglado",
-      "ENGLISH": "you (plural) will have fixed"
+      "SPANISH": "Habréis arreglado",
+      "ENGLISH": "You will have fixed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "arreglaría",
+      "SPANISH": "Arreglaría",
       "ENGLISH": "I would fix"
     },
     "TU": {
-      "SPANISH": "arreglarías",
-      "ENGLISH": "you would fix"
+      "SPANISH": "Arreglarías",
+      "ENGLISH": "You would fix"
     },
     "EL": {
-      "SPANISH": "arreglaría",
-      "ENGLISH": "s/he would fix, you (formal) would fix"
+      "SPANISH": "Arreglaría",
+      "ENGLISH": "He would fix"
     },
     "ELLOS": {
-      "SPANISH": "arreglarían",
-      "ENGLISH": "they would fix, you (plural formal) would fix"
+      "SPANISH": "Arreglarían",
+      "ENGLISH": "They would fix"
     },
     "NOSOTROS": {
-      "SPANISH": "arreglaríamos",
-      "ENGLISH": "we would fix"
+      "SPANISH": "Arreglaríamos",
+      "ENGLISH": "We would fix"
     },
     "VOSOTROS": {
-      "SPANISH": "arreglaríais",
-      "ENGLISH": "you (plural) would fix"
+      "SPANISH": "Arreglaríais",
+      "ENGLISH": "You would fix"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría arreglado",
+      "SPANISH": "Habría arreglado",
       "ENGLISH": "I would have fixed"
     },
     "TU": {
-      "SPANISH": "habrías arreglado",
-      "ENGLISH": "you would have fixed"
+      "SPANISH": "Habrías arreglado",
+      "ENGLISH": "You would have fixed"
     },
     "EL": {
-      "SPANISH": "habría arreglado",
-      "ENGLISH": "s/he would have fixed, you (formal) would have fixed"
+      "SPANISH": "Habría arreglado",
+      "ENGLISH": "He would have fixed"
     },
     "ELLOS": {
-      "SPANISH": "habrían arreglado",
-      "ENGLISH": "they would have fixed, you (plural formal) would have fixed"
+      "SPANISH": "Habrían arreglado",
+      "ENGLISH": "They would have fixed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos arreglado",
-      "ENGLISH": "we would have fixed"
+      "SPANISH": "Habríamos arreglado",
+      "ENGLISH": "We would have fixed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais arreglado",
-      "ENGLISH": "you (plural) would have fixed"
+      "SPANISH": "Habríais arreglado",
+      "ENGLISH": "You would have fixed"
     }
   }
 }

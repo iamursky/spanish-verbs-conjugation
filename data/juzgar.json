@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "juzgo",
+      "SPANISH": "Juzgo",
       "ENGLISH": "I judge"
     },
     "TU": {
-      "SPANISH": "juzgas",
-      "ENGLISH": "you judge"
+      "SPANISH": "Juzgas",
+      "ENGLISH": "You judge"
     },
     "EL": {
-      "SPANISH": "juzga",
-      "ENGLISH": "s/he judges, you (formal) judges"
+      "SPANISH": "Juzga",
+      "ENGLISH": "He judges"
     },
     "ELLOS": {
-      "SPANISH": "juzgan",
-      "ENGLISH": "they judge, you (plural formal) judge"
+      "SPANISH": "Juzgan",
+      "ENGLISH": "They judge"
     },
     "NOSOTROS": {
-      "SPANISH": "juzgamos",
-      "ENGLISH": "we judge"
+      "SPANISH": "Juzgamos",
+      "ENGLISH": "We judge"
     },
     "VOSOTROS": {
-      "SPANISH": "juzgáis",
-      "ENGLISH": "you (plural) judge"
+      "SPANISH": "Juzgáis",
+      "ENGLISH": "You judge"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he juzgado",
+      "SPANISH": "He juzgado",
       "ENGLISH": "I have judged"
     },
     "TU": {
-      "SPANISH": "has juzgado",
-      "ENGLISH": "you have judged"
+      "SPANISH": "Has juzgado",
+      "ENGLISH": "You have judged"
     },
     "EL": {
-      "SPANISH": "ha juzgado",
-      "ENGLISH": "s/he has judged, you (formal) have judged"
+      "SPANISH": "Ha juzgado",
+      "ENGLISH": "He has judged"
     },
     "ELLOS": {
-      "SPANISH": "han juzgado",
-      "ENGLISH": "they have judged, you (plural formal) have judged"
+      "SPANISH": "Han juzgado",
+      "ENGLISH": "They have judged"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos juzgado",
-      "ENGLISH": "we have judged"
+      "SPANISH": "Hemos juzgado",
+      "ENGLISH": "We have judged"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis juzgado",
-      "ENGLISH": "you (plural) have judged"
+      "SPANISH": "Habéis juzgado",
+      "ENGLISH": "You have judged"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "juzgué ",
+      "SPANISH": "Juzgué ",
       "ENGLISH": "I judged"
     },
     "TU": {
-      "SPANISH": "juzgaste",
-      "ENGLISH": "you judged"
+      "SPANISH": "Juzgaste",
+      "ENGLISH": "You judged"
     },
     "EL": {
-      "SPANISH": "juzgó",
-      "ENGLISH": "s/he judged, you (formal) judged"
+      "SPANISH": "Juzgó",
+      "ENGLISH": "He judged"
     },
     "ELLOS": {
-      "SPANISH": "juzgaron",
-      "ENGLISH": "they judged, you (plural formal) judged"
+      "SPANISH": "Juzgaron",
+      "ENGLISH": "They judged"
     },
     "NOSOTROS": {
-      "SPANISH": "juzgamos",
-      "ENGLISH": "we judged"
+      "SPANISH": "Juzgamos",
+      "ENGLISH": "We judged"
     },
     "VOSOTROS": {
-      "SPANISH": "juzgasteis",
-      "ENGLISH": "you (plural) judged"
+      "SPANISH": "Juzgasteis",
+      "ENGLISH": "You judged"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había juzgado",
+      "SPANISH": "Había juzgado",
       "ENGLISH": "I had judged"
     },
     "TU": {
-      "SPANISH": "habías juzgado",
-      "ENGLISH": "you had judged"
+      "SPANISH": "Habías juzgado",
+      "ENGLISH": "You had judged"
     },
     "EL": {
-      "SPANISH": "había juzgado",
-      "ENGLISH": "s/he had judged, you (formal) had judged"
+      "SPANISH": "Había juzgado",
+      "ENGLISH": "He had judged"
     },
     "ELLOS": {
-      "SPANISH": "habían juzgado",
-      "ENGLISH": "they had judged, you (plural formal) had judged"
+      "SPANISH": "Habían juzgado",
+      "ENGLISH": "They had judged"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos juzgado",
-      "ENGLISH": "we had judged"
+      "SPANISH": "Habíamos juzgado",
+      "ENGLISH": "We had judged"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais juzgado",
-      "ENGLISH": "you (plural) had judged"
+      "SPANISH": "Habíais juzgado",
+      "ENGLISH": "You had judged"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "juzgué ",
+      "SPANISH": "Juzgué ",
       "ENGLISH": "I judged"
     },
     "TU": {
-      "SPANISH": "juzgaste",
-      "ENGLISH": "you judged"
+      "SPANISH": "Juzgaste",
+      "ENGLISH": "You judged"
     },
     "EL": {
-      "SPANISH": "juzgó",
-      "ENGLISH": "s/he judged, you (formal) judged"
+      "SPANISH": "Juzgó",
+      "ENGLISH": "He judged"
     },
     "ELLOS": {
-      "SPANISH": "juzgaron",
-      "ENGLISH": "they judged, you (plural formal) judged"
+      "SPANISH": "Juzgaron",
+      "ENGLISH": "They judged"
     },
     "NOSOTROS": {
-      "SPANISH": "juzgamos",
-      "ENGLISH": "we judged"
+      "SPANISH": "Juzgamos",
+      "ENGLISH": "We judged"
     },
     "VOSOTROS": {
-      "SPANISH": "juzgasteis",
-      "ENGLISH": "you (plural) judged"
+      "SPANISH": "Juzgasteis",
+      "ENGLISH": "You judged"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "juzgaré",
+      "SPANISH": "Juzgaré",
       "ENGLISH": "I will judge"
     },
     "TU": {
-      "SPANISH": "juzgarás",
-      "ENGLISH": "you will judge"
+      "SPANISH": "Juzgarás",
+      "ENGLISH": "You will judge"
     },
     "EL": {
-      "SPANISH": "juzgará",
-      "ENGLISH": "s/he will judge, you (formal) will judge"
+      "SPANISH": "Juzgará",
+      "ENGLISH": "He will judge"
     },
     "ELLOS": {
-      "SPANISH": "juzgarán",
-      "ENGLISH": "they will judge, you (plural formal) will judge"
+      "SPANISH": "Juzgarán",
+      "ENGLISH": "They will judge"
     },
     "NOSOTROS": {
-      "SPANISH": "juzgaremos",
-      "ENGLISH": "we will judge"
+      "SPANISH": "Juzgaremos",
+      "ENGLISH": "We will judge"
     },
     "VOSOTROS": {
-      "SPANISH": "juzgaréis",
-      "ENGLISH": "you (plural) will judge"
+      "SPANISH": "Juzgaréis",
+      "ENGLISH": "You will judge"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré juzgado",
+      "SPANISH": "Habré juzgado",
       "ENGLISH": "I will have judged"
     },
     "TU": {
-      "SPANISH": "habrás juzgado",
-      "ENGLISH": "you will have judged"
+      "SPANISH": "Habrás juzgado",
+      "ENGLISH": "You will have judged"
     },
     "EL": {
-      "SPANISH": "habrá juzgado",
-      "ENGLISH": "s/he will have judged, you (formal) will have judged"
+      "SPANISH": "Habrá juzgado",
+      "ENGLISH": "He will have judged"
     },
     "ELLOS": {
-      "SPANISH": "habrán juzgado",
-      "ENGLISH": "they will have judged, you (plural formal) will have judged"
+      "SPANISH": "Habrán juzgado",
+      "ENGLISH": "They will have judged"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos juzgado",
-      "ENGLISH": "we will have judged"
+      "SPANISH": "Habremos juzgado",
+      "ENGLISH": "We will have judged"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis juzgado",
-      "ENGLISH": "you (plural) will have judged"
+      "SPANISH": "Habréis juzgado",
+      "ENGLISH": "You will have judged"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "juzgaría",
+      "SPANISH": "Juzgaría",
       "ENGLISH": "I would judge"
     },
     "TU": {
-      "SPANISH": "juzgarías",
-      "ENGLISH": "you would judge"
+      "SPANISH": "Juzgarías",
+      "ENGLISH": "You would judge"
     },
     "EL": {
-      "SPANISH": "juzgaría",
-      "ENGLISH": "s/he would judge, you (formal) would judge"
+      "SPANISH": "Juzgaría",
+      "ENGLISH": "He would judge"
     },
     "ELLOS": {
-      "SPANISH": "juzgarían",
-      "ENGLISH": "they would judge, you (plural formal) would judge"
+      "SPANISH": "Juzgarían",
+      "ENGLISH": "They would judge"
     },
     "NOSOTROS": {
-      "SPANISH": "juzgaríamos",
-      "ENGLISH": "we would judge"
+      "SPANISH": "Juzgaríamos",
+      "ENGLISH": "We would judge"
     },
     "VOSOTROS": {
-      "SPANISH": "juzgaríais",
-      "ENGLISH": "you (plural) would judge"
+      "SPANISH": "Juzgaríais",
+      "ENGLISH": "You would judge"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría juzgado",
+      "SPANISH": "Habría juzgado",
       "ENGLISH": "I would have judged"
     },
     "TU": {
-      "SPANISH": "habrías juzgado",
-      "ENGLISH": "you would have judged"
+      "SPANISH": "Habrías juzgado",
+      "ENGLISH": "You would have judged"
     },
     "EL": {
-      "SPANISH": "habría juzgado",
-      "ENGLISH": "s/he would have judged, you (formal) would have judged"
+      "SPANISH": "Habría juzgado",
+      "ENGLISH": "He would have judged"
     },
     "ELLOS": {
-      "SPANISH": "habrían juzgado",
-      "ENGLISH": "they would have judged, you (plural formal) would have judged"
+      "SPANISH": "Habrían juzgado",
+      "ENGLISH": "They would have judged"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos juzgado",
-      "ENGLISH": "we would have judged"
+      "SPANISH": "Habríamos juzgado",
+      "ENGLISH": "We would have judged"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais juzgado",
-      "ENGLISH": "you (plural) would have judged"
+      "SPANISH": "Habríais juzgado",
+      "ENGLISH": "You would have judged"
     }
   }
 }

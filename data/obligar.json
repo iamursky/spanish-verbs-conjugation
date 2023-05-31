@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "obligo",
+      "SPANISH": "Obligo",
       "ENGLISH": "I force"
     },
     "TU": {
-      "SPANISH": "obligas",
-      "ENGLISH": "you force"
+      "SPANISH": "Obligas",
+      "ENGLISH": "You force"
     },
     "EL": {
-      "SPANISH": "obliga",
-      "ENGLISH": "s/he forces, you (formal) forces"
+      "SPANISH": "Obliga",
+      "ENGLISH": "He forces"
     },
     "ELLOS": {
-      "SPANISH": "obligan",
-      "ENGLISH": "they force, you (plural formal) force"
+      "SPANISH": "Obligan",
+      "ENGLISH": "They force"
     },
     "NOSOTROS": {
-      "SPANISH": "obligamos",
-      "ENGLISH": "we force"
+      "SPANISH": "Obligamos",
+      "ENGLISH": "We force"
     },
     "VOSOTROS": {
-      "SPANISH": "obligáis",
-      "ENGLISH": "you (plural) force"
+      "SPANISH": "Obligáis",
+      "ENGLISH": "You force"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he obligado",
+      "SPANISH": "He obligado",
       "ENGLISH": "I have forced"
     },
     "TU": {
-      "SPANISH": "has obligado",
-      "ENGLISH": "you have forced"
+      "SPANISH": "Has obligado",
+      "ENGLISH": "You have forced"
     },
     "EL": {
-      "SPANISH": "ha obligado",
-      "ENGLISH": "s/he has forced, you (formal) have forced"
+      "SPANISH": "Ha obligado",
+      "ENGLISH": "He has forced"
     },
     "ELLOS": {
-      "SPANISH": "han obligado",
-      "ENGLISH": "they have forced, you (plural formal) have forced"
+      "SPANISH": "Han obligado",
+      "ENGLISH": "They have forced"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos obligado",
-      "ENGLISH": "we have forced"
+      "SPANISH": "Hemos obligado",
+      "ENGLISH": "We have forced"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis obligado",
-      "ENGLISH": "you (plural) have forced"
+      "SPANISH": "Habéis obligado",
+      "ENGLISH": "You have forced"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "obligué ",
+      "SPANISH": "Obligué ",
       "ENGLISH": "I forced"
     },
     "TU": {
-      "SPANISH": "obligaste",
-      "ENGLISH": "you forced"
+      "SPANISH": "Obligaste",
+      "ENGLISH": "You forced"
     },
     "EL": {
-      "SPANISH": "obligó",
-      "ENGLISH": "s/he forced, you (formal) forced"
+      "SPANISH": "Obligó",
+      "ENGLISH": "He forced"
     },
     "ELLOS": {
-      "SPANISH": "obligaron",
-      "ENGLISH": "they forced, you (plural formal) forced"
+      "SPANISH": "Obligaron",
+      "ENGLISH": "They forced"
     },
     "NOSOTROS": {
-      "SPANISH": "obligamos",
-      "ENGLISH": "we forced"
+      "SPANISH": "Obligamos",
+      "ENGLISH": "We forced"
     },
     "VOSOTROS": {
-      "SPANISH": "obligasteis",
-      "ENGLISH": "you (plural) forced"
+      "SPANISH": "Obligasteis",
+      "ENGLISH": "You forced"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había obligado",
+      "SPANISH": "Había obligado",
       "ENGLISH": "I had forced"
     },
     "TU": {
-      "SPANISH": "habías obligado",
-      "ENGLISH": "you had forced"
+      "SPANISH": "Habías obligado",
+      "ENGLISH": "You had forced"
     },
     "EL": {
-      "SPANISH": "había obligado",
-      "ENGLISH": "s/he had forced, you (formal) had forced"
+      "SPANISH": "Había obligado",
+      "ENGLISH": "He had forced"
     },
     "ELLOS": {
-      "SPANISH": "habían obligado",
-      "ENGLISH": "they had forced, you (plural formal) had forced"
+      "SPANISH": "Habían obligado",
+      "ENGLISH": "They had forced"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos obligado",
-      "ENGLISH": "we had forced"
+      "SPANISH": "Habíamos obligado",
+      "ENGLISH": "We had forced"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais obligado",
-      "ENGLISH": "you (plural) had forced"
+      "SPANISH": "Habíais obligado",
+      "ENGLISH": "You had forced"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "obligué ",
+      "SPANISH": "Obligué ",
       "ENGLISH": "I forced"
     },
     "TU": {
-      "SPANISH": "obligaste",
-      "ENGLISH": "you forced"
+      "SPANISH": "Obligaste",
+      "ENGLISH": "You forced"
     },
     "EL": {
-      "SPANISH": "obligó",
-      "ENGLISH": "s/he forced, you (formal) forced"
+      "SPANISH": "Obligó",
+      "ENGLISH": "He forced"
     },
     "ELLOS": {
-      "SPANISH": "obligaron",
-      "ENGLISH": "they forced, you (plural formal) forced"
+      "SPANISH": "Obligaron",
+      "ENGLISH": "They forced"
     },
     "NOSOTROS": {
-      "SPANISH": "obligamos",
-      "ENGLISH": "we forced"
+      "SPANISH": "Obligamos",
+      "ENGLISH": "We forced"
     },
     "VOSOTROS": {
-      "SPANISH": "obligasteis",
-      "ENGLISH": "you (plural) forced"
+      "SPANISH": "Obligasteis",
+      "ENGLISH": "You forced"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "obligaré",
+      "SPANISH": "Obligaré",
       "ENGLISH": "I will force"
     },
     "TU": {
-      "SPANISH": "obligarás",
-      "ENGLISH": "you will force"
+      "SPANISH": "Obligarás",
+      "ENGLISH": "You will force"
     },
     "EL": {
-      "SPANISH": "obligará",
-      "ENGLISH": "s/he will force, you (formal) will force"
+      "SPANISH": "Obligará",
+      "ENGLISH": "He will force"
     },
     "ELLOS": {
-      "SPANISH": "obligarán",
-      "ENGLISH": "they will force, you (plural formal) will force"
+      "SPANISH": "Obligarán",
+      "ENGLISH": "They will force"
     },
     "NOSOTROS": {
-      "SPANISH": "obligaremos",
-      "ENGLISH": "we will force"
+      "SPANISH": "Obligaremos",
+      "ENGLISH": "We will force"
     },
     "VOSOTROS": {
-      "SPANISH": "obligaréis",
-      "ENGLISH": "you (plural) will force"
+      "SPANISH": "Obligaréis",
+      "ENGLISH": "You will force"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré obligado",
+      "SPANISH": "Habré obligado",
       "ENGLISH": "I will have forced"
     },
     "TU": {
-      "SPANISH": "habrás obligado",
-      "ENGLISH": "you will have forced"
+      "SPANISH": "Habrás obligado",
+      "ENGLISH": "You will have forced"
     },
     "EL": {
-      "SPANISH": "habrá obligado",
-      "ENGLISH": "s/he will have forced, you (formal) will have forced"
+      "SPANISH": "Habrá obligado",
+      "ENGLISH": "He will have forced"
     },
     "ELLOS": {
-      "SPANISH": "habrán obligado",
-      "ENGLISH": "they will have forced, you (plural formal) will have forced"
+      "SPANISH": "Habrán obligado",
+      "ENGLISH": "They will have forced"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos obligado",
-      "ENGLISH": "we will have forced"
+      "SPANISH": "Habremos obligado",
+      "ENGLISH": "We will have forced"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis obligado",
-      "ENGLISH": "you (plural) will have forced"
+      "SPANISH": "Habréis obligado",
+      "ENGLISH": "You will have forced"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "obligaría",
+      "SPANISH": "Obligaría",
       "ENGLISH": "I would force"
     },
     "TU": {
-      "SPANISH": "obligarías",
-      "ENGLISH": "you would force"
+      "SPANISH": "Obligarías",
+      "ENGLISH": "You would force"
     },
     "EL": {
-      "SPANISH": "obligaría",
-      "ENGLISH": "s/he would force, you (formal) would force"
+      "SPANISH": "Obligaría",
+      "ENGLISH": "He would force"
     },
     "ELLOS": {
-      "SPANISH": "obligarían",
-      "ENGLISH": "they would force, you (plural formal) would force"
+      "SPANISH": "Obligarían",
+      "ENGLISH": "They would force"
     },
     "NOSOTROS": {
-      "SPANISH": "obligaríamos",
-      "ENGLISH": "we would force"
+      "SPANISH": "Obligaríamos",
+      "ENGLISH": "We would force"
     },
     "VOSOTROS": {
-      "SPANISH": "obligaríais",
-      "ENGLISH": "you (plural) would force"
+      "SPANISH": "Obligaríais",
+      "ENGLISH": "You would force"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría obligado",
+      "SPANISH": "Habría obligado",
       "ENGLISH": "I would have forced"
     },
     "TU": {
-      "SPANISH": "habrías obligado",
-      "ENGLISH": "you would have forced"
+      "SPANISH": "Habrías obligado",
+      "ENGLISH": "You would have forced"
     },
     "EL": {
-      "SPANISH": "habría obligado",
-      "ENGLISH": "s/he would have forced, you (formal) would have forced"
+      "SPANISH": "Habría obligado",
+      "ENGLISH": "He would have forced"
     },
     "ELLOS": {
-      "SPANISH": "habrían obligado",
-      "ENGLISH": "they would have forced, you (plural formal) would have forced"
+      "SPANISH": "Habrían obligado",
+      "ENGLISH": "They would have forced"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos obligado",
-      "ENGLISH": "we would have forced"
+      "SPANISH": "Habríamos obligado",
+      "ENGLISH": "We would have forced"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais obligado",
-      "ENGLISH": "you (plural) would have forced"
+      "SPANISH": "Habríais obligado",
+      "ENGLISH": "You would have forced"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "coloco",
+      "SPANISH": "Coloco",
       "ENGLISH": "I place"
     },
     "TU": {
-      "SPANISH": "colocas",
-      "ENGLISH": "you place"
+      "SPANISH": "Colocas",
+      "ENGLISH": "You place"
     },
     "EL": {
-      "SPANISH": "coloca",
-      "ENGLISH": "s/he places, you (formal) places"
+      "SPANISH": "Coloca",
+      "ENGLISH": "He places"
     },
     "ELLOS": {
-      "SPANISH": "colocan",
-      "ENGLISH": "they place, you (plural formal) place"
+      "SPANISH": "Colocan",
+      "ENGLISH": "They place"
     },
     "NOSOTROS": {
-      "SPANISH": "colocamos",
-      "ENGLISH": "we place"
+      "SPANISH": "Colocamos",
+      "ENGLISH": "We place"
     },
     "VOSOTROS": {
-      "SPANISH": "colocáis",
-      "ENGLISH": "you (plural) place"
+      "SPANISH": "Colocáis",
+      "ENGLISH": "You place"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he colocado",
+      "SPANISH": "He colocado",
       "ENGLISH": "I have placed"
     },
     "TU": {
-      "SPANISH": "has colocado",
-      "ENGLISH": "you have placed"
+      "SPANISH": "Has colocado",
+      "ENGLISH": "You have placed"
     },
     "EL": {
-      "SPANISH": "ha colocado",
-      "ENGLISH": "s/he has placed, you (formal) have placed"
+      "SPANISH": "Ha colocado",
+      "ENGLISH": "He has placed"
     },
     "ELLOS": {
-      "SPANISH": "han colocado",
-      "ENGLISH": "they have placed, you (plural formal) have placed"
+      "SPANISH": "Han colocado",
+      "ENGLISH": "They have placed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos colocado",
-      "ENGLISH": "we have placed"
+      "SPANISH": "Hemos colocado",
+      "ENGLISH": "We have placed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis colocado",
-      "ENGLISH": "you (plural) have placed"
+      "SPANISH": "Habéis colocado",
+      "ENGLISH": "You have placed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "coloqué ",
+      "SPANISH": "Coloqué ",
       "ENGLISH": "I placed"
     },
     "TU": {
-      "SPANISH": "colocaste",
-      "ENGLISH": "you placed"
+      "SPANISH": "Colocaste",
+      "ENGLISH": "You placed"
     },
     "EL": {
-      "SPANISH": "colocó",
-      "ENGLISH": "s/he placed, you (formal) placed"
+      "SPANISH": "Colocó",
+      "ENGLISH": "He placed"
     },
     "ELLOS": {
-      "SPANISH": "colocaron",
-      "ENGLISH": "they placed, you (plural formal) placed"
+      "SPANISH": "Colocaron",
+      "ENGLISH": "They placed"
     },
     "NOSOTROS": {
-      "SPANISH": "colocamos",
-      "ENGLISH": "we placed"
+      "SPANISH": "Colocamos",
+      "ENGLISH": "We placed"
     },
     "VOSOTROS": {
-      "SPANISH": "colocasteis",
-      "ENGLISH": "you (plural) placed"
+      "SPANISH": "Colocasteis",
+      "ENGLISH": "You placed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había colocado",
+      "SPANISH": "Había colocado",
       "ENGLISH": "I had placed"
     },
     "TU": {
-      "SPANISH": "habías colocado",
-      "ENGLISH": "you had placed"
+      "SPANISH": "Habías colocado",
+      "ENGLISH": "You had placed"
     },
     "EL": {
-      "SPANISH": "había colocado",
-      "ENGLISH": "s/he had placed, you (formal) had placed"
+      "SPANISH": "Había colocado",
+      "ENGLISH": "He had placed"
     },
     "ELLOS": {
-      "SPANISH": "habían colocado",
-      "ENGLISH": "they had placed, you (plural formal) had placed"
+      "SPANISH": "Habían colocado",
+      "ENGLISH": "They had placed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos colocado",
-      "ENGLISH": "we had placed"
+      "SPANISH": "Habíamos colocado",
+      "ENGLISH": "We had placed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais colocado",
-      "ENGLISH": "you (plural) had placed"
+      "SPANISH": "Habíais colocado",
+      "ENGLISH": "You had placed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "coloqué ",
+      "SPANISH": "Coloqué ",
       "ENGLISH": "I placed"
     },
     "TU": {
-      "SPANISH": "colocaste",
-      "ENGLISH": "you placed"
+      "SPANISH": "Colocaste",
+      "ENGLISH": "You placed"
     },
     "EL": {
-      "SPANISH": "colocó",
-      "ENGLISH": "s/he placed, you (formal) placed"
+      "SPANISH": "Colocó",
+      "ENGLISH": "He placed"
     },
     "ELLOS": {
-      "SPANISH": "colocaron",
-      "ENGLISH": "they placed, you (plural formal) placed"
+      "SPANISH": "Colocaron",
+      "ENGLISH": "They placed"
     },
     "NOSOTROS": {
-      "SPANISH": "colocamos",
-      "ENGLISH": "we placed"
+      "SPANISH": "Colocamos",
+      "ENGLISH": "We placed"
     },
     "VOSOTROS": {
-      "SPANISH": "colocasteis",
-      "ENGLISH": "you (plural) placed"
+      "SPANISH": "Colocasteis",
+      "ENGLISH": "You placed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "colocaré",
+      "SPANISH": "Colocaré",
       "ENGLISH": "I will place"
     },
     "TU": {
-      "SPANISH": "colocarás",
-      "ENGLISH": "you will place"
+      "SPANISH": "Colocarás",
+      "ENGLISH": "You will place"
     },
     "EL": {
-      "SPANISH": "colocará",
-      "ENGLISH": "s/he will place, you (formal) will place"
+      "SPANISH": "Colocará",
+      "ENGLISH": "He will place"
     },
     "ELLOS": {
-      "SPANISH": "colocarán",
-      "ENGLISH": "they will place, you (plural formal) will place"
+      "SPANISH": "Colocarán",
+      "ENGLISH": "They will place"
     },
     "NOSOTROS": {
-      "SPANISH": "colocaremos",
-      "ENGLISH": "we will place"
+      "SPANISH": "Colocaremos",
+      "ENGLISH": "We will place"
     },
     "VOSOTROS": {
-      "SPANISH": "colocaréis",
-      "ENGLISH": "you (plural) will place"
+      "SPANISH": "Colocaréis",
+      "ENGLISH": "You will place"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré colocado",
+      "SPANISH": "Habré colocado",
       "ENGLISH": "I will have placed"
     },
     "TU": {
-      "SPANISH": "habrás colocado",
-      "ENGLISH": "you will have placed"
+      "SPANISH": "Habrás colocado",
+      "ENGLISH": "You will have placed"
     },
     "EL": {
-      "SPANISH": "habrá colocado",
-      "ENGLISH": "s/he will have placed, you (formal) will have placed"
+      "SPANISH": "Habrá colocado",
+      "ENGLISH": "He will have placed"
     },
     "ELLOS": {
-      "SPANISH": "habrán colocado",
-      "ENGLISH": "they will have placed, you (plural formal) will have placed"
+      "SPANISH": "Habrán colocado",
+      "ENGLISH": "They will have placed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos colocado",
-      "ENGLISH": "we will have placed"
+      "SPANISH": "Habremos colocado",
+      "ENGLISH": "We will have placed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis colocado",
-      "ENGLISH": "you (plural) will have placed"
+      "SPANISH": "Habréis colocado",
+      "ENGLISH": "You will have placed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "colocaría",
+      "SPANISH": "Colocaría",
       "ENGLISH": "I would place"
     },
     "TU": {
-      "SPANISH": "colocarías",
-      "ENGLISH": "you would place"
+      "SPANISH": "Colocarías",
+      "ENGLISH": "You would place"
     },
     "EL": {
-      "SPANISH": "colocaría",
-      "ENGLISH": "s/he would place, you (formal) would place"
+      "SPANISH": "Colocaría",
+      "ENGLISH": "He would place"
     },
     "ELLOS": {
-      "SPANISH": "colocarían",
-      "ENGLISH": "they would place, you (plural formal) would place"
+      "SPANISH": "Colocarían",
+      "ENGLISH": "They would place"
     },
     "NOSOTROS": {
-      "SPANISH": "colocaríamos",
-      "ENGLISH": "we would place"
+      "SPANISH": "Colocaríamos",
+      "ENGLISH": "We would place"
     },
     "VOSOTROS": {
-      "SPANISH": "colocaríais",
-      "ENGLISH": "you (plural) would place"
+      "SPANISH": "Colocaríais",
+      "ENGLISH": "You would place"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría colocado",
+      "SPANISH": "Habría colocado",
       "ENGLISH": "I would have placed"
     },
     "TU": {
-      "SPANISH": "habrías colocado",
-      "ENGLISH": "you would have placed"
+      "SPANISH": "Habrías colocado",
+      "ENGLISH": "You would have placed"
     },
     "EL": {
-      "SPANISH": "habría colocado",
-      "ENGLISH": "s/he would have placed, you (formal) would have placed"
+      "SPANISH": "Habría colocado",
+      "ENGLISH": "He would have placed"
     },
     "ELLOS": {
-      "SPANISH": "habrían colocado",
-      "ENGLISH": "they would have placed, you (plural formal) would have placed"
+      "SPANISH": "Habrían colocado",
+      "ENGLISH": "They would have placed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos colocado",
-      "ENGLISH": "we would have placed"
+      "SPANISH": "Habríamos colocado",
+      "ENGLISH": "We would have placed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais colocado",
-      "ENGLISH": "you (plural) would have placed"
+      "SPANISH": "Habríais colocado",
+      "ENGLISH": "You would have placed"
     }
   }
 }

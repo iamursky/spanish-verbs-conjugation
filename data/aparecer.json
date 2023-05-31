@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "aparezco ",
+      "SPANISH": "Aparezco ",
       "ENGLISH": "I appear"
     },
     "TU": {
-      "SPANISH": "apareces",
-      "ENGLISH": "you appear"
+      "SPANISH": "Apareces",
+      "ENGLISH": "You appear"
     },
     "EL": {
-      "SPANISH": "aparece",
-      "ENGLISH": "s/he appears, you (formal) appears"
+      "SPANISH": "Aparece",
+      "ENGLISH": "He appears"
     },
     "ELLOS": {
-      "SPANISH": "aparecen",
-      "ENGLISH": "they appear, you (plural formal) appear"
+      "SPANISH": "Aparecen",
+      "ENGLISH": "They appear"
     },
     "NOSOTROS": {
-      "SPANISH": "aparecemos",
-      "ENGLISH": "we appear"
+      "SPANISH": "Aparecemos",
+      "ENGLISH": "We appear"
     },
     "VOSOTROS": {
-      "SPANISH": "aparecéis",
-      "ENGLISH": "you (plural) appear"
+      "SPANISH": "Aparecéis",
+      "ENGLISH": "You appear"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he aparecido",
+      "SPANISH": "He aparecido",
       "ENGLISH": "I have appeared"
     },
     "TU": {
-      "SPANISH": "has aparecido",
-      "ENGLISH": "you have appeared"
+      "SPANISH": "Has aparecido",
+      "ENGLISH": "You have appeared"
     },
     "EL": {
-      "SPANISH": "ha aparecido",
-      "ENGLISH": "s/he has appeared, you (formal) have appeared"
+      "SPANISH": "Ha aparecido",
+      "ENGLISH": "He has appeared"
     },
     "ELLOS": {
-      "SPANISH": "han aparecido",
-      "ENGLISH": "they have appeared, you (plural formal) have appeared"
+      "SPANISH": "Han aparecido",
+      "ENGLISH": "They have appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos aparecido",
-      "ENGLISH": "we have appeared"
+      "SPANISH": "Hemos aparecido",
+      "ENGLISH": "We have appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis aparecido",
-      "ENGLISH": "you (plural) have appeared"
+      "SPANISH": "Habéis aparecido",
+      "ENGLISH": "You have appeared"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "aparecí",
+      "SPANISH": "Aparecí",
       "ENGLISH": "I appeared"
     },
     "TU": {
-      "SPANISH": "apareciste",
-      "ENGLISH": "you appeared"
+      "SPANISH": "Apareciste",
+      "ENGLISH": "You appeared"
     },
     "EL": {
-      "SPANISH": "apareció",
-      "ENGLISH": "s/he appeared, you (formal) appeared"
+      "SPANISH": "Apareció",
+      "ENGLISH": "He appeared"
     },
     "ELLOS": {
-      "SPANISH": "aparecieron",
-      "ENGLISH": "they appeared, you (plural formal) appeared"
+      "SPANISH": "Aparecieron",
+      "ENGLISH": "They appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "aparecimos",
-      "ENGLISH": "we appeared"
+      "SPANISH": "Aparecimos",
+      "ENGLISH": "We appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "aparecisteis",
-      "ENGLISH": "you (plural) appeared"
+      "SPANISH": "Aparecisteis",
+      "ENGLISH": "You appeared"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había aparecido",
+      "SPANISH": "Había aparecido",
       "ENGLISH": "I had appeared"
     },
     "TU": {
-      "SPANISH": "habías aparecido",
-      "ENGLISH": "you had appeared"
+      "SPANISH": "Habías aparecido",
+      "ENGLISH": "You had appeared"
     },
     "EL": {
-      "SPANISH": "había aparecido",
-      "ENGLISH": "s/he had appeared, you (formal) had appeared"
+      "SPANISH": "Había aparecido",
+      "ENGLISH": "He had appeared"
     },
     "ELLOS": {
-      "SPANISH": "habían aparecido",
-      "ENGLISH": "they had appeared, you (plural formal) had appeared"
+      "SPANISH": "Habían aparecido",
+      "ENGLISH": "They had appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos aparecido",
-      "ENGLISH": "we had appeared"
+      "SPANISH": "Habíamos aparecido",
+      "ENGLISH": "We had appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais aparecido",
-      "ENGLISH": "you (plural) had appeared"
+      "SPANISH": "Habíais aparecido",
+      "ENGLISH": "You had appeared"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "aparecí",
+      "SPANISH": "Aparecí",
       "ENGLISH": "I appeared"
     },
     "TU": {
-      "SPANISH": "apareciste",
-      "ENGLISH": "you appeared"
+      "SPANISH": "Apareciste",
+      "ENGLISH": "You appeared"
     },
     "EL": {
-      "SPANISH": "apareció",
-      "ENGLISH": "s/he appeared, you (formal) appeared"
+      "SPANISH": "Apareció",
+      "ENGLISH": "He appeared"
     },
     "ELLOS": {
-      "SPANISH": "aparecieron",
-      "ENGLISH": "they appeared, you (plural formal) appeared"
+      "SPANISH": "Aparecieron",
+      "ENGLISH": "They appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "aparecimos",
-      "ENGLISH": "we appeared"
+      "SPANISH": "Aparecimos",
+      "ENGLISH": "We appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "aparecisteis",
-      "ENGLISH": "you (plural) appeared"
+      "SPANISH": "Aparecisteis",
+      "ENGLISH": "You appeared"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "apareceré",
+      "SPANISH": "Apareceré",
       "ENGLISH": "I will appear"
     },
     "TU": {
-      "SPANISH": "aparecerás",
-      "ENGLISH": "you will appear"
+      "SPANISH": "Aparecerás",
+      "ENGLISH": "You will appear"
     },
     "EL": {
-      "SPANISH": "aparecerá",
-      "ENGLISH": "s/he will appear, you (formal) will appear"
+      "SPANISH": "Aparecerá",
+      "ENGLISH": "He will appear"
     },
     "ELLOS": {
-      "SPANISH": "aparecerán",
-      "ENGLISH": "they will appear, you (plural formal) will appear"
+      "SPANISH": "Aparecerán",
+      "ENGLISH": "They will appear"
     },
     "NOSOTROS": {
-      "SPANISH": "apareceremos",
-      "ENGLISH": "we will appear"
+      "SPANISH": "Apareceremos",
+      "ENGLISH": "We will appear"
     },
     "VOSOTROS": {
-      "SPANISH": "apareceréis",
-      "ENGLISH": "you (plural) will appear"
+      "SPANISH": "Apareceréis",
+      "ENGLISH": "You will appear"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré aparecido",
+      "SPANISH": "Habré aparecido",
       "ENGLISH": "I will have appeared"
     },
     "TU": {
-      "SPANISH": "habrás aparecido",
-      "ENGLISH": "you will have appeared"
+      "SPANISH": "Habrás aparecido",
+      "ENGLISH": "You will have appeared"
     },
     "EL": {
-      "SPANISH": "habrá aparecido",
-      "ENGLISH": "s/he will have appeared, you (formal) will have appeared"
+      "SPANISH": "Habrá aparecido",
+      "ENGLISH": "He will have appeared"
     },
     "ELLOS": {
-      "SPANISH": "habrán aparecido",
-      "ENGLISH": "they will have appeared, you (plural formal) will have appeared"
+      "SPANISH": "Habrán aparecido",
+      "ENGLISH": "They will have appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos aparecido",
-      "ENGLISH": "we will have appeared"
+      "SPANISH": "Habremos aparecido",
+      "ENGLISH": "We will have appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis aparecido",
-      "ENGLISH": "you (plural) will have appeared"
+      "SPANISH": "Habréis aparecido",
+      "ENGLISH": "You will have appeared"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "aparecería",
+      "SPANISH": "Aparecería",
       "ENGLISH": "I would appear"
     },
     "TU": {
-      "SPANISH": "aparecerías",
-      "ENGLISH": "you would appear"
+      "SPANISH": "Aparecerías",
+      "ENGLISH": "You would appear"
     },
     "EL": {
-      "SPANISH": "aparecería",
-      "ENGLISH": "s/he would appear, you (formal) would appear"
+      "SPANISH": "Aparecería",
+      "ENGLISH": "He would appear"
     },
     "ELLOS": {
-      "SPANISH": "aparecerían",
-      "ENGLISH": "they would appear, you (plural formal) would appear"
+      "SPANISH": "Aparecerían",
+      "ENGLISH": "They would appear"
     },
     "NOSOTROS": {
-      "SPANISH": "apareceríamos",
-      "ENGLISH": "we would appear"
+      "SPANISH": "Apareceríamos",
+      "ENGLISH": "We would appear"
     },
     "VOSOTROS": {
-      "SPANISH": "apareceríais",
-      "ENGLISH": "you (plural) would appear"
+      "SPANISH": "Apareceríais",
+      "ENGLISH": "You would appear"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría aparecido",
+      "SPANISH": "Habría aparecido",
       "ENGLISH": "I would have appeared"
     },
     "TU": {
-      "SPANISH": "habrías aparecido",
-      "ENGLISH": "you would have appeared"
+      "SPANISH": "Habrías aparecido",
+      "ENGLISH": "You would have appeared"
     },
     "EL": {
-      "SPANISH": "habría aparecido",
-      "ENGLISH": "s/he would have appeared, you (formal) would have appeared"
+      "SPANISH": "Habría aparecido",
+      "ENGLISH": "He would have appeared"
     },
     "ELLOS": {
-      "SPANISH": "habrían aparecido",
-      "ENGLISH": "they would have appeared, you (plural formal) would have appeared"
+      "SPANISH": "Habrían aparecido",
+      "ENGLISH": "They would have appeared"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos aparecido",
-      "ENGLISH": "we would have appeared"
+      "SPANISH": "Habríamos aparecido",
+      "ENGLISH": "We would have appeared"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais aparecido",
-      "ENGLISH": "you (plural) would have appeared"
+      "SPANISH": "Habríais aparecido",
+      "ENGLISH": "You would have appeared"
     }
   }
 }

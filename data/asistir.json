@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "asisto",
+      "SPANISH": "Asisto",
       "ENGLISH": "I assist"
     },
     "TU": {
-      "SPANISH": "asistes",
-      "ENGLISH": "you assist"
+      "SPANISH": "Asistes",
+      "ENGLISH": "You assist"
     },
     "EL": {
-      "SPANISH": "asiste",
-      "ENGLISH": "s/he assists, you (formal) assists"
+      "SPANISH": "Asiste",
+      "ENGLISH": "He assists"
     },
     "ELLOS": {
-      "SPANISH": "asisten",
-      "ENGLISH": "they assist, you (plural formal) assist"
+      "SPANISH": "Asisten",
+      "ENGLISH": "They assist"
     },
     "NOSOTROS": {
-      "SPANISH": "asistimos",
-      "ENGLISH": "we assist"
+      "SPANISH": "Asistimos",
+      "ENGLISH": "We assist"
     },
     "VOSOTROS": {
-      "SPANISH": "asistís",
-      "ENGLISH": "you (plural) assist"
+      "SPANISH": "Asistís",
+      "ENGLISH": "You assist"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he asistido",
+      "SPANISH": "He asistido",
       "ENGLISH": "I have assisted"
     },
     "TU": {
-      "SPANISH": "has asistido",
-      "ENGLISH": "you have assisted"
+      "SPANISH": "Has asistido",
+      "ENGLISH": "You have assisted"
     },
     "EL": {
-      "SPANISH": "ha asistido",
-      "ENGLISH": "s/he has assisted, you (formal) have assisted"
+      "SPANISH": "Ha asistido",
+      "ENGLISH": "He has assisted"
     },
     "ELLOS": {
-      "SPANISH": "han asistido",
-      "ENGLISH": "they have assisted, you (plural formal) have assisted"
+      "SPANISH": "Han asistido",
+      "ENGLISH": "They have assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos asistido",
-      "ENGLISH": "we have assisted"
+      "SPANISH": "Hemos asistido",
+      "ENGLISH": "We have assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis asistido",
-      "ENGLISH": "you (plural) have assisted"
+      "SPANISH": "Habéis asistido",
+      "ENGLISH": "You have assisted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "asistí",
+      "SPANISH": "Asistí",
       "ENGLISH": "I assisted"
     },
     "TU": {
-      "SPANISH": "asististe",
-      "ENGLISH": "you assisted"
+      "SPANISH": "Asististe",
+      "ENGLISH": "You assisted"
     },
     "EL": {
-      "SPANISH": "asistió",
-      "ENGLISH": "s/he assisted, you (formal) assisted"
+      "SPANISH": "Asistió",
+      "ENGLISH": "He assisted"
     },
     "ELLOS": {
-      "SPANISH": "asistieron",
-      "ENGLISH": "they assisted, you (plural formal) assisted"
+      "SPANISH": "Asistieron",
+      "ENGLISH": "They assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "asistimos",
-      "ENGLISH": "we assisted"
+      "SPANISH": "Asistimos",
+      "ENGLISH": "We assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "asististeis",
-      "ENGLISH": "you (plural) assisted"
+      "SPANISH": "Asististeis",
+      "ENGLISH": "You assisted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había asistido",
+      "SPANISH": "Había asistido",
       "ENGLISH": "I had assisted"
     },
     "TU": {
-      "SPANISH": "habías asistido",
-      "ENGLISH": "you had assisted"
+      "SPANISH": "Habías asistido",
+      "ENGLISH": "You had assisted"
     },
     "EL": {
-      "SPANISH": "había asistido",
-      "ENGLISH": "s/he had assisted, you (formal) had assisted"
+      "SPANISH": "Había asistido",
+      "ENGLISH": "He had assisted"
     },
     "ELLOS": {
-      "SPANISH": "habían asistido",
-      "ENGLISH": "they had assisted, you (plural formal) had assisted"
+      "SPANISH": "Habían asistido",
+      "ENGLISH": "They had assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos asistido",
-      "ENGLISH": "we had assisted"
+      "SPANISH": "Habíamos asistido",
+      "ENGLISH": "We had assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais asistido",
-      "ENGLISH": "you (plural) had assisted"
+      "SPANISH": "Habíais asistido",
+      "ENGLISH": "You had assisted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "asistí",
+      "SPANISH": "Asistí",
       "ENGLISH": "I assisted"
     },
     "TU": {
-      "SPANISH": "asististe",
-      "ENGLISH": "you assisted"
+      "SPANISH": "Asististe",
+      "ENGLISH": "You assisted"
     },
     "EL": {
-      "SPANISH": "asistió",
-      "ENGLISH": "s/he assisted, you (formal) assisted"
+      "SPANISH": "Asistió",
+      "ENGLISH": "He assisted"
     },
     "ELLOS": {
-      "SPANISH": "asistieron",
-      "ENGLISH": "they assisted, you (plural formal) assisted"
+      "SPANISH": "Asistieron",
+      "ENGLISH": "They assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "asistimos",
-      "ENGLISH": "we assisted"
+      "SPANISH": "Asistimos",
+      "ENGLISH": "We assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "asististeis",
-      "ENGLISH": "you (plural) assisted"
+      "SPANISH": "Asististeis",
+      "ENGLISH": "You assisted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "asistiré",
+      "SPANISH": "Asistiré",
       "ENGLISH": "I will assist"
     },
     "TU": {
-      "SPANISH": "asistirás",
-      "ENGLISH": "you will assist"
+      "SPANISH": "Asistirás",
+      "ENGLISH": "You will assist"
     },
     "EL": {
-      "SPANISH": "asistirá",
-      "ENGLISH": "s/he will assist, you (formal) will assist"
+      "SPANISH": "Asistirá",
+      "ENGLISH": "He will assist"
     },
     "ELLOS": {
-      "SPANISH": "asistirán",
-      "ENGLISH": "they will assist, you (plural formal) will assist"
+      "SPANISH": "Asistirán",
+      "ENGLISH": "They will assist"
     },
     "NOSOTROS": {
-      "SPANISH": "asistiremos",
-      "ENGLISH": "we will assist"
+      "SPANISH": "Asistiremos",
+      "ENGLISH": "We will assist"
     },
     "VOSOTROS": {
-      "SPANISH": "asistiréis",
-      "ENGLISH": "you (plural) will assist"
+      "SPANISH": "Asistiréis",
+      "ENGLISH": "You will assist"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré asistido",
+      "SPANISH": "Habré asistido",
       "ENGLISH": "I will have assisted"
     },
     "TU": {
-      "SPANISH": "habrás asistido",
-      "ENGLISH": "you will have assisted"
+      "SPANISH": "Habrás asistido",
+      "ENGLISH": "You will have assisted"
     },
     "EL": {
-      "SPANISH": "habrá asistido",
-      "ENGLISH": "s/he will have assisted, you (formal) will have assisted"
+      "SPANISH": "Habrá asistido",
+      "ENGLISH": "He will have assisted"
     },
     "ELLOS": {
-      "SPANISH": "habrán asistido",
-      "ENGLISH": "they will have assisted, you (plural formal) will have assisted"
+      "SPANISH": "Habrán asistido",
+      "ENGLISH": "They will have assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos asistido",
-      "ENGLISH": "we will have assisted"
+      "SPANISH": "Habremos asistido",
+      "ENGLISH": "We will have assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis asistido",
-      "ENGLISH": "you (plural) will have assisted"
+      "SPANISH": "Habréis asistido",
+      "ENGLISH": "You will have assisted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "asistiría",
+      "SPANISH": "Asistiría",
       "ENGLISH": "I would assist"
     },
     "TU": {
-      "SPANISH": "asistirías",
-      "ENGLISH": "you would assist"
+      "SPANISH": "Asistirías",
+      "ENGLISH": "You would assist"
     },
     "EL": {
-      "SPANISH": "asistiría",
-      "ENGLISH": "s/he would assist, you (formal) would assist"
+      "SPANISH": "Asistiría",
+      "ENGLISH": "He would assist"
     },
     "ELLOS": {
-      "SPANISH": "asistirían",
-      "ENGLISH": "they would assist, you (plural formal) would assist"
+      "SPANISH": "Asistirían",
+      "ENGLISH": "They would assist"
     },
     "NOSOTROS": {
-      "SPANISH": "asistiríamos",
-      "ENGLISH": "we would assist"
+      "SPANISH": "Asistiríamos",
+      "ENGLISH": "We would assist"
     },
     "VOSOTROS": {
-      "SPANISH": "asistiríais",
-      "ENGLISH": "you (plural) would assist"
+      "SPANISH": "Asistiríais",
+      "ENGLISH": "You would assist"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría asistido",
+      "SPANISH": "Habría asistido",
       "ENGLISH": "I would have assisted"
     },
     "TU": {
-      "SPANISH": "habrías asistido",
-      "ENGLISH": "you would have assisted"
+      "SPANISH": "Habrías asistido",
+      "ENGLISH": "You would have assisted"
     },
     "EL": {
-      "SPANISH": "habría asistido",
-      "ENGLISH": "s/he would have assisted, you (formal) would have assisted"
+      "SPANISH": "Habría asistido",
+      "ENGLISH": "He would have assisted"
     },
     "ELLOS": {
-      "SPANISH": "habrían asistido",
-      "ENGLISH": "they would have assisted, you (plural formal) would have assisted"
+      "SPANISH": "Habrían asistido",
+      "ENGLISH": "They would have assisted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos asistido",
-      "ENGLISH": "we would have assisted"
+      "SPANISH": "Habríamos asistido",
+      "ENGLISH": "We would have assisted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais asistido",
-      "ENGLISH": "you (plural) would have assisted"
+      "SPANISH": "Habríais asistido",
+      "ENGLISH": "You would have assisted"
     }
   }
 }

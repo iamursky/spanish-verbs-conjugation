@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me escribo",
+      "SPANISH": "Me escribo",
       "ENGLISH": "I write to each other"
     },
     "TU": {
-      "SPANISH": "te escribes",
-      "ENGLISH": "you write to each other"
+      "SPANISH": "Te escribes",
+      "ENGLISH": "You write to each other"
     },
     "EL": {
-      "SPANISH": "se escribe",
-      "ENGLISH": "s/he writes to each other, you (formal) writes to each other"
+      "SPANISH": "Se escribe",
+      "ENGLISH": "He writes to each other"
     },
     "ELLOS": {
-      "SPANISH": "se escriben",
-      "ENGLISH": "they write to each other, you (plural formal) write to each other"
+      "SPANISH": "Se escriben",
+      "ENGLISH": "They write to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos escribimos",
-      "ENGLISH": "we write to each other"
+      "SPANISH": "Nos escribimos",
+      "ENGLISH": "We write to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os escribís",
-      "ENGLISH": "you (plural) write to each other"
+      "SPANISH": "Os escribís",
+      "ENGLISH": "You write to each other"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he escrito ",
+      "SPANISH": "Me he escrito ",
       "ENGLISH": "I have written to each other"
     },
     "TU": {
-      "SPANISH": "te has escrito ",
-      "ENGLISH": "you have written to each other"
+      "SPANISH": "Te has escrito ",
+      "ENGLISH": "You have written to each other"
     },
     "EL": {
-      "SPANISH": "se ha escrito ",
-      "ENGLISH": "s/he has written to each other, you (formal) have written to each other"
+      "SPANISH": "Se ha escrito ",
+      "ENGLISH": "He has written to each other"
     },
     "ELLOS": {
-      "SPANISH": "se han escrito ",
-      "ENGLISH": "they have written to each other, you (plural formal) have written to each other"
+      "SPANISH": "Se han escrito ",
+      "ENGLISH": "They have written to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos escrito ",
-      "ENGLISH": "we have written to each other"
+      "SPANISH": "Nos hemos escrito ",
+      "ENGLISH": "We have written to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis escrito ",
-      "ENGLISH": "you (plural) have written to each other"
+      "SPANISH": "Os habéis escrito ",
+      "ENGLISH": "You have written to each other"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me escribí",
+      "SPANISH": "Me escribí",
       "ENGLISH": "I wrote to each other"
     },
     "TU": {
-      "SPANISH": "te escribiste",
-      "ENGLISH": "you wrote to each other"
+      "SPANISH": "Te escribiste",
+      "ENGLISH": "You wrote to each other"
     },
     "EL": {
-      "SPANISH": "se escribió",
-      "ENGLISH": "s/he wrote to each other, you (formal) wrote to each other"
+      "SPANISH": "Se escribió",
+      "ENGLISH": "He wrote to each other"
     },
     "ELLOS": {
-      "SPANISH": "se escribieron",
-      "ENGLISH": "they wrote to each other, you (plural formal) wrote to each other"
+      "SPANISH": "Se escribieron",
+      "ENGLISH": "They wrote to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos escribimos",
-      "ENGLISH": "we wrote to each other"
+      "SPANISH": "Nos escribimos",
+      "ENGLISH": "We wrote to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os escribisteis",
-      "ENGLISH": "you (plural) wrote to each other"
+      "SPANISH": "Os escribisteis",
+      "ENGLISH": "You wrote to each other"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había escrito ",
+      "SPANISH": "Me había escrito ",
       "ENGLISH": "I had written to each other"
     },
     "TU": {
-      "SPANISH": "te habías escrito ",
-      "ENGLISH": "you had written to each other"
+      "SPANISH": "Te habías escrito ",
+      "ENGLISH": "You had written to each other"
     },
     "EL": {
-      "SPANISH": "se había escrito ",
-      "ENGLISH": "s/he had written to each other, you (formal) had written to each other"
+      "SPANISH": "Se había escrito ",
+      "ENGLISH": "He had written to each other"
     },
     "ELLOS": {
-      "SPANISH": "se habían escrito ",
-      "ENGLISH": "they had written to each other, you (plural formal) had written to each other"
+      "SPANISH": "Se habían escrito ",
+      "ENGLISH": "They had written to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos escrito ",
-      "ENGLISH": "we had written to each other"
+      "SPANISH": "Nos habíamos escrito ",
+      "ENGLISH": "We had written to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais escrito ",
-      "ENGLISH": "you (plural) had written to each other"
+      "SPANISH": "Os habíais escrito ",
+      "ENGLISH": "You had written to each other"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me escribí",
+      "SPANISH": "Me escribí",
       "ENGLISH": "I wrote to each other"
     },
     "TU": {
-      "SPANISH": "te escribiste",
-      "ENGLISH": "you wrote to each other"
+      "SPANISH": "Te escribiste",
+      "ENGLISH": "You wrote to each other"
     },
     "EL": {
-      "SPANISH": "se escribió",
-      "ENGLISH": "s/he wrote to each other, you (formal) wrote to each other"
+      "SPANISH": "Se escribió",
+      "ENGLISH": "He wrote to each other"
     },
     "ELLOS": {
-      "SPANISH": "se escribieron",
-      "ENGLISH": "they wrote to each other, you (plural formal) wrote to each other"
+      "SPANISH": "Se escribieron",
+      "ENGLISH": "They wrote to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos escribimos",
-      "ENGLISH": "we wrote to each other"
+      "SPANISH": "Nos escribimos",
+      "ENGLISH": "We wrote to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os escribisteis",
-      "ENGLISH": "you (plural) wrote to each other"
+      "SPANISH": "Os escribisteis",
+      "ENGLISH": "You wrote to each other"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me escribiré",
+      "SPANISH": "Me escribiré",
       "ENGLISH": "I will write to each other"
     },
     "TU": {
-      "SPANISH": "te escribirás",
-      "ENGLISH": "you will write to each other"
+      "SPANISH": "Te escribirás",
+      "ENGLISH": "You will write to each other"
     },
     "EL": {
-      "SPANISH": "se escribirá",
-      "ENGLISH": "s/he will write to each other, you (formal) will write to each other"
+      "SPANISH": "Se escribirá",
+      "ENGLISH": "He will write to each other"
     },
     "ELLOS": {
-      "SPANISH": "se escribirán",
-      "ENGLISH": "they will write to each other, you (plural formal) will write to each other"
+      "SPANISH": "Se escribirán",
+      "ENGLISH": "They will write to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos escribiremos",
-      "ENGLISH": "we will write to each other"
+      "SPANISH": "Nos escribiremos",
+      "ENGLISH": "We will write to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os escribiréis",
-      "ENGLISH": "you (plural) will write to each other"
+      "SPANISH": "Os escribiréis",
+      "ENGLISH": "You will write to each other"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré escrito ",
+      "SPANISH": "Me habré escrito ",
       "ENGLISH": "I will have written to each other"
     },
     "TU": {
-      "SPANISH": "te habrás escrito ",
-      "ENGLISH": "you will have written to each other"
+      "SPANISH": "Te habrás escrito ",
+      "ENGLISH": "You will have written to each other"
     },
     "EL": {
-      "SPANISH": "se habrá escrito ",
-      "ENGLISH": "s/he will have written to each other, you (formal) will have written to each other"
+      "SPANISH": "Se habrá escrito ",
+      "ENGLISH": "He will have written to each other"
     },
     "ELLOS": {
-      "SPANISH": "se habrán escrito ",
-      "ENGLISH": "they will have written to each other, you (plural formal) will have written to each other"
+      "SPANISH": "Se habrán escrito ",
+      "ENGLISH": "They will have written to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos escrito ",
-      "ENGLISH": "we will have written to each other"
+      "SPANISH": "Nos habremos escrito ",
+      "ENGLISH": "We will have written to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis escrito ",
-      "ENGLISH": "you (plural) will have written to each other"
+      "SPANISH": "Os habréis escrito ",
+      "ENGLISH": "You will have written to each other"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me escribiría",
+      "SPANISH": "Me escribiría",
       "ENGLISH": "I would write to each other"
     },
     "TU": {
-      "SPANISH": "te escribirías",
-      "ENGLISH": "you would write to each other"
+      "SPANISH": "Te escribirías",
+      "ENGLISH": "You would write to each other"
     },
     "EL": {
-      "SPANISH": "se escribiría",
-      "ENGLISH": "s/he would write to each other, you (formal) would write to each other"
+      "SPANISH": "Se escribiría",
+      "ENGLISH": "He would write to each other"
     },
     "ELLOS": {
-      "SPANISH": "se escribirían",
-      "ENGLISH": "they would write to each other, you (plural formal) would write to each other"
+      "SPANISH": "Se escribirían",
+      "ENGLISH": "They would write to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos escribiríamos",
-      "ENGLISH": "we would write to each other"
+      "SPANISH": "Nos escribiríamos",
+      "ENGLISH": "We would write to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os escribiríais",
-      "ENGLISH": "you (plural) would write to each other"
+      "SPANISH": "Os escribiríais",
+      "ENGLISH": "You would write to each other"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría escrito ",
+      "SPANISH": "Me habría escrito ",
       "ENGLISH": "I would have written to each other"
     },
     "TU": {
-      "SPANISH": "te habrías escrito ",
-      "ENGLISH": "you would have written to each other"
+      "SPANISH": "Te habrías escrito ",
+      "ENGLISH": "You would have written to each other"
     },
     "EL": {
-      "SPANISH": "se habría escrito ",
-      "ENGLISH": "s/he would have written to each other, you (formal) would have written to each other"
+      "SPANISH": "Se habría escrito ",
+      "ENGLISH": "He would have written to each other"
     },
     "ELLOS": {
-      "SPANISH": "se habrían escrito ",
-      "ENGLISH": "they would have written to each other, you (plural formal) would have written to each other"
+      "SPANISH": "Se habrían escrito ",
+      "ENGLISH": "They would have written to each other"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos escrito ",
-      "ENGLISH": "we would have written to each other"
+      "SPANISH": "Nos habríamos escrito ",
+      "ENGLISH": "We would have written to each other"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais escrito ",
-      "ENGLISH": "you (plural) would have written to each other"
+      "SPANISH": "Os habríais escrito ",
+      "ENGLISH": "You would have written to each other"
     }
   }
 }

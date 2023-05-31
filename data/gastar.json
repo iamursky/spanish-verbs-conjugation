@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "gasto",
+      "SPANISH": "Gasto",
       "ENGLISH": "I expend"
     },
     "TU": {
-      "SPANISH": "gastas",
-      "ENGLISH": "you expend"
+      "SPANISH": "Gastas",
+      "ENGLISH": "You expend"
     },
     "EL": {
-      "SPANISH": "gasta",
-      "ENGLISH": "s/he expends, you (formal) expends"
+      "SPANISH": "Gasta",
+      "ENGLISH": "He expends"
     },
     "ELLOS": {
-      "SPANISH": "gastan",
-      "ENGLISH": "they expend, you (plural formal) expend"
+      "SPANISH": "Gastan",
+      "ENGLISH": "They expend"
     },
     "NOSOTROS": {
-      "SPANISH": "gastamos",
-      "ENGLISH": "we expend"
+      "SPANISH": "Gastamos",
+      "ENGLISH": "We expend"
     },
     "VOSOTROS": {
-      "SPANISH": "gastáis",
-      "ENGLISH": "you (plural) expend"
+      "SPANISH": "Gastáis",
+      "ENGLISH": "You expend"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he gastado",
+      "SPANISH": "He gastado",
       "ENGLISH": "I have expended"
     },
     "TU": {
-      "SPANISH": "has gastado",
-      "ENGLISH": "you have expended"
+      "SPANISH": "Has gastado",
+      "ENGLISH": "You have expended"
     },
     "EL": {
-      "SPANISH": "ha gastado",
-      "ENGLISH": "s/he has expended, you (formal) have expended"
+      "SPANISH": "Ha gastado",
+      "ENGLISH": "He has expended"
     },
     "ELLOS": {
-      "SPANISH": "han gastado",
-      "ENGLISH": "they have expended, you (plural formal) have expended"
+      "SPANISH": "Han gastado",
+      "ENGLISH": "They have expended"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos gastado",
-      "ENGLISH": "we have expended"
+      "SPANISH": "Hemos gastado",
+      "ENGLISH": "We have expended"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis gastado",
-      "ENGLISH": "you (plural) have expended"
+      "SPANISH": "Habéis gastado",
+      "ENGLISH": "You have expended"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "gasté",
+      "SPANISH": "Gasté",
       "ENGLISH": "I expended"
     },
     "TU": {
-      "SPANISH": "gastaste",
-      "ENGLISH": "you expended"
+      "SPANISH": "Gastaste",
+      "ENGLISH": "You expended"
     },
     "EL": {
-      "SPANISH": "gastó",
-      "ENGLISH": "s/he expended, you (formal) expended"
+      "SPANISH": "Gastó",
+      "ENGLISH": "He expended"
     },
     "ELLOS": {
-      "SPANISH": "gastaron",
-      "ENGLISH": "they expended, you (plural formal) expended"
+      "SPANISH": "Gastaron",
+      "ENGLISH": "They expended"
     },
     "NOSOTROS": {
-      "SPANISH": "gastamos",
-      "ENGLISH": "we expended"
+      "SPANISH": "Gastamos",
+      "ENGLISH": "We expended"
     },
     "VOSOTROS": {
-      "SPANISH": "gastasteis",
-      "ENGLISH": "you (plural) expended"
+      "SPANISH": "Gastasteis",
+      "ENGLISH": "You expended"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había gastado",
+      "SPANISH": "Había gastado",
       "ENGLISH": "I had expended"
     },
     "TU": {
-      "SPANISH": "habías gastado",
-      "ENGLISH": "you had expended"
+      "SPANISH": "Habías gastado",
+      "ENGLISH": "You had expended"
     },
     "EL": {
-      "SPANISH": "había gastado",
-      "ENGLISH": "s/he had expended, you (formal) had expended"
+      "SPANISH": "Había gastado",
+      "ENGLISH": "He had expended"
     },
     "ELLOS": {
-      "SPANISH": "habían gastado",
-      "ENGLISH": "they had expended, you (plural formal) had expended"
+      "SPANISH": "Habían gastado",
+      "ENGLISH": "They had expended"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos gastado",
-      "ENGLISH": "we had expended"
+      "SPANISH": "Habíamos gastado",
+      "ENGLISH": "We had expended"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais gastado",
-      "ENGLISH": "you (plural) had expended"
+      "SPANISH": "Habíais gastado",
+      "ENGLISH": "You had expended"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "gasté",
+      "SPANISH": "Gasté",
       "ENGLISH": "I expended"
     },
     "TU": {
-      "SPANISH": "gastaste",
-      "ENGLISH": "you expended"
+      "SPANISH": "Gastaste",
+      "ENGLISH": "You expended"
     },
     "EL": {
-      "SPANISH": "gastó",
-      "ENGLISH": "s/he expended, you (formal) expended"
+      "SPANISH": "Gastó",
+      "ENGLISH": "He expended"
     },
     "ELLOS": {
-      "SPANISH": "gastaron",
-      "ENGLISH": "they expended, you (plural formal) expended"
+      "SPANISH": "Gastaron",
+      "ENGLISH": "They expended"
     },
     "NOSOTROS": {
-      "SPANISH": "gastamos",
-      "ENGLISH": "we expended"
+      "SPANISH": "Gastamos",
+      "ENGLISH": "We expended"
     },
     "VOSOTROS": {
-      "SPANISH": "gastasteis",
-      "ENGLISH": "you (plural) expended"
+      "SPANISH": "Gastasteis",
+      "ENGLISH": "You expended"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "gastaré",
+      "SPANISH": "Gastaré",
       "ENGLISH": "I will expend"
     },
     "TU": {
-      "SPANISH": "gastarás",
-      "ENGLISH": "you will expend"
+      "SPANISH": "Gastarás",
+      "ENGLISH": "You will expend"
     },
     "EL": {
-      "SPANISH": "gastará",
-      "ENGLISH": "s/he will expend, you (formal) will expend"
+      "SPANISH": "Gastará",
+      "ENGLISH": "He will expend"
     },
     "ELLOS": {
-      "SPANISH": "gastarán",
-      "ENGLISH": "they will expend, you (plural formal) will expend"
+      "SPANISH": "Gastarán",
+      "ENGLISH": "They will expend"
     },
     "NOSOTROS": {
-      "SPANISH": "gastaremos",
-      "ENGLISH": "we will expend"
+      "SPANISH": "Gastaremos",
+      "ENGLISH": "We will expend"
     },
     "VOSOTROS": {
-      "SPANISH": "gastaréis",
-      "ENGLISH": "you (plural) will expend"
+      "SPANISH": "Gastaréis",
+      "ENGLISH": "You will expend"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré gastado",
+      "SPANISH": "Habré gastado",
       "ENGLISH": "I will have expended"
     },
     "TU": {
-      "SPANISH": "habrás gastado",
-      "ENGLISH": "you will have expended"
+      "SPANISH": "Habrás gastado",
+      "ENGLISH": "You will have expended"
     },
     "EL": {
-      "SPANISH": "habrá gastado",
-      "ENGLISH": "s/he will have expended, you (formal) will have expended"
+      "SPANISH": "Habrá gastado",
+      "ENGLISH": "He will have expended"
     },
     "ELLOS": {
-      "SPANISH": "habrán gastado",
-      "ENGLISH": "they will have expended, you (plural formal) will have expended"
+      "SPANISH": "Habrán gastado",
+      "ENGLISH": "They will have expended"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos gastado",
-      "ENGLISH": "we will have expended"
+      "SPANISH": "Habremos gastado",
+      "ENGLISH": "We will have expended"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis gastado",
-      "ENGLISH": "you (plural) will have expended"
+      "SPANISH": "Habréis gastado",
+      "ENGLISH": "You will have expended"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "gastaría",
+      "SPANISH": "Gastaría",
       "ENGLISH": "I would expend"
     },
     "TU": {
-      "SPANISH": "gastarías",
-      "ENGLISH": "you would expend"
+      "SPANISH": "Gastarías",
+      "ENGLISH": "You would expend"
     },
     "EL": {
-      "SPANISH": "gastaría",
-      "ENGLISH": "s/he would expend, you (formal) would expend"
+      "SPANISH": "Gastaría",
+      "ENGLISH": "He would expend"
     },
     "ELLOS": {
-      "SPANISH": "gastarían",
-      "ENGLISH": "they would expend, you (plural formal) would expend"
+      "SPANISH": "Gastarían",
+      "ENGLISH": "They would expend"
     },
     "NOSOTROS": {
-      "SPANISH": "gastaríamos",
-      "ENGLISH": "we would expend"
+      "SPANISH": "Gastaríamos",
+      "ENGLISH": "We would expend"
     },
     "VOSOTROS": {
-      "SPANISH": "gastaríais",
-      "ENGLISH": "you (plural) would expend"
+      "SPANISH": "Gastaríais",
+      "ENGLISH": "You would expend"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría gastado",
+      "SPANISH": "Habría gastado",
       "ENGLISH": "I would have expended"
     },
     "TU": {
-      "SPANISH": "habrías gastado",
-      "ENGLISH": "you would have expended"
+      "SPANISH": "Habrías gastado",
+      "ENGLISH": "You would have expended"
     },
     "EL": {
-      "SPANISH": "habría gastado",
-      "ENGLISH": "s/he would have expended, you (formal) would have expended"
+      "SPANISH": "Habría gastado",
+      "ENGLISH": "He would have expended"
     },
     "ELLOS": {
-      "SPANISH": "habrían gastado",
-      "ENGLISH": "they would have expended, you (plural formal) would have expended"
+      "SPANISH": "Habrían gastado",
+      "ENGLISH": "They would have expended"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos gastado",
-      "ENGLISH": "we would have expended"
+      "SPANISH": "Habríamos gastado",
+      "ENGLISH": "We would have expended"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais gastado",
-      "ENGLISH": "you (plural) would have expended"
+      "SPANISH": "Habríais gastado",
+      "ENGLISH": "You would have expended"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "supongo ",
+      "SPANISH": "Supongo ",
       "ENGLISH": "I suppose"
     },
     "TU": {
-      "SPANISH": "supones",
-      "ENGLISH": "you suppose"
+      "SPANISH": "Supones",
+      "ENGLISH": "You suppose"
     },
     "EL": {
-      "SPANISH": "supone",
-      "ENGLISH": "s/he supposes, you (formal) supposes"
+      "SPANISH": "Supone",
+      "ENGLISH": "He supposes"
     },
     "ELLOS": {
-      "SPANISH": "suponen",
-      "ENGLISH": "they suppose, you (plural formal) suppose"
+      "SPANISH": "Suponen",
+      "ENGLISH": "They suppose"
     },
     "NOSOTROS": {
-      "SPANISH": "suponemos",
-      "ENGLISH": "we suppose"
+      "SPANISH": "Suponemos",
+      "ENGLISH": "We suppose"
     },
     "VOSOTROS": {
-      "SPANISH": "suponéis",
-      "ENGLISH": "you (plural) suppose"
+      "SPANISH": "Suponéis",
+      "ENGLISH": "You suppose"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he supuesto ",
+      "SPANISH": "He supuesto ",
       "ENGLISH": "I have supposed"
     },
     "TU": {
-      "SPANISH": "has supuesto ",
-      "ENGLISH": "you have supposed"
+      "SPANISH": "Has supuesto ",
+      "ENGLISH": "You have supposed"
     },
     "EL": {
-      "SPANISH": "ha supuesto ",
-      "ENGLISH": "s/he has supposed, you (formal) have supposed"
+      "SPANISH": "Ha supuesto ",
+      "ENGLISH": "He has supposed"
     },
     "ELLOS": {
-      "SPANISH": "han supuesto ",
-      "ENGLISH": "they have supposed, you (plural formal) have supposed"
+      "SPANISH": "Han supuesto ",
+      "ENGLISH": "They have supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos supuesto ",
-      "ENGLISH": "we have supposed"
+      "SPANISH": "Hemos supuesto ",
+      "ENGLISH": "We have supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis supuesto ",
-      "ENGLISH": "you (plural) have supposed"
+      "SPANISH": "Habéis supuesto ",
+      "ENGLISH": "You have supposed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "supuse ",
+      "SPANISH": "Supuse ",
       "ENGLISH": "I supposed"
     },
     "TU": {
-      "SPANISH": "supusiste ",
-      "ENGLISH": "you supposed"
+      "SPANISH": "Supusiste ",
+      "ENGLISH": "You supposed"
     },
     "EL": {
-      "SPANISH": "supuso ",
-      "ENGLISH": "s/he supposed, you (formal) supposed"
+      "SPANISH": "Supuso ",
+      "ENGLISH": "He supposed"
     },
     "ELLOS": {
-      "SPANISH": "supusieron ",
-      "ENGLISH": "they supposed, you (plural formal) supposed"
+      "SPANISH": "Supusieron ",
+      "ENGLISH": "They supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "supusimos ",
-      "ENGLISH": "we supposed"
+      "SPANISH": "Supusimos ",
+      "ENGLISH": "We supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "supusisteis ",
-      "ENGLISH": "you (plural) supposed"
+      "SPANISH": "Supusisteis ",
+      "ENGLISH": "You supposed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había supuesto ",
+      "SPANISH": "Había supuesto ",
       "ENGLISH": "I had supposed"
     },
     "TU": {
-      "SPANISH": "habías supuesto ",
-      "ENGLISH": "you had supposed"
+      "SPANISH": "Habías supuesto ",
+      "ENGLISH": "You had supposed"
     },
     "EL": {
-      "SPANISH": "había supuesto ",
-      "ENGLISH": "s/he had supposed, you (formal) had supposed"
+      "SPANISH": "Había supuesto ",
+      "ENGLISH": "He had supposed"
     },
     "ELLOS": {
-      "SPANISH": "habían supuesto ",
-      "ENGLISH": "they had supposed, you (plural formal) had supposed"
+      "SPANISH": "Habían supuesto ",
+      "ENGLISH": "They had supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos supuesto ",
-      "ENGLISH": "we had supposed"
+      "SPANISH": "Habíamos supuesto ",
+      "ENGLISH": "We had supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais supuesto ",
-      "ENGLISH": "you (plural) had supposed"
+      "SPANISH": "Habíais supuesto ",
+      "ENGLISH": "You had supposed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "supuse ",
+      "SPANISH": "Supuse ",
       "ENGLISH": "I supposed"
     },
     "TU": {
-      "SPANISH": "supusiste ",
-      "ENGLISH": "you supposed"
+      "SPANISH": "Supusiste ",
+      "ENGLISH": "You supposed"
     },
     "EL": {
-      "SPANISH": "supuso ",
-      "ENGLISH": "s/he supposed, you (formal) supposed"
+      "SPANISH": "Supuso ",
+      "ENGLISH": "He supposed"
     },
     "ELLOS": {
-      "SPANISH": "supusieron ",
-      "ENGLISH": "they supposed, you (plural formal) supposed"
+      "SPANISH": "Supusieron ",
+      "ENGLISH": "They supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "supusimos ",
-      "ENGLISH": "we supposed"
+      "SPANISH": "Supusimos ",
+      "ENGLISH": "We supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "supusisteis ",
-      "ENGLISH": "you (plural) supposed"
+      "SPANISH": "Supusisteis ",
+      "ENGLISH": "You supposed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "supondré ",
+      "SPANISH": "Supondré ",
       "ENGLISH": "I will suppose"
     },
     "TU": {
-      "SPANISH": "supondrás ",
-      "ENGLISH": "you will suppose"
+      "SPANISH": "Supondrás ",
+      "ENGLISH": "You will suppose"
     },
     "EL": {
-      "SPANISH": "supondrá ",
-      "ENGLISH": "s/he will suppose, you (formal) will suppose"
+      "SPANISH": "Supondrá ",
+      "ENGLISH": "He will suppose"
     },
     "ELLOS": {
-      "SPANISH": "supondrán ",
-      "ENGLISH": "they will suppose, you (plural formal) will suppose"
+      "SPANISH": "Supondrán ",
+      "ENGLISH": "They will suppose"
     },
     "NOSOTROS": {
-      "SPANISH": "supondremos ",
-      "ENGLISH": "we will suppose"
+      "SPANISH": "Supondremos ",
+      "ENGLISH": "We will suppose"
     },
     "VOSOTROS": {
-      "SPANISH": "supondréis ",
-      "ENGLISH": "you (plural) will suppose"
+      "SPANISH": "Supondréis ",
+      "ENGLISH": "You will suppose"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré supuesto ",
+      "SPANISH": "Habré supuesto ",
       "ENGLISH": "I will have supposed"
     },
     "TU": {
-      "SPANISH": "habrás supuesto ",
-      "ENGLISH": "you will have supposed"
+      "SPANISH": "Habrás supuesto ",
+      "ENGLISH": "You will have supposed"
     },
     "EL": {
-      "SPANISH": "habrá supuesto ",
-      "ENGLISH": "s/he will have supposed, you (formal) will have supposed"
+      "SPANISH": "Habrá supuesto ",
+      "ENGLISH": "He will have supposed"
     },
     "ELLOS": {
-      "SPANISH": "habrán supuesto ",
-      "ENGLISH": "they will have supposed, you (plural formal) will have supposed"
+      "SPANISH": "Habrán supuesto ",
+      "ENGLISH": "They will have supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos supuesto ",
-      "ENGLISH": "we will have supposed"
+      "SPANISH": "Habremos supuesto ",
+      "ENGLISH": "We will have supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis supuesto ",
-      "ENGLISH": "you (plural) will have supposed"
+      "SPANISH": "Habréis supuesto ",
+      "ENGLISH": "You will have supposed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "supondría ",
+      "SPANISH": "Supondría ",
       "ENGLISH": "I would suppose"
     },
     "TU": {
-      "SPANISH": "supondrías ",
-      "ENGLISH": "you would suppose"
+      "SPANISH": "Supondrías ",
+      "ENGLISH": "You would suppose"
     },
     "EL": {
-      "SPANISH": "supondría ",
-      "ENGLISH": "s/he would suppose, you (formal) would suppose"
+      "SPANISH": "Supondría ",
+      "ENGLISH": "He would suppose"
     },
     "ELLOS": {
-      "SPANISH": "supondrían ",
-      "ENGLISH": "they would suppose, you (plural formal) would suppose"
+      "SPANISH": "Supondrían ",
+      "ENGLISH": "They would suppose"
     },
     "NOSOTROS": {
-      "SPANISH": "supondríamos ",
-      "ENGLISH": "we would suppose"
+      "SPANISH": "Supondríamos ",
+      "ENGLISH": "We would suppose"
     },
     "VOSOTROS": {
-      "SPANISH": "supondríais ",
-      "ENGLISH": "you (plural) would suppose"
+      "SPANISH": "Supondríais ",
+      "ENGLISH": "You would suppose"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría supuesto ",
+      "SPANISH": "Habría supuesto ",
       "ENGLISH": "I would have supposed"
     },
     "TU": {
-      "SPANISH": "habrías supuesto ",
-      "ENGLISH": "you would have supposed"
+      "SPANISH": "Habrías supuesto ",
+      "ENGLISH": "You would have supposed"
     },
     "EL": {
-      "SPANISH": "habría supuesto ",
-      "ENGLISH": "s/he would have supposed, you (formal) would have supposed"
+      "SPANISH": "Habría supuesto ",
+      "ENGLISH": "He would have supposed"
     },
     "ELLOS": {
-      "SPANISH": "habrían supuesto ",
-      "ENGLISH": "they would have supposed, you (plural formal) would have supposed"
+      "SPANISH": "Habrían supuesto ",
+      "ENGLISH": "They would have supposed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos supuesto ",
-      "ENGLISH": "we would have supposed"
+      "SPANISH": "Habríamos supuesto ",
+      "ENGLISH": "We would have supposed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais supuesto ",
-      "ENGLISH": "you (plural) would have supposed"
+      "SPANISH": "Habríais supuesto ",
+      "ENGLISH": "You would have supposed"
     }
   }
 }

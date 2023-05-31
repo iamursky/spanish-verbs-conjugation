@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "saco",
+      "SPANISH": "Saco",
       "ENGLISH": "I take"
     },
     "TU": {
-      "SPANISH": "sacas",
-      "ENGLISH": "you take"
+      "SPANISH": "Sacas",
+      "ENGLISH": "You take"
     },
     "EL": {
-      "SPANISH": "saca",
-      "ENGLISH": "s/he takes, you (formal) takes"
+      "SPANISH": "Saca",
+      "ENGLISH": "He takes"
     },
     "ELLOS": {
-      "SPANISH": "sacan",
-      "ENGLISH": "they take, you (plural formal) take"
+      "SPANISH": "Sacan",
+      "ENGLISH": "They take"
     },
     "NOSOTROS": {
-      "SPANISH": "sacamos",
-      "ENGLISH": "we take"
+      "SPANISH": "Sacamos",
+      "ENGLISH": "We take"
     },
     "VOSOTROS": {
-      "SPANISH": "sacáis",
-      "ENGLISH": "you (plural) take"
+      "SPANISH": "Sacáis",
+      "ENGLISH": "You take"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he sacado",
+      "SPANISH": "He sacado",
       "ENGLISH": "I have taken"
     },
     "TU": {
-      "SPANISH": "has sacado",
-      "ENGLISH": "you have taken"
+      "SPANISH": "Has sacado",
+      "ENGLISH": "You have taken"
     },
     "EL": {
-      "SPANISH": "ha sacado",
-      "ENGLISH": "s/he has taken, you (formal) have taken"
+      "SPANISH": "Ha sacado",
+      "ENGLISH": "He has taken"
     },
     "ELLOS": {
-      "SPANISH": "han sacado",
-      "ENGLISH": "they have taken, you (plural formal) have taken"
+      "SPANISH": "Han sacado",
+      "ENGLISH": "They have taken"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos sacado",
-      "ENGLISH": "we have taken"
+      "SPANISH": "Hemos sacado",
+      "ENGLISH": "We have taken"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis sacado",
-      "ENGLISH": "you (plural) have taken"
+      "SPANISH": "Habéis sacado",
+      "ENGLISH": "You have taken"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "saqué ",
+      "SPANISH": "Saqué ",
       "ENGLISH": "I took"
     },
     "TU": {
-      "SPANISH": "sacaste",
-      "ENGLISH": "you took"
+      "SPANISH": "Sacaste",
+      "ENGLISH": "You took"
     },
     "EL": {
-      "SPANISH": "sacó",
-      "ENGLISH": "s/he took, you (formal) took"
+      "SPANISH": "Sacó",
+      "ENGLISH": "He took"
     },
     "ELLOS": {
-      "SPANISH": "sacaron",
-      "ENGLISH": "they took, you (plural formal) took"
+      "SPANISH": "Sacaron",
+      "ENGLISH": "They took"
     },
     "NOSOTROS": {
-      "SPANISH": "sacamos",
-      "ENGLISH": "we took"
+      "SPANISH": "Sacamos",
+      "ENGLISH": "We took"
     },
     "VOSOTROS": {
-      "SPANISH": "sacasteis",
-      "ENGLISH": "you (plural) took"
+      "SPANISH": "Sacasteis",
+      "ENGLISH": "You took"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había sacado",
+      "SPANISH": "Había sacado",
       "ENGLISH": "I had taken"
     },
     "TU": {
-      "SPANISH": "habías sacado",
-      "ENGLISH": "you had taken"
+      "SPANISH": "Habías sacado",
+      "ENGLISH": "You had taken"
     },
     "EL": {
-      "SPANISH": "había sacado",
-      "ENGLISH": "s/he had taken, you (formal) had taken"
+      "SPANISH": "Había sacado",
+      "ENGLISH": "He had taken"
     },
     "ELLOS": {
-      "SPANISH": "habían sacado",
-      "ENGLISH": "they had taken, you (plural formal) had taken"
+      "SPANISH": "Habían sacado",
+      "ENGLISH": "They had taken"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos sacado",
-      "ENGLISH": "we had taken"
+      "SPANISH": "Habíamos sacado",
+      "ENGLISH": "We had taken"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais sacado",
-      "ENGLISH": "you (plural) had taken"
+      "SPANISH": "Habíais sacado",
+      "ENGLISH": "You had taken"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "saqué ",
+      "SPANISH": "Saqué ",
       "ENGLISH": "I took"
     },
     "TU": {
-      "SPANISH": "sacaste",
-      "ENGLISH": "you took"
+      "SPANISH": "Sacaste",
+      "ENGLISH": "You took"
     },
     "EL": {
-      "SPANISH": "sacó",
-      "ENGLISH": "s/he took, you (formal) took"
+      "SPANISH": "Sacó",
+      "ENGLISH": "He took"
     },
     "ELLOS": {
-      "SPANISH": "sacaron",
-      "ENGLISH": "they took, you (plural formal) took"
+      "SPANISH": "Sacaron",
+      "ENGLISH": "They took"
     },
     "NOSOTROS": {
-      "SPANISH": "sacamos",
-      "ENGLISH": "we took"
+      "SPANISH": "Sacamos",
+      "ENGLISH": "We took"
     },
     "VOSOTROS": {
-      "SPANISH": "sacasteis",
-      "ENGLISH": "you (plural) took"
+      "SPANISH": "Sacasteis",
+      "ENGLISH": "You took"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "sacaré",
+      "SPANISH": "Sacaré",
       "ENGLISH": "I will take"
     },
     "TU": {
-      "SPANISH": "sacarás",
-      "ENGLISH": "you will take"
+      "SPANISH": "Sacarás",
+      "ENGLISH": "You will take"
     },
     "EL": {
-      "SPANISH": "sacará",
-      "ENGLISH": "s/he will take, you (formal) will take"
+      "SPANISH": "Sacará",
+      "ENGLISH": "He will take"
     },
     "ELLOS": {
-      "SPANISH": "sacarán",
-      "ENGLISH": "they will take, you (plural formal) will take"
+      "SPANISH": "Sacarán",
+      "ENGLISH": "They will take"
     },
     "NOSOTROS": {
-      "SPANISH": "sacaremos",
-      "ENGLISH": "we will take"
+      "SPANISH": "Sacaremos",
+      "ENGLISH": "We will take"
     },
     "VOSOTROS": {
-      "SPANISH": "sacaréis",
-      "ENGLISH": "you (plural) will take"
+      "SPANISH": "Sacaréis",
+      "ENGLISH": "You will take"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré sacado",
+      "SPANISH": "Habré sacado",
       "ENGLISH": "I will have taken"
     },
     "TU": {
-      "SPANISH": "habrás sacado",
-      "ENGLISH": "you will have taken"
+      "SPANISH": "Habrás sacado",
+      "ENGLISH": "You will have taken"
     },
     "EL": {
-      "SPANISH": "habrá sacado",
-      "ENGLISH": "s/he will have taken, you (formal) will have taken"
+      "SPANISH": "Habrá sacado",
+      "ENGLISH": "He will have taken"
     },
     "ELLOS": {
-      "SPANISH": "habrán sacado",
-      "ENGLISH": "they will have taken, you (plural formal) will have taken"
+      "SPANISH": "Habrán sacado",
+      "ENGLISH": "They will have taken"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos sacado",
-      "ENGLISH": "we will have taken"
+      "SPANISH": "Habremos sacado",
+      "ENGLISH": "We will have taken"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis sacado",
-      "ENGLISH": "you (plural) will have taken"
+      "SPANISH": "Habréis sacado",
+      "ENGLISH": "You will have taken"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "sacaría",
+      "SPANISH": "Sacaría",
       "ENGLISH": "I would take"
     },
     "TU": {
-      "SPANISH": "sacarías",
-      "ENGLISH": "you would take"
+      "SPANISH": "Sacarías",
+      "ENGLISH": "You would take"
     },
     "EL": {
-      "SPANISH": "sacaría",
-      "ENGLISH": "s/he would take, you (formal) would take"
+      "SPANISH": "Sacaría",
+      "ENGLISH": "He would take"
     },
     "ELLOS": {
-      "SPANISH": "sacarían",
-      "ENGLISH": "they would take, you (plural formal) would take"
+      "SPANISH": "Sacarían",
+      "ENGLISH": "They would take"
     },
     "NOSOTROS": {
-      "SPANISH": "sacaríamos",
-      "ENGLISH": "we would take"
+      "SPANISH": "Sacaríamos",
+      "ENGLISH": "We would take"
     },
     "VOSOTROS": {
-      "SPANISH": "sacaríais",
-      "ENGLISH": "you (plural) would take"
+      "SPANISH": "Sacaríais",
+      "ENGLISH": "You would take"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría sacado",
+      "SPANISH": "Habría sacado",
       "ENGLISH": "I would have taken"
     },
     "TU": {
-      "SPANISH": "habrías sacado",
-      "ENGLISH": "you would have taken"
+      "SPANISH": "Habrías sacado",
+      "ENGLISH": "You would have taken"
     },
     "EL": {
-      "SPANISH": "habría sacado",
-      "ENGLISH": "s/he would have taken, you (formal) would have taken"
+      "SPANISH": "Habría sacado",
+      "ENGLISH": "He would have taken"
     },
     "ELLOS": {
-      "SPANISH": "habrían sacado",
-      "ENGLISH": "they would have taken, you (plural formal) would have taken"
+      "SPANISH": "Habrían sacado",
+      "ENGLISH": "They would have taken"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos sacado",
-      "ENGLISH": "we would have taken"
+      "SPANISH": "Habríamos sacado",
+      "ENGLISH": "We would have taken"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais sacado",
-      "ENGLISH": "you (plural) would have taken"
+      "SPANISH": "Habríais sacado",
+      "ENGLISH": "You would have taken"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "represento",
+      "SPANISH": "Represento",
       "ENGLISH": "I represent"
     },
     "TU": {
-      "SPANISH": "representas",
-      "ENGLISH": "you represent"
+      "SPANISH": "Representas",
+      "ENGLISH": "You represent"
     },
     "EL": {
-      "SPANISH": "representa",
-      "ENGLISH": "s/he represents, you (formal) represents"
+      "SPANISH": "Representa",
+      "ENGLISH": "He represents"
     },
     "ELLOS": {
-      "SPANISH": "representan",
-      "ENGLISH": "they represent, you (plural formal) represent"
+      "SPANISH": "Representan",
+      "ENGLISH": "They represent"
     },
     "NOSOTROS": {
-      "SPANISH": "representamos",
-      "ENGLISH": "we represent"
+      "SPANISH": "Representamos",
+      "ENGLISH": "We represent"
     },
     "VOSOTROS": {
-      "SPANISH": "representáis",
-      "ENGLISH": "you (plural) represent"
+      "SPANISH": "Representáis",
+      "ENGLISH": "You represent"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he representado",
+      "SPANISH": "He representado",
       "ENGLISH": "I have represented"
     },
     "TU": {
-      "SPANISH": "has representado",
-      "ENGLISH": "you have represented"
+      "SPANISH": "Has representado",
+      "ENGLISH": "You have represented"
     },
     "EL": {
-      "SPANISH": "ha representado",
-      "ENGLISH": "s/he has represented, you (formal) have represented"
+      "SPANISH": "Ha representado",
+      "ENGLISH": "He has represented"
     },
     "ELLOS": {
-      "SPANISH": "han representado",
-      "ENGLISH": "they have represented, you (plural formal) have represented"
+      "SPANISH": "Han representado",
+      "ENGLISH": "They have represented"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos representado",
-      "ENGLISH": "we have represented"
+      "SPANISH": "Hemos representado",
+      "ENGLISH": "We have represented"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis representado",
-      "ENGLISH": "you (plural) have represented"
+      "SPANISH": "Habéis representado",
+      "ENGLISH": "You have represented"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "representé",
+      "SPANISH": "Representé",
       "ENGLISH": "I represented"
     },
     "TU": {
-      "SPANISH": "representaste",
-      "ENGLISH": "you represented"
+      "SPANISH": "Representaste",
+      "ENGLISH": "You represented"
     },
     "EL": {
-      "SPANISH": "representó",
-      "ENGLISH": "s/he represented, you (formal) represented"
+      "SPANISH": "Representó",
+      "ENGLISH": "He represented"
     },
     "ELLOS": {
-      "SPANISH": "representaron",
-      "ENGLISH": "they represented, you (plural formal) represented"
+      "SPANISH": "Representaron",
+      "ENGLISH": "They represented"
     },
     "NOSOTROS": {
-      "SPANISH": "representamos",
-      "ENGLISH": "we represented"
+      "SPANISH": "Representamos",
+      "ENGLISH": "We represented"
     },
     "VOSOTROS": {
-      "SPANISH": "representasteis",
-      "ENGLISH": "you (plural) represented"
+      "SPANISH": "Representasteis",
+      "ENGLISH": "You represented"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había representado",
+      "SPANISH": "Había representado",
       "ENGLISH": "I had represented"
     },
     "TU": {
-      "SPANISH": "habías representado",
-      "ENGLISH": "you had represented"
+      "SPANISH": "Habías representado",
+      "ENGLISH": "You had represented"
     },
     "EL": {
-      "SPANISH": "había representado",
-      "ENGLISH": "s/he had represented, you (formal) had represented"
+      "SPANISH": "Había representado",
+      "ENGLISH": "He had represented"
     },
     "ELLOS": {
-      "SPANISH": "habían representado",
-      "ENGLISH": "they had represented, you (plural formal) had represented"
+      "SPANISH": "Habían representado",
+      "ENGLISH": "They had represented"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos representado",
-      "ENGLISH": "we had represented"
+      "SPANISH": "Habíamos representado",
+      "ENGLISH": "We had represented"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais representado",
-      "ENGLISH": "you (plural) had represented"
+      "SPANISH": "Habíais representado",
+      "ENGLISH": "You had represented"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "representé",
+      "SPANISH": "Representé",
       "ENGLISH": "I represented"
     },
     "TU": {
-      "SPANISH": "representaste",
-      "ENGLISH": "you represented"
+      "SPANISH": "Representaste",
+      "ENGLISH": "You represented"
     },
     "EL": {
-      "SPANISH": "representó",
-      "ENGLISH": "s/he represented, you (formal) represented"
+      "SPANISH": "Representó",
+      "ENGLISH": "He represented"
     },
     "ELLOS": {
-      "SPANISH": "representaron",
-      "ENGLISH": "they represented, you (plural formal) represented"
+      "SPANISH": "Representaron",
+      "ENGLISH": "They represented"
     },
     "NOSOTROS": {
-      "SPANISH": "representamos",
-      "ENGLISH": "we represented"
+      "SPANISH": "Representamos",
+      "ENGLISH": "We represented"
     },
     "VOSOTROS": {
-      "SPANISH": "representasteis",
-      "ENGLISH": "you (plural) represented"
+      "SPANISH": "Representasteis",
+      "ENGLISH": "You represented"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "representaré",
+      "SPANISH": "Representaré",
       "ENGLISH": "I will represent"
     },
     "TU": {
-      "SPANISH": "representarás",
-      "ENGLISH": "you will represent"
+      "SPANISH": "Representarás",
+      "ENGLISH": "You will represent"
     },
     "EL": {
-      "SPANISH": "representará",
-      "ENGLISH": "s/he will represent, you (formal) will represent"
+      "SPANISH": "Representará",
+      "ENGLISH": "He will represent"
     },
     "ELLOS": {
-      "SPANISH": "representarán",
-      "ENGLISH": "they will represent, you (plural formal) will represent"
+      "SPANISH": "Representarán",
+      "ENGLISH": "They will represent"
     },
     "NOSOTROS": {
-      "SPANISH": "representaremos",
-      "ENGLISH": "we will represent"
+      "SPANISH": "Representaremos",
+      "ENGLISH": "We will represent"
     },
     "VOSOTROS": {
-      "SPANISH": "representaréis",
-      "ENGLISH": "you (plural) will represent"
+      "SPANISH": "Representaréis",
+      "ENGLISH": "You will represent"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré representado",
+      "SPANISH": "Habré representado",
       "ENGLISH": "I will have represented"
     },
     "TU": {
-      "SPANISH": "habrás representado",
-      "ENGLISH": "you will have represented"
+      "SPANISH": "Habrás representado",
+      "ENGLISH": "You will have represented"
     },
     "EL": {
-      "SPANISH": "habrá representado",
-      "ENGLISH": "s/he will have represented, you (formal) will have represented"
+      "SPANISH": "Habrá representado",
+      "ENGLISH": "He will have represented"
     },
     "ELLOS": {
-      "SPANISH": "habrán representado",
-      "ENGLISH": "they will have represented, you (plural formal) will have represented"
+      "SPANISH": "Habrán representado",
+      "ENGLISH": "They will have represented"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos representado",
-      "ENGLISH": "we will have represented"
+      "SPANISH": "Habremos representado",
+      "ENGLISH": "We will have represented"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis representado",
-      "ENGLISH": "you (plural) will have represented"
+      "SPANISH": "Habréis representado",
+      "ENGLISH": "You will have represented"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "representaría",
+      "SPANISH": "Representaría",
       "ENGLISH": "I would represent"
     },
     "TU": {
-      "SPANISH": "representarías",
-      "ENGLISH": "you would represent"
+      "SPANISH": "Representarías",
+      "ENGLISH": "You would represent"
     },
     "EL": {
-      "SPANISH": "representaría",
-      "ENGLISH": "s/he would represent, you (formal) would represent"
+      "SPANISH": "Representaría",
+      "ENGLISH": "He would represent"
     },
     "ELLOS": {
-      "SPANISH": "representarían",
-      "ENGLISH": "they would represent, you (plural formal) would represent"
+      "SPANISH": "Representarían",
+      "ENGLISH": "They would represent"
     },
     "NOSOTROS": {
-      "SPANISH": "representaríamos",
-      "ENGLISH": "we would represent"
+      "SPANISH": "Representaríamos",
+      "ENGLISH": "We would represent"
     },
     "VOSOTROS": {
-      "SPANISH": "representaríais",
-      "ENGLISH": "you (plural) would represent"
+      "SPANISH": "Representaríais",
+      "ENGLISH": "You would represent"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría representado",
+      "SPANISH": "Habría representado",
       "ENGLISH": "I would have represented"
     },
     "TU": {
-      "SPANISH": "habrías representado",
-      "ENGLISH": "you would have represented"
+      "SPANISH": "Habrías representado",
+      "ENGLISH": "You would have represented"
     },
     "EL": {
-      "SPANISH": "habría representado",
-      "ENGLISH": "s/he would have represented, you (formal) would have represented"
+      "SPANISH": "Habría representado",
+      "ENGLISH": "He would have represented"
     },
     "ELLOS": {
-      "SPANISH": "habrían representado",
-      "ENGLISH": "they would have represented, you (plural formal) would have represented"
+      "SPANISH": "Habrían representado",
+      "ENGLISH": "They would have represented"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos representado",
-      "ENGLISH": "we would have represented"
+      "SPANISH": "Habríamos representado",
+      "ENGLISH": "We would have represented"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais representado",
-      "ENGLISH": "you (plural) would have represented"
+      "SPANISH": "Habríais representado",
+      "ENGLISH": "You would have represented"
     }
   }
 }

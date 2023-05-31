@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "informo",
+      "SPANISH": "Informo",
       "ENGLISH": "I inform"
     },
     "TU": {
-      "SPANISH": "informas",
-      "ENGLISH": "you inform"
+      "SPANISH": "Informas",
+      "ENGLISH": "You inform"
     },
     "EL": {
-      "SPANISH": "informa",
-      "ENGLISH": "s/he informs, you (formal) informs"
+      "SPANISH": "Informa",
+      "ENGLISH": "He informs"
     },
     "ELLOS": {
-      "SPANISH": "informan",
-      "ENGLISH": "they inform, you (plural formal) inform"
+      "SPANISH": "Informan",
+      "ENGLISH": "They inform"
     },
     "NOSOTROS": {
-      "SPANISH": "informamos",
-      "ENGLISH": "we inform"
+      "SPANISH": "Informamos",
+      "ENGLISH": "We inform"
     },
     "VOSOTROS": {
-      "SPANISH": "informáis",
-      "ENGLISH": "you (plural) inform"
+      "SPANISH": "Informáis",
+      "ENGLISH": "You inform"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he informado",
+      "SPANISH": "He informado",
       "ENGLISH": "I have informed"
     },
     "TU": {
-      "SPANISH": "has informado",
-      "ENGLISH": "you have informed"
+      "SPANISH": "Has informado",
+      "ENGLISH": "You have informed"
     },
     "EL": {
-      "SPANISH": "ha informado",
-      "ENGLISH": "s/he has informed, you (formal) have informed"
+      "SPANISH": "Ha informado",
+      "ENGLISH": "He has informed"
     },
     "ELLOS": {
-      "SPANISH": "han informado",
-      "ENGLISH": "they have informed, you (plural formal) have informed"
+      "SPANISH": "Han informado",
+      "ENGLISH": "They have informed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos informado",
-      "ENGLISH": "we have informed"
+      "SPANISH": "Hemos informado",
+      "ENGLISH": "We have informed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis informado",
-      "ENGLISH": "you (plural) have informed"
+      "SPANISH": "Habéis informado",
+      "ENGLISH": "You have informed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "informé",
+      "SPANISH": "Informé",
       "ENGLISH": "I informed"
     },
     "TU": {
-      "SPANISH": "informaste",
-      "ENGLISH": "you informed"
+      "SPANISH": "Informaste",
+      "ENGLISH": "You informed"
     },
     "EL": {
-      "SPANISH": "informó",
-      "ENGLISH": "s/he informed, you (formal) informed"
+      "SPANISH": "Informó",
+      "ENGLISH": "He informed"
     },
     "ELLOS": {
-      "SPANISH": "informaron",
-      "ENGLISH": "they informed, you (plural formal) informed"
+      "SPANISH": "Informaron",
+      "ENGLISH": "They informed"
     },
     "NOSOTROS": {
-      "SPANISH": "informamos",
-      "ENGLISH": "we informed"
+      "SPANISH": "Informamos",
+      "ENGLISH": "We informed"
     },
     "VOSOTROS": {
-      "SPANISH": "informasteis",
-      "ENGLISH": "you (plural) informed"
+      "SPANISH": "Informasteis",
+      "ENGLISH": "You informed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había informado",
+      "SPANISH": "Había informado",
       "ENGLISH": "I had informed"
     },
     "TU": {
-      "SPANISH": "habías informado",
-      "ENGLISH": "you had informed"
+      "SPANISH": "Habías informado",
+      "ENGLISH": "You had informed"
     },
     "EL": {
-      "SPANISH": "había informado",
-      "ENGLISH": "s/he had informed, you (formal) had informed"
+      "SPANISH": "Había informado",
+      "ENGLISH": "He had informed"
     },
     "ELLOS": {
-      "SPANISH": "habían informado",
-      "ENGLISH": "they had informed, you (plural formal) had informed"
+      "SPANISH": "Habían informado",
+      "ENGLISH": "They had informed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos informado",
-      "ENGLISH": "we had informed"
+      "SPANISH": "Habíamos informado",
+      "ENGLISH": "We had informed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais informado",
-      "ENGLISH": "you (plural) had informed"
+      "SPANISH": "Habíais informado",
+      "ENGLISH": "You had informed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "informé",
+      "SPANISH": "Informé",
       "ENGLISH": "I informed"
     },
     "TU": {
-      "SPANISH": "informaste",
-      "ENGLISH": "you informed"
+      "SPANISH": "Informaste",
+      "ENGLISH": "You informed"
     },
     "EL": {
-      "SPANISH": "informó",
-      "ENGLISH": "s/he informed, you (formal) informed"
+      "SPANISH": "Informó",
+      "ENGLISH": "He informed"
     },
     "ELLOS": {
-      "SPANISH": "informaron",
-      "ENGLISH": "they informed, you (plural formal) informed"
+      "SPANISH": "Informaron",
+      "ENGLISH": "They informed"
     },
     "NOSOTROS": {
-      "SPANISH": "informamos",
-      "ENGLISH": "we informed"
+      "SPANISH": "Informamos",
+      "ENGLISH": "We informed"
     },
     "VOSOTROS": {
-      "SPANISH": "informasteis",
-      "ENGLISH": "you (plural) informed"
+      "SPANISH": "Informasteis",
+      "ENGLISH": "You informed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "informaré",
+      "SPANISH": "Informaré",
       "ENGLISH": "I will inform"
     },
     "TU": {
-      "SPANISH": "informarás",
-      "ENGLISH": "you will inform"
+      "SPANISH": "Informarás",
+      "ENGLISH": "You will inform"
     },
     "EL": {
-      "SPANISH": "informará",
-      "ENGLISH": "s/he will inform, you (formal) will inform"
+      "SPANISH": "Informará",
+      "ENGLISH": "He will inform"
     },
     "ELLOS": {
-      "SPANISH": "informarán",
-      "ENGLISH": "they will inform, you (plural formal) will inform"
+      "SPANISH": "Informarán",
+      "ENGLISH": "They will inform"
     },
     "NOSOTROS": {
-      "SPANISH": "informaremos",
-      "ENGLISH": "we will inform"
+      "SPANISH": "Informaremos",
+      "ENGLISH": "We will inform"
     },
     "VOSOTROS": {
-      "SPANISH": "informaréis",
-      "ENGLISH": "you (plural) will inform"
+      "SPANISH": "Informaréis",
+      "ENGLISH": "You will inform"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré informado",
+      "SPANISH": "Habré informado",
       "ENGLISH": "I will have informed"
     },
     "TU": {
-      "SPANISH": "habrás informado",
-      "ENGLISH": "you will have informed"
+      "SPANISH": "Habrás informado",
+      "ENGLISH": "You will have informed"
     },
     "EL": {
-      "SPANISH": "habrá informado",
-      "ENGLISH": "s/he will have informed, you (formal) will have informed"
+      "SPANISH": "Habrá informado",
+      "ENGLISH": "He will have informed"
     },
     "ELLOS": {
-      "SPANISH": "habrán informado",
-      "ENGLISH": "they will have informed, you (plural formal) will have informed"
+      "SPANISH": "Habrán informado",
+      "ENGLISH": "They will have informed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos informado",
-      "ENGLISH": "we will have informed"
+      "SPANISH": "Habremos informado",
+      "ENGLISH": "We will have informed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis informado",
-      "ENGLISH": "you (plural) will have informed"
+      "SPANISH": "Habréis informado",
+      "ENGLISH": "You will have informed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "informaría",
+      "SPANISH": "Informaría",
       "ENGLISH": "I would inform"
     },
     "TU": {
-      "SPANISH": "informarías",
-      "ENGLISH": "you would inform"
+      "SPANISH": "Informarías",
+      "ENGLISH": "You would inform"
     },
     "EL": {
-      "SPANISH": "informaría",
-      "ENGLISH": "s/he would inform, you (formal) would inform"
+      "SPANISH": "Informaría",
+      "ENGLISH": "He would inform"
     },
     "ELLOS": {
-      "SPANISH": "informarían",
-      "ENGLISH": "they would inform, you (plural formal) would inform"
+      "SPANISH": "Informarían",
+      "ENGLISH": "They would inform"
     },
     "NOSOTROS": {
-      "SPANISH": "informaríamos",
-      "ENGLISH": "we would inform"
+      "SPANISH": "Informaríamos",
+      "ENGLISH": "We would inform"
     },
     "VOSOTROS": {
-      "SPANISH": "informaríais",
-      "ENGLISH": "you (plural) would inform"
+      "SPANISH": "Informaríais",
+      "ENGLISH": "You would inform"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría informado",
+      "SPANISH": "Habría informado",
       "ENGLISH": "I would have informed"
     },
     "TU": {
-      "SPANISH": "habrías informado",
-      "ENGLISH": "you would have informed"
+      "SPANISH": "Habrías informado",
+      "ENGLISH": "You would have informed"
     },
     "EL": {
-      "SPANISH": "habría informado",
-      "ENGLISH": "s/he would have informed, you (formal) would have informed"
+      "SPANISH": "Habría informado",
+      "ENGLISH": "He would have informed"
     },
     "ELLOS": {
-      "SPANISH": "habrían informado",
-      "ENGLISH": "they would have informed, you (plural formal) would have informed"
+      "SPANISH": "Habrían informado",
+      "ENGLISH": "They would have informed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos informado",
-      "ENGLISH": "we would have informed"
+      "SPANISH": "Habríamos informado",
+      "ENGLISH": "We would have informed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais informado",
-      "ENGLISH": "you (plural) would have informed"
+      "SPANISH": "Habríais informado",
+      "ENGLISH": "You would have informed"
     }
   }
 }

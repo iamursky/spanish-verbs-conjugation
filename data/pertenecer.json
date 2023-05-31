@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pertenezco ",
+      "SPANISH": "Pertenezco ",
       "ENGLISH": "I belong"
     },
     "TU": {
-      "SPANISH": "perteneces",
-      "ENGLISH": "you belong"
+      "SPANISH": "Perteneces",
+      "ENGLISH": "You belong"
     },
     "EL": {
-      "SPANISH": "pertenece",
-      "ENGLISH": "s/he belongs, you (formal) belongs"
+      "SPANISH": "Pertenece",
+      "ENGLISH": "He belongs"
     },
     "ELLOS": {
-      "SPANISH": "pertenecen",
-      "ENGLISH": "they belong, you (plural formal) belong"
+      "SPANISH": "Pertenecen",
+      "ENGLISH": "They belong"
     },
     "NOSOTROS": {
-      "SPANISH": "pertenecemos",
-      "ENGLISH": "we belong"
+      "SPANISH": "Pertenecemos",
+      "ENGLISH": "We belong"
     },
     "VOSOTROS": {
-      "SPANISH": "pertenecéis",
-      "ENGLISH": "you (plural) belong"
+      "SPANISH": "Pertenecéis",
+      "ENGLISH": "You belong"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he pertenecido",
+      "SPANISH": "He pertenecido",
       "ENGLISH": "I have belonged"
     },
     "TU": {
-      "SPANISH": "has pertenecido",
-      "ENGLISH": "you have belonged"
+      "SPANISH": "Has pertenecido",
+      "ENGLISH": "You have belonged"
     },
     "EL": {
-      "SPANISH": "ha pertenecido",
-      "ENGLISH": "s/he has belonged, you (formal) have belonged"
+      "SPANISH": "Ha pertenecido",
+      "ENGLISH": "He has belonged"
     },
     "ELLOS": {
-      "SPANISH": "han pertenecido",
-      "ENGLISH": "they have belonged, you (plural formal) have belonged"
+      "SPANISH": "Han pertenecido",
+      "ENGLISH": "They have belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos pertenecido",
-      "ENGLISH": "we have belonged"
+      "SPANISH": "Hemos pertenecido",
+      "ENGLISH": "We have belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis pertenecido",
-      "ENGLISH": "you (plural) have belonged"
+      "SPANISH": "Habéis pertenecido",
+      "ENGLISH": "You have belonged"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "pertenecí",
+      "SPANISH": "Pertenecí",
       "ENGLISH": "I belonged"
     },
     "TU": {
-      "SPANISH": "perteneciste",
-      "ENGLISH": "you belonged"
+      "SPANISH": "Perteneciste",
+      "ENGLISH": "You belonged"
     },
     "EL": {
-      "SPANISH": "perteneció",
-      "ENGLISH": "s/he belonged, you (formal) belonged"
+      "SPANISH": "Perteneció",
+      "ENGLISH": "He belonged"
     },
     "ELLOS": {
-      "SPANISH": "pertenecieron",
-      "ENGLISH": "they belonged, you (plural formal) belonged"
+      "SPANISH": "Pertenecieron",
+      "ENGLISH": "They belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "pertenecimos",
-      "ENGLISH": "we belonged"
+      "SPANISH": "Pertenecimos",
+      "ENGLISH": "We belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "pertenecisteis",
-      "ENGLISH": "you (plural) belonged"
+      "SPANISH": "Pertenecisteis",
+      "ENGLISH": "You belonged"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había pertenecido",
+      "SPANISH": "Había pertenecido",
       "ENGLISH": "I had belonged"
     },
     "TU": {
-      "SPANISH": "habías pertenecido",
-      "ENGLISH": "you had belonged"
+      "SPANISH": "Habías pertenecido",
+      "ENGLISH": "You had belonged"
     },
     "EL": {
-      "SPANISH": "había pertenecido",
-      "ENGLISH": "s/he had belonged, you (formal) had belonged"
+      "SPANISH": "Había pertenecido",
+      "ENGLISH": "He had belonged"
     },
     "ELLOS": {
-      "SPANISH": "habían pertenecido",
-      "ENGLISH": "they had belonged, you (plural formal) had belonged"
+      "SPANISH": "Habían pertenecido",
+      "ENGLISH": "They had belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos pertenecido",
-      "ENGLISH": "we had belonged"
+      "SPANISH": "Habíamos pertenecido",
+      "ENGLISH": "We had belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais pertenecido",
-      "ENGLISH": "you (plural) had belonged"
+      "SPANISH": "Habíais pertenecido",
+      "ENGLISH": "You had belonged"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "pertenecí",
+      "SPANISH": "Pertenecí",
       "ENGLISH": "I belonged"
     },
     "TU": {
-      "SPANISH": "perteneciste",
-      "ENGLISH": "you belonged"
+      "SPANISH": "Perteneciste",
+      "ENGLISH": "You belonged"
     },
     "EL": {
-      "SPANISH": "perteneció",
-      "ENGLISH": "s/he belonged, you (formal) belonged"
+      "SPANISH": "Perteneció",
+      "ENGLISH": "He belonged"
     },
     "ELLOS": {
-      "SPANISH": "pertenecieron",
-      "ENGLISH": "they belonged, you (plural formal) belonged"
+      "SPANISH": "Pertenecieron",
+      "ENGLISH": "They belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "pertenecimos",
-      "ENGLISH": "we belonged"
+      "SPANISH": "Pertenecimos",
+      "ENGLISH": "We belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "pertenecisteis",
-      "ENGLISH": "you (plural) belonged"
+      "SPANISH": "Pertenecisteis",
+      "ENGLISH": "You belonged"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "perteneceré",
+      "SPANISH": "Perteneceré",
       "ENGLISH": "I will belong"
     },
     "TU": {
-      "SPANISH": "pertenecerás",
-      "ENGLISH": "you will belong"
+      "SPANISH": "Pertenecerás",
+      "ENGLISH": "You will belong"
     },
     "EL": {
-      "SPANISH": "pertenecerá",
-      "ENGLISH": "s/he will belong, you (formal) will belong"
+      "SPANISH": "Pertenecerá",
+      "ENGLISH": "He will belong"
     },
     "ELLOS": {
-      "SPANISH": "pertenecerán",
-      "ENGLISH": "they will belong, you (plural formal) will belong"
+      "SPANISH": "Pertenecerán",
+      "ENGLISH": "They will belong"
     },
     "NOSOTROS": {
-      "SPANISH": "perteneceremos",
-      "ENGLISH": "we will belong"
+      "SPANISH": "Perteneceremos",
+      "ENGLISH": "We will belong"
     },
     "VOSOTROS": {
-      "SPANISH": "perteneceréis",
-      "ENGLISH": "you (plural) will belong"
+      "SPANISH": "Perteneceréis",
+      "ENGLISH": "You will belong"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré pertenecido",
+      "SPANISH": "Habré pertenecido",
       "ENGLISH": "I will have belonged"
     },
     "TU": {
-      "SPANISH": "habrás pertenecido",
-      "ENGLISH": "you will have belonged"
+      "SPANISH": "Habrás pertenecido",
+      "ENGLISH": "You will have belonged"
     },
     "EL": {
-      "SPANISH": "habrá pertenecido",
-      "ENGLISH": "s/he will have belonged, you (formal) will have belonged"
+      "SPANISH": "Habrá pertenecido",
+      "ENGLISH": "He will have belonged"
     },
     "ELLOS": {
-      "SPANISH": "habrán pertenecido",
-      "ENGLISH": "they will have belonged, you (plural formal) will have belonged"
+      "SPANISH": "Habrán pertenecido",
+      "ENGLISH": "They will have belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos pertenecido",
-      "ENGLISH": "we will have belonged"
+      "SPANISH": "Habremos pertenecido",
+      "ENGLISH": "We will have belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis pertenecido",
-      "ENGLISH": "you (plural) will have belonged"
+      "SPANISH": "Habréis pertenecido",
+      "ENGLISH": "You will have belonged"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pertenecería",
+      "SPANISH": "Pertenecería",
       "ENGLISH": "I would belong"
     },
     "TU": {
-      "SPANISH": "pertenecerías",
-      "ENGLISH": "you would belong"
+      "SPANISH": "Pertenecerías",
+      "ENGLISH": "You would belong"
     },
     "EL": {
-      "SPANISH": "pertenecería",
-      "ENGLISH": "s/he would belong, you (formal) would belong"
+      "SPANISH": "Pertenecería",
+      "ENGLISH": "He would belong"
     },
     "ELLOS": {
-      "SPANISH": "pertenecerían",
-      "ENGLISH": "they would belong, you (plural formal) would belong"
+      "SPANISH": "Pertenecerían",
+      "ENGLISH": "They would belong"
     },
     "NOSOTROS": {
-      "SPANISH": "perteneceríamos",
-      "ENGLISH": "we would belong"
+      "SPANISH": "Perteneceríamos",
+      "ENGLISH": "We would belong"
     },
     "VOSOTROS": {
-      "SPANISH": "perteneceríais",
-      "ENGLISH": "you (plural) would belong"
+      "SPANISH": "Perteneceríais",
+      "ENGLISH": "You would belong"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría pertenecido",
+      "SPANISH": "Habría pertenecido",
       "ENGLISH": "I would have belonged"
     },
     "TU": {
-      "SPANISH": "habrías pertenecido",
-      "ENGLISH": "you would have belonged"
+      "SPANISH": "Habrías pertenecido",
+      "ENGLISH": "You would have belonged"
     },
     "EL": {
-      "SPANISH": "habría pertenecido",
-      "ENGLISH": "s/he would have belonged, you (formal) would have belonged"
+      "SPANISH": "Habría pertenecido",
+      "ENGLISH": "He would have belonged"
     },
     "ELLOS": {
-      "SPANISH": "habrían pertenecido",
-      "ENGLISH": "they would have belonged, you (plural formal) would have belonged"
+      "SPANISH": "Habrían pertenecido",
+      "ENGLISH": "They would have belonged"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos pertenecido",
-      "ENGLISH": "we would have belonged"
+      "SPANISH": "Habríamos pertenecido",
+      "ENGLISH": "We would have belonged"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais pertenecido",
-      "ENGLISH": "you (plural) would have belonged"
+      "SPANISH": "Habríais pertenecido",
+      "ENGLISH": "You would have belonged"
     }
   }
 }

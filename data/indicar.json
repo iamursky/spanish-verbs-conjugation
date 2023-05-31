@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "indico",
+      "SPANISH": "Indico",
       "ENGLISH": "I indicate"
     },
     "TU": {
-      "SPANISH": "indicas",
-      "ENGLISH": "you indicate"
+      "SPANISH": "Indicas",
+      "ENGLISH": "You indicate"
     },
     "EL": {
-      "SPANISH": "indica",
-      "ENGLISH": "s/he indicates, you (formal) indicates"
+      "SPANISH": "Indica",
+      "ENGLISH": "He indicates"
     },
     "ELLOS": {
-      "SPANISH": "indican",
-      "ENGLISH": "they indicate, you (plural formal) indicate"
+      "SPANISH": "Indican",
+      "ENGLISH": "They indicate"
     },
     "NOSOTROS": {
-      "SPANISH": "indicamos",
-      "ENGLISH": "we indicate"
+      "SPANISH": "Indicamos",
+      "ENGLISH": "We indicate"
     },
     "VOSOTROS": {
-      "SPANISH": "indicáis",
-      "ENGLISH": "you (plural) indicate"
+      "SPANISH": "Indicáis",
+      "ENGLISH": "You indicate"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he indicado",
+      "SPANISH": "He indicado",
       "ENGLISH": "I have indicated"
     },
     "TU": {
-      "SPANISH": "has indicado",
-      "ENGLISH": "you have indicated"
+      "SPANISH": "Has indicado",
+      "ENGLISH": "You have indicated"
     },
     "EL": {
-      "SPANISH": "ha indicado",
-      "ENGLISH": "s/he has indicated, you (formal) have indicated"
+      "SPANISH": "Ha indicado",
+      "ENGLISH": "He has indicated"
     },
     "ELLOS": {
-      "SPANISH": "han indicado",
-      "ENGLISH": "they have indicated, you (plural formal) have indicated"
+      "SPANISH": "Han indicado",
+      "ENGLISH": "They have indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos indicado",
-      "ENGLISH": "we have indicated"
+      "SPANISH": "Hemos indicado",
+      "ENGLISH": "We have indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis indicado",
-      "ENGLISH": "you (plural) have indicated"
+      "SPANISH": "Habéis indicado",
+      "ENGLISH": "You have indicated"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "indiqué ",
+      "SPANISH": "Indiqué ",
       "ENGLISH": "I indicated"
     },
     "TU": {
-      "SPANISH": "indicaste",
-      "ENGLISH": "you indicated"
+      "SPANISH": "Indicaste",
+      "ENGLISH": "You indicated"
     },
     "EL": {
-      "SPANISH": "indicó",
-      "ENGLISH": "s/he indicated, you (formal) indicated"
+      "SPANISH": "Indicó",
+      "ENGLISH": "He indicated"
     },
     "ELLOS": {
-      "SPANISH": "indicaron",
-      "ENGLISH": "they indicated, you (plural formal) indicated"
+      "SPANISH": "Indicaron",
+      "ENGLISH": "They indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "indicamos",
-      "ENGLISH": "we indicated"
+      "SPANISH": "Indicamos",
+      "ENGLISH": "We indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "indicasteis",
-      "ENGLISH": "you (plural) indicated"
+      "SPANISH": "Indicasteis",
+      "ENGLISH": "You indicated"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había indicado",
+      "SPANISH": "Había indicado",
       "ENGLISH": "I had indicated"
     },
     "TU": {
-      "SPANISH": "habías indicado",
-      "ENGLISH": "you had indicated"
+      "SPANISH": "Habías indicado",
+      "ENGLISH": "You had indicated"
     },
     "EL": {
-      "SPANISH": "había indicado",
-      "ENGLISH": "s/he had indicated, you (formal) had indicated"
+      "SPANISH": "Había indicado",
+      "ENGLISH": "He had indicated"
     },
     "ELLOS": {
-      "SPANISH": "habían indicado",
-      "ENGLISH": "they had indicated, you (plural formal) had indicated"
+      "SPANISH": "Habían indicado",
+      "ENGLISH": "They had indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos indicado",
-      "ENGLISH": "we had indicated"
+      "SPANISH": "Habíamos indicado",
+      "ENGLISH": "We had indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais indicado",
-      "ENGLISH": "you (plural) had indicated"
+      "SPANISH": "Habíais indicado",
+      "ENGLISH": "You had indicated"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "indiqué ",
+      "SPANISH": "Indiqué ",
       "ENGLISH": "I indicated"
     },
     "TU": {
-      "SPANISH": "indicaste",
-      "ENGLISH": "you indicated"
+      "SPANISH": "Indicaste",
+      "ENGLISH": "You indicated"
     },
     "EL": {
-      "SPANISH": "indicó",
-      "ENGLISH": "s/he indicated, you (formal) indicated"
+      "SPANISH": "Indicó",
+      "ENGLISH": "He indicated"
     },
     "ELLOS": {
-      "SPANISH": "indicaron",
-      "ENGLISH": "they indicated, you (plural formal) indicated"
+      "SPANISH": "Indicaron",
+      "ENGLISH": "They indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "indicamos",
-      "ENGLISH": "we indicated"
+      "SPANISH": "Indicamos",
+      "ENGLISH": "We indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "indicasteis",
-      "ENGLISH": "you (plural) indicated"
+      "SPANISH": "Indicasteis",
+      "ENGLISH": "You indicated"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "indicaré",
+      "SPANISH": "Indicaré",
       "ENGLISH": "I will indicate"
     },
     "TU": {
-      "SPANISH": "indicarás",
-      "ENGLISH": "you will indicate"
+      "SPANISH": "Indicarás",
+      "ENGLISH": "You will indicate"
     },
     "EL": {
-      "SPANISH": "indicará",
-      "ENGLISH": "s/he will indicate, you (formal) will indicate"
+      "SPANISH": "Indicará",
+      "ENGLISH": "He will indicate"
     },
     "ELLOS": {
-      "SPANISH": "indicarán",
-      "ENGLISH": "they will indicate, you (plural formal) will indicate"
+      "SPANISH": "Indicarán",
+      "ENGLISH": "They will indicate"
     },
     "NOSOTROS": {
-      "SPANISH": "indicaremos",
-      "ENGLISH": "we will indicate"
+      "SPANISH": "Indicaremos",
+      "ENGLISH": "We will indicate"
     },
     "VOSOTROS": {
-      "SPANISH": "indicaréis",
-      "ENGLISH": "you (plural) will indicate"
+      "SPANISH": "Indicaréis",
+      "ENGLISH": "You will indicate"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré indicado",
+      "SPANISH": "Habré indicado",
       "ENGLISH": "I will have indicated"
     },
     "TU": {
-      "SPANISH": "habrás indicado",
-      "ENGLISH": "you will have indicated"
+      "SPANISH": "Habrás indicado",
+      "ENGLISH": "You will have indicated"
     },
     "EL": {
-      "SPANISH": "habrá indicado",
-      "ENGLISH": "s/he will have indicated, you (formal) will have indicated"
+      "SPANISH": "Habrá indicado",
+      "ENGLISH": "He will have indicated"
     },
     "ELLOS": {
-      "SPANISH": "habrán indicado",
-      "ENGLISH": "they will have indicated, you (plural formal) will have indicated"
+      "SPANISH": "Habrán indicado",
+      "ENGLISH": "They will have indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos indicado",
-      "ENGLISH": "we will have indicated"
+      "SPANISH": "Habremos indicado",
+      "ENGLISH": "We will have indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis indicado",
-      "ENGLISH": "you (plural) will have indicated"
+      "SPANISH": "Habréis indicado",
+      "ENGLISH": "You will have indicated"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "indicaría",
+      "SPANISH": "Indicaría",
       "ENGLISH": "I would indicate"
     },
     "TU": {
-      "SPANISH": "indicarías",
-      "ENGLISH": "you would indicate"
+      "SPANISH": "Indicarías",
+      "ENGLISH": "You would indicate"
     },
     "EL": {
-      "SPANISH": "indicaría",
-      "ENGLISH": "s/he would indicate, you (formal) would indicate"
+      "SPANISH": "Indicaría",
+      "ENGLISH": "He would indicate"
     },
     "ELLOS": {
-      "SPANISH": "indicarían",
-      "ENGLISH": "they would indicate, you (plural formal) would indicate"
+      "SPANISH": "Indicarían",
+      "ENGLISH": "They would indicate"
     },
     "NOSOTROS": {
-      "SPANISH": "indicaríamos",
-      "ENGLISH": "we would indicate"
+      "SPANISH": "Indicaríamos",
+      "ENGLISH": "We would indicate"
     },
     "VOSOTROS": {
-      "SPANISH": "indicaríais",
-      "ENGLISH": "you (plural) would indicate"
+      "SPANISH": "Indicaríais",
+      "ENGLISH": "You would indicate"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría indicado",
+      "SPANISH": "Habría indicado",
       "ENGLISH": "I would have indicated"
     },
     "TU": {
-      "SPANISH": "habrías indicado",
-      "ENGLISH": "you would have indicated"
+      "SPANISH": "Habrías indicado",
+      "ENGLISH": "You would have indicated"
     },
     "EL": {
-      "SPANISH": "habría indicado",
-      "ENGLISH": "s/he would have indicated, you (formal) would have indicated"
+      "SPANISH": "Habría indicado",
+      "ENGLISH": "He would have indicated"
     },
     "ELLOS": {
-      "SPANISH": "habrían indicado",
-      "ENGLISH": "they would have indicated, you (plural formal) would have indicated"
+      "SPANISH": "Habrían indicado",
+      "ENGLISH": "They would have indicated"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos indicado",
-      "ENGLISH": "we would have indicated"
+      "SPANISH": "Habríamos indicado",
+      "ENGLISH": "We would have indicated"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais indicado",
-      "ENGLISH": "you (plural) would have indicated"
+      "SPANISH": "Habríais indicado",
+      "ENGLISH": "You would have indicated"
     }
   }
 }

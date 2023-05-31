@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "protejo ",
+      "SPANISH": "Protejo ",
       "ENGLISH": "I protect"
     },
     "TU": {
-      "SPANISH": "proteges",
-      "ENGLISH": "you protect"
+      "SPANISH": "Proteges",
+      "ENGLISH": "You protect"
     },
     "EL": {
-      "SPANISH": "protege",
-      "ENGLISH": "s/he protects, you (formal) protects"
+      "SPANISH": "Protege",
+      "ENGLISH": "He protects"
     },
     "ELLOS": {
-      "SPANISH": "protegen",
-      "ENGLISH": "they protect, you (plural formal) protect"
+      "SPANISH": "Protegen",
+      "ENGLISH": "They protect"
     },
     "NOSOTROS": {
-      "SPANISH": "protegemos",
-      "ENGLISH": "we protect"
+      "SPANISH": "Protegemos",
+      "ENGLISH": "We protect"
     },
     "VOSOTROS": {
-      "SPANISH": "protegéis",
-      "ENGLISH": "you (plural) protect"
+      "SPANISH": "Protegéis",
+      "ENGLISH": "You protect"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he protegido",
+      "SPANISH": "He protegido",
       "ENGLISH": "I have protected"
     },
     "TU": {
-      "SPANISH": "has protegido",
-      "ENGLISH": "you have protected"
+      "SPANISH": "Has protegido",
+      "ENGLISH": "You have protected"
     },
     "EL": {
-      "SPANISH": "ha protegido",
-      "ENGLISH": "s/he has protected, you (formal) have protected"
+      "SPANISH": "Ha protegido",
+      "ENGLISH": "He has protected"
     },
     "ELLOS": {
-      "SPANISH": "han protegido",
-      "ENGLISH": "they have protected, you (plural formal) have protected"
+      "SPANISH": "Han protegido",
+      "ENGLISH": "They have protected"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos protegido",
-      "ENGLISH": "we have protected"
+      "SPANISH": "Hemos protegido",
+      "ENGLISH": "We have protected"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis protegido",
-      "ENGLISH": "you (plural) have protected"
+      "SPANISH": "Habéis protegido",
+      "ENGLISH": "You have protected"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "protegí",
+      "SPANISH": "Protegí",
       "ENGLISH": "I protected"
     },
     "TU": {
-      "SPANISH": "protegiste",
-      "ENGLISH": "you protected"
+      "SPANISH": "Protegiste",
+      "ENGLISH": "You protected"
     },
     "EL": {
-      "SPANISH": "protegió",
-      "ENGLISH": "s/he protected, you (formal) protected"
+      "SPANISH": "Protegió",
+      "ENGLISH": "He protected"
     },
     "ELLOS": {
-      "SPANISH": "protegieron",
-      "ENGLISH": "they protected, you (plural formal) protected"
+      "SPANISH": "Protegieron",
+      "ENGLISH": "They protected"
     },
     "NOSOTROS": {
-      "SPANISH": "protegimos",
-      "ENGLISH": "we protected"
+      "SPANISH": "Protegimos",
+      "ENGLISH": "We protected"
     },
     "VOSOTROS": {
-      "SPANISH": "protegisteis",
-      "ENGLISH": "you (plural) protected"
+      "SPANISH": "Protegisteis",
+      "ENGLISH": "You protected"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había protegido",
+      "SPANISH": "Había protegido",
       "ENGLISH": "I had protected"
     },
     "TU": {
-      "SPANISH": "habías protegido",
-      "ENGLISH": "you had protected"
+      "SPANISH": "Habías protegido",
+      "ENGLISH": "You had protected"
     },
     "EL": {
-      "SPANISH": "había protegido",
-      "ENGLISH": "s/he had protected, you (formal) had protected"
+      "SPANISH": "Había protegido",
+      "ENGLISH": "He had protected"
     },
     "ELLOS": {
-      "SPANISH": "habían protegido",
-      "ENGLISH": "they had protected, you (plural formal) had protected"
+      "SPANISH": "Habían protegido",
+      "ENGLISH": "They had protected"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos protegido",
-      "ENGLISH": "we had protected"
+      "SPANISH": "Habíamos protegido",
+      "ENGLISH": "We had protected"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais protegido",
-      "ENGLISH": "you (plural) had protected"
+      "SPANISH": "Habíais protegido",
+      "ENGLISH": "You had protected"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "protegí",
+      "SPANISH": "Protegí",
       "ENGLISH": "I protected"
     },
     "TU": {
-      "SPANISH": "protegiste",
-      "ENGLISH": "you protected"
+      "SPANISH": "Protegiste",
+      "ENGLISH": "You protected"
     },
     "EL": {
-      "SPANISH": "protegió",
-      "ENGLISH": "s/he protected, you (formal) protected"
+      "SPANISH": "Protegió",
+      "ENGLISH": "He protected"
     },
     "ELLOS": {
-      "SPANISH": "protegieron",
-      "ENGLISH": "they protected, you (plural formal) protected"
+      "SPANISH": "Protegieron",
+      "ENGLISH": "They protected"
     },
     "NOSOTROS": {
-      "SPANISH": "protegimos",
-      "ENGLISH": "we protected"
+      "SPANISH": "Protegimos",
+      "ENGLISH": "We protected"
     },
     "VOSOTROS": {
-      "SPANISH": "protegisteis",
-      "ENGLISH": "you (plural) protected"
+      "SPANISH": "Protegisteis",
+      "ENGLISH": "You protected"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "protegeré",
+      "SPANISH": "Protegeré",
       "ENGLISH": "I will protect"
     },
     "TU": {
-      "SPANISH": "protegerás",
-      "ENGLISH": "you will protect"
+      "SPANISH": "Protegerás",
+      "ENGLISH": "You will protect"
     },
     "EL": {
-      "SPANISH": "protegerá",
-      "ENGLISH": "s/he will protect, you (formal) will protect"
+      "SPANISH": "Protegerá",
+      "ENGLISH": "He will protect"
     },
     "ELLOS": {
-      "SPANISH": "protegerán",
-      "ENGLISH": "they will protect, you (plural formal) will protect"
+      "SPANISH": "Protegerán",
+      "ENGLISH": "They will protect"
     },
     "NOSOTROS": {
-      "SPANISH": "protegeremos",
-      "ENGLISH": "we will protect"
+      "SPANISH": "Protegeremos",
+      "ENGLISH": "We will protect"
     },
     "VOSOTROS": {
-      "SPANISH": "protegeréis",
-      "ENGLISH": "you (plural) will protect"
+      "SPANISH": "Protegeréis",
+      "ENGLISH": "You will protect"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré protegido",
+      "SPANISH": "Habré protegido",
       "ENGLISH": "I will have protected"
     },
     "TU": {
-      "SPANISH": "habrás protegido",
-      "ENGLISH": "you will have protected"
+      "SPANISH": "Habrás protegido",
+      "ENGLISH": "You will have protected"
     },
     "EL": {
-      "SPANISH": "habrá protegido",
-      "ENGLISH": "s/he will have protected, you (formal) will have protected"
+      "SPANISH": "Habrá protegido",
+      "ENGLISH": "He will have protected"
     },
     "ELLOS": {
-      "SPANISH": "habrán protegido",
-      "ENGLISH": "they will have protected, you (plural formal) will have protected"
+      "SPANISH": "Habrán protegido",
+      "ENGLISH": "They will have protected"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos protegido",
-      "ENGLISH": "we will have protected"
+      "SPANISH": "Habremos protegido",
+      "ENGLISH": "We will have protected"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis protegido",
-      "ENGLISH": "you (plural) will have protected"
+      "SPANISH": "Habréis protegido",
+      "ENGLISH": "You will have protected"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "protegería",
+      "SPANISH": "Protegería",
       "ENGLISH": "I would protect"
     },
     "TU": {
-      "SPANISH": "protegerías",
-      "ENGLISH": "you would protect"
+      "SPANISH": "Protegerías",
+      "ENGLISH": "You would protect"
     },
     "EL": {
-      "SPANISH": "protegería",
-      "ENGLISH": "s/he would protect, you (formal) would protect"
+      "SPANISH": "Protegería",
+      "ENGLISH": "He would protect"
     },
     "ELLOS": {
-      "SPANISH": "protegerían",
-      "ENGLISH": "they would protect, you (plural formal) would protect"
+      "SPANISH": "Protegerían",
+      "ENGLISH": "They would protect"
     },
     "NOSOTROS": {
-      "SPANISH": "protegeríamos",
-      "ENGLISH": "we would protect"
+      "SPANISH": "Protegeríamos",
+      "ENGLISH": "We would protect"
     },
     "VOSOTROS": {
-      "SPANISH": "protegeríais",
-      "ENGLISH": "you (plural) would protect"
+      "SPANISH": "Protegeríais",
+      "ENGLISH": "You would protect"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría protegido",
+      "SPANISH": "Habría protegido",
       "ENGLISH": "I would have protected"
     },
     "TU": {
-      "SPANISH": "habrías protegido",
-      "ENGLISH": "you would have protected"
+      "SPANISH": "Habrías protegido",
+      "ENGLISH": "You would have protected"
     },
     "EL": {
-      "SPANISH": "habría protegido",
-      "ENGLISH": "s/he would have protected, you (formal) would have protected"
+      "SPANISH": "Habría protegido",
+      "ENGLISH": "He would have protected"
     },
     "ELLOS": {
-      "SPANISH": "habrían protegido",
-      "ENGLISH": "they would have protected, you (plural formal) would have protected"
+      "SPANISH": "Habrían protegido",
+      "ENGLISH": "They would have protected"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos protegido",
-      "ENGLISH": "we would have protected"
+      "SPANISH": "Habríamos protegido",
+      "ENGLISH": "We would have protected"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais protegido",
-      "ENGLISH": "you (plural) would have protected"
+      "SPANISH": "Habríais protegido",
+      "ENGLISH": "You would have protected"
     }
   }
 }

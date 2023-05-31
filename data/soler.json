@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "suelo ",
+      "SPANISH": "Suelo ",
       "ENGLISH": "I am used to"
     },
     "TU": {
-      "SPANISH": "sueles ",
-      "ENGLISH": "you are used to"
+      "SPANISH": "Sueles ",
+      "ENGLISH": "You are used to"
     },
     "EL": {
-      "SPANISH": "suele ",
-      "ENGLISH": "s/he is used to, you (formal) are used to"
+      "SPANISH": "Suele ",
+      "ENGLISH": "He is used to"
     },
     "ELLOS": {
-      "SPANISH": "suelen ",
-      "ENGLISH": "they are used to, you (plural formal) are used to"
+      "SPANISH": "Suelen ",
+      "ENGLISH": "They are used to"
     },
     "NOSOTROS": {
-      "SPANISH": "solemos",
-      "ENGLISH": "we are used to"
+      "SPANISH": "Solemos",
+      "ENGLISH": "We are used to"
     },
     "VOSOTROS": {
-      "SPANISH": "soléis",
-      "ENGLISH": "you (plural) are used to"
+      "SPANISH": "Soléis",
+      "ENGLISH": "You are used to"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he solido",
+      "SPANISH": "He solido",
       "ENGLISH": "I have been used to"
     },
     "TU": {
-      "SPANISH": "has solido",
-      "ENGLISH": "you have been used to"
+      "SPANISH": "Has solido",
+      "ENGLISH": "You have been used to"
     },
     "EL": {
-      "SPANISH": "ha solido",
-      "ENGLISH": "s/he has been used to, you (formal) have been used to"
+      "SPANISH": "Ha solido",
+      "ENGLISH": "He has been used to"
     },
     "ELLOS": {
-      "SPANISH": "han solido",
-      "ENGLISH": "they have been used to, you (plural formal) have been used to"
+      "SPANISH": "Han solido",
+      "ENGLISH": "They have been used to"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos solido",
-      "ENGLISH": "we have been used to"
+      "SPANISH": "Hemos solido",
+      "ENGLISH": "We have been used to"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis solido",
-      "ENGLISH": "you (plural) have been used to"
+      "SPANISH": "Habéis solido",
+      "ENGLISH": "You have been used to"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "solí",
+      "SPANISH": "Solí",
       "ENGLISH": "I was used to"
     },
     "TU": {
-      "SPANISH": "soliste",
-      "ENGLISH": "you were used to"
+      "SPANISH": "Soliste",
+      "ENGLISH": "You were used to"
     },
     "EL": {
-      "SPANISH": "solió",
-      "ENGLISH": "s/he was used to, you (formal) was used to"
+      "SPANISH": "Solió",
+      "ENGLISH": "He was used to"
     },
     "ELLOS": {
-      "SPANISH": "solieron",
-      "ENGLISH": "they were used to, you (plural formal) were used to"
+      "SPANISH": "Solieron",
+      "ENGLISH": "They were used to"
     },
     "NOSOTROS": {
-      "SPANISH": "solimos",
-      "ENGLISH": "we were used to"
+      "SPANISH": "Solimos",
+      "ENGLISH": "We were used to"
     },
     "VOSOTROS": {
-      "SPANISH": "solisteis",
-      "ENGLISH": "you (plural) were used to"
+      "SPANISH": "Solisteis",
+      "ENGLISH": "You were used to"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había solido",
+      "SPANISH": "Había solido",
       "ENGLISH": "I had been used to"
     },
     "TU": {
-      "SPANISH": "habías solido",
-      "ENGLISH": "you had been used to"
+      "SPANISH": "Habías solido",
+      "ENGLISH": "You had been used to"
     },
     "EL": {
-      "SPANISH": "había solido",
-      "ENGLISH": "s/he had been used to, you (formal) had been used to"
+      "SPANISH": "Había solido",
+      "ENGLISH": "He had been used to"
     },
     "ELLOS": {
-      "SPANISH": "habían solido",
-      "ENGLISH": "they had been used to, you (plural formal) had been used to"
+      "SPANISH": "Habían solido",
+      "ENGLISH": "They had been used to"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos solido",
-      "ENGLISH": "we had been used to"
+      "SPANISH": "Habíamos solido",
+      "ENGLISH": "We had been used to"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais solido",
-      "ENGLISH": "you (plural) had been used to"
+      "SPANISH": "Habíais solido",
+      "ENGLISH": "You had been used to"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "solí",
+      "SPANISH": "Solí",
       "ENGLISH": "I was used to"
     },
     "TU": {
-      "SPANISH": "soliste",
-      "ENGLISH": "you were used to"
+      "SPANISH": "Soliste",
+      "ENGLISH": "You were used to"
     },
     "EL": {
-      "SPANISH": "solió",
-      "ENGLISH": "s/he was used to, you (formal) was used to"
+      "SPANISH": "Solió",
+      "ENGLISH": "He was used to"
     },
     "ELLOS": {
-      "SPANISH": "solieron",
-      "ENGLISH": "they were used to, you (plural formal) were used to"
+      "SPANISH": "Solieron",
+      "ENGLISH": "They were used to"
     },
     "NOSOTROS": {
-      "SPANISH": "solimos",
-      "ENGLISH": "we were used to"
+      "SPANISH": "Solimos",
+      "ENGLISH": "We were used to"
     },
     "VOSOTROS": {
-      "SPANISH": "solisteis",
-      "ENGLISH": "you (plural) were used to"
+      "SPANISH": "Solisteis",
+      "ENGLISH": "You were used to"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "soleré",
+      "SPANISH": "Soleré",
       "ENGLISH": "I will be used to"
     },
     "TU": {
-      "SPANISH": "solerás",
-      "ENGLISH": "you will be used to"
+      "SPANISH": "Solerás",
+      "ENGLISH": "You will be used to"
     },
     "EL": {
-      "SPANISH": "solerá",
-      "ENGLISH": "s/he will be used to, you (formal) will be used to"
+      "SPANISH": "Solerá",
+      "ENGLISH": "He will be used to"
     },
     "ELLOS": {
-      "SPANISH": "solerán",
-      "ENGLISH": "they will be used to, you (plural formal) will be used to"
+      "SPANISH": "Solerán",
+      "ENGLISH": "They will be used to"
     },
     "NOSOTROS": {
-      "SPANISH": "soleremos",
-      "ENGLISH": "we will be used to"
+      "SPANISH": "Soleremos",
+      "ENGLISH": "We will be used to"
     },
     "VOSOTROS": {
-      "SPANISH": "soleréis",
-      "ENGLISH": "you (plural) will be used to"
+      "SPANISH": "Soleréis",
+      "ENGLISH": "You will be used to"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré solido",
+      "SPANISH": "Habré solido",
       "ENGLISH": "I will have been used to"
     },
     "TU": {
-      "SPANISH": "habrás solido",
-      "ENGLISH": "you will have been used to"
+      "SPANISH": "Habrás solido",
+      "ENGLISH": "You will have been used to"
     },
     "EL": {
-      "SPANISH": "habrá solido",
-      "ENGLISH": "s/he will have been used to, you (formal) will have been used to"
+      "SPANISH": "Habrá solido",
+      "ENGLISH": "He will have been used to"
     },
     "ELLOS": {
-      "SPANISH": "habrán solido",
-      "ENGLISH": "they will have been used to, you (plural formal) will have been used to"
+      "SPANISH": "Habrán solido",
+      "ENGLISH": "They will have been used to"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos solido",
-      "ENGLISH": "we will have been used to"
+      "SPANISH": "Habremos solido",
+      "ENGLISH": "We will have been used to"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis solido",
-      "ENGLISH": "you (plural) will have been used to"
+      "SPANISH": "Habréis solido",
+      "ENGLISH": "You will have been used to"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "solería",
+      "SPANISH": "Solería",
       "ENGLISH": "I would be used to"
     },
     "TU": {
-      "SPANISH": "solerías",
-      "ENGLISH": "you would be used to"
+      "SPANISH": "Solerías",
+      "ENGLISH": "You would be used to"
     },
     "EL": {
-      "SPANISH": "solería",
-      "ENGLISH": "s/he would be used to, you (formal) would be used to"
+      "SPANISH": "Solería",
+      "ENGLISH": "He would be used to"
     },
     "ELLOS": {
-      "SPANISH": "solerían",
-      "ENGLISH": "they would be used to, you (plural formal) would be used to"
+      "SPANISH": "Solerían",
+      "ENGLISH": "They would be used to"
     },
     "NOSOTROS": {
-      "SPANISH": "soleríamos",
-      "ENGLISH": "we would be used to"
+      "SPANISH": "Soleríamos",
+      "ENGLISH": "We would be used to"
     },
     "VOSOTROS": {
-      "SPANISH": "soleríais",
-      "ENGLISH": "you (plural) would be used to"
+      "SPANISH": "Soleríais",
+      "ENGLISH": "You would be used to"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría solido",
+      "SPANISH": "Habría solido",
       "ENGLISH": "I would have been used to"
     },
     "TU": {
-      "SPANISH": "habrías solido",
-      "ENGLISH": "you would have been used to"
+      "SPANISH": "Habrías solido",
+      "ENGLISH": "You would have been used to"
     },
     "EL": {
-      "SPANISH": "habría solido",
-      "ENGLISH": "s/he would have been used to, you (formal) would have been used to"
+      "SPANISH": "Habría solido",
+      "ENGLISH": "He would have been used to"
     },
     "ELLOS": {
-      "SPANISH": "habrían solido",
-      "ENGLISH": "they would have been used to, you (plural formal) would have been used to"
+      "SPANISH": "Habrían solido",
+      "ENGLISH": "They would have been used to"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos solido",
-      "ENGLISH": "we would have been used to"
+      "SPANISH": "Habríamos solido",
+      "ENGLISH": "We would have been used to"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais solido",
-      "ENGLISH": "you (plural) would have been used to"
+      "SPANISH": "Habríais solido",
+      "ENGLISH": "You would have been used to"
     }
   }
 }

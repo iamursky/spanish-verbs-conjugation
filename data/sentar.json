@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "siento ",
+      "SPANISH": "Siento ",
       "ENGLISH": "I sit"
     },
     "TU": {
-      "SPANISH": "sientas ",
-      "ENGLISH": "you sit"
+      "SPANISH": "Sientas ",
+      "ENGLISH": "You sit"
     },
     "EL": {
-      "SPANISH": "sienta ",
-      "ENGLISH": "s/he sits, you (formal) sits"
+      "SPANISH": "Sienta ",
+      "ENGLISH": "He sits"
     },
     "ELLOS": {
-      "SPANISH": "sientan ",
-      "ENGLISH": "they sit, you (plural formal) sit"
+      "SPANISH": "Sientan ",
+      "ENGLISH": "They sit"
     },
     "NOSOTROS": {
-      "SPANISH": "sentamos",
-      "ENGLISH": "we sit"
+      "SPANISH": "Sentamos",
+      "ENGLISH": "We sit"
     },
     "VOSOTROS": {
-      "SPANISH": "sentáis",
-      "ENGLISH": "you (plural) sit"
+      "SPANISH": "Sentáis",
+      "ENGLISH": "You sit"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he sentado",
+      "SPANISH": "He sentado",
       "ENGLISH": "I have sat"
     },
     "TU": {
-      "SPANISH": "has sentado",
-      "ENGLISH": "you have sat"
+      "SPANISH": "Has sentado",
+      "ENGLISH": "You have sat"
     },
     "EL": {
-      "SPANISH": "ha sentado",
-      "ENGLISH": "s/he has sat, you (formal) have sat"
+      "SPANISH": "Ha sentado",
+      "ENGLISH": "He has sat"
     },
     "ELLOS": {
-      "SPANISH": "han sentado",
-      "ENGLISH": "they have sat, you (plural formal) have sat"
+      "SPANISH": "Han sentado",
+      "ENGLISH": "They have sat"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos sentado",
-      "ENGLISH": "we have sat"
+      "SPANISH": "Hemos sentado",
+      "ENGLISH": "We have sat"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis sentado",
-      "ENGLISH": "you (plural) have sat"
+      "SPANISH": "Habéis sentado",
+      "ENGLISH": "You have sat"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "senté",
+      "SPANISH": "Senté",
       "ENGLISH": "I sat"
     },
     "TU": {
-      "SPANISH": "sentaste",
-      "ENGLISH": "you sat"
+      "SPANISH": "Sentaste",
+      "ENGLISH": "You sat"
     },
     "EL": {
-      "SPANISH": "sentó",
-      "ENGLISH": "s/he sat, you (formal) sat"
+      "SPANISH": "Sentó",
+      "ENGLISH": "He sat"
     },
     "ELLOS": {
-      "SPANISH": "sentaron",
-      "ENGLISH": "they sat, you (plural formal) sat"
+      "SPANISH": "Sentaron",
+      "ENGLISH": "They sat"
     },
     "NOSOTROS": {
-      "SPANISH": "sentamos",
-      "ENGLISH": "we sat"
+      "SPANISH": "Sentamos",
+      "ENGLISH": "We sat"
     },
     "VOSOTROS": {
-      "SPANISH": "sentasteis",
-      "ENGLISH": "you (plural) sat"
+      "SPANISH": "Sentasteis",
+      "ENGLISH": "You sat"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había sentado",
+      "SPANISH": "Había sentado",
       "ENGLISH": "I had sat"
     },
     "TU": {
-      "SPANISH": "habías sentado",
-      "ENGLISH": "you had sat"
+      "SPANISH": "Habías sentado",
+      "ENGLISH": "You had sat"
     },
     "EL": {
-      "SPANISH": "había sentado",
-      "ENGLISH": "s/he had sat, you (formal) had sat"
+      "SPANISH": "Había sentado",
+      "ENGLISH": "He had sat"
     },
     "ELLOS": {
-      "SPANISH": "habían sentado",
-      "ENGLISH": "they had sat, you (plural formal) had sat"
+      "SPANISH": "Habían sentado",
+      "ENGLISH": "They had sat"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos sentado",
-      "ENGLISH": "we had sat"
+      "SPANISH": "Habíamos sentado",
+      "ENGLISH": "We had sat"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais sentado",
-      "ENGLISH": "you (plural) had sat"
+      "SPANISH": "Habíais sentado",
+      "ENGLISH": "You had sat"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "senté",
+      "SPANISH": "Senté",
       "ENGLISH": "I sat"
     },
     "TU": {
-      "SPANISH": "sentaste",
-      "ENGLISH": "you sat"
+      "SPANISH": "Sentaste",
+      "ENGLISH": "You sat"
     },
     "EL": {
-      "SPANISH": "sentó",
-      "ENGLISH": "s/he sat, you (formal) sat"
+      "SPANISH": "Sentó",
+      "ENGLISH": "He sat"
     },
     "ELLOS": {
-      "SPANISH": "sentaron",
-      "ENGLISH": "they sat, you (plural formal) sat"
+      "SPANISH": "Sentaron",
+      "ENGLISH": "They sat"
     },
     "NOSOTROS": {
-      "SPANISH": "sentamos",
-      "ENGLISH": "we sat"
+      "SPANISH": "Sentamos",
+      "ENGLISH": "We sat"
     },
     "VOSOTROS": {
-      "SPANISH": "sentasteis",
-      "ENGLISH": "you (plural) sat"
+      "SPANISH": "Sentasteis",
+      "ENGLISH": "You sat"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "sentaré",
+      "SPANISH": "Sentaré",
       "ENGLISH": "I will sit"
     },
     "TU": {
-      "SPANISH": "sentarás",
-      "ENGLISH": "you will sit"
+      "SPANISH": "Sentarás",
+      "ENGLISH": "You will sit"
     },
     "EL": {
-      "SPANISH": "sentará",
-      "ENGLISH": "s/he will sit, you (formal) will sit"
+      "SPANISH": "Sentará",
+      "ENGLISH": "He will sit"
     },
     "ELLOS": {
-      "SPANISH": "sentarán",
-      "ENGLISH": "they will sit, you (plural formal) will sit"
+      "SPANISH": "Sentarán",
+      "ENGLISH": "They will sit"
     },
     "NOSOTROS": {
-      "SPANISH": "sentaremos",
-      "ENGLISH": "we will sit"
+      "SPANISH": "Sentaremos",
+      "ENGLISH": "We will sit"
     },
     "VOSOTROS": {
-      "SPANISH": "sentaréis",
-      "ENGLISH": "you (plural) will sit"
+      "SPANISH": "Sentaréis",
+      "ENGLISH": "You will sit"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré sentado",
+      "SPANISH": "Habré sentado",
       "ENGLISH": "I will have sat"
     },
     "TU": {
-      "SPANISH": "habrás sentado",
-      "ENGLISH": "you will have sat"
+      "SPANISH": "Habrás sentado",
+      "ENGLISH": "You will have sat"
     },
     "EL": {
-      "SPANISH": "habrá sentado",
-      "ENGLISH": "s/he will have sat, you (formal) will have sat"
+      "SPANISH": "Habrá sentado",
+      "ENGLISH": "He will have sat"
     },
     "ELLOS": {
-      "SPANISH": "habrán sentado",
-      "ENGLISH": "they will have sat, you (plural formal) will have sat"
+      "SPANISH": "Habrán sentado",
+      "ENGLISH": "They will have sat"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos sentado",
-      "ENGLISH": "we will have sat"
+      "SPANISH": "Habremos sentado",
+      "ENGLISH": "We will have sat"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis sentado",
-      "ENGLISH": "you (plural) will have sat"
+      "SPANISH": "Habréis sentado",
+      "ENGLISH": "You will have sat"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "sentaría",
+      "SPANISH": "Sentaría",
       "ENGLISH": "I would sit"
     },
     "TU": {
-      "SPANISH": "sentarías",
-      "ENGLISH": "you would sit"
+      "SPANISH": "Sentarías",
+      "ENGLISH": "You would sit"
     },
     "EL": {
-      "SPANISH": "sentaría",
-      "ENGLISH": "s/he would sit, you (formal) would sit"
+      "SPANISH": "Sentaría",
+      "ENGLISH": "He would sit"
     },
     "ELLOS": {
-      "SPANISH": "sentarían",
-      "ENGLISH": "they would sit, you (plural formal) would sit"
+      "SPANISH": "Sentarían",
+      "ENGLISH": "They would sit"
     },
     "NOSOTROS": {
-      "SPANISH": "sentaríamos",
-      "ENGLISH": "we would sit"
+      "SPANISH": "Sentaríamos",
+      "ENGLISH": "We would sit"
     },
     "VOSOTROS": {
-      "SPANISH": "sentaríais",
-      "ENGLISH": "you (plural) would sit"
+      "SPANISH": "Sentaríais",
+      "ENGLISH": "You would sit"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría sentado",
+      "SPANISH": "Habría sentado",
       "ENGLISH": "I would have sat"
     },
     "TU": {
-      "SPANISH": "habrías sentado",
-      "ENGLISH": "you would have sat"
+      "SPANISH": "Habrías sentado",
+      "ENGLISH": "You would have sat"
     },
     "EL": {
-      "SPANISH": "habría sentado",
-      "ENGLISH": "s/he would have sat, you (formal) would have sat"
+      "SPANISH": "Habría sentado",
+      "ENGLISH": "He would have sat"
     },
     "ELLOS": {
-      "SPANISH": "habrían sentado",
-      "ENGLISH": "they would have sat, you (plural formal) would have sat"
+      "SPANISH": "Habrían sentado",
+      "ENGLISH": "They would have sat"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos sentado",
-      "ENGLISH": "we would have sat"
+      "SPANISH": "Habríamos sentado",
+      "ENGLISH": "We would have sat"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais sentado",
-      "ENGLISH": "you (plural) would have sat"
+      "SPANISH": "Habríais sentado",
+      "ENGLISH": "You would have sat"
     }
   }
 }

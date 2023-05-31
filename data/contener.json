@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "contengo ",
+      "SPANISH": "Contengo ",
       "ENGLISH": "I contain"
     },
     "TU": {
-      "SPANISH": "contienes ",
-      "ENGLISH": "you contain"
+      "SPANISH": "Contienes ",
+      "ENGLISH": "You contain"
     },
     "EL": {
-      "SPANISH": "contiene ",
-      "ENGLISH": "s/he contains, you (formal) contains"
+      "SPANISH": "Contiene ",
+      "ENGLISH": "He contains"
     },
     "ELLOS": {
-      "SPANISH": "contienen ",
-      "ENGLISH": "they contain, you (plural formal) contain"
+      "SPANISH": "Contienen ",
+      "ENGLISH": "They contain"
     },
     "NOSOTROS": {
-      "SPANISH": "contenemos",
-      "ENGLISH": "we contain"
+      "SPANISH": "Contenemos",
+      "ENGLISH": "We contain"
     },
     "VOSOTROS": {
-      "SPANISH": "contenéis",
-      "ENGLISH": "you (plural) contain"
+      "SPANISH": "Contenéis",
+      "ENGLISH": "You contain"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he contenido",
+      "SPANISH": "He contenido",
       "ENGLISH": "I have contained"
     },
     "TU": {
-      "SPANISH": "has contenido",
-      "ENGLISH": "you have contained"
+      "SPANISH": "Has contenido",
+      "ENGLISH": "You have contained"
     },
     "EL": {
-      "SPANISH": "ha contenido",
-      "ENGLISH": "s/he has contained, you (formal) have contained"
+      "SPANISH": "Ha contenido",
+      "ENGLISH": "He has contained"
     },
     "ELLOS": {
-      "SPANISH": "han contenido",
-      "ENGLISH": "they have contained, you (plural formal) have contained"
+      "SPANISH": "Han contenido",
+      "ENGLISH": "They have contained"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos contenido",
-      "ENGLISH": "we have contained"
+      "SPANISH": "Hemos contenido",
+      "ENGLISH": "We have contained"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis contenido",
-      "ENGLISH": "you (plural) have contained"
+      "SPANISH": "Habéis contenido",
+      "ENGLISH": "You have contained"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "contuve ",
+      "SPANISH": "Contuve ",
       "ENGLISH": "I contained"
     },
     "TU": {
-      "SPANISH": "contuviste ",
-      "ENGLISH": "you contained"
+      "SPANISH": "Contuviste ",
+      "ENGLISH": "You contained"
     },
     "EL": {
-      "SPANISH": "contuvo ",
-      "ENGLISH": "s/he contained, you (formal) contained"
+      "SPANISH": "Contuvo ",
+      "ENGLISH": "He contained"
     },
     "ELLOS": {
-      "SPANISH": "contuvieron ",
-      "ENGLISH": "they contained, you (plural formal) contained"
+      "SPANISH": "Contuvieron ",
+      "ENGLISH": "They contained"
     },
     "NOSOTROS": {
-      "SPANISH": "contuvimos ",
-      "ENGLISH": "we contained"
+      "SPANISH": "Contuvimos ",
+      "ENGLISH": "We contained"
     },
     "VOSOTROS": {
-      "SPANISH": "contuvisteis ",
-      "ENGLISH": "you (plural) contained"
+      "SPANISH": "Contuvisteis ",
+      "ENGLISH": "You contained"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había contenido",
+      "SPANISH": "Había contenido",
       "ENGLISH": "I had contained"
     },
     "TU": {
-      "SPANISH": "habías contenido",
-      "ENGLISH": "you had contained"
+      "SPANISH": "Habías contenido",
+      "ENGLISH": "You had contained"
     },
     "EL": {
-      "SPANISH": "había contenido",
-      "ENGLISH": "s/he had contained, you (formal) had contained"
+      "SPANISH": "Había contenido",
+      "ENGLISH": "He had contained"
     },
     "ELLOS": {
-      "SPANISH": "habían contenido",
-      "ENGLISH": "they had contained, you (plural formal) had contained"
+      "SPANISH": "Habían contenido",
+      "ENGLISH": "They had contained"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos contenido",
-      "ENGLISH": "we had contained"
+      "SPANISH": "Habíamos contenido",
+      "ENGLISH": "We had contained"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais contenido",
-      "ENGLISH": "you (plural) had contained"
+      "SPANISH": "Habíais contenido",
+      "ENGLISH": "You had contained"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "contuve ",
+      "SPANISH": "Contuve ",
       "ENGLISH": "I contained"
     },
     "TU": {
-      "SPANISH": "contuviste ",
-      "ENGLISH": "you contained"
+      "SPANISH": "Contuviste ",
+      "ENGLISH": "You contained"
     },
     "EL": {
-      "SPANISH": "contuvo ",
-      "ENGLISH": "s/he contained, you (formal) contained"
+      "SPANISH": "Contuvo ",
+      "ENGLISH": "He contained"
     },
     "ELLOS": {
-      "SPANISH": "contuvieron ",
-      "ENGLISH": "they contained, you (plural formal) contained"
+      "SPANISH": "Contuvieron ",
+      "ENGLISH": "They contained"
     },
     "NOSOTROS": {
-      "SPANISH": "contuvimos ",
-      "ENGLISH": "we contained"
+      "SPANISH": "Contuvimos ",
+      "ENGLISH": "We contained"
     },
     "VOSOTROS": {
-      "SPANISH": "contuvisteis ",
-      "ENGLISH": "you (plural) contained"
+      "SPANISH": "Contuvisteis ",
+      "ENGLISH": "You contained"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "contendré ",
+      "SPANISH": "Contendré ",
       "ENGLISH": "I will contain"
     },
     "TU": {
-      "SPANISH": "contendrás ",
-      "ENGLISH": "you will contain"
+      "SPANISH": "Contendrás ",
+      "ENGLISH": "You will contain"
     },
     "EL": {
-      "SPANISH": "contendrá ",
-      "ENGLISH": "s/he will contain, you (formal) will contain"
+      "SPANISH": "Contendrá ",
+      "ENGLISH": "He will contain"
     },
     "ELLOS": {
-      "SPANISH": "contendrán ",
-      "ENGLISH": "they will contain, you (plural formal) will contain"
+      "SPANISH": "Contendrán ",
+      "ENGLISH": "They will contain"
     },
     "NOSOTROS": {
-      "SPANISH": "contendremos ",
-      "ENGLISH": "we will contain"
+      "SPANISH": "Contendremos ",
+      "ENGLISH": "We will contain"
     },
     "VOSOTROS": {
-      "SPANISH": "contendréis ",
-      "ENGLISH": "you (plural) will contain"
+      "SPANISH": "Contendréis ",
+      "ENGLISH": "You will contain"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré contenido",
+      "SPANISH": "Habré contenido",
       "ENGLISH": "I will have contained"
     },
     "TU": {
-      "SPANISH": "habrás contenido",
-      "ENGLISH": "you will have contained"
+      "SPANISH": "Habrás contenido",
+      "ENGLISH": "You will have contained"
     },
     "EL": {
-      "SPANISH": "habrá contenido",
-      "ENGLISH": "s/he will have contained, you (formal) will have contained"
+      "SPANISH": "Habrá contenido",
+      "ENGLISH": "He will have contained"
     },
     "ELLOS": {
-      "SPANISH": "habrán contenido",
-      "ENGLISH": "they will have contained, you (plural formal) will have contained"
+      "SPANISH": "Habrán contenido",
+      "ENGLISH": "They will have contained"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos contenido",
-      "ENGLISH": "we will have contained"
+      "SPANISH": "Habremos contenido",
+      "ENGLISH": "We will have contained"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis contenido",
-      "ENGLISH": "you (plural) will have contained"
+      "SPANISH": "Habréis contenido",
+      "ENGLISH": "You will have contained"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "contendría ",
+      "SPANISH": "Contendría ",
       "ENGLISH": "I would contain"
     },
     "TU": {
-      "SPANISH": "contendrías ",
-      "ENGLISH": "you would contain"
+      "SPANISH": "Contendrías ",
+      "ENGLISH": "You would contain"
     },
     "EL": {
-      "SPANISH": "contendría ",
-      "ENGLISH": "s/he would contain, you (formal) would contain"
+      "SPANISH": "Contendría ",
+      "ENGLISH": "He would contain"
     },
     "ELLOS": {
-      "SPANISH": "contendrían ",
-      "ENGLISH": "they would contain, you (plural formal) would contain"
+      "SPANISH": "Contendrían ",
+      "ENGLISH": "They would contain"
     },
     "NOSOTROS": {
-      "SPANISH": "contendríamos ",
-      "ENGLISH": "we would contain"
+      "SPANISH": "Contendríamos ",
+      "ENGLISH": "We would contain"
     },
     "VOSOTROS": {
-      "SPANISH": "contendríais ",
-      "ENGLISH": "you (plural) would contain"
+      "SPANISH": "Contendríais ",
+      "ENGLISH": "You would contain"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría contenido",
+      "SPANISH": "Habría contenido",
       "ENGLISH": "I would have contained"
     },
     "TU": {
-      "SPANISH": "habrías contenido",
-      "ENGLISH": "you would have contained"
+      "SPANISH": "Habrías contenido",
+      "ENGLISH": "You would have contained"
     },
     "EL": {
-      "SPANISH": "habría contenido",
-      "ENGLISH": "s/he would have contained, you (formal) would have contained"
+      "SPANISH": "Habría contenido",
+      "ENGLISH": "He would have contained"
     },
     "ELLOS": {
-      "SPANISH": "habrían contenido",
-      "ENGLISH": "they would have contained, you (plural formal) would have contained"
+      "SPANISH": "Habrían contenido",
+      "ENGLISH": "They would have contained"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos contenido",
-      "ENGLISH": "we would have contained"
+      "SPANISH": "Habríamos contenido",
+      "ENGLISH": "We would have contained"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais contenido",
-      "ENGLISH": "you (plural) would have contained"
+      "SPANISH": "Habríais contenido",
+      "ENGLISH": "You would have contained"
     }
   }
 }

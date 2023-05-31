@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "encanto",
+      "SPANISH": "Encanto",
       "ENGLISH": "I love"
     },
     "TU": {
-      "SPANISH": "encantas",
-      "ENGLISH": "you love"
+      "SPANISH": "Encantas",
+      "ENGLISH": "You love"
     },
     "EL": {
-      "SPANISH": "encanta",
-      "ENGLISH": "s/he loves, you (formal) loves"
+      "SPANISH": "Encanta",
+      "ENGLISH": "He loves"
     },
     "ELLOS": {
-      "SPANISH": "encantan",
-      "ENGLISH": "they love, you (plural formal) love"
+      "SPANISH": "Encantan",
+      "ENGLISH": "They love"
     },
     "NOSOTROS": {
-      "SPANISH": "encantamos",
-      "ENGLISH": "we love"
+      "SPANISH": "Encantamos",
+      "ENGLISH": "We love"
     },
     "VOSOTROS": {
-      "SPANISH": "encantáis",
-      "ENGLISH": "you (plural) love"
+      "SPANISH": "Encantáis",
+      "ENGLISH": "You love"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he encantado",
+      "SPANISH": "He encantado",
       "ENGLISH": "I have loved"
     },
     "TU": {
-      "SPANISH": "has encantado",
-      "ENGLISH": "you have loved"
+      "SPANISH": "Has encantado",
+      "ENGLISH": "You have loved"
     },
     "EL": {
-      "SPANISH": "ha encantado",
-      "ENGLISH": "s/he has loved, you (formal) have loved"
+      "SPANISH": "Ha encantado",
+      "ENGLISH": "He has loved"
     },
     "ELLOS": {
-      "SPANISH": "han encantado",
-      "ENGLISH": "they have loved, you (plural formal) have loved"
+      "SPANISH": "Han encantado",
+      "ENGLISH": "They have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos encantado",
-      "ENGLISH": "we have loved"
+      "SPANISH": "Hemos encantado",
+      "ENGLISH": "We have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis encantado",
-      "ENGLISH": "you (plural) have loved"
+      "SPANISH": "Habéis encantado",
+      "ENGLISH": "You have loved"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "encanté",
+      "SPANISH": "Encanté",
       "ENGLISH": "I loved"
     },
     "TU": {
-      "SPANISH": "encantaste",
-      "ENGLISH": "you loved"
+      "SPANISH": "Encantaste",
+      "ENGLISH": "You loved"
     },
     "EL": {
-      "SPANISH": "encantó",
-      "ENGLISH": "s/he loved, you (formal) loved"
+      "SPANISH": "Encantó",
+      "ENGLISH": "He loved"
     },
     "ELLOS": {
-      "SPANISH": "encantaron",
-      "ENGLISH": "they loved, you (plural formal) loved"
+      "SPANISH": "Encantaron",
+      "ENGLISH": "They loved"
     },
     "NOSOTROS": {
-      "SPANISH": "encantamos",
-      "ENGLISH": "we loved"
+      "SPANISH": "Encantamos",
+      "ENGLISH": "We loved"
     },
     "VOSOTROS": {
-      "SPANISH": "encantasteis",
-      "ENGLISH": "you (plural) loved"
+      "SPANISH": "Encantasteis",
+      "ENGLISH": "You loved"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había encantado",
+      "SPANISH": "Había encantado",
       "ENGLISH": "I had loved"
     },
     "TU": {
-      "SPANISH": "habías encantado",
-      "ENGLISH": "you had loved"
+      "SPANISH": "Habías encantado",
+      "ENGLISH": "You had loved"
     },
     "EL": {
-      "SPANISH": "había encantado",
-      "ENGLISH": "s/he had loved, you (formal) had loved"
+      "SPANISH": "Había encantado",
+      "ENGLISH": "He had loved"
     },
     "ELLOS": {
-      "SPANISH": "habían encantado",
-      "ENGLISH": "they had loved, you (plural formal) had loved"
+      "SPANISH": "Habían encantado",
+      "ENGLISH": "They had loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos encantado",
-      "ENGLISH": "we had loved"
+      "SPANISH": "Habíamos encantado",
+      "ENGLISH": "We had loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais encantado",
-      "ENGLISH": "you (plural) had loved"
+      "SPANISH": "Habíais encantado",
+      "ENGLISH": "You had loved"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "encanté",
+      "SPANISH": "Encanté",
       "ENGLISH": "I loved"
     },
     "TU": {
-      "SPANISH": "encantaste",
-      "ENGLISH": "you loved"
+      "SPANISH": "Encantaste",
+      "ENGLISH": "You loved"
     },
     "EL": {
-      "SPANISH": "encantó",
-      "ENGLISH": "s/he loved, you (formal) loved"
+      "SPANISH": "Encantó",
+      "ENGLISH": "He loved"
     },
     "ELLOS": {
-      "SPANISH": "encantaron",
-      "ENGLISH": "they loved, you (plural formal) loved"
+      "SPANISH": "Encantaron",
+      "ENGLISH": "They loved"
     },
     "NOSOTROS": {
-      "SPANISH": "encantamos",
-      "ENGLISH": "we loved"
+      "SPANISH": "Encantamos",
+      "ENGLISH": "We loved"
     },
     "VOSOTROS": {
-      "SPANISH": "encantasteis",
-      "ENGLISH": "you (plural) loved"
+      "SPANISH": "Encantasteis",
+      "ENGLISH": "You loved"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "encantaré",
+      "SPANISH": "Encantaré",
       "ENGLISH": "I will love"
     },
     "TU": {
-      "SPANISH": "encantarás",
-      "ENGLISH": "you will love"
+      "SPANISH": "Encantarás",
+      "ENGLISH": "You will love"
     },
     "EL": {
-      "SPANISH": "encantará",
-      "ENGLISH": "s/he will love, you (formal) will love"
+      "SPANISH": "Encantará",
+      "ENGLISH": "He will love"
     },
     "ELLOS": {
-      "SPANISH": "encantarán",
-      "ENGLISH": "they will love, you (plural formal) will love"
+      "SPANISH": "Encantarán",
+      "ENGLISH": "They will love"
     },
     "NOSOTROS": {
-      "SPANISH": "encantaremos",
-      "ENGLISH": "we will love"
+      "SPANISH": "Encantaremos",
+      "ENGLISH": "We will love"
     },
     "VOSOTROS": {
-      "SPANISH": "encantaréis",
-      "ENGLISH": "you (plural) will love"
+      "SPANISH": "Encantaréis",
+      "ENGLISH": "You will love"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré encantado",
+      "SPANISH": "Habré encantado",
       "ENGLISH": "I will have loved"
     },
     "TU": {
-      "SPANISH": "habrás encantado",
-      "ENGLISH": "you will have loved"
+      "SPANISH": "Habrás encantado",
+      "ENGLISH": "You will have loved"
     },
     "EL": {
-      "SPANISH": "habrá encantado",
-      "ENGLISH": "s/he will have loved, you (formal) will have loved"
+      "SPANISH": "Habrá encantado",
+      "ENGLISH": "He will have loved"
     },
     "ELLOS": {
-      "SPANISH": "habrán encantado",
-      "ENGLISH": "they will have loved, you (plural formal) will have loved"
+      "SPANISH": "Habrán encantado",
+      "ENGLISH": "They will have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos encantado",
-      "ENGLISH": "we will have loved"
+      "SPANISH": "Habremos encantado",
+      "ENGLISH": "We will have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis encantado",
-      "ENGLISH": "you (plural) will have loved"
+      "SPANISH": "Habréis encantado",
+      "ENGLISH": "You will have loved"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "encantaría",
+      "SPANISH": "Encantaría",
       "ENGLISH": "I would love"
     },
     "TU": {
-      "SPANISH": "encantarías",
-      "ENGLISH": "you would love"
+      "SPANISH": "Encantarías",
+      "ENGLISH": "You would love"
     },
     "EL": {
-      "SPANISH": "encantaría",
-      "ENGLISH": "s/he would love, you (formal) would love"
+      "SPANISH": "Encantaría",
+      "ENGLISH": "He would love"
     },
     "ELLOS": {
-      "SPANISH": "encantarían",
-      "ENGLISH": "they would love, you (plural formal) would love"
+      "SPANISH": "Encantarían",
+      "ENGLISH": "They would love"
     },
     "NOSOTROS": {
-      "SPANISH": "encantaríamos",
-      "ENGLISH": "we would love"
+      "SPANISH": "Encantaríamos",
+      "ENGLISH": "We would love"
     },
     "VOSOTROS": {
-      "SPANISH": "encantaríais",
-      "ENGLISH": "you (plural) would love"
+      "SPANISH": "Encantaríais",
+      "ENGLISH": "You would love"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría encantado",
+      "SPANISH": "Habría encantado",
       "ENGLISH": "I would have loved"
     },
     "TU": {
-      "SPANISH": "habrías encantado",
-      "ENGLISH": "you would have loved"
+      "SPANISH": "Habrías encantado",
+      "ENGLISH": "You would have loved"
     },
     "EL": {
-      "SPANISH": "habría encantado",
-      "ENGLISH": "s/he would have loved, you (formal) would have loved"
+      "SPANISH": "Habría encantado",
+      "ENGLISH": "He would have loved"
     },
     "ELLOS": {
-      "SPANISH": "habrían encantado",
-      "ENGLISH": "they would have loved, you (plural formal) would have loved"
+      "SPANISH": "Habrían encantado",
+      "ENGLISH": "They would have loved"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos encantado",
-      "ENGLISH": "we would have loved"
+      "SPANISH": "Habríamos encantado",
+      "ENGLISH": "We would have loved"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais encantado",
-      "ENGLISH": "you (plural) would have loved"
+      "SPANISH": "Habríais encantado",
+      "ENGLISH": "You would have loved"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "echo",
+      "SPANISH": "Echo",
       "ENGLISH": "I throw"
     },
     "TU": {
-      "SPANISH": "echas",
-      "ENGLISH": "you throw"
+      "SPANISH": "Echas",
+      "ENGLISH": "You throw"
     },
     "EL": {
-      "SPANISH": "echa",
-      "ENGLISH": "s/he throws, you (formal) throws"
+      "SPANISH": "Echa",
+      "ENGLISH": "He throws"
     },
     "ELLOS": {
-      "SPANISH": "echan",
-      "ENGLISH": "they throw, you (plural formal) throw"
+      "SPANISH": "Echan",
+      "ENGLISH": "They throw"
     },
     "NOSOTROS": {
-      "SPANISH": "echamos",
-      "ENGLISH": "we throw"
+      "SPANISH": "Echamos",
+      "ENGLISH": "We throw"
     },
     "VOSOTROS": {
-      "SPANISH": "echáis",
-      "ENGLISH": "you (plural) throw"
+      "SPANISH": "Echáis",
+      "ENGLISH": "You throw"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he echado",
+      "SPANISH": "He echado",
       "ENGLISH": "I have thrown"
     },
     "TU": {
-      "SPANISH": "has echado",
-      "ENGLISH": "you have thrown"
+      "SPANISH": "Has echado",
+      "ENGLISH": "You have thrown"
     },
     "EL": {
-      "SPANISH": "ha echado",
-      "ENGLISH": "s/he has thrown, you (formal) have thrown"
+      "SPANISH": "Ha echado",
+      "ENGLISH": "He has thrown"
     },
     "ELLOS": {
-      "SPANISH": "han echado",
-      "ENGLISH": "they have thrown, you (plural formal) have thrown"
+      "SPANISH": "Han echado",
+      "ENGLISH": "They have thrown"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos echado",
-      "ENGLISH": "we have thrown"
+      "SPANISH": "Hemos echado",
+      "ENGLISH": "We have thrown"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis echado",
-      "ENGLISH": "you (plural) have thrown"
+      "SPANISH": "Habéis echado",
+      "ENGLISH": "You have thrown"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "eché",
+      "SPANISH": "Eché",
       "ENGLISH": "I threw"
     },
     "TU": {
-      "SPANISH": "echaste",
-      "ENGLISH": "you threw"
+      "SPANISH": "Echaste",
+      "ENGLISH": "You threw"
     },
     "EL": {
-      "SPANISH": "echó",
-      "ENGLISH": "s/he threw, you (formal) threw"
+      "SPANISH": "Echó",
+      "ENGLISH": "He threw"
     },
     "ELLOS": {
-      "SPANISH": "echaron",
-      "ENGLISH": "they threw, you (plural formal) threw"
+      "SPANISH": "Echaron",
+      "ENGLISH": "They threw"
     },
     "NOSOTROS": {
-      "SPANISH": "echamos",
-      "ENGLISH": "we threw"
+      "SPANISH": "Echamos",
+      "ENGLISH": "We threw"
     },
     "VOSOTROS": {
-      "SPANISH": "echasteis",
-      "ENGLISH": "you (plural) threw"
+      "SPANISH": "Echasteis",
+      "ENGLISH": "You threw"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había echado",
+      "SPANISH": "Había echado",
       "ENGLISH": "I had thrown"
     },
     "TU": {
-      "SPANISH": "habías echado",
-      "ENGLISH": "you had thrown"
+      "SPANISH": "Habías echado",
+      "ENGLISH": "You had thrown"
     },
     "EL": {
-      "SPANISH": "había echado",
-      "ENGLISH": "s/he had thrown, you (formal) had thrown"
+      "SPANISH": "Había echado",
+      "ENGLISH": "He had thrown"
     },
     "ELLOS": {
-      "SPANISH": "habían echado",
-      "ENGLISH": "they had thrown, you (plural formal) had thrown"
+      "SPANISH": "Habían echado",
+      "ENGLISH": "They had thrown"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos echado",
-      "ENGLISH": "we had thrown"
+      "SPANISH": "Habíamos echado",
+      "ENGLISH": "We had thrown"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais echado",
-      "ENGLISH": "you (plural) had thrown"
+      "SPANISH": "Habíais echado",
+      "ENGLISH": "You had thrown"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "eché",
+      "SPANISH": "Eché",
       "ENGLISH": "I threw"
     },
     "TU": {
-      "SPANISH": "echaste",
-      "ENGLISH": "you threw"
+      "SPANISH": "Echaste",
+      "ENGLISH": "You threw"
     },
     "EL": {
-      "SPANISH": "echó",
-      "ENGLISH": "s/he threw, you (formal) threw"
+      "SPANISH": "Echó",
+      "ENGLISH": "He threw"
     },
     "ELLOS": {
-      "SPANISH": "echaron",
-      "ENGLISH": "they threw, you (plural formal) threw"
+      "SPANISH": "Echaron",
+      "ENGLISH": "They threw"
     },
     "NOSOTROS": {
-      "SPANISH": "echamos",
-      "ENGLISH": "we threw"
+      "SPANISH": "Echamos",
+      "ENGLISH": "We threw"
     },
     "VOSOTROS": {
-      "SPANISH": "echasteis",
-      "ENGLISH": "you (plural) threw"
+      "SPANISH": "Echasteis",
+      "ENGLISH": "You threw"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "echaré",
+      "SPANISH": "Echaré",
       "ENGLISH": "I will throw"
     },
     "TU": {
-      "SPANISH": "echarás",
-      "ENGLISH": "you will throw"
+      "SPANISH": "Echarás",
+      "ENGLISH": "You will throw"
     },
     "EL": {
-      "SPANISH": "echará",
-      "ENGLISH": "s/he will throw, you (formal) will throw"
+      "SPANISH": "Echará",
+      "ENGLISH": "He will throw"
     },
     "ELLOS": {
-      "SPANISH": "echarán",
-      "ENGLISH": "they will throw, you (plural formal) will throw"
+      "SPANISH": "Echarán",
+      "ENGLISH": "They will throw"
     },
     "NOSOTROS": {
-      "SPANISH": "echaremos",
-      "ENGLISH": "we will throw"
+      "SPANISH": "Echaremos",
+      "ENGLISH": "We will throw"
     },
     "VOSOTROS": {
-      "SPANISH": "echaréis",
-      "ENGLISH": "you (plural) will throw"
+      "SPANISH": "Echaréis",
+      "ENGLISH": "You will throw"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré echado",
+      "SPANISH": "Habré echado",
       "ENGLISH": "I will have thrown"
     },
     "TU": {
-      "SPANISH": "habrás echado",
-      "ENGLISH": "you will have thrown"
+      "SPANISH": "Habrás echado",
+      "ENGLISH": "You will have thrown"
     },
     "EL": {
-      "SPANISH": "habrá echado",
-      "ENGLISH": "s/he will have thrown, you (formal) will have thrown"
+      "SPANISH": "Habrá echado",
+      "ENGLISH": "He will have thrown"
     },
     "ELLOS": {
-      "SPANISH": "habrán echado",
-      "ENGLISH": "they will have thrown, you (plural formal) will have thrown"
+      "SPANISH": "Habrán echado",
+      "ENGLISH": "They will have thrown"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos echado",
-      "ENGLISH": "we will have thrown"
+      "SPANISH": "Habremos echado",
+      "ENGLISH": "We will have thrown"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis echado",
-      "ENGLISH": "you (plural) will have thrown"
+      "SPANISH": "Habréis echado",
+      "ENGLISH": "You will have thrown"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "echaría",
+      "SPANISH": "Echaría",
       "ENGLISH": "I would throw"
     },
     "TU": {
-      "SPANISH": "echarías",
-      "ENGLISH": "you would throw"
+      "SPANISH": "Echarías",
+      "ENGLISH": "You would throw"
     },
     "EL": {
-      "SPANISH": "echaría",
-      "ENGLISH": "s/he would throw, you (formal) would throw"
+      "SPANISH": "Echaría",
+      "ENGLISH": "He would throw"
     },
     "ELLOS": {
-      "SPANISH": "echarían",
-      "ENGLISH": "they would throw, you (plural formal) would throw"
+      "SPANISH": "Echarían",
+      "ENGLISH": "They would throw"
     },
     "NOSOTROS": {
-      "SPANISH": "echaríamos",
-      "ENGLISH": "we would throw"
+      "SPANISH": "Echaríamos",
+      "ENGLISH": "We would throw"
     },
     "VOSOTROS": {
-      "SPANISH": "echaríais",
-      "ENGLISH": "you (plural) would throw"
+      "SPANISH": "Echaríais",
+      "ENGLISH": "You would throw"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría echado",
+      "SPANISH": "Habría echado",
       "ENGLISH": "I would have thrown"
     },
     "TU": {
-      "SPANISH": "habrías echado",
-      "ENGLISH": "you would have thrown"
+      "SPANISH": "Habrías echado",
+      "ENGLISH": "You would have thrown"
     },
     "EL": {
-      "SPANISH": "habría echado",
-      "ENGLISH": "s/he would have thrown, you (formal) would have thrown"
+      "SPANISH": "Habría echado",
+      "ENGLISH": "He would have thrown"
     },
     "ELLOS": {
-      "SPANISH": "habrían echado",
-      "ENGLISH": "they would have thrown, you (plural formal) would have thrown"
+      "SPANISH": "Habrían echado",
+      "ENGLISH": "They would have thrown"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos echado",
-      "ENGLISH": "we would have thrown"
+      "SPANISH": "Habríamos echado",
+      "ENGLISH": "We would have thrown"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais echado",
-      "ENGLISH": "you (plural) would have thrown"
+      "SPANISH": "Habríais echado",
+      "ENGLISH": "You would have thrown"
     }
   }
 }

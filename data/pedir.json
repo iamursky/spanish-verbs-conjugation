@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "pido ",
+      "SPANISH": "Pido ",
       "ENGLISH": "I ask for"
     },
     "TU": {
-      "SPANISH": "pides ",
-      "ENGLISH": "you ask for"
+      "SPANISH": "Pides ",
+      "ENGLISH": "You ask for"
     },
     "EL": {
-      "SPANISH": "pide ",
-      "ENGLISH": "s/he asks for, you (formal) asks for"
+      "SPANISH": "Pide ",
+      "ENGLISH": "He asks for"
     },
     "ELLOS": {
-      "SPANISH": "piden ",
-      "ENGLISH": "they ask for, you (plural formal) ask for"
+      "SPANISH": "Piden ",
+      "ENGLISH": "They ask for"
     },
     "NOSOTROS": {
-      "SPANISH": "pedimos",
-      "ENGLISH": "we ask for"
+      "SPANISH": "Pedimos",
+      "ENGLISH": "We ask for"
     },
     "VOSOTROS": {
-      "SPANISH": "pedís",
-      "ENGLISH": "you (plural) ask for"
+      "SPANISH": "Pedís",
+      "ENGLISH": "You ask for"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he pedido",
+      "SPANISH": "He pedido",
       "ENGLISH": "I have asked for"
     },
     "TU": {
-      "SPANISH": "has pedido",
-      "ENGLISH": "you have asked for"
+      "SPANISH": "Has pedido",
+      "ENGLISH": "You have asked for"
     },
     "EL": {
-      "SPANISH": "ha pedido",
-      "ENGLISH": "s/he has asked for, you (formal) have asked for"
+      "SPANISH": "Ha pedido",
+      "ENGLISH": "He has asked for"
     },
     "ELLOS": {
-      "SPANISH": "han pedido",
-      "ENGLISH": "they have asked for, you (plural formal) have asked for"
+      "SPANISH": "Han pedido",
+      "ENGLISH": "They have asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos pedido",
-      "ENGLISH": "we have asked for"
+      "SPANISH": "Hemos pedido",
+      "ENGLISH": "We have asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis pedido",
-      "ENGLISH": "you (plural) have asked for"
+      "SPANISH": "Habéis pedido",
+      "ENGLISH": "You have asked for"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "pedí",
+      "SPANISH": "Pedí",
       "ENGLISH": "I asked for"
     },
     "TU": {
-      "SPANISH": "pediste",
-      "ENGLISH": "you asked for"
+      "SPANISH": "Pediste",
+      "ENGLISH": "You asked for"
     },
     "EL": {
-      "SPANISH": "pidió ",
-      "ENGLISH": "s/he asked for, you (formal) asked for"
+      "SPANISH": "Pidió ",
+      "ENGLISH": "He asked for"
     },
     "ELLOS": {
-      "SPANISH": "pidieron ",
-      "ENGLISH": "they asked for, you (plural formal) asked for"
+      "SPANISH": "Pidieron ",
+      "ENGLISH": "They asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "pedimos",
-      "ENGLISH": "we asked for"
+      "SPANISH": "Pedimos",
+      "ENGLISH": "We asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "pedisteis",
-      "ENGLISH": "you (plural) asked for"
+      "SPANISH": "Pedisteis",
+      "ENGLISH": "You asked for"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había pedido",
+      "SPANISH": "Había pedido",
       "ENGLISH": "I had asked for"
     },
     "TU": {
-      "SPANISH": "habías pedido",
-      "ENGLISH": "you had asked for"
+      "SPANISH": "Habías pedido",
+      "ENGLISH": "You had asked for"
     },
     "EL": {
-      "SPANISH": "había pedido",
-      "ENGLISH": "s/he had asked for, you (formal) had asked for"
+      "SPANISH": "Había pedido",
+      "ENGLISH": "He had asked for"
     },
     "ELLOS": {
-      "SPANISH": "habían pedido",
-      "ENGLISH": "they had asked for, you (plural formal) had asked for"
+      "SPANISH": "Habían pedido",
+      "ENGLISH": "They had asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos pedido",
-      "ENGLISH": "we had asked for"
+      "SPANISH": "Habíamos pedido",
+      "ENGLISH": "We had asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais pedido",
-      "ENGLISH": "you (plural) had asked for"
+      "SPANISH": "Habíais pedido",
+      "ENGLISH": "You had asked for"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "pedí",
+      "SPANISH": "Pedí",
       "ENGLISH": "I asked for"
     },
     "TU": {
-      "SPANISH": "pediste",
-      "ENGLISH": "you asked for"
+      "SPANISH": "Pediste",
+      "ENGLISH": "You asked for"
     },
     "EL": {
-      "SPANISH": "pidió ",
-      "ENGLISH": "s/he asked for, you (formal) asked for"
+      "SPANISH": "Pidió ",
+      "ENGLISH": "He asked for"
     },
     "ELLOS": {
-      "SPANISH": "pidieron ",
-      "ENGLISH": "they asked for, you (plural formal) asked for"
+      "SPANISH": "Pidieron ",
+      "ENGLISH": "They asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "pedimos",
-      "ENGLISH": "we asked for"
+      "SPANISH": "Pedimos",
+      "ENGLISH": "We asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "pedisteis",
-      "ENGLISH": "you (plural) asked for"
+      "SPANISH": "Pedisteis",
+      "ENGLISH": "You asked for"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "pediré",
+      "SPANISH": "Pediré",
       "ENGLISH": "I will ask for"
     },
     "TU": {
-      "SPANISH": "pedirás",
-      "ENGLISH": "you will ask for"
+      "SPANISH": "Pedirás",
+      "ENGLISH": "You will ask for"
     },
     "EL": {
-      "SPANISH": "pedirá",
-      "ENGLISH": "s/he will ask for, you (formal) will ask for"
+      "SPANISH": "Pedirá",
+      "ENGLISH": "He will ask for"
     },
     "ELLOS": {
-      "SPANISH": "pedirán",
-      "ENGLISH": "they will ask for, you (plural formal) will ask for"
+      "SPANISH": "Pedirán",
+      "ENGLISH": "They will ask for"
     },
     "NOSOTROS": {
-      "SPANISH": "pediremos",
-      "ENGLISH": "we will ask for"
+      "SPANISH": "Pediremos",
+      "ENGLISH": "We will ask for"
     },
     "VOSOTROS": {
-      "SPANISH": "pediréis",
-      "ENGLISH": "you (plural) will ask for"
+      "SPANISH": "Pediréis",
+      "ENGLISH": "You will ask for"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré pedido",
+      "SPANISH": "Habré pedido",
       "ENGLISH": "I will have asked for"
     },
     "TU": {
-      "SPANISH": "habrás pedido",
-      "ENGLISH": "you will have asked for"
+      "SPANISH": "Habrás pedido",
+      "ENGLISH": "You will have asked for"
     },
     "EL": {
-      "SPANISH": "habrá pedido",
-      "ENGLISH": "s/he will have asked for, you (formal) will have asked for"
+      "SPANISH": "Habrá pedido",
+      "ENGLISH": "He will have asked for"
     },
     "ELLOS": {
-      "SPANISH": "habrán pedido",
-      "ENGLISH": "they will have asked for, you (plural formal) will have asked for"
+      "SPANISH": "Habrán pedido",
+      "ENGLISH": "They will have asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos pedido",
-      "ENGLISH": "we will have asked for"
+      "SPANISH": "Habremos pedido",
+      "ENGLISH": "We will have asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis pedido",
-      "ENGLISH": "you (plural) will have asked for"
+      "SPANISH": "Habréis pedido",
+      "ENGLISH": "You will have asked for"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "pediría",
+      "SPANISH": "Pediría",
       "ENGLISH": "I would ask for"
     },
     "TU": {
-      "SPANISH": "pedirías",
-      "ENGLISH": "you would ask for"
+      "SPANISH": "Pedirías",
+      "ENGLISH": "You would ask for"
     },
     "EL": {
-      "SPANISH": "pediría",
-      "ENGLISH": "s/he would ask for, you (formal) would ask for"
+      "SPANISH": "Pediría",
+      "ENGLISH": "He would ask for"
     },
     "ELLOS": {
-      "SPANISH": "pedirían",
-      "ENGLISH": "they would ask for, you (plural formal) would ask for"
+      "SPANISH": "Pedirían",
+      "ENGLISH": "They would ask for"
     },
     "NOSOTROS": {
-      "SPANISH": "pediríamos",
-      "ENGLISH": "we would ask for"
+      "SPANISH": "Pediríamos",
+      "ENGLISH": "We would ask for"
     },
     "VOSOTROS": {
-      "SPANISH": "pediríais",
-      "ENGLISH": "you (plural) would ask for"
+      "SPANISH": "Pediríais",
+      "ENGLISH": "You would ask for"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría pedido",
+      "SPANISH": "Habría pedido",
       "ENGLISH": "I would have asked for"
     },
     "TU": {
-      "SPANISH": "habrías pedido",
-      "ENGLISH": "you would have asked for"
+      "SPANISH": "Habrías pedido",
+      "ENGLISH": "You would have asked for"
     },
     "EL": {
-      "SPANISH": "habría pedido",
-      "ENGLISH": "s/he would have asked for, you (formal) would have asked for"
+      "SPANISH": "Habría pedido",
+      "ENGLISH": "He would have asked for"
     },
     "ELLOS": {
-      "SPANISH": "habrían pedido",
-      "ENGLISH": "they would have asked for, you (plural formal) would have asked for"
+      "SPANISH": "Habrían pedido",
+      "ENGLISH": "They would have asked for"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos pedido",
-      "ENGLISH": "we would have asked for"
+      "SPANISH": "Habríamos pedido",
+      "ENGLISH": "We would have asked for"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais pedido",
-      "ENGLISH": "you (plural) would have asked for"
+      "SPANISH": "Habríais pedido",
+      "ENGLISH": "You would have asked for"
     }
   }
 }

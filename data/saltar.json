@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "salto",
+      "SPANISH": "Salto",
       "ENGLISH": "I jump"
     },
     "TU": {
-      "SPANISH": "saltas",
-      "ENGLISH": "you jump"
+      "SPANISH": "Saltas",
+      "ENGLISH": "You jump"
     },
     "EL": {
-      "SPANISH": "salta",
-      "ENGLISH": "s/he jumps, you (formal) jumps"
+      "SPANISH": "Salta",
+      "ENGLISH": "He jumps"
     },
     "ELLOS": {
-      "SPANISH": "saltan",
-      "ENGLISH": "they jump, you (plural formal) jump"
+      "SPANISH": "Saltan",
+      "ENGLISH": "They jump"
     },
     "NOSOTROS": {
-      "SPANISH": "saltamos",
-      "ENGLISH": "we jump"
+      "SPANISH": "Saltamos",
+      "ENGLISH": "We jump"
     },
     "VOSOTROS": {
-      "SPANISH": "saltáis",
-      "ENGLISH": "you (plural) jump"
+      "SPANISH": "Saltáis",
+      "ENGLISH": "You jump"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he saltado",
+      "SPANISH": "He saltado",
       "ENGLISH": "I have jumped"
     },
     "TU": {
-      "SPANISH": "has saltado",
-      "ENGLISH": "you have jumped"
+      "SPANISH": "Has saltado",
+      "ENGLISH": "You have jumped"
     },
     "EL": {
-      "SPANISH": "ha saltado",
-      "ENGLISH": "s/he has jumped, you (formal) have jumped"
+      "SPANISH": "Ha saltado",
+      "ENGLISH": "He has jumped"
     },
     "ELLOS": {
-      "SPANISH": "han saltado",
-      "ENGLISH": "they have jumped, you (plural formal) have jumped"
+      "SPANISH": "Han saltado",
+      "ENGLISH": "They have jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos saltado",
-      "ENGLISH": "we have jumped"
+      "SPANISH": "Hemos saltado",
+      "ENGLISH": "We have jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis saltado",
-      "ENGLISH": "you (plural) have jumped"
+      "SPANISH": "Habéis saltado",
+      "ENGLISH": "You have jumped"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "salté",
+      "SPANISH": "Salté",
       "ENGLISH": "I jumped"
     },
     "TU": {
-      "SPANISH": "saltaste",
-      "ENGLISH": "you jumped"
+      "SPANISH": "Saltaste",
+      "ENGLISH": "You jumped"
     },
     "EL": {
-      "SPANISH": "saltó",
-      "ENGLISH": "s/he jumped, you (formal) jumped"
+      "SPANISH": "Saltó",
+      "ENGLISH": "He jumped"
     },
     "ELLOS": {
-      "SPANISH": "saltaron",
-      "ENGLISH": "they jumped, you (plural formal) jumped"
+      "SPANISH": "Saltaron",
+      "ENGLISH": "They jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "saltamos",
-      "ENGLISH": "we jumped"
+      "SPANISH": "Saltamos",
+      "ENGLISH": "We jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "saltasteis",
-      "ENGLISH": "you (plural) jumped"
+      "SPANISH": "Saltasteis",
+      "ENGLISH": "You jumped"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había saltado",
+      "SPANISH": "Había saltado",
       "ENGLISH": "I had jumped"
     },
     "TU": {
-      "SPANISH": "habías saltado",
-      "ENGLISH": "you had jumped"
+      "SPANISH": "Habías saltado",
+      "ENGLISH": "You had jumped"
     },
     "EL": {
-      "SPANISH": "había saltado",
-      "ENGLISH": "s/he had jumped, you (formal) had jumped"
+      "SPANISH": "Había saltado",
+      "ENGLISH": "He had jumped"
     },
     "ELLOS": {
-      "SPANISH": "habían saltado",
-      "ENGLISH": "they had jumped, you (plural formal) had jumped"
+      "SPANISH": "Habían saltado",
+      "ENGLISH": "They had jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos saltado",
-      "ENGLISH": "we had jumped"
+      "SPANISH": "Habíamos saltado",
+      "ENGLISH": "We had jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais saltado",
-      "ENGLISH": "you (plural) had jumped"
+      "SPANISH": "Habíais saltado",
+      "ENGLISH": "You had jumped"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "salté",
+      "SPANISH": "Salté",
       "ENGLISH": "I jumped"
     },
     "TU": {
-      "SPANISH": "saltaste",
-      "ENGLISH": "you jumped"
+      "SPANISH": "Saltaste",
+      "ENGLISH": "You jumped"
     },
     "EL": {
-      "SPANISH": "saltó",
-      "ENGLISH": "s/he jumped, you (formal) jumped"
+      "SPANISH": "Saltó",
+      "ENGLISH": "He jumped"
     },
     "ELLOS": {
-      "SPANISH": "saltaron",
-      "ENGLISH": "they jumped, you (plural formal) jumped"
+      "SPANISH": "Saltaron",
+      "ENGLISH": "They jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "saltamos",
-      "ENGLISH": "we jumped"
+      "SPANISH": "Saltamos",
+      "ENGLISH": "We jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "saltasteis",
-      "ENGLISH": "you (plural) jumped"
+      "SPANISH": "Saltasteis",
+      "ENGLISH": "You jumped"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "saltaré",
+      "SPANISH": "Saltaré",
       "ENGLISH": "I will jump"
     },
     "TU": {
-      "SPANISH": "saltarás",
-      "ENGLISH": "you will jump"
+      "SPANISH": "Saltarás",
+      "ENGLISH": "You will jump"
     },
     "EL": {
-      "SPANISH": "saltará",
-      "ENGLISH": "s/he will jump, you (formal) will jump"
+      "SPANISH": "Saltará",
+      "ENGLISH": "He will jump"
     },
     "ELLOS": {
-      "SPANISH": "saltarán",
-      "ENGLISH": "they will jump, you (plural formal) will jump"
+      "SPANISH": "Saltarán",
+      "ENGLISH": "They will jump"
     },
     "NOSOTROS": {
-      "SPANISH": "saltaremos",
-      "ENGLISH": "we will jump"
+      "SPANISH": "Saltaremos",
+      "ENGLISH": "We will jump"
     },
     "VOSOTROS": {
-      "SPANISH": "saltaréis",
-      "ENGLISH": "you (plural) will jump"
+      "SPANISH": "Saltaréis",
+      "ENGLISH": "You will jump"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré saltado",
+      "SPANISH": "Habré saltado",
       "ENGLISH": "I will have jumped"
     },
     "TU": {
-      "SPANISH": "habrás saltado",
-      "ENGLISH": "you will have jumped"
+      "SPANISH": "Habrás saltado",
+      "ENGLISH": "You will have jumped"
     },
     "EL": {
-      "SPANISH": "habrá saltado",
-      "ENGLISH": "s/he will have jumped, you (formal) will have jumped"
+      "SPANISH": "Habrá saltado",
+      "ENGLISH": "He will have jumped"
     },
     "ELLOS": {
-      "SPANISH": "habrán saltado",
-      "ENGLISH": "they will have jumped, you (plural formal) will have jumped"
+      "SPANISH": "Habrán saltado",
+      "ENGLISH": "They will have jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos saltado",
-      "ENGLISH": "we will have jumped"
+      "SPANISH": "Habremos saltado",
+      "ENGLISH": "We will have jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis saltado",
-      "ENGLISH": "you (plural) will have jumped"
+      "SPANISH": "Habréis saltado",
+      "ENGLISH": "You will have jumped"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "saltaría",
+      "SPANISH": "Saltaría",
       "ENGLISH": "I would jump"
     },
     "TU": {
-      "SPANISH": "saltarías",
-      "ENGLISH": "you would jump"
+      "SPANISH": "Saltarías",
+      "ENGLISH": "You would jump"
     },
     "EL": {
-      "SPANISH": "saltaría",
-      "ENGLISH": "s/he would jump, you (formal) would jump"
+      "SPANISH": "Saltaría",
+      "ENGLISH": "He would jump"
     },
     "ELLOS": {
-      "SPANISH": "saltarían",
-      "ENGLISH": "they would jump, you (plural formal) would jump"
+      "SPANISH": "Saltarían",
+      "ENGLISH": "They would jump"
     },
     "NOSOTROS": {
-      "SPANISH": "saltaríamos",
-      "ENGLISH": "we would jump"
+      "SPANISH": "Saltaríamos",
+      "ENGLISH": "We would jump"
     },
     "VOSOTROS": {
-      "SPANISH": "saltaríais",
-      "ENGLISH": "you (plural) would jump"
+      "SPANISH": "Saltaríais",
+      "ENGLISH": "You would jump"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría saltado",
+      "SPANISH": "Habría saltado",
       "ENGLISH": "I would have jumped"
     },
     "TU": {
-      "SPANISH": "habrías saltado",
-      "ENGLISH": "you would have jumped"
+      "SPANISH": "Habrías saltado",
+      "ENGLISH": "You would have jumped"
     },
     "EL": {
-      "SPANISH": "habría saltado",
-      "ENGLISH": "s/he would have jumped, you (formal) would have jumped"
+      "SPANISH": "Habría saltado",
+      "ENGLISH": "He would have jumped"
     },
     "ELLOS": {
-      "SPANISH": "habrían saltado",
-      "ENGLISH": "they would have jumped, you (plural formal) would have jumped"
+      "SPANISH": "Habrían saltado",
+      "ENGLISH": "They would have jumped"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos saltado",
-      "ENGLISH": "we would have jumped"
+      "SPANISH": "Habríamos saltado",
+      "ENGLISH": "We would have jumped"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais saltado",
-      "ENGLISH": "you (plural) would have jumped"
+      "SPANISH": "Habríais saltado",
+      "ENGLISH": "You would have jumped"
     }
   }
 }

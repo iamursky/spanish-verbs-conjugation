@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "importo",
+      "SPANISH": "Importo",
       "ENGLISH": "I import"
     },
     "TU": {
-      "SPANISH": "importas",
-      "ENGLISH": "you import"
+      "SPANISH": "Importas",
+      "ENGLISH": "You import"
     },
     "EL": {
-      "SPANISH": "importa",
-      "ENGLISH": "s/he imports, you (formal) imports"
+      "SPANISH": "Importa",
+      "ENGLISH": "He imports"
     },
     "ELLOS": {
-      "SPANISH": "importan",
-      "ENGLISH": "they import, you (plural formal) import"
+      "SPANISH": "Importan",
+      "ENGLISH": "They import"
     },
     "NOSOTROS": {
-      "SPANISH": "importamos",
-      "ENGLISH": "we import"
+      "SPANISH": "Importamos",
+      "ENGLISH": "We import"
     },
     "VOSOTROS": {
-      "SPANISH": "importáis",
-      "ENGLISH": "you (plural) import"
+      "SPANISH": "Importáis",
+      "ENGLISH": "You import"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he importado",
+      "SPANISH": "He importado",
       "ENGLISH": "I have imported"
     },
     "TU": {
-      "SPANISH": "has importado",
-      "ENGLISH": "you have imported"
+      "SPANISH": "Has importado",
+      "ENGLISH": "You have imported"
     },
     "EL": {
-      "SPANISH": "ha importado",
-      "ENGLISH": "s/he has imported, you (formal) have imported"
+      "SPANISH": "Ha importado",
+      "ENGLISH": "He has imported"
     },
     "ELLOS": {
-      "SPANISH": "han importado",
-      "ENGLISH": "they have imported, you (plural formal) have imported"
+      "SPANISH": "Han importado",
+      "ENGLISH": "They have imported"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos importado",
-      "ENGLISH": "we have imported"
+      "SPANISH": "Hemos importado",
+      "ENGLISH": "We have imported"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis importado",
-      "ENGLISH": "you (plural) have imported"
+      "SPANISH": "Habéis importado",
+      "ENGLISH": "You have imported"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "importé",
+      "SPANISH": "Importé",
       "ENGLISH": "I imported"
     },
     "TU": {
-      "SPANISH": "importaste",
-      "ENGLISH": "you imported"
+      "SPANISH": "Importaste",
+      "ENGLISH": "You imported"
     },
     "EL": {
-      "SPANISH": "importó",
-      "ENGLISH": "s/he imported, you (formal) imported"
+      "SPANISH": "Importó",
+      "ENGLISH": "He imported"
     },
     "ELLOS": {
-      "SPANISH": "importaron",
-      "ENGLISH": "they imported, you (plural formal) imported"
+      "SPANISH": "Importaron",
+      "ENGLISH": "They imported"
     },
     "NOSOTROS": {
-      "SPANISH": "importamos",
-      "ENGLISH": "we imported"
+      "SPANISH": "Importamos",
+      "ENGLISH": "We imported"
     },
     "VOSOTROS": {
-      "SPANISH": "importasteis",
-      "ENGLISH": "you (plural) imported"
+      "SPANISH": "Importasteis",
+      "ENGLISH": "You imported"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había importado",
+      "SPANISH": "Había importado",
       "ENGLISH": "I had imported"
     },
     "TU": {
-      "SPANISH": "habías importado",
-      "ENGLISH": "you had imported"
+      "SPANISH": "Habías importado",
+      "ENGLISH": "You had imported"
     },
     "EL": {
-      "SPANISH": "había importado",
-      "ENGLISH": "s/he had imported, you (formal) had imported"
+      "SPANISH": "Había importado",
+      "ENGLISH": "He had imported"
     },
     "ELLOS": {
-      "SPANISH": "habían importado",
-      "ENGLISH": "they had imported, you (plural formal) had imported"
+      "SPANISH": "Habían importado",
+      "ENGLISH": "They had imported"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos importado",
-      "ENGLISH": "we had imported"
+      "SPANISH": "Habíamos importado",
+      "ENGLISH": "We had imported"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais importado",
-      "ENGLISH": "you (plural) had imported"
+      "SPANISH": "Habíais importado",
+      "ENGLISH": "You had imported"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "importé",
+      "SPANISH": "Importé",
       "ENGLISH": "I imported"
     },
     "TU": {
-      "SPANISH": "importaste",
-      "ENGLISH": "you imported"
+      "SPANISH": "Importaste",
+      "ENGLISH": "You imported"
     },
     "EL": {
-      "SPANISH": "importó",
-      "ENGLISH": "s/he imported, you (formal) imported"
+      "SPANISH": "Importó",
+      "ENGLISH": "He imported"
     },
     "ELLOS": {
-      "SPANISH": "importaron",
-      "ENGLISH": "they imported, you (plural formal) imported"
+      "SPANISH": "Importaron",
+      "ENGLISH": "They imported"
     },
     "NOSOTROS": {
-      "SPANISH": "importamos",
-      "ENGLISH": "we imported"
+      "SPANISH": "Importamos",
+      "ENGLISH": "We imported"
     },
     "VOSOTROS": {
-      "SPANISH": "importasteis",
-      "ENGLISH": "you (plural) imported"
+      "SPANISH": "Importasteis",
+      "ENGLISH": "You imported"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "importaré",
+      "SPANISH": "Importaré",
       "ENGLISH": "I will import"
     },
     "TU": {
-      "SPANISH": "importarás",
-      "ENGLISH": "you will import"
+      "SPANISH": "Importarás",
+      "ENGLISH": "You will import"
     },
     "EL": {
-      "SPANISH": "importará",
-      "ENGLISH": "s/he will import, you (formal) will import"
+      "SPANISH": "Importará",
+      "ENGLISH": "He will import"
     },
     "ELLOS": {
-      "SPANISH": "importarán",
-      "ENGLISH": "they will import, you (plural formal) will import"
+      "SPANISH": "Importarán",
+      "ENGLISH": "They will import"
     },
     "NOSOTROS": {
-      "SPANISH": "importaremos",
-      "ENGLISH": "we will import"
+      "SPANISH": "Importaremos",
+      "ENGLISH": "We will import"
     },
     "VOSOTROS": {
-      "SPANISH": "importaréis",
-      "ENGLISH": "you (plural) will import"
+      "SPANISH": "Importaréis",
+      "ENGLISH": "You will import"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré importado",
+      "SPANISH": "Habré importado",
       "ENGLISH": "I will have imported"
     },
     "TU": {
-      "SPANISH": "habrás importado",
-      "ENGLISH": "you will have imported"
+      "SPANISH": "Habrás importado",
+      "ENGLISH": "You will have imported"
     },
     "EL": {
-      "SPANISH": "habrá importado",
-      "ENGLISH": "s/he will have imported, you (formal) will have imported"
+      "SPANISH": "Habrá importado",
+      "ENGLISH": "He will have imported"
     },
     "ELLOS": {
-      "SPANISH": "habrán importado",
-      "ENGLISH": "they will have imported, you (plural formal) will have imported"
+      "SPANISH": "Habrán importado",
+      "ENGLISH": "They will have imported"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos importado",
-      "ENGLISH": "we will have imported"
+      "SPANISH": "Habremos importado",
+      "ENGLISH": "We will have imported"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis importado",
-      "ENGLISH": "you (plural) will have imported"
+      "SPANISH": "Habréis importado",
+      "ENGLISH": "You will have imported"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "importaría",
+      "SPANISH": "Importaría",
       "ENGLISH": "I would import"
     },
     "TU": {
-      "SPANISH": "importarías",
-      "ENGLISH": "you would import"
+      "SPANISH": "Importarías",
+      "ENGLISH": "You would import"
     },
     "EL": {
-      "SPANISH": "importaría",
-      "ENGLISH": "s/he would import, you (formal) would import"
+      "SPANISH": "Importaría",
+      "ENGLISH": "He would import"
     },
     "ELLOS": {
-      "SPANISH": "importarían",
-      "ENGLISH": "they would import, you (plural formal) would import"
+      "SPANISH": "Importarían",
+      "ENGLISH": "They would import"
     },
     "NOSOTROS": {
-      "SPANISH": "importaríamos",
-      "ENGLISH": "we would import"
+      "SPANISH": "Importaríamos",
+      "ENGLISH": "We would import"
     },
     "VOSOTROS": {
-      "SPANISH": "importaríais",
-      "ENGLISH": "you (plural) would import"
+      "SPANISH": "Importaríais",
+      "ENGLISH": "You would import"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría importado",
+      "SPANISH": "Habría importado",
       "ENGLISH": "I would have imported"
     },
     "TU": {
-      "SPANISH": "habrías importado",
-      "ENGLISH": "you would have imported"
+      "SPANISH": "Habrías importado",
+      "ENGLISH": "You would have imported"
     },
     "EL": {
-      "SPANISH": "habría importado",
-      "ENGLISH": "s/he would have imported, you (formal) would have imported"
+      "SPANISH": "Habría importado",
+      "ENGLISH": "He would have imported"
     },
     "ELLOS": {
-      "SPANISH": "habrían importado",
-      "ENGLISH": "they would have imported, you (plural formal) would have imported"
+      "SPANISH": "Habrían importado",
+      "ENGLISH": "They would have imported"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos importado",
-      "ENGLISH": "we would have imported"
+      "SPANISH": "Habríamos importado",
+      "ENGLISH": "We would have imported"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais importado",
-      "ENGLISH": "you (plural) would have imported"
+      "SPANISH": "Habríais importado",
+      "ENGLISH": "You would have imported"
     }
   }
 }

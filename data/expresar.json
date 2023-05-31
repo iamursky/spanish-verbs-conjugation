@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "expreso",
+      "SPANISH": "Expreso",
       "ENGLISH": "I express"
     },
     "TU": {
-      "SPANISH": "expresas",
-      "ENGLISH": "you express"
+      "SPANISH": "Expresas",
+      "ENGLISH": "You express"
     },
     "EL": {
-      "SPANISH": "expresa",
-      "ENGLISH": "s/he expresses, you (formal) expresses"
+      "SPANISH": "Expresa",
+      "ENGLISH": "He expresses"
     },
     "ELLOS": {
-      "SPANISH": "expresan",
-      "ENGLISH": "they express, you (plural formal) express"
+      "SPANISH": "Expresan",
+      "ENGLISH": "They express"
     },
     "NOSOTROS": {
-      "SPANISH": "expresamos",
-      "ENGLISH": "we express"
+      "SPANISH": "Expresamos",
+      "ENGLISH": "We express"
     },
     "VOSOTROS": {
-      "SPANISH": "expresáis",
-      "ENGLISH": "you (plural) express"
+      "SPANISH": "Expresáis",
+      "ENGLISH": "You express"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he expresado",
+      "SPANISH": "He expresado",
       "ENGLISH": "I have expressed"
     },
     "TU": {
-      "SPANISH": "has expresado",
-      "ENGLISH": "you have expressed"
+      "SPANISH": "Has expresado",
+      "ENGLISH": "You have expressed"
     },
     "EL": {
-      "SPANISH": "ha expresado",
-      "ENGLISH": "s/he has expressed, you (formal) have expressed"
+      "SPANISH": "Ha expresado",
+      "ENGLISH": "He has expressed"
     },
     "ELLOS": {
-      "SPANISH": "han expresado",
-      "ENGLISH": "they have expressed, you (plural formal) have expressed"
+      "SPANISH": "Han expresado",
+      "ENGLISH": "They have expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos expresado",
-      "ENGLISH": "we have expressed"
+      "SPANISH": "Hemos expresado",
+      "ENGLISH": "We have expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis expresado",
-      "ENGLISH": "you (plural) have expressed"
+      "SPANISH": "Habéis expresado",
+      "ENGLISH": "You have expressed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "expresé",
+      "SPANISH": "Expresé",
       "ENGLISH": "I expressed"
     },
     "TU": {
-      "SPANISH": "expresaste",
-      "ENGLISH": "you expressed"
+      "SPANISH": "Expresaste",
+      "ENGLISH": "You expressed"
     },
     "EL": {
-      "SPANISH": "expresó",
-      "ENGLISH": "s/he expressed, you (formal) expressed"
+      "SPANISH": "Expresó",
+      "ENGLISH": "He expressed"
     },
     "ELLOS": {
-      "SPANISH": "expresaron",
-      "ENGLISH": "they expressed, you (plural formal) expressed"
+      "SPANISH": "Expresaron",
+      "ENGLISH": "They expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "expresamos",
-      "ENGLISH": "we expressed"
+      "SPANISH": "Expresamos",
+      "ENGLISH": "We expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "expresasteis",
-      "ENGLISH": "you (plural) expressed"
+      "SPANISH": "Expresasteis",
+      "ENGLISH": "You expressed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había expresado",
+      "SPANISH": "Había expresado",
       "ENGLISH": "I had expressed"
     },
     "TU": {
-      "SPANISH": "habías expresado",
-      "ENGLISH": "you had expressed"
+      "SPANISH": "Habías expresado",
+      "ENGLISH": "You had expressed"
     },
     "EL": {
-      "SPANISH": "había expresado",
-      "ENGLISH": "s/he had expressed, you (formal) had expressed"
+      "SPANISH": "Había expresado",
+      "ENGLISH": "He had expressed"
     },
     "ELLOS": {
-      "SPANISH": "habían expresado",
-      "ENGLISH": "they had expressed, you (plural formal) had expressed"
+      "SPANISH": "Habían expresado",
+      "ENGLISH": "They had expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos expresado",
-      "ENGLISH": "we had expressed"
+      "SPANISH": "Habíamos expresado",
+      "ENGLISH": "We had expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais expresado",
-      "ENGLISH": "you (plural) had expressed"
+      "SPANISH": "Habíais expresado",
+      "ENGLISH": "You had expressed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "expresé",
+      "SPANISH": "Expresé",
       "ENGLISH": "I expressed"
     },
     "TU": {
-      "SPANISH": "expresaste",
-      "ENGLISH": "you expressed"
+      "SPANISH": "Expresaste",
+      "ENGLISH": "You expressed"
     },
     "EL": {
-      "SPANISH": "expresó",
-      "ENGLISH": "s/he expressed, you (formal) expressed"
+      "SPANISH": "Expresó",
+      "ENGLISH": "He expressed"
     },
     "ELLOS": {
-      "SPANISH": "expresaron",
-      "ENGLISH": "they expressed, you (plural formal) expressed"
+      "SPANISH": "Expresaron",
+      "ENGLISH": "They expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "expresamos",
-      "ENGLISH": "we expressed"
+      "SPANISH": "Expresamos",
+      "ENGLISH": "We expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "expresasteis",
-      "ENGLISH": "you (plural) expressed"
+      "SPANISH": "Expresasteis",
+      "ENGLISH": "You expressed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "expresaré",
+      "SPANISH": "Expresaré",
       "ENGLISH": "I will express"
     },
     "TU": {
-      "SPANISH": "expresarás",
-      "ENGLISH": "you will express"
+      "SPANISH": "Expresarás",
+      "ENGLISH": "You will express"
     },
     "EL": {
-      "SPANISH": "expresará",
-      "ENGLISH": "s/he will express, you (formal) will express"
+      "SPANISH": "Expresará",
+      "ENGLISH": "He will express"
     },
     "ELLOS": {
-      "SPANISH": "expresarán",
-      "ENGLISH": "they will express, you (plural formal) will express"
+      "SPANISH": "Expresarán",
+      "ENGLISH": "They will express"
     },
     "NOSOTROS": {
-      "SPANISH": "expresaremos",
-      "ENGLISH": "we will express"
+      "SPANISH": "Expresaremos",
+      "ENGLISH": "We will express"
     },
     "VOSOTROS": {
-      "SPANISH": "expresaréis",
-      "ENGLISH": "you (plural) will express"
+      "SPANISH": "Expresaréis",
+      "ENGLISH": "You will express"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré expresado",
+      "SPANISH": "Habré expresado",
       "ENGLISH": "I will have expressed"
     },
     "TU": {
-      "SPANISH": "habrás expresado",
-      "ENGLISH": "you will have expressed"
+      "SPANISH": "Habrás expresado",
+      "ENGLISH": "You will have expressed"
     },
     "EL": {
-      "SPANISH": "habrá expresado",
-      "ENGLISH": "s/he will have expressed, you (formal) will have expressed"
+      "SPANISH": "Habrá expresado",
+      "ENGLISH": "He will have expressed"
     },
     "ELLOS": {
-      "SPANISH": "habrán expresado",
-      "ENGLISH": "they will have expressed, you (plural formal) will have expressed"
+      "SPANISH": "Habrán expresado",
+      "ENGLISH": "They will have expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos expresado",
-      "ENGLISH": "we will have expressed"
+      "SPANISH": "Habremos expresado",
+      "ENGLISH": "We will have expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis expresado",
-      "ENGLISH": "you (plural) will have expressed"
+      "SPANISH": "Habréis expresado",
+      "ENGLISH": "You will have expressed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "expresaría",
+      "SPANISH": "Expresaría",
       "ENGLISH": "I would express"
     },
     "TU": {
-      "SPANISH": "expresarías",
-      "ENGLISH": "you would express"
+      "SPANISH": "Expresarías",
+      "ENGLISH": "You would express"
     },
     "EL": {
-      "SPANISH": "expresaría",
-      "ENGLISH": "s/he would express, you (formal) would express"
+      "SPANISH": "Expresaría",
+      "ENGLISH": "He would express"
     },
     "ELLOS": {
-      "SPANISH": "expresarían",
-      "ENGLISH": "they would express, you (plural formal) would express"
+      "SPANISH": "Expresarían",
+      "ENGLISH": "They would express"
     },
     "NOSOTROS": {
-      "SPANISH": "expresaríamos",
-      "ENGLISH": "we would express"
+      "SPANISH": "Expresaríamos",
+      "ENGLISH": "We would express"
     },
     "VOSOTROS": {
-      "SPANISH": "expresaríais",
-      "ENGLISH": "you (plural) would express"
+      "SPANISH": "Expresaríais",
+      "ENGLISH": "You would express"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría expresado",
+      "SPANISH": "Habría expresado",
       "ENGLISH": "I would have expressed"
     },
     "TU": {
-      "SPANISH": "habrías expresado",
-      "ENGLISH": "you would have expressed"
+      "SPANISH": "Habrías expresado",
+      "ENGLISH": "You would have expressed"
     },
     "EL": {
-      "SPANISH": "habría expresado",
-      "ENGLISH": "s/he would have expressed, you (formal) would have expressed"
+      "SPANISH": "Habría expresado",
+      "ENGLISH": "He would have expressed"
     },
     "ELLOS": {
-      "SPANISH": "habrían expresado",
-      "ENGLISH": "they would have expressed, you (plural formal) would have expressed"
+      "SPANISH": "Habrían expresado",
+      "ENGLISH": "They would have expressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos expresado",
-      "ENGLISH": "we would have expressed"
+      "SPANISH": "Habríamos expresado",
+      "ENGLISH": "We would have expressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais expresado",
-      "ENGLISH": "you (plural) would have expressed"
+      "SPANISH": "Habríais expresado",
+      "ENGLISH": "You would have expressed"
     }
   }
 }

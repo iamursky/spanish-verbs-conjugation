@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "aprendo",
+      "SPANISH": "Aprendo",
       "ENGLISH": "I learn"
     },
     "TU": {
-      "SPANISH": "aprendes",
-      "ENGLISH": "you learn"
+      "SPANISH": "Aprendes",
+      "ENGLISH": "You learn"
     },
     "EL": {
-      "SPANISH": "aprende",
-      "ENGLISH": "s/he learns, you (formal) learns"
+      "SPANISH": "Aprende",
+      "ENGLISH": "He learns"
     },
     "ELLOS": {
-      "SPANISH": "aprenden",
-      "ENGLISH": "they learn, you (plural formal) learn"
+      "SPANISH": "Aprenden",
+      "ENGLISH": "They learn"
     },
     "NOSOTROS": {
-      "SPANISH": "aprendemos",
-      "ENGLISH": "we learn"
+      "SPANISH": "Aprendemos",
+      "ENGLISH": "We learn"
     },
     "VOSOTROS": {
-      "SPANISH": "aprendéis",
-      "ENGLISH": "you (plural) learn"
+      "SPANISH": "Aprendéis",
+      "ENGLISH": "You learn"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he aprendido",
+      "SPANISH": "He aprendido",
       "ENGLISH": "I have learnt"
     },
     "TU": {
-      "SPANISH": "has aprendido",
-      "ENGLISH": "you have learnt"
+      "SPANISH": "Has aprendido",
+      "ENGLISH": "You have learnt"
     },
     "EL": {
-      "SPANISH": "ha aprendido",
-      "ENGLISH": "s/he has learnt, you (formal) have learnt"
+      "SPANISH": "Ha aprendido",
+      "ENGLISH": "He has learnt"
     },
     "ELLOS": {
-      "SPANISH": "han aprendido",
-      "ENGLISH": "they have learnt, you (plural formal) have learnt"
+      "SPANISH": "Han aprendido",
+      "ENGLISH": "They have learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos aprendido",
-      "ENGLISH": "we have learnt"
+      "SPANISH": "Hemos aprendido",
+      "ENGLISH": "We have learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis aprendido",
-      "ENGLISH": "you (plural) have learnt"
+      "SPANISH": "Habéis aprendido",
+      "ENGLISH": "You have learnt"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "aprendí",
+      "SPANISH": "Aprendí",
       "ENGLISH": "I learnt"
     },
     "TU": {
-      "SPANISH": "aprendiste",
-      "ENGLISH": "you learnt"
+      "SPANISH": "Aprendiste",
+      "ENGLISH": "You learnt"
     },
     "EL": {
-      "SPANISH": "aprendió",
-      "ENGLISH": "s/he learnt, you (formal) learnt"
+      "SPANISH": "Aprendió",
+      "ENGLISH": "He learnt"
     },
     "ELLOS": {
-      "SPANISH": "aprendieron",
-      "ENGLISH": "they learnt, you (plural formal) learnt"
+      "SPANISH": "Aprendieron",
+      "ENGLISH": "They learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "aprendimos",
-      "ENGLISH": "we learnt"
+      "SPANISH": "Aprendimos",
+      "ENGLISH": "We learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "aprendisteis",
-      "ENGLISH": "you (plural) learnt"
+      "SPANISH": "Aprendisteis",
+      "ENGLISH": "You learnt"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había aprendido",
+      "SPANISH": "Había aprendido",
       "ENGLISH": "I had learnt"
     },
     "TU": {
-      "SPANISH": "habías aprendido",
-      "ENGLISH": "you had learnt"
+      "SPANISH": "Habías aprendido",
+      "ENGLISH": "You had learnt"
     },
     "EL": {
-      "SPANISH": "había aprendido",
-      "ENGLISH": "s/he had learnt, you (formal) had learnt"
+      "SPANISH": "Había aprendido",
+      "ENGLISH": "He had learnt"
     },
     "ELLOS": {
-      "SPANISH": "habían aprendido",
-      "ENGLISH": "they had learnt, you (plural formal) had learnt"
+      "SPANISH": "Habían aprendido",
+      "ENGLISH": "They had learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos aprendido",
-      "ENGLISH": "we had learnt"
+      "SPANISH": "Habíamos aprendido",
+      "ENGLISH": "We had learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais aprendido",
-      "ENGLISH": "you (plural) had learnt"
+      "SPANISH": "Habíais aprendido",
+      "ENGLISH": "You had learnt"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "aprendí",
+      "SPANISH": "Aprendí",
       "ENGLISH": "I learnt"
     },
     "TU": {
-      "SPANISH": "aprendiste",
-      "ENGLISH": "you learnt"
+      "SPANISH": "Aprendiste",
+      "ENGLISH": "You learnt"
     },
     "EL": {
-      "SPANISH": "aprendió",
-      "ENGLISH": "s/he learnt, you (formal) learnt"
+      "SPANISH": "Aprendió",
+      "ENGLISH": "He learnt"
     },
     "ELLOS": {
-      "SPANISH": "aprendieron",
-      "ENGLISH": "they learnt, you (plural formal) learnt"
+      "SPANISH": "Aprendieron",
+      "ENGLISH": "They learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "aprendimos",
-      "ENGLISH": "we learnt"
+      "SPANISH": "Aprendimos",
+      "ENGLISH": "We learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "aprendisteis",
-      "ENGLISH": "you (plural) learnt"
+      "SPANISH": "Aprendisteis",
+      "ENGLISH": "You learnt"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "aprenderé",
+      "SPANISH": "Aprenderé",
       "ENGLISH": "I will learn"
     },
     "TU": {
-      "SPANISH": "aprenderás",
-      "ENGLISH": "you will learn"
+      "SPANISH": "Aprenderás",
+      "ENGLISH": "You will learn"
     },
     "EL": {
-      "SPANISH": "aprenderá",
-      "ENGLISH": "s/he will learn, you (formal) will learn"
+      "SPANISH": "Aprenderá",
+      "ENGLISH": "He will learn"
     },
     "ELLOS": {
-      "SPANISH": "aprenderán",
-      "ENGLISH": "they will learn, you (plural formal) will learn"
+      "SPANISH": "Aprenderán",
+      "ENGLISH": "They will learn"
     },
     "NOSOTROS": {
-      "SPANISH": "aprenderemos",
-      "ENGLISH": "we will learn"
+      "SPANISH": "Aprenderemos",
+      "ENGLISH": "We will learn"
     },
     "VOSOTROS": {
-      "SPANISH": "aprenderéis",
-      "ENGLISH": "you (plural) will learn"
+      "SPANISH": "Aprenderéis",
+      "ENGLISH": "You will learn"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré aprendido",
+      "SPANISH": "Habré aprendido",
       "ENGLISH": "I will have learnt"
     },
     "TU": {
-      "SPANISH": "habrás aprendido",
-      "ENGLISH": "you will have learnt"
+      "SPANISH": "Habrás aprendido",
+      "ENGLISH": "You will have learnt"
     },
     "EL": {
-      "SPANISH": "habrá aprendido",
-      "ENGLISH": "s/he will have learnt, you (formal) will have learnt"
+      "SPANISH": "Habrá aprendido",
+      "ENGLISH": "He will have learnt"
     },
     "ELLOS": {
-      "SPANISH": "habrán aprendido",
-      "ENGLISH": "they will have learnt, you (plural formal) will have learnt"
+      "SPANISH": "Habrán aprendido",
+      "ENGLISH": "They will have learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos aprendido",
-      "ENGLISH": "we will have learnt"
+      "SPANISH": "Habremos aprendido",
+      "ENGLISH": "We will have learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis aprendido",
-      "ENGLISH": "you (plural) will have learnt"
+      "SPANISH": "Habréis aprendido",
+      "ENGLISH": "You will have learnt"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "aprendería",
+      "SPANISH": "Aprendería",
       "ENGLISH": "I would learn"
     },
     "TU": {
-      "SPANISH": "aprenderías",
-      "ENGLISH": "you would learn"
+      "SPANISH": "Aprenderías",
+      "ENGLISH": "You would learn"
     },
     "EL": {
-      "SPANISH": "aprendería",
-      "ENGLISH": "s/he would learn, you (formal) would learn"
+      "SPANISH": "Aprendería",
+      "ENGLISH": "He would learn"
     },
     "ELLOS": {
-      "SPANISH": "aprenderían",
-      "ENGLISH": "they would learn, you (plural formal) would learn"
+      "SPANISH": "Aprenderían",
+      "ENGLISH": "They would learn"
     },
     "NOSOTROS": {
-      "SPANISH": "aprenderíamos",
-      "ENGLISH": "we would learn"
+      "SPANISH": "Aprenderíamos",
+      "ENGLISH": "We would learn"
     },
     "VOSOTROS": {
-      "SPANISH": "aprenderíais",
-      "ENGLISH": "you (plural) would learn"
+      "SPANISH": "Aprenderíais",
+      "ENGLISH": "You would learn"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría aprendido",
+      "SPANISH": "Habría aprendido",
       "ENGLISH": "I would have learnt"
     },
     "TU": {
-      "SPANISH": "habrías aprendido",
-      "ENGLISH": "you would have learnt"
+      "SPANISH": "Habrías aprendido",
+      "ENGLISH": "You would have learnt"
     },
     "EL": {
-      "SPANISH": "habría aprendido",
-      "ENGLISH": "s/he would have learnt, you (formal) would have learnt"
+      "SPANISH": "Habría aprendido",
+      "ENGLISH": "He would have learnt"
     },
     "ELLOS": {
-      "SPANISH": "habrían aprendido",
-      "ENGLISH": "they would have learnt, you (plural formal) would have learnt"
+      "SPANISH": "Habrían aprendido",
+      "ENGLISH": "They would have learnt"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos aprendido",
-      "ENGLISH": "we would have learnt"
+      "SPANISH": "Habríamos aprendido",
+      "ENGLISH": "We would have learnt"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais aprendido",
-      "ENGLISH": "you (plural) would have learnt"
+      "SPANISH": "Habríais aprendido",
+      "ENGLISH": "You would have learnt"
     }
   }
 }

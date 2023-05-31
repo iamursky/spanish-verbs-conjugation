@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "miro",
+      "SPANISH": "Miro",
       "ENGLISH": "I look"
     },
     "TU": {
-      "SPANISH": "miras",
-      "ENGLISH": "you look"
+      "SPANISH": "Miras",
+      "ENGLISH": "You look"
     },
     "EL": {
-      "SPANISH": "mira",
-      "ENGLISH": "s/he looks, you (formal) looks"
+      "SPANISH": "Mira",
+      "ENGLISH": "He looks"
     },
     "ELLOS": {
-      "SPANISH": "miran",
-      "ENGLISH": "they look, you (plural formal) look"
+      "SPANISH": "Miran",
+      "ENGLISH": "They look"
     },
     "NOSOTROS": {
-      "SPANISH": "miramos",
-      "ENGLISH": "we look"
+      "SPANISH": "Miramos",
+      "ENGLISH": "We look"
     },
     "VOSOTROS": {
-      "SPANISH": "miráis",
-      "ENGLISH": "you (plural) look"
+      "SPANISH": "Miráis",
+      "ENGLISH": "You look"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he mirado",
+      "SPANISH": "He mirado",
       "ENGLISH": "I have looked"
     },
     "TU": {
-      "SPANISH": "has mirado",
-      "ENGLISH": "you have looked"
+      "SPANISH": "Has mirado",
+      "ENGLISH": "You have looked"
     },
     "EL": {
-      "SPANISH": "ha mirado",
-      "ENGLISH": "s/he has looked, you (formal) have looked"
+      "SPANISH": "Ha mirado",
+      "ENGLISH": "He has looked"
     },
     "ELLOS": {
-      "SPANISH": "han mirado",
-      "ENGLISH": "they have looked, you (plural formal) have looked"
+      "SPANISH": "Han mirado",
+      "ENGLISH": "They have looked"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos mirado",
-      "ENGLISH": "we have looked"
+      "SPANISH": "Hemos mirado",
+      "ENGLISH": "We have looked"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis mirado",
-      "ENGLISH": "you (plural) have looked"
+      "SPANISH": "Habéis mirado",
+      "ENGLISH": "You have looked"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "miré",
+      "SPANISH": "Miré",
       "ENGLISH": "I looked"
     },
     "TU": {
-      "SPANISH": "miraste",
-      "ENGLISH": "you looked"
+      "SPANISH": "Miraste",
+      "ENGLISH": "You looked"
     },
     "EL": {
-      "SPANISH": "miró",
-      "ENGLISH": "s/he looked, you (formal) looked"
+      "SPANISH": "Miró",
+      "ENGLISH": "He looked"
     },
     "ELLOS": {
-      "SPANISH": "miraron",
-      "ENGLISH": "they looked, you (plural formal) looked"
+      "SPANISH": "Miraron",
+      "ENGLISH": "They looked"
     },
     "NOSOTROS": {
-      "SPANISH": "miramos",
-      "ENGLISH": "we looked"
+      "SPANISH": "Miramos",
+      "ENGLISH": "We looked"
     },
     "VOSOTROS": {
-      "SPANISH": "mirasteis",
-      "ENGLISH": "you (plural) looked"
+      "SPANISH": "Mirasteis",
+      "ENGLISH": "You looked"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había mirado",
+      "SPANISH": "Había mirado",
       "ENGLISH": "I had looked"
     },
     "TU": {
-      "SPANISH": "habías mirado",
-      "ENGLISH": "you had looked"
+      "SPANISH": "Habías mirado",
+      "ENGLISH": "You had looked"
     },
     "EL": {
-      "SPANISH": "había mirado",
-      "ENGLISH": "s/he had looked, you (formal) had looked"
+      "SPANISH": "Había mirado",
+      "ENGLISH": "He had looked"
     },
     "ELLOS": {
-      "SPANISH": "habían mirado",
-      "ENGLISH": "they had looked, you (plural formal) had looked"
+      "SPANISH": "Habían mirado",
+      "ENGLISH": "They had looked"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos mirado",
-      "ENGLISH": "we had looked"
+      "SPANISH": "Habíamos mirado",
+      "ENGLISH": "We had looked"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais mirado",
-      "ENGLISH": "you (plural) had looked"
+      "SPANISH": "Habíais mirado",
+      "ENGLISH": "You had looked"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "miré",
+      "SPANISH": "Miré",
       "ENGLISH": "I looked"
     },
     "TU": {
-      "SPANISH": "miraste",
-      "ENGLISH": "you looked"
+      "SPANISH": "Miraste",
+      "ENGLISH": "You looked"
     },
     "EL": {
-      "SPANISH": "miró",
-      "ENGLISH": "s/he looked, you (formal) looked"
+      "SPANISH": "Miró",
+      "ENGLISH": "He looked"
     },
     "ELLOS": {
-      "SPANISH": "miraron",
-      "ENGLISH": "they looked, you (plural formal) looked"
+      "SPANISH": "Miraron",
+      "ENGLISH": "They looked"
     },
     "NOSOTROS": {
-      "SPANISH": "miramos",
-      "ENGLISH": "we looked"
+      "SPANISH": "Miramos",
+      "ENGLISH": "We looked"
     },
     "VOSOTROS": {
-      "SPANISH": "mirasteis",
-      "ENGLISH": "you (plural) looked"
+      "SPANISH": "Mirasteis",
+      "ENGLISH": "You looked"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "miraré",
+      "SPANISH": "Miraré",
       "ENGLISH": "I will look"
     },
     "TU": {
-      "SPANISH": "mirarás",
-      "ENGLISH": "you will look"
+      "SPANISH": "Mirarás",
+      "ENGLISH": "You will look"
     },
     "EL": {
-      "SPANISH": "mirará",
-      "ENGLISH": "s/he will look, you (formal) will look"
+      "SPANISH": "Mirará",
+      "ENGLISH": "He will look"
     },
     "ELLOS": {
-      "SPANISH": "mirarán",
-      "ENGLISH": "they will look, you (plural formal) will look"
+      "SPANISH": "Mirarán",
+      "ENGLISH": "They will look"
     },
     "NOSOTROS": {
-      "SPANISH": "miraremos",
-      "ENGLISH": "we will look"
+      "SPANISH": "Miraremos",
+      "ENGLISH": "We will look"
     },
     "VOSOTROS": {
-      "SPANISH": "miraréis",
-      "ENGLISH": "you (plural) will look"
+      "SPANISH": "Miraréis",
+      "ENGLISH": "You will look"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré mirado",
+      "SPANISH": "Habré mirado",
       "ENGLISH": "I will have looked"
     },
     "TU": {
-      "SPANISH": "habrás mirado",
-      "ENGLISH": "you will have looked"
+      "SPANISH": "Habrás mirado",
+      "ENGLISH": "You will have looked"
     },
     "EL": {
-      "SPANISH": "habrá mirado",
-      "ENGLISH": "s/he will have looked, you (formal) will have looked"
+      "SPANISH": "Habrá mirado",
+      "ENGLISH": "He will have looked"
     },
     "ELLOS": {
-      "SPANISH": "habrán mirado",
-      "ENGLISH": "they will have looked, you (plural formal) will have looked"
+      "SPANISH": "Habrán mirado",
+      "ENGLISH": "They will have looked"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos mirado",
-      "ENGLISH": "we will have looked"
+      "SPANISH": "Habremos mirado",
+      "ENGLISH": "We will have looked"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis mirado",
-      "ENGLISH": "you (plural) will have looked"
+      "SPANISH": "Habréis mirado",
+      "ENGLISH": "You will have looked"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "miraría",
+      "SPANISH": "Miraría",
       "ENGLISH": "I would look"
     },
     "TU": {
-      "SPANISH": "mirarías",
-      "ENGLISH": "you would look"
+      "SPANISH": "Mirarías",
+      "ENGLISH": "You would look"
     },
     "EL": {
-      "SPANISH": "miraría",
-      "ENGLISH": "s/he would look, you (formal) would look"
+      "SPANISH": "Miraría",
+      "ENGLISH": "He would look"
     },
     "ELLOS": {
-      "SPANISH": "mirarían",
-      "ENGLISH": "they would look, you (plural formal) would look"
+      "SPANISH": "Mirarían",
+      "ENGLISH": "They would look"
     },
     "NOSOTROS": {
-      "SPANISH": "miraríamos",
-      "ENGLISH": "we would look"
+      "SPANISH": "Miraríamos",
+      "ENGLISH": "We would look"
     },
     "VOSOTROS": {
-      "SPANISH": "miraríais",
-      "ENGLISH": "you (plural) would look"
+      "SPANISH": "Miraríais",
+      "ENGLISH": "You would look"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría mirado",
+      "SPANISH": "Habría mirado",
       "ENGLISH": "I would have looked"
     },
     "TU": {
-      "SPANISH": "habrías mirado",
-      "ENGLISH": "you would have looked"
+      "SPANISH": "Habrías mirado",
+      "ENGLISH": "You would have looked"
     },
     "EL": {
-      "SPANISH": "habría mirado",
-      "ENGLISH": "s/he would have looked, you (formal) would have looked"
+      "SPANISH": "Habría mirado",
+      "ENGLISH": "He would have looked"
     },
     "ELLOS": {
-      "SPANISH": "habrían mirado",
-      "ENGLISH": "they would have looked, you (plural formal) would have looked"
+      "SPANISH": "Habrían mirado",
+      "ENGLISH": "They would have looked"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos mirado",
-      "ENGLISH": "we would have looked"
+      "SPANISH": "Habríamos mirado",
+      "ENGLISH": "We would have looked"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais mirado",
-      "ENGLISH": "you (plural) would have looked"
+      "SPANISH": "Habríais mirado",
+      "ENGLISH": "You would have looked"
     }
   }
 }

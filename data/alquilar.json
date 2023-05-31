@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "alquilo",
+      "SPANISH": "Alquilo",
       "ENGLISH": "I rent"
     },
     "TU": {
-      "SPANISH": "alquilas",
-      "ENGLISH": "you rent"
+      "SPANISH": "Alquilas",
+      "ENGLISH": "You rent"
     },
     "EL": {
-      "SPANISH": "alquila",
-      "ENGLISH": "s/he rents, you (formal) rents"
+      "SPANISH": "Alquila",
+      "ENGLISH": "He rents"
     },
     "ELLOS": {
-      "SPANISH": "alquilan",
-      "ENGLISH": "they rent, you (plural formal) rent"
+      "SPANISH": "Alquilan",
+      "ENGLISH": "They rent"
     },
     "NOSOTROS": {
-      "SPANISH": "alquilamos",
-      "ENGLISH": "we rent"
+      "SPANISH": "Alquilamos",
+      "ENGLISH": "We rent"
     },
     "VOSOTROS": {
-      "SPANISH": "alquiláis",
-      "ENGLISH": "you (plural) rent"
+      "SPANISH": "Alquiláis",
+      "ENGLISH": "You rent"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he alquilado",
+      "SPANISH": "He alquilado",
       "ENGLISH": "I have rented"
     },
     "TU": {
-      "SPANISH": "has alquilado",
-      "ENGLISH": "you have rented"
+      "SPANISH": "Has alquilado",
+      "ENGLISH": "You have rented"
     },
     "EL": {
-      "SPANISH": "ha alquilado",
-      "ENGLISH": "s/he has rented, you (formal) have rented"
+      "SPANISH": "Ha alquilado",
+      "ENGLISH": "He has rented"
     },
     "ELLOS": {
-      "SPANISH": "han alquilado",
-      "ENGLISH": "they have rented, you (plural formal) have rented"
+      "SPANISH": "Han alquilado",
+      "ENGLISH": "They have rented"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos alquilado",
-      "ENGLISH": "we have rented"
+      "SPANISH": "Hemos alquilado",
+      "ENGLISH": "We have rented"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis alquilado",
-      "ENGLISH": "you (plural) have rented"
+      "SPANISH": "Habéis alquilado",
+      "ENGLISH": "You have rented"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "alquilé",
+      "SPANISH": "Alquilé",
       "ENGLISH": "I rented"
     },
     "TU": {
-      "SPANISH": "alquilaste",
-      "ENGLISH": "you rented"
+      "SPANISH": "Alquilaste",
+      "ENGLISH": "You rented"
     },
     "EL": {
-      "SPANISH": "alquiló",
-      "ENGLISH": "s/he rented, you (formal) rented"
+      "SPANISH": "Alquiló",
+      "ENGLISH": "He rented"
     },
     "ELLOS": {
-      "SPANISH": "alquilaron",
-      "ENGLISH": "they rented, you (plural formal) rented"
+      "SPANISH": "Alquilaron",
+      "ENGLISH": "They rented"
     },
     "NOSOTROS": {
-      "SPANISH": "alquilamos",
-      "ENGLISH": "we rented"
+      "SPANISH": "Alquilamos",
+      "ENGLISH": "We rented"
     },
     "VOSOTROS": {
-      "SPANISH": "alquilasteis",
-      "ENGLISH": "you (plural) rented"
+      "SPANISH": "Alquilasteis",
+      "ENGLISH": "You rented"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había alquilado",
+      "SPANISH": "Había alquilado",
       "ENGLISH": "I had rented"
     },
     "TU": {
-      "SPANISH": "habías alquilado",
-      "ENGLISH": "you had rented"
+      "SPANISH": "Habías alquilado",
+      "ENGLISH": "You had rented"
     },
     "EL": {
-      "SPANISH": "había alquilado",
-      "ENGLISH": "s/he had rented, you (formal) had rented"
+      "SPANISH": "Había alquilado",
+      "ENGLISH": "He had rented"
     },
     "ELLOS": {
-      "SPANISH": "habían alquilado",
-      "ENGLISH": "they had rented, you (plural formal) had rented"
+      "SPANISH": "Habían alquilado",
+      "ENGLISH": "They had rented"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos alquilado",
-      "ENGLISH": "we had rented"
+      "SPANISH": "Habíamos alquilado",
+      "ENGLISH": "We had rented"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais alquilado",
-      "ENGLISH": "you (plural) had rented"
+      "SPANISH": "Habíais alquilado",
+      "ENGLISH": "You had rented"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "alquilé",
+      "SPANISH": "Alquilé",
       "ENGLISH": "I rented"
     },
     "TU": {
-      "SPANISH": "alquilaste",
-      "ENGLISH": "you rented"
+      "SPANISH": "Alquilaste",
+      "ENGLISH": "You rented"
     },
     "EL": {
-      "SPANISH": "alquiló",
-      "ENGLISH": "s/he rented, you (formal) rented"
+      "SPANISH": "Alquiló",
+      "ENGLISH": "He rented"
     },
     "ELLOS": {
-      "SPANISH": "alquilaron",
-      "ENGLISH": "they rented, you (plural formal) rented"
+      "SPANISH": "Alquilaron",
+      "ENGLISH": "They rented"
     },
     "NOSOTROS": {
-      "SPANISH": "alquilamos",
-      "ENGLISH": "we rented"
+      "SPANISH": "Alquilamos",
+      "ENGLISH": "We rented"
     },
     "VOSOTROS": {
-      "SPANISH": "alquilasteis",
-      "ENGLISH": "you (plural) rented"
+      "SPANISH": "Alquilasteis",
+      "ENGLISH": "You rented"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "alquilaré",
+      "SPANISH": "Alquilaré",
       "ENGLISH": "I will rent"
     },
     "TU": {
-      "SPANISH": "alquilarás",
-      "ENGLISH": "you will rent"
+      "SPANISH": "Alquilarás",
+      "ENGLISH": "You will rent"
     },
     "EL": {
-      "SPANISH": "alquilará",
-      "ENGLISH": "s/he will rent, you (formal) will rent"
+      "SPANISH": "Alquilará",
+      "ENGLISH": "He will rent"
     },
     "ELLOS": {
-      "SPANISH": "alquilarán",
-      "ENGLISH": "they will rent, you (plural formal) will rent"
+      "SPANISH": "Alquilarán",
+      "ENGLISH": "They will rent"
     },
     "NOSOTROS": {
-      "SPANISH": "alquilaremos",
-      "ENGLISH": "we will rent"
+      "SPANISH": "Alquilaremos",
+      "ENGLISH": "We will rent"
     },
     "VOSOTROS": {
-      "SPANISH": "alquilaréis",
-      "ENGLISH": "you (plural) will rent"
+      "SPANISH": "Alquilaréis",
+      "ENGLISH": "You will rent"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré alquilado",
+      "SPANISH": "Habré alquilado",
       "ENGLISH": "I will have rented"
     },
     "TU": {
-      "SPANISH": "habrás alquilado",
-      "ENGLISH": "you will have rented"
+      "SPANISH": "Habrás alquilado",
+      "ENGLISH": "You will have rented"
     },
     "EL": {
-      "SPANISH": "habrá alquilado",
-      "ENGLISH": "s/he will have rented, you (formal) will have rented"
+      "SPANISH": "Habrá alquilado",
+      "ENGLISH": "He will have rented"
     },
     "ELLOS": {
-      "SPANISH": "habrán alquilado",
-      "ENGLISH": "they will have rented, you (plural formal) will have rented"
+      "SPANISH": "Habrán alquilado",
+      "ENGLISH": "They will have rented"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos alquilado",
-      "ENGLISH": "we will have rented"
+      "SPANISH": "Habremos alquilado",
+      "ENGLISH": "We will have rented"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis alquilado",
-      "ENGLISH": "you (plural) will have rented"
+      "SPANISH": "Habréis alquilado",
+      "ENGLISH": "You will have rented"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "alquilaría",
+      "SPANISH": "Alquilaría",
       "ENGLISH": "I would rent"
     },
     "TU": {
-      "SPANISH": "alquilarías",
-      "ENGLISH": "you would rent"
+      "SPANISH": "Alquilarías",
+      "ENGLISH": "You would rent"
     },
     "EL": {
-      "SPANISH": "alquilaría",
-      "ENGLISH": "s/he would rent, you (formal) would rent"
+      "SPANISH": "Alquilaría",
+      "ENGLISH": "He would rent"
     },
     "ELLOS": {
-      "SPANISH": "alquilarían",
-      "ENGLISH": "they would rent, you (plural formal) would rent"
+      "SPANISH": "Alquilarían",
+      "ENGLISH": "They would rent"
     },
     "NOSOTROS": {
-      "SPANISH": "alquilaríamos",
-      "ENGLISH": "we would rent"
+      "SPANISH": "Alquilaríamos",
+      "ENGLISH": "We would rent"
     },
     "VOSOTROS": {
-      "SPANISH": "alquilaríais",
-      "ENGLISH": "you (plural) would rent"
+      "SPANISH": "Alquilaríais",
+      "ENGLISH": "You would rent"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría alquilado",
+      "SPANISH": "Habría alquilado",
       "ENGLISH": "I would have rented"
     },
     "TU": {
-      "SPANISH": "habrías alquilado",
-      "ENGLISH": "you would have rented"
+      "SPANISH": "Habrías alquilado",
+      "ENGLISH": "You would have rented"
     },
     "EL": {
-      "SPANISH": "habría alquilado",
-      "ENGLISH": "s/he would have rented, you (formal) would have rented"
+      "SPANISH": "Habría alquilado",
+      "ENGLISH": "He would have rented"
     },
     "ELLOS": {
-      "SPANISH": "habrían alquilado",
-      "ENGLISH": "they would have rented, you (plural formal) would have rented"
+      "SPANISH": "Habrían alquilado",
+      "ENGLISH": "They would have rented"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos alquilado",
-      "ENGLISH": "we would have rented"
+      "SPANISH": "Habríamos alquilado",
+      "ENGLISH": "We would have rented"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais alquilado",
-      "ENGLISH": "you (plural) would have rented"
+      "SPANISH": "Habríais alquilado",
+      "ENGLISH": "You would have rented"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "despierto ",
+      "SPANISH": "Despierto ",
       "ENGLISH": "I wake"
     },
     "TU": {
-      "SPANISH": "despiertas ",
-      "ENGLISH": "you wake"
+      "SPANISH": "Despiertas ",
+      "ENGLISH": "You wake"
     },
     "EL": {
-      "SPANISH": "despierta ",
-      "ENGLISH": "s/he wakes, you (formal) wakes"
+      "SPANISH": "Despierta ",
+      "ENGLISH": "He wakes"
     },
     "ELLOS": {
-      "SPANISH": "despiertan ",
-      "ENGLISH": "they wake, you (plural formal) wake"
+      "SPANISH": "Despiertan ",
+      "ENGLISH": "They wake"
     },
     "NOSOTROS": {
-      "SPANISH": "despertamos",
-      "ENGLISH": "we wake"
+      "SPANISH": "Despertamos",
+      "ENGLISH": "We wake"
     },
     "VOSOTROS": {
-      "SPANISH": "despertáis",
-      "ENGLISH": "you (plural) wake"
+      "SPANISH": "Despertáis",
+      "ENGLISH": "You wake"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he despertado",
+      "SPANISH": "He despertado",
       "ENGLISH": "I have woken"
     },
     "TU": {
-      "SPANISH": "has despertado",
-      "ENGLISH": "you have woken"
+      "SPANISH": "Has despertado",
+      "ENGLISH": "You have woken"
     },
     "EL": {
-      "SPANISH": "ha despertado",
-      "ENGLISH": "s/he has woken, you (formal) have woken"
+      "SPANISH": "Ha despertado",
+      "ENGLISH": "He has woken"
     },
     "ELLOS": {
-      "SPANISH": "han despertado",
-      "ENGLISH": "they have woken, you (plural formal) have woken"
+      "SPANISH": "Han despertado",
+      "ENGLISH": "They have woken"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos despertado",
-      "ENGLISH": "we have woken"
+      "SPANISH": "Hemos despertado",
+      "ENGLISH": "We have woken"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis despertado",
-      "ENGLISH": "you (plural) have woken"
+      "SPANISH": "Habéis despertado",
+      "ENGLISH": "You have woken"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "desperté",
+      "SPANISH": "Desperté",
       "ENGLISH": "I woke"
     },
     "TU": {
-      "SPANISH": "despertaste",
-      "ENGLISH": "you woke"
+      "SPANISH": "Despertaste",
+      "ENGLISH": "You woke"
     },
     "EL": {
-      "SPANISH": "despertó",
-      "ENGLISH": "s/he woke, you (formal) woke"
+      "SPANISH": "Despertó",
+      "ENGLISH": "He woke"
     },
     "ELLOS": {
-      "SPANISH": "despertaron",
-      "ENGLISH": "they woke, you (plural formal) woke"
+      "SPANISH": "Despertaron",
+      "ENGLISH": "They woke"
     },
     "NOSOTROS": {
-      "SPANISH": "despertamos",
-      "ENGLISH": "we woke"
+      "SPANISH": "Despertamos",
+      "ENGLISH": "We woke"
     },
     "VOSOTROS": {
-      "SPANISH": "despertasteis",
-      "ENGLISH": "you (plural) woke"
+      "SPANISH": "Despertasteis",
+      "ENGLISH": "You woke"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había despertado",
+      "SPANISH": "Había despertado",
       "ENGLISH": "I had woken"
     },
     "TU": {
-      "SPANISH": "habías despertado",
-      "ENGLISH": "you had woken"
+      "SPANISH": "Habías despertado",
+      "ENGLISH": "You had woken"
     },
     "EL": {
-      "SPANISH": "había despertado",
-      "ENGLISH": "s/he had woken, you (formal) had woken"
+      "SPANISH": "Había despertado",
+      "ENGLISH": "He had woken"
     },
     "ELLOS": {
-      "SPANISH": "habían despertado",
-      "ENGLISH": "they had woken, you (plural formal) had woken"
+      "SPANISH": "Habían despertado",
+      "ENGLISH": "They had woken"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos despertado",
-      "ENGLISH": "we had woken"
+      "SPANISH": "Habíamos despertado",
+      "ENGLISH": "We had woken"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais despertado",
-      "ENGLISH": "you (plural) had woken"
+      "SPANISH": "Habíais despertado",
+      "ENGLISH": "You had woken"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "desperté",
+      "SPANISH": "Desperté",
       "ENGLISH": "I woke"
     },
     "TU": {
-      "SPANISH": "despertaste",
-      "ENGLISH": "you woke"
+      "SPANISH": "Despertaste",
+      "ENGLISH": "You woke"
     },
     "EL": {
-      "SPANISH": "despertó",
-      "ENGLISH": "s/he woke, you (formal) woke"
+      "SPANISH": "Despertó",
+      "ENGLISH": "He woke"
     },
     "ELLOS": {
-      "SPANISH": "despertaron",
-      "ENGLISH": "they woke, you (plural formal) woke"
+      "SPANISH": "Despertaron",
+      "ENGLISH": "They woke"
     },
     "NOSOTROS": {
-      "SPANISH": "despertamos",
-      "ENGLISH": "we woke"
+      "SPANISH": "Despertamos",
+      "ENGLISH": "We woke"
     },
     "VOSOTROS": {
-      "SPANISH": "despertasteis",
-      "ENGLISH": "you (plural) woke"
+      "SPANISH": "Despertasteis",
+      "ENGLISH": "You woke"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "despertaré",
+      "SPANISH": "Despertaré",
       "ENGLISH": "I will wake"
     },
     "TU": {
-      "SPANISH": "despertarás",
-      "ENGLISH": "you will wake"
+      "SPANISH": "Despertarás",
+      "ENGLISH": "You will wake"
     },
     "EL": {
-      "SPANISH": "despertará",
-      "ENGLISH": "s/he will wake, you (formal) will wake"
+      "SPANISH": "Despertará",
+      "ENGLISH": "He will wake"
     },
     "ELLOS": {
-      "SPANISH": "despertarán",
-      "ENGLISH": "they will wake, you (plural formal) will wake"
+      "SPANISH": "Despertarán",
+      "ENGLISH": "They will wake"
     },
     "NOSOTROS": {
-      "SPANISH": "despertaremos",
-      "ENGLISH": "we will wake"
+      "SPANISH": "Despertaremos",
+      "ENGLISH": "We will wake"
     },
     "VOSOTROS": {
-      "SPANISH": "despertaréis",
-      "ENGLISH": "you (plural) will wake"
+      "SPANISH": "Despertaréis",
+      "ENGLISH": "You will wake"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré despertado",
+      "SPANISH": "Habré despertado",
       "ENGLISH": "I will have woken"
     },
     "TU": {
-      "SPANISH": "habrás despertado",
-      "ENGLISH": "you will have woken"
+      "SPANISH": "Habrás despertado",
+      "ENGLISH": "You will have woken"
     },
     "EL": {
-      "SPANISH": "habrá despertado",
-      "ENGLISH": "s/he will have woken, you (formal) will have woken"
+      "SPANISH": "Habrá despertado",
+      "ENGLISH": "He will have woken"
     },
     "ELLOS": {
-      "SPANISH": "habrán despertado",
-      "ENGLISH": "they will have woken, you (plural formal) will have woken"
+      "SPANISH": "Habrán despertado",
+      "ENGLISH": "They will have woken"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos despertado",
-      "ENGLISH": "we will have woken"
+      "SPANISH": "Habremos despertado",
+      "ENGLISH": "We will have woken"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis despertado",
-      "ENGLISH": "you (plural) will have woken"
+      "SPANISH": "Habréis despertado",
+      "ENGLISH": "You will have woken"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "despertaría",
+      "SPANISH": "Despertaría",
       "ENGLISH": "I would wake"
     },
     "TU": {
-      "SPANISH": "despertarías",
-      "ENGLISH": "you would wake"
+      "SPANISH": "Despertarías",
+      "ENGLISH": "You would wake"
     },
     "EL": {
-      "SPANISH": "despertaría",
-      "ENGLISH": "s/he would wake, you (formal) would wake"
+      "SPANISH": "Despertaría",
+      "ENGLISH": "He would wake"
     },
     "ELLOS": {
-      "SPANISH": "despertarían",
-      "ENGLISH": "they would wake, you (plural formal) would wake"
+      "SPANISH": "Despertarían",
+      "ENGLISH": "They would wake"
     },
     "NOSOTROS": {
-      "SPANISH": "despertaríamos",
-      "ENGLISH": "we would wake"
+      "SPANISH": "Despertaríamos",
+      "ENGLISH": "We would wake"
     },
     "VOSOTROS": {
-      "SPANISH": "despertaríais",
-      "ENGLISH": "you (plural) would wake"
+      "SPANISH": "Despertaríais",
+      "ENGLISH": "You would wake"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría despertado",
+      "SPANISH": "Habría despertado",
       "ENGLISH": "I would have woken"
     },
     "TU": {
-      "SPANISH": "habrías despertado",
-      "ENGLISH": "you would have woken"
+      "SPANISH": "Habrías despertado",
+      "ENGLISH": "You would have woken"
     },
     "EL": {
-      "SPANISH": "habría despertado",
-      "ENGLISH": "s/he would have woken, you (formal) would have woken"
+      "SPANISH": "Habría despertado",
+      "ENGLISH": "He would have woken"
     },
     "ELLOS": {
-      "SPANISH": "habrían despertado",
-      "ENGLISH": "they would have woken, you (plural formal) would have woken"
+      "SPANISH": "Habrían despertado",
+      "ENGLISH": "They would have woken"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos despertado",
-      "ENGLISH": "we would have woken"
+      "SPANISH": "Habríamos despertado",
+      "ENGLISH": "We would have woken"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais despertado",
-      "ENGLISH": "you (plural) would have woken"
+      "SPANISH": "Habríais despertado",
+      "ENGLISH": "You would have woken"
     }
   }
 }

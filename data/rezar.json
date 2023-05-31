@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "rezo",
+      "SPANISH": "Rezo",
       "ENGLISH": "I pray"
     },
     "TU": {
-      "SPANISH": "rezas",
-      "ENGLISH": "you pray"
+      "SPANISH": "Rezas",
+      "ENGLISH": "You pray"
     },
     "EL": {
-      "SPANISH": "reza",
-      "ENGLISH": "s/he prays, you (formal) prays"
+      "SPANISH": "Reza",
+      "ENGLISH": "He prays"
     },
     "ELLOS": {
-      "SPANISH": "rezan",
-      "ENGLISH": "they pray, you (plural formal) pray"
+      "SPANISH": "Rezan",
+      "ENGLISH": "They pray"
     },
     "NOSOTROS": {
-      "SPANISH": "rezamos",
-      "ENGLISH": "we pray"
+      "SPANISH": "Rezamos",
+      "ENGLISH": "We pray"
     },
     "VOSOTROS": {
-      "SPANISH": "rezáis",
-      "ENGLISH": "you (plural) pray"
+      "SPANISH": "Rezáis",
+      "ENGLISH": "You pray"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he rezado",
+      "SPANISH": "He rezado",
       "ENGLISH": "I have prayed"
     },
     "TU": {
-      "SPANISH": "has rezado",
-      "ENGLISH": "you have prayed"
+      "SPANISH": "Has rezado",
+      "ENGLISH": "You have prayed"
     },
     "EL": {
-      "SPANISH": "ha rezado",
-      "ENGLISH": "s/he has prayed, you (formal) have prayed"
+      "SPANISH": "Ha rezado",
+      "ENGLISH": "He has prayed"
     },
     "ELLOS": {
-      "SPANISH": "han rezado",
-      "ENGLISH": "they have prayed, you (plural formal) have prayed"
+      "SPANISH": "Han rezado",
+      "ENGLISH": "They have prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos rezado",
-      "ENGLISH": "we have prayed"
+      "SPANISH": "Hemos rezado",
+      "ENGLISH": "We have prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis rezado",
-      "ENGLISH": "you (plural) have prayed"
+      "SPANISH": "Habéis rezado",
+      "ENGLISH": "You have prayed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "recé ",
+      "SPANISH": "Recé ",
       "ENGLISH": "I prayed"
     },
     "TU": {
-      "SPANISH": "rezaste",
-      "ENGLISH": "you prayed"
+      "SPANISH": "Rezaste",
+      "ENGLISH": "You prayed"
     },
     "EL": {
-      "SPANISH": "rezó",
-      "ENGLISH": "s/he prayed, you (formal) prayed"
+      "SPANISH": "Rezó",
+      "ENGLISH": "He prayed"
     },
     "ELLOS": {
-      "SPANISH": "rezaron",
-      "ENGLISH": "they prayed, you (plural formal) prayed"
+      "SPANISH": "Rezaron",
+      "ENGLISH": "They prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "rezamos",
-      "ENGLISH": "we prayed"
+      "SPANISH": "Rezamos",
+      "ENGLISH": "We prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "rezasteis",
-      "ENGLISH": "you (plural) prayed"
+      "SPANISH": "Rezasteis",
+      "ENGLISH": "You prayed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había rezado",
+      "SPANISH": "Había rezado",
       "ENGLISH": "I had prayed"
     },
     "TU": {
-      "SPANISH": "habías rezado",
-      "ENGLISH": "you had prayed"
+      "SPANISH": "Habías rezado",
+      "ENGLISH": "You had prayed"
     },
     "EL": {
-      "SPANISH": "había rezado",
-      "ENGLISH": "s/he had prayed, you (formal) had prayed"
+      "SPANISH": "Había rezado",
+      "ENGLISH": "He had prayed"
     },
     "ELLOS": {
-      "SPANISH": "habían rezado",
-      "ENGLISH": "they had prayed, you (plural formal) had prayed"
+      "SPANISH": "Habían rezado",
+      "ENGLISH": "They had prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos rezado",
-      "ENGLISH": "we had prayed"
+      "SPANISH": "Habíamos rezado",
+      "ENGLISH": "We had prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais rezado",
-      "ENGLISH": "you (plural) had prayed"
+      "SPANISH": "Habíais rezado",
+      "ENGLISH": "You had prayed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "recé ",
+      "SPANISH": "Recé ",
       "ENGLISH": "I prayed"
     },
     "TU": {
-      "SPANISH": "rezaste",
-      "ENGLISH": "you prayed"
+      "SPANISH": "Rezaste",
+      "ENGLISH": "You prayed"
     },
     "EL": {
-      "SPANISH": "rezó",
-      "ENGLISH": "s/he prayed, you (formal) prayed"
+      "SPANISH": "Rezó",
+      "ENGLISH": "He prayed"
     },
     "ELLOS": {
-      "SPANISH": "rezaron",
-      "ENGLISH": "they prayed, you (plural formal) prayed"
+      "SPANISH": "Rezaron",
+      "ENGLISH": "They prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "rezamos",
-      "ENGLISH": "we prayed"
+      "SPANISH": "Rezamos",
+      "ENGLISH": "We prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "rezasteis",
-      "ENGLISH": "you (plural) prayed"
+      "SPANISH": "Rezasteis",
+      "ENGLISH": "You prayed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "rezaré",
+      "SPANISH": "Rezaré",
       "ENGLISH": "I will pray"
     },
     "TU": {
-      "SPANISH": "rezarás",
-      "ENGLISH": "you will pray"
+      "SPANISH": "Rezarás",
+      "ENGLISH": "You will pray"
     },
     "EL": {
-      "SPANISH": "rezará",
-      "ENGLISH": "s/he will pray, you (formal) will pray"
+      "SPANISH": "Rezará",
+      "ENGLISH": "He will pray"
     },
     "ELLOS": {
-      "SPANISH": "rezarán",
-      "ENGLISH": "they will pray, you (plural formal) will pray"
+      "SPANISH": "Rezarán",
+      "ENGLISH": "They will pray"
     },
     "NOSOTROS": {
-      "SPANISH": "rezaremos",
-      "ENGLISH": "we will pray"
+      "SPANISH": "Rezaremos",
+      "ENGLISH": "We will pray"
     },
     "VOSOTROS": {
-      "SPANISH": "rezaréis",
-      "ENGLISH": "you (plural) will pray"
+      "SPANISH": "Rezaréis",
+      "ENGLISH": "You will pray"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré rezado",
+      "SPANISH": "Habré rezado",
       "ENGLISH": "I will have prayed"
     },
     "TU": {
-      "SPANISH": "habrás rezado",
-      "ENGLISH": "you will have prayed"
+      "SPANISH": "Habrás rezado",
+      "ENGLISH": "You will have prayed"
     },
     "EL": {
-      "SPANISH": "habrá rezado",
-      "ENGLISH": "s/he will have prayed, you (formal) will have prayed"
+      "SPANISH": "Habrá rezado",
+      "ENGLISH": "He will have prayed"
     },
     "ELLOS": {
-      "SPANISH": "habrán rezado",
-      "ENGLISH": "they will have prayed, you (plural formal) will have prayed"
+      "SPANISH": "Habrán rezado",
+      "ENGLISH": "They will have prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos rezado",
-      "ENGLISH": "we will have prayed"
+      "SPANISH": "Habremos rezado",
+      "ENGLISH": "We will have prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis rezado",
-      "ENGLISH": "you (plural) will have prayed"
+      "SPANISH": "Habréis rezado",
+      "ENGLISH": "You will have prayed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "rezaría",
+      "SPANISH": "Rezaría",
       "ENGLISH": "I would pray"
     },
     "TU": {
-      "SPANISH": "rezarías",
-      "ENGLISH": "you would pray"
+      "SPANISH": "Rezarías",
+      "ENGLISH": "You would pray"
     },
     "EL": {
-      "SPANISH": "rezaría",
-      "ENGLISH": "s/he would pray, you (formal) would pray"
+      "SPANISH": "Rezaría",
+      "ENGLISH": "He would pray"
     },
     "ELLOS": {
-      "SPANISH": "rezarían",
-      "ENGLISH": "they would pray, you (plural formal) would pray"
+      "SPANISH": "Rezarían",
+      "ENGLISH": "They would pray"
     },
     "NOSOTROS": {
-      "SPANISH": "rezaríamos",
-      "ENGLISH": "we would pray"
+      "SPANISH": "Rezaríamos",
+      "ENGLISH": "We would pray"
     },
     "VOSOTROS": {
-      "SPANISH": "rezaríais",
-      "ENGLISH": "you (plural) would pray"
+      "SPANISH": "Rezaríais",
+      "ENGLISH": "You would pray"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría rezado",
+      "SPANISH": "Habría rezado",
       "ENGLISH": "I would have prayed"
     },
     "TU": {
-      "SPANISH": "habrías rezado",
-      "ENGLISH": "you would have prayed"
+      "SPANISH": "Habrías rezado",
+      "ENGLISH": "You would have prayed"
     },
     "EL": {
-      "SPANISH": "habría rezado",
-      "ENGLISH": "s/he would have prayed, you (formal) would have prayed"
+      "SPANISH": "Habría rezado",
+      "ENGLISH": "He would have prayed"
     },
     "ELLOS": {
-      "SPANISH": "habrían rezado",
-      "ENGLISH": "they would have prayed, you (plural formal) would have prayed"
+      "SPANISH": "Habrían rezado",
+      "ENGLISH": "They would have prayed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos rezado",
-      "ENGLISH": "we would have prayed"
+      "SPANISH": "Habríamos rezado",
+      "ENGLISH": "We would have prayed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais rezado",
-      "ENGLISH": "you (plural) would have prayed"
+      "SPANISH": "Habríais rezado",
+      "ENGLISH": "You would have prayed"
     }
   }
 }

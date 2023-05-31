@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "visto ",
+      "SPANISH": "Visto ",
       "ENGLISH": "I dress"
     },
     "TU": {
-      "SPANISH": "vistes ",
-      "ENGLISH": "you dress"
+      "SPANISH": "Vistes ",
+      "ENGLISH": "You dress"
     },
     "EL": {
-      "SPANISH": "viste ",
-      "ENGLISH": "s/he dresses, you (formal) dresses"
+      "SPANISH": "Viste ",
+      "ENGLISH": "He dresses"
     },
     "ELLOS": {
-      "SPANISH": "visten ",
-      "ENGLISH": "they dress, you (plural formal) dress"
+      "SPANISH": "Visten ",
+      "ENGLISH": "They dress"
     },
     "NOSOTROS": {
-      "SPANISH": "vestimos",
-      "ENGLISH": "we dress"
+      "SPANISH": "Vestimos",
+      "ENGLISH": "We dress"
     },
     "VOSOTROS": {
-      "SPANISH": "vestís",
-      "ENGLISH": "you (plural) dress"
+      "SPANISH": "Vestís",
+      "ENGLISH": "You dress"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he vestido",
+      "SPANISH": "He vestido",
       "ENGLISH": "I have dressed"
     },
     "TU": {
-      "SPANISH": "has vestido",
-      "ENGLISH": "you have dressed"
+      "SPANISH": "Has vestido",
+      "ENGLISH": "You have dressed"
     },
     "EL": {
-      "SPANISH": "ha vestido",
-      "ENGLISH": "s/he has dressed, you (formal) have dressed"
+      "SPANISH": "Ha vestido",
+      "ENGLISH": "He has dressed"
     },
     "ELLOS": {
-      "SPANISH": "han vestido",
-      "ENGLISH": "they have dressed, you (plural formal) have dressed"
+      "SPANISH": "Han vestido",
+      "ENGLISH": "They have dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos vestido",
-      "ENGLISH": "we have dressed"
+      "SPANISH": "Hemos vestido",
+      "ENGLISH": "We have dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis vestido",
-      "ENGLISH": "you (plural) have dressed"
+      "SPANISH": "Habéis vestido",
+      "ENGLISH": "You have dressed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "vestí",
+      "SPANISH": "Vestí",
       "ENGLISH": "I dressed"
     },
     "TU": {
-      "SPANISH": "vestiste",
-      "ENGLISH": "you dressed"
+      "SPANISH": "Vestiste",
+      "ENGLISH": "You dressed"
     },
     "EL": {
-      "SPANISH": "vistió ",
-      "ENGLISH": "s/he dressed, you (formal) dressed"
+      "SPANISH": "Vistió ",
+      "ENGLISH": "He dressed"
     },
     "ELLOS": {
-      "SPANISH": "vistieron ",
-      "ENGLISH": "they dressed, you (plural formal) dressed"
+      "SPANISH": "Vistieron ",
+      "ENGLISH": "They dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "vestimos",
-      "ENGLISH": "we dressed"
+      "SPANISH": "Vestimos",
+      "ENGLISH": "We dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "vestisteis",
-      "ENGLISH": "you (plural) dressed"
+      "SPANISH": "Vestisteis",
+      "ENGLISH": "You dressed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había vestido",
+      "SPANISH": "Había vestido",
       "ENGLISH": "I had dressed"
     },
     "TU": {
-      "SPANISH": "habías vestido",
-      "ENGLISH": "you had dressed"
+      "SPANISH": "Habías vestido",
+      "ENGLISH": "You had dressed"
     },
     "EL": {
-      "SPANISH": "había vestido",
-      "ENGLISH": "s/he had dressed, you (formal) had dressed"
+      "SPANISH": "Había vestido",
+      "ENGLISH": "He had dressed"
     },
     "ELLOS": {
-      "SPANISH": "habían vestido",
-      "ENGLISH": "they had dressed, you (plural formal) had dressed"
+      "SPANISH": "Habían vestido",
+      "ENGLISH": "They had dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos vestido",
-      "ENGLISH": "we had dressed"
+      "SPANISH": "Habíamos vestido",
+      "ENGLISH": "We had dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais vestido",
-      "ENGLISH": "you (plural) had dressed"
+      "SPANISH": "Habíais vestido",
+      "ENGLISH": "You had dressed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "vestí",
+      "SPANISH": "Vestí",
       "ENGLISH": "I dressed"
     },
     "TU": {
-      "SPANISH": "vestiste",
-      "ENGLISH": "you dressed"
+      "SPANISH": "Vestiste",
+      "ENGLISH": "You dressed"
     },
     "EL": {
-      "SPANISH": "vistió ",
-      "ENGLISH": "s/he dressed, you (formal) dressed"
+      "SPANISH": "Vistió ",
+      "ENGLISH": "He dressed"
     },
     "ELLOS": {
-      "SPANISH": "vistieron ",
-      "ENGLISH": "they dressed, you (plural formal) dressed"
+      "SPANISH": "Vistieron ",
+      "ENGLISH": "They dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "vestimos",
-      "ENGLISH": "we dressed"
+      "SPANISH": "Vestimos",
+      "ENGLISH": "We dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "vestisteis",
-      "ENGLISH": "you (plural) dressed"
+      "SPANISH": "Vestisteis",
+      "ENGLISH": "You dressed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "vestiré",
+      "SPANISH": "Vestiré",
       "ENGLISH": "I will dress"
     },
     "TU": {
-      "SPANISH": "vestirás",
-      "ENGLISH": "you will dress"
+      "SPANISH": "Vestirás",
+      "ENGLISH": "You will dress"
     },
     "EL": {
-      "SPANISH": "vestirá",
-      "ENGLISH": "s/he will dress, you (formal) will dress"
+      "SPANISH": "Vestirá",
+      "ENGLISH": "He will dress"
     },
     "ELLOS": {
-      "SPANISH": "vestirán",
-      "ENGLISH": "they will dress, you (plural formal) will dress"
+      "SPANISH": "Vestirán",
+      "ENGLISH": "They will dress"
     },
     "NOSOTROS": {
-      "SPANISH": "vestiremos",
-      "ENGLISH": "we will dress"
+      "SPANISH": "Vestiremos",
+      "ENGLISH": "We will dress"
     },
     "VOSOTROS": {
-      "SPANISH": "vestiréis",
-      "ENGLISH": "you (plural) will dress"
+      "SPANISH": "Vestiréis",
+      "ENGLISH": "You will dress"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré vestido",
+      "SPANISH": "Habré vestido",
       "ENGLISH": "I will have dressed"
     },
     "TU": {
-      "SPANISH": "habrás vestido",
-      "ENGLISH": "you will have dressed"
+      "SPANISH": "Habrás vestido",
+      "ENGLISH": "You will have dressed"
     },
     "EL": {
-      "SPANISH": "habrá vestido",
-      "ENGLISH": "s/he will have dressed, you (formal) will have dressed"
+      "SPANISH": "Habrá vestido",
+      "ENGLISH": "He will have dressed"
     },
     "ELLOS": {
-      "SPANISH": "habrán vestido",
-      "ENGLISH": "they will have dressed, you (plural formal) will have dressed"
+      "SPANISH": "Habrán vestido",
+      "ENGLISH": "They will have dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos vestido",
-      "ENGLISH": "we will have dressed"
+      "SPANISH": "Habremos vestido",
+      "ENGLISH": "We will have dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis vestido",
-      "ENGLISH": "you (plural) will have dressed"
+      "SPANISH": "Habréis vestido",
+      "ENGLISH": "You will have dressed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "vestiría",
+      "SPANISH": "Vestiría",
       "ENGLISH": "I would dress"
     },
     "TU": {
-      "SPANISH": "vestirías",
-      "ENGLISH": "you would dress"
+      "SPANISH": "Vestirías",
+      "ENGLISH": "You would dress"
     },
     "EL": {
-      "SPANISH": "vestiría",
-      "ENGLISH": "s/he would dress, you (formal) would dress"
+      "SPANISH": "Vestiría",
+      "ENGLISH": "He would dress"
     },
     "ELLOS": {
-      "SPANISH": "vestirían",
-      "ENGLISH": "they would dress, you (plural formal) would dress"
+      "SPANISH": "Vestirían",
+      "ENGLISH": "They would dress"
     },
     "NOSOTROS": {
-      "SPANISH": "vestiríamos",
-      "ENGLISH": "we would dress"
+      "SPANISH": "Vestiríamos",
+      "ENGLISH": "We would dress"
     },
     "VOSOTROS": {
-      "SPANISH": "vestiríais",
-      "ENGLISH": "you (plural) would dress"
+      "SPANISH": "Vestiríais",
+      "ENGLISH": "You would dress"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría vestido",
+      "SPANISH": "Habría vestido",
       "ENGLISH": "I would have dressed"
     },
     "TU": {
-      "SPANISH": "habrías vestido",
-      "ENGLISH": "you would have dressed"
+      "SPANISH": "Habrías vestido",
+      "ENGLISH": "You would have dressed"
     },
     "EL": {
-      "SPANISH": "habría vestido",
-      "ENGLISH": "s/he would have dressed, you (formal) would have dressed"
+      "SPANISH": "Habría vestido",
+      "ENGLISH": "He would have dressed"
     },
     "ELLOS": {
-      "SPANISH": "habrían vestido",
-      "ENGLISH": "they would have dressed, you (plural formal) would have dressed"
+      "SPANISH": "Habrían vestido",
+      "ENGLISH": "They would have dressed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos vestido",
-      "ENGLISH": "we would have dressed"
+      "SPANISH": "Habríamos vestido",
+      "ENGLISH": "We would have dressed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais vestido",
-      "ENGLISH": "you (plural) would have dressed"
+      "SPANISH": "Habríais vestido",
+      "ENGLISH": "You would have dressed"
     }
   }
 }

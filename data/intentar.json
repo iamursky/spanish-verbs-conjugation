@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "intento",
+      "SPANISH": "Intento",
       "ENGLISH": "I try"
     },
     "TU": {
-      "SPANISH": "intentas",
-      "ENGLISH": "you try"
+      "SPANISH": "Intentas",
+      "ENGLISH": "You try"
     },
     "EL": {
-      "SPANISH": "intenta",
-      "ENGLISH": "s/he tries, you (formal) tries"
+      "SPANISH": "Intenta",
+      "ENGLISH": "He tries"
     },
     "ELLOS": {
-      "SPANISH": "intentan",
-      "ENGLISH": "they try, you (plural formal) try"
+      "SPANISH": "Intentan",
+      "ENGLISH": "They try"
     },
     "NOSOTROS": {
-      "SPANISH": "intentamos",
-      "ENGLISH": "we try"
+      "SPANISH": "Intentamos",
+      "ENGLISH": "We try"
     },
     "VOSOTROS": {
-      "SPANISH": "intentáis",
-      "ENGLISH": "you (plural) try"
+      "SPANISH": "Intentáis",
+      "ENGLISH": "You try"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he intentado",
+      "SPANISH": "He intentado",
       "ENGLISH": "I have tried"
     },
     "TU": {
-      "SPANISH": "has intentado",
-      "ENGLISH": "you have tried"
+      "SPANISH": "Has intentado",
+      "ENGLISH": "You have tried"
     },
     "EL": {
-      "SPANISH": "ha intentado",
-      "ENGLISH": "s/he has tried, you (formal) have tried"
+      "SPANISH": "Ha intentado",
+      "ENGLISH": "He has tried"
     },
     "ELLOS": {
-      "SPANISH": "han intentado",
-      "ENGLISH": "they have tried, you (plural formal) have tried"
+      "SPANISH": "Han intentado",
+      "ENGLISH": "They have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos intentado",
-      "ENGLISH": "we have tried"
+      "SPANISH": "Hemos intentado",
+      "ENGLISH": "We have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis intentado",
-      "ENGLISH": "you (plural) have tried"
+      "SPANISH": "Habéis intentado",
+      "ENGLISH": "You have tried"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "intenté",
+      "SPANISH": "Intenté",
       "ENGLISH": "I tried"
     },
     "TU": {
-      "SPANISH": "intentaste",
-      "ENGLISH": "you tried"
+      "SPANISH": "Intentaste",
+      "ENGLISH": "You tried"
     },
     "EL": {
-      "SPANISH": "intentó",
-      "ENGLISH": "s/he tried, you (formal) tried"
+      "SPANISH": "Intentó",
+      "ENGLISH": "He tried"
     },
     "ELLOS": {
-      "SPANISH": "intentaron",
-      "ENGLISH": "they tried, you (plural formal) tried"
+      "SPANISH": "Intentaron",
+      "ENGLISH": "They tried"
     },
     "NOSOTROS": {
-      "SPANISH": "intentamos",
-      "ENGLISH": "we tried"
+      "SPANISH": "Intentamos",
+      "ENGLISH": "We tried"
     },
     "VOSOTROS": {
-      "SPANISH": "intentasteis",
-      "ENGLISH": "you (plural) tried"
+      "SPANISH": "Intentasteis",
+      "ENGLISH": "You tried"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había intentado",
+      "SPANISH": "Había intentado",
       "ENGLISH": "I had tried"
     },
     "TU": {
-      "SPANISH": "habías intentado",
-      "ENGLISH": "you had tried"
+      "SPANISH": "Habías intentado",
+      "ENGLISH": "You had tried"
     },
     "EL": {
-      "SPANISH": "había intentado",
-      "ENGLISH": "s/he had tried, you (formal) had tried"
+      "SPANISH": "Había intentado",
+      "ENGLISH": "He had tried"
     },
     "ELLOS": {
-      "SPANISH": "habían intentado",
-      "ENGLISH": "they had tried, you (plural formal) had tried"
+      "SPANISH": "Habían intentado",
+      "ENGLISH": "They had tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos intentado",
-      "ENGLISH": "we had tried"
+      "SPANISH": "Habíamos intentado",
+      "ENGLISH": "We had tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais intentado",
-      "ENGLISH": "you (plural) had tried"
+      "SPANISH": "Habíais intentado",
+      "ENGLISH": "You had tried"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "intenté",
+      "SPANISH": "Intenté",
       "ENGLISH": "I tried"
     },
     "TU": {
-      "SPANISH": "intentaste",
-      "ENGLISH": "you tried"
+      "SPANISH": "Intentaste",
+      "ENGLISH": "You tried"
     },
     "EL": {
-      "SPANISH": "intentó",
-      "ENGLISH": "s/he tried, you (formal) tried"
+      "SPANISH": "Intentó",
+      "ENGLISH": "He tried"
     },
     "ELLOS": {
-      "SPANISH": "intentaron",
-      "ENGLISH": "they tried, you (plural formal) tried"
+      "SPANISH": "Intentaron",
+      "ENGLISH": "They tried"
     },
     "NOSOTROS": {
-      "SPANISH": "intentamos",
-      "ENGLISH": "we tried"
+      "SPANISH": "Intentamos",
+      "ENGLISH": "We tried"
     },
     "VOSOTROS": {
-      "SPANISH": "intentasteis",
-      "ENGLISH": "you (plural) tried"
+      "SPANISH": "Intentasteis",
+      "ENGLISH": "You tried"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "intentaré",
+      "SPANISH": "Intentaré",
       "ENGLISH": "I will try"
     },
     "TU": {
-      "SPANISH": "intentarás",
-      "ENGLISH": "you will try"
+      "SPANISH": "Intentarás",
+      "ENGLISH": "You will try"
     },
     "EL": {
-      "SPANISH": "intentará",
-      "ENGLISH": "s/he will try, you (formal) will try"
+      "SPANISH": "Intentará",
+      "ENGLISH": "He will try"
     },
     "ELLOS": {
-      "SPANISH": "intentarán",
-      "ENGLISH": "they will try, you (plural formal) will try"
+      "SPANISH": "Intentarán",
+      "ENGLISH": "They will try"
     },
     "NOSOTROS": {
-      "SPANISH": "intentaremos",
-      "ENGLISH": "we will try"
+      "SPANISH": "Intentaremos",
+      "ENGLISH": "We will try"
     },
     "VOSOTROS": {
-      "SPANISH": "intentaréis",
-      "ENGLISH": "you (plural) will try"
+      "SPANISH": "Intentaréis",
+      "ENGLISH": "You will try"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré intentado",
+      "SPANISH": "Habré intentado",
       "ENGLISH": "I will have tried"
     },
     "TU": {
-      "SPANISH": "habrás intentado",
-      "ENGLISH": "you will have tried"
+      "SPANISH": "Habrás intentado",
+      "ENGLISH": "You will have tried"
     },
     "EL": {
-      "SPANISH": "habrá intentado",
-      "ENGLISH": "s/he will have tried, you (formal) will have tried"
+      "SPANISH": "Habrá intentado",
+      "ENGLISH": "He will have tried"
     },
     "ELLOS": {
-      "SPANISH": "habrán intentado",
-      "ENGLISH": "they will have tried, you (plural formal) will have tried"
+      "SPANISH": "Habrán intentado",
+      "ENGLISH": "They will have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos intentado",
-      "ENGLISH": "we will have tried"
+      "SPANISH": "Habremos intentado",
+      "ENGLISH": "We will have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis intentado",
-      "ENGLISH": "you (plural) will have tried"
+      "SPANISH": "Habréis intentado",
+      "ENGLISH": "You will have tried"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "intentaría",
+      "SPANISH": "Intentaría",
       "ENGLISH": "I would try"
     },
     "TU": {
-      "SPANISH": "intentarías",
-      "ENGLISH": "you would try"
+      "SPANISH": "Intentarías",
+      "ENGLISH": "You would try"
     },
     "EL": {
-      "SPANISH": "intentaría",
-      "ENGLISH": "s/he would try, you (formal) would try"
+      "SPANISH": "Intentaría",
+      "ENGLISH": "He would try"
     },
     "ELLOS": {
-      "SPANISH": "intentarían",
-      "ENGLISH": "they would try, you (plural formal) would try"
+      "SPANISH": "Intentarían",
+      "ENGLISH": "They would try"
     },
     "NOSOTROS": {
-      "SPANISH": "intentaríamos",
-      "ENGLISH": "we would try"
+      "SPANISH": "Intentaríamos",
+      "ENGLISH": "We would try"
     },
     "VOSOTROS": {
-      "SPANISH": "intentaríais",
-      "ENGLISH": "you (plural) would try"
+      "SPANISH": "Intentaríais",
+      "ENGLISH": "You would try"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría intentado",
+      "SPANISH": "Habría intentado",
       "ENGLISH": "I would have tried"
     },
     "TU": {
-      "SPANISH": "habrías intentado",
-      "ENGLISH": "you would have tried"
+      "SPANISH": "Habrías intentado",
+      "ENGLISH": "You would have tried"
     },
     "EL": {
-      "SPANISH": "habría intentado",
-      "ENGLISH": "s/he would have tried, you (formal) would have tried"
+      "SPANISH": "Habría intentado",
+      "ENGLISH": "He would have tried"
     },
     "ELLOS": {
-      "SPANISH": "habrían intentado",
-      "ENGLISH": "they would have tried, you (plural formal) would have tried"
+      "SPANISH": "Habrían intentado",
+      "ENGLISH": "They would have tried"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos intentado",
-      "ENGLISH": "we would have tried"
+      "SPANISH": "Habríamos intentado",
+      "ENGLISH": "We would have tried"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais intentado",
-      "ENGLISH": "you (plural) would have tried"
+      "SPANISH": "Habríais intentado",
+      "ENGLISH": "You would have tried"
     }
   }
 }

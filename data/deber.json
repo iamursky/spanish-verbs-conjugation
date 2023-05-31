@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "debo",
+      "SPANISH": "Debo",
       "ENGLISH": "I owe"
     },
     "TU": {
-      "SPANISH": "debes",
-      "ENGLISH": "you owe"
+      "SPANISH": "Debes",
+      "ENGLISH": "You owe"
     },
     "EL": {
-      "SPANISH": "debe",
-      "ENGLISH": "s/he owes, you (formal) owes"
+      "SPANISH": "Debe",
+      "ENGLISH": "He owes"
     },
     "ELLOS": {
-      "SPANISH": "deben",
-      "ENGLISH": "they owe, you (plural formal) owe"
+      "SPANISH": "Deben",
+      "ENGLISH": "They owe"
     },
     "NOSOTROS": {
-      "SPANISH": "debemos",
-      "ENGLISH": "we owe"
+      "SPANISH": "Debemos",
+      "ENGLISH": "We owe"
     },
     "VOSOTROS": {
-      "SPANISH": "debéis",
-      "ENGLISH": "you (plural) owe"
+      "SPANISH": "Debéis",
+      "ENGLISH": "You owe"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he debido",
+      "SPANISH": "He debido",
       "ENGLISH": "I have owed"
     },
     "TU": {
-      "SPANISH": "has debido",
-      "ENGLISH": "you have owed"
+      "SPANISH": "Has debido",
+      "ENGLISH": "You have owed"
     },
     "EL": {
-      "SPANISH": "ha debido",
-      "ENGLISH": "s/he has owed, you (formal) have owed"
+      "SPANISH": "Ha debido",
+      "ENGLISH": "He has owed"
     },
     "ELLOS": {
-      "SPANISH": "han debido",
-      "ENGLISH": "they have owed, you (plural formal) have owed"
+      "SPANISH": "Han debido",
+      "ENGLISH": "They have owed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos debido",
-      "ENGLISH": "we have owed"
+      "SPANISH": "Hemos debido",
+      "ENGLISH": "We have owed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis debido",
-      "ENGLISH": "you (plural) have owed"
+      "SPANISH": "Habéis debido",
+      "ENGLISH": "You have owed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "debí",
+      "SPANISH": "Debí",
       "ENGLISH": "I owed"
     },
     "TU": {
-      "SPANISH": "debiste",
-      "ENGLISH": "you owed"
+      "SPANISH": "Debiste",
+      "ENGLISH": "You owed"
     },
     "EL": {
-      "SPANISH": "debió",
-      "ENGLISH": "s/he owed, you (formal) owed"
+      "SPANISH": "Debió",
+      "ENGLISH": "He owed"
     },
     "ELLOS": {
-      "SPANISH": "debieron",
-      "ENGLISH": "they owed, you (plural formal) owed"
+      "SPANISH": "Debieron",
+      "ENGLISH": "They owed"
     },
     "NOSOTROS": {
-      "SPANISH": "debimos",
-      "ENGLISH": "we owed"
+      "SPANISH": "Debimos",
+      "ENGLISH": "We owed"
     },
     "VOSOTROS": {
-      "SPANISH": "debisteis",
-      "ENGLISH": "you (plural) owed"
+      "SPANISH": "Debisteis",
+      "ENGLISH": "You owed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había debido",
+      "SPANISH": "Había debido",
       "ENGLISH": "I had owed"
     },
     "TU": {
-      "SPANISH": "habías debido",
-      "ENGLISH": "you had owed"
+      "SPANISH": "Habías debido",
+      "ENGLISH": "You had owed"
     },
     "EL": {
-      "SPANISH": "había debido",
-      "ENGLISH": "s/he had owed, you (formal) had owed"
+      "SPANISH": "Había debido",
+      "ENGLISH": "He had owed"
     },
     "ELLOS": {
-      "SPANISH": "habían debido",
-      "ENGLISH": "they had owed, you (plural formal) had owed"
+      "SPANISH": "Habían debido",
+      "ENGLISH": "They had owed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos debido",
-      "ENGLISH": "we had owed"
+      "SPANISH": "Habíamos debido",
+      "ENGLISH": "We had owed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais debido",
-      "ENGLISH": "you (plural) had owed"
+      "SPANISH": "Habíais debido",
+      "ENGLISH": "You had owed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "debí",
+      "SPANISH": "Debí",
       "ENGLISH": "I owed"
     },
     "TU": {
-      "SPANISH": "debiste",
-      "ENGLISH": "you owed"
+      "SPANISH": "Debiste",
+      "ENGLISH": "You owed"
     },
     "EL": {
-      "SPANISH": "debió",
-      "ENGLISH": "s/he owed, you (formal) owed"
+      "SPANISH": "Debió",
+      "ENGLISH": "He owed"
     },
     "ELLOS": {
-      "SPANISH": "debieron",
-      "ENGLISH": "they owed, you (plural formal) owed"
+      "SPANISH": "Debieron",
+      "ENGLISH": "They owed"
     },
     "NOSOTROS": {
-      "SPANISH": "debimos",
-      "ENGLISH": "we owed"
+      "SPANISH": "Debimos",
+      "ENGLISH": "We owed"
     },
     "VOSOTROS": {
-      "SPANISH": "debisteis",
-      "ENGLISH": "you (plural) owed"
+      "SPANISH": "Debisteis",
+      "ENGLISH": "You owed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "deberé",
+      "SPANISH": "Deberé",
       "ENGLISH": "I will owe"
     },
     "TU": {
-      "SPANISH": "deberás",
-      "ENGLISH": "you will owe"
+      "SPANISH": "Deberás",
+      "ENGLISH": "You will owe"
     },
     "EL": {
-      "SPANISH": "deberá",
-      "ENGLISH": "s/he will owe, you (formal) will owe"
+      "SPANISH": "Deberá",
+      "ENGLISH": "He will owe"
     },
     "ELLOS": {
-      "SPANISH": "deberán",
-      "ENGLISH": "they will owe, you (plural formal) will owe"
+      "SPANISH": "Deberán",
+      "ENGLISH": "They will owe"
     },
     "NOSOTROS": {
-      "SPANISH": "deberemos",
-      "ENGLISH": "we will owe"
+      "SPANISH": "Deberemos",
+      "ENGLISH": "We will owe"
     },
     "VOSOTROS": {
-      "SPANISH": "deberéis",
-      "ENGLISH": "you (plural) will owe"
+      "SPANISH": "Deberéis",
+      "ENGLISH": "You will owe"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré debido",
+      "SPANISH": "Habré debido",
       "ENGLISH": "I will have owed"
     },
     "TU": {
-      "SPANISH": "habrás debido",
-      "ENGLISH": "you will have owed"
+      "SPANISH": "Habrás debido",
+      "ENGLISH": "You will have owed"
     },
     "EL": {
-      "SPANISH": "habrá debido",
-      "ENGLISH": "s/he will have owed, you (formal) will have owed"
+      "SPANISH": "Habrá debido",
+      "ENGLISH": "He will have owed"
     },
     "ELLOS": {
-      "SPANISH": "habrán debido",
-      "ENGLISH": "they will have owed, you (plural formal) will have owed"
+      "SPANISH": "Habrán debido",
+      "ENGLISH": "They will have owed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos debido",
-      "ENGLISH": "we will have owed"
+      "SPANISH": "Habremos debido",
+      "ENGLISH": "We will have owed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis debido",
-      "ENGLISH": "you (plural) will have owed"
+      "SPANISH": "Habréis debido",
+      "ENGLISH": "You will have owed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "debería",
+      "SPANISH": "Debería",
       "ENGLISH": "I would owe"
     },
     "TU": {
-      "SPANISH": "deberías",
-      "ENGLISH": "you would owe"
+      "SPANISH": "Deberías",
+      "ENGLISH": "You would owe"
     },
     "EL": {
-      "SPANISH": "debería",
-      "ENGLISH": "s/he would owe, you (formal) would owe"
+      "SPANISH": "Debería",
+      "ENGLISH": "He would owe"
     },
     "ELLOS": {
-      "SPANISH": "deberían",
-      "ENGLISH": "they would owe, you (plural formal) would owe"
+      "SPANISH": "Deberían",
+      "ENGLISH": "They would owe"
     },
     "NOSOTROS": {
-      "SPANISH": "deberíamos",
-      "ENGLISH": "we would owe"
+      "SPANISH": "Deberíamos",
+      "ENGLISH": "We would owe"
     },
     "VOSOTROS": {
-      "SPANISH": "deberíais",
-      "ENGLISH": "you (plural) would owe"
+      "SPANISH": "Deberíais",
+      "ENGLISH": "You would owe"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría debido",
+      "SPANISH": "Habría debido",
       "ENGLISH": "I would have owed"
     },
     "TU": {
-      "SPANISH": "habrías debido",
-      "ENGLISH": "you would have owed"
+      "SPANISH": "Habrías debido",
+      "ENGLISH": "You would have owed"
     },
     "EL": {
-      "SPANISH": "habría debido",
-      "ENGLISH": "s/he would have owed, you (formal) would have owed"
+      "SPANISH": "Habría debido",
+      "ENGLISH": "He would have owed"
     },
     "ELLOS": {
-      "SPANISH": "habrían debido",
-      "ENGLISH": "they would have owed, you (plural formal) would have owed"
+      "SPANISH": "Habrían debido",
+      "ENGLISH": "They would have owed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos debido",
-      "ENGLISH": "we would have owed"
+      "SPANISH": "Habríamos debido",
+      "ENGLISH": "We would have owed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais debido",
-      "ENGLISH": "you (plural) would have owed"
+      "SPANISH": "Habríais debido",
+      "ENGLISH": "You would have owed"
     }
   }
 }

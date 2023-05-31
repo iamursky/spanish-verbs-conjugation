@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "diseño",
+      "SPANISH": "Diseño",
       "ENGLISH": "I design"
     },
     "TU": {
-      "SPANISH": "diseñas",
-      "ENGLISH": "you design"
+      "SPANISH": "Diseñas",
+      "ENGLISH": "You design"
     },
     "EL": {
-      "SPANISH": "diseña",
-      "ENGLISH": "s/he designs, you (formal) designs"
+      "SPANISH": "Diseña",
+      "ENGLISH": "He designs"
     },
     "ELLOS": {
-      "SPANISH": "diseñan",
-      "ENGLISH": "they design, you (plural formal) design"
+      "SPANISH": "Diseñan",
+      "ENGLISH": "They design"
     },
     "NOSOTROS": {
-      "SPANISH": "diseñamos",
-      "ENGLISH": "we design"
+      "SPANISH": "Diseñamos",
+      "ENGLISH": "We design"
     },
     "VOSOTROS": {
-      "SPANISH": "diseñáis",
-      "ENGLISH": "you (plural) design"
+      "SPANISH": "Diseñáis",
+      "ENGLISH": "You design"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he diseñado",
+      "SPANISH": "He diseñado",
       "ENGLISH": "I have designed"
     },
     "TU": {
-      "SPANISH": "has diseñado",
-      "ENGLISH": "you have designed"
+      "SPANISH": "Has diseñado",
+      "ENGLISH": "You have designed"
     },
     "EL": {
-      "SPANISH": "ha diseñado",
-      "ENGLISH": "s/he has designed, you (formal) have designed"
+      "SPANISH": "Ha diseñado",
+      "ENGLISH": "He has designed"
     },
     "ELLOS": {
-      "SPANISH": "han diseñado",
-      "ENGLISH": "they have designed, you (plural formal) have designed"
+      "SPANISH": "Han diseñado",
+      "ENGLISH": "They have designed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos diseñado",
-      "ENGLISH": "we have designed"
+      "SPANISH": "Hemos diseñado",
+      "ENGLISH": "We have designed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis diseñado",
-      "ENGLISH": "you (plural) have designed"
+      "SPANISH": "Habéis diseñado",
+      "ENGLISH": "You have designed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "diseñé",
+      "SPANISH": "Diseñé",
       "ENGLISH": "I designed"
     },
     "TU": {
-      "SPANISH": "diseñaste",
-      "ENGLISH": "you designed"
+      "SPANISH": "Diseñaste",
+      "ENGLISH": "You designed"
     },
     "EL": {
-      "SPANISH": "diseñó",
-      "ENGLISH": "s/he designed, you (formal) designed"
+      "SPANISH": "Diseñó",
+      "ENGLISH": "He designed"
     },
     "ELLOS": {
-      "SPANISH": "diseñaron",
-      "ENGLISH": "they designed, you (plural formal) designed"
+      "SPANISH": "Diseñaron",
+      "ENGLISH": "They designed"
     },
     "NOSOTROS": {
-      "SPANISH": "diseñamos",
-      "ENGLISH": "we designed"
+      "SPANISH": "Diseñamos",
+      "ENGLISH": "We designed"
     },
     "VOSOTROS": {
-      "SPANISH": "diseñasteis",
-      "ENGLISH": "you (plural) designed"
+      "SPANISH": "Diseñasteis",
+      "ENGLISH": "You designed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había diseñado",
+      "SPANISH": "Había diseñado",
       "ENGLISH": "I had designed"
     },
     "TU": {
-      "SPANISH": "habías diseñado",
-      "ENGLISH": "you had designed"
+      "SPANISH": "Habías diseñado",
+      "ENGLISH": "You had designed"
     },
     "EL": {
-      "SPANISH": "había diseñado",
-      "ENGLISH": "s/he had designed, you (formal) had designed"
+      "SPANISH": "Había diseñado",
+      "ENGLISH": "He had designed"
     },
     "ELLOS": {
-      "SPANISH": "habían diseñado",
-      "ENGLISH": "they had designed, you (plural formal) had designed"
+      "SPANISH": "Habían diseñado",
+      "ENGLISH": "They had designed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos diseñado",
-      "ENGLISH": "we had designed"
+      "SPANISH": "Habíamos diseñado",
+      "ENGLISH": "We had designed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais diseñado",
-      "ENGLISH": "you (plural) had designed"
+      "SPANISH": "Habíais diseñado",
+      "ENGLISH": "You had designed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "diseñé",
+      "SPANISH": "Diseñé",
       "ENGLISH": "I designed"
     },
     "TU": {
-      "SPANISH": "diseñaste",
-      "ENGLISH": "you designed"
+      "SPANISH": "Diseñaste",
+      "ENGLISH": "You designed"
     },
     "EL": {
-      "SPANISH": "diseñó",
-      "ENGLISH": "s/he designed, you (formal) designed"
+      "SPANISH": "Diseñó",
+      "ENGLISH": "He designed"
     },
     "ELLOS": {
-      "SPANISH": "diseñaron",
-      "ENGLISH": "they designed, you (plural formal) designed"
+      "SPANISH": "Diseñaron",
+      "ENGLISH": "They designed"
     },
     "NOSOTROS": {
-      "SPANISH": "diseñamos",
-      "ENGLISH": "we designed"
+      "SPANISH": "Diseñamos",
+      "ENGLISH": "We designed"
     },
     "VOSOTROS": {
-      "SPANISH": "diseñasteis",
-      "ENGLISH": "you (plural) designed"
+      "SPANISH": "Diseñasteis",
+      "ENGLISH": "You designed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "diseñaré",
+      "SPANISH": "Diseñaré",
       "ENGLISH": "I will design"
     },
     "TU": {
-      "SPANISH": "diseñarás",
-      "ENGLISH": "you will design"
+      "SPANISH": "Diseñarás",
+      "ENGLISH": "You will design"
     },
     "EL": {
-      "SPANISH": "diseñará",
-      "ENGLISH": "s/he will design, you (formal) will design"
+      "SPANISH": "Diseñará",
+      "ENGLISH": "He will design"
     },
     "ELLOS": {
-      "SPANISH": "diseñarán",
-      "ENGLISH": "they will design, you (plural formal) will design"
+      "SPANISH": "Diseñarán",
+      "ENGLISH": "They will design"
     },
     "NOSOTROS": {
-      "SPANISH": "diseñaremos",
-      "ENGLISH": "we will design"
+      "SPANISH": "Diseñaremos",
+      "ENGLISH": "We will design"
     },
     "VOSOTROS": {
-      "SPANISH": "diseñaréis",
-      "ENGLISH": "you (plural) will design"
+      "SPANISH": "Diseñaréis",
+      "ENGLISH": "You will design"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré diseñado",
+      "SPANISH": "Habré diseñado",
       "ENGLISH": "I will have designed"
     },
     "TU": {
-      "SPANISH": "habrás diseñado",
-      "ENGLISH": "you will have designed"
+      "SPANISH": "Habrás diseñado",
+      "ENGLISH": "You will have designed"
     },
     "EL": {
-      "SPANISH": "habrá diseñado",
-      "ENGLISH": "s/he will have designed, you (formal) will have designed"
+      "SPANISH": "Habrá diseñado",
+      "ENGLISH": "He will have designed"
     },
     "ELLOS": {
-      "SPANISH": "habrán diseñado",
-      "ENGLISH": "they will have designed, you (plural formal) will have designed"
+      "SPANISH": "Habrán diseñado",
+      "ENGLISH": "They will have designed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos diseñado",
-      "ENGLISH": "we will have designed"
+      "SPANISH": "Habremos diseñado",
+      "ENGLISH": "We will have designed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis diseñado",
-      "ENGLISH": "you (plural) will have designed"
+      "SPANISH": "Habréis diseñado",
+      "ENGLISH": "You will have designed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "diseñaría",
+      "SPANISH": "Diseñaría",
       "ENGLISH": "I would design"
     },
     "TU": {
-      "SPANISH": "diseñarías",
-      "ENGLISH": "you would design"
+      "SPANISH": "Diseñarías",
+      "ENGLISH": "You would design"
     },
     "EL": {
-      "SPANISH": "diseñaría",
-      "ENGLISH": "s/he would design, you (formal) would design"
+      "SPANISH": "Diseñaría",
+      "ENGLISH": "He would design"
     },
     "ELLOS": {
-      "SPANISH": "diseñarían",
-      "ENGLISH": "they would design, you (plural formal) would design"
+      "SPANISH": "Diseñarían",
+      "ENGLISH": "They would design"
     },
     "NOSOTROS": {
-      "SPANISH": "diseñaríamos",
-      "ENGLISH": "we would design"
+      "SPANISH": "Diseñaríamos",
+      "ENGLISH": "We would design"
     },
     "VOSOTROS": {
-      "SPANISH": "diseñaríais",
-      "ENGLISH": "you (plural) would design"
+      "SPANISH": "Diseñaríais",
+      "ENGLISH": "You would design"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría diseñado",
+      "SPANISH": "Habría diseñado",
       "ENGLISH": "I would have designed"
     },
     "TU": {
-      "SPANISH": "habrías diseñado",
-      "ENGLISH": "you would have designed"
+      "SPANISH": "Habrías diseñado",
+      "ENGLISH": "You would have designed"
     },
     "EL": {
-      "SPANISH": "habría diseñado",
-      "ENGLISH": "s/he would have designed, you (formal) would have designed"
+      "SPANISH": "Habría diseñado",
+      "ENGLISH": "He would have designed"
     },
     "ELLOS": {
-      "SPANISH": "habrían diseñado",
-      "ENGLISH": "they would have designed, you (plural formal) would have designed"
+      "SPANISH": "Habrían diseñado",
+      "ENGLISH": "They would have designed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos diseñado",
-      "ENGLISH": "we would have designed"
+      "SPANISH": "Habríamos diseñado",
+      "ENGLISH": "We would have designed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais diseñado",
-      "ENGLISH": "you (plural) would have designed"
+      "SPANISH": "Habríais diseñado",
+      "ENGLISH": "You would have designed"
     }
   }
 }

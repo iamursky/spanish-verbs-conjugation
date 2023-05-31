@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cepillo",
+      "SPANISH": "Cepillo",
       "ENGLISH": "I brush"
     },
     "TU": {
-      "SPANISH": "cepillas",
-      "ENGLISH": "you brush"
+      "SPANISH": "Cepillas",
+      "ENGLISH": "You brush"
     },
     "EL": {
-      "SPANISH": "cepilla",
-      "ENGLISH": "s/he brushes, you (formal) brushes"
+      "SPANISH": "Cepilla",
+      "ENGLISH": "He brushes"
     },
     "ELLOS": {
-      "SPANISH": "cepillan",
-      "ENGLISH": "they brush, you (plural formal) brush"
+      "SPANISH": "Cepillan",
+      "ENGLISH": "They brush"
     },
     "NOSOTROS": {
-      "SPANISH": "cepillamos",
-      "ENGLISH": "we brush"
+      "SPANISH": "Cepillamos",
+      "ENGLISH": "We brush"
     },
     "VOSOTROS": {
-      "SPANISH": "cepilláis",
-      "ENGLISH": "you (plural) brush"
+      "SPANISH": "Cepilláis",
+      "ENGLISH": "You brush"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cepillado",
+      "SPANISH": "He cepillado",
       "ENGLISH": "I have brushed"
     },
     "TU": {
-      "SPANISH": "has cepillado",
-      "ENGLISH": "you have brushed"
+      "SPANISH": "Has cepillado",
+      "ENGLISH": "You have brushed"
     },
     "EL": {
-      "SPANISH": "ha cepillado",
-      "ENGLISH": "s/he has brushed, you (formal) have brushed"
+      "SPANISH": "Ha cepillado",
+      "ENGLISH": "He has brushed"
     },
     "ELLOS": {
-      "SPANISH": "han cepillado",
-      "ENGLISH": "they have brushed, you (plural formal) have brushed"
+      "SPANISH": "Han cepillado",
+      "ENGLISH": "They have brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cepillado",
-      "ENGLISH": "we have brushed"
+      "SPANISH": "Hemos cepillado",
+      "ENGLISH": "We have brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cepillado",
-      "ENGLISH": "you (plural) have brushed"
+      "SPANISH": "Habéis cepillado",
+      "ENGLISH": "You have brushed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "cepillé",
+      "SPANISH": "Cepillé",
       "ENGLISH": "I brushed"
     },
     "TU": {
-      "SPANISH": "cepillaste",
-      "ENGLISH": "you brushed"
+      "SPANISH": "Cepillaste",
+      "ENGLISH": "You brushed"
     },
     "EL": {
-      "SPANISH": "cepilló",
-      "ENGLISH": "s/he brushed, you (formal) brushed"
+      "SPANISH": "Cepilló",
+      "ENGLISH": "He brushed"
     },
     "ELLOS": {
-      "SPANISH": "cepillaron",
-      "ENGLISH": "they brushed, you (plural formal) brushed"
+      "SPANISH": "Cepillaron",
+      "ENGLISH": "They brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "cepillamos",
-      "ENGLISH": "we brushed"
+      "SPANISH": "Cepillamos",
+      "ENGLISH": "We brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "cepillasteis",
-      "ENGLISH": "you (plural) brushed"
+      "SPANISH": "Cepillasteis",
+      "ENGLISH": "You brushed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cepillado",
+      "SPANISH": "Había cepillado",
       "ENGLISH": "I had brushed"
     },
     "TU": {
-      "SPANISH": "habías cepillado",
-      "ENGLISH": "you had brushed"
+      "SPANISH": "Habías cepillado",
+      "ENGLISH": "You had brushed"
     },
     "EL": {
-      "SPANISH": "había cepillado",
-      "ENGLISH": "s/he had brushed, you (formal) had brushed"
+      "SPANISH": "Había cepillado",
+      "ENGLISH": "He had brushed"
     },
     "ELLOS": {
-      "SPANISH": "habían cepillado",
-      "ENGLISH": "they had brushed, you (plural formal) had brushed"
+      "SPANISH": "Habían cepillado",
+      "ENGLISH": "They had brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cepillado",
-      "ENGLISH": "we had brushed"
+      "SPANISH": "Habíamos cepillado",
+      "ENGLISH": "We had brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cepillado",
-      "ENGLISH": "you (plural) had brushed"
+      "SPANISH": "Habíais cepillado",
+      "ENGLISH": "You had brushed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "cepillé",
+      "SPANISH": "Cepillé",
       "ENGLISH": "I brushed"
     },
     "TU": {
-      "SPANISH": "cepillaste",
-      "ENGLISH": "you brushed"
+      "SPANISH": "Cepillaste",
+      "ENGLISH": "You brushed"
     },
     "EL": {
-      "SPANISH": "cepilló",
-      "ENGLISH": "s/he brushed, you (formal) brushed"
+      "SPANISH": "Cepilló",
+      "ENGLISH": "He brushed"
     },
     "ELLOS": {
-      "SPANISH": "cepillaron",
-      "ENGLISH": "they brushed, you (plural formal) brushed"
+      "SPANISH": "Cepillaron",
+      "ENGLISH": "They brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "cepillamos",
-      "ENGLISH": "we brushed"
+      "SPANISH": "Cepillamos",
+      "ENGLISH": "We brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "cepillasteis",
-      "ENGLISH": "you (plural) brushed"
+      "SPANISH": "Cepillasteis",
+      "ENGLISH": "You brushed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cepillaré",
+      "SPANISH": "Cepillaré",
       "ENGLISH": "I will brush"
     },
     "TU": {
-      "SPANISH": "cepillarás",
-      "ENGLISH": "you will brush"
+      "SPANISH": "Cepillarás",
+      "ENGLISH": "You will brush"
     },
     "EL": {
-      "SPANISH": "cepillará",
-      "ENGLISH": "s/he will brush, you (formal) will brush"
+      "SPANISH": "Cepillará",
+      "ENGLISH": "He will brush"
     },
     "ELLOS": {
-      "SPANISH": "cepillarán",
-      "ENGLISH": "they will brush, you (plural formal) will brush"
+      "SPANISH": "Cepillarán",
+      "ENGLISH": "They will brush"
     },
     "NOSOTROS": {
-      "SPANISH": "cepillaremos",
-      "ENGLISH": "we will brush"
+      "SPANISH": "Cepillaremos",
+      "ENGLISH": "We will brush"
     },
     "VOSOTROS": {
-      "SPANISH": "cepillaréis",
-      "ENGLISH": "you (plural) will brush"
+      "SPANISH": "Cepillaréis",
+      "ENGLISH": "You will brush"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cepillado",
+      "SPANISH": "Habré cepillado",
       "ENGLISH": "I will have brushed"
     },
     "TU": {
-      "SPANISH": "habrás cepillado",
-      "ENGLISH": "you will have brushed"
+      "SPANISH": "Habrás cepillado",
+      "ENGLISH": "You will have brushed"
     },
     "EL": {
-      "SPANISH": "habrá cepillado",
-      "ENGLISH": "s/he will have brushed, you (formal) will have brushed"
+      "SPANISH": "Habrá cepillado",
+      "ENGLISH": "He will have brushed"
     },
     "ELLOS": {
-      "SPANISH": "habrán cepillado",
-      "ENGLISH": "they will have brushed, you (plural formal) will have brushed"
+      "SPANISH": "Habrán cepillado",
+      "ENGLISH": "They will have brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cepillado",
-      "ENGLISH": "we will have brushed"
+      "SPANISH": "Habremos cepillado",
+      "ENGLISH": "We will have brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cepillado",
-      "ENGLISH": "you (plural) will have brushed"
+      "SPANISH": "Habréis cepillado",
+      "ENGLISH": "You will have brushed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cepillaría",
+      "SPANISH": "Cepillaría",
       "ENGLISH": "I would brush"
     },
     "TU": {
-      "SPANISH": "cepillarías",
-      "ENGLISH": "you would brush"
+      "SPANISH": "Cepillarías",
+      "ENGLISH": "You would brush"
     },
     "EL": {
-      "SPANISH": "cepillaría",
-      "ENGLISH": "s/he would brush, you (formal) would brush"
+      "SPANISH": "Cepillaría",
+      "ENGLISH": "He would brush"
     },
     "ELLOS": {
-      "SPANISH": "cepillarían",
-      "ENGLISH": "they would brush, you (plural formal) would brush"
+      "SPANISH": "Cepillarían",
+      "ENGLISH": "They would brush"
     },
     "NOSOTROS": {
-      "SPANISH": "cepillaríamos",
-      "ENGLISH": "we would brush"
+      "SPANISH": "Cepillaríamos",
+      "ENGLISH": "We would brush"
     },
     "VOSOTROS": {
-      "SPANISH": "cepillaríais",
-      "ENGLISH": "you (plural) would brush"
+      "SPANISH": "Cepillaríais",
+      "ENGLISH": "You would brush"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cepillado",
+      "SPANISH": "Habría cepillado",
       "ENGLISH": "I would have brushed"
     },
     "TU": {
-      "SPANISH": "habrías cepillado",
-      "ENGLISH": "you would have brushed"
+      "SPANISH": "Habrías cepillado",
+      "ENGLISH": "You would have brushed"
     },
     "EL": {
-      "SPANISH": "habría cepillado",
-      "ENGLISH": "s/he would have brushed, you (formal) would have brushed"
+      "SPANISH": "Habría cepillado",
+      "ENGLISH": "He would have brushed"
     },
     "ELLOS": {
-      "SPANISH": "habrían cepillado",
-      "ENGLISH": "they would have brushed, you (plural formal) would have brushed"
+      "SPANISH": "Habrían cepillado",
+      "ENGLISH": "They would have brushed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cepillado",
-      "ENGLISH": "we would have brushed"
+      "SPANISH": "Habríamos cepillado",
+      "ENGLISH": "We would have brushed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cepillado",
-      "ENGLISH": "you (plural) would have brushed"
+      "SPANISH": "Habríais cepillado",
+      "ENGLISH": "You would have brushed"
     }
   }
 }

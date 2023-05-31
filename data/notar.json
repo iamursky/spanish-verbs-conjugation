@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "noto",
+      "SPANISH": "Noto",
       "ENGLISH": "I note"
     },
     "TU": {
-      "SPANISH": "notas",
-      "ENGLISH": "you note"
+      "SPANISH": "Notas",
+      "ENGLISH": "You note"
     },
     "EL": {
-      "SPANISH": "nota",
-      "ENGLISH": "s/he notes, you (formal) notes"
+      "SPANISH": "Nota",
+      "ENGLISH": "He notes"
     },
     "ELLOS": {
-      "SPANISH": "notan",
-      "ENGLISH": "they note, you (plural formal) note"
+      "SPANISH": "Notan",
+      "ENGLISH": "They note"
     },
     "NOSOTROS": {
-      "SPANISH": "notamos",
-      "ENGLISH": "we note"
+      "SPANISH": "Notamos",
+      "ENGLISH": "We note"
     },
     "VOSOTROS": {
-      "SPANISH": "notáis",
-      "ENGLISH": "you (plural) note"
+      "SPANISH": "Notáis",
+      "ENGLISH": "You note"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he notado",
+      "SPANISH": "He notado",
       "ENGLISH": "I have noted"
     },
     "TU": {
-      "SPANISH": "has notado",
-      "ENGLISH": "you have noted"
+      "SPANISH": "Has notado",
+      "ENGLISH": "You have noted"
     },
     "EL": {
-      "SPANISH": "ha notado",
-      "ENGLISH": "s/he has noted, you (formal) have noted"
+      "SPANISH": "Ha notado",
+      "ENGLISH": "He has noted"
     },
     "ELLOS": {
-      "SPANISH": "han notado",
-      "ENGLISH": "they have noted, you (plural formal) have noted"
+      "SPANISH": "Han notado",
+      "ENGLISH": "They have noted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos notado",
-      "ENGLISH": "we have noted"
+      "SPANISH": "Hemos notado",
+      "ENGLISH": "We have noted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis notado",
-      "ENGLISH": "you (plural) have noted"
+      "SPANISH": "Habéis notado",
+      "ENGLISH": "You have noted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "noté",
+      "SPANISH": "Noté",
       "ENGLISH": "I noted"
     },
     "TU": {
-      "SPANISH": "notaste",
-      "ENGLISH": "you noted"
+      "SPANISH": "Notaste",
+      "ENGLISH": "You noted"
     },
     "EL": {
-      "SPANISH": "notó",
-      "ENGLISH": "s/he noted, you (formal) noted"
+      "SPANISH": "Notó",
+      "ENGLISH": "He noted"
     },
     "ELLOS": {
-      "SPANISH": "notaron",
-      "ENGLISH": "they noted, you (plural formal) noted"
+      "SPANISH": "Notaron",
+      "ENGLISH": "They noted"
     },
     "NOSOTROS": {
-      "SPANISH": "notamos",
-      "ENGLISH": "we noted"
+      "SPANISH": "Notamos",
+      "ENGLISH": "We noted"
     },
     "VOSOTROS": {
-      "SPANISH": "notasteis",
-      "ENGLISH": "you (plural) noted"
+      "SPANISH": "Notasteis",
+      "ENGLISH": "You noted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había notado",
+      "SPANISH": "Había notado",
       "ENGLISH": "I had noted"
     },
     "TU": {
-      "SPANISH": "habías notado",
-      "ENGLISH": "you had noted"
+      "SPANISH": "Habías notado",
+      "ENGLISH": "You had noted"
     },
     "EL": {
-      "SPANISH": "había notado",
-      "ENGLISH": "s/he had noted, you (formal) had noted"
+      "SPANISH": "Había notado",
+      "ENGLISH": "He had noted"
     },
     "ELLOS": {
-      "SPANISH": "habían notado",
-      "ENGLISH": "they had noted, you (plural formal) had noted"
+      "SPANISH": "Habían notado",
+      "ENGLISH": "They had noted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos notado",
-      "ENGLISH": "we had noted"
+      "SPANISH": "Habíamos notado",
+      "ENGLISH": "We had noted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais notado",
-      "ENGLISH": "you (plural) had noted"
+      "SPANISH": "Habíais notado",
+      "ENGLISH": "You had noted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "noté",
+      "SPANISH": "Noté",
       "ENGLISH": "I noted"
     },
     "TU": {
-      "SPANISH": "notaste",
-      "ENGLISH": "you noted"
+      "SPANISH": "Notaste",
+      "ENGLISH": "You noted"
     },
     "EL": {
-      "SPANISH": "notó",
-      "ENGLISH": "s/he noted, you (formal) noted"
+      "SPANISH": "Notó",
+      "ENGLISH": "He noted"
     },
     "ELLOS": {
-      "SPANISH": "notaron",
-      "ENGLISH": "they noted, you (plural formal) noted"
+      "SPANISH": "Notaron",
+      "ENGLISH": "They noted"
     },
     "NOSOTROS": {
-      "SPANISH": "notamos",
-      "ENGLISH": "we noted"
+      "SPANISH": "Notamos",
+      "ENGLISH": "We noted"
     },
     "VOSOTROS": {
-      "SPANISH": "notasteis",
-      "ENGLISH": "you (plural) noted"
+      "SPANISH": "Notasteis",
+      "ENGLISH": "You noted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "notaré",
+      "SPANISH": "Notaré",
       "ENGLISH": "I will note"
     },
     "TU": {
-      "SPANISH": "notarás",
-      "ENGLISH": "you will note"
+      "SPANISH": "Notarás",
+      "ENGLISH": "You will note"
     },
     "EL": {
-      "SPANISH": "notará",
-      "ENGLISH": "s/he will note, you (formal) will note"
+      "SPANISH": "Notará",
+      "ENGLISH": "He will note"
     },
     "ELLOS": {
-      "SPANISH": "notarán",
-      "ENGLISH": "they will note, you (plural formal) will note"
+      "SPANISH": "Notarán",
+      "ENGLISH": "They will note"
     },
     "NOSOTROS": {
-      "SPANISH": "notaremos",
-      "ENGLISH": "we will note"
+      "SPANISH": "Notaremos",
+      "ENGLISH": "We will note"
     },
     "VOSOTROS": {
-      "SPANISH": "notaréis",
-      "ENGLISH": "you (plural) will note"
+      "SPANISH": "Notaréis",
+      "ENGLISH": "You will note"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré notado",
+      "SPANISH": "Habré notado",
       "ENGLISH": "I will have noted"
     },
     "TU": {
-      "SPANISH": "habrás notado",
-      "ENGLISH": "you will have noted"
+      "SPANISH": "Habrás notado",
+      "ENGLISH": "You will have noted"
     },
     "EL": {
-      "SPANISH": "habrá notado",
-      "ENGLISH": "s/he will have noted, you (formal) will have noted"
+      "SPANISH": "Habrá notado",
+      "ENGLISH": "He will have noted"
     },
     "ELLOS": {
-      "SPANISH": "habrán notado",
-      "ENGLISH": "they will have noted, you (plural formal) will have noted"
+      "SPANISH": "Habrán notado",
+      "ENGLISH": "They will have noted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos notado",
-      "ENGLISH": "we will have noted"
+      "SPANISH": "Habremos notado",
+      "ENGLISH": "We will have noted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis notado",
-      "ENGLISH": "you (plural) will have noted"
+      "SPANISH": "Habréis notado",
+      "ENGLISH": "You will have noted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "notaría",
+      "SPANISH": "Notaría",
       "ENGLISH": "I would note"
     },
     "TU": {
-      "SPANISH": "notarías",
-      "ENGLISH": "you would note"
+      "SPANISH": "Notarías",
+      "ENGLISH": "You would note"
     },
     "EL": {
-      "SPANISH": "notaría",
-      "ENGLISH": "s/he would note, you (formal) would note"
+      "SPANISH": "Notaría",
+      "ENGLISH": "He would note"
     },
     "ELLOS": {
-      "SPANISH": "notarían",
-      "ENGLISH": "they would note, you (plural formal) would note"
+      "SPANISH": "Notarían",
+      "ENGLISH": "They would note"
     },
     "NOSOTROS": {
-      "SPANISH": "notaríamos",
-      "ENGLISH": "we would note"
+      "SPANISH": "Notaríamos",
+      "ENGLISH": "We would note"
     },
     "VOSOTROS": {
-      "SPANISH": "notaríais",
-      "ENGLISH": "you (plural) would note"
+      "SPANISH": "Notaríais",
+      "ENGLISH": "You would note"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría notado",
+      "SPANISH": "Habría notado",
       "ENGLISH": "I would have noted"
     },
     "TU": {
-      "SPANISH": "habrías notado",
-      "ENGLISH": "you would have noted"
+      "SPANISH": "Habrías notado",
+      "ENGLISH": "You would have noted"
     },
     "EL": {
-      "SPANISH": "habría notado",
-      "ENGLISH": "s/he would have noted, you (formal) would have noted"
+      "SPANISH": "Habría notado",
+      "ENGLISH": "He would have noted"
     },
     "ELLOS": {
-      "SPANISH": "habrían notado",
-      "ENGLISH": "they would have noted, you (plural formal) would have noted"
+      "SPANISH": "Habrían notado",
+      "ENGLISH": "They would have noted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos notado",
-      "ENGLISH": "we would have noted"
+      "SPANISH": "Habríamos notado",
+      "ENGLISH": "We would have noted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais notado",
-      "ENGLISH": "you (plural) would have noted"
+      "SPANISH": "Habríais notado",
+      "ENGLISH": "You would have noted"
     }
   }
 }

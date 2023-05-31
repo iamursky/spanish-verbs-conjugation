@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "transporto",
+      "SPANISH": "Transporto",
       "ENGLISH": "I transport"
     },
     "TU": {
-      "SPANISH": "transportas",
-      "ENGLISH": "you transport"
+      "SPANISH": "Transportas",
+      "ENGLISH": "You transport"
     },
     "EL": {
-      "SPANISH": "transporta",
-      "ENGLISH": "s/he transports, you (formal) transports"
+      "SPANISH": "Transporta",
+      "ENGLISH": "He transports"
     },
     "ELLOS": {
-      "SPANISH": "transportan",
-      "ENGLISH": "they transport, you (plural formal) transport"
+      "SPANISH": "Transportan",
+      "ENGLISH": "They transport"
     },
     "NOSOTROS": {
-      "SPANISH": "transportamos",
-      "ENGLISH": "we transport"
+      "SPANISH": "Transportamos",
+      "ENGLISH": "We transport"
     },
     "VOSOTROS": {
-      "SPANISH": "transportáis",
-      "ENGLISH": "you (plural) transport"
+      "SPANISH": "Transportáis",
+      "ENGLISH": "You transport"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he transportado",
+      "SPANISH": "He transportado",
       "ENGLISH": "I have transported"
     },
     "TU": {
-      "SPANISH": "has transportado",
-      "ENGLISH": "you have transported"
+      "SPANISH": "Has transportado",
+      "ENGLISH": "You have transported"
     },
     "EL": {
-      "SPANISH": "ha transportado",
-      "ENGLISH": "s/he has transported, you (formal) have transported"
+      "SPANISH": "Ha transportado",
+      "ENGLISH": "He has transported"
     },
     "ELLOS": {
-      "SPANISH": "han transportado",
-      "ENGLISH": "they have transported, you (plural formal) have transported"
+      "SPANISH": "Han transportado",
+      "ENGLISH": "They have transported"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos transportado",
-      "ENGLISH": "we have transported"
+      "SPANISH": "Hemos transportado",
+      "ENGLISH": "We have transported"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis transportado",
-      "ENGLISH": "you (plural) have transported"
+      "SPANISH": "Habéis transportado",
+      "ENGLISH": "You have transported"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "transporté",
+      "SPANISH": "Transporté",
       "ENGLISH": "I transported"
     },
     "TU": {
-      "SPANISH": "transportaste",
-      "ENGLISH": "you transported"
+      "SPANISH": "Transportaste",
+      "ENGLISH": "You transported"
     },
     "EL": {
-      "SPANISH": "transportó",
-      "ENGLISH": "s/he transported, you (formal) transported"
+      "SPANISH": "Transportó",
+      "ENGLISH": "He transported"
     },
     "ELLOS": {
-      "SPANISH": "transportaron",
-      "ENGLISH": "they transported, you (plural formal) transported"
+      "SPANISH": "Transportaron",
+      "ENGLISH": "They transported"
     },
     "NOSOTROS": {
-      "SPANISH": "transportamos",
-      "ENGLISH": "we transported"
+      "SPANISH": "Transportamos",
+      "ENGLISH": "We transported"
     },
     "VOSOTROS": {
-      "SPANISH": "transportasteis",
-      "ENGLISH": "you (plural) transported"
+      "SPANISH": "Transportasteis",
+      "ENGLISH": "You transported"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había transportado",
+      "SPANISH": "Había transportado",
       "ENGLISH": "I had transported"
     },
     "TU": {
-      "SPANISH": "habías transportado",
-      "ENGLISH": "you had transported"
+      "SPANISH": "Habías transportado",
+      "ENGLISH": "You had transported"
     },
     "EL": {
-      "SPANISH": "había transportado",
-      "ENGLISH": "s/he had transported, you (formal) had transported"
+      "SPANISH": "Había transportado",
+      "ENGLISH": "He had transported"
     },
     "ELLOS": {
-      "SPANISH": "habían transportado",
-      "ENGLISH": "they had transported, you (plural formal) had transported"
+      "SPANISH": "Habían transportado",
+      "ENGLISH": "They had transported"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos transportado",
-      "ENGLISH": "we had transported"
+      "SPANISH": "Habíamos transportado",
+      "ENGLISH": "We had transported"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais transportado",
-      "ENGLISH": "you (plural) had transported"
+      "SPANISH": "Habíais transportado",
+      "ENGLISH": "You had transported"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "transporté",
+      "SPANISH": "Transporté",
       "ENGLISH": "I transported"
     },
     "TU": {
-      "SPANISH": "transportaste",
-      "ENGLISH": "you transported"
+      "SPANISH": "Transportaste",
+      "ENGLISH": "You transported"
     },
     "EL": {
-      "SPANISH": "transportó",
-      "ENGLISH": "s/he transported, you (formal) transported"
+      "SPANISH": "Transportó",
+      "ENGLISH": "He transported"
     },
     "ELLOS": {
-      "SPANISH": "transportaron",
-      "ENGLISH": "they transported, you (plural formal) transported"
+      "SPANISH": "Transportaron",
+      "ENGLISH": "They transported"
     },
     "NOSOTROS": {
-      "SPANISH": "transportamos",
-      "ENGLISH": "we transported"
+      "SPANISH": "Transportamos",
+      "ENGLISH": "We transported"
     },
     "VOSOTROS": {
-      "SPANISH": "transportasteis",
-      "ENGLISH": "you (plural) transported"
+      "SPANISH": "Transportasteis",
+      "ENGLISH": "You transported"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "transportaré",
+      "SPANISH": "Transportaré",
       "ENGLISH": "I will transport"
     },
     "TU": {
-      "SPANISH": "transportarás",
-      "ENGLISH": "you will transport"
+      "SPANISH": "Transportarás",
+      "ENGLISH": "You will transport"
     },
     "EL": {
-      "SPANISH": "transportará",
-      "ENGLISH": "s/he will transport, you (formal) will transport"
+      "SPANISH": "Transportará",
+      "ENGLISH": "He will transport"
     },
     "ELLOS": {
-      "SPANISH": "transportarán",
-      "ENGLISH": "they will transport, you (plural formal) will transport"
+      "SPANISH": "Transportarán",
+      "ENGLISH": "They will transport"
     },
     "NOSOTROS": {
-      "SPANISH": "transportaremos",
-      "ENGLISH": "we will transport"
+      "SPANISH": "Transportaremos",
+      "ENGLISH": "We will transport"
     },
     "VOSOTROS": {
-      "SPANISH": "transportaréis",
-      "ENGLISH": "you (plural) will transport"
+      "SPANISH": "Transportaréis",
+      "ENGLISH": "You will transport"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré transportado",
+      "SPANISH": "Habré transportado",
       "ENGLISH": "I will have transported"
     },
     "TU": {
-      "SPANISH": "habrás transportado",
-      "ENGLISH": "you will have transported"
+      "SPANISH": "Habrás transportado",
+      "ENGLISH": "You will have transported"
     },
     "EL": {
-      "SPANISH": "habrá transportado",
-      "ENGLISH": "s/he will have transported, you (formal) will have transported"
+      "SPANISH": "Habrá transportado",
+      "ENGLISH": "He will have transported"
     },
     "ELLOS": {
-      "SPANISH": "habrán transportado",
-      "ENGLISH": "they will have transported, you (plural formal) will have transported"
+      "SPANISH": "Habrán transportado",
+      "ENGLISH": "They will have transported"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos transportado",
-      "ENGLISH": "we will have transported"
+      "SPANISH": "Habremos transportado",
+      "ENGLISH": "We will have transported"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis transportado",
-      "ENGLISH": "you (plural) will have transported"
+      "SPANISH": "Habréis transportado",
+      "ENGLISH": "You will have transported"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "transportaría",
+      "SPANISH": "Transportaría",
       "ENGLISH": "I would transport"
     },
     "TU": {
-      "SPANISH": "transportarías",
-      "ENGLISH": "you would transport"
+      "SPANISH": "Transportarías",
+      "ENGLISH": "You would transport"
     },
     "EL": {
-      "SPANISH": "transportaría",
-      "ENGLISH": "s/he would transport, you (formal) would transport"
+      "SPANISH": "Transportaría",
+      "ENGLISH": "He would transport"
     },
     "ELLOS": {
-      "SPANISH": "transportarían",
-      "ENGLISH": "they would transport, you (plural formal) would transport"
+      "SPANISH": "Transportarían",
+      "ENGLISH": "They would transport"
     },
     "NOSOTROS": {
-      "SPANISH": "transportaríamos",
-      "ENGLISH": "we would transport"
+      "SPANISH": "Transportaríamos",
+      "ENGLISH": "We would transport"
     },
     "VOSOTROS": {
-      "SPANISH": "transportaríais",
-      "ENGLISH": "you (plural) would transport"
+      "SPANISH": "Transportaríais",
+      "ENGLISH": "You would transport"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría transportado",
+      "SPANISH": "Habría transportado",
       "ENGLISH": "I would have transported"
     },
     "TU": {
-      "SPANISH": "habrías transportado",
-      "ENGLISH": "you would have transported"
+      "SPANISH": "Habrías transportado",
+      "ENGLISH": "You would have transported"
     },
     "EL": {
-      "SPANISH": "habría transportado",
-      "ENGLISH": "s/he would have transported, you (formal) would have transported"
+      "SPANISH": "Habría transportado",
+      "ENGLISH": "He would have transported"
     },
     "ELLOS": {
-      "SPANISH": "habrían transportado",
-      "ENGLISH": "they would have transported, you (plural formal) would have transported"
+      "SPANISH": "Habrían transportado",
+      "ENGLISH": "They would have transported"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos transportado",
-      "ENGLISH": "we would have transported"
+      "SPANISH": "Habríamos transportado",
+      "ENGLISH": "We would have transported"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais transportado",
-      "ENGLISH": "you (plural) would have transported"
+      "SPANISH": "Habríais transportado",
+      "ENGLISH": "You would have transported"
     }
   }
 }

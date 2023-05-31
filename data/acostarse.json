@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me acuesto ",
+      "SPANISH": "Me acuesto ",
       "ENGLISH": "I go to bed"
     },
     "TU": {
-      "SPANISH": "te acuestas ",
-      "ENGLISH": "you go to bed"
+      "SPANISH": "Te acuestas ",
+      "ENGLISH": "You go to bed"
     },
     "EL": {
-      "SPANISH": "se acuesta ",
-      "ENGLISH": "s/he goes to bed, you (formal) goes to bed"
+      "SPANISH": "Se acuesta ",
+      "ENGLISH": "He goes to bed"
     },
     "ELLOS": {
-      "SPANISH": "se acuestan ",
-      "ENGLISH": "they go to bed, you (plural formal) go to bed"
+      "SPANISH": "Se acuestan ",
+      "ENGLISH": "They go to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos acostamos",
-      "ENGLISH": "we go to bed"
+      "SPANISH": "Nos acostamos",
+      "ENGLISH": "We go to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os acostáis",
-      "ENGLISH": "you (plural) go to bed"
+      "SPANISH": "Os acostáis",
+      "ENGLISH": "You go to bed"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he acostado",
+      "SPANISH": "Me he acostado",
       "ENGLISH": "I have gone to bed"
     },
     "TU": {
-      "SPANISH": "te has acostado",
-      "ENGLISH": "you have gone to bed"
+      "SPANISH": "Te has acostado",
+      "ENGLISH": "You have gone to bed"
     },
     "EL": {
-      "SPANISH": "se ha acostado",
-      "ENGLISH": "s/he has gone to bed, you (formal) have gone to bed"
+      "SPANISH": "Se ha acostado",
+      "ENGLISH": "He has gone to bed"
     },
     "ELLOS": {
-      "SPANISH": "se han acostado",
-      "ENGLISH": "they have gone to bed, you (plural formal) have gone to bed"
+      "SPANISH": "Se han acostado",
+      "ENGLISH": "They have gone to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos acostado",
-      "ENGLISH": "we have gone to bed"
+      "SPANISH": "Nos hemos acostado",
+      "ENGLISH": "We have gone to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis acostado",
-      "ENGLISH": "you (plural) have gone to bed"
+      "SPANISH": "Os habéis acostado",
+      "ENGLISH": "You have gone to bed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me acosté",
+      "SPANISH": "Me acosté",
       "ENGLISH": "I went to bed"
     },
     "TU": {
-      "SPANISH": "te acostaste",
-      "ENGLISH": "you went to bed"
+      "SPANISH": "Te acostaste",
+      "ENGLISH": "You went to bed"
     },
     "EL": {
-      "SPANISH": "se acostó",
-      "ENGLISH": "s/he went to bed, you (formal) went to bed"
+      "SPANISH": "Se acostó",
+      "ENGLISH": "He went to bed"
     },
     "ELLOS": {
-      "SPANISH": "se acostaron",
-      "ENGLISH": "they went to bed, you (plural formal) went to bed"
+      "SPANISH": "Se acostaron",
+      "ENGLISH": "They went to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos acostamos",
-      "ENGLISH": "we went to bed"
+      "SPANISH": "Nos acostamos",
+      "ENGLISH": "We went to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os acostasteis",
-      "ENGLISH": "you (plural) went to bed"
+      "SPANISH": "Os acostasteis",
+      "ENGLISH": "You went to bed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había acostado",
+      "SPANISH": "Me había acostado",
       "ENGLISH": "I had gone to bed"
     },
     "TU": {
-      "SPANISH": "te habías acostado",
-      "ENGLISH": "you had gone to bed"
+      "SPANISH": "Te habías acostado",
+      "ENGLISH": "You had gone to bed"
     },
     "EL": {
-      "SPANISH": "se había acostado",
-      "ENGLISH": "s/he had gone to bed, you (formal) had gone to bed"
+      "SPANISH": "Se había acostado",
+      "ENGLISH": "He had gone to bed"
     },
     "ELLOS": {
-      "SPANISH": "se habían acostado",
-      "ENGLISH": "they had gone to bed, you (plural formal) had gone to bed"
+      "SPANISH": "Se habían acostado",
+      "ENGLISH": "They had gone to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos acostado",
-      "ENGLISH": "we had gone to bed"
+      "SPANISH": "Nos habíamos acostado",
+      "ENGLISH": "We had gone to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais acostado",
-      "ENGLISH": "you (plural) had gone to bed"
+      "SPANISH": "Os habíais acostado",
+      "ENGLISH": "You had gone to bed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me acosté",
+      "SPANISH": "Me acosté",
       "ENGLISH": "I went to bed"
     },
     "TU": {
-      "SPANISH": "te acostaste",
-      "ENGLISH": "you went to bed"
+      "SPANISH": "Te acostaste",
+      "ENGLISH": "You went to bed"
     },
     "EL": {
-      "SPANISH": "se acostó",
-      "ENGLISH": "s/he went to bed, you (formal) went to bed"
+      "SPANISH": "Se acostó",
+      "ENGLISH": "He went to bed"
     },
     "ELLOS": {
-      "SPANISH": "se acostaron",
-      "ENGLISH": "they went to bed, you (plural formal) went to bed"
+      "SPANISH": "Se acostaron",
+      "ENGLISH": "They went to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos acostamos",
-      "ENGLISH": "we went to bed"
+      "SPANISH": "Nos acostamos",
+      "ENGLISH": "We went to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os acostasteis",
-      "ENGLISH": "you (plural) went to bed"
+      "SPANISH": "Os acostasteis",
+      "ENGLISH": "You went to bed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me acostaré",
+      "SPANISH": "Me acostaré",
       "ENGLISH": "I will go to bed"
     },
     "TU": {
-      "SPANISH": "te acostarás",
-      "ENGLISH": "you will go to bed"
+      "SPANISH": "Te acostarás",
+      "ENGLISH": "You will go to bed"
     },
     "EL": {
-      "SPANISH": "se acostará",
-      "ENGLISH": "s/he will go to bed, you (formal) will go to bed"
+      "SPANISH": "Se acostará",
+      "ENGLISH": "He will go to bed"
     },
     "ELLOS": {
-      "SPANISH": "se acostarán",
-      "ENGLISH": "they will go to bed, you (plural formal) will go to bed"
+      "SPANISH": "Se acostarán",
+      "ENGLISH": "They will go to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos acostaremos",
-      "ENGLISH": "we will go to bed"
+      "SPANISH": "Nos acostaremos",
+      "ENGLISH": "We will go to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os acostaréis",
-      "ENGLISH": "you (plural) will go to bed"
+      "SPANISH": "Os acostaréis",
+      "ENGLISH": "You will go to bed"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré acostado",
+      "SPANISH": "Me habré acostado",
       "ENGLISH": "I will have gone to bed"
     },
     "TU": {
-      "SPANISH": "te habrás acostado",
-      "ENGLISH": "you will have gone to bed"
+      "SPANISH": "Te habrás acostado",
+      "ENGLISH": "You will have gone to bed"
     },
     "EL": {
-      "SPANISH": "se habrá acostado",
-      "ENGLISH": "s/he will have gone to bed, you (formal) will have gone to bed"
+      "SPANISH": "Se habrá acostado",
+      "ENGLISH": "He will have gone to bed"
     },
     "ELLOS": {
-      "SPANISH": "se habrán acostado",
-      "ENGLISH": "they will have gone to bed, you (plural formal) will have gone to bed"
+      "SPANISH": "Se habrán acostado",
+      "ENGLISH": "They will have gone to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos acostado",
-      "ENGLISH": "we will have gone to bed"
+      "SPANISH": "Nos habremos acostado",
+      "ENGLISH": "We will have gone to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis acostado",
-      "ENGLISH": "you (plural) will have gone to bed"
+      "SPANISH": "Os habréis acostado",
+      "ENGLISH": "You will have gone to bed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me acostaría",
+      "SPANISH": "Me acostaría",
       "ENGLISH": "I would go to bed"
     },
     "TU": {
-      "SPANISH": "te acostarías",
-      "ENGLISH": "you would go to bed"
+      "SPANISH": "Te acostarías",
+      "ENGLISH": "You would go to bed"
     },
     "EL": {
-      "SPANISH": "se acostaría",
-      "ENGLISH": "s/he would go to bed, you (formal) would go to bed"
+      "SPANISH": "Se acostaría",
+      "ENGLISH": "He would go to bed"
     },
     "ELLOS": {
-      "SPANISH": "se acostarían",
-      "ENGLISH": "they would go to bed, you (plural formal) would go to bed"
+      "SPANISH": "Se acostarían",
+      "ENGLISH": "They would go to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos acostaríamos",
-      "ENGLISH": "we would go to bed"
+      "SPANISH": "Nos acostaríamos",
+      "ENGLISH": "We would go to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os acostaríais",
-      "ENGLISH": "you (plural) would go to bed"
+      "SPANISH": "Os acostaríais",
+      "ENGLISH": "You would go to bed"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría acostado",
+      "SPANISH": "Me habría acostado",
       "ENGLISH": "I would have gone to bed"
     },
     "TU": {
-      "SPANISH": "te habrías acostado",
-      "ENGLISH": "you would have gone to bed"
+      "SPANISH": "Te habrías acostado",
+      "ENGLISH": "You would have gone to bed"
     },
     "EL": {
-      "SPANISH": "se habría acostado",
-      "ENGLISH": "s/he would have gone to bed, you (formal) would have gone to bed"
+      "SPANISH": "Se habría acostado",
+      "ENGLISH": "He would have gone to bed"
     },
     "ELLOS": {
-      "SPANISH": "se habrían acostado",
-      "ENGLISH": "they would have gone to bed, you (plural formal) would have gone to bed"
+      "SPANISH": "Se habrían acostado",
+      "ENGLISH": "They would have gone to bed"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos acostado",
-      "ENGLISH": "we would have gone to bed"
+      "SPANISH": "Nos habríamos acostado",
+      "ENGLISH": "We would have gone to bed"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais acostado",
-      "ENGLISH": "you (plural) would have gone to bed"
+      "SPANISH": "Os habríais acostado",
+      "ENGLISH": "You would have gone to bed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "garantizo",
+      "SPANISH": "Garantizo",
       "ENGLISH": "I guarantee"
     },
     "TU": {
-      "SPANISH": "garantizas",
-      "ENGLISH": "you guarantee"
+      "SPANISH": "Garantizas",
+      "ENGLISH": "You guarantee"
     },
     "EL": {
-      "SPANISH": "garantiza",
-      "ENGLISH": "s/he guarantees, you (formal) guarantees"
+      "SPANISH": "Garantiza",
+      "ENGLISH": "He guarantees"
     },
     "ELLOS": {
-      "SPANISH": "garantizan",
-      "ENGLISH": "they guarantee, you (plural formal) guarantee"
+      "SPANISH": "Garantizan",
+      "ENGLISH": "They guarantee"
     },
     "NOSOTROS": {
-      "SPANISH": "garantizamos",
-      "ENGLISH": "we guarantee"
+      "SPANISH": "Garantizamos",
+      "ENGLISH": "We guarantee"
     },
     "VOSOTROS": {
-      "SPANISH": "garantizáis",
-      "ENGLISH": "you (plural) guarantee"
+      "SPANISH": "Garantizáis",
+      "ENGLISH": "You guarantee"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he garantizado",
+      "SPANISH": "He garantizado",
       "ENGLISH": "I have guaranteed"
     },
     "TU": {
-      "SPANISH": "has garantizado",
-      "ENGLISH": "you have guaranteed"
+      "SPANISH": "Has garantizado",
+      "ENGLISH": "You have guaranteed"
     },
     "EL": {
-      "SPANISH": "ha garantizado",
-      "ENGLISH": "s/he has guaranteed, you (formal) have guaranteed"
+      "SPANISH": "Ha garantizado",
+      "ENGLISH": "He has guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "han garantizado",
-      "ENGLISH": "they have guaranteed, you (plural formal) have guaranteed"
+      "SPANISH": "Han garantizado",
+      "ENGLISH": "They have guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos garantizado",
-      "ENGLISH": "we have guaranteed"
+      "SPANISH": "Hemos garantizado",
+      "ENGLISH": "We have guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis garantizado",
-      "ENGLISH": "you (plural) have guaranteed"
+      "SPANISH": "Habéis garantizado",
+      "ENGLISH": "You have guaranteed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "garanticé ",
+      "SPANISH": "Garanticé ",
       "ENGLISH": "I guaranteed"
     },
     "TU": {
-      "SPANISH": "garantizaste",
-      "ENGLISH": "you guaranteed"
+      "SPANISH": "Garantizaste",
+      "ENGLISH": "You guaranteed"
     },
     "EL": {
-      "SPANISH": "garantizó",
-      "ENGLISH": "s/he guaranteed, you (formal) guaranteed"
+      "SPANISH": "Garantizó",
+      "ENGLISH": "He guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "garantizaron",
-      "ENGLISH": "they guaranteed, you (plural formal) guaranteed"
+      "SPANISH": "Garantizaron",
+      "ENGLISH": "They guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "garantizamos",
-      "ENGLISH": "we guaranteed"
+      "SPANISH": "Garantizamos",
+      "ENGLISH": "We guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "garantizasteis",
-      "ENGLISH": "you (plural) guaranteed"
+      "SPANISH": "Garantizasteis",
+      "ENGLISH": "You guaranteed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había garantizado",
+      "SPANISH": "Había garantizado",
       "ENGLISH": "I had guaranteed"
     },
     "TU": {
-      "SPANISH": "habías garantizado",
-      "ENGLISH": "you had guaranteed"
+      "SPANISH": "Habías garantizado",
+      "ENGLISH": "You had guaranteed"
     },
     "EL": {
-      "SPANISH": "había garantizado",
-      "ENGLISH": "s/he had guaranteed, you (formal) had guaranteed"
+      "SPANISH": "Había garantizado",
+      "ENGLISH": "He had guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "habían garantizado",
-      "ENGLISH": "they had guaranteed, you (plural formal) had guaranteed"
+      "SPANISH": "Habían garantizado",
+      "ENGLISH": "They had guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos garantizado",
-      "ENGLISH": "we had guaranteed"
+      "SPANISH": "Habíamos garantizado",
+      "ENGLISH": "We had guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais garantizado",
-      "ENGLISH": "you (plural) had guaranteed"
+      "SPANISH": "Habíais garantizado",
+      "ENGLISH": "You had guaranteed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "garanticé ",
+      "SPANISH": "Garanticé ",
       "ENGLISH": "I guaranteed"
     },
     "TU": {
-      "SPANISH": "garantizaste",
-      "ENGLISH": "you guaranteed"
+      "SPANISH": "Garantizaste",
+      "ENGLISH": "You guaranteed"
     },
     "EL": {
-      "SPANISH": "garantizó",
-      "ENGLISH": "s/he guaranteed, you (formal) guaranteed"
+      "SPANISH": "Garantizó",
+      "ENGLISH": "He guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "garantizaron",
-      "ENGLISH": "they guaranteed, you (plural formal) guaranteed"
+      "SPANISH": "Garantizaron",
+      "ENGLISH": "They guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "garantizamos",
-      "ENGLISH": "we guaranteed"
+      "SPANISH": "Garantizamos",
+      "ENGLISH": "We guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "garantizasteis",
-      "ENGLISH": "you (plural) guaranteed"
+      "SPANISH": "Garantizasteis",
+      "ENGLISH": "You guaranteed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "garantizaré",
+      "SPANISH": "Garantizaré",
       "ENGLISH": "I will guarantee"
     },
     "TU": {
-      "SPANISH": "garantizarás",
-      "ENGLISH": "you will guarantee"
+      "SPANISH": "Garantizarás",
+      "ENGLISH": "You will guarantee"
     },
     "EL": {
-      "SPANISH": "garantizará",
-      "ENGLISH": "s/he will guarantee, you (formal) will guarantee"
+      "SPANISH": "Garantizará",
+      "ENGLISH": "He will guarantee"
     },
     "ELLOS": {
-      "SPANISH": "garantizarán",
-      "ENGLISH": "they will guarantee, you (plural formal) will guarantee"
+      "SPANISH": "Garantizarán",
+      "ENGLISH": "They will guarantee"
     },
     "NOSOTROS": {
-      "SPANISH": "garantizaremos",
-      "ENGLISH": "we will guarantee"
+      "SPANISH": "Garantizaremos",
+      "ENGLISH": "We will guarantee"
     },
     "VOSOTROS": {
-      "SPANISH": "garantizaréis",
-      "ENGLISH": "you (plural) will guarantee"
+      "SPANISH": "Garantizaréis",
+      "ENGLISH": "You will guarantee"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré garantizado",
+      "SPANISH": "Habré garantizado",
       "ENGLISH": "I will have guaranteed"
     },
     "TU": {
-      "SPANISH": "habrás garantizado",
-      "ENGLISH": "you will have guaranteed"
+      "SPANISH": "Habrás garantizado",
+      "ENGLISH": "You will have guaranteed"
     },
     "EL": {
-      "SPANISH": "habrá garantizado",
-      "ENGLISH": "s/he will have guaranteed, you (formal) will have guaranteed"
+      "SPANISH": "Habrá garantizado",
+      "ENGLISH": "He will have guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "habrán garantizado",
-      "ENGLISH": "they will have guaranteed, you (plural formal) will have guaranteed"
+      "SPANISH": "Habrán garantizado",
+      "ENGLISH": "They will have guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos garantizado",
-      "ENGLISH": "we will have guaranteed"
+      "SPANISH": "Habremos garantizado",
+      "ENGLISH": "We will have guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis garantizado",
-      "ENGLISH": "you (plural) will have guaranteed"
+      "SPANISH": "Habréis garantizado",
+      "ENGLISH": "You will have guaranteed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "garantizaría",
+      "SPANISH": "Garantizaría",
       "ENGLISH": "I would guarantee"
     },
     "TU": {
-      "SPANISH": "garantizarías",
-      "ENGLISH": "you would guarantee"
+      "SPANISH": "Garantizarías",
+      "ENGLISH": "You would guarantee"
     },
     "EL": {
-      "SPANISH": "garantizaría",
-      "ENGLISH": "s/he would guarantee, you (formal) would guarantee"
+      "SPANISH": "Garantizaría",
+      "ENGLISH": "He would guarantee"
     },
     "ELLOS": {
-      "SPANISH": "garantizarían",
-      "ENGLISH": "they would guarantee, you (plural formal) would guarantee"
+      "SPANISH": "Garantizarían",
+      "ENGLISH": "They would guarantee"
     },
     "NOSOTROS": {
-      "SPANISH": "garantizaríamos",
-      "ENGLISH": "we would guarantee"
+      "SPANISH": "Garantizaríamos",
+      "ENGLISH": "We would guarantee"
     },
     "VOSOTROS": {
-      "SPANISH": "garantizaríais",
-      "ENGLISH": "you (plural) would guarantee"
+      "SPANISH": "Garantizaríais",
+      "ENGLISH": "You would guarantee"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría garantizado",
+      "SPANISH": "Habría garantizado",
       "ENGLISH": "I would have guaranteed"
     },
     "TU": {
-      "SPANISH": "habrías garantizado",
-      "ENGLISH": "you would have guaranteed"
+      "SPANISH": "Habrías garantizado",
+      "ENGLISH": "You would have guaranteed"
     },
     "EL": {
-      "SPANISH": "habría garantizado",
-      "ENGLISH": "s/he would have guaranteed, you (formal) would have guaranteed"
+      "SPANISH": "Habría garantizado",
+      "ENGLISH": "He would have guaranteed"
     },
     "ELLOS": {
-      "SPANISH": "habrían garantizado",
-      "ENGLISH": "they would have guaranteed, you (plural formal) would have guaranteed"
+      "SPANISH": "Habrían garantizado",
+      "ENGLISH": "They would have guaranteed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos garantizado",
-      "ENGLISH": "we would have guaranteed"
+      "SPANISH": "Habríamos garantizado",
+      "ENGLISH": "We would have guaranteed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais garantizado",
-      "ENGLISH": "you (plural) would have guaranteed"
+      "SPANISH": "Habríais garantizado",
+      "ENGLISH": "You would have guaranteed"
     }
   }
 }

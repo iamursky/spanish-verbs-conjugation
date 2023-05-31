@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "corto",
+      "SPANISH": "Corto",
       "ENGLISH": "I cut"
     },
     "TU": {
-      "SPANISH": "cortas",
-      "ENGLISH": "you cut"
+      "SPANISH": "Cortas",
+      "ENGLISH": "You cut"
     },
     "EL": {
-      "SPANISH": "corta",
-      "ENGLISH": "s/he cuts, you (formal) cuts"
+      "SPANISH": "Corta",
+      "ENGLISH": "He cuts"
     },
     "ELLOS": {
-      "SPANISH": "cortan",
-      "ENGLISH": "they cut, you (plural formal) cut"
+      "SPANISH": "Cortan",
+      "ENGLISH": "They cut"
     },
     "NOSOTROS": {
-      "SPANISH": "cortamos",
-      "ENGLISH": "we cut"
+      "SPANISH": "Cortamos",
+      "ENGLISH": "We cut"
     },
     "VOSOTROS": {
-      "SPANISH": "cortáis",
-      "ENGLISH": "you (plural) cut"
+      "SPANISH": "Cortáis",
+      "ENGLISH": "You cut"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cortado",
+      "SPANISH": "He cortado",
       "ENGLISH": "I have cut"
     },
     "TU": {
-      "SPANISH": "has cortado",
-      "ENGLISH": "you have cut"
+      "SPANISH": "Has cortado",
+      "ENGLISH": "You have cut"
     },
     "EL": {
-      "SPANISH": "ha cortado",
-      "ENGLISH": "s/he has cut, you (formal) have cut"
+      "SPANISH": "Ha cortado",
+      "ENGLISH": "He has cut"
     },
     "ELLOS": {
-      "SPANISH": "han cortado",
-      "ENGLISH": "they have cut, you (plural formal) have cut"
+      "SPANISH": "Han cortado",
+      "ENGLISH": "They have cut"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cortado",
-      "ENGLISH": "we have cut"
+      "SPANISH": "Hemos cortado",
+      "ENGLISH": "We have cut"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cortado",
-      "ENGLISH": "you (plural) have cut"
+      "SPANISH": "Habéis cortado",
+      "ENGLISH": "You have cut"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "corté",
+      "SPANISH": "Corté",
       "ENGLISH": "I cut"
     },
     "TU": {
-      "SPANISH": "cortaste",
-      "ENGLISH": "you cut"
+      "SPANISH": "Cortaste",
+      "ENGLISH": "You cut"
     },
     "EL": {
-      "SPANISH": "cortó",
-      "ENGLISH": "s/he cut, you (formal) cut"
+      "SPANISH": "Cortó",
+      "ENGLISH": "He cut"
     },
     "ELLOS": {
-      "SPANISH": "cortaron",
-      "ENGLISH": "they cut, you (plural formal) cut"
+      "SPANISH": "Cortaron",
+      "ENGLISH": "They cut"
     },
     "NOSOTROS": {
-      "SPANISH": "cortamos",
-      "ENGLISH": "we cut"
+      "SPANISH": "Cortamos",
+      "ENGLISH": "We cut"
     },
     "VOSOTROS": {
-      "SPANISH": "cortasteis",
-      "ENGLISH": "you (plural) cut"
+      "SPANISH": "Cortasteis",
+      "ENGLISH": "You cut"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cortado",
+      "SPANISH": "Había cortado",
       "ENGLISH": "I had cut"
     },
     "TU": {
-      "SPANISH": "habías cortado",
-      "ENGLISH": "you had cut"
+      "SPANISH": "Habías cortado",
+      "ENGLISH": "You had cut"
     },
     "EL": {
-      "SPANISH": "había cortado",
-      "ENGLISH": "s/he had cut, you (formal) had cut"
+      "SPANISH": "Había cortado",
+      "ENGLISH": "He had cut"
     },
     "ELLOS": {
-      "SPANISH": "habían cortado",
-      "ENGLISH": "they had cut, you (plural formal) had cut"
+      "SPANISH": "Habían cortado",
+      "ENGLISH": "They had cut"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cortado",
-      "ENGLISH": "we had cut"
+      "SPANISH": "Habíamos cortado",
+      "ENGLISH": "We had cut"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cortado",
-      "ENGLISH": "you (plural) had cut"
+      "SPANISH": "Habíais cortado",
+      "ENGLISH": "You had cut"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "corté",
+      "SPANISH": "Corté",
       "ENGLISH": "I cut"
     },
     "TU": {
-      "SPANISH": "cortaste",
-      "ENGLISH": "you cut"
+      "SPANISH": "Cortaste",
+      "ENGLISH": "You cut"
     },
     "EL": {
-      "SPANISH": "cortó",
-      "ENGLISH": "s/he cut, you (formal) cut"
+      "SPANISH": "Cortó",
+      "ENGLISH": "He cut"
     },
     "ELLOS": {
-      "SPANISH": "cortaron",
-      "ENGLISH": "they cut, you (plural formal) cut"
+      "SPANISH": "Cortaron",
+      "ENGLISH": "They cut"
     },
     "NOSOTROS": {
-      "SPANISH": "cortamos",
-      "ENGLISH": "we cut"
+      "SPANISH": "Cortamos",
+      "ENGLISH": "We cut"
     },
     "VOSOTROS": {
-      "SPANISH": "cortasteis",
-      "ENGLISH": "you (plural) cut"
+      "SPANISH": "Cortasteis",
+      "ENGLISH": "You cut"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cortaré",
+      "SPANISH": "Cortaré",
       "ENGLISH": "I will cut"
     },
     "TU": {
-      "SPANISH": "cortarás",
-      "ENGLISH": "you will cut"
+      "SPANISH": "Cortarás",
+      "ENGLISH": "You will cut"
     },
     "EL": {
-      "SPANISH": "cortará",
-      "ENGLISH": "s/he will cut, you (formal) will cut"
+      "SPANISH": "Cortará",
+      "ENGLISH": "He will cut"
     },
     "ELLOS": {
-      "SPANISH": "cortarán",
-      "ENGLISH": "they will cut, you (plural formal) will cut"
+      "SPANISH": "Cortarán",
+      "ENGLISH": "They will cut"
     },
     "NOSOTROS": {
-      "SPANISH": "cortaremos",
-      "ENGLISH": "we will cut"
+      "SPANISH": "Cortaremos",
+      "ENGLISH": "We will cut"
     },
     "VOSOTROS": {
-      "SPANISH": "cortaréis",
-      "ENGLISH": "you (plural) will cut"
+      "SPANISH": "Cortaréis",
+      "ENGLISH": "You will cut"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cortado",
+      "SPANISH": "Habré cortado",
       "ENGLISH": "I will have cut"
     },
     "TU": {
-      "SPANISH": "habrás cortado",
-      "ENGLISH": "you will have cut"
+      "SPANISH": "Habrás cortado",
+      "ENGLISH": "You will have cut"
     },
     "EL": {
-      "SPANISH": "habrá cortado",
-      "ENGLISH": "s/he will have cut, you (formal) will have cut"
+      "SPANISH": "Habrá cortado",
+      "ENGLISH": "He will have cut"
     },
     "ELLOS": {
-      "SPANISH": "habrán cortado",
-      "ENGLISH": "they will have cut, you (plural formal) will have cut"
+      "SPANISH": "Habrán cortado",
+      "ENGLISH": "They will have cut"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cortado",
-      "ENGLISH": "we will have cut"
+      "SPANISH": "Habremos cortado",
+      "ENGLISH": "We will have cut"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cortado",
-      "ENGLISH": "you (plural) will have cut"
+      "SPANISH": "Habréis cortado",
+      "ENGLISH": "You will have cut"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cortaría",
+      "SPANISH": "Cortaría",
       "ENGLISH": "I would cut"
     },
     "TU": {
-      "SPANISH": "cortarías",
-      "ENGLISH": "you would cut"
+      "SPANISH": "Cortarías",
+      "ENGLISH": "You would cut"
     },
     "EL": {
-      "SPANISH": "cortaría",
-      "ENGLISH": "s/he would cut, you (formal) would cut"
+      "SPANISH": "Cortaría",
+      "ENGLISH": "He would cut"
     },
     "ELLOS": {
-      "SPANISH": "cortarían",
-      "ENGLISH": "they would cut, you (plural formal) would cut"
+      "SPANISH": "Cortarían",
+      "ENGLISH": "They would cut"
     },
     "NOSOTROS": {
-      "SPANISH": "cortaríamos",
-      "ENGLISH": "we would cut"
+      "SPANISH": "Cortaríamos",
+      "ENGLISH": "We would cut"
     },
     "VOSOTROS": {
-      "SPANISH": "cortaríais",
-      "ENGLISH": "you (plural) would cut"
+      "SPANISH": "Cortaríais",
+      "ENGLISH": "You would cut"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cortado",
+      "SPANISH": "Habría cortado",
       "ENGLISH": "I would have cut"
     },
     "TU": {
-      "SPANISH": "habrías cortado",
-      "ENGLISH": "you would have cut"
+      "SPANISH": "Habrías cortado",
+      "ENGLISH": "You would have cut"
     },
     "EL": {
-      "SPANISH": "habría cortado",
-      "ENGLISH": "s/he would have cut, you (formal) would have cut"
+      "SPANISH": "Habría cortado",
+      "ENGLISH": "He would have cut"
     },
     "ELLOS": {
-      "SPANISH": "habrían cortado",
-      "ENGLISH": "they would have cut, you (plural formal) would have cut"
+      "SPANISH": "Habrían cortado",
+      "ENGLISH": "They would have cut"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cortado",
-      "ENGLISH": "we would have cut"
+      "SPANISH": "Habríamos cortado",
+      "ENGLISH": "We would have cut"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cortado",
-      "ENGLISH": "you (plural) would have cut"
+      "SPANISH": "Habríais cortado",
+      "ENGLISH": "You would have cut"
     }
   }
 }

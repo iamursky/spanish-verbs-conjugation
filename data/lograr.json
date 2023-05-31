@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "logro",
+      "SPANISH": "Logro",
       "ENGLISH": "I achieve"
     },
     "TU": {
-      "SPANISH": "logras",
-      "ENGLISH": "you achieve"
+      "SPANISH": "Logras",
+      "ENGLISH": "You achieve"
     },
     "EL": {
-      "SPANISH": "logra",
-      "ENGLISH": "s/he achieves, you (formal) achieves"
+      "SPANISH": "Logra",
+      "ENGLISH": "He achieves"
     },
     "ELLOS": {
-      "SPANISH": "logran",
-      "ENGLISH": "they achieve, you (plural formal) achieve"
+      "SPANISH": "Logran",
+      "ENGLISH": "They achieve"
     },
     "NOSOTROS": {
-      "SPANISH": "logramos",
-      "ENGLISH": "we achieve"
+      "SPANISH": "Logramos",
+      "ENGLISH": "We achieve"
     },
     "VOSOTROS": {
-      "SPANISH": "lográis",
-      "ENGLISH": "you (plural) achieve"
+      "SPANISH": "Lográis",
+      "ENGLISH": "You achieve"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he logrado",
+      "SPANISH": "He logrado",
       "ENGLISH": "I have achieved"
     },
     "TU": {
-      "SPANISH": "has logrado",
-      "ENGLISH": "you have achieved"
+      "SPANISH": "Has logrado",
+      "ENGLISH": "You have achieved"
     },
     "EL": {
-      "SPANISH": "ha logrado",
-      "ENGLISH": "s/he has achieved, you (formal) have achieved"
+      "SPANISH": "Ha logrado",
+      "ENGLISH": "He has achieved"
     },
     "ELLOS": {
-      "SPANISH": "han logrado",
-      "ENGLISH": "they have achieved, you (plural formal) have achieved"
+      "SPANISH": "Han logrado",
+      "ENGLISH": "They have achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos logrado",
-      "ENGLISH": "we have achieved"
+      "SPANISH": "Hemos logrado",
+      "ENGLISH": "We have achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis logrado",
-      "ENGLISH": "you (plural) have achieved"
+      "SPANISH": "Habéis logrado",
+      "ENGLISH": "You have achieved"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "logré",
+      "SPANISH": "Logré",
       "ENGLISH": "I achieved"
     },
     "TU": {
-      "SPANISH": "lograste",
-      "ENGLISH": "you achieved"
+      "SPANISH": "Lograste",
+      "ENGLISH": "You achieved"
     },
     "EL": {
-      "SPANISH": "logró",
-      "ENGLISH": "s/he achieved, you (formal) achieved"
+      "SPANISH": "Logró",
+      "ENGLISH": "He achieved"
     },
     "ELLOS": {
-      "SPANISH": "lograron",
-      "ENGLISH": "they achieved, you (plural formal) achieved"
+      "SPANISH": "Lograron",
+      "ENGLISH": "They achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "logramos",
-      "ENGLISH": "we achieved"
+      "SPANISH": "Logramos",
+      "ENGLISH": "We achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "lograsteis",
-      "ENGLISH": "you (plural) achieved"
+      "SPANISH": "Lograsteis",
+      "ENGLISH": "You achieved"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había logrado",
+      "SPANISH": "Había logrado",
       "ENGLISH": "I had achieved"
     },
     "TU": {
-      "SPANISH": "habías logrado",
-      "ENGLISH": "you had achieved"
+      "SPANISH": "Habías logrado",
+      "ENGLISH": "You had achieved"
     },
     "EL": {
-      "SPANISH": "había logrado",
-      "ENGLISH": "s/he had achieved, you (formal) had achieved"
+      "SPANISH": "Había logrado",
+      "ENGLISH": "He had achieved"
     },
     "ELLOS": {
-      "SPANISH": "habían logrado",
-      "ENGLISH": "they had achieved, you (plural formal) had achieved"
+      "SPANISH": "Habían logrado",
+      "ENGLISH": "They had achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos logrado",
-      "ENGLISH": "we had achieved"
+      "SPANISH": "Habíamos logrado",
+      "ENGLISH": "We had achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais logrado",
-      "ENGLISH": "you (plural) had achieved"
+      "SPANISH": "Habíais logrado",
+      "ENGLISH": "You had achieved"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "logré",
+      "SPANISH": "Logré",
       "ENGLISH": "I achieved"
     },
     "TU": {
-      "SPANISH": "lograste",
-      "ENGLISH": "you achieved"
+      "SPANISH": "Lograste",
+      "ENGLISH": "You achieved"
     },
     "EL": {
-      "SPANISH": "logró",
-      "ENGLISH": "s/he achieved, you (formal) achieved"
+      "SPANISH": "Logró",
+      "ENGLISH": "He achieved"
     },
     "ELLOS": {
-      "SPANISH": "lograron",
-      "ENGLISH": "they achieved, you (plural formal) achieved"
+      "SPANISH": "Lograron",
+      "ENGLISH": "They achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "logramos",
-      "ENGLISH": "we achieved"
+      "SPANISH": "Logramos",
+      "ENGLISH": "We achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "lograsteis",
-      "ENGLISH": "you (plural) achieved"
+      "SPANISH": "Lograsteis",
+      "ENGLISH": "You achieved"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "lograré",
+      "SPANISH": "Lograré",
       "ENGLISH": "I will achieve"
     },
     "TU": {
-      "SPANISH": "lograrás",
-      "ENGLISH": "you will achieve"
+      "SPANISH": "Lograrás",
+      "ENGLISH": "You will achieve"
     },
     "EL": {
-      "SPANISH": "logrará",
-      "ENGLISH": "s/he will achieve, you (formal) will achieve"
+      "SPANISH": "Logrará",
+      "ENGLISH": "He will achieve"
     },
     "ELLOS": {
-      "SPANISH": "lograrán",
-      "ENGLISH": "they will achieve, you (plural formal) will achieve"
+      "SPANISH": "Lograrán",
+      "ENGLISH": "They will achieve"
     },
     "NOSOTROS": {
-      "SPANISH": "lograremos",
-      "ENGLISH": "we will achieve"
+      "SPANISH": "Lograremos",
+      "ENGLISH": "We will achieve"
     },
     "VOSOTROS": {
-      "SPANISH": "lograréis",
-      "ENGLISH": "you (plural) will achieve"
+      "SPANISH": "Lograréis",
+      "ENGLISH": "You will achieve"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré logrado",
+      "SPANISH": "Habré logrado",
       "ENGLISH": "I will have achieved"
     },
     "TU": {
-      "SPANISH": "habrás logrado",
-      "ENGLISH": "you will have achieved"
+      "SPANISH": "Habrás logrado",
+      "ENGLISH": "You will have achieved"
     },
     "EL": {
-      "SPANISH": "habrá logrado",
-      "ENGLISH": "s/he will have achieved, you (formal) will have achieved"
+      "SPANISH": "Habrá logrado",
+      "ENGLISH": "He will have achieved"
     },
     "ELLOS": {
-      "SPANISH": "habrán logrado",
-      "ENGLISH": "they will have achieved, you (plural formal) will have achieved"
+      "SPANISH": "Habrán logrado",
+      "ENGLISH": "They will have achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos logrado",
-      "ENGLISH": "we will have achieved"
+      "SPANISH": "Habremos logrado",
+      "ENGLISH": "We will have achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis logrado",
-      "ENGLISH": "you (plural) will have achieved"
+      "SPANISH": "Habréis logrado",
+      "ENGLISH": "You will have achieved"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "lograría",
+      "SPANISH": "Lograría",
       "ENGLISH": "I would achieve"
     },
     "TU": {
-      "SPANISH": "lograrías",
-      "ENGLISH": "you would achieve"
+      "SPANISH": "Lograrías",
+      "ENGLISH": "You would achieve"
     },
     "EL": {
-      "SPANISH": "lograría",
-      "ENGLISH": "s/he would achieve, you (formal) would achieve"
+      "SPANISH": "Lograría",
+      "ENGLISH": "He would achieve"
     },
     "ELLOS": {
-      "SPANISH": "lograrían",
-      "ENGLISH": "they would achieve, you (plural formal) would achieve"
+      "SPANISH": "Lograrían",
+      "ENGLISH": "They would achieve"
     },
     "NOSOTROS": {
-      "SPANISH": "lograríamos",
-      "ENGLISH": "we would achieve"
+      "SPANISH": "Lograríamos",
+      "ENGLISH": "We would achieve"
     },
     "VOSOTROS": {
-      "SPANISH": "lograríais",
-      "ENGLISH": "you (plural) would achieve"
+      "SPANISH": "Lograríais",
+      "ENGLISH": "You would achieve"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría logrado",
+      "SPANISH": "Habría logrado",
       "ENGLISH": "I would have achieved"
     },
     "TU": {
-      "SPANISH": "habrías logrado",
-      "ENGLISH": "you would have achieved"
+      "SPANISH": "Habrías logrado",
+      "ENGLISH": "You would have achieved"
     },
     "EL": {
-      "SPANISH": "habría logrado",
-      "ENGLISH": "s/he would have achieved, you (formal) would have achieved"
+      "SPANISH": "Habría logrado",
+      "ENGLISH": "He would have achieved"
     },
     "ELLOS": {
-      "SPANISH": "habrían logrado",
-      "ENGLISH": "they would have achieved, you (plural formal) would have achieved"
+      "SPANISH": "Habrían logrado",
+      "ENGLISH": "They would have achieved"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos logrado",
-      "ENGLISH": "we would have achieved"
+      "SPANISH": "Habríamos logrado",
+      "ENGLISH": "We would have achieved"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais logrado",
-      "ENGLISH": "you (plural) would have achieved"
+      "SPANISH": "Habríais logrado",
+      "ENGLISH": "You would have achieved"
     }
   }
 }

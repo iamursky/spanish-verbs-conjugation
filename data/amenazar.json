@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "amenazo",
+      "SPANISH": "Amenazo",
       "ENGLISH": "I threaten"
     },
     "TU": {
-      "SPANISH": "amenazas",
-      "ENGLISH": "you threaten"
+      "SPANISH": "Amenazas",
+      "ENGLISH": "You threaten"
     },
     "EL": {
-      "SPANISH": "amenaza",
-      "ENGLISH": "s/he threatens, you (formal) threatens"
+      "SPANISH": "Amenaza",
+      "ENGLISH": "He threatens"
     },
     "ELLOS": {
-      "SPANISH": "amenazan",
-      "ENGLISH": "they threaten, you (plural formal) threaten"
+      "SPANISH": "Amenazan",
+      "ENGLISH": "They threaten"
     },
     "NOSOTROS": {
-      "SPANISH": "amenazamos",
-      "ENGLISH": "we threaten"
+      "SPANISH": "Amenazamos",
+      "ENGLISH": "We threaten"
     },
     "VOSOTROS": {
-      "SPANISH": "amenazáis",
-      "ENGLISH": "you (plural) threaten"
+      "SPANISH": "Amenazáis",
+      "ENGLISH": "You threaten"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he amenazado",
+      "SPANISH": "He amenazado",
       "ENGLISH": "I have threatened"
     },
     "TU": {
-      "SPANISH": "has amenazado",
-      "ENGLISH": "you have threatened"
+      "SPANISH": "Has amenazado",
+      "ENGLISH": "You have threatened"
     },
     "EL": {
-      "SPANISH": "ha amenazado",
-      "ENGLISH": "s/he has threatened, you (formal) have threatened"
+      "SPANISH": "Ha amenazado",
+      "ENGLISH": "He has threatened"
     },
     "ELLOS": {
-      "SPANISH": "han amenazado",
-      "ENGLISH": "they have threatened, you (plural formal) have threatened"
+      "SPANISH": "Han amenazado",
+      "ENGLISH": "They have threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos amenazado",
-      "ENGLISH": "we have threatened"
+      "SPANISH": "Hemos amenazado",
+      "ENGLISH": "We have threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis amenazado",
-      "ENGLISH": "you (plural) have threatened"
+      "SPANISH": "Habéis amenazado",
+      "ENGLISH": "You have threatened"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "amenacé ",
+      "SPANISH": "Amenacé ",
       "ENGLISH": "I threatened"
     },
     "TU": {
-      "SPANISH": "amenazaste",
-      "ENGLISH": "you threatened"
+      "SPANISH": "Amenazaste",
+      "ENGLISH": "You threatened"
     },
     "EL": {
-      "SPANISH": "amenazó",
-      "ENGLISH": "s/he threatened, you (formal) threatened"
+      "SPANISH": "Amenazó",
+      "ENGLISH": "He threatened"
     },
     "ELLOS": {
-      "SPANISH": "amenazaron",
-      "ENGLISH": "they threatened, you (plural formal) threatened"
+      "SPANISH": "Amenazaron",
+      "ENGLISH": "They threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "amenazamos",
-      "ENGLISH": "we threatened"
+      "SPANISH": "Amenazamos",
+      "ENGLISH": "We threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "amenazasteis",
-      "ENGLISH": "you (plural) threatened"
+      "SPANISH": "Amenazasteis",
+      "ENGLISH": "You threatened"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había amenazado",
+      "SPANISH": "Había amenazado",
       "ENGLISH": "I had threatened"
     },
     "TU": {
-      "SPANISH": "habías amenazado",
-      "ENGLISH": "you had threatened"
+      "SPANISH": "Habías amenazado",
+      "ENGLISH": "You had threatened"
     },
     "EL": {
-      "SPANISH": "había amenazado",
-      "ENGLISH": "s/he had threatened, you (formal) had threatened"
+      "SPANISH": "Había amenazado",
+      "ENGLISH": "He had threatened"
     },
     "ELLOS": {
-      "SPANISH": "habían amenazado",
-      "ENGLISH": "they had threatened, you (plural formal) had threatened"
+      "SPANISH": "Habían amenazado",
+      "ENGLISH": "They had threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos amenazado",
-      "ENGLISH": "we had threatened"
+      "SPANISH": "Habíamos amenazado",
+      "ENGLISH": "We had threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais amenazado",
-      "ENGLISH": "you (plural) had threatened"
+      "SPANISH": "Habíais amenazado",
+      "ENGLISH": "You had threatened"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "amenacé ",
+      "SPANISH": "Amenacé ",
       "ENGLISH": "I threatened"
     },
     "TU": {
-      "SPANISH": "amenazaste",
-      "ENGLISH": "you threatened"
+      "SPANISH": "Amenazaste",
+      "ENGLISH": "You threatened"
     },
     "EL": {
-      "SPANISH": "amenazó",
-      "ENGLISH": "s/he threatened, you (formal) threatened"
+      "SPANISH": "Amenazó",
+      "ENGLISH": "He threatened"
     },
     "ELLOS": {
-      "SPANISH": "amenazaron",
-      "ENGLISH": "they threatened, you (plural formal) threatened"
+      "SPANISH": "Amenazaron",
+      "ENGLISH": "They threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "amenazamos",
-      "ENGLISH": "we threatened"
+      "SPANISH": "Amenazamos",
+      "ENGLISH": "We threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "amenazasteis",
-      "ENGLISH": "you (plural) threatened"
+      "SPANISH": "Amenazasteis",
+      "ENGLISH": "You threatened"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "amenazaré",
+      "SPANISH": "Amenazaré",
       "ENGLISH": "I will threaten"
     },
     "TU": {
-      "SPANISH": "amenazarás",
-      "ENGLISH": "you will threaten"
+      "SPANISH": "Amenazarás",
+      "ENGLISH": "You will threaten"
     },
     "EL": {
-      "SPANISH": "amenazará",
-      "ENGLISH": "s/he will threaten, you (formal) will threaten"
+      "SPANISH": "Amenazará",
+      "ENGLISH": "He will threaten"
     },
     "ELLOS": {
-      "SPANISH": "amenazarán",
-      "ENGLISH": "they will threaten, you (plural formal) will threaten"
+      "SPANISH": "Amenazarán",
+      "ENGLISH": "They will threaten"
     },
     "NOSOTROS": {
-      "SPANISH": "amenazaremos",
-      "ENGLISH": "we will threaten"
+      "SPANISH": "Amenazaremos",
+      "ENGLISH": "We will threaten"
     },
     "VOSOTROS": {
-      "SPANISH": "amenazaréis",
-      "ENGLISH": "you (plural) will threaten"
+      "SPANISH": "Amenazaréis",
+      "ENGLISH": "You will threaten"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré amenazado",
+      "SPANISH": "Habré amenazado",
       "ENGLISH": "I will have threatened"
     },
     "TU": {
-      "SPANISH": "habrás amenazado",
-      "ENGLISH": "you will have threatened"
+      "SPANISH": "Habrás amenazado",
+      "ENGLISH": "You will have threatened"
     },
     "EL": {
-      "SPANISH": "habrá amenazado",
-      "ENGLISH": "s/he will have threatened, you (formal) will have threatened"
+      "SPANISH": "Habrá amenazado",
+      "ENGLISH": "He will have threatened"
     },
     "ELLOS": {
-      "SPANISH": "habrán amenazado",
-      "ENGLISH": "they will have threatened, you (plural formal) will have threatened"
+      "SPANISH": "Habrán amenazado",
+      "ENGLISH": "They will have threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos amenazado",
-      "ENGLISH": "we will have threatened"
+      "SPANISH": "Habremos amenazado",
+      "ENGLISH": "We will have threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis amenazado",
-      "ENGLISH": "you (plural) will have threatened"
+      "SPANISH": "Habréis amenazado",
+      "ENGLISH": "You will have threatened"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "amenazaría",
+      "SPANISH": "Amenazaría",
       "ENGLISH": "I would threaten"
     },
     "TU": {
-      "SPANISH": "amenazarías",
-      "ENGLISH": "you would threaten"
+      "SPANISH": "Amenazarías",
+      "ENGLISH": "You would threaten"
     },
     "EL": {
-      "SPANISH": "amenazaría",
-      "ENGLISH": "s/he would threaten, you (formal) would threaten"
+      "SPANISH": "Amenazaría",
+      "ENGLISH": "He would threaten"
     },
     "ELLOS": {
-      "SPANISH": "amenazarían",
-      "ENGLISH": "they would threaten, you (plural formal) would threaten"
+      "SPANISH": "Amenazarían",
+      "ENGLISH": "They would threaten"
     },
     "NOSOTROS": {
-      "SPANISH": "amenazaríamos",
-      "ENGLISH": "we would threaten"
+      "SPANISH": "Amenazaríamos",
+      "ENGLISH": "We would threaten"
     },
     "VOSOTROS": {
-      "SPANISH": "amenazaríais",
-      "ENGLISH": "you (plural) would threaten"
+      "SPANISH": "Amenazaríais",
+      "ENGLISH": "You would threaten"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría amenazado",
+      "SPANISH": "Habría amenazado",
       "ENGLISH": "I would have threatened"
     },
     "TU": {
-      "SPANISH": "habrías amenazado",
-      "ENGLISH": "you would have threatened"
+      "SPANISH": "Habrías amenazado",
+      "ENGLISH": "You would have threatened"
     },
     "EL": {
-      "SPANISH": "habría amenazado",
-      "ENGLISH": "s/he would have threatened, you (formal) would have threatened"
+      "SPANISH": "Habría amenazado",
+      "ENGLISH": "He would have threatened"
     },
     "ELLOS": {
-      "SPANISH": "habrían amenazado",
-      "ENGLISH": "they would have threatened, you (plural formal) would have threatened"
+      "SPANISH": "Habrían amenazado",
+      "ENGLISH": "They would have threatened"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos amenazado",
-      "ENGLISH": "we would have threatened"
+      "SPANISH": "Habríamos amenazado",
+      "ENGLISH": "We would have threatened"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais amenazado",
-      "ENGLISH": "you (plural) would have threatened"
+      "SPANISH": "Habríais amenazado",
+      "ENGLISH": "You would have threatened"
     }
   }
 }

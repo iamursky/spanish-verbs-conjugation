@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "concluyo ",
+      "SPANISH": "Concluyo ",
       "ENGLISH": "I conclude"
     },
     "TU": {
-      "SPANISH": "concluyes ",
-      "ENGLISH": "you conclude"
+      "SPANISH": "Concluyes ",
+      "ENGLISH": "You conclude"
     },
     "EL": {
-      "SPANISH": "concluye ",
-      "ENGLISH": "s/he concludes, you (formal) concludes"
+      "SPANISH": "Concluye ",
+      "ENGLISH": "He concludes"
     },
     "ELLOS": {
-      "SPANISH": "concluyen ",
-      "ENGLISH": "they conclude, you (plural formal) conclude"
+      "SPANISH": "Concluyen ",
+      "ENGLISH": "They conclude"
     },
     "NOSOTROS": {
-      "SPANISH": "concluimos",
-      "ENGLISH": "we conclude"
+      "SPANISH": "Concluimos",
+      "ENGLISH": "We conclude"
     },
     "VOSOTROS": {
-      "SPANISH": "concluís",
-      "ENGLISH": "you (plural) conclude"
+      "SPANISH": "Concluís",
+      "ENGLISH": "You conclude"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he concluido",
+      "SPANISH": "He concluido",
       "ENGLISH": "I have concluded"
     },
     "TU": {
-      "SPANISH": "has concluido",
-      "ENGLISH": "you have concluded"
+      "SPANISH": "Has concluido",
+      "ENGLISH": "You have concluded"
     },
     "EL": {
-      "SPANISH": "ha concluido",
-      "ENGLISH": "s/he has concluded, you (formal) have concluded"
+      "SPANISH": "Ha concluido",
+      "ENGLISH": "He has concluded"
     },
     "ELLOS": {
-      "SPANISH": "han concluido",
-      "ENGLISH": "they have concluded, you (plural formal) have concluded"
+      "SPANISH": "Han concluido",
+      "ENGLISH": "They have concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos concluido",
-      "ENGLISH": "we have concluded"
+      "SPANISH": "Hemos concluido",
+      "ENGLISH": "We have concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis concluido",
-      "ENGLISH": "you (plural) have concluded"
+      "SPANISH": "Habéis concluido",
+      "ENGLISH": "You have concluded"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "concluí",
+      "SPANISH": "Concluí",
       "ENGLISH": "I concluded"
     },
     "TU": {
-      "SPANISH": "concluiste",
-      "ENGLISH": "you concluded"
+      "SPANISH": "Concluiste",
+      "ENGLISH": "You concluded"
     },
     "EL": {
-      "SPANISH": "concluyó ",
-      "ENGLISH": "s/he concluded, you (formal) concluded"
+      "SPANISH": "Concluyó ",
+      "ENGLISH": "He concluded"
     },
     "ELLOS": {
-      "SPANISH": "concluyeron ",
-      "ENGLISH": "they concluded, you (plural formal) concluded"
+      "SPANISH": "Concluyeron ",
+      "ENGLISH": "They concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "concluimos",
-      "ENGLISH": "we concluded"
+      "SPANISH": "Concluimos",
+      "ENGLISH": "We concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "concluisteis",
-      "ENGLISH": "you (plural) concluded"
+      "SPANISH": "Concluisteis",
+      "ENGLISH": "You concluded"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había concluido",
+      "SPANISH": "Había concluido",
       "ENGLISH": "I had concluded"
     },
     "TU": {
-      "SPANISH": "habías concluido",
-      "ENGLISH": "you had concluded"
+      "SPANISH": "Habías concluido",
+      "ENGLISH": "You had concluded"
     },
     "EL": {
-      "SPANISH": "había concluido",
-      "ENGLISH": "s/he had concluded, you (formal) had concluded"
+      "SPANISH": "Había concluido",
+      "ENGLISH": "He had concluded"
     },
     "ELLOS": {
-      "SPANISH": "habían concluido",
-      "ENGLISH": "they had concluded, you (plural formal) had concluded"
+      "SPANISH": "Habían concluido",
+      "ENGLISH": "They had concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos concluido",
-      "ENGLISH": "we had concluded"
+      "SPANISH": "Habíamos concluido",
+      "ENGLISH": "We had concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais concluido",
-      "ENGLISH": "you (plural) had concluded"
+      "SPANISH": "Habíais concluido",
+      "ENGLISH": "You had concluded"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "concluí",
+      "SPANISH": "Concluí",
       "ENGLISH": "I concluded"
     },
     "TU": {
-      "SPANISH": "concluiste",
-      "ENGLISH": "you concluded"
+      "SPANISH": "Concluiste",
+      "ENGLISH": "You concluded"
     },
     "EL": {
-      "SPANISH": "concluyó ",
-      "ENGLISH": "s/he concluded, you (formal) concluded"
+      "SPANISH": "Concluyó ",
+      "ENGLISH": "He concluded"
     },
     "ELLOS": {
-      "SPANISH": "concluyeron ",
-      "ENGLISH": "they concluded, you (plural formal) concluded"
+      "SPANISH": "Concluyeron ",
+      "ENGLISH": "They concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "concluimos",
-      "ENGLISH": "we concluded"
+      "SPANISH": "Concluimos",
+      "ENGLISH": "We concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "concluisteis",
-      "ENGLISH": "you (plural) concluded"
+      "SPANISH": "Concluisteis",
+      "ENGLISH": "You concluded"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "concluiré",
+      "SPANISH": "Concluiré",
       "ENGLISH": "I will conclude"
     },
     "TU": {
-      "SPANISH": "concluirás",
-      "ENGLISH": "you will conclude"
+      "SPANISH": "Concluirás",
+      "ENGLISH": "You will conclude"
     },
     "EL": {
-      "SPANISH": "concluirá",
-      "ENGLISH": "s/he will conclude, you (formal) will conclude"
+      "SPANISH": "Concluirá",
+      "ENGLISH": "He will conclude"
     },
     "ELLOS": {
-      "SPANISH": "concluirán",
-      "ENGLISH": "they will conclude, you (plural formal) will conclude"
+      "SPANISH": "Concluirán",
+      "ENGLISH": "They will conclude"
     },
     "NOSOTROS": {
-      "SPANISH": "concluiremos",
-      "ENGLISH": "we will conclude"
+      "SPANISH": "Concluiremos",
+      "ENGLISH": "We will conclude"
     },
     "VOSOTROS": {
-      "SPANISH": "concluiréis",
-      "ENGLISH": "you (plural) will conclude"
+      "SPANISH": "Concluiréis",
+      "ENGLISH": "You will conclude"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré concluido",
+      "SPANISH": "Habré concluido",
       "ENGLISH": "I will have concluded"
     },
     "TU": {
-      "SPANISH": "habrás concluido",
-      "ENGLISH": "you will have concluded"
+      "SPANISH": "Habrás concluido",
+      "ENGLISH": "You will have concluded"
     },
     "EL": {
-      "SPANISH": "habrá concluido",
-      "ENGLISH": "s/he will have concluded, you (formal) will have concluded"
+      "SPANISH": "Habrá concluido",
+      "ENGLISH": "He will have concluded"
     },
     "ELLOS": {
-      "SPANISH": "habrán concluido",
-      "ENGLISH": "they will have concluded, you (plural formal) will have concluded"
+      "SPANISH": "Habrán concluido",
+      "ENGLISH": "They will have concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos concluido",
-      "ENGLISH": "we will have concluded"
+      "SPANISH": "Habremos concluido",
+      "ENGLISH": "We will have concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis concluido",
-      "ENGLISH": "you (plural) will have concluded"
+      "SPANISH": "Habréis concluido",
+      "ENGLISH": "You will have concluded"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "concluiría",
+      "SPANISH": "Concluiría",
       "ENGLISH": "I would conclude"
     },
     "TU": {
-      "SPANISH": "concluirías",
-      "ENGLISH": "you would conclude"
+      "SPANISH": "Concluirías",
+      "ENGLISH": "You would conclude"
     },
     "EL": {
-      "SPANISH": "concluiría",
-      "ENGLISH": "s/he would conclude, you (formal) would conclude"
+      "SPANISH": "Concluiría",
+      "ENGLISH": "He would conclude"
     },
     "ELLOS": {
-      "SPANISH": "concluirían",
-      "ENGLISH": "they would conclude, you (plural formal) would conclude"
+      "SPANISH": "Concluirían",
+      "ENGLISH": "They would conclude"
     },
     "NOSOTROS": {
-      "SPANISH": "concluiríamos",
-      "ENGLISH": "we would conclude"
+      "SPANISH": "Concluiríamos",
+      "ENGLISH": "We would conclude"
     },
     "VOSOTROS": {
-      "SPANISH": "concluiríais",
-      "ENGLISH": "you (plural) would conclude"
+      "SPANISH": "Concluiríais",
+      "ENGLISH": "You would conclude"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría concluido",
+      "SPANISH": "Habría concluido",
       "ENGLISH": "I would have concluded"
     },
     "TU": {
-      "SPANISH": "habrías concluido",
-      "ENGLISH": "you would have concluded"
+      "SPANISH": "Habrías concluido",
+      "ENGLISH": "You would have concluded"
     },
     "EL": {
-      "SPANISH": "habría concluido",
-      "ENGLISH": "s/he would have concluded, you (formal) would have concluded"
+      "SPANISH": "Habría concluido",
+      "ENGLISH": "He would have concluded"
     },
     "ELLOS": {
-      "SPANISH": "habrían concluido",
-      "ENGLISH": "they would have concluded, you (plural formal) would have concluded"
+      "SPANISH": "Habrían concluido",
+      "ENGLISH": "They would have concluded"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos concluido",
-      "ENGLISH": "we would have concluded"
+      "SPANISH": "Habríamos concluido",
+      "ENGLISH": "We would have concluded"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais concluido",
-      "ENGLISH": "you (plural) would have concluded"
+      "SPANISH": "Habríais concluido",
+      "ENGLISH": "You would have concluded"
     }
   }
 }

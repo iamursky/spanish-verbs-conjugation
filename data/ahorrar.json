@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "ahorro",
+      "SPANISH": "Ahorro",
       "ENGLISH": "I save"
     },
     "TU": {
-      "SPANISH": "ahorras",
-      "ENGLISH": "you save"
+      "SPANISH": "Ahorras",
+      "ENGLISH": "You save"
     },
     "EL": {
-      "SPANISH": "ahorra",
-      "ENGLISH": "s/he saves, you (formal) saves"
+      "SPANISH": "Ahorra",
+      "ENGLISH": "He saves"
     },
     "ELLOS": {
-      "SPANISH": "ahorran",
-      "ENGLISH": "they save, you (plural formal) save"
+      "SPANISH": "Ahorran",
+      "ENGLISH": "They save"
     },
     "NOSOTROS": {
-      "SPANISH": "ahorramos",
-      "ENGLISH": "we save"
+      "SPANISH": "Ahorramos",
+      "ENGLISH": "We save"
     },
     "VOSOTROS": {
-      "SPANISH": "ahorráis",
-      "ENGLISH": "you (plural) save"
+      "SPANISH": "Ahorráis",
+      "ENGLISH": "You save"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he ahorrado",
+      "SPANISH": "He ahorrado",
       "ENGLISH": "I have saved"
     },
     "TU": {
-      "SPANISH": "has ahorrado",
-      "ENGLISH": "you have saved"
+      "SPANISH": "Has ahorrado",
+      "ENGLISH": "You have saved"
     },
     "EL": {
-      "SPANISH": "ha ahorrado",
-      "ENGLISH": "s/he has saved, you (formal) have saved"
+      "SPANISH": "Ha ahorrado",
+      "ENGLISH": "He has saved"
     },
     "ELLOS": {
-      "SPANISH": "han ahorrado",
-      "ENGLISH": "they have saved, you (plural formal) have saved"
+      "SPANISH": "Han ahorrado",
+      "ENGLISH": "They have saved"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos ahorrado",
-      "ENGLISH": "we have saved"
+      "SPANISH": "Hemos ahorrado",
+      "ENGLISH": "We have saved"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis ahorrado",
-      "ENGLISH": "you (plural) have saved"
+      "SPANISH": "Habéis ahorrado",
+      "ENGLISH": "You have saved"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "ahorré",
+      "SPANISH": "Ahorré",
       "ENGLISH": "I saved"
     },
     "TU": {
-      "SPANISH": "ahorraste",
-      "ENGLISH": "you saved"
+      "SPANISH": "Ahorraste",
+      "ENGLISH": "You saved"
     },
     "EL": {
-      "SPANISH": "ahorró",
-      "ENGLISH": "s/he saved, you (formal) saved"
+      "SPANISH": "Ahorró",
+      "ENGLISH": "He saved"
     },
     "ELLOS": {
-      "SPANISH": "ahorraron",
-      "ENGLISH": "they saved, you (plural formal) saved"
+      "SPANISH": "Ahorraron",
+      "ENGLISH": "They saved"
     },
     "NOSOTROS": {
-      "SPANISH": "ahorramos",
-      "ENGLISH": "we saved"
+      "SPANISH": "Ahorramos",
+      "ENGLISH": "We saved"
     },
     "VOSOTROS": {
-      "SPANISH": "ahorrasteis",
-      "ENGLISH": "you (plural) saved"
+      "SPANISH": "Ahorrasteis",
+      "ENGLISH": "You saved"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había ahorrado",
+      "SPANISH": "Había ahorrado",
       "ENGLISH": "I had saved"
     },
     "TU": {
-      "SPANISH": "habías ahorrado",
-      "ENGLISH": "you had saved"
+      "SPANISH": "Habías ahorrado",
+      "ENGLISH": "You had saved"
     },
     "EL": {
-      "SPANISH": "había ahorrado",
-      "ENGLISH": "s/he had saved, you (formal) had saved"
+      "SPANISH": "Había ahorrado",
+      "ENGLISH": "He had saved"
     },
     "ELLOS": {
-      "SPANISH": "habían ahorrado",
-      "ENGLISH": "they had saved, you (plural formal) had saved"
+      "SPANISH": "Habían ahorrado",
+      "ENGLISH": "They had saved"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos ahorrado",
-      "ENGLISH": "we had saved"
+      "SPANISH": "Habíamos ahorrado",
+      "ENGLISH": "We had saved"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais ahorrado",
-      "ENGLISH": "you (plural) had saved"
+      "SPANISH": "Habíais ahorrado",
+      "ENGLISH": "You had saved"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "ahorré",
+      "SPANISH": "Ahorré",
       "ENGLISH": "I saved"
     },
     "TU": {
-      "SPANISH": "ahorraste",
-      "ENGLISH": "you saved"
+      "SPANISH": "Ahorraste",
+      "ENGLISH": "You saved"
     },
     "EL": {
-      "SPANISH": "ahorró",
-      "ENGLISH": "s/he saved, you (formal) saved"
+      "SPANISH": "Ahorró",
+      "ENGLISH": "He saved"
     },
     "ELLOS": {
-      "SPANISH": "ahorraron",
-      "ENGLISH": "they saved, you (plural formal) saved"
+      "SPANISH": "Ahorraron",
+      "ENGLISH": "They saved"
     },
     "NOSOTROS": {
-      "SPANISH": "ahorramos",
-      "ENGLISH": "we saved"
+      "SPANISH": "Ahorramos",
+      "ENGLISH": "We saved"
     },
     "VOSOTROS": {
-      "SPANISH": "ahorrasteis",
-      "ENGLISH": "you (plural) saved"
+      "SPANISH": "Ahorrasteis",
+      "ENGLISH": "You saved"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "ahorraré",
+      "SPANISH": "Ahorraré",
       "ENGLISH": "I will save"
     },
     "TU": {
-      "SPANISH": "ahorrarás",
-      "ENGLISH": "you will save"
+      "SPANISH": "Ahorrarás",
+      "ENGLISH": "You will save"
     },
     "EL": {
-      "SPANISH": "ahorrará",
-      "ENGLISH": "s/he will save, you (formal) will save"
+      "SPANISH": "Ahorrará",
+      "ENGLISH": "He will save"
     },
     "ELLOS": {
-      "SPANISH": "ahorrarán",
-      "ENGLISH": "they will save, you (plural formal) will save"
+      "SPANISH": "Ahorrarán",
+      "ENGLISH": "They will save"
     },
     "NOSOTROS": {
-      "SPANISH": "ahorraremos",
-      "ENGLISH": "we will save"
+      "SPANISH": "Ahorraremos",
+      "ENGLISH": "We will save"
     },
     "VOSOTROS": {
-      "SPANISH": "ahorraréis",
-      "ENGLISH": "you (plural) will save"
+      "SPANISH": "Ahorraréis",
+      "ENGLISH": "You will save"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré ahorrado",
+      "SPANISH": "Habré ahorrado",
       "ENGLISH": "I will have saved"
     },
     "TU": {
-      "SPANISH": "habrás ahorrado",
-      "ENGLISH": "you will have saved"
+      "SPANISH": "Habrás ahorrado",
+      "ENGLISH": "You will have saved"
     },
     "EL": {
-      "SPANISH": "habrá ahorrado",
-      "ENGLISH": "s/he will have saved, you (formal) will have saved"
+      "SPANISH": "Habrá ahorrado",
+      "ENGLISH": "He will have saved"
     },
     "ELLOS": {
-      "SPANISH": "habrán ahorrado",
-      "ENGLISH": "they will have saved, you (plural formal) will have saved"
+      "SPANISH": "Habrán ahorrado",
+      "ENGLISH": "They will have saved"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos ahorrado",
-      "ENGLISH": "we will have saved"
+      "SPANISH": "Habremos ahorrado",
+      "ENGLISH": "We will have saved"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis ahorrado",
-      "ENGLISH": "you (plural) will have saved"
+      "SPANISH": "Habréis ahorrado",
+      "ENGLISH": "You will have saved"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "ahorraría",
+      "SPANISH": "Ahorraría",
       "ENGLISH": "I would save"
     },
     "TU": {
-      "SPANISH": "ahorrarías",
-      "ENGLISH": "you would save"
+      "SPANISH": "Ahorrarías",
+      "ENGLISH": "You would save"
     },
     "EL": {
-      "SPANISH": "ahorraría",
-      "ENGLISH": "s/he would save, you (formal) would save"
+      "SPANISH": "Ahorraría",
+      "ENGLISH": "He would save"
     },
     "ELLOS": {
-      "SPANISH": "ahorrarían",
-      "ENGLISH": "they would save, you (plural formal) would save"
+      "SPANISH": "Ahorrarían",
+      "ENGLISH": "They would save"
     },
     "NOSOTROS": {
-      "SPANISH": "ahorraríamos",
-      "ENGLISH": "we would save"
+      "SPANISH": "Ahorraríamos",
+      "ENGLISH": "We would save"
     },
     "VOSOTROS": {
-      "SPANISH": "ahorraríais",
-      "ENGLISH": "you (plural) would save"
+      "SPANISH": "Ahorraríais",
+      "ENGLISH": "You would save"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría ahorrado",
+      "SPANISH": "Habría ahorrado",
       "ENGLISH": "I would have saved"
     },
     "TU": {
-      "SPANISH": "habrías ahorrado",
-      "ENGLISH": "you would have saved"
+      "SPANISH": "Habrías ahorrado",
+      "ENGLISH": "You would have saved"
     },
     "EL": {
-      "SPANISH": "habría ahorrado",
-      "ENGLISH": "s/he would have saved, you (formal) would have saved"
+      "SPANISH": "Habría ahorrado",
+      "ENGLISH": "He would have saved"
     },
     "ELLOS": {
-      "SPANISH": "habrían ahorrado",
-      "ENGLISH": "they would have saved, you (plural formal) would have saved"
+      "SPANISH": "Habrían ahorrado",
+      "ENGLISH": "They would have saved"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos ahorrado",
-      "ENGLISH": "we would have saved"
+      "SPANISH": "Habríamos ahorrado",
+      "ENGLISH": "We would have saved"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais ahorrado",
-      "ENGLISH": "you (plural) would have saved"
+      "SPANISH": "Habríais ahorrado",
+      "ENGLISH": "You would have saved"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "abro",
+      "SPANISH": "Abro",
       "ENGLISH": "I open"
     },
     "TU": {
-      "SPANISH": "abres",
-      "ENGLISH": "you open"
+      "SPANISH": "Abres",
+      "ENGLISH": "You open"
     },
     "EL": {
-      "SPANISH": "abre",
-      "ENGLISH": "s/he opens, you (formal) opens"
+      "SPANISH": "Abre",
+      "ENGLISH": "He opens"
     },
     "ELLOS": {
-      "SPANISH": "abren",
-      "ENGLISH": "they open, you (plural formal) open"
+      "SPANISH": "Abren",
+      "ENGLISH": "They open"
     },
     "NOSOTROS": {
-      "SPANISH": "abrimos",
-      "ENGLISH": "we open"
+      "SPANISH": "Abrimos",
+      "ENGLISH": "We open"
     },
     "VOSOTROS": {
-      "SPANISH": "abrís",
-      "ENGLISH": "you (plural) open"
+      "SPANISH": "Abrís",
+      "ENGLISH": "You open"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he abierto ",
+      "SPANISH": "He abierto ",
       "ENGLISH": "I have opened"
     },
     "TU": {
-      "SPANISH": "has abierto ",
-      "ENGLISH": "you have opened"
+      "SPANISH": "Has abierto ",
+      "ENGLISH": "You have opened"
     },
     "EL": {
-      "SPANISH": "ha abierto ",
-      "ENGLISH": "s/he has opened, you (formal) have opened"
+      "SPANISH": "Ha abierto ",
+      "ENGLISH": "He has opened"
     },
     "ELLOS": {
-      "SPANISH": "han abierto ",
-      "ENGLISH": "they have opened, you (plural formal) have opened"
+      "SPANISH": "Han abierto ",
+      "ENGLISH": "They have opened"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos abierto ",
-      "ENGLISH": "we have opened"
+      "SPANISH": "Hemos abierto ",
+      "ENGLISH": "We have opened"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis abierto ",
-      "ENGLISH": "you (plural) have opened"
+      "SPANISH": "Habéis abierto ",
+      "ENGLISH": "You have opened"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "abrí",
+      "SPANISH": "Abrí",
       "ENGLISH": "I opened"
     },
     "TU": {
-      "SPANISH": "abriste",
-      "ENGLISH": "you opened"
+      "SPANISH": "Abriste",
+      "ENGLISH": "You opened"
     },
     "EL": {
-      "SPANISH": "abrió",
-      "ENGLISH": "s/he opened, you (formal) opened"
+      "SPANISH": "Abrió",
+      "ENGLISH": "He opened"
     },
     "ELLOS": {
-      "SPANISH": "abrieron",
-      "ENGLISH": "they opened, you (plural formal) opened"
+      "SPANISH": "Abrieron",
+      "ENGLISH": "They opened"
     },
     "NOSOTROS": {
-      "SPANISH": "abrimos",
-      "ENGLISH": "we opened"
+      "SPANISH": "Abrimos",
+      "ENGLISH": "We opened"
     },
     "VOSOTROS": {
-      "SPANISH": "abristeis",
-      "ENGLISH": "you (plural) opened"
+      "SPANISH": "Abristeis",
+      "ENGLISH": "You opened"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había abierto ",
+      "SPANISH": "Había abierto ",
       "ENGLISH": "I had opened"
     },
     "TU": {
-      "SPANISH": "habías abierto ",
-      "ENGLISH": "you had opened"
+      "SPANISH": "Habías abierto ",
+      "ENGLISH": "You had opened"
     },
     "EL": {
-      "SPANISH": "había abierto ",
-      "ENGLISH": "s/he had opened, you (formal) had opened"
+      "SPANISH": "Había abierto ",
+      "ENGLISH": "He had opened"
     },
     "ELLOS": {
-      "SPANISH": "habían abierto ",
-      "ENGLISH": "they had opened, you (plural formal) had opened"
+      "SPANISH": "Habían abierto ",
+      "ENGLISH": "They had opened"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos abierto ",
-      "ENGLISH": "we had opened"
+      "SPANISH": "Habíamos abierto ",
+      "ENGLISH": "We had opened"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais abierto ",
-      "ENGLISH": "you (plural) had opened"
+      "SPANISH": "Habíais abierto ",
+      "ENGLISH": "You had opened"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "abrí",
+      "SPANISH": "Abrí",
       "ENGLISH": "I opened"
     },
     "TU": {
-      "SPANISH": "abriste",
-      "ENGLISH": "you opened"
+      "SPANISH": "Abriste",
+      "ENGLISH": "You opened"
     },
     "EL": {
-      "SPANISH": "abrió",
-      "ENGLISH": "s/he opened, you (formal) opened"
+      "SPANISH": "Abrió",
+      "ENGLISH": "He opened"
     },
     "ELLOS": {
-      "SPANISH": "abrieron",
-      "ENGLISH": "they opened, you (plural formal) opened"
+      "SPANISH": "Abrieron",
+      "ENGLISH": "They opened"
     },
     "NOSOTROS": {
-      "SPANISH": "abrimos",
-      "ENGLISH": "we opened"
+      "SPANISH": "Abrimos",
+      "ENGLISH": "We opened"
     },
     "VOSOTROS": {
-      "SPANISH": "abristeis",
-      "ENGLISH": "you (plural) opened"
+      "SPANISH": "Abristeis",
+      "ENGLISH": "You opened"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "abriré",
+      "SPANISH": "Abriré",
       "ENGLISH": "I will open"
     },
     "TU": {
-      "SPANISH": "abrirás",
-      "ENGLISH": "you will open"
+      "SPANISH": "Abrirás",
+      "ENGLISH": "You will open"
     },
     "EL": {
-      "SPANISH": "abrirá",
-      "ENGLISH": "s/he will open, you (formal) will open"
+      "SPANISH": "Abrirá",
+      "ENGLISH": "He will open"
     },
     "ELLOS": {
-      "SPANISH": "abrirán",
-      "ENGLISH": "they will open, you (plural formal) will open"
+      "SPANISH": "Abrirán",
+      "ENGLISH": "They will open"
     },
     "NOSOTROS": {
-      "SPANISH": "abriremos",
-      "ENGLISH": "we will open"
+      "SPANISH": "Abriremos",
+      "ENGLISH": "We will open"
     },
     "VOSOTROS": {
-      "SPANISH": "abriréis",
-      "ENGLISH": "you (plural) will open"
+      "SPANISH": "Abriréis",
+      "ENGLISH": "You will open"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré abierto ",
+      "SPANISH": "Habré abierto ",
       "ENGLISH": "I will have opened"
     },
     "TU": {
-      "SPANISH": "habrás abierto ",
-      "ENGLISH": "you will have opened"
+      "SPANISH": "Habrás abierto ",
+      "ENGLISH": "You will have opened"
     },
     "EL": {
-      "SPANISH": "habrá abierto ",
-      "ENGLISH": "s/he will have opened, you (formal) will have opened"
+      "SPANISH": "Habrá abierto ",
+      "ENGLISH": "He will have opened"
     },
     "ELLOS": {
-      "SPANISH": "habrán abierto ",
-      "ENGLISH": "they will have opened, you (plural formal) will have opened"
+      "SPANISH": "Habrán abierto ",
+      "ENGLISH": "They will have opened"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos abierto ",
-      "ENGLISH": "we will have opened"
+      "SPANISH": "Habremos abierto ",
+      "ENGLISH": "We will have opened"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis abierto ",
-      "ENGLISH": "you (plural) will have opened"
+      "SPANISH": "Habréis abierto ",
+      "ENGLISH": "You will have opened"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "abriría",
+      "SPANISH": "Abriría",
       "ENGLISH": "I would open"
     },
     "TU": {
-      "SPANISH": "abrirías",
-      "ENGLISH": "you would open"
+      "SPANISH": "Abrirías",
+      "ENGLISH": "You would open"
     },
     "EL": {
-      "SPANISH": "abriría",
-      "ENGLISH": "s/he would open, you (formal) would open"
+      "SPANISH": "Abriría",
+      "ENGLISH": "He would open"
     },
     "ELLOS": {
-      "SPANISH": "abrirían",
-      "ENGLISH": "they would open, you (plural formal) would open"
+      "SPANISH": "Abrirían",
+      "ENGLISH": "They would open"
     },
     "NOSOTROS": {
-      "SPANISH": "abriríamos",
-      "ENGLISH": "we would open"
+      "SPANISH": "Abriríamos",
+      "ENGLISH": "We would open"
     },
     "VOSOTROS": {
-      "SPANISH": "abriríais",
-      "ENGLISH": "you (plural) would open"
+      "SPANISH": "Abriríais",
+      "ENGLISH": "You would open"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría abierto ",
+      "SPANISH": "Habría abierto ",
       "ENGLISH": "I would have opened"
     },
     "TU": {
-      "SPANISH": "habrías abierto ",
-      "ENGLISH": "you would have opened"
+      "SPANISH": "Habrías abierto ",
+      "ENGLISH": "You would have opened"
     },
     "EL": {
-      "SPANISH": "habría abierto ",
-      "ENGLISH": "s/he would have opened, you (formal) would have opened"
+      "SPANISH": "Habría abierto ",
+      "ENGLISH": "He would have opened"
     },
     "ELLOS": {
-      "SPANISH": "habrían abierto ",
-      "ENGLISH": "they would have opened, you (plural formal) would have opened"
+      "SPANISH": "Habrían abierto ",
+      "ENGLISH": "They would have opened"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos abierto ",
-      "ENGLISH": "we would have opened"
+      "SPANISH": "Habríamos abierto ",
+      "ENGLISH": "We would have opened"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais abierto ",
-      "ENGLISH": "you (plural) would have opened"
+      "SPANISH": "Habríais abierto ",
+      "ENGLISH": "You would have opened"
     }
   }
 }

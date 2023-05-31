@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "inicio",
+      "SPANISH": "Inicio",
       "ENGLISH": "I start"
     },
     "TU": {
-      "SPANISH": "inicias",
-      "ENGLISH": "you start"
+      "SPANISH": "Inicias",
+      "ENGLISH": "You start"
     },
     "EL": {
-      "SPANISH": "inicia",
-      "ENGLISH": "s/he starts, you (formal) starts"
+      "SPANISH": "Inicia",
+      "ENGLISH": "He starts"
     },
     "ELLOS": {
-      "SPANISH": "inician",
-      "ENGLISH": "they start, you (plural formal) start"
+      "SPANISH": "Inician",
+      "ENGLISH": "They start"
     },
     "NOSOTROS": {
-      "SPANISH": "iniciamos",
-      "ENGLISH": "we start"
+      "SPANISH": "Iniciamos",
+      "ENGLISH": "We start"
     },
     "VOSOTROS": {
-      "SPANISH": "iniciáis",
-      "ENGLISH": "you (plural) start"
+      "SPANISH": "Iniciáis",
+      "ENGLISH": "You start"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he iniciado",
+      "SPANISH": "He iniciado",
       "ENGLISH": "I have started"
     },
     "TU": {
-      "SPANISH": "has iniciado",
-      "ENGLISH": "you have started"
+      "SPANISH": "Has iniciado",
+      "ENGLISH": "You have started"
     },
     "EL": {
-      "SPANISH": "ha iniciado",
-      "ENGLISH": "s/he has started, you (formal) have started"
+      "SPANISH": "Ha iniciado",
+      "ENGLISH": "He has started"
     },
     "ELLOS": {
-      "SPANISH": "han iniciado",
-      "ENGLISH": "they have started, you (plural formal) have started"
+      "SPANISH": "Han iniciado",
+      "ENGLISH": "They have started"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos iniciado",
-      "ENGLISH": "we have started"
+      "SPANISH": "Hemos iniciado",
+      "ENGLISH": "We have started"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis iniciado",
-      "ENGLISH": "you (plural) have started"
+      "SPANISH": "Habéis iniciado",
+      "ENGLISH": "You have started"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "inicié",
+      "SPANISH": "Inicié",
       "ENGLISH": "I started"
     },
     "TU": {
-      "SPANISH": "iniciaste",
-      "ENGLISH": "you started"
+      "SPANISH": "Iniciaste",
+      "ENGLISH": "You started"
     },
     "EL": {
-      "SPANISH": "inició",
-      "ENGLISH": "s/he started, you (formal) started"
+      "SPANISH": "Inició",
+      "ENGLISH": "He started"
     },
     "ELLOS": {
-      "SPANISH": "iniciaron",
-      "ENGLISH": "they started, you (plural formal) started"
+      "SPANISH": "Iniciaron",
+      "ENGLISH": "They started"
     },
     "NOSOTROS": {
-      "SPANISH": "iniciamos",
-      "ENGLISH": "we started"
+      "SPANISH": "Iniciamos",
+      "ENGLISH": "We started"
     },
     "VOSOTROS": {
-      "SPANISH": "iniciasteis",
-      "ENGLISH": "you (plural) started"
+      "SPANISH": "Iniciasteis",
+      "ENGLISH": "You started"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había iniciado",
+      "SPANISH": "Había iniciado",
       "ENGLISH": "I had started"
     },
     "TU": {
-      "SPANISH": "habías iniciado",
-      "ENGLISH": "you had started"
+      "SPANISH": "Habías iniciado",
+      "ENGLISH": "You had started"
     },
     "EL": {
-      "SPANISH": "había iniciado",
-      "ENGLISH": "s/he had started, you (formal) had started"
+      "SPANISH": "Había iniciado",
+      "ENGLISH": "He had started"
     },
     "ELLOS": {
-      "SPANISH": "habían iniciado",
-      "ENGLISH": "they had started, you (plural formal) had started"
+      "SPANISH": "Habían iniciado",
+      "ENGLISH": "They had started"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos iniciado",
-      "ENGLISH": "we had started"
+      "SPANISH": "Habíamos iniciado",
+      "ENGLISH": "We had started"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais iniciado",
-      "ENGLISH": "you (plural) had started"
+      "SPANISH": "Habíais iniciado",
+      "ENGLISH": "You had started"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "inicié",
+      "SPANISH": "Inicié",
       "ENGLISH": "I started"
     },
     "TU": {
-      "SPANISH": "iniciaste",
-      "ENGLISH": "you started"
+      "SPANISH": "Iniciaste",
+      "ENGLISH": "You started"
     },
     "EL": {
-      "SPANISH": "inició",
-      "ENGLISH": "s/he started, you (formal) started"
+      "SPANISH": "Inició",
+      "ENGLISH": "He started"
     },
     "ELLOS": {
-      "SPANISH": "iniciaron",
-      "ENGLISH": "they started, you (plural formal) started"
+      "SPANISH": "Iniciaron",
+      "ENGLISH": "They started"
     },
     "NOSOTROS": {
-      "SPANISH": "iniciamos",
-      "ENGLISH": "we started"
+      "SPANISH": "Iniciamos",
+      "ENGLISH": "We started"
     },
     "VOSOTROS": {
-      "SPANISH": "iniciasteis",
-      "ENGLISH": "you (plural) started"
+      "SPANISH": "Iniciasteis",
+      "ENGLISH": "You started"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "iniciaré",
+      "SPANISH": "Iniciaré",
       "ENGLISH": "I will start"
     },
     "TU": {
-      "SPANISH": "iniciarás",
-      "ENGLISH": "you will start"
+      "SPANISH": "Iniciarás",
+      "ENGLISH": "You will start"
     },
     "EL": {
-      "SPANISH": "iniciará",
-      "ENGLISH": "s/he will start, you (formal) will start"
+      "SPANISH": "Iniciará",
+      "ENGLISH": "He will start"
     },
     "ELLOS": {
-      "SPANISH": "iniciarán",
-      "ENGLISH": "they will start, you (plural formal) will start"
+      "SPANISH": "Iniciarán",
+      "ENGLISH": "They will start"
     },
     "NOSOTROS": {
-      "SPANISH": "iniciaremos",
-      "ENGLISH": "we will start"
+      "SPANISH": "Iniciaremos",
+      "ENGLISH": "We will start"
     },
     "VOSOTROS": {
-      "SPANISH": "iniciaréis",
-      "ENGLISH": "you (plural) will start"
+      "SPANISH": "Iniciaréis",
+      "ENGLISH": "You will start"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré iniciado",
+      "SPANISH": "Habré iniciado",
       "ENGLISH": "I will have started"
     },
     "TU": {
-      "SPANISH": "habrás iniciado",
-      "ENGLISH": "you will have started"
+      "SPANISH": "Habrás iniciado",
+      "ENGLISH": "You will have started"
     },
     "EL": {
-      "SPANISH": "habrá iniciado",
-      "ENGLISH": "s/he will have started, you (formal) will have started"
+      "SPANISH": "Habrá iniciado",
+      "ENGLISH": "He will have started"
     },
     "ELLOS": {
-      "SPANISH": "habrán iniciado",
-      "ENGLISH": "they will have started, you (plural formal) will have started"
+      "SPANISH": "Habrán iniciado",
+      "ENGLISH": "They will have started"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos iniciado",
-      "ENGLISH": "we will have started"
+      "SPANISH": "Habremos iniciado",
+      "ENGLISH": "We will have started"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis iniciado",
-      "ENGLISH": "you (plural) will have started"
+      "SPANISH": "Habréis iniciado",
+      "ENGLISH": "You will have started"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "iniciaría",
+      "SPANISH": "Iniciaría",
       "ENGLISH": "I would start"
     },
     "TU": {
-      "SPANISH": "iniciarías",
-      "ENGLISH": "you would start"
+      "SPANISH": "Iniciarías",
+      "ENGLISH": "You would start"
     },
     "EL": {
-      "SPANISH": "iniciaría",
-      "ENGLISH": "s/he would start, you (formal) would start"
+      "SPANISH": "Iniciaría",
+      "ENGLISH": "He would start"
     },
     "ELLOS": {
-      "SPANISH": "iniciarían",
-      "ENGLISH": "they would start, you (plural formal) would start"
+      "SPANISH": "Iniciarían",
+      "ENGLISH": "They would start"
     },
     "NOSOTROS": {
-      "SPANISH": "iniciaríamos",
-      "ENGLISH": "we would start"
+      "SPANISH": "Iniciaríamos",
+      "ENGLISH": "We would start"
     },
     "VOSOTROS": {
-      "SPANISH": "iniciaríais",
-      "ENGLISH": "you (plural) would start"
+      "SPANISH": "Iniciaríais",
+      "ENGLISH": "You would start"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría iniciado",
+      "SPANISH": "Habría iniciado",
       "ENGLISH": "I would have started"
     },
     "TU": {
-      "SPANISH": "habrías iniciado",
-      "ENGLISH": "you would have started"
+      "SPANISH": "Habrías iniciado",
+      "ENGLISH": "You would have started"
     },
     "EL": {
-      "SPANISH": "habría iniciado",
-      "ENGLISH": "s/he would have started, you (formal) would have started"
+      "SPANISH": "Habría iniciado",
+      "ENGLISH": "He would have started"
     },
     "ELLOS": {
-      "SPANISH": "habrían iniciado",
-      "ENGLISH": "they would have started, you (plural formal) would have started"
+      "SPANISH": "Habrían iniciado",
+      "ENGLISH": "They would have started"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos iniciado",
-      "ENGLISH": "we would have started"
+      "SPANISH": "Habríamos iniciado",
+      "ENGLISH": "We would have started"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais iniciado",
-      "ENGLISH": "you (plural) would have started"
+      "SPANISH": "Habríais iniciado",
+      "ENGLISH": "You would have started"
     }
   }
 }

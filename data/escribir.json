@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "escribo",
+      "SPANISH": "Escribo",
       "ENGLISH": "I write"
     },
     "TU": {
-      "SPANISH": "escribes",
-      "ENGLISH": "you write"
+      "SPANISH": "Escribes",
+      "ENGLISH": "You write"
     },
     "EL": {
-      "SPANISH": "escribe",
-      "ENGLISH": "s/he writes, you (formal) writes"
+      "SPANISH": "Escribe",
+      "ENGLISH": "He writes"
     },
     "ELLOS": {
-      "SPANISH": "escriben",
-      "ENGLISH": "they write, you (plural formal) write"
+      "SPANISH": "Escriben",
+      "ENGLISH": "They write"
     },
     "NOSOTROS": {
-      "SPANISH": "escribimos",
-      "ENGLISH": "we write"
+      "SPANISH": "Escribimos",
+      "ENGLISH": "We write"
     },
     "VOSOTROS": {
-      "SPANISH": "escribís",
-      "ENGLISH": "you (plural) write"
+      "SPANISH": "Escribís",
+      "ENGLISH": "You write"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he escrito ",
+      "SPANISH": "He escrito ",
       "ENGLISH": "I have written"
     },
     "TU": {
-      "SPANISH": "has escrito ",
-      "ENGLISH": "you have written"
+      "SPANISH": "Has escrito ",
+      "ENGLISH": "You have written"
     },
     "EL": {
-      "SPANISH": "ha escrito ",
-      "ENGLISH": "s/he has written, you (formal) have written"
+      "SPANISH": "Ha escrito ",
+      "ENGLISH": "He has written"
     },
     "ELLOS": {
-      "SPANISH": "han escrito ",
-      "ENGLISH": "they have written, you (plural formal) have written"
+      "SPANISH": "Han escrito ",
+      "ENGLISH": "They have written"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos escrito ",
-      "ENGLISH": "we have written"
+      "SPANISH": "Hemos escrito ",
+      "ENGLISH": "We have written"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis escrito ",
-      "ENGLISH": "you (plural) have written"
+      "SPANISH": "Habéis escrito ",
+      "ENGLISH": "You have written"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "escribí",
+      "SPANISH": "Escribí",
       "ENGLISH": "I wrote"
     },
     "TU": {
-      "SPANISH": "escribiste",
-      "ENGLISH": "you wrote"
+      "SPANISH": "Escribiste",
+      "ENGLISH": "You wrote"
     },
     "EL": {
-      "SPANISH": "escribió",
-      "ENGLISH": "s/he wrote, you (formal) wrote"
+      "SPANISH": "Escribió",
+      "ENGLISH": "He wrote"
     },
     "ELLOS": {
-      "SPANISH": "escribieron",
-      "ENGLISH": "they wrote, you (plural formal) wrote"
+      "SPANISH": "Escribieron",
+      "ENGLISH": "They wrote"
     },
     "NOSOTROS": {
-      "SPANISH": "escribimos",
-      "ENGLISH": "we wrote"
+      "SPANISH": "Escribimos",
+      "ENGLISH": "We wrote"
     },
     "VOSOTROS": {
-      "SPANISH": "escribisteis",
-      "ENGLISH": "you (plural) wrote"
+      "SPANISH": "Escribisteis",
+      "ENGLISH": "You wrote"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había escrito ",
+      "SPANISH": "Había escrito ",
       "ENGLISH": "I had written"
     },
     "TU": {
-      "SPANISH": "habías escrito ",
-      "ENGLISH": "you had written"
+      "SPANISH": "Habías escrito ",
+      "ENGLISH": "You had written"
     },
     "EL": {
-      "SPANISH": "había escrito ",
-      "ENGLISH": "s/he had written, you (formal) had written"
+      "SPANISH": "Había escrito ",
+      "ENGLISH": "He had written"
     },
     "ELLOS": {
-      "SPANISH": "habían escrito ",
-      "ENGLISH": "they had written, you (plural formal) had written"
+      "SPANISH": "Habían escrito ",
+      "ENGLISH": "They had written"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos escrito ",
-      "ENGLISH": "we had written"
+      "SPANISH": "Habíamos escrito ",
+      "ENGLISH": "We had written"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais escrito ",
-      "ENGLISH": "you (plural) had written"
+      "SPANISH": "Habíais escrito ",
+      "ENGLISH": "You had written"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "escribí",
+      "SPANISH": "Escribí",
       "ENGLISH": "I wrote"
     },
     "TU": {
-      "SPANISH": "escribiste",
-      "ENGLISH": "you wrote"
+      "SPANISH": "Escribiste",
+      "ENGLISH": "You wrote"
     },
     "EL": {
-      "SPANISH": "escribió",
-      "ENGLISH": "s/he wrote, you (formal) wrote"
+      "SPANISH": "Escribió",
+      "ENGLISH": "He wrote"
     },
     "ELLOS": {
-      "SPANISH": "escribieron",
-      "ENGLISH": "they wrote, you (plural formal) wrote"
+      "SPANISH": "Escribieron",
+      "ENGLISH": "They wrote"
     },
     "NOSOTROS": {
-      "SPANISH": "escribimos",
-      "ENGLISH": "we wrote"
+      "SPANISH": "Escribimos",
+      "ENGLISH": "We wrote"
     },
     "VOSOTROS": {
-      "SPANISH": "escribisteis",
-      "ENGLISH": "you (plural) wrote"
+      "SPANISH": "Escribisteis",
+      "ENGLISH": "You wrote"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "escribiré",
+      "SPANISH": "Escribiré",
       "ENGLISH": "I will write"
     },
     "TU": {
-      "SPANISH": "escribirás",
-      "ENGLISH": "you will write"
+      "SPANISH": "Escribirás",
+      "ENGLISH": "You will write"
     },
     "EL": {
-      "SPANISH": "escribirá",
-      "ENGLISH": "s/he will write, you (formal) will write"
+      "SPANISH": "Escribirá",
+      "ENGLISH": "He will write"
     },
     "ELLOS": {
-      "SPANISH": "escribirán",
-      "ENGLISH": "they will write, you (plural formal) will write"
+      "SPANISH": "Escribirán",
+      "ENGLISH": "They will write"
     },
     "NOSOTROS": {
-      "SPANISH": "escribiremos",
-      "ENGLISH": "we will write"
+      "SPANISH": "Escribiremos",
+      "ENGLISH": "We will write"
     },
     "VOSOTROS": {
-      "SPANISH": "escribiréis",
-      "ENGLISH": "you (plural) will write"
+      "SPANISH": "Escribiréis",
+      "ENGLISH": "You will write"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré escrito ",
+      "SPANISH": "Habré escrito ",
       "ENGLISH": "I will have written"
     },
     "TU": {
-      "SPANISH": "habrás escrito ",
-      "ENGLISH": "you will have written"
+      "SPANISH": "Habrás escrito ",
+      "ENGLISH": "You will have written"
     },
     "EL": {
-      "SPANISH": "habrá escrito ",
-      "ENGLISH": "s/he will have written, you (formal) will have written"
+      "SPANISH": "Habrá escrito ",
+      "ENGLISH": "He will have written"
     },
     "ELLOS": {
-      "SPANISH": "habrán escrito ",
-      "ENGLISH": "they will have written, you (plural formal) will have written"
+      "SPANISH": "Habrán escrito ",
+      "ENGLISH": "They will have written"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos escrito ",
-      "ENGLISH": "we will have written"
+      "SPANISH": "Habremos escrito ",
+      "ENGLISH": "We will have written"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis escrito ",
-      "ENGLISH": "you (plural) will have written"
+      "SPANISH": "Habréis escrito ",
+      "ENGLISH": "You will have written"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "escribiría",
+      "SPANISH": "Escribiría",
       "ENGLISH": "I would write"
     },
     "TU": {
-      "SPANISH": "escribirías",
-      "ENGLISH": "you would write"
+      "SPANISH": "Escribirías",
+      "ENGLISH": "You would write"
     },
     "EL": {
-      "SPANISH": "escribiría",
-      "ENGLISH": "s/he would write, you (formal) would write"
+      "SPANISH": "Escribiría",
+      "ENGLISH": "He would write"
     },
     "ELLOS": {
-      "SPANISH": "escribirían",
-      "ENGLISH": "they would write, you (plural formal) would write"
+      "SPANISH": "Escribirían",
+      "ENGLISH": "They would write"
     },
     "NOSOTROS": {
-      "SPANISH": "escribiríamos",
-      "ENGLISH": "we would write"
+      "SPANISH": "Escribiríamos",
+      "ENGLISH": "We would write"
     },
     "VOSOTROS": {
-      "SPANISH": "escribiríais",
-      "ENGLISH": "you (plural) would write"
+      "SPANISH": "Escribiríais",
+      "ENGLISH": "You would write"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría escrito ",
+      "SPANISH": "Habría escrito ",
       "ENGLISH": "I would have written"
     },
     "TU": {
-      "SPANISH": "habrías escrito ",
-      "ENGLISH": "you would have written"
+      "SPANISH": "Habrías escrito ",
+      "ENGLISH": "You would have written"
     },
     "EL": {
-      "SPANISH": "habría escrito ",
-      "ENGLISH": "s/he would have written, you (formal) would have written"
+      "SPANISH": "Habría escrito ",
+      "ENGLISH": "He would have written"
     },
     "ELLOS": {
-      "SPANISH": "habrían escrito ",
-      "ENGLISH": "they would have written, you (plural formal) would have written"
+      "SPANISH": "Habrían escrito ",
+      "ENGLISH": "They would have written"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos escrito ",
-      "ENGLISH": "we would have written"
+      "SPANISH": "Habríamos escrito ",
+      "ENGLISH": "We would have written"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais escrito ",
-      "ENGLISH": "you (plural) would have written"
+      "SPANISH": "Habríais escrito ",
+      "ENGLISH": "You would have written"
     }
   }
 }

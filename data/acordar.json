@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "acuerdo ",
+      "SPANISH": "Acuerdo ",
       "ENGLISH": "I agree"
     },
     "TU": {
-      "SPANISH": "acuerdas ",
-      "ENGLISH": "you agree"
+      "SPANISH": "Acuerdas ",
+      "ENGLISH": "You agree"
     },
     "EL": {
-      "SPANISH": "acuerda ",
-      "ENGLISH": "s/he agrees, you (formal) agrees"
+      "SPANISH": "Acuerda ",
+      "ENGLISH": "He agrees"
     },
     "ELLOS": {
-      "SPANISH": "acuerdan ",
-      "ENGLISH": "they agree, you (plural formal) agree"
+      "SPANISH": "Acuerdan ",
+      "ENGLISH": "They agree"
     },
     "NOSOTROS": {
-      "SPANISH": "acordamos",
-      "ENGLISH": "we agree"
+      "SPANISH": "Acordamos",
+      "ENGLISH": "We agree"
     },
     "VOSOTROS": {
-      "SPANISH": "acordáis",
-      "ENGLISH": "you (plural) agree"
+      "SPANISH": "Acordáis",
+      "ENGLISH": "You agree"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he acordado",
+      "SPANISH": "He acordado",
       "ENGLISH": "I have agreed"
     },
     "TU": {
-      "SPANISH": "has acordado",
-      "ENGLISH": "you have agreed"
+      "SPANISH": "Has acordado",
+      "ENGLISH": "You have agreed"
     },
     "EL": {
-      "SPANISH": "ha acordado",
-      "ENGLISH": "s/he has agreed, you (formal) have agreed"
+      "SPANISH": "Ha acordado",
+      "ENGLISH": "He has agreed"
     },
     "ELLOS": {
-      "SPANISH": "han acordado",
-      "ENGLISH": "they have agreed, you (plural formal) have agreed"
+      "SPANISH": "Han acordado",
+      "ENGLISH": "They have agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos acordado",
-      "ENGLISH": "we have agreed"
+      "SPANISH": "Hemos acordado",
+      "ENGLISH": "We have agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis acordado",
-      "ENGLISH": "you (plural) have agreed"
+      "SPANISH": "Habéis acordado",
+      "ENGLISH": "You have agreed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "acordé",
+      "SPANISH": "Acordé",
       "ENGLISH": "I agreed"
     },
     "TU": {
-      "SPANISH": "acordaste",
-      "ENGLISH": "you agreed"
+      "SPANISH": "Acordaste",
+      "ENGLISH": "You agreed"
     },
     "EL": {
-      "SPANISH": "acordó",
-      "ENGLISH": "s/he agreed, you (formal) agreed"
+      "SPANISH": "Acordó",
+      "ENGLISH": "He agreed"
     },
     "ELLOS": {
-      "SPANISH": "acordaron",
-      "ENGLISH": "they agreed, you (plural formal) agreed"
+      "SPANISH": "Acordaron",
+      "ENGLISH": "They agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "acordamos",
-      "ENGLISH": "we agreed"
+      "SPANISH": "Acordamos",
+      "ENGLISH": "We agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "acordasteis",
-      "ENGLISH": "you (plural) agreed"
+      "SPANISH": "Acordasteis",
+      "ENGLISH": "You agreed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había acordado",
+      "SPANISH": "Había acordado",
       "ENGLISH": "I had agreed"
     },
     "TU": {
-      "SPANISH": "habías acordado",
-      "ENGLISH": "you had agreed"
+      "SPANISH": "Habías acordado",
+      "ENGLISH": "You had agreed"
     },
     "EL": {
-      "SPANISH": "había acordado",
-      "ENGLISH": "s/he had agreed, you (formal) had agreed"
+      "SPANISH": "Había acordado",
+      "ENGLISH": "He had agreed"
     },
     "ELLOS": {
-      "SPANISH": "habían acordado",
-      "ENGLISH": "they had agreed, you (plural formal) had agreed"
+      "SPANISH": "Habían acordado",
+      "ENGLISH": "They had agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos acordado",
-      "ENGLISH": "we had agreed"
+      "SPANISH": "Habíamos acordado",
+      "ENGLISH": "We had agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais acordado",
-      "ENGLISH": "you (plural) had agreed"
+      "SPANISH": "Habíais acordado",
+      "ENGLISH": "You had agreed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "acordé",
+      "SPANISH": "Acordé",
       "ENGLISH": "I agreed"
     },
     "TU": {
-      "SPANISH": "acordaste",
-      "ENGLISH": "you agreed"
+      "SPANISH": "Acordaste",
+      "ENGLISH": "You agreed"
     },
     "EL": {
-      "SPANISH": "acordó",
-      "ENGLISH": "s/he agreed, you (formal) agreed"
+      "SPANISH": "Acordó",
+      "ENGLISH": "He agreed"
     },
     "ELLOS": {
-      "SPANISH": "acordaron",
-      "ENGLISH": "they agreed, you (plural formal) agreed"
+      "SPANISH": "Acordaron",
+      "ENGLISH": "They agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "acordamos",
-      "ENGLISH": "we agreed"
+      "SPANISH": "Acordamos",
+      "ENGLISH": "We agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "acordasteis",
-      "ENGLISH": "you (plural) agreed"
+      "SPANISH": "Acordasteis",
+      "ENGLISH": "You agreed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "acordaré",
+      "SPANISH": "Acordaré",
       "ENGLISH": "I will agree"
     },
     "TU": {
-      "SPANISH": "acordarás",
-      "ENGLISH": "you will agree"
+      "SPANISH": "Acordarás",
+      "ENGLISH": "You will agree"
     },
     "EL": {
-      "SPANISH": "acordará",
-      "ENGLISH": "s/he will agree, you (formal) will agree"
+      "SPANISH": "Acordará",
+      "ENGLISH": "He will agree"
     },
     "ELLOS": {
-      "SPANISH": "acordarán",
-      "ENGLISH": "they will agree, you (plural formal) will agree"
+      "SPANISH": "Acordarán",
+      "ENGLISH": "They will agree"
     },
     "NOSOTROS": {
-      "SPANISH": "acordaremos",
-      "ENGLISH": "we will agree"
+      "SPANISH": "Acordaremos",
+      "ENGLISH": "We will agree"
     },
     "VOSOTROS": {
-      "SPANISH": "acordaréis",
-      "ENGLISH": "you (plural) will agree"
+      "SPANISH": "Acordaréis",
+      "ENGLISH": "You will agree"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré acordado",
+      "SPANISH": "Habré acordado",
       "ENGLISH": "I will have agreed"
     },
     "TU": {
-      "SPANISH": "habrás acordado",
-      "ENGLISH": "you will have agreed"
+      "SPANISH": "Habrás acordado",
+      "ENGLISH": "You will have agreed"
     },
     "EL": {
-      "SPANISH": "habrá acordado",
-      "ENGLISH": "s/he will have agreed, you (formal) will have agreed"
+      "SPANISH": "Habrá acordado",
+      "ENGLISH": "He will have agreed"
     },
     "ELLOS": {
-      "SPANISH": "habrán acordado",
-      "ENGLISH": "they will have agreed, you (plural formal) will have agreed"
+      "SPANISH": "Habrán acordado",
+      "ENGLISH": "They will have agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos acordado",
-      "ENGLISH": "we will have agreed"
+      "SPANISH": "Habremos acordado",
+      "ENGLISH": "We will have agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis acordado",
-      "ENGLISH": "you (plural) will have agreed"
+      "SPANISH": "Habréis acordado",
+      "ENGLISH": "You will have agreed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "acordaría",
+      "SPANISH": "Acordaría",
       "ENGLISH": "I would agree"
     },
     "TU": {
-      "SPANISH": "acordarías",
-      "ENGLISH": "you would agree"
+      "SPANISH": "Acordarías",
+      "ENGLISH": "You would agree"
     },
     "EL": {
-      "SPANISH": "acordaría",
-      "ENGLISH": "s/he would agree, you (formal) would agree"
+      "SPANISH": "Acordaría",
+      "ENGLISH": "He would agree"
     },
     "ELLOS": {
-      "SPANISH": "acordarían",
-      "ENGLISH": "they would agree, you (plural formal) would agree"
+      "SPANISH": "Acordarían",
+      "ENGLISH": "They would agree"
     },
     "NOSOTROS": {
-      "SPANISH": "acordaríamos",
-      "ENGLISH": "we would agree"
+      "SPANISH": "Acordaríamos",
+      "ENGLISH": "We would agree"
     },
     "VOSOTROS": {
-      "SPANISH": "acordaríais",
-      "ENGLISH": "you (plural) would agree"
+      "SPANISH": "Acordaríais",
+      "ENGLISH": "You would agree"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría acordado",
+      "SPANISH": "Habría acordado",
       "ENGLISH": "I would have agreed"
     },
     "TU": {
-      "SPANISH": "habrías acordado",
-      "ENGLISH": "you would have agreed"
+      "SPANISH": "Habrías acordado",
+      "ENGLISH": "You would have agreed"
     },
     "EL": {
-      "SPANISH": "habría acordado",
-      "ENGLISH": "s/he would have agreed, you (formal) would have agreed"
+      "SPANISH": "Habría acordado",
+      "ENGLISH": "He would have agreed"
     },
     "ELLOS": {
-      "SPANISH": "habrían acordado",
-      "ENGLISH": "they would have agreed, you (plural formal) would have agreed"
+      "SPANISH": "Habrían acordado",
+      "ENGLISH": "They would have agreed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos acordado",
-      "ENGLISH": "we would have agreed"
+      "SPANISH": "Habríamos acordado",
+      "ENGLISH": "We would have agreed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais acordado",
-      "ENGLISH": "you (plural) would have agreed"
+      "SPANISH": "Habríais acordado",
+      "ENGLISH": "You would have agreed"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "escalo",
+      "SPANISH": "Escalo",
       "ENGLISH": "I climb"
     },
     "TU": {
-      "SPANISH": "escalas",
-      "ENGLISH": "you climb"
+      "SPANISH": "Escalas",
+      "ENGLISH": "You climb"
     },
     "EL": {
-      "SPANISH": "escala",
-      "ENGLISH": "s/he climbs, you (formal) climbs"
+      "SPANISH": "Escala",
+      "ENGLISH": "He climbs"
     },
     "ELLOS": {
-      "SPANISH": "escalan",
-      "ENGLISH": "they climb, you (plural formal) climb"
+      "SPANISH": "Escalan",
+      "ENGLISH": "They climb"
     },
     "NOSOTROS": {
-      "SPANISH": "escalamos",
-      "ENGLISH": "we climb"
+      "SPANISH": "Escalamos",
+      "ENGLISH": "We climb"
     },
     "VOSOTROS": {
-      "SPANISH": "escaláis",
-      "ENGLISH": "you (plural) climb"
+      "SPANISH": "Escaláis",
+      "ENGLISH": "You climb"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he escalado",
+      "SPANISH": "He escalado",
       "ENGLISH": "I have climbed"
     },
     "TU": {
-      "SPANISH": "has escalado",
-      "ENGLISH": "you have climbed"
+      "SPANISH": "Has escalado",
+      "ENGLISH": "You have climbed"
     },
     "EL": {
-      "SPANISH": "ha escalado",
-      "ENGLISH": "s/he has climbed, you (formal) have climbed"
+      "SPANISH": "Ha escalado",
+      "ENGLISH": "He has climbed"
     },
     "ELLOS": {
-      "SPANISH": "han escalado",
-      "ENGLISH": "they have climbed, you (plural formal) have climbed"
+      "SPANISH": "Han escalado",
+      "ENGLISH": "They have climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos escalado",
-      "ENGLISH": "we have climbed"
+      "SPANISH": "Hemos escalado",
+      "ENGLISH": "We have climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis escalado",
-      "ENGLISH": "you (plural) have climbed"
+      "SPANISH": "Habéis escalado",
+      "ENGLISH": "You have climbed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "escalé",
+      "SPANISH": "Escalé",
       "ENGLISH": "I climbed"
     },
     "TU": {
-      "SPANISH": "escalaste",
-      "ENGLISH": "you climbed"
+      "SPANISH": "Escalaste",
+      "ENGLISH": "You climbed"
     },
     "EL": {
-      "SPANISH": "escaló",
-      "ENGLISH": "s/he climbed, you (formal) climbed"
+      "SPANISH": "Escaló",
+      "ENGLISH": "He climbed"
     },
     "ELLOS": {
-      "SPANISH": "escalaron",
-      "ENGLISH": "they climbed, you (plural formal) climbed"
+      "SPANISH": "Escalaron",
+      "ENGLISH": "They climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "escalamos",
-      "ENGLISH": "we climbed"
+      "SPANISH": "Escalamos",
+      "ENGLISH": "We climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "escalasteis",
-      "ENGLISH": "you (plural) climbed"
+      "SPANISH": "Escalasteis",
+      "ENGLISH": "You climbed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había escalado",
+      "SPANISH": "Había escalado",
       "ENGLISH": "I had climbed"
     },
     "TU": {
-      "SPANISH": "habías escalado",
-      "ENGLISH": "you had climbed"
+      "SPANISH": "Habías escalado",
+      "ENGLISH": "You had climbed"
     },
     "EL": {
-      "SPANISH": "había escalado",
-      "ENGLISH": "s/he had climbed, you (formal) had climbed"
+      "SPANISH": "Había escalado",
+      "ENGLISH": "He had climbed"
     },
     "ELLOS": {
-      "SPANISH": "habían escalado",
-      "ENGLISH": "they had climbed, you (plural formal) had climbed"
+      "SPANISH": "Habían escalado",
+      "ENGLISH": "They had climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos escalado",
-      "ENGLISH": "we had climbed"
+      "SPANISH": "Habíamos escalado",
+      "ENGLISH": "We had climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais escalado",
-      "ENGLISH": "you (plural) had climbed"
+      "SPANISH": "Habíais escalado",
+      "ENGLISH": "You had climbed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "escalé",
+      "SPANISH": "Escalé",
       "ENGLISH": "I climbed"
     },
     "TU": {
-      "SPANISH": "escalaste",
-      "ENGLISH": "you climbed"
+      "SPANISH": "Escalaste",
+      "ENGLISH": "You climbed"
     },
     "EL": {
-      "SPANISH": "escaló",
-      "ENGLISH": "s/he climbed, you (formal) climbed"
+      "SPANISH": "Escaló",
+      "ENGLISH": "He climbed"
     },
     "ELLOS": {
-      "SPANISH": "escalaron",
-      "ENGLISH": "they climbed, you (plural formal) climbed"
+      "SPANISH": "Escalaron",
+      "ENGLISH": "They climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "escalamos",
-      "ENGLISH": "we climbed"
+      "SPANISH": "Escalamos",
+      "ENGLISH": "We climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "escalasteis",
-      "ENGLISH": "you (plural) climbed"
+      "SPANISH": "Escalasteis",
+      "ENGLISH": "You climbed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "escalaré",
+      "SPANISH": "Escalaré",
       "ENGLISH": "I will climb"
     },
     "TU": {
-      "SPANISH": "escalarás",
-      "ENGLISH": "you will climb"
+      "SPANISH": "Escalarás",
+      "ENGLISH": "You will climb"
     },
     "EL": {
-      "SPANISH": "escalará",
-      "ENGLISH": "s/he will climb, you (formal) will climb"
+      "SPANISH": "Escalará",
+      "ENGLISH": "He will climb"
     },
     "ELLOS": {
-      "SPANISH": "escalarán",
-      "ENGLISH": "they will climb, you (plural formal) will climb"
+      "SPANISH": "Escalarán",
+      "ENGLISH": "They will climb"
     },
     "NOSOTROS": {
-      "SPANISH": "escalaremos",
-      "ENGLISH": "we will climb"
+      "SPANISH": "Escalaremos",
+      "ENGLISH": "We will climb"
     },
     "VOSOTROS": {
-      "SPANISH": "escalaréis",
-      "ENGLISH": "you (plural) will climb"
+      "SPANISH": "Escalaréis",
+      "ENGLISH": "You will climb"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré escalado",
+      "SPANISH": "Habré escalado",
       "ENGLISH": "I will have climbed"
     },
     "TU": {
-      "SPANISH": "habrás escalado",
-      "ENGLISH": "you will have climbed"
+      "SPANISH": "Habrás escalado",
+      "ENGLISH": "You will have climbed"
     },
     "EL": {
-      "SPANISH": "habrá escalado",
-      "ENGLISH": "s/he will have climbed, you (formal) will have climbed"
+      "SPANISH": "Habrá escalado",
+      "ENGLISH": "He will have climbed"
     },
     "ELLOS": {
-      "SPANISH": "habrán escalado",
-      "ENGLISH": "they will have climbed, you (plural formal) will have climbed"
+      "SPANISH": "Habrán escalado",
+      "ENGLISH": "They will have climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos escalado",
-      "ENGLISH": "we will have climbed"
+      "SPANISH": "Habremos escalado",
+      "ENGLISH": "We will have climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis escalado",
-      "ENGLISH": "you (plural) will have climbed"
+      "SPANISH": "Habréis escalado",
+      "ENGLISH": "You will have climbed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "escalaría",
+      "SPANISH": "Escalaría",
       "ENGLISH": "I would climb"
     },
     "TU": {
-      "SPANISH": "escalarías",
-      "ENGLISH": "you would climb"
+      "SPANISH": "Escalarías",
+      "ENGLISH": "You would climb"
     },
     "EL": {
-      "SPANISH": "escalaría",
-      "ENGLISH": "s/he would climb, you (formal) would climb"
+      "SPANISH": "Escalaría",
+      "ENGLISH": "He would climb"
     },
     "ELLOS": {
-      "SPANISH": "escalarían",
-      "ENGLISH": "they would climb, you (plural formal) would climb"
+      "SPANISH": "Escalarían",
+      "ENGLISH": "They would climb"
     },
     "NOSOTROS": {
-      "SPANISH": "escalaríamos",
-      "ENGLISH": "we would climb"
+      "SPANISH": "Escalaríamos",
+      "ENGLISH": "We would climb"
     },
     "VOSOTROS": {
-      "SPANISH": "escalaríais",
-      "ENGLISH": "you (plural) would climb"
+      "SPANISH": "Escalaríais",
+      "ENGLISH": "You would climb"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría escalado",
+      "SPANISH": "Habría escalado",
       "ENGLISH": "I would have climbed"
     },
     "TU": {
-      "SPANISH": "habrías escalado",
-      "ENGLISH": "you would have climbed"
+      "SPANISH": "Habrías escalado",
+      "ENGLISH": "You would have climbed"
     },
     "EL": {
-      "SPANISH": "habría escalado",
-      "ENGLISH": "s/he would have climbed, you (formal) would have climbed"
+      "SPANISH": "Habría escalado",
+      "ENGLISH": "He would have climbed"
     },
     "ELLOS": {
-      "SPANISH": "habrían escalado",
-      "ENGLISH": "they would have climbed, you (plural formal) would have climbed"
+      "SPANISH": "Habrían escalado",
+      "ENGLISH": "They would have climbed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos escalado",
-      "ENGLISH": "we would have climbed"
+      "SPANISH": "Habríamos escalado",
+      "ENGLISH": "We would have climbed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais escalado",
-      "ENGLISH": "you (plural) would have climbed"
+      "SPANISH": "Habríais escalado",
+      "ENGLISH": "You would have climbed"
     }
   }
 }

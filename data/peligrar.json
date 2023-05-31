@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "peligro",
+      "SPANISH": "Peligro",
       "ENGLISH": "I jeopardize"
     },
     "TU": {
-      "SPANISH": "peligras",
-      "ENGLISH": "you jeopardize"
+      "SPANISH": "Peligras",
+      "ENGLISH": "You jeopardize"
     },
     "EL": {
-      "SPANISH": "peligra",
-      "ENGLISH": "s/he jeopardizes, you (formal) jeopardizes"
+      "SPANISH": "Peligra",
+      "ENGLISH": "He jeopardizes"
     },
     "ELLOS": {
-      "SPANISH": "peligran",
-      "ENGLISH": "they jeopardize, you (plural formal) jeopardize"
+      "SPANISH": "Peligran",
+      "ENGLISH": "They jeopardize"
     },
     "NOSOTROS": {
-      "SPANISH": "peligramos",
-      "ENGLISH": "we jeopardize"
+      "SPANISH": "Peligramos",
+      "ENGLISH": "We jeopardize"
     },
     "VOSOTROS": {
-      "SPANISH": "peligráis",
-      "ENGLISH": "you (plural) jeopardize"
+      "SPANISH": "Peligráis",
+      "ENGLISH": "You jeopardize"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he peligrado",
+      "SPANISH": "He peligrado",
       "ENGLISH": "I have jeopardized"
     },
     "TU": {
-      "SPANISH": "has peligrado",
-      "ENGLISH": "you have jeopardized"
+      "SPANISH": "Has peligrado",
+      "ENGLISH": "You have jeopardized"
     },
     "EL": {
-      "SPANISH": "ha peligrado",
-      "ENGLISH": "s/he has jeopardized, you (formal) have jeopardized"
+      "SPANISH": "Ha peligrado",
+      "ENGLISH": "He has jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "han peligrado",
-      "ENGLISH": "they have jeopardized, you (plural formal) have jeopardized"
+      "SPANISH": "Han peligrado",
+      "ENGLISH": "They have jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos peligrado",
-      "ENGLISH": "we have jeopardized"
+      "SPANISH": "Hemos peligrado",
+      "ENGLISH": "We have jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis peligrado",
-      "ENGLISH": "you (plural) have jeopardized"
+      "SPANISH": "Habéis peligrado",
+      "ENGLISH": "You have jeopardized"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "peligré",
+      "SPANISH": "Peligré",
       "ENGLISH": "I jeopardized"
     },
     "TU": {
-      "SPANISH": "peligraste",
-      "ENGLISH": "you jeopardized"
+      "SPANISH": "Peligraste",
+      "ENGLISH": "You jeopardized"
     },
     "EL": {
-      "SPANISH": "peligró",
-      "ENGLISH": "s/he jeopardized, you (formal) jeopardized"
+      "SPANISH": "Peligró",
+      "ENGLISH": "He jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "peligraron",
-      "ENGLISH": "they jeopardized, you (plural formal) jeopardized"
+      "SPANISH": "Peligraron",
+      "ENGLISH": "They jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "peligramos",
-      "ENGLISH": "we jeopardized"
+      "SPANISH": "Peligramos",
+      "ENGLISH": "We jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "peligrasteis",
-      "ENGLISH": "you (plural) jeopardized"
+      "SPANISH": "Peligrasteis",
+      "ENGLISH": "You jeopardized"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había peligrado",
+      "SPANISH": "Había peligrado",
       "ENGLISH": "I had jeopardized"
     },
     "TU": {
-      "SPANISH": "habías peligrado",
-      "ENGLISH": "you had jeopardized"
+      "SPANISH": "Habías peligrado",
+      "ENGLISH": "You had jeopardized"
     },
     "EL": {
-      "SPANISH": "había peligrado",
-      "ENGLISH": "s/he had jeopardized, you (formal) had jeopardized"
+      "SPANISH": "Había peligrado",
+      "ENGLISH": "He had jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "habían peligrado",
-      "ENGLISH": "they had jeopardized, you (plural formal) had jeopardized"
+      "SPANISH": "Habían peligrado",
+      "ENGLISH": "They had jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos peligrado",
-      "ENGLISH": "we had jeopardized"
+      "SPANISH": "Habíamos peligrado",
+      "ENGLISH": "We had jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais peligrado",
-      "ENGLISH": "you (plural) had jeopardized"
+      "SPANISH": "Habíais peligrado",
+      "ENGLISH": "You had jeopardized"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "peligré",
+      "SPANISH": "Peligré",
       "ENGLISH": "I jeopardized"
     },
     "TU": {
-      "SPANISH": "peligraste",
-      "ENGLISH": "you jeopardized"
+      "SPANISH": "Peligraste",
+      "ENGLISH": "You jeopardized"
     },
     "EL": {
-      "SPANISH": "peligró",
-      "ENGLISH": "s/he jeopardized, you (formal) jeopardized"
+      "SPANISH": "Peligró",
+      "ENGLISH": "He jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "peligraron",
-      "ENGLISH": "they jeopardized, you (plural formal) jeopardized"
+      "SPANISH": "Peligraron",
+      "ENGLISH": "They jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "peligramos",
-      "ENGLISH": "we jeopardized"
+      "SPANISH": "Peligramos",
+      "ENGLISH": "We jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "peligrasteis",
-      "ENGLISH": "you (plural) jeopardized"
+      "SPANISH": "Peligrasteis",
+      "ENGLISH": "You jeopardized"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "peligraré",
+      "SPANISH": "Peligraré",
       "ENGLISH": "I will jeopardize"
     },
     "TU": {
-      "SPANISH": "peligrarás",
-      "ENGLISH": "you will jeopardize"
+      "SPANISH": "Peligrarás",
+      "ENGLISH": "You will jeopardize"
     },
     "EL": {
-      "SPANISH": "peligrará",
-      "ENGLISH": "s/he will jeopardize, you (formal) will jeopardize"
+      "SPANISH": "Peligrará",
+      "ENGLISH": "He will jeopardize"
     },
     "ELLOS": {
-      "SPANISH": "peligrarán",
-      "ENGLISH": "they will jeopardize, you (plural formal) will jeopardize"
+      "SPANISH": "Peligrarán",
+      "ENGLISH": "They will jeopardize"
     },
     "NOSOTROS": {
-      "SPANISH": "peligraremos",
-      "ENGLISH": "we will jeopardize"
+      "SPANISH": "Peligraremos",
+      "ENGLISH": "We will jeopardize"
     },
     "VOSOTROS": {
-      "SPANISH": "peligraréis",
-      "ENGLISH": "you (plural) will jeopardize"
+      "SPANISH": "Peligraréis",
+      "ENGLISH": "You will jeopardize"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré peligrado",
+      "SPANISH": "Habré peligrado",
       "ENGLISH": "I will have jeopardized"
     },
     "TU": {
-      "SPANISH": "habrás peligrado",
-      "ENGLISH": "you will have jeopardized"
+      "SPANISH": "Habrás peligrado",
+      "ENGLISH": "You will have jeopardized"
     },
     "EL": {
-      "SPANISH": "habrá peligrado",
-      "ENGLISH": "s/he will have jeopardized, you (formal) will have jeopardized"
+      "SPANISH": "Habrá peligrado",
+      "ENGLISH": "He will have jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "habrán peligrado",
-      "ENGLISH": "they will have jeopardized, you (plural formal) will have jeopardized"
+      "SPANISH": "Habrán peligrado",
+      "ENGLISH": "They will have jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos peligrado",
-      "ENGLISH": "we will have jeopardized"
+      "SPANISH": "Habremos peligrado",
+      "ENGLISH": "We will have jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis peligrado",
-      "ENGLISH": "you (plural) will have jeopardized"
+      "SPANISH": "Habréis peligrado",
+      "ENGLISH": "You will have jeopardized"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "peligraría",
+      "SPANISH": "Peligraría",
       "ENGLISH": "I would jeopardize"
     },
     "TU": {
-      "SPANISH": "peligrarías",
-      "ENGLISH": "you would jeopardize"
+      "SPANISH": "Peligrarías",
+      "ENGLISH": "You would jeopardize"
     },
     "EL": {
-      "SPANISH": "peligraría",
-      "ENGLISH": "s/he would jeopardize, you (formal) would jeopardize"
+      "SPANISH": "Peligraría",
+      "ENGLISH": "He would jeopardize"
     },
     "ELLOS": {
-      "SPANISH": "peligrarían",
-      "ENGLISH": "they would jeopardize, you (plural formal) would jeopardize"
+      "SPANISH": "Peligrarían",
+      "ENGLISH": "They would jeopardize"
     },
     "NOSOTROS": {
-      "SPANISH": "peligraríamos",
-      "ENGLISH": "we would jeopardize"
+      "SPANISH": "Peligraríamos",
+      "ENGLISH": "We would jeopardize"
     },
     "VOSOTROS": {
-      "SPANISH": "peligraríais",
-      "ENGLISH": "you (plural) would jeopardize"
+      "SPANISH": "Peligraríais",
+      "ENGLISH": "You would jeopardize"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría peligrado",
+      "SPANISH": "Habría peligrado",
       "ENGLISH": "I would have jeopardized"
     },
     "TU": {
-      "SPANISH": "habrías peligrado",
-      "ENGLISH": "you would have jeopardized"
+      "SPANISH": "Habrías peligrado",
+      "ENGLISH": "You would have jeopardized"
     },
     "EL": {
-      "SPANISH": "habría peligrado",
-      "ENGLISH": "s/he would have jeopardized, you (formal) would have jeopardized"
+      "SPANISH": "Habría peligrado",
+      "ENGLISH": "He would have jeopardized"
     },
     "ELLOS": {
-      "SPANISH": "habrían peligrado",
-      "ENGLISH": "they would have jeopardized, you (plural formal) would have jeopardized"
+      "SPANISH": "Habrían peligrado",
+      "ENGLISH": "They would have jeopardized"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos peligrado",
-      "ENGLISH": "we would have jeopardized"
+      "SPANISH": "Habríamos peligrado",
+      "ENGLISH": "We would have jeopardized"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais peligrado",
-      "ENGLISH": "you (plural) would have jeopardized"
+      "SPANISH": "Habríais peligrado",
+      "ENGLISH": "You would have jeopardized"
     }
   }
 }

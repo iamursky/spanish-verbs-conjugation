@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "imagino",
+      "SPANISH": "Imagino",
       "ENGLISH": "I imagine"
     },
     "TU": {
-      "SPANISH": "imaginas",
-      "ENGLISH": "you imagine"
+      "SPANISH": "Imaginas",
+      "ENGLISH": "You imagine"
     },
     "EL": {
-      "SPANISH": "imagina",
-      "ENGLISH": "s/he imagines, you (formal) imagines"
+      "SPANISH": "Imagina",
+      "ENGLISH": "He imagines"
     },
     "ELLOS": {
-      "SPANISH": "imaginan",
-      "ENGLISH": "they imagine, you (plural formal) imagine"
+      "SPANISH": "Imaginan",
+      "ENGLISH": "They imagine"
     },
     "NOSOTROS": {
-      "SPANISH": "imaginamos",
-      "ENGLISH": "we imagine"
+      "SPANISH": "Imaginamos",
+      "ENGLISH": "We imagine"
     },
     "VOSOTROS": {
-      "SPANISH": "imagináis",
-      "ENGLISH": "you (plural) imagine"
+      "SPANISH": "Imagináis",
+      "ENGLISH": "You imagine"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he imaginado",
+      "SPANISH": "He imaginado",
       "ENGLISH": "I have imagined"
     },
     "TU": {
-      "SPANISH": "has imaginado",
-      "ENGLISH": "you have imagined"
+      "SPANISH": "Has imaginado",
+      "ENGLISH": "You have imagined"
     },
     "EL": {
-      "SPANISH": "ha imaginado",
-      "ENGLISH": "s/he has imagined, you (formal) have imagined"
+      "SPANISH": "Ha imaginado",
+      "ENGLISH": "He has imagined"
     },
     "ELLOS": {
-      "SPANISH": "han imaginado",
-      "ENGLISH": "they have imagined, you (plural formal) have imagined"
+      "SPANISH": "Han imaginado",
+      "ENGLISH": "They have imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos imaginado",
-      "ENGLISH": "we have imagined"
+      "SPANISH": "Hemos imaginado",
+      "ENGLISH": "We have imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis imaginado",
-      "ENGLISH": "you (plural) have imagined"
+      "SPANISH": "Habéis imaginado",
+      "ENGLISH": "You have imagined"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "imaginé",
+      "SPANISH": "Imaginé",
       "ENGLISH": "I imagined"
     },
     "TU": {
-      "SPANISH": "imaginaste",
-      "ENGLISH": "you imagined"
+      "SPANISH": "Imaginaste",
+      "ENGLISH": "You imagined"
     },
     "EL": {
-      "SPANISH": "imaginó",
-      "ENGLISH": "s/he imagined, you (formal) imagined"
+      "SPANISH": "Imaginó",
+      "ENGLISH": "He imagined"
     },
     "ELLOS": {
-      "SPANISH": "imaginaron",
-      "ENGLISH": "they imagined, you (plural formal) imagined"
+      "SPANISH": "Imaginaron",
+      "ENGLISH": "They imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "imaginamos",
-      "ENGLISH": "we imagined"
+      "SPANISH": "Imaginamos",
+      "ENGLISH": "We imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "imaginasteis",
-      "ENGLISH": "you (plural) imagined"
+      "SPANISH": "Imaginasteis",
+      "ENGLISH": "You imagined"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había imaginado",
+      "SPANISH": "Había imaginado",
       "ENGLISH": "I had imagined"
     },
     "TU": {
-      "SPANISH": "habías imaginado",
-      "ENGLISH": "you had imagined"
+      "SPANISH": "Habías imaginado",
+      "ENGLISH": "You had imagined"
     },
     "EL": {
-      "SPANISH": "había imaginado",
-      "ENGLISH": "s/he had imagined, you (formal) had imagined"
+      "SPANISH": "Había imaginado",
+      "ENGLISH": "He had imagined"
     },
     "ELLOS": {
-      "SPANISH": "habían imaginado",
-      "ENGLISH": "they had imagined, you (plural formal) had imagined"
+      "SPANISH": "Habían imaginado",
+      "ENGLISH": "They had imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos imaginado",
-      "ENGLISH": "we had imagined"
+      "SPANISH": "Habíamos imaginado",
+      "ENGLISH": "We had imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais imaginado",
-      "ENGLISH": "you (plural) had imagined"
+      "SPANISH": "Habíais imaginado",
+      "ENGLISH": "You had imagined"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "imaginé",
+      "SPANISH": "Imaginé",
       "ENGLISH": "I imagined"
     },
     "TU": {
-      "SPANISH": "imaginaste",
-      "ENGLISH": "you imagined"
+      "SPANISH": "Imaginaste",
+      "ENGLISH": "You imagined"
     },
     "EL": {
-      "SPANISH": "imaginó",
-      "ENGLISH": "s/he imagined, you (formal) imagined"
+      "SPANISH": "Imaginó",
+      "ENGLISH": "He imagined"
     },
     "ELLOS": {
-      "SPANISH": "imaginaron",
-      "ENGLISH": "they imagined, you (plural formal) imagined"
+      "SPANISH": "Imaginaron",
+      "ENGLISH": "They imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "imaginamos",
-      "ENGLISH": "we imagined"
+      "SPANISH": "Imaginamos",
+      "ENGLISH": "We imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "imaginasteis",
-      "ENGLISH": "you (plural) imagined"
+      "SPANISH": "Imaginasteis",
+      "ENGLISH": "You imagined"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "imaginaré",
+      "SPANISH": "Imaginaré",
       "ENGLISH": "I will imagine"
     },
     "TU": {
-      "SPANISH": "imaginarás",
-      "ENGLISH": "you will imagine"
+      "SPANISH": "Imaginarás",
+      "ENGLISH": "You will imagine"
     },
     "EL": {
-      "SPANISH": "imaginará",
-      "ENGLISH": "s/he will imagine, you (formal) will imagine"
+      "SPANISH": "Imaginará",
+      "ENGLISH": "He will imagine"
     },
     "ELLOS": {
-      "SPANISH": "imaginarán",
-      "ENGLISH": "they will imagine, you (plural formal) will imagine"
+      "SPANISH": "Imaginarán",
+      "ENGLISH": "They will imagine"
     },
     "NOSOTROS": {
-      "SPANISH": "imaginaremos",
-      "ENGLISH": "we will imagine"
+      "SPANISH": "Imaginaremos",
+      "ENGLISH": "We will imagine"
     },
     "VOSOTROS": {
-      "SPANISH": "imaginaréis",
-      "ENGLISH": "you (plural) will imagine"
+      "SPANISH": "Imaginaréis",
+      "ENGLISH": "You will imagine"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré imaginado",
+      "SPANISH": "Habré imaginado",
       "ENGLISH": "I will have imagined"
     },
     "TU": {
-      "SPANISH": "habrás imaginado",
-      "ENGLISH": "you will have imagined"
+      "SPANISH": "Habrás imaginado",
+      "ENGLISH": "You will have imagined"
     },
     "EL": {
-      "SPANISH": "habrá imaginado",
-      "ENGLISH": "s/he will have imagined, you (formal) will have imagined"
+      "SPANISH": "Habrá imaginado",
+      "ENGLISH": "He will have imagined"
     },
     "ELLOS": {
-      "SPANISH": "habrán imaginado",
-      "ENGLISH": "they will have imagined, you (plural formal) will have imagined"
+      "SPANISH": "Habrán imaginado",
+      "ENGLISH": "They will have imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos imaginado",
-      "ENGLISH": "we will have imagined"
+      "SPANISH": "Habremos imaginado",
+      "ENGLISH": "We will have imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis imaginado",
-      "ENGLISH": "you (plural) will have imagined"
+      "SPANISH": "Habréis imaginado",
+      "ENGLISH": "You will have imagined"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "imaginaría",
+      "SPANISH": "Imaginaría",
       "ENGLISH": "I would imagine"
     },
     "TU": {
-      "SPANISH": "imaginarías",
-      "ENGLISH": "you would imagine"
+      "SPANISH": "Imaginarías",
+      "ENGLISH": "You would imagine"
     },
     "EL": {
-      "SPANISH": "imaginaría",
-      "ENGLISH": "s/he would imagine, you (formal) would imagine"
+      "SPANISH": "Imaginaría",
+      "ENGLISH": "He would imagine"
     },
     "ELLOS": {
-      "SPANISH": "imaginarían",
-      "ENGLISH": "they would imagine, you (plural formal) would imagine"
+      "SPANISH": "Imaginarían",
+      "ENGLISH": "They would imagine"
     },
     "NOSOTROS": {
-      "SPANISH": "imaginaríamos",
-      "ENGLISH": "we would imagine"
+      "SPANISH": "Imaginaríamos",
+      "ENGLISH": "We would imagine"
     },
     "VOSOTROS": {
-      "SPANISH": "imaginaríais",
-      "ENGLISH": "you (plural) would imagine"
+      "SPANISH": "Imaginaríais",
+      "ENGLISH": "You would imagine"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría imaginado",
+      "SPANISH": "Habría imaginado",
       "ENGLISH": "I would have imagined"
     },
     "TU": {
-      "SPANISH": "habrías imaginado",
-      "ENGLISH": "you would have imagined"
+      "SPANISH": "Habrías imaginado",
+      "ENGLISH": "You would have imagined"
     },
     "EL": {
-      "SPANISH": "habría imaginado",
-      "ENGLISH": "s/he would have imagined, you (formal) would have imagined"
+      "SPANISH": "Habría imaginado",
+      "ENGLISH": "He would have imagined"
     },
     "ELLOS": {
-      "SPANISH": "habrían imaginado",
-      "ENGLISH": "they would have imagined, you (plural formal) would have imagined"
+      "SPANISH": "Habrían imaginado",
+      "ENGLISH": "They would have imagined"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos imaginado",
-      "ENGLISH": "we would have imagined"
+      "SPANISH": "Habríamos imaginado",
+      "ENGLISH": "We would have imagined"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais imaginado",
-      "ENGLISH": "you (plural) would have imagined"
+      "SPANISH": "Habríais imaginado",
+      "ENGLISH": "You would have imagined"
     }
   }
 }

@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "existo",
+      "SPANISH": "Existo",
       "ENGLISH": "I exist"
     },
     "TU": {
-      "SPANISH": "existes",
-      "ENGLISH": "you exist"
+      "SPANISH": "Existes",
+      "ENGLISH": "You exist"
     },
     "EL": {
-      "SPANISH": "existe",
-      "ENGLISH": "s/he exists, you (formal) exists"
+      "SPANISH": "Existe",
+      "ENGLISH": "He exists"
     },
     "ELLOS": {
-      "SPANISH": "existen",
-      "ENGLISH": "they exist, you (plural formal) exist"
+      "SPANISH": "Existen",
+      "ENGLISH": "They exist"
     },
     "NOSOTROS": {
-      "SPANISH": "existimos",
-      "ENGLISH": "we exist"
+      "SPANISH": "Existimos",
+      "ENGLISH": "We exist"
     },
     "VOSOTROS": {
-      "SPANISH": "existís",
-      "ENGLISH": "you (plural) exist"
+      "SPANISH": "Existís",
+      "ENGLISH": "You exist"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he existido",
+      "SPANISH": "He existido",
       "ENGLISH": "I have existed"
     },
     "TU": {
-      "SPANISH": "has existido",
-      "ENGLISH": "you have existed"
+      "SPANISH": "Has existido",
+      "ENGLISH": "You have existed"
     },
     "EL": {
-      "SPANISH": "ha existido",
-      "ENGLISH": "s/he has existed, you (formal) have existed"
+      "SPANISH": "Ha existido",
+      "ENGLISH": "He has existed"
     },
     "ELLOS": {
-      "SPANISH": "han existido",
-      "ENGLISH": "they have existed, you (plural formal) have existed"
+      "SPANISH": "Han existido",
+      "ENGLISH": "They have existed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos existido",
-      "ENGLISH": "we have existed"
+      "SPANISH": "Hemos existido",
+      "ENGLISH": "We have existed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis existido",
-      "ENGLISH": "you (plural) have existed"
+      "SPANISH": "Habéis existido",
+      "ENGLISH": "You have existed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "existí",
+      "SPANISH": "Existí",
       "ENGLISH": "I existed"
     },
     "TU": {
-      "SPANISH": "exististe",
-      "ENGLISH": "you existed"
+      "SPANISH": "Exististe",
+      "ENGLISH": "You existed"
     },
     "EL": {
-      "SPANISH": "existió",
-      "ENGLISH": "s/he existed, you (formal) existed"
+      "SPANISH": "Existió",
+      "ENGLISH": "He existed"
     },
     "ELLOS": {
-      "SPANISH": "existieron",
-      "ENGLISH": "they existed, you (plural formal) existed"
+      "SPANISH": "Existieron",
+      "ENGLISH": "They existed"
     },
     "NOSOTROS": {
-      "SPANISH": "existimos",
-      "ENGLISH": "we existed"
+      "SPANISH": "Existimos",
+      "ENGLISH": "We existed"
     },
     "VOSOTROS": {
-      "SPANISH": "exististeis",
-      "ENGLISH": "you (plural) existed"
+      "SPANISH": "Exististeis",
+      "ENGLISH": "You existed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había existido",
+      "SPANISH": "Había existido",
       "ENGLISH": "I had existed"
     },
     "TU": {
-      "SPANISH": "habías existido",
-      "ENGLISH": "you had existed"
+      "SPANISH": "Habías existido",
+      "ENGLISH": "You had existed"
     },
     "EL": {
-      "SPANISH": "había existido",
-      "ENGLISH": "s/he had existed, you (formal) had existed"
+      "SPANISH": "Había existido",
+      "ENGLISH": "He had existed"
     },
     "ELLOS": {
-      "SPANISH": "habían existido",
-      "ENGLISH": "they had existed, you (plural formal) had existed"
+      "SPANISH": "Habían existido",
+      "ENGLISH": "They had existed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos existido",
-      "ENGLISH": "we had existed"
+      "SPANISH": "Habíamos existido",
+      "ENGLISH": "We had existed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais existido",
-      "ENGLISH": "you (plural) had existed"
+      "SPANISH": "Habíais existido",
+      "ENGLISH": "You had existed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "existí",
+      "SPANISH": "Existí",
       "ENGLISH": "I existed"
     },
     "TU": {
-      "SPANISH": "exististe",
-      "ENGLISH": "you existed"
+      "SPANISH": "Exististe",
+      "ENGLISH": "You existed"
     },
     "EL": {
-      "SPANISH": "existió",
-      "ENGLISH": "s/he existed, you (formal) existed"
+      "SPANISH": "Existió",
+      "ENGLISH": "He existed"
     },
     "ELLOS": {
-      "SPANISH": "existieron",
-      "ENGLISH": "they existed, you (plural formal) existed"
+      "SPANISH": "Existieron",
+      "ENGLISH": "They existed"
     },
     "NOSOTROS": {
-      "SPANISH": "existimos",
-      "ENGLISH": "we existed"
+      "SPANISH": "Existimos",
+      "ENGLISH": "We existed"
     },
     "VOSOTROS": {
-      "SPANISH": "exististeis",
-      "ENGLISH": "you (plural) existed"
+      "SPANISH": "Exististeis",
+      "ENGLISH": "You existed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "existiré",
+      "SPANISH": "Existiré",
       "ENGLISH": "I will exist"
     },
     "TU": {
-      "SPANISH": "existirás",
-      "ENGLISH": "you will exist"
+      "SPANISH": "Existirás",
+      "ENGLISH": "You will exist"
     },
     "EL": {
-      "SPANISH": "existirá",
-      "ENGLISH": "s/he will exist, you (formal) will exist"
+      "SPANISH": "Existirá",
+      "ENGLISH": "He will exist"
     },
     "ELLOS": {
-      "SPANISH": "existirán",
-      "ENGLISH": "they will exist, you (plural formal) will exist"
+      "SPANISH": "Existirán",
+      "ENGLISH": "They will exist"
     },
     "NOSOTROS": {
-      "SPANISH": "existiremos",
-      "ENGLISH": "we will exist"
+      "SPANISH": "Existiremos",
+      "ENGLISH": "We will exist"
     },
     "VOSOTROS": {
-      "SPANISH": "existiréis",
-      "ENGLISH": "you (plural) will exist"
+      "SPANISH": "Existiréis",
+      "ENGLISH": "You will exist"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré existido",
+      "SPANISH": "Habré existido",
       "ENGLISH": "I will have existed"
     },
     "TU": {
-      "SPANISH": "habrás existido",
-      "ENGLISH": "you will have existed"
+      "SPANISH": "Habrás existido",
+      "ENGLISH": "You will have existed"
     },
     "EL": {
-      "SPANISH": "habrá existido",
-      "ENGLISH": "s/he will have existed, you (formal) will have existed"
+      "SPANISH": "Habrá existido",
+      "ENGLISH": "He will have existed"
     },
     "ELLOS": {
-      "SPANISH": "habrán existido",
-      "ENGLISH": "they will have existed, you (plural formal) will have existed"
+      "SPANISH": "Habrán existido",
+      "ENGLISH": "They will have existed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos existido",
-      "ENGLISH": "we will have existed"
+      "SPANISH": "Habremos existido",
+      "ENGLISH": "We will have existed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis existido",
-      "ENGLISH": "you (plural) will have existed"
+      "SPANISH": "Habréis existido",
+      "ENGLISH": "You will have existed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "existiría",
+      "SPANISH": "Existiría",
       "ENGLISH": "I would exist"
     },
     "TU": {
-      "SPANISH": "existirías",
-      "ENGLISH": "you would exist"
+      "SPANISH": "Existirías",
+      "ENGLISH": "You would exist"
     },
     "EL": {
-      "SPANISH": "existiría",
-      "ENGLISH": "s/he would exist, you (formal) would exist"
+      "SPANISH": "Existiría",
+      "ENGLISH": "He would exist"
     },
     "ELLOS": {
-      "SPANISH": "existirían",
-      "ENGLISH": "they would exist, you (plural formal) would exist"
+      "SPANISH": "Existirían",
+      "ENGLISH": "They would exist"
     },
     "NOSOTROS": {
-      "SPANISH": "existiríamos",
-      "ENGLISH": "we would exist"
+      "SPANISH": "Existiríamos",
+      "ENGLISH": "We would exist"
     },
     "VOSOTROS": {
-      "SPANISH": "existiríais",
-      "ENGLISH": "you (plural) would exist"
+      "SPANISH": "Existiríais",
+      "ENGLISH": "You would exist"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría existido",
+      "SPANISH": "Habría existido",
       "ENGLISH": "I would have existed"
     },
     "TU": {
-      "SPANISH": "habrías existido",
-      "ENGLISH": "you would have existed"
+      "SPANISH": "Habrías existido",
+      "ENGLISH": "You would have existed"
     },
     "EL": {
-      "SPANISH": "habría existido",
-      "ENGLISH": "s/he would have existed, you (formal) would have existed"
+      "SPANISH": "Habría existido",
+      "ENGLISH": "He would have existed"
     },
     "ELLOS": {
-      "SPANISH": "habrían existido",
-      "ENGLISH": "they would have existed, you (plural formal) would have existed"
+      "SPANISH": "Habrían existido",
+      "ENGLISH": "They would have existed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos existido",
-      "ENGLISH": "we would have existed"
+      "SPANISH": "Habríamos existido",
+      "ENGLISH": "We would have existed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais existido",
-      "ENGLISH": "you (plural) would have existed"
+      "SPANISH": "Habríais existido",
+      "ENGLISH": "You would have existed"
     }
   }
 }

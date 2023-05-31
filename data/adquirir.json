@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "adquiero ",
+      "SPANISH": "Adquiero ",
       "ENGLISH": "I acquire"
     },
     "TU": {
-      "SPANISH": "adquieres ",
-      "ENGLISH": "you acquire"
+      "SPANISH": "Adquieres ",
+      "ENGLISH": "You acquire"
     },
     "EL": {
-      "SPANISH": "adquiere ",
-      "ENGLISH": "s/he acquires, you (formal) acquires"
+      "SPANISH": "Adquiere ",
+      "ENGLISH": "He acquires"
     },
     "ELLOS": {
-      "SPANISH": "adquieren ",
-      "ENGLISH": "they acquire, you (plural formal) acquire"
+      "SPANISH": "Adquieren ",
+      "ENGLISH": "They acquire"
     },
     "NOSOTROS": {
-      "SPANISH": "adquirimos",
-      "ENGLISH": "we acquire"
+      "SPANISH": "Adquirimos",
+      "ENGLISH": "We acquire"
     },
     "VOSOTROS": {
-      "SPANISH": "adquirís",
-      "ENGLISH": "you (plural) acquire"
+      "SPANISH": "Adquirís",
+      "ENGLISH": "You acquire"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he adquirido",
+      "SPANISH": "He adquirido",
       "ENGLISH": "I have acquired"
     },
     "TU": {
-      "SPANISH": "has adquirido",
-      "ENGLISH": "you have acquired"
+      "SPANISH": "Has adquirido",
+      "ENGLISH": "You have acquired"
     },
     "EL": {
-      "SPANISH": "ha adquirido",
-      "ENGLISH": "s/he has acquired, you (formal) have acquired"
+      "SPANISH": "Ha adquirido",
+      "ENGLISH": "He has acquired"
     },
     "ELLOS": {
-      "SPANISH": "han adquirido",
-      "ENGLISH": "they have acquired, you (plural formal) have acquired"
+      "SPANISH": "Han adquirido",
+      "ENGLISH": "They have acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos adquirido",
-      "ENGLISH": "we have acquired"
+      "SPANISH": "Hemos adquirido",
+      "ENGLISH": "We have acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis adquirido",
-      "ENGLISH": "you (plural) have acquired"
+      "SPANISH": "Habéis adquirido",
+      "ENGLISH": "You have acquired"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "adquirí",
+      "SPANISH": "Adquirí",
       "ENGLISH": "I acquired"
     },
     "TU": {
-      "SPANISH": "adquiriste",
-      "ENGLISH": "you acquired"
+      "SPANISH": "Adquiriste",
+      "ENGLISH": "You acquired"
     },
     "EL": {
-      "SPANISH": "adquirió",
-      "ENGLISH": "s/he acquired, you (formal) acquired"
+      "SPANISH": "Adquirió",
+      "ENGLISH": "He acquired"
     },
     "ELLOS": {
-      "SPANISH": "adquirieron",
-      "ENGLISH": "they acquired, you (plural formal) acquired"
+      "SPANISH": "Adquirieron",
+      "ENGLISH": "They acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "adquirimos",
-      "ENGLISH": "we acquired"
+      "SPANISH": "Adquirimos",
+      "ENGLISH": "We acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "adquiristeis",
-      "ENGLISH": "you (plural) acquired"
+      "SPANISH": "Adquiristeis",
+      "ENGLISH": "You acquired"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había adquirido",
+      "SPANISH": "Había adquirido",
       "ENGLISH": "I had acquired"
     },
     "TU": {
-      "SPANISH": "habías adquirido",
-      "ENGLISH": "you had acquired"
+      "SPANISH": "Habías adquirido",
+      "ENGLISH": "You had acquired"
     },
     "EL": {
-      "SPANISH": "había adquirido",
-      "ENGLISH": "s/he had acquired, you (formal) had acquired"
+      "SPANISH": "Había adquirido",
+      "ENGLISH": "He had acquired"
     },
     "ELLOS": {
-      "SPANISH": "habían adquirido",
-      "ENGLISH": "they had acquired, you (plural formal) had acquired"
+      "SPANISH": "Habían adquirido",
+      "ENGLISH": "They had acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos adquirido",
-      "ENGLISH": "we had acquired"
+      "SPANISH": "Habíamos adquirido",
+      "ENGLISH": "We had acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais adquirido",
-      "ENGLISH": "you (plural) had acquired"
+      "SPANISH": "Habíais adquirido",
+      "ENGLISH": "You had acquired"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "adquirí",
+      "SPANISH": "Adquirí",
       "ENGLISH": "I acquired"
     },
     "TU": {
-      "SPANISH": "adquiriste",
-      "ENGLISH": "you acquired"
+      "SPANISH": "Adquiriste",
+      "ENGLISH": "You acquired"
     },
     "EL": {
-      "SPANISH": "adquirió",
-      "ENGLISH": "s/he acquired, you (formal) acquired"
+      "SPANISH": "Adquirió",
+      "ENGLISH": "He acquired"
     },
     "ELLOS": {
-      "SPANISH": "adquirieron",
-      "ENGLISH": "they acquired, you (plural formal) acquired"
+      "SPANISH": "Adquirieron",
+      "ENGLISH": "They acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "adquirimos",
-      "ENGLISH": "we acquired"
+      "SPANISH": "Adquirimos",
+      "ENGLISH": "We acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "adquiristeis",
-      "ENGLISH": "you (plural) acquired"
+      "SPANISH": "Adquiristeis",
+      "ENGLISH": "You acquired"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "adquiriré",
+      "SPANISH": "Adquiriré",
       "ENGLISH": "I will acquire"
     },
     "TU": {
-      "SPANISH": "adquirirás",
-      "ENGLISH": "you will acquire"
+      "SPANISH": "Adquirirás",
+      "ENGLISH": "You will acquire"
     },
     "EL": {
-      "SPANISH": "adquirirá",
-      "ENGLISH": "s/he will acquire, you (formal) will acquire"
+      "SPANISH": "Adquirirá",
+      "ENGLISH": "He will acquire"
     },
     "ELLOS": {
-      "SPANISH": "adquirirán",
-      "ENGLISH": "they will acquire, you (plural formal) will acquire"
+      "SPANISH": "Adquirirán",
+      "ENGLISH": "They will acquire"
     },
     "NOSOTROS": {
-      "SPANISH": "adquiriremos",
-      "ENGLISH": "we will acquire"
+      "SPANISH": "Adquiriremos",
+      "ENGLISH": "We will acquire"
     },
     "VOSOTROS": {
-      "SPANISH": "adquiriréis",
-      "ENGLISH": "you (plural) will acquire"
+      "SPANISH": "Adquiriréis",
+      "ENGLISH": "You will acquire"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré adquirido",
+      "SPANISH": "Habré adquirido",
       "ENGLISH": "I will have acquired"
     },
     "TU": {
-      "SPANISH": "habrás adquirido",
-      "ENGLISH": "you will have acquired"
+      "SPANISH": "Habrás adquirido",
+      "ENGLISH": "You will have acquired"
     },
     "EL": {
-      "SPANISH": "habrá adquirido",
-      "ENGLISH": "s/he will have acquired, you (formal) will have acquired"
+      "SPANISH": "Habrá adquirido",
+      "ENGLISH": "He will have acquired"
     },
     "ELLOS": {
-      "SPANISH": "habrán adquirido",
-      "ENGLISH": "they will have acquired, you (plural formal) will have acquired"
+      "SPANISH": "Habrán adquirido",
+      "ENGLISH": "They will have acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos adquirido",
-      "ENGLISH": "we will have acquired"
+      "SPANISH": "Habremos adquirido",
+      "ENGLISH": "We will have acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis adquirido",
-      "ENGLISH": "you (plural) will have acquired"
+      "SPANISH": "Habréis adquirido",
+      "ENGLISH": "You will have acquired"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "adquiriría",
+      "SPANISH": "Adquiriría",
       "ENGLISH": "I would acquire"
     },
     "TU": {
-      "SPANISH": "adquirirías",
-      "ENGLISH": "you would acquire"
+      "SPANISH": "Adquirirías",
+      "ENGLISH": "You would acquire"
     },
     "EL": {
-      "SPANISH": "adquiriría",
-      "ENGLISH": "s/he would acquire, you (formal) would acquire"
+      "SPANISH": "Adquiriría",
+      "ENGLISH": "He would acquire"
     },
     "ELLOS": {
-      "SPANISH": "adquirirían",
-      "ENGLISH": "they would acquire, you (plural formal) would acquire"
+      "SPANISH": "Adquirirían",
+      "ENGLISH": "They would acquire"
     },
     "NOSOTROS": {
-      "SPANISH": "adquiriríamos",
-      "ENGLISH": "we would acquire"
+      "SPANISH": "Adquiriríamos",
+      "ENGLISH": "We would acquire"
     },
     "VOSOTROS": {
-      "SPANISH": "adquiriríais",
-      "ENGLISH": "you (plural) would acquire"
+      "SPANISH": "Adquiriríais",
+      "ENGLISH": "You would acquire"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría adquirido",
+      "SPANISH": "Habría adquirido",
       "ENGLISH": "I would have acquired"
     },
     "TU": {
-      "SPANISH": "habrías adquirido",
-      "ENGLISH": "you would have acquired"
+      "SPANISH": "Habrías adquirido",
+      "ENGLISH": "You would have acquired"
     },
     "EL": {
-      "SPANISH": "habría adquirido",
-      "ENGLISH": "s/he would have acquired, you (formal) would have acquired"
+      "SPANISH": "Habría adquirido",
+      "ENGLISH": "He would have acquired"
     },
     "ELLOS": {
-      "SPANISH": "habrían adquirido",
-      "ENGLISH": "they would have acquired, you (plural formal) would have acquired"
+      "SPANISH": "Habrían adquirido",
+      "ENGLISH": "They would have acquired"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos adquirido",
-      "ENGLISH": "we would have acquired"
+      "SPANISH": "Habríamos adquirido",
+      "ENGLISH": "We would have acquired"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais adquirido",
-      "ENGLISH": "you (plural) would have acquired"
+      "SPANISH": "Habríais adquirido",
+      "ENGLISH": "You would have acquired"
     }
   }
 }

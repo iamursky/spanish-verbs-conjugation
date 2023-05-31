@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "dudo",
+      "SPANISH": "Dudo",
       "ENGLISH": "I doubt"
     },
     "TU": {
-      "SPANISH": "dudas",
-      "ENGLISH": "you doubt"
+      "SPANISH": "Dudas",
+      "ENGLISH": "You doubt"
     },
     "EL": {
-      "SPANISH": "duda",
-      "ENGLISH": "s/he doubts, you (formal) doubts"
+      "SPANISH": "Duda",
+      "ENGLISH": "He doubts"
     },
     "ELLOS": {
-      "SPANISH": "dudan",
-      "ENGLISH": "they doubt, you (plural formal) doubt"
+      "SPANISH": "Dudan",
+      "ENGLISH": "They doubt"
     },
     "NOSOTROS": {
-      "SPANISH": "dudamos",
-      "ENGLISH": "we doubt"
+      "SPANISH": "Dudamos",
+      "ENGLISH": "We doubt"
     },
     "VOSOTROS": {
-      "SPANISH": "dudáis",
-      "ENGLISH": "you (plural) doubt"
+      "SPANISH": "Dudáis",
+      "ENGLISH": "You doubt"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he dudado",
+      "SPANISH": "He dudado",
       "ENGLISH": "I have doubted"
     },
     "TU": {
-      "SPANISH": "has dudado",
-      "ENGLISH": "you have doubted"
+      "SPANISH": "Has dudado",
+      "ENGLISH": "You have doubted"
     },
     "EL": {
-      "SPANISH": "ha dudado",
-      "ENGLISH": "s/he has doubted, you (formal) have doubted"
+      "SPANISH": "Ha dudado",
+      "ENGLISH": "He has doubted"
     },
     "ELLOS": {
-      "SPANISH": "han dudado",
-      "ENGLISH": "they have doubted, you (plural formal) have doubted"
+      "SPANISH": "Han dudado",
+      "ENGLISH": "They have doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos dudado",
-      "ENGLISH": "we have doubted"
+      "SPANISH": "Hemos dudado",
+      "ENGLISH": "We have doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis dudado",
-      "ENGLISH": "you (plural) have doubted"
+      "SPANISH": "Habéis dudado",
+      "ENGLISH": "You have doubted"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "dudé",
+      "SPANISH": "Dudé",
       "ENGLISH": "I doubted"
     },
     "TU": {
-      "SPANISH": "dudaste",
-      "ENGLISH": "you doubted"
+      "SPANISH": "Dudaste",
+      "ENGLISH": "You doubted"
     },
     "EL": {
-      "SPANISH": "dudó",
-      "ENGLISH": "s/he doubted, you (formal) doubted"
+      "SPANISH": "Dudó",
+      "ENGLISH": "He doubted"
     },
     "ELLOS": {
-      "SPANISH": "dudaron",
-      "ENGLISH": "they doubted, you (plural formal) doubted"
+      "SPANISH": "Dudaron",
+      "ENGLISH": "They doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "dudamos",
-      "ENGLISH": "we doubted"
+      "SPANISH": "Dudamos",
+      "ENGLISH": "We doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "dudasteis",
-      "ENGLISH": "you (plural) doubted"
+      "SPANISH": "Dudasteis",
+      "ENGLISH": "You doubted"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había dudado",
+      "SPANISH": "Había dudado",
       "ENGLISH": "I had doubted"
     },
     "TU": {
-      "SPANISH": "habías dudado",
-      "ENGLISH": "you had doubted"
+      "SPANISH": "Habías dudado",
+      "ENGLISH": "You had doubted"
     },
     "EL": {
-      "SPANISH": "había dudado",
-      "ENGLISH": "s/he had doubted, you (formal) had doubted"
+      "SPANISH": "Había dudado",
+      "ENGLISH": "He had doubted"
     },
     "ELLOS": {
-      "SPANISH": "habían dudado",
-      "ENGLISH": "they had doubted, you (plural formal) had doubted"
+      "SPANISH": "Habían dudado",
+      "ENGLISH": "They had doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos dudado",
-      "ENGLISH": "we had doubted"
+      "SPANISH": "Habíamos dudado",
+      "ENGLISH": "We had doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais dudado",
-      "ENGLISH": "you (plural) had doubted"
+      "SPANISH": "Habíais dudado",
+      "ENGLISH": "You had doubted"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "dudé",
+      "SPANISH": "Dudé",
       "ENGLISH": "I doubted"
     },
     "TU": {
-      "SPANISH": "dudaste",
-      "ENGLISH": "you doubted"
+      "SPANISH": "Dudaste",
+      "ENGLISH": "You doubted"
     },
     "EL": {
-      "SPANISH": "dudó",
-      "ENGLISH": "s/he doubted, you (formal) doubted"
+      "SPANISH": "Dudó",
+      "ENGLISH": "He doubted"
     },
     "ELLOS": {
-      "SPANISH": "dudaron",
-      "ENGLISH": "they doubted, you (plural formal) doubted"
+      "SPANISH": "Dudaron",
+      "ENGLISH": "They doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "dudamos",
-      "ENGLISH": "we doubted"
+      "SPANISH": "Dudamos",
+      "ENGLISH": "We doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "dudasteis",
-      "ENGLISH": "you (plural) doubted"
+      "SPANISH": "Dudasteis",
+      "ENGLISH": "You doubted"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "dudaré",
+      "SPANISH": "Dudaré",
       "ENGLISH": "I will doubt"
     },
     "TU": {
-      "SPANISH": "dudarás",
-      "ENGLISH": "you will doubt"
+      "SPANISH": "Dudarás",
+      "ENGLISH": "You will doubt"
     },
     "EL": {
-      "SPANISH": "dudará",
-      "ENGLISH": "s/he will doubt, you (formal) will doubt"
+      "SPANISH": "Dudará",
+      "ENGLISH": "He will doubt"
     },
     "ELLOS": {
-      "SPANISH": "dudarán",
-      "ENGLISH": "they will doubt, you (plural formal) will doubt"
+      "SPANISH": "Dudarán",
+      "ENGLISH": "They will doubt"
     },
     "NOSOTROS": {
-      "SPANISH": "dudaremos",
-      "ENGLISH": "we will doubt"
+      "SPANISH": "Dudaremos",
+      "ENGLISH": "We will doubt"
     },
     "VOSOTROS": {
-      "SPANISH": "dudaréis",
-      "ENGLISH": "you (plural) will doubt"
+      "SPANISH": "Dudaréis",
+      "ENGLISH": "You will doubt"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré dudado",
+      "SPANISH": "Habré dudado",
       "ENGLISH": "I will have doubted"
     },
     "TU": {
-      "SPANISH": "habrás dudado",
-      "ENGLISH": "you will have doubted"
+      "SPANISH": "Habrás dudado",
+      "ENGLISH": "You will have doubted"
     },
     "EL": {
-      "SPANISH": "habrá dudado",
-      "ENGLISH": "s/he will have doubted, you (formal) will have doubted"
+      "SPANISH": "Habrá dudado",
+      "ENGLISH": "He will have doubted"
     },
     "ELLOS": {
-      "SPANISH": "habrán dudado",
-      "ENGLISH": "they will have doubted, you (plural formal) will have doubted"
+      "SPANISH": "Habrán dudado",
+      "ENGLISH": "They will have doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos dudado",
-      "ENGLISH": "we will have doubted"
+      "SPANISH": "Habremos dudado",
+      "ENGLISH": "We will have doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis dudado",
-      "ENGLISH": "you (plural) will have doubted"
+      "SPANISH": "Habréis dudado",
+      "ENGLISH": "You will have doubted"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "dudaría",
+      "SPANISH": "Dudaría",
       "ENGLISH": "I would doubt"
     },
     "TU": {
-      "SPANISH": "dudarías",
-      "ENGLISH": "you would doubt"
+      "SPANISH": "Dudarías",
+      "ENGLISH": "You would doubt"
     },
     "EL": {
-      "SPANISH": "dudaría",
-      "ENGLISH": "s/he would doubt, you (formal) would doubt"
+      "SPANISH": "Dudaría",
+      "ENGLISH": "He would doubt"
     },
     "ELLOS": {
-      "SPANISH": "dudarían",
-      "ENGLISH": "they would doubt, you (plural formal) would doubt"
+      "SPANISH": "Dudarían",
+      "ENGLISH": "They would doubt"
     },
     "NOSOTROS": {
-      "SPANISH": "dudaríamos",
-      "ENGLISH": "we would doubt"
+      "SPANISH": "Dudaríamos",
+      "ENGLISH": "We would doubt"
     },
     "VOSOTROS": {
-      "SPANISH": "dudaríais",
-      "ENGLISH": "you (plural) would doubt"
+      "SPANISH": "Dudaríais",
+      "ENGLISH": "You would doubt"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría dudado",
+      "SPANISH": "Habría dudado",
       "ENGLISH": "I would have doubted"
     },
     "TU": {
-      "SPANISH": "habrías dudado",
-      "ENGLISH": "you would have doubted"
+      "SPANISH": "Habrías dudado",
+      "ENGLISH": "You would have doubted"
     },
     "EL": {
-      "SPANISH": "habría dudado",
-      "ENGLISH": "s/he would have doubted, you (formal) would have doubted"
+      "SPANISH": "Habría dudado",
+      "ENGLISH": "He would have doubted"
     },
     "ELLOS": {
-      "SPANISH": "habrían dudado",
-      "ENGLISH": "they would have doubted, you (plural formal) would have doubted"
+      "SPANISH": "Habrían dudado",
+      "ENGLISH": "They would have doubted"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos dudado",
-      "ENGLISH": "we would have doubted"
+      "SPANISH": "Habríamos dudado",
+      "ENGLISH": "We would have doubted"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais dudado",
-      "ENGLISH": "you (plural) would have doubted"
+      "SPANISH": "Habríais dudado",
+      "ENGLISH": "You would have doubted"
     }
   }
 }

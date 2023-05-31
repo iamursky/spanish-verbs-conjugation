@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "me preocupo",
+      "SPANISH": "Me preocupo",
       "ENGLISH": "I worry"
     },
     "TU": {
-      "SPANISH": "te preocupas",
-      "ENGLISH": "you worry"
+      "SPANISH": "Te preocupas",
+      "ENGLISH": "You worry"
     },
     "EL": {
-      "SPANISH": "se preocupa",
-      "ENGLISH": "s/he worries, you (formal) worries"
+      "SPANISH": "Se preocupa",
+      "ENGLISH": "He worries"
     },
     "ELLOS": {
-      "SPANISH": "se preocupan",
-      "ENGLISH": "they worry, you (plural formal) worry"
+      "SPANISH": "Se preocupan",
+      "ENGLISH": "They worry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos preocupamos",
-      "ENGLISH": "we worry"
+      "SPANISH": "Nos preocupamos",
+      "ENGLISH": "We worry"
     },
     "VOSOTROS": {
-      "SPANISH": "os preocupáis",
-      "ENGLISH": "you (plural) worry"
+      "SPANISH": "Os preocupáis",
+      "ENGLISH": "You worry"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me he preocupado",
+      "SPANISH": "Me he preocupado",
       "ENGLISH": "I have worried"
     },
     "TU": {
-      "SPANISH": "te has preocupado",
-      "ENGLISH": "you have worried"
+      "SPANISH": "Te has preocupado",
+      "ENGLISH": "You have worried"
     },
     "EL": {
-      "SPANISH": "se ha preocupado",
-      "ENGLISH": "s/he has worried, you (formal) have worried"
+      "SPANISH": "Se ha preocupado",
+      "ENGLISH": "He has worried"
     },
     "ELLOS": {
-      "SPANISH": "se han preocupado",
-      "ENGLISH": "they have worried, you (plural formal) have worried"
+      "SPANISH": "Se han preocupado",
+      "ENGLISH": "They have worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos hemos preocupado",
-      "ENGLISH": "we have worried"
+      "SPANISH": "Nos hemos preocupado",
+      "ENGLISH": "We have worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os habéis preocupado",
-      "ENGLISH": "you (plural) have worried"
+      "SPANISH": "Os habéis preocupado",
+      "ENGLISH": "You have worried"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "me preocupé",
+      "SPANISH": "Me preocupé",
       "ENGLISH": "I worried"
     },
     "TU": {
-      "SPANISH": "te preocupaste",
-      "ENGLISH": "you worried"
+      "SPANISH": "Te preocupaste",
+      "ENGLISH": "You worried"
     },
     "EL": {
-      "SPANISH": "se preocupó",
-      "ENGLISH": "s/he worried, you (formal) worried"
+      "SPANISH": "Se preocupó",
+      "ENGLISH": "He worried"
     },
     "ELLOS": {
-      "SPANISH": "se preocuparon",
-      "ENGLISH": "they worried, you (plural formal) worried"
+      "SPANISH": "Se preocuparon",
+      "ENGLISH": "They worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos preocupamos",
-      "ENGLISH": "we worried"
+      "SPANISH": "Nos preocupamos",
+      "ENGLISH": "We worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os preocupasteis",
-      "ENGLISH": "you (plural) worried"
+      "SPANISH": "Os preocupasteis",
+      "ENGLISH": "You worried"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "me había preocupado",
+      "SPANISH": "Me había preocupado",
       "ENGLISH": "I had worried"
     },
     "TU": {
-      "SPANISH": "te habías preocupado",
-      "ENGLISH": "you had worried"
+      "SPANISH": "Te habías preocupado",
+      "ENGLISH": "You had worried"
     },
     "EL": {
-      "SPANISH": "se había preocupado",
-      "ENGLISH": "s/he had worried, you (formal) had worried"
+      "SPANISH": "Se había preocupado",
+      "ENGLISH": "He had worried"
     },
     "ELLOS": {
-      "SPANISH": "se habían preocupado",
-      "ENGLISH": "they had worried, you (plural formal) had worried"
+      "SPANISH": "Se habían preocupado",
+      "ENGLISH": "They had worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habíamos preocupado",
-      "ENGLISH": "we had worried"
+      "SPANISH": "Nos habíamos preocupado",
+      "ENGLISH": "We had worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os habíais preocupado",
-      "ENGLISH": "you (plural) had worried"
+      "SPANISH": "Os habíais preocupado",
+      "ENGLISH": "You had worried"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "me preocupé",
+      "SPANISH": "Me preocupé",
       "ENGLISH": "I worried"
     },
     "TU": {
-      "SPANISH": "te preocupaste",
-      "ENGLISH": "you worried"
+      "SPANISH": "Te preocupaste",
+      "ENGLISH": "You worried"
     },
     "EL": {
-      "SPANISH": "se preocupó",
-      "ENGLISH": "s/he worried, you (formal) worried"
+      "SPANISH": "Se preocupó",
+      "ENGLISH": "He worried"
     },
     "ELLOS": {
-      "SPANISH": "se preocuparon",
-      "ENGLISH": "they worried, you (plural formal) worried"
+      "SPANISH": "Se preocuparon",
+      "ENGLISH": "They worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos preocupamos",
-      "ENGLISH": "we worried"
+      "SPANISH": "Nos preocupamos",
+      "ENGLISH": "We worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os preocupasteis",
-      "ENGLISH": "you (plural) worried"
+      "SPANISH": "Os preocupasteis",
+      "ENGLISH": "You worried"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "me preocuparé",
+      "SPANISH": "Me preocuparé",
       "ENGLISH": "I will worry"
     },
     "TU": {
-      "SPANISH": "te preocuparás",
-      "ENGLISH": "you will worry"
+      "SPANISH": "Te preocuparás",
+      "ENGLISH": "You will worry"
     },
     "EL": {
-      "SPANISH": "se preocupará",
-      "ENGLISH": "s/he will worry, you (formal) will worry"
+      "SPANISH": "Se preocupará",
+      "ENGLISH": "He will worry"
     },
     "ELLOS": {
-      "SPANISH": "se preocuparán",
-      "ENGLISH": "they will worry, you (plural formal) will worry"
+      "SPANISH": "Se preocuparán",
+      "ENGLISH": "They will worry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos preocuparemos",
-      "ENGLISH": "we will worry"
+      "SPANISH": "Nos preocuparemos",
+      "ENGLISH": "We will worry"
     },
     "VOSOTROS": {
-      "SPANISH": "os preocuparéis",
-      "ENGLISH": "you (plural) will worry"
+      "SPANISH": "Os preocuparéis",
+      "ENGLISH": "You will worry"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habré preocupado",
+      "SPANISH": "Me habré preocupado",
       "ENGLISH": "I will have worried"
     },
     "TU": {
-      "SPANISH": "te habrás preocupado",
-      "ENGLISH": "you will have worried"
+      "SPANISH": "Te habrás preocupado",
+      "ENGLISH": "You will have worried"
     },
     "EL": {
-      "SPANISH": "se habrá preocupado",
-      "ENGLISH": "s/he will have worried, you (formal) will have worried"
+      "SPANISH": "Se habrá preocupado",
+      "ENGLISH": "He will have worried"
     },
     "ELLOS": {
-      "SPANISH": "se habrán preocupado",
-      "ENGLISH": "they will have worried, you (plural formal) will have worried"
+      "SPANISH": "Se habrán preocupado",
+      "ENGLISH": "They will have worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habremos preocupado",
-      "ENGLISH": "we will have worried"
+      "SPANISH": "Nos habremos preocupado",
+      "ENGLISH": "We will have worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os habréis preocupado",
-      "ENGLISH": "you (plural) will have worried"
+      "SPANISH": "Os habréis preocupado",
+      "ENGLISH": "You will have worried"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "me preocuparía",
+      "SPANISH": "Me preocuparía",
       "ENGLISH": "I would worry"
     },
     "TU": {
-      "SPANISH": "te preocuparías",
-      "ENGLISH": "you would worry"
+      "SPANISH": "Te preocuparías",
+      "ENGLISH": "You would worry"
     },
     "EL": {
-      "SPANISH": "se preocuparía",
-      "ENGLISH": "s/he would worry, you (formal) would worry"
+      "SPANISH": "Se preocuparía",
+      "ENGLISH": "He would worry"
     },
     "ELLOS": {
-      "SPANISH": "se preocuparían",
-      "ENGLISH": "they would worry, you (plural formal) would worry"
+      "SPANISH": "Se preocuparían",
+      "ENGLISH": "They would worry"
     },
     "NOSOTROS": {
-      "SPANISH": "nos preocuparíamos",
-      "ENGLISH": "we would worry"
+      "SPANISH": "Nos preocuparíamos",
+      "ENGLISH": "We would worry"
     },
     "VOSOTROS": {
-      "SPANISH": "os preocuparíais",
-      "ENGLISH": "you (plural) would worry"
+      "SPANISH": "Os preocuparíais",
+      "ENGLISH": "You would worry"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "me habría preocupado",
+      "SPANISH": "Me habría preocupado",
       "ENGLISH": "I would have worried"
     },
     "TU": {
-      "SPANISH": "te habrías preocupado",
-      "ENGLISH": "you would have worried"
+      "SPANISH": "Te habrías preocupado",
+      "ENGLISH": "You would have worried"
     },
     "EL": {
-      "SPANISH": "se habría preocupado",
-      "ENGLISH": "s/he would have worried, you (formal) would have worried"
+      "SPANISH": "Se habría preocupado",
+      "ENGLISH": "He would have worried"
     },
     "ELLOS": {
-      "SPANISH": "se habrían preocupado",
-      "ENGLISH": "they would have worried, you (plural formal) would have worried"
+      "SPANISH": "Se habrían preocupado",
+      "ENGLISH": "They would have worried"
     },
     "NOSOTROS": {
-      "SPANISH": "nos habríamos preocupado",
-      "ENGLISH": "we would have worried"
+      "SPANISH": "Nos habríamos preocupado",
+      "ENGLISH": "We would have worried"
     },
     "VOSOTROS": {
-      "SPANISH": "os habríais preocupado",
-      "ENGLISH": "you (plural) would have worried"
+      "SPANISH": "Os habríais preocupado",
+      "ENGLISH": "You would have worried"
     }
   }
 }

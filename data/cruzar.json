@@ -1,236 +1,236 @@
 {
   "PRESENTE": {
     "YO": {
-      "SPANISH": "cruzo",
+      "SPANISH": "Cruzo",
       "ENGLISH": "I cross"
     },
     "TU": {
-      "SPANISH": "cruzas",
-      "ENGLISH": "you cross"
+      "SPANISH": "Cruzas",
+      "ENGLISH": "You cross"
     },
     "EL": {
-      "SPANISH": "cruza",
-      "ENGLISH": "s/he crosses, you (formal) crosses"
+      "SPANISH": "Cruza",
+      "ENGLISH": "He crosses"
     },
     "ELLOS": {
-      "SPANISH": "cruzan",
-      "ENGLISH": "they cross, you (plural formal) cross"
+      "SPANISH": "Cruzan",
+      "ENGLISH": "They cross"
     },
     "NOSOTROS": {
-      "SPANISH": "cruzamos",
-      "ENGLISH": "we cross"
+      "SPANISH": "Cruzamos",
+      "ENGLISH": "We cross"
     },
     "VOSOTROS": {
-      "SPANISH": "cruzáis",
-      "ENGLISH": "you (plural) cross"
+      "SPANISH": "Cruzáis",
+      "ENGLISH": "You cross"
     }
   },
   "PERFECTO_COMPUESTO": {
     "YO": {
-      "SPANISH": "he cruzado",
+      "SPANISH": "He cruzado",
       "ENGLISH": "I have crossed"
     },
     "TU": {
-      "SPANISH": "has cruzado",
-      "ENGLISH": "you have crossed"
+      "SPANISH": "Has cruzado",
+      "ENGLISH": "You have crossed"
     },
     "EL": {
-      "SPANISH": "ha cruzado",
-      "ENGLISH": "s/he has crossed, you (formal) have crossed"
+      "SPANISH": "Ha cruzado",
+      "ENGLISH": "He has crossed"
     },
     "ELLOS": {
-      "SPANISH": "han cruzado",
-      "ENGLISH": "they have crossed, you (plural formal) have crossed"
+      "SPANISH": "Han cruzado",
+      "ENGLISH": "They have crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "hemos cruzado",
-      "ENGLISH": "we have crossed"
+      "SPANISH": "Hemos cruzado",
+      "ENGLISH": "We have crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "habéis cruzado",
-      "ENGLISH": "you (plural) have crossed"
+      "SPANISH": "Habéis cruzado",
+      "ENGLISH": "You have crossed"
     }
   },
   "PRETERITO_INDEFINIDO": {
     "YO": {
-      "SPANISH": "crucé ",
+      "SPANISH": "Crucé ",
       "ENGLISH": "I crossed"
     },
     "TU": {
-      "SPANISH": "cruzaste",
-      "ENGLISH": "you crossed"
+      "SPANISH": "Cruzaste",
+      "ENGLISH": "You crossed"
     },
     "EL": {
-      "SPANISH": "cruzó",
-      "ENGLISH": "s/he crossed, you (formal) crossed"
+      "SPANISH": "Cruzó",
+      "ENGLISH": "He crossed"
     },
     "ELLOS": {
-      "SPANISH": "cruzaron",
-      "ENGLISH": "they crossed, you (plural formal) crossed"
+      "SPANISH": "Cruzaron",
+      "ENGLISH": "They crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "cruzamos",
-      "ENGLISH": "we crossed"
+      "SPANISH": "Cruzamos",
+      "ENGLISH": "We crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "cruzasteis",
-      "ENGLISH": "you (plural) crossed"
+      "SPANISH": "Cruzasteis",
+      "ENGLISH": "You crossed"
     }
   },
   "PRETERITO_PLUSCUAMPERFECTO": {
     "YO": {
-      "SPANISH": "había cruzado",
+      "SPANISH": "Había cruzado",
       "ENGLISH": "I had crossed"
     },
     "TU": {
-      "SPANISH": "habías cruzado",
-      "ENGLISH": "you had crossed"
+      "SPANISH": "Habías cruzado",
+      "ENGLISH": "You had crossed"
     },
     "EL": {
-      "SPANISH": "había cruzado",
-      "ENGLISH": "s/he had crossed, you (formal) had crossed"
+      "SPANISH": "Había cruzado",
+      "ENGLISH": "He had crossed"
     },
     "ELLOS": {
-      "SPANISH": "habían cruzado",
-      "ENGLISH": "they had crossed, you (plural formal) had crossed"
+      "SPANISH": "Habían cruzado",
+      "ENGLISH": "They had crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "habíamos cruzado",
-      "ENGLISH": "we had crossed"
+      "SPANISH": "Habíamos cruzado",
+      "ENGLISH": "We had crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "habíais cruzado",
-      "ENGLISH": "you (plural) had crossed"
+      "SPANISH": "Habíais cruzado",
+      "ENGLISH": "You had crossed"
     }
   },
   "PRETERITO_IMPERFECTO": {
     "YO": {
-      "SPANISH": "crucé ",
+      "SPANISH": "Crucé ",
       "ENGLISH": "I crossed"
     },
     "TU": {
-      "SPANISH": "cruzaste",
-      "ENGLISH": "you crossed"
+      "SPANISH": "Cruzaste",
+      "ENGLISH": "You crossed"
     },
     "EL": {
-      "SPANISH": "cruzó",
-      "ENGLISH": "s/he crossed, you (formal) crossed"
+      "SPANISH": "Cruzó",
+      "ENGLISH": "He crossed"
     },
     "ELLOS": {
-      "SPANISH": "cruzaron",
-      "ENGLISH": "they crossed, you (plural formal) crossed"
+      "SPANISH": "Cruzaron",
+      "ENGLISH": "They crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "cruzamos",
-      "ENGLISH": "we crossed"
+      "SPANISH": "Cruzamos",
+      "ENGLISH": "We crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "cruzasteis",
-      "ENGLISH": "you (plural) crossed"
+      "SPANISH": "Cruzasteis",
+      "ENGLISH": "You crossed"
     }
   },
   "FUTURO_SIMPLE": {
     "YO": {
-      "SPANISH": "cruzaré",
+      "SPANISH": "Cruzaré",
       "ENGLISH": "I will cross"
     },
     "TU": {
-      "SPANISH": "cruzarás",
-      "ENGLISH": "you will cross"
+      "SPANISH": "Cruzarás",
+      "ENGLISH": "You will cross"
     },
     "EL": {
-      "SPANISH": "cruzará",
-      "ENGLISH": "s/he will cross, you (formal) will cross"
+      "SPANISH": "Cruzará",
+      "ENGLISH": "He will cross"
     },
     "ELLOS": {
-      "SPANISH": "cruzarán",
-      "ENGLISH": "they will cross, you (plural formal) will cross"
+      "SPANISH": "Cruzarán",
+      "ENGLISH": "They will cross"
     },
     "NOSOTROS": {
-      "SPANISH": "cruzaremos",
-      "ENGLISH": "we will cross"
+      "SPANISH": "Cruzaremos",
+      "ENGLISH": "We will cross"
     },
     "VOSOTROS": {
-      "SPANISH": "cruzaréis",
-      "ENGLISH": "you (plural) will cross"
+      "SPANISH": "Cruzaréis",
+      "ENGLISH": "You will cross"
     }
   },
   "FUTURO_COMPUESTO": {
     "YO": {
-      "SPANISH": "habré cruzado",
+      "SPANISH": "Habré cruzado",
       "ENGLISH": "I will have crossed"
     },
     "TU": {
-      "SPANISH": "habrás cruzado",
-      "ENGLISH": "you will have crossed"
+      "SPANISH": "Habrás cruzado",
+      "ENGLISH": "You will have crossed"
     },
     "EL": {
-      "SPANISH": "habrá cruzado",
-      "ENGLISH": "s/he will have crossed, you (formal) will have crossed"
+      "SPANISH": "Habrá cruzado",
+      "ENGLISH": "He will have crossed"
     },
     "ELLOS": {
-      "SPANISH": "habrán cruzado",
-      "ENGLISH": "they will have crossed, you (plural formal) will have crossed"
+      "SPANISH": "Habrán cruzado",
+      "ENGLISH": "They will have crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "habremos cruzado",
-      "ENGLISH": "we will have crossed"
+      "SPANISH": "Habremos cruzado",
+      "ENGLISH": "We will have crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "habréis cruzado",
-      "ENGLISH": "you (plural) will have crossed"
+      "SPANISH": "Habréis cruzado",
+      "ENGLISH": "You will have crossed"
     }
   },
   "CONDICIONAL_SIMPLE": {
     "YO": {
-      "SPANISH": "cruzaría",
+      "SPANISH": "Cruzaría",
       "ENGLISH": "I would cross"
     },
     "TU": {
-      "SPANISH": "cruzarías",
-      "ENGLISH": "you would cross"
+      "SPANISH": "Cruzarías",
+      "ENGLISH": "You would cross"
     },
     "EL": {
-      "SPANISH": "cruzaría",
-      "ENGLISH": "s/he would cross, you (formal) would cross"
+      "SPANISH": "Cruzaría",
+      "ENGLISH": "He would cross"
     },
     "ELLOS": {
-      "SPANISH": "cruzarían",
-      "ENGLISH": "they would cross, you (plural formal) would cross"
+      "SPANISH": "Cruzarían",
+      "ENGLISH": "They would cross"
     },
     "NOSOTROS": {
-      "SPANISH": "cruzaríamos",
-      "ENGLISH": "we would cross"
+      "SPANISH": "Cruzaríamos",
+      "ENGLISH": "We would cross"
     },
     "VOSOTROS": {
-      "SPANISH": "cruzaríais",
-      "ENGLISH": "you (plural) would cross"
+      "SPANISH": "Cruzaríais",
+      "ENGLISH": "You would cross"
     }
   },
   "CONDICIONAL_COMPUESTO": {
     "YO": {
-      "SPANISH": "habría cruzado",
+      "SPANISH": "Habría cruzado",
       "ENGLISH": "I would have crossed"
     },
     "TU": {
-      "SPANISH": "habrías cruzado",
-      "ENGLISH": "you would have crossed"
+      "SPANISH": "Habrías cruzado",
+      "ENGLISH": "You would have crossed"
     },
     "EL": {
-      "SPANISH": "habría cruzado",
-      "ENGLISH": "s/he would have crossed, you (formal) would have crossed"
+      "SPANISH": "Habría cruzado",
+      "ENGLISH": "He would have crossed"
     },
     "ELLOS": {
-      "SPANISH": "habrían cruzado",
-      "ENGLISH": "they would have crossed, you (plural formal) would have crossed"
+      "SPANISH": "Habrían cruzado",
+      "ENGLISH": "They would have crossed"
     },
     "NOSOTROS": {
-      "SPANISH": "habríamos cruzado",
-      "ENGLISH": "we would have crossed"
+      "SPANISH": "Habríamos cruzado",
+      "ENGLISH": "We would have crossed"
     },
     "VOSOTROS": {
-      "SPANISH": "habríais cruzado",
-      "ENGLISH": "you (plural) would have crossed"
+      "SPANISH": "Habríais cruzado",
+      "ENGLISH": "You would have crossed"
     }
   }
 }
