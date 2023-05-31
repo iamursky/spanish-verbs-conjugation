@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "ejercito",
+      "ENGLISH": "I excercise"
+    },
+    "TU": {
+      "SPANISH": "ejercitas",
+      "ENGLISH": "you excercise"
+    },
+    "EL": {
+      "SPANISH": "ejercita",
+      "ENGLISH": "s/he excercises, you (formal) excercises"
+    },
+    "ELLOS": {
+      "SPANISH": "ejercitan",
+      "ENGLISH": "they excercise, you (plural formal) excercise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ejercitamos",
+      "ENGLISH": "we excercise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ejercitáis",
+      "ENGLISH": "you (plural) excercise"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he ejercitado",
+      "ENGLISH": "I have excercised"
+    },
+    "TU": {
+      "SPANISH": "has ejercitado",
+      "ENGLISH": "you have excercised"
+    },
+    "EL": {
+      "SPANISH": "ha ejercitado",
+      "ENGLISH": "s/he has excercised, you (formal) have excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "han ejercitado",
+      "ENGLISH": "they have excercised, you (plural formal) have excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos ejercitado",
+      "ENGLISH": "we have excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis ejercitado",
+      "ENGLISH": "you (plural) have excercised"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "ejercité",
+      "ENGLISH": "I excercised"
+    },
+    "TU": {
+      "SPANISH": "ejercitaste",
+      "ENGLISH": "you excercised"
+    },
+    "EL": {
+      "SPANISH": "ejercitó",
+      "ENGLISH": "s/he excercised, you (formal) excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "ejercitaron",
+      "ENGLISH": "they excercised, you (plural formal) excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ejercitamos",
+      "ENGLISH": "we excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ejercitasteis",
+      "ENGLISH": "you (plural) excercised"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había ejercitado",
+      "ENGLISH": "I had excercised"
+    },
+    "TU": {
+      "SPANISH": "habías ejercitado",
+      "ENGLISH": "you had excercised"
+    },
+    "EL": {
+      "SPANISH": "había ejercitado",
+      "ENGLISH": "s/he had excercised, you (formal) had excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "habían ejercitado",
+      "ENGLISH": "they had excercised, you (plural formal) had excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos ejercitado",
+      "ENGLISH": "we had excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais ejercitado",
+      "ENGLISH": "you (plural) had excercised"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "ejercité",
+      "ENGLISH": "I excercised"
+    },
+    "TU": {
+      "SPANISH": "ejercitaste",
+      "ENGLISH": "you excercised"
+    },
+    "EL": {
+      "SPANISH": "ejercitó",
+      "ENGLISH": "s/he excercised, you (formal) excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "ejercitaron",
+      "ENGLISH": "they excercised, you (plural formal) excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ejercitamos",
+      "ENGLISH": "we excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ejercitasteis",
+      "ENGLISH": "you (plural) excercised"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "ejercitaré",
+      "ENGLISH": "I will excercise"
+    },
+    "TU": {
+      "SPANISH": "ejercitarás",
+      "ENGLISH": "you will excercise"
+    },
+    "EL": {
+      "SPANISH": "ejercitará",
+      "ENGLISH": "s/he will excercise, you (formal) will excercise"
+    },
+    "ELLOS": {
+      "SPANISH": "ejercitarán",
+      "ENGLISH": "they will excercise, you (plural formal) will excercise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ejercitaremos",
+      "ENGLISH": "we will excercise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ejercitaréis",
+      "ENGLISH": "you (plural) will excercise"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré ejercitado",
+      "ENGLISH": "I will have excercised"
+    },
+    "TU": {
+      "SPANISH": "habrás ejercitado",
+      "ENGLISH": "you will have excercised"
+    },
+    "EL": {
+      "SPANISH": "habrá ejercitado",
+      "ENGLISH": "s/he will have excercised, you (formal) will have excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán ejercitado",
+      "ENGLISH": "they will have excercised, you (plural formal) will have excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos ejercitado",
+      "ENGLISH": "we will have excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis ejercitado",
+      "ENGLISH": "you (plural) will have excercised"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "ejercitaría",
+      "ENGLISH": "I would excercise"
+    },
+    "TU": {
+      "SPANISH": "ejercitarías",
+      "ENGLISH": "you would excercise"
+    },
+    "EL": {
+      "SPANISH": "ejercitaría",
+      "ENGLISH": "s/he would excercise, you (formal) would excercise"
+    },
+    "ELLOS": {
+      "SPANISH": "ejercitarían",
+      "ENGLISH": "they would excercise, you (plural formal) would excercise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ejercitaríamos",
+      "ENGLISH": "we would excercise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ejercitaríais",
+      "ENGLISH": "you (plural) would excercise"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría ejercitado",
+      "ENGLISH": "I would have excercised"
+    },
+    "TU": {
+      "SPANISH": "habrías ejercitado",
+      "ENGLISH": "you would have excercised"
+    },
+    "EL": {
+      "SPANISH": "habría ejercitado",
+      "ENGLISH": "s/he would have excercised, you (formal) would have excercised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían ejercitado",
+      "ENGLISH": "they would have excercised, you (plural formal) would have excercised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos ejercitado",
+      "ENGLISH": "we would have excercised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais ejercitado",
+      "ENGLISH": "you (plural) would have excercised"
+    }
+  }
+}

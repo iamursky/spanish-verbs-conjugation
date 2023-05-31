@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "admito",
+      "ENGLISH": "I admit"
+    },
+    "TU": {
+      "SPANISH": "admites",
+      "ENGLISH": "you admit"
+    },
+    "EL": {
+      "SPANISH": "admite",
+      "ENGLISH": "s/he admits, you (formal) admits"
+    },
+    "ELLOS": {
+      "SPANISH": "admiten",
+      "ENGLISH": "they admit, you (plural formal) admit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "admitimos",
+      "ENGLISH": "we admit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "admitís",
+      "ENGLISH": "you (plural) admit"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he admitido",
+      "ENGLISH": "I have admitted"
+    },
+    "TU": {
+      "SPANISH": "has admitido",
+      "ENGLISH": "you have admitted"
+    },
+    "EL": {
+      "SPANISH": "ha admitido",
+      "ENGLISH": "s/he has admitted, you (formal) have admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "han admitido",
+      "ENGLISH": "they have admitted, you (plural formal) have admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos admitido",
+      "ENGLISH": "we have admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis admitido",
+      "ENGLISH": "you (plural) have admitted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "admití",
+      "ENGLISH": "I admitted"
+    },
+    "TU": {
+      "SPANISH": "admitiste",
+      "ENGLISH": "you admitted"
+    },
+    "EL": {
+      "SPANISH": "admitió",
+      "ENGLISH": "s/he admitted, you (formal) admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "admitieron",
+      "ENGLISH": "they admitted, you (plural formal) admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "admitimos",
+      "ENGLISH": "we admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "admitisteis",
+      "ENGLISH": "you (plural) admitted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había admitido",
+      "ENGLISH": "I had admitted"
+    },
+    "TU": {
+      "SPANISH": "habías admitido",
+      "ENGLISH": "you had admitted"
+    },
+    "EL": {
+      "SPANISH": "había admitido",
+      "ENGLISH": "s/he had admitted, you (formal) had admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían admitido",
+      "ENGLISH": "they had admitted, you (plural formal) had admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos admitido",
+      "ENGLISH": "we had admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais admitido",
+      "ENGLISH": "you (plural) had admitted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "admití",
+      "ENGLISH": "I admitted"
+    },
+    "TU": {
+      "SPANISH": "admitiste",
+      "ENGLISH": "you admitted"
+    },
+    "EL": {
+      "SPANISH": "admitió",
+      "ENGLISH": "s/he admitted, you (formal) admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "admitieron",
+      "ENGLISH": "they admitted, you (plural formal) admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "admitimos",
+      "ENGLISH": "we admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "admitisteis",
+      "ENGLISH": "you (plural) admitted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "admitiré",
+      "ENGLISH": "I will admit"
+    },
+    "TU": {
+      "SPANISH": "admitirás",
+      "ENGLISH": "you will admit"
+    },
+    "EL": {
+      "SPANISH": "admitirá",
+      "ENGLISH": "s/he will admit, you (formal) will admit"
+    },
+    "ELLOS": {
+      "SPANISH": "admitirán",
+      "ENGLISH": "they will admit, you (plural formal) will admit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "admitiremos",
+      "ENGLISH": "we will admit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "admitiréis",
+      "ENGLISH": "you (plural) will admit"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré admitido",
+      "ENGLISH": "I will have admitted"
+    },
+    "TU": {
+      "SPANISH": "habrás admitido",
+      "ENGLISH": "you will have admitted"
+    },
+    "EL": {
+      "SPANISH": "habrá admitido",
+      "ENGLISH": "s/he will have admitted, you (formal) will have admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán admitido",
+      "ENGLISH": "they will have admitted, you (plural formal) will have admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos admitido",
+      "ENGLISH": "we will have admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis admitido",
+      "ENGLISH": "you (plural) will have admitted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "admitiría",
+      "ENGLISH": "I would admit"
+    },
+    "TU": {
+      "SPANISH": "admitirías",
+      "ENGLISH": "you would admit"
+    },
+    "EL": {
+      "SPANISH": "admitiría",
+      "ENGLISH": "s/he would admit, you (formal) would admit"
+    },
+    "ELLOS": {
+      "SPANISH": "admitirían",
+      "ENGLISH": "they would admit, you (plural formal) would admit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "admitiríamos",
+      "ENGLISH": "we would admit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "admitiríais",
+      "ENGLISH": "you (plural) would admit"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría admitido",
+      "ENGLISH": "I would have admitted"
+    },
+    "TU": {
+      "SPANISH": "habrías admitido",
+      "ENGLISH": "you would have admitted"
+    },
+    "EL": {
+      "SPANISH": "habría admitido",
+      "ENGLISH": "s/he would have admitted, you (formal) would have admitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían admitido",
+      "ENGLISH": "they would have admitted, you (plural formal) would have admitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos admitido",
+      "ENGLISH": "we would have admitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais admitido",
+      "ENGLISH": "you (plural) would have admitted"
+    }
+  }
+}

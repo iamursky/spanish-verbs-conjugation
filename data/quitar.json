@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "quito",
+      "ENGLISH": "I take away"
+    },
+    "TU": {
+      "SPANISH": "quitas",
+      "ENGLISH": "you take away"
+    },
+    "EL": {
+      "SPANISH": "quita",
+      "ENGLISH": "s/he takes away, you (formal) takes away"
+    },
+    "ELLOS": {
+      "SPANISH": "quitan",
+      "ENGLISH": "they take away, you (plural formal) take away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "quitamos",
+      "ENGLISH": "we take away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "quitáis",
+      "ENGLISH": "you (plural) take away"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he quitado",
+      "ENGLISH": "I have taken away"
+    },
+    "TU": {
+      "SPANISH": "has quitado",
+      "ENGLISH": "you have taken away"
+    },
+    "EL": {
+      "SPANISH": "ha quitado",
+      "ENGLISH": "s/he has taken away, you (formal) have taken away"
+    },
+    "ELLOS": {
+      "SPANISH": "han quitado",
+      "ENGLISH": "they have taken away, you (plural formal) have taken away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos quitado",
+      "ENGLISH": "we have taken away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis quitado",
+      "ENGLISH": "you (plural) have taken away"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "quité",
+      "ENGLISH": "I took away"
+    },
+    "TU": {
+      "SPANISH": "quitaste",
+      "ENGLISH": "you took away"
+    },
+    "EL": {
+      "SPANISH": "quitó",
+      "ENGLISH": "s/he took away, you (formal) took away"
+    },
+    "ELLOS": {
+      "SPANISH": "quitaron",
+      "ENGLISH": "they took away, you (plural formal) took away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "quitamos",
+      "ENGLISH": "we took away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "quitasteis",
+      "ENGLISH": "you (plural) took away"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había quitado",
+      "ENGLISH": "I had taken away"
+    },
+    "TU": {
+      "SPANISH": "habías quitado",
+      "ENGLISH": "you had taken away"
+    },
+    "EL": {
+      "SPANISH": "había quitado",
+      "ENGLISH": "s/he had taken away, you (formal) had taken away"
+    },
+    "ELLOS": {
+      "SPANISH": "habían quitado",
+      "ENGLISH": "they had taken away, you (plural formal) had taken away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos quitado",
+      "ENGLISH": "we had taken away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais quitado",
+      "ENGLISH": "you (plural) had taken away"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "quité",
+      "ENGLISH": "I took away"
+    },
+    "TU": {
+      "SPANISH": "quitaste",
+      "ENGLISH": "you took away"
+    },
+    "EL": {
+      "SPANISH": "quitó",
+      "ENGLISH": "s/he took away, you (formal) took away"
+    },
+    "ELLOS": {
+      "SPANISH": "quitaron",
+      "ENGLISH": "they took away, you (plural formal) took away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "quitamos",
+      "ENGLISH": "we took away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "quitasteis",
+      "ENGLISH": "you (plural) took away"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "quitaré",
+      "ENGLISH": "I will take away"
+    },
+    "TU": {
+      "SPANISH": "quitarás",
+      "ENGLISH": "you will take away"
+    },
+    "EL": {
+      "SPANISH": "quitará",
+      "ENGLISH": "s/he will take away, you (formal) will take away"
+    },
+    "ELLOS": {
+      "SPANISH": "quitarán",
+      "ENGLISH": "they will take away, you (plural formal) will take away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "quitaremos",
+      "ENGLISH": "we will take away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "quitaréis",
+      "ENGLISH": "you (plural) will take away"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré quitado",
+      "ENGLISH": "I will have taken away"
+    },
+    "TU": {
+      "SPANISH": "habrás quitado",
+      "ENGLISH": "you will have taken away"
+    },
+    "EL": {
+      "SPANISH": "habrá quitado",
+      "ENGLISH": "s/he will have taken away, you (formal) will have taken away"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán quitado",
+      "ENGLISH": "they will have taken away, you (plural formal) will have taken away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos quitado",
+      "ENGLISH": "we will have taken away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis quitado",
+      "ENGLISH": "you (plural) will have taken away"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "quitaría",
+      "ENGLISH": "I would take away"
+    },
+    "TU": {
+      "SPANISH": "quitarías",
+      "ENGLISH": "you would take away"
+    },
+    "EL": {
+      "SPANISH": "quitaría",
+      "ENGLISH": "s/he would take away, you (formal) would take away"
+    },
+    "ELLOS": {
+      "SPANISH": "quitarían",
+      "ENGLISH": "they would take away, you (plural formal) would take away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "quitaríamos",
+      "ENGLISH": "we would take away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "quitaríais",
+      "ENGLISH": "you (plural) would take away"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría quitado",
+      "ENGLISH": "I would have taken away"
+    },
+    "TU": {
+      "SPANISH": "habrías quitado",
+      "ENGLISH": "you would have taken away"
+    },
+    "EL": {
+      "SPANISH": "habría quitado",
+      "ENGLISH": "s/he would have taken away, you (formal) would have taken away"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían quitado",
+      "ENGLISH": "they would have taken away, you (plural formal) would have taken away"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos quitado",
+      "ENGLISH": "we would have taken away"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais quitado",
+      "ENGLISH": "you (plural) would have taken away"
+    }
+  }
+}

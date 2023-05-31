@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "observo",
+      "ENGLISH": "I observe"
+    },
+    "TU": {
+      "SPANISH": "observas",
+      "ENGLISH": "you observe"
+    },
+    "EL": {
+      "SPANISH": "observa",
+      "ENGLISH": "s/he observes, you (formal) observes"
+    },
+    "ELLOS": {
+      "SPANISH": "observan",
+      "ENGLISH": "they observe, you (plural formal) observe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "observamos",
+      "ENGLISH": "we observe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "observáis",
+      "ENGLISH": "you (plural) observe"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he observado",
+      "ENGLISH": "I have observed"
+    },
+    "TU": {
+      "SPANISH": "has observado",
+      "ENGLISH": "you have observed"
+    },
+    "EL": {
+      "SPANISH": "ha observado",
+      "ENGLISH": "s/he has observed, you (formal) have observed"
+    },
+    "ELLOS": {
+      "SPANISH": "han observado",
+      "ENGLISH": "they have observed, you (plural formal) have observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos observado",
+      "ENGLISH": "we have observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis observado",
+      "ENGLISH": "you (plural) have observed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "observé",
+      "ENGLISH": "I observed"
+    },
+    "TU": {
+      "SPANISH": "observaste",
+      "ENGLISH": "you observed"
+    },
+    "EL": {
+      "SPANISH": "observó",
+      "ENGLISH": "s/he observed, you (formal) observed"
+    },
+    "ELLOS": {
+      "SPANISH": "observaron",
+      "ENGLISH": "they observed, you (plural formal) observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "observamos",
+      "ENGLISH": "we observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "observasteis",
+      "ENGLISH": "you (plural) observed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había observado",
+      "ENGLISH": "I had observed"
+    },
+    "TU": {
+      "SPANISH": "habías observado",
+      "ENGLISH": "you had observed"
+    },
+    "EL": {
+      "SPANISH": "había observado",
+      "ENGLISH": "s/he had observed, you (formal) had observed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían observado",
+      "ENGLISH": "they had observed, you (plural formal) had observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos observado",
+      "ENGLISH": "we had observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais observado",
+      "ENGLISH": "you (plural) had observed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "observé",
+      "ENGLISH": "I observed"
+    },
+    "TU": {
+      "SPANISH": "observaste",
+      "ENGLISH": "you observed"
+    },
+    "EL": {
+      "SPANISH": "observó",
+      "ENGLISH": "s/he observed, you (formal) observed"
+    },
+    "ELLOS": {
+      "SPANISH": "observaron",
+      "ENGLISH": "they observed, you (plural formal) observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "observamos",
+      "ENGLISH": "we observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "observasteis",
+      "ENGLISH": "you (plural) observed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "observaré",
+      "ENGLISH": "I will observe"
+    },
+    "TU": {
+      "SPANISH": "observarás",
+      "ENGLISH": "you will observe"
+    },
+    "EL": {
+      "SPANISH": "observará",
+      "ENGLISH": "s/he will observe, you (formal) will observe"
+    },
+    "ELLOS": {
+      "SPANISH": "observarán",
+      "ENGLISH": "they will observe, you (plural formal) will observe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "observaremos",
+      "ENGLISH": "we will observe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "observaréis",
+      "ENGLISH": "you (plural) will observe"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré observado",
+      "ENGLISH": "I will have observed"
+    },
+    "TU": {
+      "SPANISH": "habrás observado",
+      "ENGLISH": "you will have observed"
+    },
+    "EL": {
+      "SPANISH": "habrá observado",
+      "ENGLISH": "s/he will have observed, you (formal) will have observed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán observado",
+      "ENGLISH": "they will have observed, you (plural formal) will have observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos observado",
+      "ENGLISH": "we will have observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis observado",
+      "ENGLISH": "you (plural) will have observed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "observaría",
+      "ENGLISH": "I would observe"
+    },
+    "TU": {
+      "SPANISH": "observarías",
+      "ENGLISH": "you would observe"
+    },
+    "EL": {
+      "SPANISH": "observaría",
+      "ENGLISH": "s/he would observe, you (formal) would observe"
+    },
+    "ELLOS": {
+      "SPANISH": "observarían",
+      "ENGLISH": "they would observe, you (plural formal) would observe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "observaríamos",
+      "ENGLISH": "we would observe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "observaríais",
+      "ENGLISH": "you (plural) would observe"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría observado",
+      "ENGLISH": "I would have observed"
+    },
+    "TU": {
+      "SPANISH": "habrías observado",
+      "ENGLISH": "you would have observed"
+    },
+    "EL": {
+      "SPANISH": "habría observado",
+      "ENGLISH": "s/he would have observed, you (formal) would have observed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían observado",
+      "ENGLISH": "they would have observed, you (plural formal) would have observed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos observado",
+      "ENGLISH": "we would have observed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais observado",
+      "ENGLISH": "you (plural) would have observed"
+    }
+  }
+}

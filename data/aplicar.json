@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "aplico",
+      "ENGLISH": "I apply"
+    },
+    "TU": {
+      "SPANISH": "aplicas",
+      "ENGLISH": "you apply"
+    },
+    "EL": {
+      "SPANISH": "aplica",
+      "ENGLISH": "s/he applies, you (formal) applies"
+    },
+    "ELLOS": {
+      "SPANISH": "aplican",
+      "ENGLISH": "they apply, you (plural formal) apply"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aplicamos",
+      "ENGLISH": "we apply"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aplicáis",
+      "ENGLISH": "you (plural) apply"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he aplicado",
+      "ENGLISH": "I have applied"
+    },
+    "TU": {
+      "SPANISH": "has aplicado",
+      "ENGLISH": "you have applied"
+    },
+    "EL": {
+      "SPANISH": "ha aplicado",
+      "ENGLISH": "s/he has applied, you (formal) have applied"
+    },
+    "ELLOS": {
+      "SPANISH": "han aplicado",
+      "ENGLISH": "they have applied, you (plural formal) have applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos aplicado",
+      "ENGLISH": "we have applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis aplicado",
+      "ENGLISH": "you (plural) have applied"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "apliqué ",
+      "ENGLISH": "I applied"
+    },
+    "TU": {
+      "SPANISH": "aplicaste",
+      "ENGLISH": "you applied"
+    },
+    "EL": {
+      "SPANISH": "aplicó",
+      "ENGLISH": "s/he applied, you (formal) applied"
+    },
+    "ELLOS": {
+      "SPANISH": "aplicaron",
+      "ENGLISH": "they applied, you (plural formal) applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aplicamos",
+      "ENGLISH": "we applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aplicasteis",
+      "ENGLISH": "you (plural) applied"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había aplicado",
+      "ENGLISH": "I had applied"
+    },
+    "TU": {
+      "SPANISH": "habías aplicado",
+      "ENGLISH": "you had applied"
+    },
+    "EL": {
+      "SPANISH": "había aplicado",
+      "ENGLISH": "s/he had applied, you (formal) had applied"
+    },
+    "ELLOS": {
+      "SPANISH": "habían aplicado",
+      "ENGLISH": "they had applied, you (plural formal) had applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos aplicado",
+      "ENGLISH": "we had applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais aplicado",
+      "ENGLISH": "you (plural) had applied"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "apliqué ",
+      "ENGLISH": "I applied"
+    },
+    "TU": {
+      "SPANISH": "aplicaste",
+      "ENGLISH": "you applied"
+    },
+    "EL": {
+      "SPANISH": "aplicó",
+      "ENGLISH": "s/he applied, you (formal) applied"
+    },
+    "ELLOS": {
+      "SPANISH": "aplicaron",
+      "ENGLISH": "they applied, you (plural formal) applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aplicamos",
+      "ENGLISH": "we applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aplicasteis",
+      "ENGLISH": "you (plural) applied"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "aplicaré",
+      "ENGLISH": "I will apply"
+    },
+    "TU": {
+      "SPANISH": "aplicarás",
+      "ENGLISH": "you will apply"
+    },
+    "EL": {
+      "SPANISH": "aplicará",
+      "ENGLISH": "s/he will apply, you (formal) will apply"
+    },
+    "ELLOS": {
+      "SPANISH": "aplicarán",
+      "ENGLISH": "they will apply, you (plural formal) will apply"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aplicaremos",
+      "ENGLISH": "we will apply"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aplicaréis",
+      "ENGLISH": "you (plural) will apply"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré aplicado",
+      "ENGLISH": "I will have applied"
+    },
+    "TU": {
+      "SPANISH": "habrás aplicado",
+      "ENGLISH": "you will have applied"
+    },
+    "EL": {
+      "SPANISH": "habrá aplicado",
+      "ENGLISH": "s/he will have applied, you (formal) will have applied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán aplicado",
+      "ENGLISH": "they will have applied, you (plural formal) will have applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos aplicado",
+      "ENGLISH": "we will have applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis aplicado",
+      "ENGLISH": "you (plural) will have applied"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "aplicaría",
+      "ENGLISH": "I would apply"
+    },
+    "TU": {
+      "SPANISH": "aplicarías",
+      "ENGLISH": "you would apply"
+    },
+    "EL": {
+      "SPANISH": "aplicaría",
+      "ENGLISH": "s/he would apply, you (formal) would apply"
+    },
+    "ELLOS": {
+      "SPANISH": "aplicarían",
+      "ENGLISH": "they would apply, you (plural formal) would apply"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aplicaríamos",
+      "ENGLISH": "we would apply"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aplicaríais",
+      "ENGLISH": "you (plural) would apply"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría aplicado",
+      "ENGLISH": "I would have applied"
+    },
+    "TU": {
+      "SPANISH": "habrías aplicado",
+      "ENGLISH": "you would have applied"
+    },
+    "EL": {
+      "SPANISH": "habría aplicado",
+      "ENGLISH": "s/he would have applied, you (formal) would have applied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían aplicado",
+      "ENGLISH": "they would have applied, you (plural formal) would have applied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos aplicado",
+      "ENGLISH": "we would have applied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais aplicado",
+      "ENGLISH": "you (plural) would have applied"
+    }
+  }
+}

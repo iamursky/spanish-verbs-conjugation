@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "acepto",
+      "ENGLISH": "I accept"
+    },
+    "TU": {
+      "SPANISH": "aceptas",
+      "ENGLISH": "you accept"
+    },
+    "EL": {
+      "SPANISH": "acepta",
+      "ENGLISH": "s/he accepts, you (formal) accepts"
+    },
+    "ELLOS": {
+      "SPANISH": "aceptan",
+      "ENGLISH": "they accept, you (plural formal) accept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aceptamos",
+      "ENGLISH": "we accept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aceptáis",
+      "ENGLISH": "you (plural) accept"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he aceptado",
+      "ENGLISH": "I have accepted"
+    },
+    "TU": {
+      "SPANISH": "has aceptado",
+      "ENGLISH": "you have accepted"
+    },
+    "EL": {
+      "SPANISH": "ha aceptado",
+      "ENGLISH": "s/he has accepted, you (formal) have accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "han aceptado",
+      "ENGLISH": "they have accepted, you (plural formal) have accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos aceptado",
+      "ENGLISH": "we have accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis aceptado",
+      "ENGLISH": "you (plural) have accepted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "acepté",
+      "ENGLISH": "I accepted"
+    },
+    "TU": {
+      "SPANISH": "aceptaste",
+      "ENGLISH": "you accepted"
+    },
+    "EL": {
+      "SPANISH": "aceptó",
+      "ENGLISH": "s/he accepted, you (formal) accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "aceptaron",
+      "ENGLISH": "they accepted, you (plural formal) accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aceptamos",
+      "ENGLISH": "we accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aceptasteis",
+      "ENGLISH": "you (plural) accepted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había aceptado",
+      "ENGLISH": "I had accepted"
+    },
+    "TU": {
+      "SPANISH": "habías aceptado",
+      "ENGLISH": "you had accepted"
+    },
+    "EL": {
+      "SPANISH": "había aceptado",
+      "ENGLISH": "s/he had accepted, you (formal) had accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían aceptado",
+      "ENGLISH": "they had accepted, you (plural formal) had accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos aceptado",
+      "ENGLISH": "we had accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais aceptado",
+      "ENGLISH": "you (plural) had accepted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "acepté",
+      "ENGLISH": "I accepted"
+    },
+    "TU": {
+      "SPANISH": "aceptaste",
+      "ENGLISH": "you accepted"
+    },
+    "EL": {
+      "SPANISH": "aceptó",
+      "ENGLISH": "s/he accepted, you (formal) accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "aceptaron",
+      "ENGLISH": "they accepted, you (plural formal) accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aceptamos",
+      "ENGLISH": "we accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aceptasteis",
+      "ENGLISH": "you (plural) accepted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "aceptaré",
+      "ENGLISH": "I will accept"
+    },
+    "TU": {
+      "SPANISH": "aceptarás",
+      "ENGLISH": "you will accept"
+    },
+    "EL": {
+      "SPANISH": "aceptará",
+      "ENGLISH": "s/he will accept, you (formal) will accept"
+    },
+    "ELLOS": {
+      "SPANISH": "aceptarán",
+      "ENGLISH": "they will accept, you (plural formal) will accept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aceptaremos",
+      "ENGLISH": "we will accept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aceptaréis",
+      "ENGLISH": "you (plural) will accept"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré aceptado",
+      "ENGLISH": "I will have accepted"
+    },
+    "TU": {
+      "SPANISH": "habrás aceptado",
+      "ENGLISH": "you will have accepted"
+    },
+    "EL": {
+      "SPANISH": "habrá aceptado",
+      "ENGLISH": "s/he will have accepted, you (formal) will have accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán aceptado",
+      "ENGLISH": "they will have accepted, you (plural formal) will have accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos aceptado",
+      "ENGLISH": "we will have accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis aceptado",
+      "ENGLISH": "you (plural) will have accepted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "aceptaría",
+      "ENGLISH": "I would accept"
+    },
+    "TU": {
+      "SPANISH": "aceptarías",
+      "ENGLISH": "you would accept"
+    },
+    "EL": {
+      "SPANISH": "aceptaría",
+      "ENGLISH": "s/he would accept, you (formal) would accept"
+    },
+    "ELLOS": {
+      "SPANISH": "aceptarían",
+      "ENGLISH": "they would accept, you (plural formal) would accept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aceptaríamos",
+      "ENGLISH": "we would accept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aceptaríais",
+      "ENGLISH": "you (plural) would accept"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría aceptado",
+      "ENGLISH": "I would have accepted"
+    },
+    "TU": {
+      "SPANISH": "habrías aceptado",
+      "ENGLISH": "you would have accepted"
+    },
+    "EL": {
+      "SPANISH": "habría aceptado",
+      "ENGLISH": "s/he would have accepted, you (formal) would have accepted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían aceptado",
+      "ENGLISH": "they would have accepted, you (plural formal) would have accepted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos aceptado",
+      "ENGLISH": "we would have accepted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais aceptado",
+      "ENGLISH": "you (plural) would have accepted"
+    }
+  }
+}

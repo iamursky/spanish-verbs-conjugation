@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "nazco ",
+      "ENGLISH": "I am born"
+    },
+    "TU": {
+      "SPANISH": "naces",
+      "ENGLISH": "you are born"
+    },
+    "EL": {
+      "SPANISH": "nace",
+      "ENGLISH": "s/he is born, you (formal) are born"
+    },
+    "ELLOS": {
+      "SPANISH": "nacen",
+      "ENGLISH": "they are born, you (plural formal) are born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nacemos",
+      "ENGLISH": "we are born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "nacéis",
+      "ENGLISH": "you (plural) are born"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he nacido",
+      "ENGLISH": "I have been born"
+    },
+    "TU": {
+      "SPANISH": "has nacido",
+      "ENGLISH": "you have been born"
+    },
+    "EL": {
+      "SPANISH": "ha nacido",
+      "ENGLISH": "s/he has been born, you (formal) have been born"
+    },
+    "ELLOS": {
+      "SPANISH": "han nacido",
+      "ENGLISH": "they have been born, you (plural formal) have been born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos nacido",
+      "ENGLISH": "we have been born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis nacido",
+      "ENGLISH": "you (plural) have been born"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "nací",
+      "ENGLISH": "I was born"
+    },
+    "TU": {
+      "SPANISH": "naciste",
+      "ENGLISH": "you were born"
+    },
+    "EL": {
+      "SPANISH": "nació",
+      "ENGLISH": "s/he was born, you (formal) was born"
+    },
+    "ELLOS": {
+      "SPANISH": "nacieron",
+      "ENGLISH": "they were born, you (plural formal) were born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nacimos",
+      "ENGLISH": "we were born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "nacisteis",
+      "ENGLISH": "you (plural) were born"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había nacido",
+      "ENGLISH": "I had been born"
+    },
+    "TU": {
+      "SPANISH": "habías nacido",
+      "ENGLISH": "you had been born"
+    },
+    "EL": {
+      "SPANISH": "había nacido",
+      "ENGLISH": "s/he had been born, you (formal) had been born"
+    },
+    "ELLOS": {
+      "SPANISH": "habían nacido",
+      "ENGLISH": "they had been born, you (plural formal) had been born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos nacido",
+      "ENGLISH": "we had been born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais nacido",
+      "ENGLISH": "you (plural) had been born"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "nací",
+      "ENGLISH": "I was born"
+    },
+    "TU": {
+      "SPANISH": "naciste",
+      "ENGLISH": "you were born"
+    },
+    "EL": {
+      "SPANISH": "nació",
+      "ENGLISH": "s/he was born, you (formal) was born"
+    },
+    "ELLOS": {
+      "SPANISH": "nacieron",
+      "ENGLISH": "they were born, you (plural formal) were born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nacimos",
+      "ENGLISH": "we were born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "nacisteis",
+      "ENGLISH": "you (plural) were born"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "naceré",
+      "ENGLISH": "I will be born"
+    },
+    "TU": {
+      "SPANISH": "nacerás",
+      "ENGLISH": "you will be born"
+    },
+    "EL": {
+      "SPANISH": "nacerá",
+      "ENGLISH": "s/he will be born, you (formal) will be born"
+    },
+    "ELLOS": {
+      "SPANISH": "nacerán",
+      "ENGLISH": "they will be born, you (plural formal) will be born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "naceremos",
+      "ENGLISH": "we will be born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "naceréis",
+      "ENGLISH": "you (plural) will be born"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré nacido",
+      "ENGLISH": "I will have been born"
+    },
+    "TU": {
+      "SPANISH": "habrás nacido",
+      "ENGLISH": "you will have been born"
+    },
+    "EL": {
+      "SPANISH": "habrá nacido",
+      "ENGLISH": "s/he will have been born, you (formal) will have been born"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán nacido",
+      "ENGLISH": "they will have been born, you (plural formal) will have been born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos nacido",
+      "ENGLISH": "we will have been born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis nacido",
+      "ENGLISH": "you (plural) will have been born"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "nacería",
+      "ENGLISH": "I would be born"
+    },
+    "TU": {
+      "SPANISH": "nacerías",
+      "ENGLISH": "you would be born"
+    },
+    "EL": {
+      "SPANISH": "nacería",
+      "ENGLISH": "s/he would be born, you (formal) would be born"
+    },
+    "ELLOS": {
+      "SPANISH": "nacerían",
+      "ENGLISH": "they would be born, you (plural formal) would be born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "naceríamos",
+      "ENGLISH": "we would be born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "naceríais",
+      "ENGLISH": "you (plural) would be born"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría nacido",
+      "ENGLISH": "I would have been born"
+    },
+    "TU": {
+      "SPANISH": "habrías nacido",
+      "ENGLISH": "you would have been born"
+    },
+    "EL": {
+      "SPANISH": "habría nacido",
+      "ENGLISH": "s/he would have been born, you (formal) would have been born"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían nacido",
+      "ENGLISH": "they would have been born, you (plural formal) would have been born"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos nacido",
+      "ENGLISH": "we would have been born"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais nacido",
+      "ENGLISH": "you (plural) would have been born"
+    }
+  }
+}

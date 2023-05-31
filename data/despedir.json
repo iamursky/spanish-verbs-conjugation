@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "despido ",
+      "ENGLISH": "I dismiss"
+    },
+    "TU": {
+      "SPANISH": "despides ",
+      "ENGLISH": "you dismiss"
+    },
+    "EL": {
+      "SPANISH": "despide ",
+      "ENGLISH": "s/he dismisses, you (formal) dismisses"
+    },
+    "ELLOS": {
+      "SPANISH": "despiden ",
+      "ENGLISH": "they dismiss, you (plural formal) dismiss"
+    },
+    "NOSOTROS": {
+      "SPANISH": "despedimos",
+      "ENGLISH": "we dismiss"
+    },
+    "VOSOTROS": {
+      "SPANISH": "despedís",
+      "ENGLISH": "you (plural) dismiss"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he despedido",
+      "ENGLISH": "I have dismissed"
+    },
+    "TU": {
+      "SPANISH": "has despedido",
+      "ENGLISH": "you have dismissed"
+    },
+    "EL": {
+      "SPANISH": "ha despedido",
+      "ENGLISH": "s/he has dismissed, you (formal) have dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "han despedido",
+      "ENGLISH": "they have dismissed, you (plural formal) have dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos despedido",
+      "ENGLISH": "we have dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis despedido",
+      "ENGLISH": "you (plural) have dismissed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "despedí",
+      "ENGLISH": "I dismissed"
+    },
+    "TU": {
+      "SPANISH": "despediste",
+      "ENGLISH": "you dismissed"
+    },
+    "EL": {
+      "SPANISH": "despidió ",
+      "ENGLISH": "s/he dismissed, you (formal) dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "despidieron ",
+      "ENGLISH": "they dismissed, you (plural formal) dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "despedimos",
+      "ENGLISH": "we dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "despedisteis",
+      "ENGLISH": "you (plural) dismissed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había despedido",
+      "ENGLISH": "I had dismissed"
+    },
+    "TU": {
+      "SPANISH": "habías despedido",
+      "ENGLISH": "you had dismissed"
+    },
+    "EL": {
+      "SPANISH": "había despedido",
+      "ENGLISH": "s/he had dismissed, you (formal) had dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían despedido",
+      "ENGLISH": "they had dismissed, you (plural formal) had dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos despedido",
+      "ENGLISH": "we had dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais despedido",
+      "ENGLISH": "you (plural) had dismissed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "despedí",
+      "ENGLISH": "I dismissed"
+    },
+    "TU": {
+      "SPANISH": "despediste",
+      "ENGLISH": "you dismissed"
+    },
+    "EL": {
+      "SPANISH": "despidió ",
+      "ENGLISH": "s/he dismissed, you (formal) dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "despidieron ",
+      "ENGLISH": "they dismissed, you (plural formal) dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "despedimos",
+      "ENGLISH": "we dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "despedisteis",
+      "ENGLISH": "you (plural) dismissed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "despediré",
+      "ENGLISH": "I will dismiss"
+    },
+    "TU": {
+      "SPANISH": "despedirás",
+      "ENGLISH": "you will dismiss"
+    },
+    "EL": {
+      "SPANISH": "despedirá",
+      "ENGLISH": "s/he will dismiss, you (formal) will dismiss"
+    },
+    "ELLOS": {
+      "SPANISH": "despedirán",
+      "ENGLISH": "they will dismiss, you (plural formal) will dismiss"
+    },
+    "NOSOTROS": {
+      "SPANISH": "despediremos",
+      "ENGLISH": "we will dismiss"
+    },
+    "VOSOTROS": {
+      "SPANISH": "despediréis",
+      "ENGLISH": "you (plural) will dismiss"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré despedido",
+      "ENGLISH": "I will have dismissed"
+    },
+    "TU": {
+      "SPANISH": "habrás despedido",
+      "ENGLISH": "you will have dismissed"
+    },
+    "EL": {
+      "SPANISH": "habrá despedido",
+      "ENGLISH": "s/he will have dismissed, you (formal) will have dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán despedido",
+      "ENGLISH": "they will have dismissed, you (plural formal) will have dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos despedido",
+      "ENGLISH": "we will have dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis despedido",
+      "ENGLISH": "you (plural) will have dismissed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "despediría",
+      "ENGLISH": "I would dismiss"
+    },
+    "TU": {
+      "SPANISH": "despedirías",
+      "ENGLISH": "you would dismiss"
+    },
+    "EL": {
+      "SPANISH": "despediría",
+      "ENGLISH": "s/he would dismiss, you (formal) would dismiss"
+    },
+    "ELLOS": {
+      "SPANISH": "despedirían",
+      "ENGLISH": "they would dismiss, you (plural formal) would dismiss"
+    },
+    "NOSOTROS": {
+      "SPANISH": "despediríamos",
+      "ENGLISH": "we would dismiss"
+    },
+    "VOSOTROS": {
+      "SPANISH": "despediríais",
+      "ENGLISH": "you (plural) would dismiss"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría despedido",
+      "ENGLISH": "I would have dismissed"
+    },
+    "TU": {
+      "SPANISH": "habrías despedido",
+      "ENGLISH": "you would have dismissed"
+    },
+    "EL": {
+      "SPANISH": "habría despedido",
+      "ENGLISH": "s/he would have dismissed, you (formal) would have dismissed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían despedido",
+      "ENGLISH": "they would have dismissed, you (plural formal) would have dismissed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos despedido",
+      "ENGLISH": "we would have dismissed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais despedido",
+      "ENGLISH": "you (plural) would have dismissed"
+    }
+  }
+}

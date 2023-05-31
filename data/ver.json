@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "veo ",
+      "ENGLISH": "I see"
+    },
+    "TU": {
+      "SPANISH": "ves",
+      "ENGLISH": "you see"
+    },
+    "EL": {
+      "SPANISH": "ve",
+      "ENGLISH": "s/he sees, you (formal) sees"
+    },
+    "ELLOS": {
+      "SPANISH": "ven",
+      "ENGLISH": "they see, you (plural formal) see"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vemos",
+      "ENGLISH": "we see"
+    },
+    "VOSOTROS": {
+      "SPANISH": "veis ",
+      "ENGLISH": "you (plural) see"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he visto ",
+      "ENGLISH": "I have seen"
+    },
+    "TU": {
+      "SPANISH": "has visto ",
+      "ENGLISH": "you have seen"
+    },
+    "EL": {
+      "SPANISH": "ha visto ",
+      "ENGLISH": "s/he has seen, you (formal) have seen"
+    },
+    "ELLOS": {
+      "SPANISH": "han visto ",
+      "ENGLISH": "they have seen, you (plural formal) have seen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos visto ",
+      "ENGLISH": "we have seen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis visto ",
+      "ENGLISH": "you (plural) have seen"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "vi ",
+      "ENGLISH": "I saw"
+    },
+    "TU": {
+      "SPANISH": "viste",
+      "ENGLISH": "you saw"
+    },
+    "EL": {
+      "SPANISH": "vio ",
+      "ENGLISH": "s/he saw, you (formal) saw"
+    },
+    "ELLOS": {
+      "SPANISH": "vieron",
+      "ENGLISH": "they saw, you (plural formal) saw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vimos",
+      "ENGLISH": "we saw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "visteis",
+      "ENGLISH": "you (plural) saw"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había visto ",
+      "ENGLISH": "I had seen"
+    },
+    "TU": {
+      "SPANISH": "habías visto ",
+      "ENGLISH": "you had seen"
+    },
+    "EL": {
+      "SPANISH": "había visto ",
+      "ENGLISH": "s/he had seen, you (formal) had seen"
+    },
+    "ELLOS": {
+      "SPANISH": "habían visto ",
+      "ENGLISH": "they had seen, you (plural formal) had seen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos visto ",
+      "ENGLISH": "we had seen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais visto ",
+      "ENGLISH": "you (plural) had seen"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "vi ",
+      "ENGLISH": "I saw"
+    },
+    "TU": {
+      "SPANISH": "viste",
+      "ENGLISH": "you saw"
+    },
+    "EL": {
+      "SPANISH": "vio ",
+      "ENGLISH": "s/he saw, you (formal) saw"
+    },
+    "ELLOS": {
+      "SPANISH": "vieron",
+      "ENGLISH": "they saw, you (plural formal) saw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vimos",
+      "ENGLISH": "we saw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "visteis",
+      "ENGLISH": "you (plural) saw"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "veré",
+      "ENGLISH": "I will see"
+    },
+    "TU": {
+      "SPANISH": "verás",
+      "ENGLISH": "you will see"
+    },
+    "EL": {
+      "SPANISH": "verá",
+      "ENGLISH": "s/he will see, you (formal) will see"
+    },
+    "ELLOS": {
+      "SPANISH": "verán",
+      "ENGLISH": "they will see, you (plural formal) will see"
+    },
+    "NOSOTROS": {
+      "SPANISH": "veremos",
+      "ENGLISH": "we will see"
+    },
+    "VOSOTROS": {
+      "SPANISH": "veréis",
+      "ENGLISH": "you (plural) will see"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré visto ",
+      "ENGLISH": "I will have seen"
+    },
+    "TU": {
+      "SPANISH": "habrás visto ",
+      "ENGLISH": "you will have seen"
+    },
+    "EL": {
+      "SPANISH": "habrá visto ",
+      "ENGLISH": "s/he will have seen, you (formal) will have seen"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán visto ",
+      "ENGLISH": "they will have seen, you (plural formal) will have seen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos visto ",
+      "ENGLISH": "we will have seen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis visto ",
+      "ENGLISH": "you (plural) will have seen"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "vería",
+      "ENGLISH": "I would see"
+    },
+    "TU": {
+      "SPANISH": "verías",
+      "ENGLISH": "you would see"
+    },
+    "EL": {
+      "SPANISH": "vería",
+      "ENGLISH": "s/he would see, you (formal) would see"
+    },
+    "ELLOS": {
+      "SPANISH": "verían",
+      "ENGLISH": "they would see, you (plural formal) would see"
+    },
+    "NOSOTROS": {
+      "SPANISH": "veríamos",
+      "ENGLISH": "we would see"
+    },
+    "VOSOTROS": {
+      "SPANISH": "veríais",
+      "ENGLISH": "you (plural) would see"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría visto ",
+      "ENGLISH": "I would have seen"
+    },
+    "TU": {
+      "SPANISH": "habrías visto ",
+      "ENGLISH": "you would have seen"
+    },
+    "EL": {
+      "SPANISH": "habría visto ",
+      "ENGLISH": "s/he would have seen, you (formal) would have seen"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían visto ",
+      "ENGLISH": "they would have seen, you (plural formal) would have seen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos visto ",
+      "ENGLISH": "we would have seen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais visto ",
+      "ENGLISH": "you (plural) would have seen"
+    }
+  }
+}

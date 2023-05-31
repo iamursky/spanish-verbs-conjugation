@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "salgo ",
+      "ENGLISH": "I leave"
+    },
+    "TU": {
+      "SPANISH": "sales",
+      "ENGLISH": "you leave"
+    },
+    "EL": {
+      "SPANISH": "sale",
+      "ENGLISH": "s/he leaves, you (formal) leaves"
+    },
+    "ELLOS": {
+      "SPANISH": "salen",
+      "ENGLISH": "they leave, you (plural formal) leave"
+    },
+    "NOSOTROS": {
+      "SPANISH": "salimos",
+      "ENGLISH": "we leave"
+    },
+    "VOSOTROS": {
+      "SPANISH": "salís",
+      "ENGLISH": "you (plural) leave"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he salido",
+      "ENGLISH": "I have left"
+    },
+    "TU": {
+      "SPANISH": "has salido",
+      "ENGLISH": "you have left"
+    },
+    "EL": {
+      "SPANISH": "ha salido",
+      "ENGLISH": "s/he has left, you (formal) have left"
+    },
+    "ELLOS": {
+      "SPANISH": "han salido",
+      "ENGLISH": "they have left, you (plural formal) have left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos salido",
+      "ENGLISH": "we have left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis salido",
+      "ENGLISH": "you (plural) have left"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "salí",
+      "ENGLISH": "I left"
+    },
+    "TU": {
+      "SPANISH": "saliste",
+      "ENGLISH": "you left"
+    },
+    "EL": {
+      "SPANISH": "salió",
+      "ENGLISH": "s/he left, you (formal) left"
+    },
+    "ELLOS": {
+      "SPANISH": "salieron",
+      "ENGLISH": "they left, you (plural formal) left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "salimos",
+      "ENGLISH": "we left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "salisteis",
+      "ENGLISH": "you (plural) left"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había salido",
+      "ENGLISH": "I had left"
+    },
+    "TU": {
+      "SPANISH": "habías salido",
+      "ENGLISH": "you had left"
+    },
+    "EL": {
+      "SPANISH": "había salido",
+      "ENGLISH": "s/he had left, you (formal) had left"
+    },
+    "ELLOS": {
+      "SPANISH": "habían salido",
+      "ENGLISH": "they had left, you (plural formal) had left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos salido",
+      "ENGLISH": "we had left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais salido",
+      "ENGLISH": "you (plural) had left"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "salí",
+      "ENGLISH": "I left"
+    },
+    "TU": {
+      "SPANISH": "saliste",
+      "ENGLISH": "you left"
+    },
+    "EL": {
+      "SPANISH": "salió",
+      "ENGLISH": "s/he left, you (formal) left"
+    },
+    "ELLOS": {
+      "SPANISH": "salieron",
+      "ENGLISH": "they left, you (plural formal) left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "salimos",
+      "ENGLISH": "we left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "salisteis",
+      "ENGLISH": "you (plural) left"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "saldré ",
+      "ENGLISH": "I will leave"
+    },
+    "TU": {
+      "SPANISH": "saldrás ",
+      "ENGLISH": "you will leave"
+    },
+    "EL": {
+      "SPANISH": "saldrá ",
+      "ENGLISH": "s/he will leave, you (formal) will leave"
+    },
+    "ELLOS": {
+      "SPANISH": "saldrán ",
+      "ENGLISH": "they will leave, you (plural formal) will leave"
+    },
+    "NOSOTROS": {
+      "SPANISH": "saldremos ",
+      "ENGLISH": "we will leave"
+    },
+    "VOSOTROS": {
+      "SPANISH": "saldréis ",
+      "ENGLISH": "you (plural) will leave"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré salido",
+      "ENGLISH": "I will have left"
+    },
+    "TU": {
+      "SPANISH": "habrás salido",
+      "ENGLISH": "you will have left"
+    },
+    "EL": {
+      "SPANISH": "habrá salido",
+      "ENGLISH": "s/he will have left, you (formal) will have left"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán salido",
+      "ENGLISH": "they will have left, you (plural formal) will have left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos salido",
+      "ENGLISH": "we will have left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis salido",
+      "ENGLISH": "you (plural) will have left"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "saldría ",
+      "ENGLISH": "I would leave"
+    },
+    "TU": {
+      "SPANISH": "saldrías ",
+      "ENGLISH": "you would leave"
+    },
+    "EL": {
+      "SPANISH": "saldría ",
+      "ENGLISH": "s/he would leave, you (formal) would leave"
+    },
+    "ELLOS": {
+      "SPANISH": "saldrían ",
+      "ENGLISH": "they would leave, you (plural formal) would leave"
+    },
+    "NOSOTROS": {
+      "SPANISH": "saldríamos ",
+      "ENGLISH": "we would leave"
+    },
+    "VOSOTROS": {
+      "SPANISH": "saldríais ",
+      "ENGLISH": "you (plural) would leave"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría salido",
+      "ENGLISH": "I would have left"
+    },
+    "TU": {
+      "SPANISH": "habrías salido",
+      "ENGLISH": "you would have left"
+    },
+    "EL": {
+      "SPANISH": "habría salido",
+      "ENGLISH": "s/he would have left, you (formal) would have left"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían salido",
+      "ENGLISH": "they would have left, you (plural formal) would have left"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos salido",
+      "ENGLISH": "we would have left"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais salido",
+      "ENGLISH": "you (plural) would have left"
+    }
+  }
+}

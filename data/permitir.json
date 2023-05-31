@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "permito",
+      "ENGLISH": "I allow"
+    },
+    "TU": {
+      "SPANISH": "permites",
+      "ENGLISH": "you allow"
+    },
+    "EL": {
+      "SPANISH": "permite",
+      "ENGLISH": "s/he allows, you (formal) allows"
+    },
+    "ELLOS": {
+      "SPANISH": "permiten",
+      "ENGLISH": "they allow, you (plural formal) allow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "permitimos",
+      "ENGLISH": "we allow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "permitís",
+      "ENGLISH": "you (plural) allow"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he permitido",
+      "ENGLISH": "I have allowed"
+    },
+    "TU": {
+      "SPANISH": "has permitido",
+      "ENGLISH": "you have allowed"
+    },
+    "EL": {
+      "SPANISH": "ha permitido",
+      "ENGLISH": "s/he has allowed, you (formal) have allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "han permitido",
+      "ENGLISH": "they have allowed, you (plural formal) have allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos permitido",
+      "ENGLISH": "we have allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis permitido",
+      "ENGLISH": "you (plural) have allowed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "permití",
+      "ENGLISH": "I allowed"
+    },
+    "TU": {
+      "SPANISH": "permitiste",
+      "ENGLISH": "you allowed"
+    },
+    "EL": {
+      "SPANISH": "permitió",
+      "ENGLISH": "s/he allowed, you (formal) allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "permitieron",
+      "ENGLISH": "they allowed, you (plural formal) allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "permitimos",
+      "ENGLISH": "we allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "permitisteis",
+      "ENGLISH": "you (plural) allowed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había permitido",
+      "ENGLISH": "I had allowed"
+    },
+    "TU": {
+      "SPANISH": "habías permitido",
+      "ENGLISH": "you had allowed"
+    },
+    "EL": {
+      "SPANISH": "había permitido",
+      "ENGLISH": "s/he had allowed, you (formal) had allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían permitido",
+      "ENGLISH": "they had allowed, you (plural formal) had allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos permitido",
+      "ENGLISH": "we had allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais permitido",
+      "ENGLISH": "you (plural) had allowed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "permití",
+      "ENGLISH": "I allowed"
+    },
+    "TU": {
+      "SPANISH": "permitiste",
+      "ENGLISH": "you allowed"
+    },
+    "EL": {
+      "SPANISH": "permitió",
+      "ENGLISH": "s/he allowed, you (formal) allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "permitieron",
+      "ENGLISH": "they allowed, you (plural formal) allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "permitimos",
+      "ENGLISH": "we allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "permitisteis",
+      "ENGLISH": "you (plural) allowed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "permitiré",
+      "ENGLISH": "I will allow"
+    },
+    "TU": {
+      "SPANISH": "permitirás",
+      "ENGLISH": "you will allow"
+    },
+    "EL": {
+      "SPANISH": "permitirá",
+      "ENGLISH": "s/he will allow, you (formal) will allow"
+    },
+    "ELLOS": {
+      "SPANISH": "permitirán",
+      "ENGLISH": "they will allow, you (plural formal) will allow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "permitiremos",
+      "ENGLISH": "we will allow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "permitiréis",
+      "ENGLISH": "you (plural) will allow"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré permitido",
+      "ENGLISH": "I will have allowed"
+    },
+    "TU": {
+      "SPANISH": "habrás permitido",
+      "ENGLISH": "you will have allowed"
+    },
+    "EL": {
+      "SPANISH": "habrá permitido",
+      "ENGLISH": "s/he will have allowed, you (formal) will have allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán permitido",
+      "ENGLISH": "they will have allowed, you (plural formal) will have allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos permitido",
+      "ENGLISH": "we will have allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis permitido",
+      "ENGLISH": "you (plural) will have allowed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "permitiría",
+      "ENGLISH": "I would allow"
+    },
+    "TU": {
+      "SPANISH": "permitirías",
+      "ENGLISH": "you would allow"
+    },
+    "EL": {
+      "SPANISH": "permitiría",
+      "ENGLISH": "s/he would allow, you (formal) would allow"
+    },
+    "ELLOS": {
+      "SPANISH": "permitirían",
+      "ENGLISH": "they would allow, you (plural formal) would allow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "permitiríamos",
+      "ENGLISH": "we would allow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "permitiríais",
+      "ENGLISH": "you (plural) would allow"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría permitido",
+      "ENGLISH": "I would have allowed"
+    },
+    "TU": {
+      "SPANISH": "habrías permitido",
+      "ENGLISH": "you would have allowed"
+    },
+    "EL": {
+      "SPANISH": "habría permitido",
+      "ENGLISH": "s/he would have allowed, you (formal) would have allowed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían permitido",
+      "ENGLISH": "they would have allowed, you (plural formal) would have allowed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos permitido",
+      "ENGLISH": "we would have allowed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais permitido",
+      "ENGLISH": "you (plural) would have allowed"
+    }
+  }
+}

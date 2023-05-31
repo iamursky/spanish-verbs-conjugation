@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "implico",
+      "ENGLISH": "I implicate"
+    },
+    "TU": {
+      "SPANISH": "implicas",
+      "ENGLISH": "you implicate"
+    },
+    "EL": {
+      "SPANISH": "implica",
+      "ENGLISH": "s/he implicates, you (formal) implicates"
+    },
+    "ELLOS": {
+      "SPANISH": "implican",
+      "ENGLISH": "they implicate, you (plural formal) implicate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "implicamos",
+      "ENGLISH": "we implicate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "implicáis",
+      "ENGLISH": "you (plural) implicate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he implicado",
+      "ENGLISH": "I have implicated"
+    },
+    "TU": {
+      "SPANISH": "has implicado",
+      "ENGLISH": "you have implicated"
+    },
+    "EL": {
+      "SPANISH": "ha implicado",
+      "ENGLISH": "s/he has implicated, you (formal) have implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "han implicado",
+      "ENGLISH": "they have implicated, you (plural formal) have implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos implicado",
+      "ENGLISH": "we have implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis implicado",
+      "ENGLISH": "you (plural) have implicated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "impliqué ",
+      "ENGLISH": "I implicated"
+    },
+    "TU": {
+      "SPANISH": "implicaste",
+      "ENGLISH": "you implicated"
+    },
+    "EL": {
+      "SPANISH": "implicó",
+      "ENGLISH": "s/he implicated, you (formal) implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "implicaron",
+      "ENGLISH": "they implicated, you (plural formal) implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "implicamos",
+      "ENGLISH": "we implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "implicasteis",
+      "ENGLISH": "you (plural) implicated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había implicado",
+      "ENGLISH": "I had implicated"
+    },
+    "TU": {
+      "SPANISH": "habías implicado",
+      "ENGLISH": "you had implicated"
+    },
+    "EL": {
+      "SPANISH": "había implicado",
+      "ENGLISH": "s/he had implicated, you (formal) had implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían implicado",
+      "ENGLISH": "they had implicated, you (plural formal) had implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos implicado",
+      "ENGLISH": "we had implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais implicado",
+      "ENGLISH": "you (plural) had implicated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "impliqué ",
+      "ENGLISH": "I implicated"
+    },
+    "TU": {
+      "SPANISH": "implicaste",
+      "ENGLISH": "you implicated"
+    },
+    "EL": {
+      "SPANISH": "implicó",
+      "ENGLISH": "s/he implicated, you (formal) implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "implicaron",
+      "ENGLISH": "they implicated, you (plural formal) implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "implicamos",
+      "ENGLISH": "we implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "implicasteis",
+      "ENGLISH": "you (plural) implicated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "implicaré",
+      "ENGLISH": "I will implicate"
+    },
+    "TU": {
+      "SPANISH": "implicarás",
+      "ENGLISH": "you will implicate"
+    },
+    "EL": {
+      "SPANISH": "implicará",
+      "ENGLISH": "s/he will implicate, you (formal) will implicate"
+    },
+    "ELLOS": {
+      "SPANISH": "implicarán",
+      "ENGLISH": "they will implicate, you (plural formal) will implicate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "implicaremos",
+      "ENGLISH": "we will implicate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "implicaréis",
+      "ENGLISH": "you (plural) will implicate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré implicado",
+      "ENGLISH": "I will have implicated"
+    },
+    "TU": {
+      "SPANISH": "habrás implicado",
+      "ENGLISH": "you will have implicated"
+    },
+    "EL": {
+      "SPANISH": "habrá implicado",
+      "ENGLISH": "s/he will have implicated, you (formal) will have implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán implicado",
+      "ENGLISH": "they will have implicated, you (plural formal) will have implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos implicado",
+      "ENGLISH": "we will have implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis implicado",
+      "ENGLISH": "you (plural) will have implicated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "implicaría",
+      "ENGLISH": "I would implicate"
+    },
+    "TU": {
+      "SPANISH": "implicarías",
+      "ENGLISH": "you would implicate"
+    },
+    "EL": {
+      "SPANISH": "implicaría",
+      "ENGLISH": "s/he would implicate, you (formal) would implicate"
+    },
+    "ELLOS": {
+      "SPANISH": "implicarían",
+      "ENGLISH": "they would implicate, you (plural formal) would implicate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "implicaríamos",
+      "ENGLISH": "we would implicate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "implicaríais",
+      "ENGLISH": "you (plural) would implicate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría implicado",
+      "ENGLISH": "I would have implicated"
+    },
+    "TU": {
+      "SPANISH": "habrías implicado",
+      "ENGLISH": "you would have implicated"
+    },
+    "EL": {
+      "SPANISH": "habría implicado",
+      "ENGLISH": "s/he would have implicated, you (formal) would have implicated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían implicado",
+      "ENGLISH": "they would have implicated, you (plural formal) would have implicated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos implicado",
+      "ENGLISH": "we would have implicated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais implicado",
+      "ENGLISH": "you (plural) would have implicated"
+    }
+  }
+}

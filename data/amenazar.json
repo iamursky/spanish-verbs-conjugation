@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "amenazo",
+      "ENGLISH": "I threaten"
+    },
+    "TU": {
+      "SPANISH": "amenazas",
+      "ENGLISH": "you threaten"
+    },
+    "EL": {
+      "SPANISH": "amenaza",
+      "ENGLISH": "s/he threatens, you (formal) threatens"
+    },
+    "ELLOS": {
+      "SPANISH": "amenazan",
+      "ENGLISH": "they threaten, you (plural formal) threaten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "amenazamos",
+      "ENGLISH": "we threaten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "amenazáis",
+      "ENGLISH": "you (plural) threaten"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he amenazado",
+      "ENGLISH": "I have threatened"
+    },
+    "TU": {
+      "SPANISH": "has amenazado",
+      "ENGLISH": "you have threatened"
+    },
+    "EL": {
+      "SPANISH": "ha amenazado",
+      "ENGLISH": "s/he has threatened, you (formal) have threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "han amenazado",
+      "ENGLISH": "they have threatened, you (plural formal) have threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos amenazado",
+      "ENGLISH": "we have threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis amenazado",
+      "ENGLISH": "you (plural) have threatened"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "amenacé ",
+      "ENGLISH": "I threatened"
+    },
+    "TU": {
+      "SPANISH": "amenazaste",
+      "ENGLISH": "you threatened"
+    },
+    "EL": {
+      "SPANISH": "amenazó",
+      "ENGLISH": "s/he threatened, you (formal) threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "amenazaron",
+      "ENGLISH": "they threatened, you (plural formal) threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "amenazamos",
+      "ENGLISH": "we threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "amenazasteis",
+      "ENGLISH": "you (plural) threatened"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había amenazado",
+      "ENGLISH": "I had threatened"
+    },
+    "TU": {
+      "SPANISH": "habías amenazado",
+      "ENGLISH": "you had threatened"
+    },
+    "EL": {
+      "SPANISH": "había amenazado",
+      "ENGLISH": "s/he had threatened, you (formal) had threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "habían amenazado",
+      "ENGLISH": "they had threatened, you (plural formal) had threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos amenazado",
+      "ENGLISH": "we had threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais amenazado",
+      "ENGLISH": "you (plural) had threatened"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "amenacé ",
+      "ENGLISH": "I threatened"
+    },
+    "TU": {
+      "SPANISH": "amenazaste",
+      "ENGLISH": "you threatened"
+    },
+    "EL": {
+      "SPANISH": "amenazó",
+      "ENGLISH": "s/he threatened, you (formal) threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "amenazaron",
+      "ENGLISH": "they threatened, you (plural formal) threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "amenazamos",
+      "ENGLISH": "we threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "amenazasteis",
+      "ENGLISH": "you (plural) threatened"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "amenazaré",
+      "ENGLISH": "I will threaten"
+    },
+    "TU": {
+      "SPANISH": "amenazarás",
+      "ENGLISH": "you will threaten"
+    },
+    "EL": {
+      "SPANISH": "amenazará",
+      "ENGLISH": "s/he will threaten, you (formal) will threaten"
+    },
+    "ELLOS": {
+      "SPANISH": "amenazarán",
+      "ENGLISH": "they will threaten, you (plural formal) will threaten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "amenazaremos",
+      "ENGLISH": "we will threaten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "amenazaréis",
+      "ENGLISH": "you (plural) will threaten"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré amenazado",
+      "ENGLISH": "I will have threatened"
+    },
+    "TU": {
+      "SPANISH": "habrás amenazado",
+      "ENGLISH": "you will have threatened"
+    },
+    "EL": {
+      "SPANISH": "habrá amenazado",
+      "ENGLISH": "s/he will have threatened, you (formal) will have threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán amenazado",
+      "ENGLISH": "they will have threatened, you (plural formal) will have threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos amenazado",
+      "ENGLISH": "we will have threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis amenazado",
+      "ENGLISH": "you (plural) will have threatened"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "amenazaría",
+      "ENGLISH": "I would threaten"
+    },
+    "TU": {
+      "SPANISH": "amenazarías",
+      "ENGLISH": "you would threaten"
+    },
+    "EL": {
+      "SPANISH": "amenazaría",
+      "ENGLISH": "s/he would threaten, you (formal) would threaten"
+    },
+    "ELLOS": {
+      "SPANISH": "amenazarían",
+      "ENGLISH": "they would threaten, you (plural formal) would threaten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "amenazaríamos",
+      "ENGLISH": "we would threaten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "amenazaríais",
+      "ENGLISH": "you (plural) would threaten"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría amenazado",
+      "ENGLISH": "I would have threatened"
+    },
+    "TU": {
+      "SPANISH": "habrías amenazado",
+      "ENGLISH": "you would have threatened"
+    },
+    "EL": {
+      "SPANISH": "habría amenazado",
+      "ENGLISH": "s/he would have threatened, you (formal) would have threatened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían amenazado",
+      "ENGLISH": "they would have threatened, you (plural formal) would have threatened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos amenazado",
+      "ENGLISH": "we would have threatened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais amenazado",
+      "ENGLISH": "you (plural) would have threatened"
+    }
+  }
+}

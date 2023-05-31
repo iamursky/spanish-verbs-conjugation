@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "aumento",
+      "ENGLISH": "I increase"
+    },
+    "TU": {
+      "SPANISH": "aumentas",
+      "ENGLISH": "you increase"
+    },
+    "EL": {
+      "SPANISH": "aumenta",
+      "ENGLISH": "s/he increases, you (formal) increases"
+    },
+    "ELLOS": {
+      "SPANISH": "aumentan",
+      "ENGLISH": "they increase, you (plural formal) increase"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aumentamos",
+      "ENGLISH": "we increase"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aumentáis",
+      "ENGLISH": "you (plural) increase"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he aumentado",
+      "ENGLISH": "I have increased"
+    },
+    "TU": {
+      "SPANISH": "has aumentado",
+      "ENGLISH": "you have increased"
+    },
+    "EL": {
+      "SPANISH": "ha aumentado",
+      "ENGLISH": "s/he has increased, you (formal) have increased"
+    },
+    "ELLOS": {
+      "SPANISH": "han aumentado",
+      "ENGLISH": "they have increased, you (plural formal) have increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos aumentado",
+      "ENGLISH": "we have increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis aumentado",
+      "ENGLISH": "you (plural) have increased"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "aumenté",
+      "ENGLISH": "I increased"
+    },
+    "TU": {
+      "SPANISH": "aumentaste",
+      "ENGLISH": "you increased"
+    },
+    "EL": {
+      "SPANISH": "aumentó",
+      "ENGLISH": "s/he increased, you (formal) increased"
+    },
+    "ELLOS": {
+      "SPANISH": "aumentaron",
+      "ENGLISH": "they increased, you (plural formal) increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aumentamos",
+      "ENGLISH": "we increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aumentasteis",
+      "ENGLISH": "you (plural) increased"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había aumentado",
+      "ENGLISH": "I had increased"
+    },
+    "TU": {
+      "SPANISH": "habías aumentado",
+      "ENGLISH": "you had increased"
+    },
+    "EL": {
+      "SPANISH": "había aumentado",
+      "ENGLISH": "s/he had increased, you (formal) had increased"
+    },
+    "ELLOS": {
+      "SPANISH": "habían aumentado",
+      "ENGLISH": "they had increased, you (plural formal) had increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos aumentado",
+      "ENGLISH": "we had increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais aumentado",
+      "ENGLISH": "you (plural) had increased"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "aumenté",
+      "ENGLISH": "I increased"
+    },
+    "TU": {
+      "SPANISH": "aumentaste",
+      "ENGLISH": "you increased"
+    },
+    "EL": {
+      "SPANISH": "aumentó",
+      "ENGLISH": "s/he increased, you (formal) increased"
+    },
+    "ELLOS": {
+      "SPANISH": "aumentaron",
+      "ENGLISH": "they increased, you (plural formal) increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aumentamos",
+      "ENGLISH": "we increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aumentasteis",
+      "ENGLISH": "you (plural) increased"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "aumentaré",
+      "ENGLISH": "I will increase"
+    },
+    "TU": {
+      "SPANISH": "aumentarás",
+      "ENGLISH": "you will increase"
+    },
+    "EL": {
+      "SPANISH": "aumentará",
+      "ENGLISH": "s/he will increase, you (formal) will increase"
+    },
+    "ELLOS": {
+      "SPANISH": "aumentarán",
+      "ENGLISH": "they will increase, you (plural formal) will increase"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aumentaremos",
+      "ENGLISH": "we will increase"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aumentaréis",
+      "ENGLISH": "you (plural) will increase"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré aumentado",
+      "ENGLISH": "I will have increased"
+    },
+    "TU": {
+      "SPANISH": "habrás aumentado",
+      "ENGLISH": "you will have increased"
+    },
+    "EL": {
+      "SPANISH": "habrá aumentado",
+      "ENGLISH": "s/he will have increased, you (formal) will have increased"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán aumentado",
+      "ENGLISH": "they will have increased, you (plural formal) will have increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos aumentado",
+      "ENGLISH": "we will have increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis aumentado",
+      "ENGLISH": "you (plural) will have increased"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "aumentaría",
+      "ENGLISH": "I would increase"
+    },
+    "TU": {
+      "SPANISH": "aumentarías",
+      "ENGLISH": "you would increase"
+    },
+    "EL": {
+      "SPANISH": "aumentaría",
+      "ENGLISH": "s/he would increase, you (formal) would increase"
+    },
+    "ELLOS": {
+      "SPANISH": "aumentarían",
+      "ENGLISH": "they would increase, you (plural formal) would increase"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aumentaríamos",
+      "ENGLISH": "we would increase"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aumentaríais",
+      "ENGLISH": "you (plural) would increase"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría aumentado",
+      "ENGLISH": "I would have increased"
+    },
+    "TU": {
+      "SPANISH": "habrías aumentado",
+      "ENGLISH": "you would have increased"
+    },
+    "EL": {
+      "SPANISH": "habría aumentado",
+      "ENGLISH": "s/he would have increased, you (formal) would have increased"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían aumentado",
+      "ENGLISH": "they would have increased, you (plural formal) would have increased"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos aumentado",
+      "ENGLISH": "we would have increased"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais aumentado",
+      "ENGLISH": "you (plural) would have increased"
+    }
+  }
+}

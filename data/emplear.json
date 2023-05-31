@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "empleo",
+      "ENGLISH": "I employ"
+    },
+    "TU": {
+      "SPANISH": "empleas",
+      "ENGLISH": "you employ"
+    },
+    "EL": {
+      "SPANISH": "emplea",
+      "ENGLISH": "s/he employs, you (formal) employs"
+    },
+    "ELLOS": {
+      "SPANISH": "emplean",
+      "ENGLISH": "they employ, you (plural formal) employ"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empleamos",
+      "ENGLISH": "we employ"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empleáis",
+      "ENGLISH": "you (plural) employ"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he empleado",
+      "ENGLISH": "I have employed"
+    },
+    "TU": {
+      "SPANISH": "has empleado",
+      "ENGLISH": "you have employed"
+    },
+    "EL": {
+      "SPANISH": "ha empleado",
+      "ENGLISH": "s/he has employed, you (formal) have employed"
+    },
+    "ELLOS": {
+      "SPANISH": "han empleado",
+      "ENGLISH": "they have employed, you (plural formal) have employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos empleado",
+      "ENGLISH": "we have employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis empleado",
+      "ENGLISH": "you (plural) have employed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "empleé",
+      "ENGLISH": "I employed"
+    },
+    "TU": {
+      "SPANISH": "empleaste",
+      "ENGLISH": "you employed"
+    },
+    "EL": {
+      "SPANISH": "empleó",
+      "ENGLISH": "s/he employed, you (formal) employed"
+    },
+    "ELLOS": {
+      "SPANISH": "emplearon",
+      "ENGLISH": "they employed, you (plural formal) employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empleamos",
+      "ENGLISH": "we employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empleasteis",
+      "ENGLISH": "you (plural) employed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había empleado",
+      "ENGLISH": "I had employed"
+    },
+    "TU": {
+      "SPANISH": "habías empleado",
+      "ENGLISH": "you had employed"
+    },
+    "EL": {
+      "SPANISH": "había empleado",
+      "ENGLISH": "s/he had employed, you (formal) had employed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían empleado",
+      "ENGLISH": "they had employed, you (plural formal) had employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos empleado",
+      "ENGLISH": "we had employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais empleado",
+      "ENGLISH": "you (plural) had employed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "empleé",
+      "ENGLISH": "I employed"
+    },
+    "TU": {
+      "SPANISH": "empleaste",
+      "ENGLISH": "you employed"
+    },
+    "EL": {
+      "SPANISH": "empleó",
+      "ENGLISH": "s/he employed, you (formal) employed"
+    },
+    "ELLOS": {
+      "SPANISH": "emplearon",
+      "ENGLISH": "they employed, you (plural formal) employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empleamos",
+      "ENGLISH": "we employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empleasteis",
+      "ENGLISH": "you (plural) employed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "emplearé",
+      "ENGLISH": "I will employ"
+    },
+    "TU": {
+      "SPANISH": "emplearás",
+      "ENGLISH": "you will employ"
+    },
+    "EL": {
+      "SPANISH": "empleará",
+      "ENGLISH": "s/he will employ, you (formal) will employ"
+    },
+    "ELLOS": {
+      "SPANISH": "emplearán",
+      "ENGLISH": "they will employ, you (plural formal) will employ"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emplearemos",
+      "ENGLISH": "we will employ"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emplearéis",
+      "ENGLISH": "you (plural) will employ"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré empleado",
+      "ENGLISH": "I will have employed"
+    },
+    "TU": {
+      "SPANISH": "habrás empleado",
+      "ENGLISH": "you will have employed"
+    },
+    "EL": {
+      "SPANISH": "habrá empleado",
+      "ENGLISH": "s/he will have employed, you (formal) will have employed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán empleado",
+      "ENGLISH": "they will have employed, you (plural formal) will have employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos empleado",
+      "ENGLISH": "we will have employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis empleado",
+      "ENGLISH": "you (plural) will have employed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "emplearía",
+      "ENGLISH": "I would employ"
+    },
+    "TU": {
+      "SPANISH": "emplearías",
+      "ENGLISH": "you would employ"
+    },
+    "EL": {
+      "SPANISH": "emplearía",
+      "ENGLISH": "s/he would employ, you (formal) would employ"
+    },
+    "ELLOS": {
+      "SPANISH": "emplearían",
+      "ENGLISH": "they would employ, you (plural formal) would employ"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emplearíamos",
+      "ENGLISH": "we would employ"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emplearíais",
+      "ENGLISH": "you (plural) would employ"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría empleado",
+      "ENGLISH": "I would have employed"
+    },
+    "TU": {
+      "SPANISH": "habrías empleado",
+      "ENGLISH": "you would have employed"
+    },
+    "EL": {
+      "SPANISH": "habría empleado",
+      "ENGLISH": "s/he would have employed, you (formal) would have employed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían empleado",
+      "ENGLISH": "they would have employed, you (plural formal) would have employed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos empleado",
+      "ENGLISH": "we would have employed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais empleado",
+      "ENGLISH": "you (plural) would have employed"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "bajo",
+      "ENGLISH": "I go down"
+    },
+    "TU": {
+      "SPANISH": "bajas",
+      "ENGLISH": "you go down"
+    },
+    "EL": {
+      "SPANISH": "baja",
+      "ENGLISH": "s/he goes down, you (formal) goes down"
+    },
+    "ELLOS": {
+      "SPANISH": "bajan",
+      "ENGLISH": "they go down, you (plural formal) go down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bajamos",
+      "ENGLISH": "we go down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bajáis",
+      "ENGLISH": "you (plural) go down"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he bajado",
+      "ENGLISH": "I have gone down"
+    },
+    "TU": {
+      "SPANISH": "has bajado",
+      "ENGLISH": "you have gone down"
+    },
+    "EL": {
+      "SPANISH": "ha bajado",
+      "ENGLISH": "s/he has gone down, you (formal) have gone down"
+    },
+    "ELLOS": {
+      "SPANISH": "han bajado",
+      "ENGLISH": "they have gone down, you (plural formal) have gone down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos bajado",
+      "ENGLISH": "we have gone down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis bajado",
+      "ENGLISH": "you (plural) have gone down"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "bajé",
+      "ENGLISH": "I went down"
+    },
+    "TU": {
+      "SPANISH": "bajaste",
+      "ENGLISH": "you went down"
+    },
+    "EL": {
+      "SPANISH": "bajó",
+      "ENGLISH": "s/he went down, you (formal) went down"
+    },
+    "ELLOS": {
+      "SPANISH": "bajaron",
+      "ENGLISH": "they went down, you (plural formal) went down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bajamos",
+      "ENGLISH": "we went down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bajasteis",
+      "ENGLISH": "you (plural) went down"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había bajado",
+      "ENGLISH": "I had gone down"
+    },
+    "TU": {
+      "SPANISH": "habías bajado",
+      "ENGLISH": "you had gone down"
+    },
+    "EL": {
+      "SPANISH": "había bajado",
+      "ENGLISH": "s/he had gone down, you (formal) had gone down"
+    },
+    "ELLOS": {
+      "SPANISH": "habían bajado",
+      "ENGLISH": "they had gone down, you (plural formal) had gone down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos bajado",
+      "ENGLISH": "we had gone down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais bajado",
+      "ENGLISH": "you (plural) had gone down"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "bajé",
+      "ENGLISH": "I went down"
+    },
+    "TU": {
+      "SPANISH": "bajaste",
+      "ENGLISH": "you went down"
+    },
+    "EL": {
+      "SPANISH": "bajó",
+      "ENGLISH": "s/he went down, you (formal) went down"
+    },
+    "ELLOS": {
+      "SPANISH": "bajaron",
+      "ENGLISH": "they went down, you (plural formal) went down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bajamos",
+      "ENGLISH": "we went down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bajasteis",
+      "ENGLISH": "you (plural) went down"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "bajaré",
+      "ENGLISH": "I will go down"
+    },
+    "TU": {
+      "SPANISH": "bajarás",
+      "ENGLISH": "you will go down"
+    },
+    "EL": {
+      "SPANISH": "bajará",
+      "ENGLISH": "s/he will go down, you (formal) will go down"
+    },
+    "ELLOS": {
+      "SPANISH": "bajarán",
+      "ENGLISH": "they will go down, you (plural formal) will go down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bajaremos",
+      "ENGLISH": "we will go down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bajaréis",
+      "ENGLISH": "you (plural) will go down"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré bajado",
+      "ENGLISH": "I will have gone down"
+    },
+    "TU": {
+      "SPANISH": "habrás bajado",
+      "ENGLISH": "you will have gone down"
+    },
+    "EL": {
+      "SPANISH": "habrá bajado",
+      "ENGLISH": "s/he will have gone down, you (formal) will have gone down"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán bajado",
+      "ENGLISH": "they will have gone down, you (plural formal) will have gone down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos bajado",
+      "ENGLISH": "we will have gone down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis bajado",
+      "ENGLISH": "you (plural) will have gone down"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "bajaría",
+      "ENGLISH": "I would go down"
+    },
+    "TU": {
+      "SPANISH": "bajarías",
+      "ENGLISH": "you would go down"
+    },
+    "EL": {
+      "SPANISH": "bajaría",
+      "ENGLISH": "s/he would go down, you (formal) would go down"
+    },
+    "ELLOS": {
+      "SPANISH": "bajarían",
+      "ENGLISH": "they would go down, you (plural formal) would go down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bajaríamos",
+      "ENGLISH": "we would go down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bajaríais",
+      "ENGLISH": "you (plural) would go down"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría bajado",
+      "ENGLISH": "I would have gone down"
+    },
+    "TU": {
+      "SPANISH": "habrías bajado",
+      "ENGLISH": "you would have gone down"
+    },
+    "EL": {
+      "SPANISH": "habría bajado",
+      "ENGLISH": "s/he would have gone down, you (formal) would have gone down"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían bajado",
+      "ENGLISH": "they would have gone down, you (plural formal) would have gone down"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos bajado",
+      "ENGLISH": "we would have gone down"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais bajado",
+      "ENGLISH": "you (plural) would have gone down"
+    }
+  }
+}

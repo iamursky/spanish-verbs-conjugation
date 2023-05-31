@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "tardo",
+      "ENGLISH": "I delay"
+    },
+    "TU": {
+      "SPANISH": "tardas",
+      "ENGLISH": "you delay"
+    },
+    "EL": {
+      "SPANISH": "tarda",
+      "ENGLISH": "s/he delays, you (formal) delays"
+    },
+    "ELLOS": {
+      "SPANISH": "tardan",
+      "ENGLISH": "they delay, you (plural formal) delay"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tardamos",
+      "ENGLISH": "we delay"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tardáis",
+      "ENGLISH": "you (plural) delay"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he tardado",
+      "ENGLISH": "I have delayed"
+    },
+    "TU": {
+      "SPANISH": "has tardado",
+      "ENGLISH": "you have delayed"
+    },
+    "EL": {
+      "SPANISH": "ha tardado",
+      "ENGLISH": "s/he has delayed, you (formal) have delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "han tardado",
+      "ENGLISH": "they have delayed, you (plural formal) have delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos tardado",
+      "ENGLISH": "we have delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis tardado",
+      "ENGLISH": "you (plural) have delayed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "tardé",
+      "ENGLISH": "I delayed"
+    },
+    "TU": {
+      "SPANISH": "tardaste",
+      "ENGLISH": "you delayed"
+    },
+    "EL": {
+      "SPANISH": "tardó",
+      "ENGLISH": "s/he delayed, you (formal) delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "tardaron",
+      "ENGLISH": "they delayed, you (plural formal) delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tardamos",
+      "ENGLISH": "we delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tardasteis",
+      "ENGLISH": "you (plural) delayed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había tardado",
+      "ENGLISH": "I had delayed"
+    },
+    "TU": {
+      "SPANISH": "habías tardado",
+      "ENGLISH": "you had delayed"
+    },
+    "EL": {
+      "SPANISH": "había tardado",
+      "ENGLISH": "s/he had delayed, you (formal) had delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían tardado",
+      "ENGLISH": "they had delayed, you (plural formal) had delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos tardado",
+      "ENGLISH": "we had delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais tardado",
+      "ENGLISH": "you (plural) had delayed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "tardé",
+      "ENGLISH": "I delayed"
+    },
+    "TU": {
+      "SPANISH": "tardaste",
+      "ENGLISH": "you delayed"
+    },
+    "EL": {
+      "SPANISH": "tardó",
+      "ENGLISH": "s/he delayed, you (formal) delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "tardaron",
+      "ENGLISH": "they delayed, you (plural formal) delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tardamos",
+      "ENGLISH": "we delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tardasteis",
+      "ENGLISH": "you (plural) delayed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "tardaré",
+      "ENGLISH": "I will delay"
+    },
+    "TU": {
+      "SPANISH": "tardarás",
+      "ENGLISH": "you will delay"
+    },
+    "EL": {
+      "SPANISH": "tardará",
+      "ENGLISH": "s/he will delay, you (formal) will delay"
+    },
+    "ELLOS": {
+      "SPANISH": "tardarán",
+      "ENGLISH": "they will delay, you (plural formal) will delay"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tardaremos",
+      "ENGLISH": "we will delay"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tardaréis",
+      "ENGLISH": "you (plural) will delay"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré tardado",
+      "ENGLISH": "I will have delayed"
+    },
+    "TU": {
+      "SPANISH": "habrás tardado",
+      "ENGLISH": "you will have delayed"
+    },
+    "EL": {
+      "SPANISH": "habrá tardado",
+      "ENGLISH": "s/he will have delayed, you (formal) will have delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán tardado",
+      "ENGLISH": "they will have delayed, you (plural formal) will have delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos tardado",
+      "ENGLISH": "we will have delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis tardado",
+      "ENGLISH": "you (plural) will have delayed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "tardaría",
+      "ENGLISH": "I would delay"
+    },
+    "TU": {
+      "SPANISH": "tardarías",
+      "ENGLISH": "you would delay"
+    },
+    "EL": {
+      "SPANISH": "tardaría",
+      "ENGLISH": "s/he would delay, you (formal) would delay"
+    },
+    "ELLOS": {
+      "SPANISH": "tardarían",
+      "ENGLISH": "they would delay, you (plural formal) would delay"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tardaríamos",
+      "ENGLISH": "we would delay"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tardaríais",
+      "ENGLISH": "you (plural) would delay"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría tardado",
+      "ENGLISH": "I would have delayed"
+    },
+    "TU": {
+      "SPANISH": "habrías tardado",
+      "ENGLISH": "you would have delayed"
+    },
+    "EL": {
+      "SPANISH": "habría tardado",
+      "ENGLISH": "s/he would have delayed, you (formal) would have delayed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían tardado",
+      "ENGLISH": "they would have delayed, you (plural formal) would have delayed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos tardado",
+      "ENGLISH": "we would have delayed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais tardado",
+      "ENGLISH": "you (plural) would have delayed"
+    }
+  }
+}

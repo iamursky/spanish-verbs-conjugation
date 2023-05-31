@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "seco",
+      "ENGLISH": "I dry"
+    },
+    "TU": {
+      "SPANISH": "secas",
+      "ENGLISH": "you dry"
+    },
+    "EL": {
+      "SPANISH": "seca",
+      "ENGLISH": "s/he dries, you (formal) dries"
+    },
+    "ELLOS": {
+      "SPANISH": "secan",
+      "ENGLISH": "they dry, you (plural formal) dry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "secamos",
+      "ENGLISH": "we dry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "secáis",
+      "ENGLISH": "you (plural) dry"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he secado",
+      "ENGLISH": "I have dried"
+    },
+    "TU": {
+      "SPANISH": "has secado",
+      "ENGLISH": "you have dried"
+    },
+    "EL": {
+      "SPANISH": "ha secado",
+      "ENGLISH": "s/he has dried, you (formal) have dried"
+    },
+    "ELLOS": {
+      "SPANISH": "han secado",
+      "ENGLISH": "they have dried, you (plural formal) have dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos secado",
+      "ENGLISH": "we have dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis secado",
+      "ENGLISH": "you (plural) have dried"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sequé ",
+      "ENGLISH": "I dried"
+    },
+    "TU": {
+      "SPANISH": "secaste",
+      "ENGLISH": "you dried"
+    },
+    "EL": {
+      "SPANISH": "secó",
+      "ENGLISH": "s/he dried, you (formal) dried"
+    },
+    "ELLOS": {
+      "SPANISH": "secaron",
+      "ENGLISH": "they dried, you (plural formal) dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "secamos",
+      "ENGLISH": "we dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "secasteis",
+      "ENGLISH": "you (plural) dried"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había secado",
+      "ENGLISH": "I had dried"
+    },
+    "TU": {
+      "SPANISH": "habías secado",
+      "ENGLISH": "you had dried"
+    },
+    "EL": {
+      "SPANISH": "había secado",
+      "ENGLISH": "s/he had dried, you (formal) had dried"
+    },
+    "ELLOS": {
+      "SPANISH": "habían secado",
+      "ENGLISH": "they had dried, you (plural formal) had dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos secado",
+      "ENGLISH": "we had dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais secado",
+      "ENGLISH": "you (plural) had dried"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sequé ",
+      "ENGLISH": "I dried"
+    },
+    "TU": {
+      "SPANISH": "secaste",
+      "ENGLISH": "you dried"
+    },
+    "EL": {
+      "SPANISH": "secó",
+      "ENGLISH": "s/he dried, you (formal) dried"
+    },
+    "ELLOS": {
+      "SPANISH": "secaron",
+      "ENGLISH": "they dried, you (plural formal) dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "secamos",
+      "ENGLISH": "we dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "secasteis",
+      "ENGLISH": "you (plural) dried"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "secaré",
+      "ENGLISH": "I will dry"
+    },
+    "TU": {
+      "SPANISH": "secarás",
+      "ENGLISH": "you will dry"
+    },
+    "EL": {
+      "SPANISH": "secará",
+      "ENGLISH": "s/he will dry, you (formal) will dry"
+    },
+    "ELLOS": {
+      "SPANISH": "secarán",
+      "ENGLISH": "they will dry, you (plural formal) will dry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "secaremos",
+      "ENGLISH": "we will dry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "secaréis",
+      "ENGLISH": "you (plural) will dry"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré secado",
+      "ENGLISH": "I will have dried"
+    },
+    "TU": {
+      "SPANISH": "habrás secado",
+      "ENGLISH": "you will have dried"
+    },
+    "EL": {
+      "SPANISH": "habrá secado",
+      "ENGLISH": "s/he will have dried, you (formal) will have dried"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán secado",
+      "ENGLISH": "they will have dried, you (plural formal) will have dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos secado",
+      "ENGLISH": "we will have dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis secado",
+      "ENGLISH": "you (plural) will have dried"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "secaría",
+      "ENGLISH": "I would dry"
+    },
+    "TU": {
+      "SPANISH": "secarías",
+      "ENGLISH": "you would dry"
+    },
+    "EL": {
+      "SPANISH": "secaría",
+      "ENGLISH": "s/he would dry, you (formal) would dry"
+    },
+    "ELLOS": {
+      "SPANISH": "secarían",
+      "ENGLISH": "they would dry, you (plural formal) would dry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "secaríamos",
+      "ENGLISH": "we would dry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "secaríais",
+      "ENGLISH": "you (plural) would dry"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría secado",
+      "ENGLISH": "I would have dried"
+    },
+    "TU": {
+      "SPANISH": "habrías secado",
+      "ENGLISH": "you would have dried"
+    },
+    "EL": {
+      "SPANISH": "habría secado",
+      "ENGLISH": "s/he would have dried, you (formal) would have dried"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían secado",
+      "ENGLISH": "they would have dried, you (plural formal) would have dried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos secado",
+      "ENGLISH": "we would have dried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais secado",
+      "ENGLISH": "you (plural) would have dried"
+    }
+  }
+}

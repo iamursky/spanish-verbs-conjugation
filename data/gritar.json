@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "grito",
+      "ENGLISH": "I shout"
+    },
+    "TU": {
+      "SPANISH": "gritas",
+      "ENGLISH": "you shout"
+    },
+    "EL": {
+      "SPANISH": "grita",
+      "ENGLISH": "s/he shouts, you (formal) shouts"
+    },
+    "ELLOS": {
+      "SPANISH": "gritan",
+      "ENGLISH": "they shout, you (plural formal) shout"
+    },
+    "NOSOTROS": {
+      "SPANISH": "gritamos",
+      "ENGLISH": "we shout"
+    },
+    "VOSOTROS": {
+      "SPANISH": "gritáis",
+      "ENGLISH": "you (plural) shout"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he gritado",
+      "ENGLISH": "I have shouted"
+    },
+    "TU": {
+      "SPANISH": "has gritado",
+      "ENGLISH": "you have shouted"
+    },
+    "EL": {
+      "SPANISH": "ha gritado",
+      "ENGLISH": "s/he has shouted, you (formal) have shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "han gritado",
+      "ENGLISH": "they have shouted, you (plural formal) have shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos gritado",
+      "ENGLISH": "we have shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis gritado",
+      "ENGLISH": "you (plural) have shouted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "grité",
+      "ENGLISH": "I shouted"
+    },
+    "TU": {
+      "SPANISH": "gritaste",
+      "ENGLISH": "you shouted"
+    },
+    "EL": {
+      "SPANISH": "gritó",
+      "ENGLISH": "s/he shouted, you (formal) shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "gritaron",
+      "ENGLISH": "they shouted, you (plural formal) shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "gritamos",
+      "ENGLISH": "we shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "gritasteis",
+      "ENGLISH": "you (plural) shouted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había gritado",
+      "ENGLISH": "I had shouted"
+    },
+    "TU": {
+      "SPANISH": "habías gritado",
+      "ENGLISH": "you had shouted"
+    },
+    "EL": {
+      "SPANISH": "había gritado",
+      "ENGLISH": "s/he had shouted, you (formal) had shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían gritado",
+      "ENGLISH": "they had shouted, you (plural formal) had shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos gritado",
+      "ENGLISH": "we had shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais gritado",
+      "ENGLISH": "you (plural) had shouted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "grité",
+      "ENGLISH": "I shouted"
+    },
+    "TU": {
+      "SPANISH": "gritaste",
+      "ENGLISH": "you shouted"
+    },
+    "EL": {
+      "SPANISH": "gritó",
+      "ENGLISH": "s/he shouted, you (formal) shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "gritaron",
+      "ENGLISH": "they shouted, you (plural formal) shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "gritamos",
+      "ENGLISH": "we shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "gritasteis",
+      "ENGLISH": "you (plural) shouted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "gritaré",
+      "ENGLISH": "I will shout"
+    },
+    "TU": {
+      "SPANISH": "gritarás",
+      "ENGLISH": "you will shout"
+    },
+    "EL": {
+      "SPANISH": "gritará",
+      "ENGLISH": "s/he will shout, you (formal) will shout"
+    },
+    "ELLOS": {
+      "SPANISH": "gritarán",
+      "ENGLISH": "they will shout, you (plural formal) will shout"
+    },
+    "NOSOTROS": {
+      "SPANISH": "gritaremos",
+      "ENGLISH": "we will shout"
+    },
+    "VOSOTROS": {
+      "SPANISH": "gritaréis",
+      "ENGLISH": "you (plural) will shout"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré gritado",
+      "ENGLISH": "I will have shouted"
+    },
+    "TU": {
+      "SPANISH": "habrás gritado",
+      "ENGLISH": "you will have shouted"
+    },
+    "EL": {
+      "SPANISH": "habrá gritado",
+      "ENGLISH": "s/he will have shouted, you (formal) will have shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán gritado",
+      "ENGLISH": "they will have shouted, you (plural formal) will have shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos gritado",
+      "ENGLISH": "we will have shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis gritado",
+      "ENGLISH": "you (plural) will have shouted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "gritaría",
+      "ENGLISH": "I would shout"
+    },
+    "TU": {
+      "SPANISH": "gritarías",
+      "ENGLISH": "you would shout"
+    },
+    "EL": {
+      "SPANISH": "gritaría",
+      "ENGLISH": "s/he would shout, you (formal) would shout"
+    },
+    "ELLOS": {
+      "SPANISH": "gritarían",
+      "ENGLISH": "they would shout, you (plural formal) would shout"
+    },
+    "NOSOTROS": {
+      "SPANISH": "gritaríamos",
+      "ENGLISH": "we would shout"
+    },
+    "VOSOTROS": {
+      "SPANISH": "gritaríais",
+      "ENGLISH": "you (plural) would shout"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría gritado",
+      "ENGLISH": "I would have shouted"
+    },
+    "TU": {
+      "SPANISH": "habrías gritado",
+      "ENGLISH": "you would have shouted"
+    },
+    "EL": {
+      "SPANISH": "habría gritado",
+      "ENGLISH": "s/he would have shouted, you (formal) would have shouted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían gritado",
+      "ENGLISH": "they would have shouted, you (plural formal) would have shouted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos gritado",
+      "ENGLISH": "we would have shouted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais gritado",
+      "ENGLISH": "you (plural) would have shouted"
+    }
+  }
+}

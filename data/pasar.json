@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "paso",
+      "ENGLISH": "I pass"
+    },
+    "TU": {
+      "SPANISH": "pasas",
+      "ENGLISH": "you pass"
+    },
+    "EL": {
+      "SPANISH": "pasa",
+      "ENGLISH": "s/he passes, you (formal) passes"
+    },
+    "ELLOS": {
+      "SPANISH": "pasan",
+      "ENGLISH": "they pass, you (plural formal) pass"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pasamos",
+      "ENGLISH": "we pass"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pasáis",
+      "ENGLISH": "you (plural) pass"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he pasado",
+      "ENGLISH": "I have passed"
+    },
+    "TU": {
+      "SPANISH": "has pasado",
+      "ENGLISH": "you have passed"
+    },
+    "EL": {
+      "SPANISH": "ha pasado",
+      "ENGLISH": "s/he has passed, you (formal) have passed"
+    },
+    "ELLOS": {
+      "SPANISH": "han pasado",
+      "ENGLISH": "they have passed, you (plural formal) have passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos pasado",
+      "ENGLISH": "we have passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis pasado",
+      "ENGLISH": "you (plural) have passed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "pasé",
+      "ENGLISH": "I passed"
+    },
+    "TU": {
+      "SPANISH": "pasaste",
+      "ENGLISH": "you passed"
+    },
+    "EL": {
+      "SPANISH": "pasó",
+      "ENGLISH": "s/he passed, you (formal) passed"
+    },
+    "ELLOS": {
+      "SPANISH": "pasaron",
+      "ENGLISH": "they passed, you (plural formal) passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pasamos",
+      "ENGLISH": "we passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pasasteis",
+      "ENGLISH": "you (plural) passed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había pasado",
+      "ENGLISH": "I had passed"
+    },
+    "TU": {
+      "SPANISH": "habías pasado",
+      "ENGLISH": "you had passed"
+    },
+    "EL": {
+      "SPANISH": "había pasado",
+      "ENGLISH": "s/he had passed, you (formal) had passed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían pasado",
+      "ENGLISH": "they had passed, you (plural formal) had passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos pasado",
+      "ENGLISH": "we had passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais pasado",
+      "ENGLISH": "you (plural) had passed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "pasé",
+      "ENGLISH": "I passed"
+    },
+    "TU": {
+      "SPANISH": "pasaste",
+      "ENGLISH": "you passed"
+    },
+    "EL": {
+      "SPANISH": "pasó",
+      "ENGLISH": "s/he passed, you (formal) passed"
+    },
+    "ELLOS": {
+      "SPANISH": "pasaron",
+      "ENGLISH": "they passed, you (plural formal) passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pasamos",
+      "ENGLISH": "we passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pasasteis",
+      "ENGLISH": "you (plural) passed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "pasaré",
+      "ENGLISH": "I will pass"
+    },
+    "TU": {
+      "SPANISH": "pasarás",
+      "ENGLISH": "you will pass"
+    },
+    "EL": {
+      "SPANISH": "pasará",
+      "ENGLISH": "s/he will pass, you (formal) will pass"
+    },
+    "ELLOS": {
+      "SPANISH": "pasarán",
+      "ENGLISH": "they will pass, you (plural formal) will pass"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pasaremos",
+      "ENGLISH": "we will pass"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pasaréis",
+      "ENGLISH": "you (plural) will pass"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré pasado",
+      "ENGLISH": "I will have passed"
+    },
+    "TU": {
+      "SPANISH": "habrás pasado",
+      "ENGLISH": "you will have passed"
+    },
+    "EL": {
+      "SPANISH": "habrá pasado",
+      "ENGLISH": "s/he will have passed, you (formal) will have passed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán pasado",
+      "ENGLISH": "they will have passed, you (plural formal) will have passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos pasado",
+      "ENGLISH": "we will have passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis pasado",
+      "ENGLISH": "you (plural) will have passed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "pasaría",
+      "ENGLISH": "I would pass"
+    },
+    "TU": {
+      "SPANISH": "pasarías",
+      "ENGLISH": "you would pass"
+    },
+    "EL": {
+      "SPANISH": "pasaría",
+      "ENGLISH": "s/he would pass, you (formal) would pass"
+    },
+    "ELLOS": {
+      "SPANISH": "pasarían",
+      "ENGLISH": "they would pass, you (plural formal) would pass"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pasaríamos",
+      "ENGLISH": "we would pass"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pasaríais",
+      "ENGLISH": "you (plural) would pass"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría pasado",
+      "ENGLISH": "I would have passed"
+    },
+    "TU": {
+      "SPANISH": "habrías pasado",
+      "ENGLISH": "you would have passed"
+    },
+    "EL": {
+      "SPANISH": "habría pasado",
+      "ENGLISH": "s/he would have passed, you (formal) would have passed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían pasado",
+      "ENGLISH": "they would have passed, you (plural formal) would have passed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos pasado",
+      "ENGLISH": "we would have passed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais pasado",
+      "ENGLISH": "you (plural) would have passed"
+    }
+  }
+}

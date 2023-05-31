@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "juego ",
+      "ENGLISH": "I play"
+    },
+    "TU": {
+      "SPANISH": "juegas ",
+      "ENGLISH": "you play"
+    },
+    "EL": {
+      "SPANISH": "juega ",
+      "ENGLISH": "s/he plays, you (formal) plays"
+    },
+    "ELLOS": {
+      "SPANISH": "juegan ",
+      "ENGLISH": "they play, you (plural formal) play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "jugamos",
+      "ENGLISH": "we play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "jugáis",
+      "ENGLISH": "you (plural) play"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he jugado",
+      "ENGLISH": "I have played"
+    },
+    "TU": {
+      "SPANISH": "has jugado",
+      "ENGLISH": "you have played"
+    },
+    "EL": {
+      "SPANISH": "ha jugado",
+      "ENGLISH": "s/he has played, you (formal) have played"
+    },
+    "ELLOS": {
+      "SPANISH": "han jugado",
+      "ENGLISH": "they have played, you (plural formal) have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos jugado",
+      "ENGLISH": "we have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis jugado",
+      "ENGLISH": "you (plural) have played"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "jugué ",
+      "ENGLISH": "I played"
+    },
+    "TU": {
+      "SPANISH": "jugaste",
+      "ENGLISH": "you played"
+    },
+    "EL": {
+      "SPANISH": "jugó",
+      "ENGLISH": "s/he played, you (formal) played"
+    },
+    "ELLOS": {
+      "SPANISH": "jugaron",
+      "ENGLISH": "they played, you (plural formal) played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "jugamos",
+      "ENGLISH": "we played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "jugasteis",
+      "ENGLISH": "you (plural) played"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había jugado",
+      "ENGLISH": "I had played"
+    },
+    "TU": {
+      "SPANISH": "habías jugado",
+      "ENGLISH": "you had played"
+    },
+    "EL": {
+      "SPANISH": "había jugado",
+      "ENGLISH": "s/he had played, you (formal) had played"
+    },
+    "ELLOS": {
+      "SPANISH": "habían jugado",
+      "ENGLISH": "they had played, you (plural formal) had played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos jugado",
+      "ENGLISH": "we had played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais jugado",
+      "ENGLISH": "you (plural) had played"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "jugué ",
+      "ENGLISH": "I played"
+    },
+    "TU": {
+      "SPANISH": "jugaste",
+      "ENGLISH": "you played"
+    },
+    "EL": {
+      "SPANISH": "jugó",
+      "ENGLISH": "s/he played, you (formal) played"
+    },
+    "ELLOS": {
+      "SPANISH": "jugaron",
+      "ENGLISH": "they played, you (plural formal) played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "jugamos",
+      "ENGLISH": "we played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "jugasteis",
+      "ENGLISH": "you (plural) played"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "jugaré",
+      "ENGLISH": "I will play"
+    },
+    "TU": {
+      "SPANISH": "jugarás",
+      "ENGLISH": "you will play"
+    },
+    "EL": {
+      "SPANISH": "jugará",
+      "ENGLISH": "s/he will play, you (formal) will play"
+    },
+    "ELLOS": {
+      "SPANISH": "jugarán",
+      "ENGLISH": "they will play, you (plural formal) will play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "jugaremos",
+      "ENGLISH": "we will play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "jugaréis",
+      "ENGLISH": "you (plural) will play"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré jugado",
+      "ENGLISH": "I will have played"
+    },
+    "TU": {
+      "SPANISH": "habrás jugado",
+      "ENGLISH": "you will have played"
+    },
+    "EL": {
+      "SPANISH": "habrá jugado",
+      "ENGLISH": "s/he will have played, you (formal) will have played"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán jugado",
+      "ENGLISH": "they will have played, you (plural formal) will have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos jugado",
+      "ENGLISH": "we will have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis jugado",
+      "ENGLISH": "you (plural) will have played"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "jugaría",
+      "ENGLISH": "I would play"
+    },
+    "TU": {
+      "SPANISH": "jugarías",
+      "ENGLISH": "you would play"
+    },
+    "EL": {
+      "SPANISH": "jugaría",
+      "ENGLISH": "s/he would play, you (formal) would play"
+    },
+    "ELLOS": {
+      "SPANISH": "jugarían",
+      "ENGLISH": "they would play, you (plural formal) would play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "jugaríamos",
+      "ENGLISH": "we would play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "jugaríais",
+      "ENGLISH": "you (plural) would play"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría jugado",
+      "ENGLISH": "I would have played"
+    },
+    "TU": {
+      "SPANISH": "habrías jugado",
+      "ENGLISH": "you would have played"
+    },
+    "EL": {
+      "SPANISH": "habría jugado",
+      "ENGLISH": "s/he would have played, you (formal) would have played"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían jugado",
+      "ENGLISH": "they would have played, you (plural formal) would have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos jugado",
+      "ENGLISH": "we would have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais jugado",
+      "ENGLISH": "you (plural) would have played"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "elijo ",
+      "ENGLISH": "I choose"
+    },
+    "TU": {
+      "SPANISH": "eliges ",
+      "ENGLISH": "you choose"
+    },
+    "EL": {
+      "SPANISH": "elige ",
+      "ENGLISH": "s/he chooses, you (formal) chooses"
+    },
+    "ELLOS": {
+      "SPANISH": "eligen ",
+      "ENGLISH": "they choose, you (plural formal) choose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "elegimos",
+      "ENGLISH": "we choose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "elegís",
+      "ENGLISH": "you (plural) choose"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he elegido",
+      "ENGLISH": "I have chosen"
+    },
+    "TU": {
+      "SPANISH": "has elegido",
+      "ENGLISH": "you have chosen"
+    },
+    "EL": {
+      "SPANISH": "ha elegido",
+      "ENGLISH": "s/he has chosen, you (formal) have chosen"
+    },
+    "ELLOS": {
+      "SPANISH": "han elegido",
+      "ENGLISH": "they have chosen, you (plural formal) have chosen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos elegido",
+      "ENGLISH": "we have chosen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis elegido",
+      "ENGLISH": "you (plural) have chosen"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "elegí",
+      "ENGLISH": "I chose"
+    },
+    "TU": {
+      "SPANISH": "elegiste",
+      "ENGLISH": "you chose"
+    },
+    "EL": {
+      "SPANISH": "eligió ",
+      "ENGLISH": "s/he chose, you (formal) chose"
+    },
+    "ELLOS": {
+      "SPANISH": "eligieron ",
+      "ENGLISH": "they chose, you (plural formal) chose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "elegimos",
+      "ENGLISH": "we chose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "elegisteis",
+      "ENGLISH": "you (plural) chose"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había elegido",
+      "ENGLISH": "I had chosen"
+    },
+    "TU": {
+      "SPANISH": "habías elegido",
+      "ENGLISH": "you had chosen"
+    },
+    "EL": {
+      "SPANISH": "había elegido",
+      "ENGLISH": "s/he had chosen, you (formal) had chosen"
+    },
+    "ELLOS": {
+      "SPANISH": "habían elegido",
+      "ENGLISH": "they had chosen, you (plural formal) had chosen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos elegido",
+      "ENGLISH": "we had chosen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais elegido",
+      "ENGLISH": "you (plural) had chosen"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "elegí",
+      "ENGLISH": "I chose"
+    },
+    "TU": {
+      "SPANISH": "elegiste",
+      "ENGLISH": "you chose"
+    },
+    "EL": {
+      "SPANISH": "eligió ",
+      "ENGLISH": "s/he chose, you (formal) chose"
+    },
+    "ELLOS": {
+      "SPANISH": "eligieron ",
+      "ENGLISH": "they chose, you (plural formal) chose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "elegimos",
+      "ENGLISH": "we chose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "elegisteis",
+      "ENGLISH": "you (plural) chose"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "elegiré",
+      "ENGLISH": "I will choose"
+    },
+    "TU": {
+      "SPANISH": "elegirás",
+      "ENGLISH": "you will choose"
+    },
+    "EL": {
+      "SPANISH": "elegirá",
+      "ENGLISH": "s/he will choose, you (formal) will choose"
+    },
+    "ELLOS": {
+      "SPANISH": "elegirán",
+      "ENGLISH": "they will choose, you (plural formal) will choose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "elegiremos",
+      "ENGLISH": "we will choose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "elegiréis",
+      "ENGLISH": "you (plural) will choose"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré elegido",
+      "ENGLISH": "I will have chosen"
+    },
+    "TU": {
+      "SPANISH": "habrás elegido",
+      "ENGLISH": "you will have chosen"
+    },
+    "EL": {
+      "SPANISH": "habrá elegido",
+      "ENGLISH": "s/he will have chosen, you (formal) will have chosen"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán elegido",
+      "ENGLISH": "they will have chosen, you (plural formal) will have chosen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos elegido",
+      "ENGLISH": "we will have chosen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis elegido",
+      "ENGLISH": "you (plural) will have chosen"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "elegiría",
+      "ENGLISH": "I would choose"
+    },
+    "TU": {
+      "SPANISH": "elegirías",
+      "ENGLISH": "you would choose"
+    },
+    "EL": {
+      "SPANISH": "elegiría",
+      "ENGLISH": "s/he would choose, you (formal) would choose"
+    },
+    "ELLOS": {
+      "SPANISH": "elegirían",
+      "ENGLISH": "they would choose, you (plural formal) would choose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "elegiríamos",
+      "ENGLISH": "we would choose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "elegiríais",
+      "ENGLISH": "you (plural) would choose"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría elegido",
+      "ENGLISH": "I would have chosen"
+    },
+    "TU": {
+      "SPANISH": "habrías elegido",
+      "ENGLISH": "you would have chosen"
+    },
+    "EL": {
+      "SPANISH": "habría elegido",
+      "ENGLISH": "s/he would have chosen, you (formal) would have chosen"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían elegido",
+      "ENGLISH": "they would have chosen, you (plural formal) would have chosen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos elegido",
+      "ENGLISH": "we would have chosen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais elegido",
+      "ENGLISH": "you (plural) would have chosen"
+    }
+  }
+}

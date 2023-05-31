@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sugiero ",
+      "ENGLISH": "I suggest"
+    },
+    "TU": {
+      "SPANISH": "sugieres ",
+      "ENGLISH": "you suggest"
+    },
+    "EL": {
+      "SPANISH": "sugiere ",
+      "ENGLISH": "s/he suggests, you (formal) suggests"
+    },
+    "ELLOS": {
+      "SPANISH": "sugieren ",
+      "ENGLISH": "they suggest, you (plural formal) suggest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sugerimos",
+      "ENGLISH": "we suggest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sugerís",
+      "ENGLISH": "you (plural) suggest"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sugerido",
+      "ENGLISH": "I have suggested"
+    },
+    "TU": {
+      "SPANISH": "has sugerido",
+      "ENGLISH": "you have suggested"
+    },
+    "EL": {
+      "SPANISH": "ha sugerido",
+      "ENGLISH": "s/he has suggested, you (formal) have suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "han sugerido",
+      "ENGLISH": "they have suggested, you (plural formal) have suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sugerido",
+      "ENGLISH": "we have suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sugerido",
+      "ENGLISH": "you (plural) have suggested"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sugerí",
+      "ENGLISH": "I suggested"
+    },
+    "TU": {
+      "SPANISH": "sugeriste",
+      "ENGLISH": "you suggested"
+    },
+    "EL": {
+      "SPANISH": "sugirió ",
+      "ENGLISH": "s/he suggested, you (formal) suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "sugirieron ",
+      "ENGLISH": "they suggested, you (plural formal) suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sugerimos",
+      "ENGLISH": "we suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sugeristeis",
+      "ENGLISH": "you (plural) suggested"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sugerido",
+      "ENGLISH": "I had suggested"
+    },
+    "TU": {
+      "SPANISH": "habías sugerido",
+      "ENGLISH": "you had suggested"
+    },
+    "EL": {
+      "SPANISH": "había sugerido",
+      "ENGLISH": "s/he had suggested, you (formal) had suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sugerido",
+      "ENGLISH": "they had suggested, you (plural formal) had suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sugerido",
+      "ENGLISH": "we had suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sugerido",
+      "ENGLISH": "you (plural) had suggested"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sugerí",
+      "ENGLISH": "I suggested"
+    },
+    "TU": {
+      "SPANISH": "sugeriste",
+      "ENGLISH": "you suggested"
+    },
+    "EL": {
+      "SPANISH": "sugirió ",
+      "ENGLISH": "s/he suggested, you (formal) suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "sugirieron ",
+      "ENGLISH": "they suggested, you (plural formal) suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sugerimos",
+      "ENGLISH": "we suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sugeristeis",
+      "ENGLISH": "you (plural) suggested"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sugeriré",
+      "ENGLISH": "I will suggest"
+    },
+    "TU": {
+      "SPANISH": "sugerirás",
+      "ENGLISH": "you will suggest"
+    },
+    "EL": {
+      "SPANISH": "sugerirá",
+      "ENGLISH": "s/he will suggest, you (formal) will suggest"
+    },
+    "ELLOS": {
+      "SPANISH": "sugerirán",
+      "ENGLISH": "they will suggest, you (plural formal) will suggest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sugeriremos",
+      "ENGLISH": "we will suggest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sugeriréis",
+      "ENGLISH": "you (plural) will suggest"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sugerido",
+      "ENGLISH": "I will have suggested"
+    },
+    "TU": {
+      "SPANISH": "habrás sugerido",
+      "ENGLISH": "you will have suggested"
+    },
+    "EL": {
+      "SPANISH": "habrá sugerido",
+      "ENGLISH": "s/he will have suggested, you (formal) will have suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sugerido",
+      "ENGLISH": "they will have suggested, you (plural formal) will have suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sugerido",
+      "ENGLISH": "we will have suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sugerido",
+      "ENGLISH": "you (plural) will have suggested"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sugeriría",
+      "ENGLISH": "I would suggest"
+    },
+    "TU": {
+      "SPANISH": "sugerirías",
+      "ENGLISH": "you would suggest"
+    },
+    "EL": {
+      "SPANISH": "sugeriría",
+      "ENGLISH": "s/he would suggest, you (formal) would suggest"
+    },
+    "ELLOS": {
+      "SPANISH": "sugerirían",
+      "ENGLISH": "they would suggest, you (plural formal) would suggest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sugeriríamos",
+      "ENGLISH": "we would suggest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sugeriríais",
+      "ENGLISH": "you (plural) would suggest"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sugerido",
+      "ENGLISH": "I would have suggested"
+    },
+    "TU": {
+      "SPANISH": "habrías sugerido",
+      "ENGLISH": "you would have suggested"
+    },
+    "EL": {
+      "SPANISH": "habría sugerido",
+      "ENGLISH": "s/he would have suggested, you (formal) would have suggested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sugerido",
+      "ENGLISH": "they would have suggested, you (plural formal) would have suggested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sugerido",
+      "ENGLISH": "we would have suggested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sugerido",
+      "ENGLISH": "you (plural) would have suggested"
+    }
+  }
+}

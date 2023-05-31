@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "prefiero ",
+      "ENGLISH": "I prefer"
+    },
+    "TU": {
+      "SPANISH": "prefieres ",
+      "ENGLISH": "you prefer"
+    },
+    "EL": {
+      "SPANISH": "prefiere ",
+      "ENGLISH": "s/he prefers, you (formal) prefers"
+    },
+    "ELLOS": {
+      "SPANISH": "prefieren ",
+      "ENGLISH": "they prefer, you (plural formal) prefer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preferimos",
+      "ENGLISH": "we prefer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preferís",
+      "ENGLISH": "you (plural) prefer"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he preferido",
+      "ENGLISH": "I have preferred"
+    },
+    "TU": {
+      "SPANISH": "has preferido",
+      "ENGLISH": "you have preferred"
+    },
+    "EL": {
+      "SPANISH": "ha preferido",
+      "ENGLISH": "s/he has preferred, you (formal) have preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "han preferido",
+      "ENGLISH": "they have preferred, you (plural formal) have preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos preferido",
+      "ENGLISH": "we have preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis preferido",
+      "ENGLISH": "you (plural) have preferred"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "preferí",
+      "ENGLISH": "I preferred"
+    },
+    "TU": {
+      "SPANISH": "preferiste",
+      "ENGLISH": "you preferred"
+    },
+    "EL": {
+      "SPANISH": "prefirió ",
+      "ENGLISH": "s/he preferred, you (formal) preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "prefirieron ",
+      "ENGLISH": "they preferred, you (plural formal) preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preferimos",
+      "ENGLISH": "we preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preferisteis",
+      "ENGLISH": "you (plural) preferred"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había preferido",
+      "ENGLISH": "I had preferred"
+    },
+    "TU": {
+      "SPANISH": "habías preferido",
+      "ENGLISH": "you had preferred"
+    },
+    "EL": {
+      "SPANISH": "había preferido",
+      "ENGLISH": "s/he had preferred, you (formal) had preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "habían preferido",
+      "ENGLISH": "they had preferred, you (plural formal) had preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos preferido",
+      "ENGLISH": "we had preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais preferido",
+      "ENGLISH": "you (plural) had preferred"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "preferí",
+      "ENGLISH": "I preferred"
+    },
+    "TU": {
+      "SPANISH": "preferiste",
+      "ENGLISH": "you preferred"
+    },
+    "EL": {
+      "SPANISH": "prefirió ",
+      "ENGLISH": "s/he preferred, you (formal) preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "prefirieron ",
+      "ENGLISH": "they preferred, you (plural formal) preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preferimos",
+      "ENGLISH": "we preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preferisteis",
+      "ENGLISH": "you (plural) preferred"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "preferiré",
+      "ENGLISH": "I will prefer"
+    },
+    "TU": {
+      "SPANISH": "preferirás",
+      "ENGLISH": "you will prefer"
+    },
+    "EL": {
+      "SPANISH": "preferirá",
+      "ENGLISH": "s/he will prefer, you (formal) will prefer"
+    },
+    "ELLOS": {
+      "SPANISH": "preferirán",
+      "ENGLISH": "they will prefer, you (plural formal) will prefer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preferiremos",
+      "ENGLISH": "we will prefer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preferiréis",
+      "ENGLISH": "you (plural) will prefer"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré preferido",
+      "ENGLISH": "I will have preferred"
+    },
+    "TU": {
+      "SPANISH": "habrás preferido",
+      "ENGLISH": "you will have preferred"
+    },
+    "EL": {
+      "SPANISH": "habrá preferido",
+      "ENGLISH": "s/he will have preferred, you (formal) will have preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán preferido",
+      "ENGLISH": "they will have preferred, you (plural formal) will have preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos preferido",
+      "ENGLISH": "we will have preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis preferido",
+      "ENGLISH": "you (plural) will have preferred"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "preferiría",
+      "ENGLISH": "I would prefer"
+    },
+    "TU": {
+      "SPANISH": "preferirías",
+      "ENGLISH": "you would prefer"
+    },
+    "EL": {
+      "SPANISH": "preferiría",
+      "ENGLISH": "s/he would prefer, you (formal) would prefer"
+    },
+    "ELLOS": {
+      "SPANISH": "preferirían",
+      "ENGLISH": "they would prefer, you (plural formal) would prefer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preferiríamos",
+      "ENGLISH": "we would prefer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preferiríais",
+      "ENGLISH": "you (plural) would prefer"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría preferido",
+      "ENGLISH": "I would have preferred"
+    },
+    "TU": {
+      "SPANISH": "habrías preferido",
+      "ENGLISH": "you would have preferred"
+    },
+    "EL": {
+      "SPANISH": "habría preferido",
+      "ENGLISH": "s/he would have preferred, you (formal) would have preferred"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían preferido",
+      "ENGLISH": "they would have preferred, you (plural formal) would have preferred"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos preferido",
+      "ENGLISH": "we would have preferred"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais preferido",
+      "ENGLISH": "you (plural) would have preferred"
+    }
+  }
+}

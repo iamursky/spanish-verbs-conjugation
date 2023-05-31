@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "lavo",
+      "ENGLISH": "I wash"
+    },
+    "TU": {
+      "SPANISH": "lavas",
+      "ENGLISH": "you wash"
+    },
+    "EL": {
+      "SPANISH": "lava",
+      "ENGLISH": "s/he washes, you (formal) washes"
+    },
+    "ELLOS": {
+      "SPANISH": "lavan",
+      "ENGLISH": "they wash, you (plural formal) wash"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lavamos",
+      "ENGLISH": "we wash"
+    },
+    "VOSOTROS": {
+      "SPANISH": "laváis",
+      "ENGLISH": "you (plural) wash"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he lavado",
+      "ENGLISH": "I have washed"
+    },
+    "TU": {
+      "SPANISH": "has lavado",
+      "ENGLISH": "you have washed"
+    },
+    "EL": {
+      "SPANISH": "ha lavado",
+      "ENGLISH": "s/he has washed, you (formal) have washed"
+    },
+    "ELLOS": {
+      "SPANISH": "han lavado",
+      "ENGLISH": "they have washed, you (plural formal) have washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos lavado",
+      "ENGLISH": "we have washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis lavado",
+      "ENGLISH": "you (plural) have washed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "lavé",
+      "ENGLISH": "I washed"
+    },
+    "TU": {
+      "SPANISH": "lavaste",
+      "ENGLISH": "you washed"
+    },
+    "EL": {
+      "SPANISH": "lavó",
+      "ENGLISH": "s/he washed, you (formal) washed"
+    },
+    "ELLOS": {
+      "SPANISH": "lavaron",
+      "ENGLISH": "they washed, you (plural formal) washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lavamos",
+      "ENGLISH": "we washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lavasteis",
+      "ENGLISH": "you (plural) washed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había lavado",
+      "ENGLISH": "I had washed"
+    },
+    "TU": {
+      "SPANISH": "habías lavado",
+      "ENGLISH": "you had washed"
+    },
+    "EL": {
+      "SPANISH": "había lavado",
+      "ENGLISH": "s/he had washed, you (formal) had washed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían lavado",
+      "ENGLISH": "they had washed, you (plural formal) had washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos lavado",
+      "ENGLISH": "we had washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais lavado",
+      "ENGLISH": "you (plural) had washed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "lavé",
+      "ENGLISH": "I washed"
+    },
+    "TU": {
+      "SPANISH": "lavaste",
+      "ENGLISH": "you washed"
+    },
+    "EL": {
+      "SPANISH": "lavó",
+      "ENGLISH": "s/he washed, you (formal) washed"
+    },
+    "ELLOS": {
+      "SPANISH": "lavaron",
+      "ENGLISH": "they washed, you (plural formal) washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lavamos",
+      "ENGLISH": "we washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lavasteis",
+      "ENGLISH": "you (plural) washed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "lavaré",
+      "ENGLISH": "I will wash"
+    },
+    "TU": {
+      "SPANISH": "lavarás",
+      "ENGLISH": "you will wash"
+    },
+    "EL": {
+      "SPANISH": "lavará",
+      "ENGLISH": "s/he will wash, you (formal) will wash"
+    },
+    "ELLOS": {
+      "SPANISH": "lavarán",
+      "ENGLISH": "they will wash, you (plural formal) will wash"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lavaremos",
+      "ENGLISH": "we will wash"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lavaréis",
+      "ENGLISH": "you (plural) will wash"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré lavado",
+      "ENGLISH": "I will have washed"
+    },
+    "TU": {
+      "SPANISH": "habrás lavado",
+      "ENGLISH": "you will have washed"
+    },
+    "EL": {
+      "SPANISH": "habrá lavado",
+      "ENGLISH": "s/he will have washed, you (formal) will have washed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán lavado",
+      "ENGLISH": "they will have washed, you (plural formal) will have washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos lavado",
+      "ENGLISH": "we will have washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis lavado",
+      "ENGLISH": "you (plural) will have washed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "lavaría",
+      "ENGLISH": "I would wash"
+    },
+    "TU": {
+      "SPANISH": "lavarías",
+      "ENGLISH": "you would wash"
+    },
+    "EL": {
+      "SPANISH": "lavaría",
+      "ENGLISH": "s/he would wash, you (formal) would wash"
+    },
+    "ELLOS": {
+      "SPANISH": "lavarían",
+      "ENGLISH": "they would wash, you (plural formal) would wash"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lavaríamos",
+      "ENGLISH": "we would wash"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lavaríais",
+      "ENGLISH": "you (plural) would wash"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría lavado",
+      "ENGLISH": "I would have washed"
+    },
+    "TU": {
+      "SPANISH": "habrías lavado",
+      "ENGLISH": "you would have washed"
+    },
+    "EL": {
+      "SPANISH": "habría lavado",
+      "ENGLISH": "s/he would have washed, you (formal) would have washed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían lavado",
+      "ENGLISH": "they would have washed, you (plural formal) would have washed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos lavado",
+      "ENGLISH": "we would have washed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais lavado",
+      "ENGLISH": "you (plural) would have washed"
+    }
+  }
+}

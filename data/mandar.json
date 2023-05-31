@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "mando",
+      "ENGLISH": "I send"
+    },
+    "TU": {
+      "SPANISH": "mandas",
+      "ENGLISH": "you send"
+    },
+    "EL": {
+      "SPANISH": "manda",
+      "ENGLISH": "s/he sends, you (formal) sends"
+    },
+    "ELLOS": {
+      "SPANISH": "mandan",
+      "ENGLISH": "they send, you (plural formal) send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mandamos",
+      "ENGLISH": "we send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mandáis",
+      "ENGLISH": "you (plural) send"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he mandado",
+      "ENGLISH": "I have sent"
+    },
+    "TU": {
+      "SPANISH": "has mandado",
+      "ENGLISH": "you have sent"
+    },
+    "EL": {
+      "SPANISH": "ha mandado",
+      "ENGLISH": "s/he has sent, you (formal) have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "han mandado",
+      "ENGLISH": "they have sent, you (plural formal) have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos mandado",
+      "ENGLISH": "we have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis mandado",
+      "ENGLISH": "you (plural) have sent"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "mandé",
+      "ENGLISH": "I sent"
+    },
+    "TU": {
+      "SPANISH": "mandaste",
+      "ENGLISH": "you sent"
+    },
+    "EL": {
+      "SPANISH": "mandó",
+      "ENGLISH": "s/he sent, you (formal) sent"
+    },
+    "ELLOS": {
+      "SPANISH": "mandaron",
+      "ENGLISH": "they sent, you (plural formal) sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mandamos",
+      "ENGLISH": "we sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mandasteis",
+      "ENGLISH": "you (plural) sent"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había mandado",
+      "ENGLISH": "I had sent"
+    },
+    "TU": {
+      "SPANISH": "habías mandado",
+      "ENGLISH": "you had sent"
+    },
+    "EL": {
+      "SPANISH": "había mandado",
+      "ENGLISH": "s/he had sent, you (formal) had sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habían mandado",
+      "ENGLISH": "they had sent, you (plural formal) had sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos mandado",
+      "ENGLISH": "we had sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais mandado",
+      "ENGLISH": "you (plural) had sent"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "mandé",
+      "ENGLISH": "I sent"
+    },
+    "TU": {
+      "SPANISH": "mandaste",
+      "ENGLISH": "you sent"
+    },
+    "EL": {
+      "SPANISH": "mandó",
+      "ENGLISH": "s/he sent, you (formal) sent"
+    },
+    "ELLOS": {
+      "SPANISH": "mandaron",
+      "ENGLISH": "they sent, you (plural formal) sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mandamos",
+      "ENGLISH": "we sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mandasteis",
+      "ENGLISH": "you (plural) sent"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mandaré",
+      "ENGLISH": "I will send"
+    },
+    "TU": {
+      "SPANISH": "mandarás",
+      "ENGLISH": "you will send"
+    },
+    "EL": {
+      "SPANISH": "mandará",
+      "ENGLISH": "s/he will send, you (formal) will send"
+    },
+    "ELLOS": {
+      "SPANISH": "mandarán",
+      "ENGLISH": "they will send, you (plural formal) will send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mandaremos",
+      "ENGLISH": "we will send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mandaréis",
+      "ENGLISH": "you (plural) will send"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré mandado",
+      "ENGLISH": "I will have sent"
+    },
+    "TU": {
+      "SPANISH": "habrás mandado",
+      "ENGLISH": "you will have sent"
+    },
+    "EL": {
+      "SPANISH": "habrá mandado",
+      "ENGLISH": "s/he will have sent, you (formal) will have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán mandado",
+      "ENGLISH": "they will have sent, you (plural formal) will have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos mandado",
+      "ENGLISH": "we will have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis mandado",
+      "ENGLISH": "you (plural) will have sent"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mandaría",
+      "ENGLISH": "I would send"
+    },
+    "TU": {
+      "SPANISH": "mandarías",
+      "ENGLISH": "you would send"
+    },
+    "EL": {
+      "SPANISH": "mandaría",
+      "ENGLISH": "s/he would send, you (formal) would send"
+    },
+    "ELLOS": {
+      "SPANISH": "mandarían",
+      "ENGLISH": "they would send, you (plural formal) would send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mandaríamos",
+      "ENGLISH": "we would send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mandaríais",
+      "ENGLISH": "you (plural) would send"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría mandado",
+      "ENGLISH": "I would have sent"
+    },
+    "TU": {
+      "SPANISH": "habrías mandado",
+      "ENGLISH": "you would have sent"
+    },
+    "EL": {
+      "SPANISH": "habría mandado",
+      "ENGLISH": "s/he would have sent, you (formal) would have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían mandado",
+      "ENGLISH": "they would have sent, you (plural formal) would have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos mandado",
+      "ENGLISH": "we would have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais mandado",
+      "ENGLISH": "you (plural) would have sent"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "giro",
+      "ENGLISH": "I turn"
+    },
+    "TU": {
+      "SPANISH": "giras",
+      "ENGLISH": "you turn"
+    },
+    "EL": {
+      "SPANISH": "gira",
+      "ENGLISH": "s/he turns, you (formal) turns"
+    },
+    "ELLOS": {
+      "SPANISH": "giran",
+      "ENGLISH": "they turn, you (plural formal) turn"
+    },
+    "NOSOTROS": {
+      "SPANISH": "giramos",
+      "ENGLISH": "we turn"
+    },
+    "VOSOTROS": {
+      "SPANISH": "giráis",
+      "ENGLISH": "you (plural) turn"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he girado",
+      "ENGLISH": "I have turned"
+    },
+    "TU": {
+      "SPANISH": "has girado",
+      "ENGLISH": "you have turned"
+    },
+    "EL": {
+      "SPANISH": "ha girado",
+      "ENGLISH": "s/he has turned, you (formal) have turned"
+    },
+    "ELLOS": {
+      "SPANISH": "han girado",
+      "ENGLISH": "they have turned, you (plural formal) have turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos girado",
+      "ENGLISH": "we have turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis girado",
+      "ENGLISH": "you (plural) have turned"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "giré",
+      "ENGLISH": "I turned"
+    },
+    "TU": {
+      "SPANISH": "giraste",
+      "ENGLISH": "you turned"
+    },
+    "EL": {
+      "SPANISH": "giró",
+      "ENGLISH": "s/he turned, you (formal) turned"
+    },
+    "ELLOS": {
+      "SPANISH": "giraron",
+      "ENGLISH": "they turned, you (plural formal) turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "giramos",
+      "ENGLISH": "we turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "girasteis",
+      "ENGLISH": "you (plural) turned"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había girado",
+      "ENGLISH": "I had turned"
+    },
+    "TU": {
+      "SPANISH": "habías girado",
+      "ENGLISH": "you had turned"
+    },
+    "EL": {
+      "SPANISH": "había girado",
+      "ENGLISH": "s/he had turned, you (formal) had turned"
+    },
+    "ELLOS": {
+      "SPANISH": "habían girado",
+      "ENGLISH": "they had turned, you (plural formal) had turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos girado",
+      "ENGLISH": "we had turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais girado",
+      "ENGLISH": "you (plural) had turned"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "giré",
+      "ENGLISH": "I turned"
+    },
+    "TU": {
+      "SPANISH": "giraste",
+      "ENGLISH": "you turned"
+    },
+    "EL": {
+      "SPANISH": "giró",
+      "ENGLISH": "s/he turned, you (formal) turned"
+    },
+    "ELLOS": {
+      "SPANISH": "giraron",
+      "ENGLISH": "they turned, you (plural formal) turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "giramos",
+      "ENGLISH": "we turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "girasteis",
+      "ENGLISH": "you (plural) turned"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "giraré",
+      "ENGLISH": "I will turn"
+    },
+    "TU": {
+      "SPANISH": "girarás",
+      "ENGLISH": "you will turn"
+    },
+    "EL": {
+      "SPANISH": "girará",
+      "ENGLISH": "s/he will turn, you (formal) will turn"
+    },
+    "ELLOS": {
+      "SPANISH": "girarán",
+      "ENGLISH": "they will turn, you (plural formal) will turn"
+    },
+    "NOSOTROS": {
+      "SPANISH": "giraremos",
+      "ENGLISH": "we will turn"
+    },
+    "VOSOTROS": {
+      "SPANISH": "giraréis",
+      "ENGLISH": "you (plural) will turn"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré girado",
+      "ENGLISH": "I will have turned"
+    },
+    "TU": {
+      "SPANISH": "habrás girado",
+      "ENGLISH": "you will have turned"
+    },
+    "EL": {
+      "SPANISH": "habrá girado",
+      "ENGLISH": "s/he will have turned, you (formal) will have turned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán girado",
+      "ENGLISH": "they will have turned, you (plural formal) will have turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos girado",
+      "ENGLISH": "we will have turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis girado",
+      "ENGLISH": "you (plural) will have turned"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "giraría",
+      "ENGLISH": "I would turn"
+    },
+    "TU": {
+      "SPANISH": "girarías",
+      "ENGLISH": "you would turn"
+    },
+    "EL": {
+      "SPANISH": "giraría",
+      "ENGLISH": "s/he would turn, you (formal) would turn"
+    },
+    "ELLOS": {
+      "SPANISH": "girarían",
+      "ENGLISH": "they would turn, you (plural formal) would turn"
+    },
+    "NOSOTROS": {
+      "SPANISH": "giraríamos",
+      "ENGLISH": "we would turn"
+    },
+    "VOSOTROS": {
+      "SPANISH": "giraríais",
+      "ENGLISH": "you (plural) would turn"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría girado",
+      "ENGLISH": "I would have turned"
+    },
+    "TU": {
+      "SPANISH": "habrías girado",
+      "ENGLISH": "you would have turned"
+    },
+    "EL": {
+      "SPANISH": "habría girado",
+      "ENGLISH": "s/he would have turned, you (formal) would have turned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían girado",
+      "ENGLISH": "they would have turned, you (plural formal) would have turned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos girado",
+      "ENGLISH": "we would have turned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais girado",
+      "ENGLISH": "you (plural) would have turned"
+    }
+  }
+}

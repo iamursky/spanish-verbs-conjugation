@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "mato",
+      "ENGLISH": "I kill"
+    },
+    "TU": {
+      "SPANISH": "matas",
+      "ENGLISH": "you kill"
+    },
+    "EL": {
+      "SPANISH": "mata",
+      "ENGLISH": "s/he kills, you (formal) kills"
+    },
+    "ELLOS": {
+      "SPANISH": "matan",
+      "ENGLISH": "they kill, you (plural formal) kill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "matamos",
+      "ENGLISH": "we kill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "matáis",
+      "ENGLISH": "you (plural) kill"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he matado",
+      "ENGLISH": "I have killed"
+    },
+    "TU": {
+      "SPANISH": "has matado",
+      "ENGLISH": "you have killed"
+    },
+    "EL": {
+      "SPANISH": "ha matado",
+      "ENGLISH": "s/he has killed, you (formal) have killed"
+    },
+    "ELLOS": {
+      "SPANISH": "han matado",
+      "ENGLISH": "they have killed, you (plural formal) have killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos matado",
+      "ENGLISH": "we have killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis matado",
+      "ENGLISH": "you (plural) have killed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "maté",
+      "ENGLISH": "I killed"
+    },
+    "TU": {
+      "SPANISH": "mataste",
+      "ENGLISH": "you killed"
+    },
+    "EL": {
+      "SPANISH": "mató",
+      "ENGLISH": "s/he killed, you (formal) killed"
+    },
+    "ELLOS": {
+      "SPANISH": "mataron",
+      "ENGLISH": "they killed, you (plural formal) killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "matamos",
+      "ENGLISH": "we killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "matasteis",
+      "ENGLISH": "you (plural) killed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había matado",
+      "ENGLISH": "I had killed"
+    },
+    "TU": {
+      "SPANISH": "habías matado",
+      "ENGLISH": "you had killed"
+    },
+    "EL": {
+      "SPANISH": "había matado",
+      "ENGLISH": "s/he had killed, you (formal) had killed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían matado",
+      "ENGLISH": "they had killed, you (plural formal) had killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos matado",
+      "ENGLISH": "we had killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais matado",
+      "ENGLISH": "you (plural) had killed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "maté",
+      "ENGLISH": "I killed"
+    },
+    "TU": {
+      "SPANISH": "mataste",
+      "ENGLISH": "you killed"
+    },
+    "EL": {
+      "SPANISH": "mató",
+      "ENGLISH": "s/he killed, you (formal) killed"
+    },
+    "ELLOS": {
+      "SPANISH": "mataron",
+      "ENGLISH": "they killed, you (plural formal) killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "matamos",
+      "ENGLISH": "we killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "matasteis",
+      "ENGLISH": "you (plural) killed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mataré",
+      "ENGLISH": "I will kill"
+    },
+    "TU": {
+      "SPANISH": "matarás",
+      "ENGLISH": "you will kill"
+    },
+    "EL": {
+      "SPANISH": "matará",
+      "ENGLISH": "s/he will kill, you (formal) will kill"
+    },
+    "ELLOS": {
+      "SPANISH": "matarán",
+      "ENGLISH": "they will kill, you (plural formal) will kill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mataremos",
+      "ENGLISH": "we will kill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mataréis",
+      "ENGLISH": "you (plural) will kill"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré matado",
+      "ENGLISH": "I will have killed"
+    },
+    "TU": {
+      "SPANISH": "habrás matado",
+      "ENGLISH": "you will have killed"
+    },
+    "EL": {
+      "SPANISH": "habrá matado",
+      "ENGLISH": "s/he will have killed, you (formal) will have killed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán matado",
+      "ENGLISH": "they will have killed, you (plural formal) will have killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos matado",
+      "ENGLISH": "we will have killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis matado",
+      "ENGLISH": "you (plural) will have killed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mataría",
+      "ENGLISH": "I would kill"
+    },
+    "TU": {
+      "SPANISH": "matarías",
+      "ENGLISH": "you would kill"
+    },
+    "EL": {
+      "SPANISH": "mataría",
+      "ENGLISH": "s/he would kill, you (formal) would kill"
+    },
+    "ELLOS": {
+      "SPANISH": "matarían",
+      "ENGLISH": "they would kill, you (plural formal) would kill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mataríamos",
+      "ENGLISH": "we would kill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mataríais",
+      "ENGLISH": "you (plural) would kill"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría matado",
+      "ENGLISH": "I would have killed"
+    },
+    "TU": {
+      "SPANISH": "habrías matado",
+      "ENGLISH": "you would have killed"
+    },
+    "EL": {
+      "SPANISH": "habría matado",
+      "ENGLISH": "s/he would have killed, you (formal) would have killed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían matado",
+      "ENGLISH": "they would have killed, you (plural formal) would have killed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos matado",
+      "ENGLISH": "we would have killed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais matado",
+      "ENGLISH": "you (plural) would have killed"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "empeoro",
+      "ENGLISH": "I worsen"
+    },
+    "TU": {
+      "SPANISH": "empeoras",
+      "ENGLISH": "you worsen"
+    },
+    "EL": {
+      "SPANISH": "empeora",
+      "ENGLISH": "s/he worsens, you (formal) worsens"
+    },
+    "ELLOS": {
+      "SPANISH": "empeoran",
+      "ENGLISH": "they worsen, you (plural formal) worsen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empeoramos",
+      "ENGLISH": "we worsen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empeoráis",
+      "ENGLISH": "you (plural) worsen"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he empeorado",
+      "ENGLISH": "I have worsened"
+    },
+    "TU": {
+      "SPANISH": "has empeorado",
+      "ENGLISH": "you have worsened"
+    },
+    "EL": {
+      "SPANISH": "ha empeorado",
+      "ENGLISH": "s/he has worsened, you (formal) have worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "han empeorado",
+      "ENGLISH": "they have worsened, you (plural formal) have worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos empeorado",
+      "ENGLISH": "we have worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis empeorado",
+      "ENGLISH": "you (plural) have worsened"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "empeoré",
+      "ENGLISH": "I worsened"
+    },
+    "TU": {
+      "SPANISH": "empeoraste",
+      "ENGLISH": "you worsened"
+    },
+    "EL": {
+      "SPANISH": "empeoró",
+      "ENGLISH": "s/he worsened, you (formal) worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "empeoraron",
+      "ENGLISH": "they worsened, you (plural formal) worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empeoramos",
+      "ENGLISH": "we worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empeorasteis",
+      "ENGLISH": "you (plural) worsened"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había empeorado",
+      "ENGLISH": "I had worsened"
+    },
+    "TU": {
+      "SPANISH": "habías empeorado",
+      "ENGLISH": "you had worsened"
+    },
+    "EL": {
+      "SPANISH": "había empeorado",
+      "ENGLISH": "s/he had worsened, you (formal) had worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "habían empeorado",
+      "ENGLISH": "they had worsened, you (plural formal) had worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos empeorado",
+      "ENGLISH": "we had worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais empeorado",
+      "ENGLISH": "you (plural) had worsened"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "empeoré",
+      "ENGLISH": "I worsened"
+    },
+    "TU": {
+      "SPANISH": "empeoraste",
+      "ENGLISH": "you worsened"
+    },
+    "EL": {
+      "SPANISH": "empeoró",
+      "ENGLISH": "s/he worsened, you (formal) worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "empeoraron",
+      "ENGLISH": "they worsened, you (plural formal) worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empeoramos",
+      "ENGLISH": "we worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empeorasteis",
+      "ENGLISH": "you (plural) worsened"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "empeoraré",
+      "ENGLISH": "I will worsen"
+    },
+    "TU": {
+      "SPANISH": "empeorarás",
+      "ENGLISH": "you will worsen"
+    },
+    "EL": {
+      "SPANISH": "empeorará",
+      "ENGLISH": "s/he will worsen, you (formal) will worsen"
+    },
+    "ELLOS": {
+      "SPANISH": "empeorarán",
+      "ENGLISH": "they will worsen, you (plural formal) will worsen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empeoraremos",
+      "ENGLISH": "we will worsen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empeoraréis",
+      "ENGLISH": "you (plural) will worsen"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré empeorado",
+      "ENGLISH": "I will have worsened"
+    },
+    "TU": {
+      "SPANISH": "habrás empeorado",
+      "ENGLISH": "you will have worsened"
+    },
+    "EL": {
+      "SPANISH": "habrá empeorado",
+      "ENGLISH": "s/he will have worsened, you (formal) will have worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán empeorado",
+      "ENGLISH": "they will have worsened, you (plural formal) will have worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos empeorado",
+      "ENGLISH": "we will have worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis empeorado",
+      "ENGLISH": "you (plural) will have worsened"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "empeoraría",
+      "ENGLISH": "I would worsen"
+    },
+    "TU": {
+      "SPANISH": "empeorarías",
+      "ENGLISH": "you would worsen"
+    },
+    "EL": {
+      "SPANISH": "empeoraría",
+      "ENGLISH": "s/he would worsen, you (formal) would worsen"
+    },
+    "ELLOS": {
+      "SPANISH": "empeorarían",
+      "ENGLISH": "they would worsen, you (plural formal) would worsen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "empeoraríamos",
+      "ENGLISH": "we would worsen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "empeoraríais",
+      "ENGLISH": "you (plural) would worsen"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría empeorado",
+      "ENGLISH": "I would have worsened"
+    },
+    "TU": {
+      "SPANISH": "habrías empeorado",
+      "ENGLISH": "you would have worsened"
+    },
+    "EL": {
+      "SPANISH": "habría empeorado",
+      "ENGLISH": "s/he would have worsened, you (formal) would have worsened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían empeorado",
+      "ENGLISH": "they would have worsened, you (plural formal) would have worsened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos empeorado",
+      "ENGLISH": "we would have worsened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais empeorado",
+      "ENGLISH": "you (plural) would have worsened"
+    }
+  }
+}

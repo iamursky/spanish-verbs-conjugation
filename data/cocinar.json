@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cocino",
+      "ENGLISH": "I cook"
+    },
+    "TU": {
+      "SPANISH": "cocinas",
+      "ENGLISH": "you cook"
+    },
+    "EL": {
+      "SPANISH": "cocina",
+      "ENGLISH": "s/he cooks, you (formal) cooks"
+    },
+    "ELLOS": {
+      "SPANISH": "cocinan",
+      "ENGLISH": "they cook, you (plural formal) cook"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cocinamos",
+      "ENGLISH": "we cook"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cocináis",
+      "ENGLISH": "you (plural) cook"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cocinado",
+      "ENGLISH": "I have cooked"
+    },
+    "TU": {
+      "SPANISH": "has cocinado",
+      "ENGLISH": "you have cooked"
+    },
+    "EL": {
+      "SPANISH": "ha cocinado",
+      "ENGLISH": "s/he has cooked, you (formal) have cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "han cocinado",
+      "ENGLISH": "they have cooked, you (plural formal) have cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cocinado",
+      "ENGLISH": "we have cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cocinado",
+      "ENGLISH": "you (plural) have cooked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "cociné",
+      "ENGLISH": "I cooked"
+    },
+    "TU": {
+      "SPANISH": "cocinaste",
+      "ENGLISH": "you cooked"
+    },
+    "EL": {
+      "SPANISH": "cocinó",
+      "ENGLISH": "s/he cooked, you (formal) cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "cocinaron",
+      "ENGLISH": "they cooked, you (plural formal) cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cocinamos",
+      "ENGLISH": "we cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cocinasteis",
+      "ENGLISH": "you (plural) cooked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cocinado",
+      "ENGLISH": "I had cooked"
+    },
+    "TU": {
+      "SPANISH": "habías cocinado",
+      "ENGLISH": "you had cooked"
+    },
+    "EL": {
+      "SPANISH": "había cocinado",
+      "ENGLISH": "s/he had cooked, you (formal) had cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cocinado",
+      "ENGLISH": "they had cooked, you (plural formal) had cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cocinado",
+      "ENGLISH": "we had cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cocinado",
+      "ENGLISH": "you (plural) had cooked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "cociné",
+      "ENGLISH": "I cooked"
+    },
+    "TU": {
+      "SPANISH": "cocinaste",
+      "ENGLISH": "you cooked"
+    },
+    "EL": {
+      "SPANISH": "cocinó",
+      "ENGLISH": "s/he cooked, you (formal) cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "cocinaron",
+      "ENGLISH": "they cooked, you (plural formal) cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cocinamos",
+      "ENGLISH": "we cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cocinasteis",
+      "ENGLISH": "you (plural) cooked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cocinaré",
+      "ENGLISH": "I will cook"
+    },
+    "TU": {
+      "SPANISH": "cocinarás",
+      "ENGLISH": "you will cook"
+    },
+    "EL": {
+      "SPANISH": "cocinará",
+      "ENGLISH": "s/he will cook, you (formal) will cook"
+    },
+    "ELLOS": {
+      "SPANISH": "cocinarán",
+      "ENGLISH": "they will cook, you (plural formal) will cook"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cocinaremos",
+      "ENGLISH": "we will cook"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cocinaréis",
+      "ENGLISH": "you (plural) will cook"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cocinado",
+      "ENGLISH": "I will have cooked"
+    },
+    "TU": {
+      "SPANISH": "habrás cocinado",
+      "ENGLISH": "you will have cooked"
+    },
+    "EL": {
+      "SPANISH": "habrá cocinado",
+      "ENGLISH": "s/he will have cooked, you (formal) will have cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cocinado",
+      "ENGLISH": "they will have cooked, you (plural formal) will have cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cocinado",
+      "ENGLISH": "we will have cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cocinado",
+      "ENGLISH": "you (plural) will have cooked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cocinaría",
+      "ENGLISH": "I would cook"
+    },
+    "TU": {
+      "SPANISH": "cocinarías",
+      "ENGLISH": "you would cook"
+    },
+    "EL": {
+      "SPANISH": "cocinaría",
+      "ENGLISH": "s/he would cook, you (formal) would cook"
+    },
+    "ELLOS": {
+      "SPANISH": "cocinarían",
+      "ENGLISH": "they would cook, you (plural formal) would cook"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cocinaríamos",
+      "ENGLISH": "we would cook"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cocinaríais",
+      "ENGLISH": "you (plural) would cook"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cocinado",
+      "ENGLISH": "I would have cooked"
+    },
+    "TU": {
+      "SPANISH": "habrías cocinado",
+      "ENGLISH": "you would have cooked"
+    },
+    "EL": {
+      "SPANISH": "habría cocinado",
+      "ENGLISH": "s/he would have cooked, you (formal) would have cooked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cocinado",
+      "ENGLISH": "they would have cooked, you (plural formal) would have cooked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cocinado",
+      "ENGLISH": "we would have cooked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cocinado",
+      "ENGLISH": "you (plural) would have cooked"
+    }
+  }
+}

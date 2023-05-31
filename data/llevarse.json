@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me llevo",
+      "ENGLISH": "I take"
+    },
+    "TU": {
+      "SPANISH": "te llevas",
+      "ENGLISH": "you take"
+    },
+    "EL": {
+      "SPANISH": "se lleva",
+      "ENGLISH": "s/he takes, you (formal) takes"
+    },
+    "ELLOS": {
+      "SPANISH": "se llevan",
+      "ENGLISH": "they take, you (plural formal) take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llevamos",
+      "ENGLISH": "we take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os lleváis",
+      "ENGLISH": "you (plural) take"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he llevado",
+      "ENGLISH": "I have taken"
+    },
+    "TU": {
+      "SPANISH": "te has llevado",
+      "ENGLISH": "you have taken"
+    },
+    "EL": {
+      "SPANISH": "se ha llevado",
+      "ENGLISH": "s/he has taken, you (formal) have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "se han llevado",
+      "ENGLISH": "they have taken, you (plural formal) have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos llevado",
+      "ENGLISH": "we have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis llevado",
+      "ENGLISH": "you (plural) have taken"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me llevé",
+      "ENGLISH": "I took"
+    },
+    "TU": {
+      "SPANISH": "te llevaste",
+      "ENGLISH": "you took"
+    },
+    "EL": {
+      "SPANISH": "se llevó",
+      "ENGLISH": "s/he took, you (formal) took"
+    },
+    "ELLOS": {
+      "SPANISH": "se llevaron",
+      "ENGLISH": "they took, you (plural formal) took"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llevamos",
+      "ENGLISH": "we took"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llevasteis",
+      "ENGLISH": "you (plural) took"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había llevado",
+      "ENGLISH": "I had taken"
+    },
+    "TU": {
+      "SPANISH": "te habías llevado",
+      "ENGLISH": "you had taken"
+    },
+    "EL": {
+      "SPANISH": "se había llevado",
+      "ENGLISH": "s/he had taken, you (formal) had taken"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían llevado",
+      "ENGLISH": "they had taken, you (plural formal) had taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos llevado",
+      "ENGLISH": "we had taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais llevado",
+      "ENGLISH": "you (plural) had taken"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me llevé",
+      "ENGLISH": "I took"
+    },
+    "TU": {
+      "SPANISH": "te llevaste",
+      "ENGLISH": "you took"
+    },
+    "EL": {
+      "SPANISH": "se llevó",
+      "ENGLISH": "s/he took, you (formal) took"
+    },
+    "ELLOS": {
+      "SPANISH": "se llevaron",
+      "ENGLISH": "they took, you (plural formal) took"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llevamos",
+      "ENGLISH": "we took"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llevasteis",
+      "ENGLISH": "you (plural) took"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llevaré",
+      "ENGLISH": "I will take"
+    },
+    "TU": {
+      "SPANISH": "te llevarás",
+      "ENGLISH": "you will take"
+    },
+    "EL": {
+      "SPANISH": "se llevará",
+      "ENGLISH": "s/he will take, you (formal) will take"
+    },
+    "ELLOS": {
+      "SPANISH": "se llevarán",
+      "ENGLISH": "they will take, you (plural formal) will take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llevaremos",
+      "ENGLISH": "we will take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llevaréis",
+      "ENGLISH": "you (plural) will take"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré llevado",
+      "ENGLISH": "I will have taken"
+    },
+    "TU": {
+      "SPANISH": "te habrás llevado",
+      "ENGLISH": "you will have taken"
+    },
+    "EL": {
+      "SPANISH": "se habrá llevado",
+      "ENGLISH": "s/he will have taken, you (formal) will have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán llevado",
+      "ENGLISH": "they will have taken, you (plural formal) will have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos llevado",
+      "ENGLISH": "we will have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis llevado",
+      "ENGLISH": "you (plural) will have taken"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llevaría",
+      "ENGLISH": "I would take"
+    },
+    "TU": {
+      "SPANISH": "te llevarías",
+      "ENGLISH": "you would take"
+    },
+    "EL": {
+      "SPANISH": "se llevaría",
+      "ENGLISH": "s/he would take, you (formal) would take"
+    },
+    "ELLOS": {
+      "SPANISH": "se llevarían",
+      "ENGLISH": "they would take, you (plural formal) would take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llevaríamos",
+      "ENGLISH": "we would take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llevaríais",
+      "ENGLISH": "you (plural) would take"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría llevado",
+      "ENGLISH": "I would have taken"
+    },
+    "TU": {
+      "SPANISH": "te habrías llevado",
+      "ENGLISH": "you would have taken"
+    },
+    "EL": {
+      "SPANISH": "se habría llevado",
+      "ENGLISH": "s/he would have taken, you (formal) would have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían llevado",
+      "ENGLISH": "they would have taken, you (plural formal) would have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos llevado",
+      "ENGLISH": "we would have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais llevado",
+      "ENGLISH": "you (plural) would have taken"
+    }
+  }
+}

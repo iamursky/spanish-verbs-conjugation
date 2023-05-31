@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "lidero",
+      "ENGLISH": "I lead"
+    },
+    "TU": {
+      "SPANISH": "lideras",
+      "ENGLISH": "you lead"
+    },
+    "EL": {
+      "SPANISH": "lidera",
+      "ENGLISH": "s/he leads, you (formal) leads"
+    },
+    "ELLOS": {
+      "SPANISH": "lideran",
+      "ENGLISH": "they lead, you (plural formal) lead"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lideramos",
+      "ENGLISH": "we lead"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lideráis",
+      "ENGLISH": "you (plural) lead"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he liderado",
+      "ENGLISH": "I have led"
+    },
+    "TU": {
+      "SPANISH": "has liderado",
+      "ENGLISH": "you have led"
+    },
+    "EL": {
+      "SPANISH": "ha liderado",
+      "ENGLISH": "s/he has led, you (formal) have led"
+    },
+    "ELLOS": {
+      "SPANISH": "han liderado",
+      "ENGLISH": "they have led, you (plural formal) have led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos liderado",
+      "ENGLISH": "we have led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis liderado",
+      "ENGLISH": "you (plural) have led"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "lideré",
+      "ENGLISH": "I led"
+    },
+    "TU": {
+      "SPANISH": "lideraste",
+      "ENGLISH": "you led"
+    },
+    "EL": {
+      "SPANISH": "lideró",
+      "ENGLISH": "s/he led, you (formal) led"
+    },
+    "ELLOS": {
+      "SPANISH": "lideraron",
+      "ENGLISH": "they led, you (plural formal) led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lideramos",
+      "ENGLISH": "we led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "liderasteis",
+      "ENGLISH": "you (plural) led"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había liderado",
+      "ENGLISH": "I had led"
+    },
+    "TU": {
+      "SPANISH": "habías liderado",
+      "ENGLISH": "you had led"
+    },
+    "EL": {
+      "SPANISH": "había liderado",
+      "ENGLISH": "s/he had led, you (formal) had led"
+    },
+    "ELLOS": {
+      "SPANISH": "habían liderado",
+      "ENGLISH": "they had led, you (plural formal) had led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos liderado",
+      "ENGLISH": "we had led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais liderado",
+      "ENGLISH": "you (plural) had led"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "lideré",
+      "ENGLISH": "I led"
+    },
+    "TU": {
+      "SPANISH": "lideraste",
+      "ENGLISH": "you led"
+    },
+    "EL": {
+      "SPANISH": "lideró",
+      "ENGLISH": "s/he led, you (formal) led"
+    },
+    "ELLOS": {
+      "SPANISH": "lideraron",
+      "ENGLISH": "they led, you (plural formal) led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lideramos",
+      "ENGLISH": "we led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "liderasteis",
+      "ENGLISH": "you (plural) led"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "lideraré",
+      "ENGLISH": "I will lead"
+    },
+    "TU": {
+      "SPANISH": "liderarás",
+      "ENGLISH": "you will lead"
+    },
+    "EL": {
+      "SPANISH": "liderará",
+      "ENGLISH": "s/he will lead, you (formal) will lead"
+    },
+    "ELLOS": {
+      "SPANISH": "liderarán",
+      "ENGLISH": "they will lead, you (plural formal) will lead"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lideraremos",
+      "ENGLISH": "we will lead"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lideraréis",
+      "ENGLISH": "you (plural) will lead"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré liderado",
+      "ENGLISH": "I will have led"
+    },
+    "TU": {
+      "SPANISH": "habrás liderado",
+      "ENGLISH": "you will have led"
+    },
+    "EL": {
+      "SPANISH": "habrá liderado",
+      "ENGLISH": "s/he will have led, you (formal) will have led"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán liderado",
+      "ENGLISH": "they will have led, you (plural formal) will have led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos liderado",
+      "ENGLISH": "we will have led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis liderado",
+      "ENGLISH": "you (plural) will have led"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "lideraría",
+      "ENGLISH": "I would lead"
+    },
+    "TU": {
+      "SPANISH": "liderarías",
+      "ENGLISH": "you would lead"
+    },
+    "EL": {
+      "SPANISH": "lideraría",
+      "ENGLISH": "s/he would lead, you (formal) would lead"
+    },
+    "ELLOS": {
+      "SPANISH": "liderarían",
+      "ENGLISH": "they would lead, you (plural formal) would lead"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lideraríamos",
+      "ENGLISH": "we would lead"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lideraríais",
+      "ENGLISH": "you (plural) would lead"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría liderado",
+      "ENGLISH": "I would have led"
+    },
+    "TU": {
+      "SPANISH": "habrías liderado",
+      "ENGLISH": "you would have led"
+    },
+    "EL": {
+      "SPANISH": "habría liderado",
+      "ENGLISH": "s/he would have led, you (formal) would have led"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían liderado",
+      "ENGLISH": "they would have led, you (plural formal) would have led"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos liderado",
+      "ENGLISH": "we would have led"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais liderado",
+      "ENGLISH": "you (plural) would have led"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cuento ",
+      "ENGLISH": "I count"
+    },
+    "TU": {
+      "SPANISH": "cuentas ",
+      "ENGLISH": "you count"
+    },
+    "EL": {
+      "SPANISH": "cuenta ",
+      "ENGLISH": "s/he counts, you (formal) counts"
+    },
+    "ELLOS": {
+      "SPANISH": "cuentan ",
+      "ENGLISH": "they count, you (plural formal) count"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contamos",
+      "ENGLISH": "we count"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contáis",
+      "ENGLISH": "you (plural) count"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he contado",
+      "ENGLISH": "I have counted"
+    },
+    "TU": {
+      "SPANISH": "has contado",
+      "ENGLISH": "you have counted"
+    },
+    "EL": {
+      "SPANISH": "ha contado",
+      "ENGLISH": "s/he has counted, you (formal) have counted"
+    },
+    "ELLOS": {
+      "SPANISH": "han contado",
+      "ENGLISH": "they have counted, you (plural formal) have counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos contado",
+      "ENGLISH": "we have counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis contado",
+      "ENGLISH": "you (plural) have counted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "conté",
+      "ENGLISH": "I counted"
+    },
+    "TU": {
+      "SPANISH": "contaste",
+      "ENGLISH": "you counted"
+    },
+    "EL": {
+      "SPANISH": "contó",
+      "ENGLISH": "s/he counted, you (formal) counted"
+    },
+    "ELLOS": {
+      "SPANISH": "contaron",
+      "ENGLISH": "they counted, you (plural formal) counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contamos",
+      "ENGLISH": "we counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contasteis",
+      "ENGLISH": "you (plural) counted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había contado",
+      "ENGLISH": "I had counted"
+    },
+    "TU": {
+      "SPANISH": "habías contado",
+      "ENGLISH": "you had counted"
+    },
+    "EL": {
+      "SPANISH": "había contado",
+      "ENGLISH": "s/he had counted, you (formal) had counted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían contado",
+      "ENGLISH": "they had counted, you (plural formal) had counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos contado",
+      "ENGLISH": "we had counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais contado",
+      "ENGLISH": "you (plural) had counted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "conté",
+      "ENGLISH": "I counted"
+    },
+    "TU": {
+      "SPANISH": "contaste",
+      "ENGLISH": "you counted"
+    },
+    "EL": {
+      "SPANISH": "contó",
+      "ENGLISH": "s/he counted, you (formal) counted"
+    },
+    "ELLOS": {
+      "SPANISH": "contaron",
+      "ENGLISH": "they counted, you (plural formal) counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contamos",
+      "ENGLISH": "we counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contasteis",
+      "ENGLISH": "you (plural) counted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "contaré",
+      "ENGLISH": "I will count"
+    },
+    "TU": {
+      "SPANISH": "contarás",
+      "ENGLISH": "you will count"
+    },
+    "EL": {
+      "SPANISH": "contará",
+      "ENGLISH": "s/he will count, you (formal) will count"
+    },
+    "ELLOS": {
+      "SPANISH": "contarán",
+      "ENGLISH": "they will count, you (plural formal) will count"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contaremos",
+      "ENGLISH": "we will count"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contaréis",
+      "ENGLISH": "you (plural) will count"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré contado",
+      "ENGLISH": "I will have counted"
+    },
+    "TU": {
+      "SPANISH": "habrás contado",
+      "ENGLISH": "you will have counted"
+    },
+    "EL": {
+      "SPANISH": "habrá contado",
+      "ENGLISH": "s/he will have counted, you (formal) will have counted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán contado",
+      "ENGLISH": "they will have counted, you (plural formal) will have counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos contado",
+      "ENGLISH": "we will have counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis contado",
+      "ENGLISH": "you (plural) will have counted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "contaría",
+      "ENGLISH": "I would count"
+    },
+    "TU": {
+      "SPANISH": "contarías",
+      "ENGLISH": "you would count"
+    },
+    "EL": {
+      "SPANISH": "contaría",
+      "ENGLISH": "s/he would count, you (formal) would count"
+    },
+    "ELLOS": {
+      "SPANISH": "contarían",
+      "ENGLISH": "they would count, you (plural formal) would count"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contaríamos",
+      "ENGLISH": "we would count"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contaríais",
+      "ENGLISH": "you (plural) would count"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría contado",
+      "ENGLISH": "I would have counted"
+    },
+    "TU": {
+      "SPANISH": "habrías contado",
+      "ENGLISH": "you would have counted"
+    },
+    "EL": {
+      "SPANISH": "habría contado",
+      "ENGLISH": "s/he would have counted, you (formal) would have counted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían contado",
+      "ENGLISH": "they would have counted, you (plural formal) would have counted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos contado",
+      "ENGLISH": "we would have counted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais contado",
+      "ENGLISH": "you (plural) would have counted"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "ayudo",
+      "ENGLISH": "I help"
+    },
+    "TU": {
+      "SPANISH": "ayudas",
+      "ENGLISH": "you help"
+    },
+    "EL": {
+      "SPANISH": "ayuda",
+      "ENGLISH": "s/he helps, you (formal) helps"
+    },
+    "ELLOS": {
+      "SPANISH": "ayudan",
+      "ENGLISH": "they help, you (plural formal) help"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ayudamos",
+      "ENGLISH": "we help"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ayudáis",
+      "ENGLISH": "you (plural) help"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he ayudado",
+      "ENGLISH": "I have helped"
+    },
+    "TU": {
+      "SPANISH": "has ayudado",
+      "ENGLISH": "you have helped"
+    },
+    "EL": {
+      "SPANISH": "ha ayudado",
+      "ENGLISH": "s/he has helped, you (formal) have helped"
+    },
+    "ELLOS": {
+      "SPANISH": "han ayudado",
+      "ENGLISH": "they have helped, you (plural formal) have helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos ayudado",
+      "ENGLISH": "we have helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis ayudado",
+      "ENGLISH": "you (plural) have helped"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "ayudé",
+      "ENGLISH": "I helped"
+    },
+    "TU": {
+      "SPANISH": "ayudaste",
+      "ENGLISH": "you helped"
+    },
+    "EL": {
+      "SPANISH": "ayudó",
+      "ENGLISH": "s/he helped, you (formal) helped"
+    },
+    "ELLOS": {
+      "SPANISH": "ayudaron",
+      "ENGLISH": "they helped, you (plural formal) helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ayudamos",
+      "ENGLISH": "we helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ayudasteis",
+      "ENGLISH": "you (plural) helped"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había ayudado",
+      "ENGLISH": "I had helped"
+    },
+    "TU": {
+      "SPANISH": "habías ayudado",
+      "ENGLISH": "you had helped"
+    },
+    "EL": {
+      "SPANISH": "había ayudado",
+      "ENGLISH": "s/he had helped, you (formal) had helped"
+    },
+    "ELLOS": {
+      "SPANISH": "habían ayudado",
+      "ENGLISH": "they had helped, you (plural formal) had helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos ayudado",
+      "ENGLISH": "we had helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais ayudado",
+      "ENGLISH": "you (plural) had helped"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "ayudé",
+      "ENGLISH": "I helped"
+    },
+    "TU": {
+      "SPANISH": "ayudaste",
+      "ENGLISH": "you helped"
+    },
+    "EL": {
+      "SPANISH": "ayudó",
+      "ENGLISH": "s/he helped, you (formal) helped"
+    },
+    "ELLOS": {
+      "SPANISH": "ayudaron",
+      "ENGLISH": "they helped, you (plural formal) helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ayudamos",
+      "ENGLISH": "we helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ayudasteis",
+      "ENGLISH": "you (plural) helped"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "ayudaré",
+      "ENGLISH": "I will help"
+    },
+    "TU": {
+      "SPANISH": "ayudarás",
+      "ENGLISH": "you will help"
+    },
+    "EL": {
+      "SPANISH": "ayudará",
+      "ENGLISH": "s/he will help, you (formal) will help"
+    },
+    "ELLOS": {
+      "SPANISH": "ayudarán",
+      "ENGLISH": "they will help, you (plural formal) will help"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ayudaremos",
+      "ENGLISH": "we will help"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ayudaréis",
+      "ENGLISH": "you (plural) will help"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré ayudado",
+      "ENGLISH": "I will have helped"
+    },
+    "TU": {
+      "SPANISH": "habrás ayudado",
+      "ENGLISH": "you will have helped"
+    },
+    "EL": {
+      "SPANISH": "habrá ayudado",
+      "ENGLISH": "s/he will have helped, you (formal) will have helped"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán ayudado",
+      "ENGLISH": "they will have helped, you (plural formal) will have helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos ayudado",
+      "ENGLISH": "we will have helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis ayudado",
+      "ENGLISH": "you (plural) will have helped"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "ayudaría",
+      "ENGLISH": "I would help"
+    },
+    "TU": {
+      "SPANISH": "ayudarías",
+      "ENGLISH": "you would help"
+    },
+    "EL": {
+      "SPANISH": "ayudaría",
+      "ENGLISH": "s/he would help, you (formal) would help"
+    },
+    "ELLOS": {
+      "SPANISH": "ayudarían",
+      "ENGLISH": "they would help, you (plural formal) would help"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ayudaríamos",
+      "ENGLISH": "we would help"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ayudaríais",
+      "ENGLISH": "you (plural) would help"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría ayudado",
+      "ENGLISH": "I would have helped"
+    },
+    "TU": {
+      "SPANISH": "habrías ayudado",
+      "ENGLISH": "you would have helped"
+    },
+    "EL": {
+      "SPANISH": "habría ayudado",
+      "ENGLISH": "s/he would have helped, you (formal) would have helped"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían ayudado",
+      "ENGLISH": "they would have helped, you (plural formal) would have helped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos ayudado",
+      "ENGLISH": "we would have helped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais ayudado",
+      "ENGLISH": "you (plural) would have helped"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "contacto",
+      "ENGLISH": "I contact"
+    },
+    "TU": {
+      "SPANISH": "contactas",
+      "ENGLISH": "you contact"
+    },
+    "EL": {
+      "SPANISH": "contacta",
+      "ENGLISH": "s/he contacts, you (formal) contacts"
+    },
+    "ELLOS": {
+      "SPANISH": "contactan",
+      "ENGLISH": "they contact, you (plural formal) contact"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contactamos",
+      "ENGLISH": "we contact"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contactáis",
+      "ENGLISH": "you (plural) contact"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he contactado",
+      "ENGLISH": "I have contacted"
+    },
+    "TU": {
+      "SPANISH": "has contactado",
+      "ENGLISH": "you have contacted"
+    },
+    "EL": {
+      "SPANISH": "ha contactado",
+      "ENGLISH": "s/he has contacted, you (formal) have contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "han contactado",
+      "ENGLISH": "they have contacted, you (plural formal) have contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos contactado",
+      "ENGLISH": "we have contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis contactado",
+      "ENGLISH": "you (plural) have contacted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "contacté",
+      "ENGLISH": "I contacted"
+    },
+    "TU": {
+      "SPANISH": "contactaste",
+      "ENGLISH": "you contacted"
+    },
+    "EL": {
+      "SPANISH": "contactó",
+      "ENGLISH": "s/he contacted, you (formal) contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "contactaron",
+      "ENGLISH": "they contacted, you (plural formal) contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contactamos",
+      "ENGLISH": "we contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contactasteis",
+      "ENGLISH": "you (plural) contacted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había contactado",
+      "ENGLISH": "I had contacted"
+    },
+    "TU": {
+      "SPANISH": "habías contactado",
+      "ENGLISH": "you had contacted"
+    },
+    "EL": {
+      "SPANISH": "había contactado",
+      "ENGLISH": "s/he had contacted, you (formal) had contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían contactado",
+      "ENGLISH": "they had contacted, you (plural formal) had contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos contactado",
+      "ENGLISH": "we had contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais contactado",
+      "ENGLISH": "you (plural) had contacted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "contacté",
+      "ENGLISH": "I contacted"
+    },
+    "TU": {
+      "SPANISH": "contactaste",
+      "ENGLISH": "you contacted"
+    },
+    "EL": {
+      "SPANISH": "contactó",
+      "ENGLISH": "s/he contacted, you (formal) contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "contactaron",
+      "ENGLISH": "they contacted, you (plural formal) contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contactamos",
+      "ENGLISH": "we contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contactasteis",
+      "ENGLISH": "you (plural) contacted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "contactaré",
+      "ENGLISH": "I will contact"
+    },
+    "TU": {
+      "SPANISH": "contactarás",
+      "ENGLISH": "you will contact"
+    },
+    "EL": {
+      "SPANISH": "contactará",
+      "ENGLISH": "s/he will contact, you (formal) will contact"
+    },
+    "ELLOS": {
+      "SPANISH": "contactarán",
+      "ENGLISH": "they will contact, you (plural formal) will contact"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contactaremos",
+      "ENGLISH": "we will contact"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contactaréis",
+      "ENGLISH": "you (plural) will contact"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré contactado",
+      "ENGLISH": "I will have contacted"
+    },
+    "TU": {
+      "SPANISH": "habrás contactado",
+      "ENGLISH": "you will have contacted"
+    },
+    "EL": {
+      "SPANISH": "habrá contactado",
+      "ENGLISH": "s/he will have contacted, you (formal) will have contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán contactado",
+      "ENGLISH": "they will have contacted, you (plural formal) will have contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos contactado",
+      "ENGLISH": "we will have contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis contactado",
+      "ENGLISH": "you (plural) will have contacted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "contactaría",
+      "ENGLISH": "I would contact"
+    },
+    "TU": {
+      "SPANISH": "contactarías",
+      "ENGLISH": "you would contact"
+    },
+    "EL": {
+      "SPANISH": "contactaría",
+      "ENGLISH": "s/he would contact, you (formal) would contact"
+    },
+    "ELLOS": {
+      "SPANISH": "contactarían",
+      "ENGLISH": "they would contact, you (plural formal) would contact"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contactaríamos",
+      "ENGLISH": "we would contact"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contactaríais",
+      "ENGLISH": "you (plural) would contact"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría contactado",
+      "ENGLISH": "I would have contacted"
+    },
+    "TU": {
+      "SPANISH": "habrías contactado",
+      "ENGLISH": "you would have contacted"
+    },
+    "EL": {
+      "SPANISH": "habría contactado",
+      "ENGLISH": "s/he would have contacted, you (formal) would have contacted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían contactado",
+      "ENGLISH": "they would have contacted, you (plural formal) would have contacted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos contactado",
+      "ENGLISH": "we would have contacted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais contactado",
+      "ENGLISH": "you (plural) would have contacted"
+    }
+  }
+}

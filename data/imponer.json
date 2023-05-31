@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "impongo ",
+      "ENGLISH": "I impose"
+    },
+    "TU": {
+      "SPANISH": "impones",
+      "ENGLISH": "you impose"
+    },
+    "EL": {
+      "SPANISH": "impone",
+      "ENGLISH": "s/he imposes, you (formal) imposes"
+    },
+    "ELLOS": {
+      "SPANISH": "imponen",
+      "ENGLISH": "they impose, you (plural formal) impose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "imponemos",
+      "ENGLISH": "we impose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "imponéis",
+      "ENGLISH": "you (plural) impose"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he impuesto ",
+      "ENGLISH": "I have imposed"
+    },
+    "TU": {
+      "SPANISH": "has impuesto ",
+      "ENGLISH": "you have imposed"
+    },
+    "EL": {
+      "SPANISH": "ha impuesto ",
+      "ENGLISH": "s/he has imposed, you (formal) have imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "han impuesto ",
+      "ENGLISH": "they have imposed, you (plural formal) have imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos impuesto ",
+      "ENGLISH": "we have imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis impuesto ",
+      "ENGLISH": "you (plural) have imposed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "impuse ",
+      "ENGLISH": "I imposed"
+    },
+    "TU": {
+      "SPANISH": "impusiste ",
+      "ENGLISH": "you imposed"
+    },
+    "EL": {
+      "SPANISH": "impuso ",
+      "ENGLISH": "s/he imposed, you (formal) imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "impusieron ",
+      "ENGLISH": "they imposed, you (plural formal) imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "impusimos ",
+      "ENGLISH": "we imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "impusisteis ",
+      "ENGLISH": "you (plural) imposed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había impuesto ",
+      "ENGLISH": "I had imposed"
+    },
+    "TU": {
+      "SPANISH": "habías impuesto ",
+      "ENGLISH": "you had imposed"
+    },
+    "EL": {
+      "SPANISH": "había impuesto ",
+      "ENGLISH": "s/he had imposed, you (formal) had imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían impuesto ",
+      "ENGLISH": "they had imposed, you (plural formal) had imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos impuesto ",
+      "ENGLISH": "we had imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais impuesto ",
+      "ENGLISH": "you (plural) had imposed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "impuse ",
+      "ENGLISH": "I imposed"
+    },
+    "TU": {
+      "SPANISH": "impusiste ",
+      "ENGLISH": "you imposed"
+    },
+    "EL": {
+      "SPANISH": "impuso ",
+      "ENGLISH": "s/he imposed, you (formal) imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "impusieron ",
+      "ENGLISH": "they imposed, you (plural formal) imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "impusimos ",
+      "ENGLISH": "we imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "impusisteis ",
+      "ENGLISH": "you (plural) imposed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "impondré ",
+      "ENGLISH": "I will impose"
+    },
+    "TU": {
+      "SPANISH": "impondrás ",
+      "ENGLISH": "you will impose"
+    },
+    "EL": {
+      "SPANISH": "impondrá ",
+      "ENGLISH": "s/he will impose, you (formal) will impose"
+    },
+    "ELLOS": {
+      "SPANISH": "impondrán ",
+      "ENGLISH": "they will impose, you (plural formal) will impose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "impondremos ",
+      "ENGLISH": "we will impose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "impondréis ",
+      "ENGLISH": "you (plural) will impose"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré impuesto ",
+      "ENGLISH": "I will have imposed"
+    },
+    "TU": {
+      "SPANISH": "habrás impuesto ",
+      "ENGLISH": "you will have imposed"
+    },
+    "EL": {
+      "SPANISH": "habrá impuesto ",
+      "ENGLISH": "s/he will have imposed, you (formal) will have imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán impuesto ",
+      "ENGLISH": "they will have imposed, you (plural formal) will have imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos impuesto ",
+      "ENGLISH": "we will have imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis impuesto ",
+      "ENGLISH": "you (plural) will have imposed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "impondría ",
+      "ENGLISH": "I would impose"
+    },
+    "TU": {
+      "SPANISH": "impondrías ",
+      "ENGLISH": "you would impose"
+    },
+    "EL": {
+      "SPANISH": "impondría ",
+      "ENGLISH": "s/he would impose, you (formal) would impose"
+    },
+    "ELLOS": {
+      "SPANISH": "impondrían ",
+      "ENGLISH": "they would impose, you (plural formal) would impose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "impondríamos ",
+      "ENGLISH": "we would impose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "impondríais ",
+      "ENGLISH": "you (plural) would impose"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría impuesto ",
+      "ENGLISH": "I would have imposed"
+    },
+    "TU": {
+      "SPANISH": "habrías impuesto ",
+      "ENGLISH": "you would have imposed"
+    },
+    "EL": {
+      "SPANISH": "habría impuesto ",
+      "ENGLISH": "s/he would have imposed, you (formal) would have imposed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían impuesto ",
+      "ENGLISH": "they would have imposed, you (plural formal) would have imposed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos impuesto ",
+      "ENGLISH": "we would have imposed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais impuesto ",
+      "ENGLISH": "you (plural) would have imposed"
+    }
+  }
+}

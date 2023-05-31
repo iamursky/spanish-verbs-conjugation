@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "mantengo ",
+      "ENGLISH": "I maintain"
+    },
+    "TU": {
+      "SPANISH": "mantienes ",
+      "ENGLISH": "you maintain"
+    },
+    "EL": {
+      "SPANISH": "mantiene ",
+      "ENGLISH": "s/he maintains, you (formal) maintains"
+    },
+    "ELLOS": {
+      "SPANISH": "mantienen ",
+      "ENGLISH": "they maintain, you (plural formal) maintain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mantenemos",
+      "ENGLISH": "we maintain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mantenéis",
+      "ENGLISH": "you (plural) maintain"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he mantenido",
+      "ENGLISH": "I have maintained"
+    },
+    "TU": {
+      "SPANISH": "has mantenido",
+      "ENGLISH": "you have maintained"
+    },
+    "EL": {
+      "SPANISH": "ha mantenido",
+      "ENGLISH": "s/he has maintained, you (formal) have maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "han mantenido",
+      "ENGLISH": "they have maintained, you (plural formal) have maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos mantenido",
+      "ENGLISH": "we have maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis mantenido",
+      "ENGLISH": "you (plural) have maintained"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "mantuve ",
+      "ENGLISH": "I maintained"
+    },
+    "TU": {
+      "SPANISH": "mantuviste ",
+      "ENGLISH": "you maintained"
+    },
+    "EL": {
+      "SPANISH": "mantuvo ",
+      "ENGLISH": "s/he maintained, you (formal) maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "mantuvieron ",
+      "ENGLISH": "they maintained, you (plural formal) maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mantuvimos ",
+      "ENGLISH": "we maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mantuvisteis ",
+      "ENGLISH": "you (plural) maintained"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había mantenido",
+      "ENGLISH": "I had maintained"
+    },
+    "TU": {
+      "SPANISH": "habías mantenido",
+      "ENGLISH": "you had maintained"
+    },
+    "EL": {
+      "SPANISH": "había mantenido",
+      "ENGLISH": "s/he had maintained, you (formal) had maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "habían mantenido",
+      "ENGLISH": "they had maintained, you (plural formal) had maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos mantenido",
+      "ENGLISH": "we had maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais mantenido",
+      "ENGLISH": "you (plural) had maintained"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "mantuve ",
+      "ENGLISH": "I maintained"
+    },
+    "TU": {
+      "SPANISH": "mantuviste ",
+      "ENGLISH": "you maintained"
+    },
+    "EL": {
+      "SPANISH": "mantuvo ",
+      "ENGLISH": "s/he maintained, you (formal) maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "mantuvieron ",
+      "ENGLISH": "they maintained, you (plural formal) maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mantuvimos ",
+      "ENGLISH": "we maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mantuvisteis ",
+      "ENGLISH": "you (plural) maintained"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mantendré ",
+      "ENGLISH": "I will maintain"
+    },
+    "TU": {
+      "SPANISH": "mantendrás ",
+      "ENGLISH": "you will maintain"
+    },
+    "EL": {
+      "SPANISH": "mantendrá ",
+      "ENGLISH": "s/he will maintain, you (formal) will maintain"
+    },
+    "ELLOS": {
+      "SPANISH": "mantendrán ",
+      "ENGLISH": "they will maintain, you (plural formal) will maintain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mantendremos ",
+      "ENGLISH": "we will maintain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mantendréis ",
+      "ENGLISH": "you (plural) will maintain"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré mantenido",
+      "ENGLISH": "I will have maintained"
+    },
+    "TU": {
+      "SPANISH": "habrás mantenido",
+      "ENGLISH": "you will have maintained"
+    },
+    "EL": {
+      "SPANISH": "habrá mantenido",
+      "ENGLISH": "s/he will have maintained, you (formal) will have maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán mantenido",
+      "ENGLISH": "they will have maintained, you (plural formal) will have maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos mantenido",
+      "ENGLISH": "we will have maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis mantenido",
+      "ENGLISH": "you (plural) will have maintained"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mantendría ",
+      "ENGLISH": "I would maintain"
+    },
+    "TU": {
+      "SPANISH": "mantendrías ",
+      "ENGLISH": "you would maintain"
+    },
+    "EL": {
+      "SPANISH": "mantendría ",
+      "ENGLISH": "s/he would maintain, you (formal) would maintain"
+    },
+    "ELLOS": {
+      "SPANISH": "mantendrían ",
+      "ENGLISH": "they would maintain, you (plural formal) would maintain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mantendríamos ",
+      "ENGLISH": "we would maintain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mantendríais ",
+      "ENGLISH": "you (plural) would maintain"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría mantenido",
+      "ENGLISH": "I would have maintained"
+    },
+    "TU": {
+      "SPANISH": "habrías mantenido",
+      "ENGLISH": "you would have maintained"
+    },
+    "EL": {
+      "SPANISH": "habría mantenido",
+      "ENGLISH": "s/he would have maintained, you (formal) would have maintained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían mantenido",
+      "ENGLISH": "they would have maintained, you (plural formal) would have maintained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos mantenido",
+      "ENGLISH": "we would have maintained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais mantenido",
+      "ENGLISH": "you (plural) would have maintained"
+    }
+  }
+}

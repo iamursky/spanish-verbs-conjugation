@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "selecciono",
+      "ENGLISH": "I select"
+    },
+    "TU": {
+      "SPANISH": "seleccionas",
+      "ENGLISH": "you select"
+    },
+    "EL": {
+      "SPANISH": "selecciona",
+      "ENGLISH": "s/he selects, you (formal) selects"
+    },
+    "ELLOS": {
+      "SPANISH": "seleccionan",
+      "ENGLISH": "they select, you (plural formal) select"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seleccionamos",
+      "ENGLISH": "we select"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seleccionáis",
+      "ENGLISH": "you (plural) select"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he seleccionado",
+      "ENGLISH": "I have selected"
+    },
+    "TU": {
+      "SPANISH": "has seleccionado",
+      "ENGLISH": "you have selected"
+    },
+    "EL": {
+      "SPANISH": "ha seleccionado",
+      "ENGLISH": "s/he has selected, you (formal) have selected"
+    },
+    "ELLOS": {
+      "SPANISH": "han seleccionado",
+      "ENGLISH": "they have selected, you (plural formal) have selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos seleccionado",
+      "ENGLISH": "we have selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis seleccionado",
+      "ENGLISH": "you (plural) have selected"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "seleccioné",
+      "ENGLISH": "I selected"
+    },
+    "TU": {
+      "SPANISH": "seleccionaste",
+      "ENGLISH": "you selected"
+    },
+    "EL": {
+      "SPANISH": "seleccionó",
+      "ENGLISH": "s/he selected, you (formal) selected"
+    },
+    "ELLOS": {
+      "SPANISH": "seleccionaron",
+      "ENGLISH": "they selected, you (plural formal) selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seleccionamos",
+      "ENGLISH": "we selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seleccionasteis",
+      "ENGLISH": "you (plural) selected"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había seleccionado",
+      "ENGLISH": "I had selected"
+    },
+    "TU": {
+      "SPANISH": "habías seleccionado",
+      "ENGLISH": "you had selected"
+    },
+    "EL": {
+      "SPANISH": "había seleccionado",
+      "ENGLISH": "s/he had selected, you (formal) had selected"
+    },
+    "ELLOS": {
+      "SPANISH": "habían seleccionado",
+      "ENGLISH": "they had selected, you (plural formal) had selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos seleccionado",
+      "ENGLISH": "we had selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais seleccionado",
+      "ENGLISH": "you (plural) had selected"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "seleccioné",
+      "ENGLISH": "I selected"
+    },
+    "TU": {
+      "SPANISH": "seleccionaste",
+      "ENGLISH": "you selected"
+    },
+    "EL": {
+      "SPANISH": "seleccionó",
+      "ENGLISH": "s/he selected, you (formal) selected"
+    },
+    "ELLOS": {
+      "SPANISH": "seleccionaron",
+      "ENGLISH": "they selected, you (plural formal) selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seleccionamos",
+      "ENGLISH": "we selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seleccionasteis",
+      "ENGLISH": "you (plural) selected"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "seleccionaré",
+      "ENGLISH": "I will select"
+    },
+    "TU": {
+      "SPANISH": "seleccionarás",
+      "ENGLISH": "you will select"
+    },
+    "EL": {
+      "SPANISH": "seleccionará",
+      "ENGLISH": "s/he will select, you (formal) will select"
+    },
+    "ELLOS": {
+      "SPANISH": "seleccionarán",
+      "ENGLISH": "they will select, you (plural formal) will select"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seleccionaremos",
+      "ENGLISH": "we will select"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seleccionaréis",
+      "ENGLISH": "you (plural) will select"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré seleccionado",
+      "ENGLISH": "I will have selected"
+    },
+    "TU": {
+      "SPANISH": "habrás seleccionado",
+      "ENGLISH": "you will have selected"
+    },
+    "EL": {
+      "SPANISH": "habrá seleccionado",
+      "ENGLISH": "s/he will have selected, you (formal) will have selected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán seleccionado",
+      "ENGLISH": "they will have selected, you (plural formal) will have selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos seleccionado",
+      "ENGLISH": "we will have selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis seleccionado",
+      "ENGLISH": "you (plural) will have selected"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "seleccionaría",
+      "ENGLISH": "I would select"
+    },
+    "TU": {
+      "SPANISH": "seleccionarías",
+      "ENGLISH": "you would select"
+    },
+    "EL": {
+      "SPANISH": "seleccionaría",
+      "ENGLISH": "s/he would select, you (formal) would select"
+    },
+    "ELLOS": {
+      "SPANISH": "seleccionarían",
+      "ENGLISH": "they would select, you (plural formal) would select"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seleccionaríamos",
+      "ENGLISH": "we would select"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seleccionaríais",
+      "ENGLISH": "you (plural) would select"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría seleccionado",
+      "ENGLISH": "I would have selected"
+    },
+    "TU": {
+      "SPANISH": "habrías seleccionado",
+      "ENGLISH": "you would have selected"
+    },
+    "EL": {
+      "SPANISH": "habría seleccionado",
+      "ENGLISH": "s/he would have selected, you (formal) would have selected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían seleccionado",
+      "ENGLISH": "they would have selected, you (plural formal) would have selected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos seleccionado",
+      "ENGLISH": "we would have selected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais seleccionado",
+      "ENGLISH": "you (plural) would have selected"
+    }
+  }
+}

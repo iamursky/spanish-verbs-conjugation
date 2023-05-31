@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me divierto ",
+      "ENGLISH": "I enjoy"
+    },
+    "TU": {
+      "SPANISH": "te diviertes ",
+      "ENGLISH": "you enjoy"
+    },
+    "EL": {
+      "SPANISH": "se divierte ",
+      "ENGLISH": "s/he enjoys, you (formal) enjoys"
+    },
+    "ELLOS": {
+      "SPANISH": "se divierten ",
+      "ENGLISH": "they enjoy, you (plural formal) enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos divertimos",
+      "ENGLISH": "we enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os divertís",
+      "ENGLISH": "you (plural) enjoy"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he divertido",
+      "ENGLISH": "I have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te has divertido",
+      "ENGLISH": "you have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se ha divertido",
+      "ENGLISH": "s/he has enjoyed, you (formal) have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se han divertido",
+      "ENGLISH": "they have enjoyed, you (plural formal) have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos divertido",
+      "ENGLISH": "we have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis divertido",
+      "ENGLISH": "you (plural) have enjoyed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me divertí",
+      "ENGLISH": "I enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te divertiste",
+      "ENGLISH": "you enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se divirtió ",
+      "ENGLISH": "s/he enjoyed, you (formal) enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se divirtieron ",
+      "ENGLISH": "they enjoyed, you (plural formal) enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos divertimos",
+      "ENGLISH": "we enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os divertisteis",
+      "ENGLISH": "you (plural) enjoyed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había divertido",
+      "ENGLISH": "I had enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te habías divertido",
+      "ENGLISH": "you had enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se había divertido",
+      "ENGLISH": "s/he had enjoyed, you (formal) had enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían divertido",
+      "ENGLISH": "they had enjoyed, you (plural formal) had enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos divertido",
+      "ENGLISH": "we had enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais divertido",
+      "ENGLISH": "you (plural) had enjoyed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me divertí",
+      "ENGLISH": "I enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te divertiste",
+      "ENGLISH": "you enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se divirtió ",
+      "ENGLISH": "s/he enjoyed, you (formal) enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se divirtieron ",
+      "ENGLISH": "they enjoyed, you (plural formal) enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos divertimos",
+      "ENGLISH": "we enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os divertisteis",
+      "ENGLISH": "you (plural) enjoyed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me divertiré",
+      "ENGLISH": "I will enjoy"
+    },
+    "TU": {
+      "SPANISH": "te divertirás",
+      "ENGLISH": "you will enjoy"
+    },
+    "EL": {
+      "SPANISH": "se divertirá",
+      "ENGLISH": "s/he will enjoy, you (formal) will enjoy"
+    },
+    "ELLOS": {
+      "SPANISH": "se divertirán",
+      "ENGLISH": "they will enjoy, you (plural formal) will enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos divertiremos",
+      "ENGLISH": "we will enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os divertiréis",
+      "ENGLISH": "you (plural) will enjoy"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré divertido",
+      "ENGLISH": "I will have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te habrás divertido",
+      "ENGLISH": "you will have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se habrá divertido",
+      "ENGLISH": "s/he will have enjoyed, you (formal) will have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán divertido",
+      "ENGLISH": "they will have enjoyed, you (plural formal) will have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos divertido",
+      "ENGLISH": "we will have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis divertido",
+      "ENGLISH": "you (plural) will have enjoyed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me divertiría",
+      "ENGLISH": "I would enjoy"
+    },
+    "TU": {
+      "SPANISH": "te divertirías",
+      "ENGLISH": "you would enjoy"
+    },
+    "EL": {
+      "SPANISH": "se divertiría",
+      "ENGLISH": "s/he would enjoy, you (formal) would enjoy"
+    },
+    "ELLOS": {
+      "SPANISH": "se divertirían",
+      "ENGLISH": "they would enjoy, you (plural formal) would enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos divertiríamos",
+      "ENGLISH": "we would enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os divertiríais",
+      "ENGLISH": "you (plural) would enjoy"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría divertido",
+      "ENGLISH": "I would have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "te habrías divertido",
+      "ENGLISH": "you would have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "se habría divertido",
+      "ENGLISH": "s/he would have enjoyed, you (formal) would have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían divertido",
+      "ENGLISH": "they would have enjoyed, you (plural formal) would have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos divertido",
+      "ENGLISH": "we would have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais divertido",
+      "ENGLISH": "you (plural) would have enjoyed"
+    }
+  }
+}

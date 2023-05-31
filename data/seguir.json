@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sigo ",
+      "ENGLISH": "I follow"
+    },
+    "TU": {
+      "SPANISH": "sigues ",
+      "ENGLISH": "you follow"
+    },
+    "EL": {
+      "SPANISH": "sigue ",
+      "ENGLISH": "s/he follows, you (formal) follows"
+    },
+    "ELLOS": {
+      "SPANISH": "siguen ",
+      "ENGLISH": "they follow, you (plural formal) follow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seguimos",
+      "ENGLISH": "we follow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seguís",
+      "ENGLISH": "you (plural) follow"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he seguido",
+      "ENGLISH": "I have followed"
+    },
+    "TU": {
+      "SPANISH": "has seguido",
+      "ENGLISH": "you have followed"
+    },
+    "EL": {
+      "SPANISH": "ha seguido",
+      "ENGLISH": "s/he has followed, you (formal) have followed"
+    },
+    "ELLOS": {
+      "SPANISH": "han seguido",
+      "ENGLISH": "they have followed, you (plural formal) have followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos seguido",
+      "ENGLISH": "we have followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis seguido",
+      "ENGLISH": "you (plural) have followed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "seguí",
+      "ENGLISH": "I followed"
+    },
+    "TU": {
+      "SPANISH": "seguiste",
+      "ENGLISH": "you followed"
+    },
+    "EL": {
+      "SPANISH": "siguió ",
+      "ENGLISH": "s/he followed, you (formal) followed"
+    },
+    "ELLOS": {
+      "SPANISH": "siguieron ",
+      "ENGLISH": "they followed, you (plural formal) followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seguimos",
+      "ENGLISH": "we followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seguisteis",
+      "ENGLISH": "you (plural) followed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había seguido",
+      "ENGLISH": "I had followed"
+    },
+    "TU": {
+      "SPANISH": "habías seguido",
+      "ENGLISH": "you had followed"
+    },
+    "EL": {
+      "SPANISH": "había seguido",
+      "ENGLISH": "s/he had followed, you (formal) had followed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían seguido",
+      "ENGLISH": "they had followed, you (plural formal) had followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos seguido",
+      "ENGLISH": "we had followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais seguido",
+      "ENGLISH": "you (plural) had followed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "seguí",
+      "ENGLISH": "I followed"
+    },
+    "TU": {
+      "SPANISH": "seguiste",
+      "ENGLISH": "you followed"
+    },
+    "EL": {
+      "SPANISH": "siguió ",
+      "ENGLISH": "s/he followed, you (formal) followed"
+    },
+    "ELLOS": {
+      "SPANISH": "siguieron ",
+      "ENGLISH": "they followed, you (plural formal) followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seguimos",
+      "ENGLISH": "we followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seguisteis",
+      "ENGLISH": "you (plural) followed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "seguiré",
+      "ENGLISH": "I will follow"
+    },
+    "TU": {
+      "SPANISH": "seguirás",
+      "ENGLISH": "you will follow"
+    },
+    "EL": {
+      "SPANISH": "seguirá",
+      "ENGLISH": "s/he will follow, you (formal) will follow"
+    },
+    "ELLOS": {
+      "SPANISH": "seguirán",
+      "ENGLISH": "they will follow, you (plural formal) will follow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seguiremos",
+      "ENGLISH": "we will follow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seguiréis",
+      "ENGLISH": "you (plural) will follow"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré seguido",
+      "ENGLISH": "I will have followed"
+    },
+    "TU": {
+      "SPANISH": "habrás seguido",
+      "ENGLISH": "you will have followed"
+    },
+    "EL": {
+      "SPANISH": "habrá seguido",
+      "ENGLISH": "s/he will have followed, you (formal) will have followed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán seguido",
+      "ENGLISH": "they will have followed, you (plural formal) will have followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos seguido",
+      "ENGLISH": "we will have followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis seguido",
+      "ENGLISH": "you (plural) will have followed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "seguiría",
+      "ENGLISH": "I would follow"
+    },
+    "TU": {
+      "SPANISH": "seguirías",
+      "ENGLISH": "you would follow"
+    },
+    "EL": {
+      "SPANISH": "seguiría",
+      "ENGLISH": "s/he would follow, you (formal) would follow"
+    },
+    "ELLOS": {
+      "SPANISH": "seguirían",
+      "ENGLISH": "they would follow, you (plural formal) would follow"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seguiríamos",
+      "ENGLISH": "we would follow"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seguiríais",
+      "ENGLISH": "you (plural) would follow"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría seguido",
+      "ENGLISH": "I would have followed"
+    },
+    "TU": {
+      "SPANISH": "habrías seguido",
+      "ENGLISH": "you would have followed"
+    },
+    "EL": {
+      "SPANISH": "habría seguido",
+      "ENGLISH": "s/he would have followed, you (formal) would have followed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían seguido",
+      "ENGLISH": "they would have followed, you (plural formal) would have followed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos seguido",
+      "ENGLISH": "we would have followed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais seguido",
+      "ENGLISH": "you (plural) would have followed"
+    }
+  }
+}

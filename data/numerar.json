@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "numero",
+      "ENGLISH": "I number"
+    },
+    "TU": {
+      "SPANISH": "numeras",
+      "ENGLISH": "you number"
+    },
+    "EL": {
+      "SPANISH": "numera",
+      "ENGLISH": "s/he numbers, you (formal) numbers"
+    },
+    "ELLOS": {
+      "SPANISH": "numeran",
+      "ENGLISH": "they number, you (plural formal) number"
+    },
+    "NOSOTROS": {
+      "SPANISH": "numeramos",
+      "ENGLISH": "we number"
+    },
+    "VOSOTROS": {
+      "SPANISH": "numeráis",
+      "ENGLISH": "you (plural) number"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he numerado",
+      "ENGLISH": "I have numbered"
+    },
+    "TU": {
+      "SPANISH": "has numerado",
+      "ENGLISH": "you have numbered"
+    },
+    "EL": {
+      "SPANISH": "ha numerado",
+      "ENGLISH": "s/he has numbered, you (formal) have numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "han numerado",
+      "ENGLISH": "they have numbered, you (plural formal) have numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos numerado",
+      "ENGLISH": "we have numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis numerado",
+      "ENGLISH": "you (plural) have numbered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "numeré",
+      "ENGLISH": "I numbered"
+    },
+    "TU": {
+      "SPANISH": "numeraste",
+      "ENGLISH": "you numbered"
+    },
+    "EL": {
+      "SPANISH": "numeró",
+      "ENGLISH": "s/he numbered, you (formal) numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "numeraron",
+      "ENGLISH": "they numbered, you (plural formal) numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "numeramos",
+      "ENGLISH": "we numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "numerasteis",
+      "ENGLISH": "you (plural) numbered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había numerado",
+      "ENGLISH": "I had numbered"
+    },
+    "TU": {
+      "SPANISH": "habías numerado",
+      "ENGLISH": "you had numbered"
+    },
+    "EL": {
+      "SPANISH": "había numerado",
+      "ENGLISH": "s/he had numbered, you (formal) had numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían numerado",
+      "ENGLISH": "they had numbered, you (plural formal) had numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos numerado",
+      "ENGLISH": "we had numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais numerado",
+      "ENGLISH": "you (plural) had numbered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "numeré",
+      "ENGLISH": "I numbered"
+    },
+    "TU": {
+      "SPANISH": "numeraste",
+      "ENGLISH": "you numbered"
+    },
+    "EL": {
+      "SPANISH": "numeró",
+      "ENGLISH": "s/he numbered, you (formal) numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "numeraron",
+      "ENGLISH": "they numbered, you (plural formal) numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "numeramos",
+      "ENGLISH": "we numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "numerasteis",
+      "ENGLISH": "you (plural) numbered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "numeraré",
+      "ENGLISH": "I will number"
+    },
+    "TU": {
+      "SPANISH": "numerarás",
+      "ENGLISH": "you will number"
+    },
+    "EL": {
+      "SPANISH": "numerará",
+      "ENGLISH": "s/he will number, you (formal) will number"
+    },
+    "ELLOS": {
+      "SPANISH": "numerarán",
+      "ENGLISH": "they will number, you (plural formal) will number"
+    },
+    "NOSOTROS": {
+      "SPANISH": "numeraremos",
+      "ENGLISH": "we will number"
+    },
+    "VOSOTROS": {
+      "SPANISH": "numeraréis",
+      "ENGLISH": "you (plural) will number"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré numerado",
+      "ENGLISH": "I will have numbered"
+    },
+    "TU": {
+      "SPANISH": "habrás numerado",
+      "ENGLISH": "you will have numbered"
+    },
+    "EL": {
+      "SPANISH": "habrá numerado",
+      "ENGLISH": "s/he will have numbered, you (formal) will have numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán numerado",
+      "ENGLISH": "they will have numbered, you (plural formal) will have numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos numerado",
+      "ENGLISH": "we will have numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis numerado",
+      "ENGLISH": "you (plural) will have numbered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "numeraría",
+      "ENGLISH": "I would number"
+    },
+    "TU": {
+      "SPANISH": "numerarías",
+      "ENGLISH": "you would number"
+    },
+    "EL": {
+      "SPANISH": "numeraría",
+      "ENGLISH": "s/he would number, you (formal) would number"
+    },
+    "ELLOS": {
+      "SPANISH": "numerarían",
+      "ENGLISH": "they would number, you (plural formal) would number"
+    },
+    "NOSOTROS": {
+      "SPANISH": "numeraríamos",
+      "ENGLISH": "we would number"
+    },
+    "VOSOTROS": {
+      "SPANISH": "numeraríais",
+      "ENGLISH": "you (plural) would number"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría numerado",
+      "ENGLISH": "I would have numbered"
+    },
+    "TU": {
+      "SPANISH": "habrías numerado",
+      "ENGLISH": "you would have numbered"
+    },
+    "EL": {
+      "SPANISH": "habría numerado",
+      "ENGLISH": "s/he would have numbered, you (formal) would have numbered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían numerado",
+      "ENGLISH": "they would have numbered, you (plural formal) would have numbered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos numerado",
+      "ENGLISH": "we would have numbered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais numerado",
+      "ENGLISH": "you (plural) would have numbered"
+    }
+  }
+}

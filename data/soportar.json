@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "soporto",
+      "ENGLISH": "I put up with"
+    },
+    "TU": {
+      "SPANISH": "soportas",
+      "ENGLISH": "you put up with"
+    },
+    "EL": {
+      "SPANISH": "soporta",
+      "ENGLISH": "s/he puts up with, you (formal) puts up with"
+    },
+    "ELLOS": {
+      "SPANISH": "soportan",
+      "ENGLISH": "they put up with, you (plural formal) put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "soportamos",
+      "ENGLISH": "we put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "soportáis",
+      "ENGLISH": "you (plural) put up with"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he soportado",
+      "ENGLISH": "I have put up with"
+    },
+    "TU": {
+      "SPANISH": "has soportado",
+      "ENGLISH": "you have put up with"
+    },
+    "EL": {
+      "SPANISH": "ha soportado",
+      "ENGLISH": "s/he has put up with, you (formal) have put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "han soportado",
+      "ENGLISH": "they have put up with, you (plural formal) have put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos soportado",
+      "ENGLISH": "we have put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis soportado",
+      "ENGLISH": "you (plural) have put up with"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "soporté",
+      "ENGLISH": "I put up with"
+    },
+    "TU": {
+      "SPANISH": "soportaste",
+      "ENGLISH": "you put up with"
+    },
+    "EL": {
+      "SPANISH": "soportó",
+      "ENGLISH": "s/he put up with, you (formal) put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "soportaron",
+      "ENGLISH": "they put up with, you (plural formal) put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "soportamos",
+      "ENGLISH": "we put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "soportasteis",
+      "ENGLISH": "you (plural) put up with"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había soportado",
+      "ENGLISH": "I had put up with"
+    },
+    "TU": {
+      "SPANISH": "habías soportado",
+      "ENGLISH": "you had put up with"
+    },
+    "EL": {
+      "SPANISH": "había soportado",
+      "ENGLISH": "s/he had put up with, you (formal) had put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "habían soportado",
+      "ENGLISH": "they had put up with, you (plural formal) had put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos soportado",
+      "ENGLISH": "we had put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais soportado",
+      "ENGLISH": "you (plural) had put up with"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "soporté",
+      "ENGLISH": "I put up with"
+    },
+    "TU": {
+      "SPANISH": "soportaste",
+      "ENGLISH": "you put up with"
+    },
+    "EL": {
+      "SPANISH": "soportó",
+      "ENGLISH": "s/he put up with, you (formal) put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "soportaron",
+      "ENGLISH": "they put up with, you (plural formal) put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "soportamos",
+      "ENGLISH": "we put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "soportasteis",
+      "ENGLISH": "you (plural) put up with"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "soportaré",
+      "ENGLISH": "I will put up with"
+    },
+    "TU": {
+      "SPANISH": "soportarás",
+      "ENGLISH": "you will put up with"
+    },
+    "EL": {
+      "SPANISH": "soportará",
+      "ENGLISH": "s/he will put up with, you (formal) will put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "soportarán",
+      "ENGLISH": "they will put up with, you (plural formal) will put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "soportaremos",
+      "ENGLISH": "we will put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "soportaréis",
+      "ENGLISH": "you (plural) will put up with"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré soportado",
+      "ENGLISH": "I will have put up with"
+    },
+    "TU": {
+      "SPANISH": "habrás soportado",
+      "ENGLISH": "you will have put up with"
+    },
+    "EL": {
+      "SPANISH": "habrá soportado",
+      "ENGLISH": "s/he will have put up with, you (formal) will have put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán soportado",
+      "ENGLISH": "they will have put up with, you (plural formal) will have put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos soportado",
+      "ENGLISH": "we will have put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis soportado",
+      "ENGLISH": "you (plural) will have put up with"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "soportaría",
+      "ENGLISH": "I would put up with"
+    },
+    "TU": {
+      "SPANISH": "soportarías",
+      "ENGLISH": "you would put up with"
+    },
+    "EL": {
+      "SPANISH": "soportaría",
+      "ENGLISH": "s/he would put up with, you (formal) would put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "soportarían",
+      "ENGLISH": "they would put up with, you (plural formal) would put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "soportaríamos",
+      "ENGLISH": "we would put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "soportaríais",
+      "ENGLISH": "you (plural) would put up with"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría soportado",
+      "ENGLISH": "I would have put up with"
+    },
+    "TU": {
+      "SPANISH": "habrías soportado",
+      "ENGLISH": "you would have put up with"
+    },
+    "EL": {
+      "SPANISH": "habría soportado",
+      "ENGLISH": "s/he would have put up with, you (formal) would have put up with"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían soportado",
+      "ENGLISH": "they would have put up with, you (plural formal) would have put up with"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos soportado",
+      "ENGLISH": "we would have put up with"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais soportado",
+      "ENGLISH": "you (plural) would have put up with"
+    }
+  }
+}

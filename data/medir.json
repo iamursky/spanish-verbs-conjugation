@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "mido ",
+      "ENGLISH": "I measure"
+    },
+    "TU": {
+      "SPANISH": "mides ",
+      "ENGLISH": "you measure"
+    },
+    "EL": {
+      "SPANISH": "mide ",
+      "ENGLISH": "s/he measures, you (formal) measures"
+    },
+    "ELLOS": {
+      "SPANISH": "miden ",
+      "ENGLISH": "they measure, you (plural formal) measure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "medimos",
+      "ENGLISH": "we measure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "medís",
+      "ENGLISH": "you (plural) measure"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he medido",
+      "ENGLISH": "I have measured"
+    },
+    "TU": {
+      "SPANISH": "has medido",
+      "ENGLISH": "you have measured"
+    },
+    "EL": {
+      "SPANISH": "ha medido",
+      "ENGLISH": "s/he has measured, you (formal) have measured"
+    },
+    "ELLOS": {
+      "SPANISH": "han medido",
+      "ENGLISH": "they have measured, you (plural formal) have measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos medido",
+      "ENGLISH": "we have measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis medido",
+      "ENGLISH": "you (plural) have measured"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "medí",
+      "ENGLISH": "I measured"
+    },
+    "TU": {
+      "SPANISH": "mediste",
+      "ENGLISH": "you measured"
+    },
+    "EL": {
+      "SPANISH": "midió ",
+      "ENGLISH": "s/he measured, you (formal) measured"
+    },
+    "ELLOS": {
+      "SPANISH": "midieron ",
+      "ENGLISH": "they measured, you (plural formal) measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "medimos",
+      "ENGLISH": "we measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "medisteis",
+      "ENGLISH": "you (plural) measured"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había medido",
+      "ENGLISH": "I had measured"
+    },
+    "TU": {
+      "SPANISH": "habías medido",
+      "ENGLISH": "you had measured"
+    },
+    "EL": {
+      "SPANISH": "había medido",
+      "ENGLISH": "s/he had measured, you (formal) had measured"
+    },
+    "ELLOS": {
+      "SPANISH": "habían medido",
+      "ENGLISH": "they had measured, you (plural formal) had measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos medido",
+      "ENGLISH": "we had measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais medido",
+      "ENGLISH": "you (plural) had measured"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "medí",
+      "ENGLISH": "I measured"
+    },
+    "TU": {
+      "SPANISH": "mediste",
+      "ENGLISH": "you measured"
+    },
+    "EL": {
+      "SPANISH": "midió ",
+      "ENGLISH": "s/he measured, you (formal) measured"
+    },
+    "ELLOS": {
+      "SPANISH": "midieron ",
+      "ENGLISH": "they measured, you (plural formal) measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "medimos",
+      "ENGLISH": "we measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "medisteis",
+      "ENGLISH": "you (plural) measured"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mediré",
+      "ENGLISH": "I will measure"
+    },
+    "TU": {
+      "SPANISH": "medirás",
+      "ENGLISH": "you will measure"
+    },
+    "EL": {
+      "SPANISH": "medirá",
+      "ENGLISH": "s/he will measure, you (formal) will measure"
+    },
+    "ELLOS": {
+      "SPANISH": "medirán",
+      "ENGLISH": "they will measure, you (plural formal) will measure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mediremos",
+      "ENGLISH": "we will measure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mediréis",
+      "ENGLISH": "you (plural) will measure"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré medido",
+      "ENGLISH": "I will have measured"
+    },
+    "TU": {
+      "SPANISH": "habrás medido",
+      "ENGLISH": "you will have measured"
+    },
+    "EL": {
+      "SPANISH": "habrá medido",
+      "ENGLISH": "s/he will have measured, you (formal) will have measured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán medido",
+      "ENGLISH": "they will have measured, you (plural formal) will have measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos medido",
+      "ENGLISH": "we will have measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis medido",
+      "ENGLISH": "you (plural) will have measured"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mediría",
+      "ENGLISH": "I would measure"
+    },
+    "TU": {
+      "SPANISH": "medirías",
+      "ENGLISH": "you would measure"
+    },
+    "EL": {
+      "SPANISH": "mediría",
+      "ENGLISH": "s/he would measure, you (formal) would measure"
+    },
+    "ELLOS": {
+      "SPANISH": "medirían",
+      "ENGLISH": "they would measure, you (plural formal) would measure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mediríamos",
+      "ENGLISH": "we would measure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mediríais",
+      "ENGLISH": "you (plural) would measure"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría medido",
+      "ENGLISH": "I would have measured"
+    },
+    "TU": {
+      "SPANISH": "habrías medido",
+      "ENGLISH": "you would have measured"
+    },
+    "EL": {
+      "SPANISH": "habría medido",
+      "ENGLISH": "s/he would have measured, you (formal) would have measured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían medido",
+      "ENGLISH": "they would have measured, you (plural formal) would have measured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos medido",
+      "ENGLISH": "we would have measured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais medido",
+      "ENGLISH": "you (plural) would have measured"
+    }
+  }
+}

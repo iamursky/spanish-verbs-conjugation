@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "traigo ",
+      "ENGLISH": "I bring"
+    },
+    "TU": {
+      "SPANISH": "traes",
+      "ENGLISH": "you bring"
+    },
+    "EL": {
+      "SPANISH": "trae",
+      "ENGLISH": "s/he brings, you (formal) brings"
+    },
+    "ELLOS": {
+      "SPANISH": "traen",
+      "ENGLISH": "they bring, you (plural formal) bring"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traemos",
+      "ENGLISH": "we bring"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traéis",
+      "ENGLISH": "you (plural) bring"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he traído ",
+      "ENGLISH": "I have brought"
+    },
+    "TU": {
+      "SPANISH": "has traído ",
+      "ENGLISH": "you have brought"
+    },
+    "EL": {
+      "SPANISH": "ha traído ",
+      "ENGLISH": "s/he has brought, you (formal) have brought"
+    },
+    "ELLOS": {
+      "SPANISH": "han traído ",
+      "ENGLISH": "they have brought, you (plural formal) have brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos traído ",
+      "ENGLISH": "we have brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis traído ",
+      "ENGLISH": "you (plural) have brought"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "traje ",
+      "ENGLISH": "I brought"
+    },
+    "TU": {
+      "SPANISH": "trajiste ",
+      "ENGLISH": "you brought"
+    },
+    "EL": {
+      "SPANISH": "trajo ",
+      "ENGLISH": "s/he brought, you (formal) brought"
+    },
+    "ELLOS": {
+      "SPANISH": "trajeron ",
+      "ENGLISH": "they brought, you (plural formal) brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "trajimos ",
+      "ENGLISH": "we brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "trajisteis ",
+      "ENGLISH": "you (plural) brought"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había traído ",
+      "ENGLISH": "I had brought"
+    },
+    "TU": {
+      "SPANISH": "habías traído ",
+      "ENGLISH": "you had brought"
+    },
+    "EL": {
+      "SPANISH": "había traído ",
+      "ENGLISH": "s/he had brought, you (formal) had brought"
+    },
+    "ELLOS": {
+      "SPANISH": "habían traído ",
+      "ENGLISH": "they had brought, you (plural formal) had brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos traído ",
+      "ENGLISH": "we had brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais traído ",
+      "ENGLISH": "you (plural) had brought"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "traje ",
+      "ENGLISH": "I brought"
+    },
+    "TU": {
+      "SPANISH": "trajiste ",
+      "ENGLISH": "you brought"
+    },
+    "EL": {
+      "SPANISH": "trajo ",
+      "ENGLISH": "s/he brought, you (formal) brought"
+    },
+    "ELLOS": {
+      "SPANISH": "trajeron ",
+      "ENGLISH": "they brought, you (plural formal) brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "trajimos ",
+      "ENGLISH": "we brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "trajisteis ",
+      "ENGLISH": "you (plural) brought"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "traeré",
+      "ENGLISH": "I will bring"
+    },
+    "TU": {
+      "SPANISH": "traerás",
+      "ENGLISH": "you will bring"
+    },
+    "EL": {
+      "SPANISH": "traerá",
+      "ENGLISH": "s/he will bring, you (formal) will bring"
+    },
+    "ELLOS": {
+      "SPANISH": "traerán",
+      "ENGLISH": "they will bring, you (plural formal) will bring"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traeremos",
+      "ENGLISH": "we will bring"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traeréis",
+      "ENGLISH": "you (plural) will bring"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré traído ",
+      "ENGLISH": "I will have brought"
+    },
+    "TU": {
+      "SPANISH": "habrás traído ",
+      "ENGLISH": "you will have brought"
+    },
+    "EL": {
+      "SPANISH": "habrá traído ",
+      "ENGLISH": "s/he will have brought, you (formal) will have brought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán traído ",
+      "ENGLISH": "they will have brought, you (plural formal) will have brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos traído ",
+      "ENGLISH": "we will have brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis traído ",
+      "ENGLISH": "you (plural) will have brought"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "traería",
+      "ENGLISH": "I would bring"
+    },
+    "TU": {
+      "SPANISH": "traerías",
+      "ENGLISH": "you would bring"
+    },
+    "EL": {
+      "SPANISH": "traería",
+      "ENGLISH": "s/he would bring, you (formal) would bring"
+    },
+    "ELLOS": {
+      "SPANISH": "traerían",
+      "ENGLISH": "they would bring, you (plural formal) would bring"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traeríamos",
+      "ENGLISH": "we would bring"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traeríais",
+      "ENGLISH": "you (plural) would bring"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría traído ",
+      "ENGLISH": "I would have brought"
+    },
+    "TU": {
+      "SPANISH": "habrías traído ",
+      "ENGLISH": "you would have brought"
+    },
+    "EL": {
+      "SPANISH": "habría traído ",
+      "ENGLISH": "s/he would have brought, you (formal) would have brought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían traído ",
+      "ENGLISH": "they would have brought, you (plural formal) would have brought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos traído ",
+      "ENGLISH": "we would have brought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais traído ",
+      "ENGLISH": "you (plural) would have brought"
+    }
+  }
+}

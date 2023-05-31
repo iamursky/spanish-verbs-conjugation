@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sirvo ",
+      "ENGLISH": "I serve"
+    },
+    "TU": {
+      "SPANISH": "sirves ",
+      "ENGLISH": "you serve"
+    },
+    "EL": {
+      "SPANISH": "sirve ",
+      "ENGLISH": "s/he serves, you (formal) serves"
+    },
+    "ELLOS": {
+      "SPANISH": "sirven ",
+      "ENGLISH": "they serve, you (plural formal) serve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "servimos",
+      "ENGLISH": "we serve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "servís",
+      "ENGLISH": "you (plural) serve"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he servido",
+      "ENGLISH": "I have served"
+    },
+    "TU": {
+      "SPANISH": "has servido",
+      "ENGLISH": "you have served"
+    },
+    "EL": {
+      "SPANISH": "ha servido",
+      "ENGLISH": "s/he has served, you (formal) have served"
+    },
+    "ELLOS": {
+      "SPANISH": "han servido",
+      "ENGLISH": "they have served, you (plural formal) have served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos servido",
+      "ENGLISH": "we have served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis servido",
+      "ENGLISH": "you (plural) have served"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "serví",
+      "ENGLISH": "I served"
+    },
+    "TU": {
+      "SPANISH": "serviste",
+      "ENGLISH": "you served"
+    },
+    "EL": {
+      "SPANISH": "sirvió ",
+      "ENGLISH": "s/he served, you (formal) served"
+    },
+    "ELLOS": {
+      "SPANISH": "sirvieron ",
+      "ENGLISH": "they served, you (plural formal) served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "servimos",
+      "ENGLISH": "we served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "servisteis",
+      "ENGLISH": "you (plural) served"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había servido",
+      "ENGLISH": "I had served"
+    },
+    "TU": {
+      "SPANISH": "habías servido",
+      "ENGLISH": "you had served"
+    },
+    "EL": {
+      "SPANISH": "había servido",
+      "ENGLISH": "s/he had served, you (formal) had served"
+    },
+    "ELLOS": {
+      "SPANISH": "habían servido",
+      "ENGLISH": "they had served, you (plural formal) had served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos servido",
+      "ENGLISH": "we had served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais servido",
+      "ENGLISH": "you (plural) had served"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "serví",
+      "ENGLISH": "I served"
+    },
+    "TU": {
+      "SPANISH": "serviste",
+      "ENGLISH": "you served"
+    },
+    "EL": {
+      "SPANISH": "sirvió ",
+      "ENGLISH": "s/he served, you (formal) served"
+    },
+    "ELLOS": {
+      "SPANISH": "sirvieron ",
+      "ENGLISH": "they served, you (plural formal) served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "servimos",
+      "ENGLISH": "we served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "servisteis",
+      "ENGLISH": "you (plural) served"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "serviré",
+      "ENGLISH": "I will serve"
+    },
+    "TU": {
+      "SPANISH": "servirás",
+      "ENGLISH": "you will serve"
+    },
+    "EL": {
+      "SPANISH": "servirá",
+      "ENGLISH": "s/he will serve, you (formal) will serve"
+    },
+    "ELLOS": {
+      "SPANISH": "servirán",
+      "ENGLISH": "they will serve, you (plural formal) will serve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "serviremos",
+      "ENGLISH": "we will serve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "serviréis",
+      "ENGLISH": "you (plural) will serve"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré servido",
+      "ENGLISH": "I will have served"
+    },
+    "TU": {
+      "SPANISH": "habrás servido",
+      "ENGLISH": "you will have served"
+    },
+    "EL": {
+      "SPANISH": "habrá servido",
+      "ENGLISH": "s/he will have served, you (formal) will have served"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán servido",
+      "ENGLISH": "they will have served, you (plural formal) will have served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos servido",
+      "ENGLISH": "we will have served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis servido",
+      "ENGLISH": "you (plural) will have served"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "serviría",
+      "ENGLISH": "I would serve"
+    },
+    "TU": {
+      "SPANISH": "servirías",
+      "ENGLISH": "you would serve"
+    },
+    "EL": {
+      "SPANISH": "serviría",
+      "ENGLISH": "s/he would serve, you (formal) would serve"
+    },
+    "ELLOS": {
+      "SPANISH": "servirían",
+      "ENGLISH": "they would serve, you (plural formal) would serve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "serviríamos",
+      "ENGLISH": "we would serve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "serviríais",
+      "ENGLISH": "you (plural) would serve"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría servido",
+      "ENGLISH": "I would have served"
+    },
+    "TU": {
+      "SPANISH": "habrías servido",
+      "ENGLISH": "you would have served"
+    },
+    "EL": {
+      "SPANISH": "habría servido",
+      "ENGLISH": "s/he would have served, you (formal) would have served"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían servido",
+      "ENGLISH": "they would have served, you (plural formal) would have served"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos servido",
+      "ENGLISH": "we would have served"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais servido",
+      "ENGLISH": "you (plural) would have served"
+    }
+  }
+}

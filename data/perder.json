@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "pierdo ",
+      "ENGLISH": "I lose"
+    },
+    "TU": {
+      "SPANISH": "pierdes ",
+      "ENGLISH": "you lose"
+    },
+    "EL": {
+      "SPANISH": "pierde ",
+      "ENGLISH": "s/he loses, you (formal) loses"
+    },
+    "ELLOS": {
+      "SPANISH": "pierden ",
+      "ENGLISH": "they lose, you (plural formal) lose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "perdemos",
+      "ENGLISH": "we lose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "perdéis",
+      "ENGLISH": "you (plural) lose"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he perdido",
+      "ENGLISH": "I have lost"
+    },
+    "TU": {
+      "SPANISH": "has perdido",
+      "ENGLISH": "you have lost"
+    },
+    "EL": {
+      "SPANISH": "ha perdido",
+      "ENGLISH": "s/he has lost, you (formal) have lost"
+    },
+    "ELLOS": {
+      "SPANISH": "han perdido",
+      "ENGLISH": "they have lost, you (plural formal) have lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos perdido",
+      "ENGLISH": "we have lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis perdido",
+      "ENGLISH": "you (plural) have lost"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "perdí",
+      "ENGLISH": "I lost"
+    },
+    "TU": {
+      "SPANISH": "perdiste",
+      "ENGLISH": "you lost"
+    },
+    "EL": {
+      "SPANISH": "perdió",
+      "ENGLISH": "s/he lost, you (formal) lost"
+    },
+    "ELLOS": {
+      "SPANISH": "perdieron",
+      "ENGLISH": "they lost, you (plural formal) lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "perdimos",
+      "ENGLISH": "we lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "perdisteis",
+      "ENGLISH": "you (plural) lost"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había perdido",
+      "ENGLISH": "I had lost"
+    },
+    "TU": {
+      "SPANISH": "habías perdido",
+      "ENGLISH": "you had lost"
+    },
+    "EL": {
+      "SPANISH": "había perdido",
+      "ENGLISH": "s/he had lost, you (formal) had lost"
+    },
+    "ELLOS": {
+      "SPANISH": "habían perdido",
+      "ENGLISH": "they had lost, you (plural formal) had lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos perdido",
+      "ENGLISH": "we had lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais perdido",
+      "ENGLISH": "you (plural) had lost"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "perdí",
+      "ENGLISH": "I lost"
+    },
+    "TU": {
+      "SPANISH": "perdiste",
+      "ENGLISH": "you lost"
+    },
+    "EL": {
+      "SPANISH": "perdió",
+      "ENGLISH": "s/he lost, you (formal) lost"
+    },
+    "ELLOS": {
+      "SPANISH": "perdieron",
+      "ENGLISH": "they lost, you (plural formal) lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "perdimos",
+      "ENGLISH": "we lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "perdisteis",
+      "ENGLISH": "you (plural) lost"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "perderé",
+      "ENGLISH": "I will lose"
+    },
+    "TU": {
+      "SPANISH": "perderás",
+      "ENGLISH": "you will lose"
+    },
+    "EL": {
+      "SPANISH": "perderá",
+      "ENGLISH": "s/he will lose, you (formal) will lose"
+    },
+    "ELLOS": {
+      "SPANISH": "perderán",
+      "ENGLISH": "they will lose, you (plural formal) will lose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "perderemos",
+      "ENGLISH": "we will lose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "perderéis",
+      "ENGLISH": "you (plural) will lose"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré perdido",
+      "ENGLISH": "I will have lost"
+    },
+    "TU": {
+      "SPANISH": "habrás perdido",
+      "ENGLISH": "you will have lost"
+    },
+    "EL": {
+      "SPANISH": "habrá perdido",
+      "ENGLISH": "s/he will have lost, you (formal) will have lost"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán perdido",
+      "ENGLISH": "they will have lost, you (plural formal) will have lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos perdido",
+      "ENGLISH": "we will have lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis perdido",
+      "ENGLISH": "you (plural) will have lost"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "perdería",
+      "ENGLISH": "I would lose"
+    },
+    "TU": {
+      "SPANISH": "perderías",
+      "ENGLISH": "you would lose"
+    },
+    "EL": {
+      "SPANISH": "perdería",
+      "ENGLISH": "s/he would lose, you (formal) would lose"
+    },
+    "ELLOS": {
+      "SPANISH": "perderían",
+      "ENGLISH": "they would lose, you (plural formal) would lose"
+    },
+    "NOSOTROS": {
+      "SPANISH": "perderíamos",
+      "ENGLISH": "we would lose"
+    },
+    "VOSOTROS": {
+      "SPANISH": "perderíais",
+      "ENGLISH": "you (plural) would lose"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría perdido",
+      "ENGLISH": "I would have lost"
+    },
+    "TU": {
+      "SPANISH": "habrías perdido",
+      "ENGLISH": "you would have lost"
+    },
+    "EL": {
+      "SPANISH": "habría perdido",
+      "ENGLISH": "s/he would have lost, you (formal) would have lost"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían perdido",
+      "ENGLISH": "they would have lost, you (plural formal) would have lost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos perdido",
+      "ENGLISH": "we would have lost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais perdido",
+      "ENGLISH": "you (plural) would have lost"
+    }
+  }
+}

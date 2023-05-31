@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "disfruto",
+      "ENGLISH": "I enjoy"
+    },
+    "TU": {
+      "SPANISH": "disfrutas",
+      "ENGLISH": "you enjoy"
+    },
+    "EL": {
+      "SPANISH": "disfruta",
+      "ENGLISH": "s/he enjoys, you (formal) enjoys"
+    },
+    "ELLOS": {
+      "SPANISH": "disfrutan",
+      "ENGLISH": "they enjoy, you (plural formal) enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disfrutamos",
+      "ENGLISH": "we enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disfrutáis",
+      "ENGLISH": "you (plural) enjoy"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he disfrutado",
+      "ENGLISH": "I have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "has disfrutado",
+      "ENGLISH": "you have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "ha disfrutado",
+      "ENGLISH": "s/he has enjoyed, you (formal) have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "han disfrutado",
+      "ENGLISH": "they have enjoyed, you (plural formal) have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos disfrutado",
+      "ENGLISH": "we have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis disfrutado",
+      "ENGLISH": "you (plural) have enjoyed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "disfruté",
+      "ENGLISH": "I enjoyed"
+    },
+    "TU": {
+      "SPANISH": "disfrutaste",
+      "ENGLISH": "you enjoyed"
+    },
+    "EL": {
+      "SPANISH": "disfrutó",
+      "ENGLISH": "s/he enjoyed, you (formal) enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "disfrutaron",
+      "ENGLISH": "they enjoyed, you (plural formal) enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disfrutamos",
+      "ENGLISH": "we enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disfrutasteis",
+      "ENGLISH": "you (plural) enjoyed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había disfrutado",
+      "ENGLISH": "I had enjoyed"
+    },
+    "TU": {
+      "SPANISH": "habías disfrutado",
+      "ENGLISH": "you had enjoyed"
+    },
+    "EL": {
+      "SPANISH": "había disfrutado",
+      "ENGLISH": "s/he had enjoyed, you (formal) had enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían disfrutado",
+      "ENGLISH": "they had enjoyed, you (plural formal) had enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos disfrutado",
+      "ENGLISH": "we had enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais disfrutado",
+      "ENGLISH": "you (plural) had enjoyed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "disfruté",
+      "ENGLISH": "I enjoyed"
+    },
+    "TU": {
+      "SPANISH": "disfrutaste",
+      "ENGLISH": "you enjoyed"
+    },
+    "EL": {
+      "SPANISH": "disfrutó",
+      "ENGLISH": "s/he enjoyed, you (formal) enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "disfrutaron",
+      "ENGLISH": "they enjoyed, you (plural formal) enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disfrutamos",
+      "ENGLISH": "we enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disfrutasteis",
+      "ENGLISH": "you (plural) enjoyed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "disfrutaré",
+      "ENGLISH": "I will enjoy"
+    },
+    "TU": {
+      "SPANISH": "disfrutarás",
+      "ENGLISH": "you will enjoy"
+    },
+    "EL": {
+      "SPANISH": "disfrutará",
+      "ENGLISH": "s/he will enjoy, you (formal) will enjoy"
+    },
+    "ELLOS": {
+      "SPANISH": "disfrutarán",
+      "ENGLISH": "they will enjoy, you (plural formal) will enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disfrutaremos",
+      "ENGLISH": "we will enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disfrutaréis",
+      "ENGLISH": "you (plural) will enjoy"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré disfrutado",
+      "ENGLISH": "I will have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "habrás disfrutado",
+      "ENGLISH": "you will have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "habrá disfrutado",
+      "ENGLISH": "s/he will have enjoyed, you (formal) will have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán disfrutado",
+      "ENGLISH": "they will have enjoyed, you (plural formal) will have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos disfrutado",
+      "ENGLISH": "we will have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis disfrutado",
+      "ENGLISH": "you (plural) will have enjoyed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "disfrutaría",
+      "ENGLISH": "I would enjoy"
+    },
+    "TU": {
+      "SPANISH": "disfrutarías",
+      "ENGLISH": "you would enjoy"
+    },
+    "EL": {
+      "SPANISH": "disfrutaría",
+      "ENGLISH": "s/he would enjoy, you (formal) would enjoy"
+    },
+    "ELLOS": {
+      "SPANISH": "disfrutarían",
+      "ENGLISH": "they would enjoy, you (plural formal) would enjoy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disfrutaríamos",
+      "ENGLISH": "we would enjoy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disfrutaríais",
+      "ENGLISH": "you (plural) would enjoy"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría disfrutado",
+      "ENGLISH": "I would have enjoyed"
+    },
+    "TU": {
+      "SPANISH": "habrías disfrutado",
+      "ENGLISH": "you would have enjoyed"
+    },
+    "EL": {
+      "SPANISH": "habría disfrutado",
+      "ENGLISH": "s/he would have enjoyed, you (formal) would have enjoyed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían disfrutado",
+      "ENGLISH": "they would have enjoyed, you (plural formal) would have enjoyed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos disfrutado",
+      "ENGLISH": "we would have enjoyed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais disfrutado",
+      "ENGLISH": "you (plural) would have enjoyed"
+    }
+  }
+}

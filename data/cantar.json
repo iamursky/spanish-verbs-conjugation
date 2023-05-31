@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "canto",
+      "ENGLISH": "I sing"
+    },
+    "TU": {
+      "SPANISH": "cantas",
+      "ENGLISH": "you sing"
+    },
+    "EL": {
+      "SPANISH": "canta",
+      "ENGLISH": "s/he sings, you (formal) sings"
+    },
+    "ELLOS": {
+      "SPANISH": "cantan",
+      "ENGLISH": "they sing, you (plural formal) sing"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cantamos",
+      "ENGLISH": "we sing"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cantáis",
+      "ENGLISH": "you (plural) sing"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cantado",
+      "ENGLISH": "I have sung"
+    },
+    "TU": {
+      "SPANISH": "has cantado",
+      "ENGLISH": "you have sung"
+    },
+    "EL": {
+      "SPANISH": "ha cantado",
+      "ENGLISH": "s/he has sung, you (formal) have sung"
+    },
+    "ELLOS": {
+      "SPANISH": "han cantado",
+      "ENGLISH": "they have sung, you (plural formal) have sung"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cantado",
+      "ENGLISH": "we have sung"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cantado",
+      "ENGLISH": "you (plural) have sung"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "canté",
+      "ENGLISH": "I sang"
+    },
+    "TU": {
+      "SPANISH": "cantaste",
+      "ENGLISH": "you sang"
+    },
+    "EL": {
+      "SPANISH": "cantó",
+      "ENGLISH": "s/he sang, you (formal) sang"
+    },
+    "ELLOS": {
+      "SPANISH": "cantaron",
+      "ENGLISH": "they sang, you (plural formal) sang"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cantamos",
+      "ENGLISH": "we sang"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cantasteis",
+      "ENGLISH": "you (plural) sang"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cantado",
+      "ENGLISH": "I had sung"
+    },
+    "TU": {
+      "SPANISH": "habías cantado",
+      "ENGLISH": "you had sung"
+    },
+    "EL": {
+      "SPANISH": "había cantado",
+      "ENGLISH": "s/he had sung, you (formal) had sung"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cantado",
+      "ENGLISH": "they had sung, you (plural formal) had sung"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cantado",
+      "ENGLISH": "we had sung"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cantado",
+      "ENGLISH": "you (plural) had sung"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "canté",
+      "ENGLISH": "I sang"
+    },
+    "TU": {
+      "SPANISH": "cantaste",
+      "ENGLISH": "you sang"
+    },
+    "EL": {
+      "SPANISH": "cantó",
+      "ENGLISH": "s/he sang, you (formal) sang"
+    },
+    "ELLOS": {
+      "SPANISH": "cantaron",
+      "ENGLISH": "they sang, you (plural formal) sang"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cantamos",
+      "ENGLISH": "we sang"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cantasteis",
+      "ENGLISH": "you (plural) sang"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cantaré",
+      "ENGLISH": "I will sing"
+    },
+    "TU": {
+      "SPANISH": "cantarás",
+      "ENGLISH": "you will sing"
+    },
+    "EL": {
+      "SPANISH": "cantará",
+      "ENGLISH": "s/he will sing, you (formal) will sing"
+    },
+    "ELLOS": {
+      "SPANISH": "cantarán",
+      "ENGLISH": "they will sing, you (plural formal) will sing"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cantaremos",
+      "ENGLISH": "we will sing"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cantaréis",
+      "ENGLISH": "you (plural) will sing"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cantado",
+      "ENGLISH": "I will have sung"
+    },
+    "TU": {
+      "SPANISH": "habrás cantado",
+      "ENGLISH": "you will have sung"
+    },
+    "EL": {
+      "SPANISH": "habrá cantado",
+      "ENGLISH": "s/he will have sung, you (formal) will have sung"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cantado",
+      "ENGLISH": "they will have sung, you (plural formal) will have sung"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cantado",
+      "ENGLISH": "we will have sung"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cantado",
+      "ENGLISH": "you (plural) will have sung"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cantaría",
+      "ENGLISH": "I would sing"
+    },
+    "TU": {
+      "SPANISH": "cantarías",
+      "ENGLISH": "you would sing"
+    },
+    "EL": {
+      "SPANISH": "cantaría",
+      "ENGLISH": "s/he would sing, you (formal) would sing"
+    },
+    "ELLOS": {
+      "SPANISH": "cantarían",
+      "ENGLISH": "they would sing, you (plural formal) would sing"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cantaríamos",
+      "ENGLISH": "we would sing"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cantaríais",
+      "ENGLISH": "you (plural) would sing"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cantado",
+      "ENGLISH": "I would have sung"
+    },
+    "TU": {
+      "SPANISH": "habrías cantado",
+      "ENGLISH": "you would have sung"
+    },
+    "EL": {
+      "SPANISH": "habría cantado",
+      "ENGLISH": "s/he would have sung, you (formal) would have sung"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cantado",
+      "ENGLISH": "they would have sung, you (plural formal) would have sung"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cantado",
+      "ENGLISH": "we would have sung"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cantado",
+      "ENGLISH": "you (plural) would have sung"
+    }
+  }
+}

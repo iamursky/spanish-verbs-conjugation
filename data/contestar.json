@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "contesto",
+      "ENGLISH": "I answer"
+    },
+    "TU": {
+      "SPANISH": "contestas",
+      "ENGLISH": "you answer"
+    },
+    "EL": {
+      "SPANISH": "contesta",
+      "ENGLISH": "s/he answers, you (formal) answers"
+    },
+    "ELLOS": {
+      "SPANISH": "contestan",
+      "ENGLISH": "they answer, you (plural formal) answer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contestamos",
+      "ENGLISH": "we answer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contestáis",
+      "ENGLISH": "you (plural) answer"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he contestado",
+      "ENGLISH": "I have answered"
+    },
+    "TU": {
+      "SPANISH": "has contestado",
+      "ENGLISH": "you have answered"
+    },
+    "EL": {
+      "SPANISH": "ha contestado",
+      "ENGLISH": "s/he has answered, you (formal) have answered"
+    },
+    "ELLOS": {
+      "SPANISH": "han contestado",
+      "ENGLISH": "they have answered, you (plural formal) have answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos contestado",
+      "ENGLISH": "we have answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis contestado",
+      "ENGLISH": "you (plural) have answered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "contesté",
+      "ENGLISH": "I answered"
+    },
+    "TU": {
+      "SPANISH": "contestaste",
+      "ENGLISH": "you answered"
+    },
+    "EL": {
+      "SPANISH": "contestó",
+      "ENGLISH": "s/he answered, you (formal) answered"
+    },
+    "ELLOS": {
+      "SPANISH": "contestaron",
+      "ENGLISH": "they answered, you (plural formal) answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contestamos",
+      "ENGLISH": "we answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contestasteis",
+      "ENGLISH": "you (plural) answered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había contestado",
+      "ENGLISH": "I had answered"
+    },
+    "TU": {
+      "SPANISH": "habías contestado",
+      "ENGLISH": "you had answered"
+    },
+    "EL": {
+      "SPANISH": "había contestado",
+      "ENGLISH": "s/he had answered, you (formal) had answered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían contestado",
+      "ENGLISH": "they had answered, you (plural formal) had answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos contestado",
+      "ENGLISH": "we had answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais contestado",
+      "ENGLISH": "you (plural) had answered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "contesté",
+      "ENGLISH": "I answered"
+    },
+    "TU": {
+      "SPANISH": "contestaste",
+      "ENGLISH": "you answered"
+    },
+    "EL": {
+      "SPANISH": "contestó",
+      "ENGLISH": "s/he answered, you (formal) answered"
+    },
+    "ELLOS": {
+      "SPANISH": "contestaron",
+      "ENGLISH": "they answered, you (plural formal) answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contestamos",
+      "ENGLISH": "we answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contestasteis",
+      "ENGLISH": "you (plural) answered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "contestaré",
+      "ENGLISH": "I will answer"
+    },
+    "TU": {
+      "SPANISH": "contestarás",
+      "ENGLISH": "you will answer"
+    },
+    "EL": {
+      "SPANISH": "contestará",
+      "ENGLISH": "s/he will answer, you (formal) will answer"
+    },
+    "ELLOS": {
+      "SPANISH": "contestarán",
+      "ENGLISH": "they will answer, you (plural formal) will answer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contestaremos",
+      "ENGLISH": "we will answer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contestaréis",
+      "ENGLISH": "you (plural) will answer"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré contestado",
+      "ENGLISH": "I will have answered"
+    },
+    "TU": {
+      "SPANISH": "habrás contestado",
+      "ENGLISH": "you will have answered"
+    },
+    "EL": {
+      "SPANISH": "habrá contestado",
+      "ENGLISH": "s/he will have answered, you (formal) will have answered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán contestado",
+      "ENGLISH": "they will have answered, you (plural formal) will have answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos contestado",
+      "ENGLISH": "we will have answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis contestado",
+      "ENGLISH": "you (plural) will have answered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "contestaría",
+      "ENGLISH": "I would answer"
+    },
+    "TU": {
+      "SPANISH": "contestarías",
+      "ENGLISH": "you would answer"
+    },
+    "EL": {
+      "SPANISH": "contestaría",
+      "ENGLISH": "s/he would answer, you (formal) would answer"
+    },
+    "ELLOS": {
+      "SPANISH": "contestarían",
+      "ENGLISH": "they would answer, you (plural formal) would answer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contestaríamos",
+      "ENGLISH": "we would answer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contestaríais",
+      "ENGLISH": "you (plural) would answer"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría contestado",
+      "ENGLISH": "I would have answered"
+    },
+    "TU": {
+      "SPANISH": "habrías contestado",
+      "ENGLISH": "you would have answered"
+    },
+    "EL": {
+      "SPANISH": "habría contestado",
+      "ENGLISH": "s/he would have answered, you (formal) would have answered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían contestado",
+      "ENGLISH": "they would have answered, you (plural formal) would have answered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos contestado",
+      "ENGLISH": "we would have answered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais contestado",
+      "ENGLISH": "you (plural) would have answered"
+    }
+  }
+}

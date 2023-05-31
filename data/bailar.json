@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "bailo",
+      "ENGLISH": "I dance"
+    },
+    "TU": {
+      "SPANISH": "bailas",
+      "ENGLISH": "you dance"
+    },
+    "EL": {
+      "SPANISH": "baila",
+      "ENGLISH": "s/he dances, you (formal) dances"
+    },
+    "ELLOS": {
+      "SPANISH": "bailan",
+      "ENGLISH": "they dance, you (plural formal) dance"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bailamos",
+      "ENGLISH": "we dance"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bailáis",
+      "ENGLISH": "you (plural) dance"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he bailado",
+      "ENGLISH": "I have danced"
+    },
+    "TU": {
+      "SPANISH": "has bailado",
+      "ENGLISH": "you have danced"
+    },
+    "EL": {
+      "SPANISH": "ha bailado",
+      "ENGLISH": "s/he has danced, you (formal) have danced"
+    },
+    "ELLOS": {
+      "SPANISH": "han bailado",
+      "ENGLISH": "they have danced, you (plural formal) have danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos bailado",
+      "ENGLISH": "we have danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis bailado",
+      "ENGLISH": "you (plural) have danced"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "bailé",
+      "ENGLISH": "I danced"
+    },
+    "TU": {
+      "SPANISH": "bailaste",
+      "ENGLISH": "you danced"
+    },
+    "EL": {
+      "SPANISH": "bailó",
+      "ENGLISH": "s/he danced, you (formal) danced"
+    },
+    "ELLOS": {
+      "SPANISH": "bailaron",
+      "ENGLISH": "they danced, you (plural formal) danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bailamos",
+      "ENGLISH": "we danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bailasteis",
+      "ENGLISH": "you (plural) danced"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había bailado",
+      "ENGLISH": "I had danced"
+    },
+    "TU": {
+      "SPANISH": "habías bailado",
+      "ENGLISH": "you had danced"
+    },
+    "EL": {
+      "SPANISH": "había bailado",
+      "ENGLISH": "s/he had danced, you (formal) had danced"
+    },
+    "ELLOS": {
+      "SPANISH": "habían bailado",
+      "ENGLISH": "they had danced, you (plural formal) had danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos bailado",
+      "ENGLISH": "we had danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais bailado",
+      "ENGLISH": "you (plural) had danced"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "bailé",
+      "ENGLISH": "I danced"
+    },
+    "TU": {
+      "SPANISH": "bailaste",
+      "ENGLISH": "you danced"
+    },
+    "EL": {
+      "SPANISH": "bailó",
+      "ENGLISH": "s/he danced, you (formal) danced"
+    },
+    "ELLOS": {
+      "SPANISH": "bailaron",
+      "ENGLISH": "they danced, you (plural formal) danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bailamos",
+      "ENGLISH": "we danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bailasteis",
+      "ENGLISH": "you (plural) danced"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "bailaré",
+      "ENGLISH": "I will dance"
+    },
+    "TU": {
+      "SPANISH": "bailarás",
+      "ENGLISH": "you will dance"
+    },
+    "EL": {
+      "SPANISH": "bailará",
+      "ENGLISH": "s/he will dance, you (formal) will dance"
+    },
+    "ELLOS": {
+      "SPANISH": "bailarán",
+      "ENGLISH": "they will dance, you (plural formal) will dance"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bailaremos",
+      "ENGLISH": "we will dance"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bailaréis",
+      "ENGLISH": "you (plural) will dance"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré bailado",
+      "ENGLISH": "I will have danced"
+    },
+    "TU": {
+      "SPANISH": "habrás bailado",
+      "ENGLISH": "you will have danced"
+    },
+    "EL": {
+      "SPANISH": "habrá bailado",
+      "ENGLISH": "s/he will have danced, you (formal) will have danced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán bailado",
+      "ENGLISH": "they will have danced, you (plural formal) will have danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos bailado",
+      "ENGLISH": "we will have danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis bailado",
+      "ENGLISH": "you (plural) will have danced"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "bailaría",
+      "ENGLISH": "I would dance"
+    },
+    "TU": {
+      "SPANISH": "bailarías",
+      "ENGLISH": "you would dance"
+    },
+    "EL": {
+      "SPANISH": "bailaría",
+      "ENGLISH": "s/he would dance, you (formal) would dance"
+    },
+    "ELLOS": {
+      "SPANISH": "bailarían",
+      "ENGLISH": "they would dance, you (plural formal) would dance"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bailaríamos",
+      "ENGLISH": "we would dance"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bailaríais",
+      "ENGLISH": "you (plural) would dance"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría bailado",
+      "ENGLISH": "I would have danced"
+    },
+    "TU": {
+      "SPANISH": "habrías bailado",
+      "ENGLISH": "you would have danced"
+    },
+    "EL": {
+      "SPANISH": "habría bailado",
+      "ENGLISH": "s/he would have danced, you (formal) would have danced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían bailado",
+      "ENGLISH": "they would have danced, you (plural formal) would have danced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos bailado",
+      "ENGLISH": "we would have danced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais bailado",
+      "ENGLISH": "you (plural) would have danced"
+    }
+  }
+}

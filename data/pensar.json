@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "pienso ",
+      "ENGLISH": "I think"
+    },
+    "TU": {
+      "SPANISH": "piensas ",
+      "ENGLISH": "you think"
+    },
+    "EL": {
+      "SPANISH": "piensa ",
+      "ENGLISH": "s/he thinks, you (formal) thinks"
+    },
+    "ELLOS": {
+      "SPANISH": "piensan ",
+      "ENGLISH": "they think, you (plural formal) think"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pensamos",
+      "ENGLISH": "we think"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pensáis",
+      "ENGLISH": "you (plural) think"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he pensado",
+      "ENGLISH": "I have thought"
+    },
+    "TU": {
+      "SPANISH": "has pensado",
+      "ENGLISH": "you have thought"
+    },
+    "EL": {
+      "SPANISH": "ha pensado",
+      "ENGLISH": "s/he has thought, you (formal) have thought"
+    },
+    "ELLOS": {
+      "SPANISH": "han pensado",
+      "ENGLISH": "they have thought, you (plural formal) have thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos pensado",
+      "ENGLISH": "we have thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis pensado",
+      "ENGLISH": "you (plural) have thought"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "pensé",
+      "ENGLISH": "I thought"
+    },
+    "TU": {
+      "SPANISH": "pensaste",
+      "ENGLISH": "you thought"
+    },
+    "EL": {
+      "SPANISH": "pensó",
+      "ENGLISH": "s/he thought, you (formal) thought"
+    },
+    "ELLOS": {
+      "SPANISH": "pensaron",
+      "ENGLISH": "they thought, you (plural formal) thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pensamos",
+      "ENGLISH": "we thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pensasteis",
+      "ENGLISH": "you (plural) thought"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había pensado",
+      "ENGLISH": "I had thought"
+    },
+    "TU": {
+      "SPANISH": "habías pensado",
+      "ENGLISH": "you had thought"
+    },
+    "EL": {
+      "SPANISH": "había pensado",
+      "ENGLISH": "s/he had thought, you (formal) had thought"
+    },
+    "ELLOS": {
+      "SPANISH": "habían pensado",
+      "ENGLISH": "they had thought, you (plural formal) had thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos pensado",
+      "ENGLISH": "we had thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais pensado",
+      "ENGLISH": "you (plural) had thought"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "pensé",
+      "ENGLISH": "I thought"
+    },
+    "TU": {
+      "SPANISH": "pensaste",
+      "ENGLISH": "you thought"
+    },
+    "EL": {
+      "SPANISH": "pensó",
+      "ENGLISH": "s/he thought, you (formal) thought"
+    },
+    "ELLOS": {
+      "SPANISH": "pensaron",
+      "ENGLISH": "they thought, you (plural formal) thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pensamos",
+      "ENGLISH": "we thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pensasteis",
+      "ENGLISH": "you (plural) thought"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "pensaré",
+      "ENGLISH": "I will think"
+    },
+    "TU": {
+      "SPANISH": "pensarás",
+      "ENGLISH": "you will think"
+    },
+    "EL": {
+      "SPANISH": "pensará",
+      "ENGLISH": "s/he will think, you (formal) will think"
+    },
+    "ELLOS": {
+      "SPANISH": "pensarán",
+      "ENGLISH": "they will think, you (plural formal) will think"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pensaremos",
+      "ENGLISH": "we will think"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pensaréis",
+      "ENGLISH": "you (plural) will think"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré pensado",
+      "ENGLISH": "I will have thought"
+    },
+    "TU": {
+      "SPANISH": "habrás pensado",
+      "ENGLISH": "you will have thought"
+    },
+    "EL": {
+      "SPANISH": "habrá pensado",
+      "ENGLISH": "s/he will have thought, you (formal) will have thought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán pensado",
+      "ENGLISH": "they will have thought, you (plural formal) will have thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos pensado",
+      "ENGLISH": "we will have thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis pensado",
+      "ENGLISH": "you (plural) will have thought"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "pensaría",
+      "ENGLISH": "I would think"
+    },
+    "TU": {
+      "SPANISH": "pensarías",
+      "ENGLISH": "you would think"
+    },
+    "EL": {
+      "SPANISH": "pensaría",
+      "ENGLISH": "s/he would think, you (formal) would think"
+    },
+    "ELLOS": {
+      "SPANISH": "pensarían",
+      "ENGLISH": "they would think, you (plural formal) would think"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pensaríamos",
+      "ENGLISH": "we would think"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pensaríais",
+      "ENGLISH": "you (plural) would think"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría pensado",
+      "ENGLISH": "I would have thought"
+    },
+    "TU": {
+      "SPANISH": "habrías pensado",
+      "ENGLISH": "you would have thought"
+    },
+    "EL": {
+      "SPANISH": "habría pensado",
+      "ENGLISH": "s/he would have thought, you (formal) would have thought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían pensado",
+      "ENGLISH": "they would have thought, you (plural formal) would have thought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos pensado",
+      "ENGLISH": "we would have thought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais pensado",
+      "ENGLISH": "you (plural) would have thought"
+    }
+  }
+}

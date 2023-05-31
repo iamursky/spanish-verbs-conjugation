@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me aseguro",
+      "ENGLISH": "I ensure"
+    },
+    "TU": {
+      "SPANISH": "te aseguras",
+      "ENGLISH": "you ensure"
+    },
+    "EL": {
+      "SPANISH": "se asegura",
+      "ENGLISH": "s/he ensures, you (formal) ensures"
+    },
+    "ELLOS": {
+      "SPANISH": "se aseguran",
+      "ENGLISH": "they ensure, you (plural formal) ensure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos aseguramos",
+      "ENGLISH": "we ensure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os aseguráis",
+      "ENGLISH": "you (plural) ensure"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he asegurado",
+      "ENGLISH": "I have ensured"
+    },
+    "TU": {
+      "SPANISH": "te has asegurado",
+      "ENGLISH": "you have ensured"
+    },
+    "EL": {
+      "SPANISH": "se ha asegurado",
+      "ENGLISH": "s/he has ensured, you (formal) have ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se han asegurado",
+      "ENGLISH": "they have ensured, you (plural formal) have ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos asegurado",
+      "ENGLISH": "we have ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis asegurado",
+      "ENGLISH": "you (plural) have ensured"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me aseguré",
+      "ENGLISH": "I ensured"
+    },
+    "TU": {
+      "SPANISH": "te aseguraste",
+      "ENGLISH": "you ensured"
+    },
+    "EL": {
+      "SPANISH": "se aseguró",
+      "ENGLISH": "s/he ensured, you (formal) ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se aseguraron",
+      "ENGLISH": "they ensured, you (plural formal) ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos aseguramos",
+      "ENGLISH": "we ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os asegurasteis",
+      "ENGLISH": "you (plural) ensured"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había asegurado",
+      "ENGLISH": "I had ensured"
+    },
+    "TU": {
+      "SPANISH": "te habías asegurado",
+      "ENGLISH": "you had ensured"
+    },
+    "EL": {
+      "SPANISH": "se había asegurado",
+      "ENGLISH": "s/he had ensured, you (formal) had ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían asegurado",
+      "ENGLISH": "they had ensured, you (plural formal) had ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos asegurado",
+      "ENGLISH": "we had ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais asegurado",
+      "ENGLISH": "you (plural) had ensured"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me aseguré",
+      "ENGLISH": "I ensured"
+    },
+    "TU": {
+      "SPANISH": "te aseguraste",
+      "ENGLISH": "you ensured"
+    },
+    "EL": {
+      "SPANISH": "se aseguró",
+      "ENGLISH": "s/he ensured, you (formal) ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se aseguraron",
+      "ENGLISH": "they ensured, you (plural formal) ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos aseguramos",
+      "ENGLISH": "we ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os asegurasteis",
+      "ENGLISH": "you (plural) ensured"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me aseguraré",
+      "ENGLISH": "I will ensure"
+    },
+    "TU": {
+      "SPANISH": "te asegurarás",
+      "ENGLISH": "you will ensure"
+    },
+    "EL": {
+      "SPANISH": "se asegurará",
+      "ENGLISH": "s/he will ensure, you (formal) will ensure"
+    },
+    "ELLOS": {
+      "SPANISH": "se asegurarán",
+      "ENGLISH": "they will ensure, you (plural formal) will ensure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos aseguraremos",
+      "ENGLISH": "we will ensure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os aseguraréis",
+      "ENGLISH": "you (plural) will ensure"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré asegurado",
+      "ENGLISH": "I will have ensured"
+    },
+    "TU": {
+      "SPANISH": "te habrás asegurado",
+      "ENGLISH": "you will have ensured"
+    },
+    "EL": {
+      "SPANISH": "se habrá asegurado",
+      "ENGLISH": "s/he will have ensured, you (formal) will have ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán asegurado",
+      "ENGLISH": "they will have ensured, you (plural formal) will have ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos asegurado",
+      "ENGLISH": "we will have ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis asegurado",
+      "ENGLISH": "you (plural) will have ensured"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me aseguraría",
+      "ENGLISH": "I would ensure"
+    },
+    "TU": {
+      "SPANISH": "te asegurarías",
+      "ENGLISH": "you would ensure"
+    },
+    "EL": {
+      "SPANISH": "se aseguraría",
+      "ENGLISH": "s/he would ensure, you (formal) would ensure"
+    },
+    "ELLOS": {
+      "SPANISH": "se asegurarían",
+      "ENGLISH": "they would ensure, you (plural formal) would ensure"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos aseguraríamos",
+      "ENGLISH": "we would ensure"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os aseguraríais",
+      "ENGLISH": "you (plural) would ensure"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría asegurado",
+      "ENGLISH": "I would have ensured"
+    },
+    "TU": {
+      "SPANISH": "te habrías asegurado",
+      "ENGLISH": "you would have ensured"
+    },
+    "EL": {
+      "SPANISH": "se habría asegurado",
+      "ENGLISH": "s/he would have ensured, you (formal) would have ensured"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían asegurado",
+      "ENGLISH": "they would have ensured, you (plural formal) would have ensured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos asegurado",
+      "ENGLISH": "we would have ensured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais asegurado",
+      "ENGLISH": "you (plural) would have ensured"
+    }
+  }
+}

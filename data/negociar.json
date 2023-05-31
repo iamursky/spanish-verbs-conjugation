@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "negocio",
+      "ENGLISH": "I negotiate"
+    },
+    "TU": {
+      "SPANISH": "negocias",
+      "ENGLISH": "you negotiate"
+    },
+    "EL": {
+      "SPANISH": "negocia",
+      "ENGLISH": "s/he negotiates, you (formal) negotiates"
+    },
+    "ELLOS": {
+      "SPANISH": "negocian",
+      "ENGLISH": "they negotiate, you (plural formal) negotiate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "negociamos",
+      "ENGLISH": "we negotiate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "negociáis",
+      "ENGLISH": "you (plural) negotiate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he negociado",
+      "ENGLISH": "I have negotiated"
+    },
+    "TU": {
+      "SPANISH": "has negociado",
+      "ENGLISH": "you have negotiated"
+    },
+    "EL": {
+      "SPANISH": "ha negociado",
+      "ENGLISH": "s/he has negotiated, you (formal) have negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "han negociado",
+      "ENGLISH": "they have negotiated, you (plural formal) have negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos negociado",
+      "ENGLISH": "we have negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis negociado",
+      "ENGLISH": "you (plural) have negotiated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "negocié",
+      "ENGLISH": "I negotiated"
+    },
+    "TU": {
+      "SPANISH": "negociaste",
+      "ENGLISH": "you negotiated"
+    },
+    "EL": {
+      "SPANISH": "negoció",
+      "ENGLISH": "s/he negotiated, you (formal) negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "negociaron",
+      "ENGLISH": "they negotiated, you (plural formal) negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "negociamos",
+      "ENGLISH": "we negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "negociasteis",
+      "ENGLISH": "you (plural) negotiated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había negociado",
+      "ENGLISH": "I had negotiated"
+    },
+    "TU": {
+      "SPANISH": "habías negociado",
+      "ENGLISH": "you had negotiated"
+    },
+    "EL": {
+      "SPANISH": "había negociado",
+      "ENGLISH": "s/he had negotiated, you (formal) had negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían negociado",
+      "ENGLISH": "they had negotiated, you (plural formal) had negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos negociado",
+      "ENGLISH": "we had negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais negociado",
+      "ENGLISH": "you (plural) had negotiated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "negocié",
+      "ENGLISH": "I negotiated"
+    },
+    "TU": {
+      "SPANISH": "negociaste",
+      "ENGLISH": "you negotiated"
+    },
+    "EL": {
+      "SPANISH": "negoció",
+      "ENGLISH": "s/he negotiated, you (formal) negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "negociaron",
+      "ENGLISH": "they negotiated, you (plural formal) negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "negociamos",
+      "ENGLISH": "we negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "negociasteis",
+      "ENGLISH": "you (plural) negotiated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "negociaré",
+      "ENGLISH": "I will negotiate"
+    },
+    "TU": {
+      "SPANISH": "negociarás",
+      "ENGLISH": "you will negotiate"
+    },
+    "EL": {
+      "SPANISH": "negociará",
+      "ENGLISH": "s/he will negotiate, you (formal) will negotiate"
+    },
+    "ELLOS": {
+      "SPANISH": "negociarán",
+      "ENGLISH": "they will negotiate, you (plural formal) will negotiate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "negociaremos",
+      "ENGLISH": "we will negotiate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "negociaréis",
+      "ENGLISH": "you (plural) will negotiate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré negociado",
+      "ENGLISH": "I will have negotiated"
+    },
+    "TU": {
+      "SPANISH": "habrás negociado",
+      "ENGLISH": "you will have negotiated"
+    },
+    "EL": {
+      "SPANISH": "habrá negociado",
+      "ENGLISH": "s/he will have negotiated, you (formal) will have negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán negociado",
+      "ENGLISH": "they will have negotiated, you (plural formal) will have negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos negociado",
+      "ENGLISH": "we will have negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis negociado",
+      "ENGLISH": "you (plural) will have negotiated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "negociaría",
+      "ENGLISH": "I would negotiate"
+    },
+    "TU": {
+      "SPANISH": "negociarías",
+      "ENGLISH": "you would negotiate"
+    },
+    "EL": {
+      "SPANISH": "negociaría",
+      "ENGLISH": "s/he would negotiate, you (formal) would negotiate"
+    },
+    "ELLOS": {
+      "SPANISH": "negociarían",
+      "ENGLISH": "they would negotiate, you (plural formal) would negotiate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "negociaríamos",
+      "ENGLISH": "we would negotiate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "negociaríais",
+      "ENGLISH": "you (plural) would negotiate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría negociado",
+      "ENGLISH": "I would have negotiated"
+    },
+    "TU": {
+      "SPANISH": "habrías negociado",
+      "ENGLISH": "you would have negotiated"
+    },
+    "EL": {
+      "SPANISH": "habría negociado",
+      "ENGLISH": "s/he would have negotiated, you (formal) would have negotiated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían negociado",
+      "ENGLISH": "they would have negotiated, you (plural formal) would have negotiated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos negociado",
+      "ENGLISH": "we would have negotiated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais negociado",
+      "ENGLISH": "you (plural) would have negotiated"
+    }
+  }
+}

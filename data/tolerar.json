@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "tolero",
+      "ENGLISH": "I tolerate"
+    },
+    "TU": {
+      "SPANISH": "toleras",
+      "ENGLISH": "you tolerate"
+    },
+    "EL": {
+      "SPANISH": "tolera",
+      "ENGLISH": "s/he tolerates, you (formal) tolerates"
+    },
+    "ELLOS": {
+      "SPANISH": "toleran",
+      "ENGLISH": "they tolerate, you (plural formal) tolerate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "toleramos",
+      "ENGLISH": "we tolerate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "toleráis",
+      "ENGLISH": "you (plural) tolerate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he tolerado",
+      "ENGLISH": "I have tolerated"
+    },
+    "TU": {
+      "SPANISH": "has tolerado",
+      "ENGLISH": "you have tolerated"
+    },
+    "EL": {
+      "SPANISH": "ha tolerado",
+      "ENGLISH": "s/he has tolerated, you (formal) have tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "han tolerado",
+      "ENGLISH": "they have tolerated, you (plural formal) have tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos tolerado",
+      "ENGLISH": "we have tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis tolerado",
+      "ENGLISH": "you (plural) have tolerated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "toleré",
+      "ENGLISH": "I tolerated"
+    },
+    "TU": {
+      "SPANISH": "toleraste",
+      "ENGLISH": "you tolerated"
+    },
+    "EL": {
+      "SPANISH": "toleró",
+      "ENGLISH": "s/he tolerated, you (formal) tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "toleraron",
+      "ENGLISH": "they tolerated, you (plural formal) tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "toleramos",
+      "ENGLISH": "we tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tolerasteis",
+      "ENGLISH": "you (plural) tolerated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había tolerado",
+      "ENGLISH": "I had tolerated"
+    },
+    "TU": {
+      "SPANISH": "habías tolerado",
+      "ENGLISH": "you had tolerated"
+    },
+    "EL": {
+      "SPANISH": "había tolerado",
+      "ENGLISH": "s/he had tolerated, you (formal) had tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían tolerado",
+      "ENGLISH": "they had tolerated, you (plural formal) had tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos tolerado",
+      "ENGLISH": "we had tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais tolerado",
+      "ENGLISH": "you (plural) had tolerated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "toleré",
+      "ENGLISH": "I tolerated"
+    },
+    "TU": {
+      "SPANISH": "toleraste",
+      "ENGLISH": "you tolerated"
+    },
+    "EL": {
+      "SPANISH": "toleró",
+      "ENGLISH": "s/he tolerated, you (formal) tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "toleraron",
+      "ENGLISH": "they tolerated, you (plural formal) tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "toleramos",
+      "ENGLISH": "we tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tolerasteis",
+      "ENGLISH": "you (plural) tolerated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "toleraré",
+      "ENGLISH": "I will tolerate"
+    },
+    "TU": {
+      "SPANISH": "tolerarás",
+      "ENGLISH": "you will tolerate"
+    },
+    "EL": {
+      "SPANISH": "tolerará",
+      "ENGLISH": "s/he will tolerate, you (formal) will tolerate"
+    },
+    "ELLOS": {
+      "SPANISH": "tolerarán",
+      "ENGLISH": "they will tolerate, you (plural formal) will tolerate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "toleraremos",
+      "ENGLISH": "we will tolerate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "toleraréis",
+      "ENGLISH": "you (plural) will tolerate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré tolerado",
+      "ENGLISH": "I will have tolerated"
+    },
+    "TU": {
+      "SPANISH": "habrás tolerado",
+      "ENGLISH": "you will have tolerated"
+    },
+    "EL": {
+      "SPANISH": "habrá tolerado",
+      "ENGLISH": "s/he will have tolerated, you (formal) will have tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán tolerado",
+      "ENGLISH": "they will have tolerated, you (plural formal) will have tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos tolerado",
+      "ENGLISH": "we will have tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis tolerado",
+      "ENGLISH": "you (plural) will have tolerated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "toleraría",
+      "ENGLISH": "I would tolerate"
+    },
+    "TU": {
+      "SPANISH": "tolerarías",
+      "ENGLISH": "you would tolerate"
+    },
+    "EL": {
+      "SPANISH": "toleraría",
+      "ENGLISH": "s/he would tolerate, you (formal) would tolerate"
+    },
+    "ELLOS": {
+      "SPANISH": "tolerarían",
+      "ENGLISH": "they would tolerate, you (plural formal) would tolerate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "toleraríamos",
+      "ENGLISH": "we would tolerate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "toleraríais",
+      "ENGLISH": "you (plural) would tolerate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría tolerado",
+      "ENGLISH": "I would have tolerated"
+    },
+    "TU": {
+      "SPANISH": "habrías tolerado",
+      "ENGLISH": "you would have tolerated"
+    },
+    "EL": {
+      "SPANISH": "habría tolerado",
+      "ENGLISH": "s/he would have tolerated, you (formal) would have tolerated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían tolerado",
+      "ENGLISH": "they would have tolerated, you (plural formal) would have tolerated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos tolerado",
+      "ENGLISH": "we would have tolerated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais tolerado",
+      "ENGLISH": "you (plural) would have tolerated"
+    }
+  }
+}

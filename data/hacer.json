@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "hago ",
+      "ENGLISH": "I do"
+    },
+    "TU": {
+      "SPANISH": "haces",
+      "ENGLISH": "you do"
+    },
+    "EL": {
+      "SPANISH": "hace",
+      "ENGLISH": "s/he does, you (formal) does"
+    },
+    "ELLOS": {
+      "SPANISH": "hacen",
+      "ENGLISH": "they do, you (plural formal) do"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hacemos",
+      "ENGLISH": "we do"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hacéis",
+      "ENGLISH": "you (plural) do"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he hecho ",
+      "ENGLISH": "I have done"
+    },
+    "TU": {
+      "SPANISH": "has hecho ",
+      "ENGLISH": "you have done"
+    },
+    "EL": {
+      "SPANISH": "ha hecho ",
+      "ENGLISH": "s/he has done, you (formal) have done"
+    },
+    "ELLOS": {
+      "SPANISH": "han hecho ",
+      "ENGLISH": "they have done, you (plural formal) have done"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos hecho ",
+      "ENGLISH": "we have done"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis hecho ",
+      "ENGLISH": "you (plural) have done"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "hice ",
+      "ENGLISH": "I did"
+    },
+    "TU": {
+      "SPANISH": "hiciste ",
+      "ENGLISH": "you did"
+    },
+    "EL": {
+      "SPANISH": "hizo ",
+      "ENGLISH": "s/he did, you (formal) did"
+    },
+    "ELLOS": {
+      "SPANISH": "hicieron ",
+      "ENGLISH": "they did, you (plural formal) did"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hicimos ",
+      "ENGLISH": "we did"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hicisteis ",
+      "ENGLISH": "you (plural) did"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había hecho ",
+      "ENGLISH": "I had done"
+    },
+    "TU": {
+      "SPANISH": "habías hecho ",
+      "ENGLISH": "you had done"
+    },
+    "EL": {
+      "SPANISH": "había hecho ",
+      "ENGLISH": "s/he had done, you (formal) had done"
+    },
+    "ELLOS": {
+      "SPANISH": "habían hecho ",
+      "ENGLISH": "they had done, you (plural formal) had done"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos hecho ",
+      "ENGLISH": "we had done"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais hecho ",
+      "ENGLISH": "you (plural) had done"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "hice ",
+      "ENGLISH": "I did"
+    },
+    "TU": {
+      "SPANISH": "hiciste ",
+      "ENGLISH": "you did"
+    },
+    "EL": {
+      "SPANISH": "hizo ",
+      "ENGLISH": "s/he did, you (formal) did"
+    },
+    "ELLOS": {
+      "SPANISH": "hicieron ",
+      "ENGLISH": "they did, you (plural formal) did"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hicimos ",
+      "ENGLISH": "we did"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hicisteis ",
+      "ENGLISH": "you (plural) did"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "haré ",
+      "ENGLISH": "I will do"
+    },
+    "TU": {
+      "SPANISH": "harás ",
+      "ENGLISH": "you will do"
+    },
+    "EL": {
+      "SPANISH": "hará ",
+      "ENGLISH": "s/he will do, you (formal) will do"
+    },
+    "ELLOS": {
+      "SPANISH": "harán ",
+      "ENGLISH": "they will do, you (plural formal) will do"
+    },
+    "NOSOTROS": {
+      "SPANISH": "haremos ",
+      "ENGLISH": "we will do"
+    },
+    "VOSOTROS": {
+      "SPANISH": "haréis ",
+      "ENGLISH": "you (plural) will do"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré hecho ",
+      "ENGLISH": "I will have done"
+    },
+    "TU": {
+      "SPANISH": "habrás hecho ",
+      "ENGLISH": "you will have done"
+    },
+    "EL": {
+      "SPANISH": "habrá hecho ",
+      "ENGLISH": "s/he will have done, you (formal) will have done"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán hecho ",
+      "ENGLISH": "they will have done, you (plural formal) will have done"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos hecho ",
+      "ENGLISH": "we will have done"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis hecho ",
+      "ENGLISH": "you (plural) will have done"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "haría ",
+      "ENGLISH": "I would do"
+    },
+    "TU": {
+      "SPANISH": "harías ",
+      "ENGLISH": "you would do"
+    },
+    "EL": {
+      "SPANISH": "haría ",
+      "ENGLISH": "s/he would do, you (formal) would do"
+    },
+    "ELLOS": {
+      "SPANISH": "harían ",
+      "ENGLISH": "they would do, you (plural formal) would do"
+    },
+    "NOSOTROS": {
+      "SPANISH": "haríamos ",
+      "ENGLISH": "we would do"
+    },
+    "VOSOTROS": {
+      "SPANISH": "haríais ",
+      "ENGLISH": "you (plural) would do"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría hecho ",
+      "ENGLISH": "I would have done"
+    },
+    "TU": {
+      "SPANISH": "habrías hecho ",
+      "ENGLISH": "you would have done"
+    },
+    "EL": {
+      "SPANISH": "habría hecho ",
+      "ENGLISH": "s/he would have done, you (formal) would have done"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían hecho ",
+      "ENGLISH": "they would have done, you (plural formal) would have done"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos hecho ",
+      "ENGLISH": "we would have done"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais hecho ",
+      "ENGLISH": "you (plural) would have done"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "planto",
+      "ENGLISH": "I plant"
+    },
+    "TU": {
+      "SPANISH": "plantas",
+      "ENGLISH": "you plant"
+    },
+    "EL": {
+      "SPANISH": "planta",
+      "ENGLISH": "s/he plants, you (formal) plants"
+    },
+    "ELLOS": {
+      "SPANISH": "plantan",
+      "ENGLISH": "they plant, you (plural formal) plant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "plantamos",
+      "ENGLISH": "we plant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "plantáis",
+      "ENGLISH": "you (plural) plant"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he plantado",
+      "ENGLISH": "I have planted"
+    },
+    "TU": {
+      "SPANISH": "has plantado",
+      "ENGLISH": "you have planted"
+    },
+    "EL": {
+      "SPANISH": "ha plantado",
+      "ENGLISH": "s/he has planted, you (formal) have planted"
+    },
+    "ELLOS": {
+      "SPANISH": "han plantado",
+      "ENGLISH": "they have planted, you (plural formal) have planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos plantado",
+      "ENGLISH": "we have planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis plantado",
+      "ENGLISH": "you (plural) have planted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "planté",
+      "ENGLISH": "I planted"
+    },
+    "TU": {
+      "SPANISH": "plantaste",
+      "ENGLISH": "you planted"
+    },
+    "EL": {
+      "SPANISH": "plantó",
+      "ENGLISH": "s/he planted, you (formal) planted"
+    },
+    "ELLOS": {
+      "SPANISH": "plantaron",
+      "ENGLISH": "they planted, you (plural formal) planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "plantamos",
+      "ENGLISH": "we planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "plantasteis",
+      "ENGLISH": "you (plural) planted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había plantado",
+      "ENGLISH": "I had planted"
+    },
+    "TU": {
+      "SPANISH": "habías plantado",
+      "ENGLISH": "you had planted"
+    },
+    "EL": {
+      "SPANISH": "había plantado",
+      "ENGLISH": "s/he had planted, you (formal) had planted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían plantado",
+      "ENGLISH": "they had planted, you (plural formal) had planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos plantado",
+      "ENGLISH": "we had planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais plantado",
+      "ENGLISH": "you (plural) had planted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "planté",
+      "ENGLISH": "I planted"
+    },
+    "TU": {
+      "SPANISH": "plantaste",
+      "ENGLISH": "you planted"
+    },
+    "EL": {
+      "SPANISH": "plantó",
+      "ENGLISH": "s/he planted, you (formal) planted"
+    },
+    "ELLOS": {
+      "SPANISH": "plantaron",
+      "ENGLISH": "they planted, you (plural formal) planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "plantamos",
+      "ENGLISH": "we planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "plantasteis",
+      "ENGLISH": "you (plural) planted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "plantaré",
+      "ENGLISH": "I will plant"
+    },
+    "TU": {
+      "SPANISH": "plantarás",
+      "ENGLISH": "you will plant"
+    },
+    "EL": {
+      "SPANISH": "plantará",
+      "ENGLISH": "s/he will plant, you (formal) will plant"
+    },
+    "ELLOS": {
+      "SPANISH": "plantarán",
+      "ENGLISH": "they will plant, you (plural formal) will plant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "plantaremos",
+      "ENGLISH": "we will plant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "plantaréis",
+      "ENGLISH": "you (plural) will plant"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré plantado",
+      "ENGLISH": "I will have planted"
+    },
+    "TU": {
+      "SPANISH": "habrás plantado",
+      "ENGLISH": "you will have planted"
+    },
+    "EL": {
+      "SPANISH": "habrá plantado",
+      "ENGLISH": "s/he will have planted, you (formal) will have planted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán plantado",
+      "ENGLISH": "they will have planted, you (plural formal) will have planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos plantado",
+      "ENGLISH": "we will have planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis plantado",
+      "ENGLISH": "you (plural) will have planted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "plantaría",
+      "ENGLISH": "I would plant"
+    },
+    "TU": {
+      "SPANISH": "plantarías",
+      "ENGLISH": "you would plant"
+    },
+    "EL": {
+      "SPANISH": "plantaría",
+      "ENGLISH": "s/he would plant, you (formal) would plant"
+    },
+    "ELLOS": {
+      "SPANISH": "plantarían",
+      "ENGLISH": "they would plant, you (plural formal) would plant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "plantaríamos",
+      "ENGLISH": "we would plant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "plantaríais",
+      "ENGLISH": "you (plural) would plant"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría plantado",
+      "ENGLISH": "I would have planted"
+    },
+    "TU": {
+      "SPANISH": "habrías plantado",
+      "ENGLISH": "you would have planted"
+    },
+    "EL": {
+      "SPANISH": "habría plantado",
+      "ENGLISH": "s/he would have planted, you (formal) would have planted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían plantado",
+      "ENGLISH": "they would have planted, you (plural formal) would have planted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos plantado",
+      "ENGLISH": "we would have planted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais plantado",
+      "ENGLISH": "you (plural) would have planted"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "comparto",
+      "ENGLISH": "I share"
+    },
+    "TU": {
+      "SPANISH": "compartes",
+      "ENGLISH": "you share"
+    },
+    "EL": {
+      "SPANISH": "comparte",
+      "ENGLISH": "s/he shares, you (formal) shares"
+    },
+    "ELLOS": {
+      "SPANISH": "comparten",
+      "ENGLISH": "they share, you (plural formal) share"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compartimos",
+      "ENGLISH": "we share"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compartís",
+      "ENGLISH": "you (plural) share"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he compartido",
+      "ENGLISH": "I have shared"
+    },
+    "TU": {
+      "SPANISH": "has compartido",
+      "ENGLISH": "you have shared"
+    },
+    "EL": {
+      "SPANISH": "ha compartido",
+      "ENGLISH": "s/he has shared, you (formal) have shared"
+    },
+    "ELLOS": {
+      "SPANISH": "han compartido",
+      "ENGLISH": "they have shared, you (plural formal) have shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos compartido",
+      "ENGLISH": "we have shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis compartido",
+      "ENGLISH": "you (plural) have shared"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "compartí",
+      "ENGLISH": "I shared"
+    },
+    "TU": {
+      "SPANISH": "compartiste",
+      "ENGLISH": "you shared"
+    },
+    "EL": {
+      "SPANISH": "compartió",
+      "ENGLISH": "s/he shared, you (formal) shared"
+    },
+    "ELLOS": {
+      "SPANISH": "compartieron",
+      "ENGLISH": "they shared, you (plural formal) shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compartimos",
+      "ENGLISH": "we shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compartisteis",
+      "ENGLISH": "you (plural) shared"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había compartido",
+      "ENGLISH": "I had shared"
+    },
+    "TU": {
+      "SPANISH": "habías compartido",
+      "ENGLISH": "you had shared"
+    },
+    "EL": {
+      "SPANISH": "había compartido",
+      "ENGLISH": "s/he had shared, you (formal) had shared"
+    },
+    "ELLOS": {
+      "SPANISH": "habían compartido",
+      "ENGLISH": "they had shared, you (plural formal) had shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos compartido",
+      "ENGLISH": "we had shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais compartido",
+      "ENGLISH": "you (plural) had shared"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "compartí",
+      "ENGLISH": "I shared"
+    },
+    "TU": {
+      "SPANISH": "compartiste",
+      "ENGLISH": "you shared"
+    },
+    "EL": {
+      "SPANISH": "compartió",
+      "ENGLISH": "s/he shared, you (formal) shared"
+    },
+    "ELLOS": {
+      "SPANISH": "compartieron",
+      "ENGLISH": "they shared, you (plural formal) shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compartimos",
+      "ENGLISH": "we shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compartisteis",
+      "ENGLISH": "you (plural) shared"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "compartiré",
+      "ENGLISH": "I will share"
+    },
+    "TU": {
+      "SPANISH": "compartirás",
+      "ENGLISH": "you will share"
+    },
+    "EL": {
+      "SPANISH": "compartirá",
+      "ENGLISH": "s/he will share, you (formal) will share"
+    },
+    "ELLOS": {
+      "SPANISH": "compartirán",
+      "ENGLISH": "they will share, you (plural formal) will share"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compartiremos",
+      "ENGLISH": "we will share"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compartiréis",
+      "ENGLISH": "you (plural) will share"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré compartido",
+      "ENGLISH": "I will have shared"
+    },
+    "TU": {
+      "SPANISH": "habrás compartido",
+      "ENGLISH": "you will have shared"
+    },
+    "EL": {
+      "SPANISH": "habrá compartido",
+      "ENGLISH": "s/he will have shared, you (formal) will have shared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán compartido",
+      "ENGLISH": "they will have shared, you (plural formal) will have shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos compartido",
+      "ENGLISH": "we will have shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis compartido",
+      "ENGLISH": "you (plural) will have shared"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "compartiría",
+      "ENGLISH": "I would share"
+    },
+    "TU": {
+      "SPANISH": "compartirías",
+      "ENGLISH": "you would share"
+    },
+    "EL": {
+      "SPANISH": "compartiría",
+      "ENGLISH": "s/he would share, you (formal) would share"
+    },
+    "ELLOS": {
+      "SPANISH": "compartirían",
+      "ENGLISH": "they would share, you (plural formal) would share"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compartiríamos",
+      "ENGLISH": "we would share"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compartiríais",
+      "ENGLISH": "you (plural) would share"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría compartido",
+      "ENGLISH": "I would have shared"
+    },
+    "TU": {
+      "SPANISH": "habrías compartido",
+      "ENGLISH": "you would have shared"
+    },
+    "EL": {
+      "SPANISH": "habría compartido",
+      "ENGLISH": "s/he would have shared, you (formal) would have shared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían compartido",
+      "ENGLISH": "they would have shared, you (plural formal) would have shared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos compartido",
+      "ENGLISH": "we would have shared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais compartido",
+      "ENGLISH": "you (plural) would have shared"
+    }
+  }
+}

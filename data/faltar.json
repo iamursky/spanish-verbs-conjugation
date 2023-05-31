@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "falto",
+      "ENGLISH": "I lack"
+    },
+    "TU": {
+      "SPANISH": "faltas",
+      "ENGLISH": "you lack"
+    },
+    "EL": {
+      "SPANISH": "falta",
+      "ENGLISH": "s/he lacks, you (formal) lacks"
+    },
+    "ELLOS": {
+      "SPANISH": "faltan",
+      "ENGLISH": "they lack, you (plural formal) lack"
+    },
+    "NOSOTROS": {
+      "SPANISH": "faltamos",
+      "ENGLISH": "we lack"
+    },
+    "VOSOTROS": {
+      "SPANISH": "faltáis",
+      "ENGLISH": "you (plural) lack"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he faltado",
+      "ENGLISH": "I have lacked"
+    },
+    "TU": {
+      "SPANISH": "has faltado",
+      "ENGLISH": "you have lacked"
+    },
+    "EL": {
+      "SPANISH": "ha faltado",
+      "ENGLISH": "s/he has lacked, you (formal) have lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "han faltado",
+      "ENGLISH": "they have lacked, you (plural formal) have lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos faltado",
+      "ENGLISH": "we have lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis faltado",
+      "ENGLISH": "you (plural) have lacked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "falté",
+      "ENGLISH": "I lacked"
+    },
+    "TU": {
+      "SPANISH": "faltaste",
+      "ENGLISH": "you lacked"
+    },
+    "EL": {
+      "SPANISH": "faltó",
+      "ENGLISH": "s/he lacked, you (formal) lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "faltaron",
+      "ENGLISH": "they lacked, you (plural formal) lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "faltamos",
+      "ENGLISH": "we lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "faltasteis",
+      "ENGLISH": "you (plural) lacked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había faltado",
+      "ENGLISH": "I had lacked"
+    },
+    "TU": {
+      "SPANISH": "habías faltado",
+      "ENGLISH": "you had lacked"
+    },
+    "EL": {
+      "SPANISH": "había faltado",
+      "ENGLISH": "s/he had lacked, you (formal) had lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "habían faltado",
+      "ENGLISH": "they had lacked, you (plural formal) had lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos faltado",
+      "ENGLISH": "we had lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais faltado",
+      "ENGLISH": "you (plural) had lacked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "falté",
+      "ENGLISH": "I lacked"
+    },
+    "TU": {
+      "SPANISH": "faltaste",
+      "ENGLISH": "you lacked"
+    },
+    "EL": {
+      "SPANISH": "faltó",
+      "ENGLISH": "s/he lacked, you (formal) lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "faltaron",
+      "ENGLISH": "they lacked, you (plural formal) lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "faltamos",
+      "ENGLISH": "we lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "faltasteis",
+      "ENGLISH": "you (plural) lacked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "faltaré",
+      "ENGLISH": "I will lack"
+    },
+    "TU": {
+      "SPANISH": "faltarás",
+      "ENGLISH": "you will lack"
+    },
+    "EL": {
+      "SPANISH": "faltará",
+      "ENGLISH": "s/he will lack, you (formal) will lack"
+    },
+    "ELLOS": {
+      "SPANISH": "faltarán",
+      "ENGLISH": "they will lack, you (plural formal) will lack"
+    },
+    "NOSOTROS": {
+      "SPANISH": "faltaremos",
+      "ENGLISH": "we will lack"
+    },
+    "VOSOTROS": {
+      "SPANISH": "faltaréis",
+      "ENGLISH": "you (plural) will lack"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré faltado",
+      "ENGLISH": "I will have lacked"
+    },
+    "TU": {
+      "SPANISH": "habrás faltado",
+      "ENGLISH": "you will have lacked"
+    },
+    "EL": {
+      "SPANISH": "habrá faltado",
+      "ENGLISH": "s/he will have lacked, you (formal) will have lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán faltado",
+      "ENGLISH": "they will have lacked, you (plural formal) will have lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos faltado",
+      "ENGLISH": "we will have lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis faltado",
+      "ENGLISH": "you (plural) will have lacked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "faltaría",
+      "ENGLISH": "I would lack"
+    },
+    "TU": {
+      "SPANISH": "faltarías",
+      "ENGLISH": "you would lack"
+    },
+    "EL": {
+      "SPANISH": "faltaría",
+      "ENGLISH": "s/he would lack, you (formal) would lack"
+    },
+    "ELLOS": {
+      "SPANISH": "faltarían",
+      "ENGLISH": "they would lack, you (plural formal) would lack"
+    },
+    "NOSOTROS": {
+      "SPANISH": "faltaríamos",
+      "ENGLISH": "we would lack"
+    },
+    "VOSOTROS": {
+      "SPANISH": "faltaríais",
+      "ENGLISH": "you (plural) would lack"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría faltado",
+      "ENGLISH": "I would have lacked"
+    },
+    "TU": {
+      "SPANISH": "habrías faltado",
+      "ENGLISH": "you would have lacked"
+    },
+    "EL": {
+      "SPANISH": "habría faltado",
+      "ENGLISH": "s/he would have lacked, you (formal) would have lacked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían faltado",
+      "ENGLISH": "they would have lacked, you (plural formal) would have lacked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos faltado",
+      "ENGLISH": "we would have lacked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais faltado",
+      "ENGLISH": "you (plural) would have lacked"
+    }
+  }
+}

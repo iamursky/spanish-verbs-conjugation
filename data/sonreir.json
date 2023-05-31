@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sonrío ",
+      "ENGLISH": "I smile"
+    },
+    "TU": {
+      "SPANISH": "sonríes ",
+      "ENGLISH": "you smile"
+    },
+    "EL": {
+      "SPANISH": "sonríe ",
+      "ENGLISH": "s/he smiles, you (formal) smiles"
+    },
+    "ELLOS": {
+      "SPANISH": "sonríen ",
+      "ENGLISH": "they smile, you (plural formal) smile"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sonreímos ",
+      "ENGLISH": "we smile"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sonreís",
+      "ENGLISH": "you (plural) smile"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sonreído ",
+      "ENGLISH": "I have smiled"
+    },
+    "TU": {
+      "SPANISH": "has sonreído ",
+      "ENGLISH": "you have smiled"
+    },
+    "EL": {
+      "SPANISH": "ha sonreído ",
+      "ENGLISH": "s/he has smiled, you (formal) have smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "han sonreído ",
+      "ENGLISH": "they have smiled, you (plural formal) have smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sonreído ",
+      "ENGLISH": "we have smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sonreído ",
+      "ENGLISH": "you (plural) have smiled"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sonreí",
+      "ENGLISH": "I smiled"
+    },
+    "TU": {
+      "SPANISH": "sonreíste ",
+      "ENGLISH": "you smiled"
+    },
+    "EL": {
+      "SPANISH": "sonrió ",
+      "ENGLISH": "s/he smiled, you (formal) smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "sonrieron ",
+      "ENGLISH": "they smiled, you (plural formal) smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sonreímos ",
+      "ENGLISH": "we smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sonreísteis ",
+      "ENGLISH": "you (plural) smiled"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sonreído ",
+      "ENGLISH": "I had smiled"
+    },
+    "TU": {
+      "SPANISH": "habías sonreído ",
+      "ENGLISH": "you had smiled"
+    },
+    "EL": {
+      "SPANISH": "había sonreído ",
+      "ENGLISH": "s/he had smiled, you (formal) had smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sonreído ",
+      "ENGLISH": "they had smiled, you (plural formal) had smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sonreído ",
+      "ENGLISH": "we had smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sonreído ",
+      "ENGLISH": "you (plural) had smiled"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sonreí",
+      "ENGLISH": "I smiled"
+    },
+    "TU": {
+      "SPANISH": "sonreíste ",
+      "ENGLISH": "you smiled"
+    },
+    "EL": {
+      "SPANISH": "sonrió ",
+      "ENGLISH": "s/he smiled, you (formal) smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "sonrieron ",
+      "ENGLISH": "they smiled, you (plural formal) smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sonreímos ",
+      "ENGLISH": "we smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sonreísteis ",
+      "ENGLISH": "you (plural) smiled"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sonreiré",
+      "ENGLISH": "I will smile"
+    },
+    "TU": {
+      "SPANISH": "sonreirás",
+      "ENGLISH": "you will smile"
+    },
+    "EL": {
+      "SPANISH": "sonreirá",
+      "ENGLISH": "s/he will smile, you (formal) will smile"
+    },
+    "ELLOS": {
+      "SPANISH": "sonreirán",
+      "ENGLISH": "they will smile, you (plural formal) will smile"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sonreiremos",
+      "ENGLISH": "we will smile"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sonreiréis",
+      "ENGLISH": "you (plural) will smile"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sonreído ",
+      "ENGLISH": "I will have smiled"
+    },
+    "TU": {
+      "SPANISH": "habrás sonreído ",
+      "ENGLISH": "you will have smiled"
+    },
+    "EL": {
+      "SPANISH": "habrá sonreído ",
+      "ENGLISH": "s/he will have smiled, you (formal) will have smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sonreído ",
+      "ENGLISH": "they will have smiled, you (plural formal) will have smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sonreído ",
+      "ENGLISH": "we will have smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sonreído ",
+      "ENGLISH": "you (plural) will have smiled"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sonreiría",
+      "ENGLISH": "I would smile"
+    },
+    "TU": {
+      "SPANISH": "sonreirías",
+      "ENGLISH": "you would smile"
+    },
+    "EL": {
+      "SPANISH": "sonreiría",
+      "ENGLISH": "s/he would smile, you (formal) would smile"
+    },
+    "ELLOS": {
+      "SPANISH": "sonreirían",
+      "ENGLISH": "they would smile, you (plural formal) would smile"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sonreiríamos",
+      "ENGLISH": "we would smile"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sonreiríais",
+      "ENGLISH": "you (plural) would smile"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sonreído ",
+      "ENGLISH": "I would have smiled"
+    },
+    "TU": {
+      "SPANISH": "habrías sonreído ",
+      "ENGLISH": "you would have smiled"
+    },
+    "EL": {
+      "SPANISH": "habría sonreído ",
+      "ENGLISH": "s/he would have smiled, you (formal) would have smiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sonreído ",
+      "ENGLISH": "they would have smiled, you (plural formal) would have smiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sonreído ",
+      "ENGLISH": "we would have smiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sonreído ",
+      "ENGLISH": "you (plural) would have smiled"
+    }
+  }
+}

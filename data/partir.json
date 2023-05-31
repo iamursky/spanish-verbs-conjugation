@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "parto",
+      "ENGLISH": "I split"
+    },
+    "TU": {
+      "SPANISH": "partes",
+      "ENGLISH": "you split"
+    },
+    "EL": {
+      "SPANISH": "parte",
+      "ENGLISH": "s/he splits, you (formal) splits"
+    },
+    "ELLOS": {
+      "SPANISH": "parten",
+      "ENGLISH": "they split, you (plural formal) split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "partimos",
+      "ENGLISH": "we split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "partís",
+      "ENGLISH": "you (plural) split"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he partido",
+      "ENGLISH": "I have split"
+    },
+    "TU": {
+      "SPANISH": "has partido",
+      "ENGLISH": "you have split"
+    },
+    "EL": {
+      "SPANISH": "ha partido",
+      "ENGLISH": "s/he has split, you (formal) have split"
+    },
+    "ELLOS": {
+      "SPANISH": "han partido",
+      "ENGLISH": "they have split, you (plural formal) have split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos partido",
+      "ENGLISH": "we have split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis partido",
+      "ENGLISH": "you (plural) have split"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "partí",
+      "ENGLISH": "I split"
+    },
+    "TU": {
+      "SPANISH": "partiste",
+      "ENGLISH": "you split"
+    },
+    "EL": {
+      "SPANISH": "partió",
+      "ENGLISH": "s/he split, you (formal) split"
+    },
+    "ELLOS": {
+      "SPANISH": "partieron",
+      "ENGLISH": "they split, you (plural formal) split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "partimos",
+      "ENGLISH": "we split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "partisteis",
+      "ENGLISH": "you (plural) split"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había partido",
+      "ENGLISH": "I had split"
+    },
+    "TU": {
+      "SPANISH": "habías partido",
+      "ENGLISH": "you had split"
+    },
+    "EL": {
+      "SPANISH": "había partido",
+      "ENGLISH": "s/he had split, you (formal) had split"
+    },
+    "ELLOS": {
+      "SPANISH": "habían partido",
+      "ENGLISH": "they had split, you (plural formal) had split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos partido",
+      "ENGLISH": "we had split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais partido",
+      "ENGLISH": "you (plural) had split"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "partí",
+      "ENGLISH": "I split"
+    },
+    "TU": {
+      "SPANISH": "partiste",
+      "ENGLISH": "you split"
+    },
+    "EL": {
+      "SPANISH": "partió",
+      "ENGLISH": "s/he split, you (formal) split"
+    },
+    "ELLOS": {
+      "SPANISH": "partieron",
+      "ENGLISH": "they split, you (plural formal) split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "partimos",
+      "ENGLISH": "we split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "partisteis",
+      "ENGLISH": "you (plural) split"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "partiré",
+      "ENGLISH": "I will split"
+    },
+    "TU": {
+      "SPANISH": "partirás",
+      "ENGLISH": "you will split"
+    },
+    "EL": {
+      "SPANISH": "partirá",
+      "ENGLISH": "s/he will split, you (formal) will split"
+    },
+    "ELLOS": {
+      "SPANISH": "partirán",
+      "ENGLISH": "they will split, you (plural formal) will split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "partiremos",
+      "ENGLISH": "we will split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "partiréis",
+      "ENGLISH": "you (plural) will split"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré partido",
+      "ENGLISH": "I will have split"
+    },
+    "TU": {
+      "SPANISH": "habrás partido",
+      "ENGLISH": "you will have split"
+    },
+    "EL": {
+      "SPANISH": "habrá partido",
+      "ENGLISH": "s/he will have split, you (formal) will have split"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán partido",
+      "ENGLISH": "they will have split, you (plural formal) will have split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos partido",
+      "ENGLISH": "we will have split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis partido",
+      "ENGLISH": "you (plural) will have split"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "partiría",
+      "ENGLISH": "I would split"
+    },
+    "TU": {
+      "SPANISH": "partirías",
+      "ENGLISH": "you would split"
+    },
+    "EL": {
+      "SPANISH": "partiría",
+      "ENGLISH": "s/he would split, you (formal) would split"
+    },
+    "ELLOS": {
+      "SPANISH": "partirían",
+      "ENGLISH": "they would split, you (plural formal) would split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "partiríamos",
+      "ENGLISH": "we would split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "partiríais",
+      "ENGLISH": "you (plural) would split"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría partido",
+      "ENGLISH": "I would have split"
+    },
+    "TU": {
+      "SPANISH": "habrías partido",
+      "ENGLISH": "you would have split"
+    },
+    "EL": {
+      "SPANISH": "habría partido",
+      "ENGLISH": "s/he would have split, you (formal) would have split"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían partido",
+      "ENGLISH": "they would have split, you (plural formal) would have split"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos partido",
+      "ENGLISH": "we would have split"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais partido",
+      "ENGLISH": "you (plural) would have split"
+    }
+  }
+}

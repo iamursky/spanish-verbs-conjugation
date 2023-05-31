@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "duelo ",
+      "ENGLISH": "I hurt"
+    },
+    "TU": {
+      "SPANISH": "dueles ",
+      "ENGLISH": "you hurt"
+    },
+    "EL": {
+      "SPANISH": "duele ",
+      "ENGLISH": "s/he hurts, you (formal) hurts"
+    },
+    "ELLOS": {
+      "SPANISH": "duelen ",
+      "ENGLISH": "they hurt, you (plural formal) hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dolemos",
+      "ENGLISH": "we hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "doléis",
+      "ENGLISH": "you (plural) hurt"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he dolido",
+      "ENGLISH": "I have hurt"
+    },
+    "TU": {
+      "SPANISH": "has dolido",
+      "ENGLISH": "you have hurt"
+    },
+    "EL": {
+      "SPANISH": "ha dolido",
+      "ENGLISH": "s/he has hurt, you (formal) have hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "han dolido",
+      "ENGLISH": "they have hurt, you (plural formal) have hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos dolido",
+      "ENGLISH": "we have hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis dolido",
+      "ENGLISH": "you (plural) have hurt"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "dolí",
+      "ENGLISH": "I hurt"
+    },
+    "TU": {
+      "SPANISH": "doliste",
+      "ENGLISH": "you hurt"
+    },
+    "EL": {
+      "SPANISH": "dolió",
+      "ENGLISH": "s/he hurt, you (formal) hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "dolieron",
+      "ENGLISH": "they hurt, you (plural formal) hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dolimos",
+      "ENGLISH": "we hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dolisteis",
+      "ENGLISH": "you (plural) hurt"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había dolido",
+      "ENGLISH": "I had hurt"
+    },
+    "TU": {
+      "SPANISH": "habías dolido",
+      "ENGLISH": "you had hurt"
+    },
+    "EL": {
+      "SPANISH": "había dolido",
+      "ENGLISH": "s/he had hurt, you (formal) had hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "habían dolido",
+      "ENGLISH": "they had hurt, you (plural formal) had hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos dolido",
+      "ENGLISH": "we had hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais dolido",
+      "ENGLISH": "you (plural) had hurt"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "dolí",
+      "ENGLISH": "I hurt"
+    },
+    "TU": {
+      "SPANISH": "doliste",
+      "ENGLISH": "you hurt"
+    },
+    "EL": {
+      "SPANISH": "dolió",
+      "ENGLISH": "s/he hurt, you (formal) hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "dolieron",
+      "ENGLISH": "they hurt, you (plural formal) hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dolimos",
+      "ENGLISH": "we hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dolisteis",
+      "ENGLISH": "you (plural) hurt"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "doleré",
+      "ENGLISH": "I will hurt"
+    },
+    "TU": {
+      "SPANISH": "dolerás",
+      "ENGLISH": "you will hurt"
+    },
+    "EL": {
+      "SPANISH": "dolerá",
+      "ENGLISH": "s/he will hurt, you (formal) will hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "dolerán",
+      "ENGLISH": "they will hurt, you (plural formal) will hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "doleremos",
+      "ENGLISH": "we will hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "doleréis",
+      "ENGLISH": "you (plural) will hurt"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré dolido",
+      "ENGLISH": "I will have hurt"
+    },
+    "TU": {
+      "SPANISH": "habrás dolido",
+      "ENGLISH": "you will have hurt"
+    },
+    "EL": {
+      "SPANISH": "habrá dolido",
+      "ENGLISH": "s/he will have hurt, you (formal) will have hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán dolido",
+      "ENGLISH": "they will have hurt, you (plural formal) will have hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos dolido",
+      "ENGLISH": "we will have hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis dolido",
+      "ENGLISH": "you (plural) will have hurt"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "dolería",
+      "ENGLISH": "I would hurt"
+    },
+    "TU": {
+      "SPANISH": "dolerías",
+      "ENGLISH": "you would hurt"
+    },
+    "EL": {
+      "SPANISH": "dolería",
+      "ENGLISH": "s/he would hurt, you (formal) would hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "dolerían",
+      "ENGLISH": "they would hurt, you (plural formal) would hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "doleríamos",
+      "ENGLISH": "we would hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "doleríais",
+      "ENGLISH": "you (plural) would hurt"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría dolido",
+      "ENGLISH": "I would have hurt"
+    },
+    "TU": {
+      "SPANISH": "habrías dolido",
+      "ENGLISH": "you would have hurt"
+    },
+    "EL": {
+      "SPANISH": "habría dolido",
+      "ENGLISH": "s/he would have hurt, you (formal) would have hurt"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían dolido",
+      "ENGLISH": "they would have hurt, you (plural formal) would have hurt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos dolido",
+      "ENGLISH": "we would have hurt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais dolido",
+      "ENGLISH": "you (plural) would have hurt"
+    }
+  }
+}

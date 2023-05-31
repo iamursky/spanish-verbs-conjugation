@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "reúno ",
+      "ENGLISH": "I gather"
+    },
+    "TU": {
+      "SPANISH": "reúnes ",
+      "ENGLISH": "you gather"
+    },
+    "EL": {
+      "SPANISH": "reúne ",
+      "ENGLISH": "s/he gathers, you (formal) gathers"
+    },
+    "ELLOS": {
+      "SPANISH": "reúnen ",
+      "ENGLISH": "they gather, you (plural formal) gather"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reunimos",
+      "ENGLISH": "we gather"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reunís",
+      "ENGLISH": "you (plural) gather"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he reunido",
+      "ENGLISH": "I have gathered"
+    },
+    "TU": {
+      "SPANISH": "has reunido",
+      "ENGLISH": "you have gathered"
+    },
+    "EL": {
+      "SPANISH": "ha reunido",
+      "ENGLISH": "s/he has gathered, you (formal) have gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "han reunido",
+      "ENGLISH": "they have gathered, you (plural formal) have gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos reunido",
+      "ENGLISH": "we have gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis reunido",
+      "ENGLISH": "you (plural) have gathered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "reuní",
+      "ENGLISH": "I gathered"
+    },
+    "TU": {
+      "SPANISH": "reuniste",
+      "ENGLISH": "you gathered"
+    },
+    "EL": {
+      "SPANISH": "reunió",
+      "ENGLISH": "s/he gathered, you (formal) gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "reunieron",
+      "ENGLISH": "they gathered, you (plural formal) gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reunimos",
+      "ENGLISH": "we gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reunisteis",
+      "ENGLISH": "you (plural) gathered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había reunido",
+      "ENGLISH": "I had gathered"
+    },
+    "TU": {
+      "SPANISH": "habías reunido",
+      "ENGLISH": "you had gathered"
+    },
+    "EL": {
+      "SPANISH": "había reunido",
+      "ENGLISH": "s/he had gathered, you (formal) had gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían reunido",
+      "ENGLISH": "they had gathered, you (plural formal) had gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos reunido",
+      "ENGLISH": "we had gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais reunido",
+      "ENGLISH": "you (plural) had gathered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "reuní",
+      "ENGLISH": "I gathered"
+    },
+    "TU": {
+      "SPANISH": "reuniste",
+      "ENGLISH": "you gathered"
+    },
+    "EL": {
+      "SPANISH": "reunió",
+      "ENGLISH": "s/he gathered, you (formal) gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "reunieron",
+      "ENGLISH": "they gathered, you (plural formal) gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reunimos",
+      "ENGLISH": "we gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reunisteis",
+      "ENGLISH": "you (plural) gathered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "reuniré",
+      "ENGLISH": "I will gather"
+    },
+    "TU": {
+      "SPANISH": "reunirás",
+      "ENGLISH": "you will gather"
+    },
+    "EL": {
+      "SPANISH": "reunirá",
+      "ENGLISH": "s/he will gather, you (formal) will gather"
+    },
+    "ELLOS": {
+      "SPANISH": "reunirán",
+      "ENGLISH": "they will gather, you (plural formal) will gather"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reuniremos",
+      "ENGLISH": "we will gather"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reuniréis",
+      "ENGLISH": "you (plural) will gather"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré reunido",
+      "ENGLISH": "I will have gathered"
+    },
+    "TU": {
+      "SPANISH": "habrás reunido",
+      "ENGLISH": "you will have gathered"
+    },
+    "EL": {
+      "SPANISH": "habrá reunido",
+      "ENGLISH": "s/he will have gathered, you (formal) will have gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán reunido",
+      "ENGLISH": "they will have gathered, you (plural formal) will have gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos reunido",
+      "ENGLISH": "we will have gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis reunido",
+      "ENGLISH": "you (plural) will have gathered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "reuniría",
+      "ENGLISH": "I would gather"
+    },
+    "TU": {
+      "SPANISH": "reunirías",
+      "ENGLISH": "you would gather"
+    },
+    "EL": {
+      "SPANISH": "reuniría",
+      "ENGLISH": "s/he would gather, you (formal) would gather"
+    },
+    "ELLOS": {
+      "SPANISH": "reunirían",
+      "ENGLISH": "they would gather, you (plural formal) would gather"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reuniríamos",
+      "ENGLISH": "we would gather"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reuniríais",
+      "ENGLISH": "you (plural) would gather"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría reunido",
+      "ENGLISH": "I would have gathered"
+    },
+    "TU": {
+      "SPANISH": "habrías reunido",
+      "ENGLISH": "you would have gathered"
+    },
+    "EL": {
+      "SPANISH": "habría reunido",
+      "ENGLISH": "s/he would have gathered, you (formal) would have gathered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían reunido",
+      "ENGLISH": "they would have gathered, you (plural formal) would have gathered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos reunido",
+      "ENGLISH": "we would have gathered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais reunido",
+      "ENGLISH": "you (plural) would have gathered"
+    }
+  }
+}

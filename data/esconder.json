@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "escondo",
+      "ENGLISH": "I hide"
+    },
+    "TU": {
+      "SPANISH": "escondes",
+      "ENGLISH": "you hide"
+    },
+    "EL": {
+      "SPANISH": "esconde",
+      "ENGLISH": "s/he hides, you (formal) hides"
+    },
+    "ELLOS": {
+      "SPANISH": "esconden",
+      "ENGLISH": "they hide, you (plural formal) hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escondemos",
+      "ENGLISH": "we hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escondéis",
+      "ENGLISH": "you (plural) hide"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he escondido",
+      "ENGLISH": "I have hidden"
+    },
+    "TU": {
+      "SPANISH": "has escondido",
+      "ENGLISH": "you have hidden"
+    },
+    "EL": {
+      "SPANISH": "ha escondido",
+      "ENGLISH": "s/he has hidden, you (formal) have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "han escondido",
+      "ENGLISH": "they have hidden, you (plural formal) have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos escondido",
+      "ENGLISH": "we have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis escondido",
+      "ENGLISH": "you (plural) have hidden"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "escondí",
+      "ENGLISH": "I hid"
+    },
+    "TU": {
+      "SPANISH": "escondiste",
+      "ENGLISH": "you hid"
+    },
+    "EL": {
+      "SPANISH": "escondió",
+      "ENGLISH": "s/he hid, you (formal) hid"
+    },
+    "ELLOS": {
+      "SPANISH": "escondieron",
+      "ENGLISH": "they hid, you (plural formal) hid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escondimos",
+      "ENGLISH": "we hid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escondisteis",
+      "ENGLISH": "you (plural) hid"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había escondido",
+      "ENGLISH": "I had hidden"
+    },
+    "TU": {
+      "SPANISH": "habías escondido",
+      "ENGLISH": "you had hidden"
+    },
+    "EL": {
+      "SPANISH": "había escondido",
+      "ENGLISH": "s/he had hidden, you (formal) had hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habían escondido",
+      "ENGLISH": "they had hidden, you (plural formal) had hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos escondido",
+      "ENGLISH": "we had hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais escondido",
+      "ENGLISH": "you (plural) had hidden"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "escondí",
+      "ENGLISH": "I hid"
+    },
+    "TU": {
+      "SPANISH": "escondiste",
+      "ENGLISH": "you hid"
+    },
+    "EL": {
+      "SPANISH": "escondió",
+      "ENGLISH": "s/he hid, you (formal) hid"
+    },
+    "ELLOS": {
+      "SPANISH": "escondieron",
+      "ENGLISH": "they hid, you (plural formal) hid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escondimos",
+      "ENGLISH": "we hid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escondisteis",
+      "ENGLISH": "you (plural) hid"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "esconderé",
+      "ENGLISH": "I will hide"
+    },
+    "TU": {
+      "SPANISH": "esconderás",
+      "ENGLISH": "you will hide"
+    },
+    "EL": {
+      "SPANISH": "esconderá",
+      "ENGLISH": "s/he will hide, you (formal) will hide"
+    },
+    "ELLOS": {
+      "SPANISH": "esconderán",
+      "ENGLISH": "they will hide, you (plural formal) will hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "esconderemos",
+      "ENGLISH": "we will hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "esconderéis",
+      "ENGLISH": "you (plural) will hide"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré escondido",
+      "ENGLISH": "I will have hidden"
+    },
+    "TU": {
+      "SPANISH": "habrás escondido",
+      "ENGLISH": "you will have hidden"
+    },
+    "EL": {
+      "SPANISH": "habrá escondido",
+      "ENGLISH": "s/he will have hidden, you (formal) will have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán escondido",
+      "ENGLISH": "they will have hidden, you (plural formal) will have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos escondido",
+      "ENGLISH": "we will have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis escondido",
+      "ENGLISH": "you (plural) will have hidden"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "escondería",
+      "ENGLISH": "I would hide"
+    },
+    "TU": {
+      "SPANISH": "esconderías",
+      "ENGLISH": "you would hide"
+    },
+    "EL": {
+      "SPANISH": "escondería",
+      "ENGLISH": "s/he would hide, you (formal) would hide"
+    },
+    "ELLOS": {
+      "SPANISH": "esconderían",
+      "ENGLISH": "they would hide, you (plural formal) would hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "esconderíamos",
+      "ENGLISH": "we would hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "esconderíais",
+      "ENGLISH": "you (plural) would hide"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría escondido",
+      "ENGLISH": "I would have hidden"
+    },
+    "TU": {
+      "SPANISH": "habrías escondido",
+      "ENGLISH": "you would have hidden"
+    },
+    "EL": {
+      "SPANISH": "habría escondido",
+      "ENGLISH": "s/he would have hidden, you (formal) would have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían escondido",
+      "ENGLISH": "they would have hidden, you (plural formal) would have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos escondido",
+      "ENGLISH": "we would have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais escondido",
+      "ENGLISH": "you (plural) would have hidden"
+    }
+  }
+}

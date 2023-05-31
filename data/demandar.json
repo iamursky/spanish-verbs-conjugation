@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "demando",
+      "ENGLISH": "I demand"
+    },
+    "TU": {
+      "SPANISH": "demandas",
+      "ENGLISH": "you demand"
+    },
+    "EL": {
+      "SPANISH": "demanda",
+      "ENGLISH": "s/he demands, you (formal) demands"
+    },
+    "ELLOS": {
+      "SPANISH": "demandan",
+      "ENGLISH": "they demand, you (plural formal) demand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "demandamos",
+      "ENGLISH": "we demand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "demandáis",
+      "ENGLISH": "you (plural) demand"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he demandado",
+      "ENGLISH": "I have demanded"
+    },
+    "TU": {
+      "SPANISH": "has demandado",
+      "ENGLISH": "you have demanded"
+    },
+    "EL": {
+      "SPANISH": "ha demandado",
+      "ENGLISH": "s/he has demanded, you (formal) have demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "han demandado",
+      "ENGLISH": "they have demanded, you (plural formal) have demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos demandado",
+      "ENGLISH": "we have demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis demandado",
+      "ENGLISH": "you (plural) have demanded"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "demandé",
+      "ENGLISH": "I demanded"
+    },
+    "TU": {
+      "SPANISH": "demandaste",
+      "ENGLISH": "you demanded"
+    },
+    "EL": {
+      "SPANISH": "demandó",
+      "ENGLISH": "s/he demanded, you (formal) demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "demandaron",
+      "ENGLISH": "they demanded, you (plural formal) demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "demandamos",
+      "ENGLISH": "we demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "demandasteis",
+      "ENGLISH": "you (plural) demanded"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había demandado",
+      "ENGLISH": "I had demanded"
+    },
+    "TU": {
+      "SPANISH": "habías demandado",
+      "ENGLISH": "you had demanded"
+    },
+    "EL": {
+      "SPANISH": "había demandado",
+      "ENGLISH": "s/he had demanded, you (formal) had demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "habían demandado",
+      "ENGLISH": "they had demanded, you (plural formal) had demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos demandado",
+      "ENGLISH": "we had demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais demandado",
+      "ENGLISH": "you (plural) had demanded"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "demandé",
+      "ENGLISH": "I demanded"
+    },
+    "TU": {
+      "SPANISH": "demandaste",
+      "ENGLISH": "you demanded"
+    },
+    "EL": {
+      "SPANISH": "demandó",
+      "ENGLISH": "s/he demanded, you (formal) demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "demandaron",
+      "ENGLISH": "they demanded, you (plural formal) demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "demandamos",
+      "ENGLISH": "we demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "demandasteis",
+      "ENGLISH": "you (plural) demanded"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "demandaré",
+      "ENGLISH": "I will demand"
+    },
+    "TU": {
+      "SPANISH": "demandarás",
+      "ENGLISH": "you will demand"
+    },
+    "EL": {
+      "SPANISH": "demandará",
+      "ENGLISH": "s/he will demand, you (formal) will demand"
+    },
+    "ELLOS": {
+      "SPANISH": "demandarán",
+      "ENGLISH": "they will demand, you (plural formal) will demand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "demandaremos",
+      "ENGLISH": "we will demand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "demandaréis",
+      "ENGLISH": "you (plural) will demand"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré demandado",
+      "ENGLISH": "I will have demanded"
+    },
+    "TU": {
+      "SPANISH": "habrás demandado",
+      "ENGLISH": "you will have demanded"
+    },
+    "EL": {
+      "SPANISH": "habrá demandado",
+      "ENGLISH": "s/he will have demanded, you (formal) will have demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán demandado",
+      "ENGLISH": "they will have demanded, you (plural formal) will have demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos demandado",
+      "ENGLISH": "we will have demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis demandado",
+      "ENGLISH": "you (plural) will have demanded"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "demandaría",
+      "ENGLISH": "I would demand"
+    },
+    "TU": {
+      "SPANISH": "demandarías",
+      "ENGLISH": "you would demand"
+    },
+    "EL": {
+      "SPANISH": "demandaría",
+      "ENGLISH": "s/he would demand, you (formal) would demand"
+    },
+    "ELLOS": {
+      "SPANISH": "demandarían",
+      "ENGLISH": "they would demand, you (plural formal) would demand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "demandaríamos",
+      "ENGLISH": "we would demand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "demandaríais",
+      "ENGLISH": "you (plural) would demand"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría demandado",
+      "ENGLISH": "I would have demanded"
+    },
+    "TU": {
+      "SPANISH": "habrías demandado",
+      "ENGLISH": "you would have demanded"
+    },
+    "EL": {
+      "SPANISH": "habría demandado",
+      "ENGLISH": "s/he would have demanded, you (formal) would have demanded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían demandado",
+      "ENGLISH": "they would have demanded, you (plural formal) would have demanded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos demandado",
+      "ENGLISH": "we would have demanded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais demandado",
+      "ENGLISH": "you (plural) would have demanded"
+    }
+  }
+}

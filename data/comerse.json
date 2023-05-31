@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me como",
+      "ENGLISH": "I consume"
+    },
+    "TU": {
+      "SPANISH": "te comes",
+      "ENGLISH": "you consume"
+    },
+    "EL": {
+      "SPANISH": "se come",
+      "ENGLISH": "s/he consumes, you (formal) consumes"
+    },
+    "ELLOS": {
+      "SPANISH": "se comen",
+      "ENGLISH": "they consume, you (plural formal) consume"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos comemos",
+      "ENGLISH": "we consume"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os coméis",
+      "ENGLISH": "you (plural) consume"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he comido",
+      "ENGLISH": "I have consumed"
+    },
+    "TU": {
+      "SPANISH": "te has comido",
+      "ENGLISH": "you have consumed"
+    },
+    "EL": {
+      "SPANISH": "se ha comido",
+      "ENGLISH": "s/he has consumed, you (formal) have consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se han comido",
+      "ENGLISH": "they have consumed, you (plural formal) have consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos comido",
+      "ENGLISH": "we have consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis comido",
+      "ENGLISH": "you (plural) have consumed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me comí",
+      "ENGLISH": "I consumed"
+    },
+    "TU": {
+      "SPANISH": "te comiste",
+      "ENGLISH": "you consumed"
+    },
+    "EL": {
+      "SPANISH": "se comió",
+      "ENGLISH": "s/he consumed, you (formal) consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se comieron",
+      "ENGLISH": "they consumed, you (plural formal) consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos comimos",
+      "ENGLISH": "we consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os comisteis",
+      "ENGLISH": "you (plural) consumed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había comido",
+      "ENGLISH": "I had consumed"
+    },
+    "TU": {
+      "SPANISH": "te habías comido",
+      "ENGLISH": "you had consumed"
+    },
+    "EL": {
+      "SPANISH": "se había comido",
+      "ENGLISH": "s/he had consumed, you (formal) had consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían comido",
+      "ENGLISH": "they had consumed, you (plural formal) had consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos comido",
+      "ENGLISH": "we had consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais comido",
+      "ENGLISH": "you (plural) had consumed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me comí",
+      "ENGLISH": "I consumed"
+    },
+    "TU": {
+      "SPANISH": "te comiste",
+      "ENGLISH": "you consumed"
+    },
+    "EL": {
+      "SPANISH": "se comió",
+      "ENGLISH": "s/he consumed, you (formal) consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se comieron",
+      "ENGLISH": "they consumed, you (plural formal) consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos comimos",
+      "ENGLISH": "we consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os comisteis",
+      "ENGLISH": "you (plural) consumed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me comeré",
+      "ENGLISH": "I will consume"
+    },
+    "TU": {
+      "SPANISH": "te comerás",
+      "ENGLISH": "you will consume"
+    },
+    "EL": {
+      "SPANISH": "se comerá",
+      "ENGLISH": "s/he will consume, you (formal) will consume"
+    },
+    "ELLOS": {
+      "SPANISH": "se comerán",
+      "ENGLISH": "they will consume, you (plural formal) will consume"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos comeremos",
+      "ENGLISH": "we will consume"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os comeréis",
+      "ENGLISH": "you (plural) will consume"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré comido",
+      "ENGLISH": "I will have consumed"
+    },
+    "TU": {
+      "SPANISH": "te habrás comido",
+      "ENGLISH": "you will have consumed"
+    },
+    "EL": {
+      "SPANISH": "se habrá comido",
+      "ENGLISH": "s/he will have consumed, you (formal) will have consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán comido",
+      "ENGLISH": "they will have consumed, you (plural formal) will have consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos comido",
+      "ENGLISH": "we will have consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis comido",
+      "ENGLISH": "you (plural) will have consumed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me comería",
+      "ENGLISH": "I would consume"
+    },
+    "TU": {
+      "SPANISH": "te comerías",
+      "ENGLISH": "you would consume"
+    },
+    "EL": {
+      "SPANISH": "se comería",
+      "ENGLISH": "s/he would consume, you (formal) would consume"
+    },
+    "ELLOS": {
+      "SPANISH": "se comerían",
+      "ENGLISH": "they would consume, you (plural formal) would consume"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos comeríamos",
+      "ENGLISH": "we would consume"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os comeríais",
+      "ENGLISH": "you (plural) would consume"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría comido",
+      "ENGLISH": "I would have consumed"
+    },
+    "TU": {
+      "SPANISH": "te habrías comido",
+      "ENGLISH": "you would have consumed"
+    },
+    "EL": {
+      "SPANISH": "se habría comido",
+      "ENGLISH": "s/he would have consumed, you (formal) would have consumed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían comido",
+      "ENGLISH": "they would have consumed, you (plural formal) would have consumed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos comido",
+      "ENGLISH": "we would have consumed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais comido",
+      "ENGLISH": "you (plural) would have consumed"
+    }
+  }
+}

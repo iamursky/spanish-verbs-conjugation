@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "estudio",
+      "ENGLISH": "I study"
+    },
+    "TU": {
+      "SPANISH": "estudias",
+      "ENGLISH": "you study"
+    },
+    "EL": {
+      "SPANISH": "estudia",
+      "ENGLISH": "s/he studies, you (formal) studies"
+    },
+    "ELLOS": {
+      "SPANISH": "estudian",
+      "ENGLISH": "they study, you (plural formal) study"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estudiamos",
+      "ENGLISH": "we study"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estudiáis",
+      "ENGLISH": "you (plural) study"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he estudiado",
+      "ENGLISH": "I have studied"
+    },
+    "TU": {
+      "SPANISH": "has estudiado",
+      "ENGLISH": "you have studied"
+    },
+    "EL": {
+      "SPANISH": "ha estudiado",
+      "ENGLISH": "s/he has studied, you (formal) have studied"
+    },
+    "ELLOS": {
+      "SPANISH": "han estudiado",
+      "ENGLISH": "they have studied, you (plural formal) have studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos estudiado",
+      "ENGLISH": "we have studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis estudiado",
+      "ENGLISH": "you (plural) have studied"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "estudié",
+      "ENGLISH": "I studied"
+    },
+    "TU": {
+      "SPANISH": "estudiaste",
+      "ENGLISH": "you studied"
+    },
+    "EL": {
+      "SPANISH": "estudió",
+      "ENGLISH": "s/he studied, you (formal) studied"
+    },
+    "ELLOS": {
+      "SPANISH": "estudiaron",
+      "ENGLISH": "they studied, you (plural formal) studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estudiamos",
+      "ENGLISH": "we studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estudiasteis",
+      "ENGLISH": "you (plural) studied"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había estudiado",
+      "ENGLISH": "I had studied"
+    },
+    "TU": {
+      "SPANISH": "habías estudiado",
+      "ENGLISH": "you had studied"
+    },
+    "EL": {
+      "SPANISH": "había estudiado",
+      "ENGLISH": "s/he had studied, you (formal) had studied"
+    },
+    "ELLOS": {
+      "SPANISH": "habían estudiado",
+      "ENGLISH": "they had studied, you (plural formal) had studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos estudiado",
+      "ENGLISH": "we had studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais estudiado",
+      "ENGLISH": "you (plural) had studied"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "estudié",
+      "ENGLISH": "I studied"
+    },
+    "TU": {
+      "SPANISH": "estudiaste",
+      "ENGLISH": "you studied"
+    },
+    "EL": {
+      "SPANISH": "estudió",
+      "ENGLISH": "s/he studied, you (formal) studied"
+    },
+    "ELLOS": {
+      "SPANISH": "estudiaron",
+      "ENGLISH": "they studied, you (plural formal) studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estudiamos",
+      "ENGLISH": "we studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estudiasteis",
+      "ENGLISH": "you (plural) studied"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "estudiaré",
+      "ENGLISH": "I will study"
+    },
+    "TU": {
+      "SPANISH": "estudiarás",
+      "ENGLISH": "you will study"
+    },
+    "EL": {
+      "SPANISH": "estudiará",
+      "ENGLISH": "s/he will study, you (formal) will study"
+    },
+    "ELLOS": {
+      "SPANISH": "estudiarán",
+      "ENGLISH": "they will study, you (plural formal) will study"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estudiaremos",
+      "ENGLISH": "we will study"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estudiaréis",
+      "ENGLISH": "you (plural) will study"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré estudiado",
+      "ENGLISH": "I will have studied"
+    },
+    "TU": {
+      "SPANISH": "habrás estudiado",
+      "ENGLISH": "you will have studied"
+    },
+    "EL": {
+      "SPANISH": "habrá estudiado",
+      "ENGLISH": "s/he will have studied, you (formal) will have studied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán estudiado",
+      "ENGLISH": "they will have studied, you (plural formal) will have studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos estudiado",
+      "ENGLISH": "we will have studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis estudiado",
+      "ENGLISH": "you (plural) will have studied"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "estudiaría",
+      "ENGLISH": "I would study"
+    },
+    "TU": {
+      "SPANISH": "estudiarías",
+      "ENGLISH": "you would study"
+    },
+    "EL": {
+      "SPANISH": "estudiaría",
+      "ENGLISH": "s/he would study, you (formal) would study"
+    },
+    "ELLOS": {
+      "SPANISH": "estudiarían",
+      "ENGLISH": "they would study, you (plural formal) would study"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estudiaríamos",
+      "ENGLISH": "we would study"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estudiaríais",
+      "ENGLISH": "you (plural) would study"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría estudiado",
+      "ENGLISH": "I would have studied"
+    },
+    "TU": {
+      "SPANISH": "habrías estudiado",
+      "ENGLISH": "you would have studied"
+    },
+    "EL": {
+      "SPANISH": "habría estudiado",
+      "ENGLISH": "s/he would have studied, you (formal) would have studied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían estudiado",
+      "ENGLISH": "they would have studied, you (plural formal) would have studied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos estudiado",
+      "ENGLISH": "we would have studied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais estudiado",
+      "ENGLISH": "you (plural) would have studied"
+    }
+  }
+}

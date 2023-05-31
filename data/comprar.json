@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "compro",
+      "ENGLISH": "I buy"
+    },
+    "TU": {
+      "SPANISH": "compras",
+      "ENGLISH": "you buy"
+    },
+    "EL": {
+      "SPANISH": "compra",
+      "ENGLISH": "s/he buys, you (formal) buys"
+    },
+    "ELLOS": {
+      "SPANISH": "compran",
+      "ENGLISH": "they buy, you (plural formal) buy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compramos",
+      "ENGLISH": "we buy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compráis",
+      "ENGLISH": "you (plural) buy"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he comprado",
+      "ENGLISH": "I have bought"
+    },
+    "TU": {
+      "SPANISH": "has comprado",
+      "ENGLISH": "you have bought"
+    },
+    "EL": {
+      "SPANISH": "ha comprado",
+      "ENGLISH": "s/he has bought, you (formal) have bought"
+    },
+    "ELLOS": {
+      "SPANISH": "han comprado",
+      "ENGLISH": "they have bought, you (plural formal) have bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos comprado",
+      "ENGLISH": "we have bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis comprado",
+      "ENGLISH": "you (plural) have bought"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "compré",
+      "ENGLISH": "I bought"
+    },
+    "TU": {
+      "SPANISH": "compraste",
+      "ENGLISH": "you bought"
+    },
+    "EL": {
+      "SPANISH": "compró",
+      "ENGLISH": "s/he bought, you (formal) bought"
+    },
+    "ELLOS": {
+      "SPANISH": "compraron",
+      "ENGLISH": "they bought, you (plural formal) bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compramos",
+      "ENGLISH": "we bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprasteis",
+      "ENGLISH": "you (plural) bought"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había comprado",
+      "ENGLISH": "I had bought"
+    },
+    "TU": {
+      "SPANISH": "habías comprado",
+      "ENGLISH": "you had bought"
+    },
+    "EL": {
+      "SPANISH": "había comprado",
+      "ENGLISH": "s/he had bought, you (formal) had bought"
+    },
+    "ELLOS": {
+      "SPANISH": "habían comprado",
+      "ENGLISH": "they had bought, you (plural formal) had bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos comprado",
+      "ENGLISH": "we had bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais comprado",
+      "ENGLISH": "you (plural) had bought"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "compré",
+      "ENGLISH": "I bought"
+    },
+    "TU": {
+      "SPANISH": "compraste",
+      "ENGLISH": "you bought"
+    },
+    "EL": {
+      "SPANISH": "compró",
+      "ENGLISH": "s/he bought, you (formal) bought"
+    },
+    "ELLOS": {
+      "SPANISH": "compraron",
+      "ENGLISH": "they bought, you (plural formal) bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compramos",
+      "ENGLISH": "we bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprasteis",
+      "ENGLISH": "you (plural) bought"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "compraré",
+      "ENGLISH": "I will buy"
+    },
+    "TU": {
+      "SPANISH": "comprarás",
+      "ENGLISH": "you will buy"
+    },
+    "EL": {
+      "SPANISH": "comprará",
+      "ENGLISH": "s/he will buy, you (formal) will buy"
+    },
+    "ELLOS": {
+      "SPANISH": "comprarán",
+      "ENGLISH": "they will buy, you (plural formal) will buy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compraremos",
+      "ENGLISH": "we will buy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compraréis",
+      "ENGLISH": "you (plural) will buy"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré comprado",
+      "ENGLISH": "I will have bought"
+    },
+    "TU": {
+      "SPANISH": "habrás comprado",
+      "ENGLISH": "you will have bought"
+    },
+    "EL": {
+      "SPANISH": "habrá comprado",
+      "ENGLISH": "s/he will have bought, you (formal) will have bought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán comprado",
+      "ENGLISH": "they will have bought, you (plural formal) will have bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos comprado",
+      "ENGLISH": "we will have bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis comprado",
+      "ENGLISH": "you (plural) will have bought"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "compraría",
+      "ENGLISH": "I would buy"
+    },
+    "TU": {
+      "SPANISH": "comprarías",
+      "ENGLISH": "you would buy"
+    },
+    "EL": {
+      "SPANISH": "compraría",
+      "ENGLISH": "s/he would buy, you (formal) would buy"
+    },
+    "ELLOS": {
+      "SPANISH": "comprarían",
+      "ENGLISH": "they would buy, you (plural formal) would buy"
+    },
+    "NOSOTROS": {
+      "SPANISH": "compraríamos",
+      "ENGLISH": "we would buy"
+    },
+    "VOSOTROS": {
+      "SPANISH": "compraríais",
+      "ENGLISH": "you (plural) would buy"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría comprado",
+      "ENGLISH": "I would have bought"
+    },
+    "TU": {
+      "SPANISH": "habrías comprado",
+      "ENGLISH": "you would have bought"
+    },
+    "EL": {
+      "SPANISH": "habría comprado",
+      "ENGLISH": "s/he would have bought, you (formal) would have bought"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían comprado",
+      "ENGLISH": "they would have bought, you (plural formal) would have bought"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos comprado",
+      "ENGLISH": "we would have bought"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais comprado",
+      "ENGLISH": "you (plural) would have bought"
+    }
+  }
+}

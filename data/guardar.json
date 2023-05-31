@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "guardo",
+      "ENGLISH": "I save"
+    },
+    "TU": {
+      "SPANISH": "guardas",
+      "ENGLISH": "you save"
+    },
+    "EL": {
+      "SPANISH": "guarda",
+      "ENGLISH": "s/he saves, you (formal) saves"
+    },
+    "ELLOS": {
+      "SPANISH": "guardan",
+      "ENGLISH": "they save, you (plural formal) save"
+    },
+    "NOSOTROS": {
+      "SPANISH": "guardamos",
+      "ENGLISH": "we save"
+    },
+    "VOSOTROS": {
+      "SPANISH": "guardáis",
+      "ENGLISH": "you (plural) save"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he guardado",
+      "ENGLISH": "I have saved"
+    },
+    "TU": {
+      "SPANISH": "has guardado",
+      "ENGLISH": "you have saved"
+    },
+    "EL": {
+      "SPANISH": "ha guardado",
+      "ENGLISH": "s/he has saved, you (formal) have saved"
+    },
+    "ELLOS": {
+      "SPANISH": "han guardado",
+      "ENGLISH": "they have saved, you (plural formal) have saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos guardado",
+      "ENGLISH": "we have saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis guardado",
+      "ENGLISH": "you (plural) have saved"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "guardé",
+      "ENGLISH": "I saved"
+    },
+    "TU": {
+      "SPANISH": "guardaste",
+      "ENGLISH": "you saved"
+    },
+    "EL": {
+      "SPANISH": "guardó",
+      "ENGLISH": "s/he saved, you (formal) saved"
+    },
+    "ELLOS": {
+      "SPANISH": "guardaron",
+      "ENGLISH": "they saved, you (plural formal) saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "guardamos",
+      "ENGLISH": "we saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "guardasteis",
+      "ENGLISH": "you (plural) saved"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había guardado",
+      "ENGLISH": "I had saved"
+    },
+    "TU": {
+      "SPANISH": "habías guardado",
+      "ENGLISH": "you had saved"
+    },
+    "EL": {
+      "SPANISH": "había guardado",
+      "ENGLISH": "s/he had saved, you (formal) had saved"
+    },
+    "ELLOS": {
+      "SPANISH": "habían guardado",
+      "ENGLISH": "they had saved, you (plural formal) had saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos guardado",
+      "ENGLISH": "we had saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais guardado",
+      "ENGLISH": "you (plural) had saved"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "guardé",
+      "ENGLISH": "I saved"
+    },
+    "TU": {
+      "SPANISH": "guardaste",
+      "ENGLISH": "you saved"
+    },
+    "EL": {
+      "SPANISH": "guardó",
+      "ENGLISH": "s/he saved, you (formal) saved"
+    },
+    "ELLOS": {
+      "SPANISH": "guardaron",
+      "ENGLISH": "they saved, you (plural formal) saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "guardamos",
+      "ENGLISH": "we saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "guardasteis",
+      "ENGLISH": "you (plural) saved"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "guardaré",
+      "ENGLISH": "I will save"
+    },
+    "TU": {
+      "SPANISH": "guardarás",
+      "ENGLISH": "you will save"
+    },
+    "EL": {
+      "SPANISH": "guardará",
+      "ENGLISH": "s/he will save, you (formal) will save"
+    },
+    "ELLOS": {
+      "SPANISH": "guardarán",
+      "ENGLISH": "they will save, you (plural formal) will save"
+    },
+    "NOSOTROS": {
+      "SPANISH": "guardaremos",
+      "ENGLISH": "we will save"
+    },
+    "VOSOTROS": {
+      "SPANISH": "guardaréis",
+      "ENGLISH": "you (plural) will save"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré guardado",
+      "ENGLISH": "I will have saved"
+    },
+    "TU": {
+      "SPANISH": "habrás guardado",
+      "ENGLISH": "you will have saved"
+    },
+    "EL": {
+      "SPANISH": "habrá guardado",
+      "ENGLISH": "s/he will have saved, you (formal) will have saved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán guardado",
+      "ENGLISH": "they will have saved, you (plural formal) will have saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos guardado",
+      "ENGLISH": "we will have saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis guardado",
+      "ENGLISH": "you (plural) will have saved"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "guardaría",
+      "ENGLISH": "I would save"
+    },
+    "TU": {
+      "SPANISH": "guardarías",
+      "ENGLISH": "you would save"
+    },
+    "EL": {
+      "SPANISH": "guardaría",
+      "ENGLISH": "s/he would save, you (formal) would save"
+    },
+    "ELLOS": {
+      "SPANISH": "guardarían",
+      "ENGLISH": "they would save, you (plural formal) would save"
+    },
+    "NOSOTROS": {
+      "SPANISH": "guardaríamos",
+      "ENGLISH": "we would save"
+    },
+    "VOSOTROS": {
+      "SPANISH": "guardaríais",
+      "ENGLISH": "you (plural) would save"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría guardado",
+      "ENGLISH": "I would have saved"
+    },
+    "TU": {
+      "SPANISH": "habrías guardado",
+      "ENGLISH": "you would have saved"
+    },
+    "EL": {
+      "SPANISH": "habría guardado",
+      "ENGLISH": "s/he would have saved, you (formal) would have saved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían guardado",
+      "ENGLISH": "they would have saved, you (plural formal) would have saved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos guardado",
+      "ENGLISH": "we would have saved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais guardado",
+      "ENGLISH": "you (plural) would have saved"
+    }
+  }
+}

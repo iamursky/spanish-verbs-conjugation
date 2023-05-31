@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "progreso",
+      "ENGLISH": "I progress"
+    },
+    "TU": {
+      "SPANISH": "progresas",
+      "ENGLISH": "you progress"
+    },
+    "EL": {
+      "SPANISH": "progresa",
+      "ENGLISH": "s/he progresses, you (formal) progresses"
+    },
+    "ELLOS": {
+      "SPANISH": "progresan",
+      "ENGLISH": "they progress, you (plural formal) progress"
+    },
+    "NOSOTROS": {
+      "SPANISH": "progresamos",
+      "ENGLISH": "we progress"
+    },
+    "VOSOTROS": {
+      "SPANISH": "progresáis",
+      "ENGLISH": "you (plural) progress"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he progresado",
+      "ENGLISH": "I have progressed"
+    },
+    "TU": {
+      "SPANISH": "has progresado",
+      "ENGLISH": "you have progressed"
+    },
+    "EL": {
+      "SPANISH": "ha progresado",
+      "ENGLISH": "s/he has progressed, you (formal) have progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "han progresado",
+      "ENGLISH": "they have progressed, you (plural formal) have progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos progresado",
+      "ENGLISH": "we have progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis progresado",
+      "ENGLISH": "you (plural) have progressed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "progresé",
+      "ENGLISH": "I progressed"
+    },
+    "TU": {
+      "SPANISH": "progresaste",
+      "ENGLISH": "you progressed"
+    },
+    "EL": {
+      "SPANISH": "progresó",
+      "ENGLISH": "s/he progressed, you (formal) progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "progresaron",
+      "ENGLISH": "they progressed, you (plural formal) progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "progresamos",
+      "ENGLISH": "we progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "progresasteis",
+      "ENGLISH": "you (plural) progressed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había progresado",
+      "ENGLISH": "I had progressed"
+    },
+    "TU": {
+      "SPANISH": "habías progresado",
+      "ENGLISH": "you had progressed"
+    },
+    "EL": {
+      "SPANISH": "había progresado",
+      "ENGLISH": "s/he had progressed, you (formal) had progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían progresado",
+      "ENGLISH": "they had progressed, you (plural formal) had progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos progresado",
+      "ENGLISH": "we had progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais progresado",
+      "ENGLISH": "you (plural) had progressed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "progresé",
+      "ENGLISH": "I progressed"
+    },
+    "TU": {
+      "SPANISH": "progresaste",
+      "ENGLISH": "you progressed"
+    },
+    "EL": {
+      "SPANISH": "progresó",
+      "ENGLISH": "s/he progressed, you (formal) progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "progresaron",
+      "ENGLISH": "they progressed, you (plural formal) progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "progresamos",
+      "ENGLISH": "we progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "progresasteis",
+      "ENGLISH": "you (plural) progressed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "progresaré",
+      "ENGLISH": "I will progress"
+    },
+    "TU": {
+      "SPANISH": "progresarás",
+      "ENGLISH": "you will progress"
+    },
+    "EL": {
+      "SPANISH": "progresará",
+      "ENGLISH": "s/he will progress, you (formal) will progress"
+    },
+    "ELLOS": {
+      "SPANISH": "progresarán",
+      "ENGLISH": "they will progress, you (plural formal) will progress"
+    },
+    "NOSOTROS": {
+      "SPANISH": "progresaremos",
+      "ENGLISH": "we will progress"
+    },
+    "VOSOTROS": {
+      "SPANISH": "progresaréis",
+      "ENGLISH": "you (plural) will progress"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré progresado",
+      "ENGLISH": "I will have progressed"
+    },
+    "TU": {
+      "SPANISH": "habrás progresado",
+      "ENGLISH": "you will have progressed"
+    },
+    "EL": {
+      "SPANISH": "habrá progresado",
+      "ENGLISH": "s/he will have progressed, you (formal) will have progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán progresado",
+      "ENGLISH": "they will have progressed, you (plural formal) will have progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos progresado",
+      "ENGLISH": "we will have progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis progresado",
+      "ENGLISH": "you (plural) will have progressed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "progresaría",
+      "ENGLISH": "I would progress"
+    },
+    "TU": {
+      "SPANISH": "progresarías",
+      "ENGLISH": "you would progress"
+    },
+    "EL": {
+      "SPANISH": "progresaría",
+      "ENGLISH": "s/he would progress, you (formal) would progress"
+    },
+    "ELLOS": {
+      "SPANISH": "progresarían",
+      "ENGLISH": "they would progress, you (plural formal) would progress"
+    },
+    "NOSOTROS": {
+      "SPANISH": "progresaríamos",
+      "ENGLISH": "we would progress"
+    },
+    "VOSOTROS": {
+      "SPANISH": "progresaríais",
+      "ENGLISH": "you (plural) would progress"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría progresado",
+      "ENGLISH": "I would have progressed"
+    },
+    "TU": {
+      "SPANISH": "habrías progresado",
+      "ENGLISH": "you would have progressed"
+    },
+    "EL": {
+      "SPANISH": "habría progresado",
+      "ENGLISH": "s/he would have progressed, you (formal) would have progressed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían progresado",
+      "ENGLISH": "they would have progressed, you (plural formal) would have progressed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos progresado",
+      "ENGLISH": "we would have progressed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais progresado",
+      "ENGLISH": "you (plural) would have progressed"
+    }
+  }
+}

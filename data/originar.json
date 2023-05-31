@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "origino",
+      "ENGLISH": "I originate"
+    },
+    "TU": {
+      "SPANISH": "originas",
+      "ENGLISH": "you originate"
+    },
+    "EL": {
+      "SPANISH": "origina",
+      "ENGLISH": "s/he originates, you (formal) originates"
+    },
+    "ELLOS": {
+      "SPANISH": "originan",
+      "ENGLISH": "they originate, you (plural formal) originate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "originamos",
+      "ENGLISH": "we originate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "origináis",
+      "ENGLISH": "you (plural) originate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he originado",
+      "ENGLISH": "I have originated"
+    },
+    "TU": {
+      "SPANISH": "has originado",
+      "ENGLISH": "you have originated"
+    },
+    "EL": {
+      "SPANISH": "ha originado",
+      "ENGLISH": "s/he has originated, you (formal) have originated"
+    },
+    "ELLOS": {
+      "SPANISH": "han originado",
+      "ENGLISH": "they have originated, you (plural formal) have originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos originado",
+      "ENGLISH": "we have originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis originado",
+      "ENGLISH": "you (plural) have originated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "originé",
+      "ENGLISH": "I originated"
+    },
+    "TU": {
+      "SPANISH": "originaste",
+      "ENGLISH": "you originated"
+    },
+    "EL": {
+      "SPANISH": "originó",
+      "ENGLISH": "s/he originated, you (formal) originated"
+    },
+    "ELLOS": {
+      "SPANISH": "originaron",
+      "ENGLISH": "they originated, you (plural formal) originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "originamos",
+      "ENGLISH": "we originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "originasteis",
+      "ENGLISH": "you (plural) originated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había originado",
+      "ENGLISH": "I had originated"
+    },
+    "TU": {
+      "SPANISH": "habías originado",
+      "ENGLISH": "you had originated"
+    },
+    "EL": {
+      "SPANISH": "había originado",
+      "ENGLISH": "s/he had originated, you (formal) had originated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían originado",
+      "ENGLISH": "they had originated, you (plural formal) had originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos originado",
+      "ENGLISH": "we had originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais originado",
+      "ENGLISH": "you (plural) had originated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "originé",
+      "ENGLISH": "I originated"
+    },
+    "TU": {
+      "SPANISH": "originaste",
+      "ENGLISH": "you originated"
+    },
+    "EL": {
+      "SPANISH": "originó",
+      "ENGLISH": "s/he originated, you (formal) originated"
+    },
+    "ELLOS": {
+      "SPANISH": "originaron",
+      "ENGLISH": "they originated, you (plural formal) originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "originamos",
+      "ENGLISH": "we originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "originasteis",
+      "ENGLISH": "you (plural) originated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "originaré",
+      "ENGLISH": "I will originate"
+    },
+    "TU": {
+      "SPANISH": "originarás",
+      "ENGLISH": "you will originate"
+    },
+    "EL": {
+      "SPANISH": "originará",
+      "ENGLISH": "s/he will originate, you (formal) will originate"
+    },
+    "ELLOS": {
+      "SPANISH": "originarán",
+      "ENGLISH": "they will originate, you (plural formal) will originate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "originaremos",
+      "ENGLISH": "we will originate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "originaréis",
+      "ENGLISH": "you (plural) will originate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré originado",
+      "ENGLISH": "I will have originated"
+    },
+    "TU": {
+      "SPANISH": "habrás originado",
+      "ENGLISH": "you will have originated"
+    },
+    "EL": {
+      "SPANISH": "habrá originado",
+      "ENGLISH": "s/he will have originated, you (formal) will have originated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán originado",
+      "ENGLISH": "they will have originated, you (plural formal) will have originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos originado",
+      "ENGLISH": "we will have originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis originado",
+      "ENGLISH": "you (plural) will have originated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "originaría",
+      "ENGLISH": "I would originate"
+    },
+    "TU": {
+      "SPANISH": "originarías",
+      "ENGLISH": "you would originate"
+    },
+    "EL": {
+      "SPANISH": "originaría",
+      "ENGLISH": "s/he would originate, you (formal) would originate"
+    },
+    "ELLOS": {
+      "SPANISH": "originarían",
+      "ENGLISH": "they would originate, you (plural formal) would originate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "originaríamos",
+      "ENGLISH": "we would originate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "originaríais",
+      "ENGLISH": "you (plural) would originate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría originado",
+      "ENGLISH": "I would have originated"
+    },
+    "TU": {
+      "SPANISH": "habrías originado",
+      "ENGLISH": "you would have originated"
+    },
+    "EL": {
+      "SPANISH": "habría originado",
+      "ENGLISH": "s/he would have originated, you (formal) would have originated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían originado",
+      "ENGLISH": "they would have originated, you (plural formal) would have originated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos originado",
+      "ENGLISH": "we would have originated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais originado",
+      "ENGLISH": "you (plural) would have originated"
+    }
+  }
+}

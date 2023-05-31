@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "digo ",
+      "ENGLISH": "I say"
+    },
+    "TU": {
+      "SPANISH": "dices ",
+      "ENGLISH": "you say"
+    },
+    "EL": {
+      "SPANISH": "dice ",
+      "ENGLISH": "s/he says, you (formal) says"
+    },
+    "ELLOS": {
+      "SPANISH": "dicen ",
+      "ENGLISH": "they say, you (plural formal) say"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decimos",
+      "ENGLISH": "we say"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decís",
+      "ENGLISH": "you (plural) say"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he dicho ",
+      "ENGLISH": "I have said"
+    },
+    "TU": {
+      "SPANISH": "has dicho ",
+      "ENGLISH": "you have said"
+    },
+    "EL": {
+      "SPANISH": "ha dicho ",
+      "ENGLISH": "s/he has said, you (formal) have said"
+    },
+    "ELLOS": {
+      "SPANISH": "han dicho ",
+      "ENGLISH": "they have said, you (plural formal) have said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos dicho ",
+      "ENGLISH": "we have said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis dicho ",
+      "ENGLISH": "you (plural) have said"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "dije ",
+      "ENGLISH": "I said"
+    },
+    "TU": {
+      "SPANISH": "dijiste ",
+      "ENGLISH": "you said"
+    },
+    "EL": {
+      "SPANISH": "dijo ",
+      "ENGLISH": "s/he said, you (formal) said"
+    },
+    "ELLOS": {
+      "SPANISH": "dijeron ",
+      "ENGLISH": "they said, you (plural formal) said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dijimos ",
+      "ENGLISH": "we said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dijisteis ",
+      "ENGLISH": "you (plural) said"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había dicho ",
+      "ENGLISH": "I had said"
+    },
+    "TU": {
+      "SPANISH": "habías dicho ",
+      "ENGLISH": "you had said"
+    },
+    "EL": {
+      "SPANISH": "había dicho ",
+      "ENGLISH": "s/he had said, you (formal) had said"
+    },
+    "ELLOS": {
+      "SPANISH": "habían dicho ",
+      "ENGLISH": "they had said, you (plural formal) had said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos dicho ",
+      "ENGLISH": "we had said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais dicho ",
+      "ENGLISH": "you (plural) had said"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "dije ",
+      "ENGLISH": "I said"
+    },
+    "TU": {
+      "SPANISH": "dijiste ",
+      "ENGLISH": "you said"
+    },
+    "EL": {
+      "SPANISH": "dijo ",
+      "ENGLISH": "s/he said, you (formal) said"
+    },
+    "ELLOS": {
+      "SPANISH": "dijeron ",
+      "ENGLISH": "they said, you (plural formal) said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dijimos ",
+      "ENGLISH": "we said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dijisteis ",
+      "ENGLISH": "you (plural) said"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "diré ",
+      "ENGLISH": "I will say"
+    },
+    "TU": {
+      "SPANISH": "dirás ",
+      "ENGLISH": "you will say"
+    },
+    "EL": {
+      "SPANISH": "dirá ",
+      "ENGLISH": "s/he will say, you (formal) will say"
+    },
+    "ELLOS": {
+      "SPANISH": "dirán ",
+      "ENGLISH": "they will say, you (plural formal) will say"
+    },
+    "NOSOTROS": {
+      "SPANISH": "diremos ",
+      "ENGLISH": "we will say"
+    },
+    "VOSOTROS": {
+      "SPANISH": "diréis ",
+      "ENGLISH": "you (plural) will say"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré dicho ",
+      "ENGLISH": "I will have said"
+    },
+    "TU": {
+      "SPANISH": "habrás dicho ",
+      "ENGLISH": "you will have said"
+    },
+    "EL": {
+      "SPANISH": "habrá dicho ",
+      "ENGLISH": "s/he will have said, you (formal) will have said"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán dicho ",
+      "ENGLISH": "they will have said, you (plural formal) will have said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos dicho ",
+      "ENGLISH": "we will have said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis dicho ",
+      "ENGLISH": "you (plural) will have said"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "diría ",
+      "ENGLISH": "I would say"
+    },
+    "TU": {
+      "SPANISH": "dirías ",
+      "ENGLISH": "you would say"
+    },
+    "EL": {
+      "SPANISH": "diría ",
+      "ENGLISH": "s/he would say, you (formal) would say"
+    },
+    "ELLOS": {
+      "SPANISH": "dirían ",
+      "ENGLISH": "they would say, you (plural formal) would say"
+    },
+    "NOSOTROS": {
+      "SPANISH": "diríamos ",
+      "ENGLISH": "we would say"
+    },
+    "VOSOTROS": {
+      "SPANISH": "diríais ",
+      "ENGLISH": "you (plural) would say"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría dicho ",
+      "ENGLISH": "I would have said"
+    },
+    "TU": {
+      "SPANISH": "habrías dicho ",
+      "ENGLISH": "you would have said"
+    },
+    "EL": {
+      "SPANISH": "habría dicho ",
+      "ENGLISH": "s/he would have said, you (formal) would have said"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían dicho ",
+      "ENGLISH": "they would have said, you (plural formal) would have said"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos dicho ",
+      "ENGLISH": "we would have said"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais dicho ",
+      "ENGLISH": "you (plural) would have said"
+    }
+  }
+}

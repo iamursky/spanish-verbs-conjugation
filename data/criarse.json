@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me crío ",
+      "ENGLISH": "I raise"
+    },
+    "TU": {
+      "SPANISH": "te crías ",
+      "ENGLISH": "you raise"
+    },
+    "EL": {
+      "SPANISH": "se cría ",
+      "ENGLISH": "s/he raises, you (formal) raises"
+    },
+    "ELLOS": {
+      "SPANISH": "se crían ",
+      "ENGLISH": "they raise, you (plural formal) raise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos criamos",
+      "ENGLISH": "we raise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os criáis",
+      "ENGLISH": "you (plural) raise"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he criado",
+      "ENGLISH": "I have raised"
+    },
+    "TU": {
+      "SPANISH": "te has criado",
+      "ENGLISH": "you have raised"
+    },
+    "EL": {
+      "SPANISH": "se ha criado",
+      "ENGLISH": "s/he has raised, you (formal) have raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se han criado",
+      "ENGLISH": "they have raised, you (plural formal) have raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos criado",
+      "ENGLISH": "we have raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis criado",
+      "ENGLISH": "you (plural) have raised"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me crie ",
+      "ENGLISH": "I raised"
+    },
+    "TU": {
+      "SPANISH": "te criaste",
+      "ENGLISH": "you raised"
+    },
+    "EL": {
+      "SPANISH": "se crio ",
+      "ENGLISH": "s/he raised, you (formal) raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se criaron",
+      "ENGLISH": "they raised, you (plural formal) raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos criamos",
+      "ENGLISH": "we raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os criasteis",
+      "ENGLISH": "you (plural) raised"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había criado",
+      "ENGLISH": "I had raised"
+    },
+    "TU": {
+      "SPANISH": "te habías criado",
+      "ENGLISH": "you had raised"
+    },
+    "EL": {
+      "SPANISH": "se había criado",
+      "ENGLISH": "s/he had raised, you (formal) had raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían criado",
+      "ENGLISH": "they had raised, you (plural formal) had raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos criado",
+      "ENGLISH": "we had raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais criado",
+      "ENGLISH": "you (plural) had raised"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me crie ",
+      "ENGLISH": "I raised"
+    },
+    "TU": {
+      "SPANISH": "te criaste",
+      "ENGLISH": "you raised"
+    },
+    "EL": {
+      "SPANISH": "se crio ",
+      "ENGLISH": "s/he raised, you (formal) raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se criaron",
+      "ENGLISH": "they raised, you (plural formal) raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos criamos",
+      "ENGLISH": "we raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os criasteis",
+      "ENGLISH": "you (plural) raised"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me criaré",
+      "ENGLISH": "I will raise"
+    },
+    "TU": {
+      "SPANISH": "te criarás",
+      "ENGLISH": "you will raise"
+    },
+    "EL": {
+      "SPANISH": "se criará",
+      "ENGLISH": "s/he will raise, you (formal) will raise"
+    },
+    "ELLOS": {
+      "SPANISH": "se criarán",
+      "ENGLISH": "they will raise, you (plural formal) will raise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos criaremos",
+      "ENGLISH": "we will raise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os criaréis",
+      "ENGLISH": "you (plural) will raise"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré criado",
+      "ENGLISH": "I will have raised"
+    },
+    "TU": {
+      "SPANISH": "te habrás criado",
+      "ENGLISH": "you will have raised"
+    },
+    "EL": {
+      "SPANISH": "se habrá criado",
+      "ENGLISH": "s/he will have raised, you (formal) will have raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán criado",
+      "ENGLISH": "they will have raised, you (plural formal) will have raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos criado",
+      "ENGLISH": "we will have raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis criado",
+      "ENGLISH": "you (plural) will have raised"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me criaría",
+      "ENGLISH": "I would raise"
+    },
+    "TU": {
+      "SPANISH": "te criarías",
+      "ENGLISH": "you would raise"
+    },
+    "EL": {
+      "SPANISH": "se criaría",
+      "ENGLISH": "s/he would raise, you (formal) would raise"
+    },
+    "ELLOS": {
+      "SPANISH": "se criarían",
+      "ENGLISH": "they would raise, you (plural formal) would raise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos criaríamos",
+      "ENGLISH": "we would raise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os criaríais",
+      "ENGLISH": "you (plural) would raise"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría criado",
+      "ENGLISH": "I would have raised"
+    },
+    "TU": {
+      "SPANISH": "te habrías criado",
+      "ENGLISH": "you would have raised"
+    },
+    "EL": {
+      "SPANISH": "se habría criado",
+      "ENGLISH": "s/he would have raised, you (formal) would have raised"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían criado",
+      "ENGLISH": "they would have raised, you (plural formal) would have raised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos criado",
+      "ENGLISH": "we would have raised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais criado",
+      "ENGLISH": "you (plural) would have raised"
+    }
+  }
+}

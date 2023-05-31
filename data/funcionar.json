@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "funciono",
+      "ENGLISH": "I function"
+    },
+    "TU": {
+      "SPANISH": "funcionas",
+      "ENGLISH": "you function"
+    },
+    "EL": {
+      "SPANISH": "funciona",
+      "ENGLISH": "s/he functions, you (formal) functions"
+    },
+    "ELLOS": {
+      "SPANISH": "funcionan",
+      "ENGLISH": "they function, you (plural formal) function"
+    },
+    "NOSOTROS": {
+      "SPANISH": "funcionamos",
+      "ENGLISH": "we function"
+    },
+    "VOSOTROS": {
+      "SPANISH": "funcionáis",
+      "ENGLISH": "you (plural) function"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he funcionado",
+      "ENGLISH": "I have functioned"
+    },
+    "TU": {
+      "SPANISH": "has funcionado",
+      "ENGLISH": "you have functioned"
+    },
+    "EL": {
+      "SPANISH": "ha funcionado",
+      "ENGLISH": "s/he has functioned, you (formal) have functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "han funcionado",
+      "ENGLISH": "they have functioned, you (plural formal) have functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos funcionado",
+      "ENGLISH": "we have functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis funcionado",
+      "ENGLISH": "you (plural) have functioned"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "funcioné",
+      "ENGLISH": "I functioned"
+    },
+    "TU": {
+      "SPANISH": "funcionaste",
+      "ENGLISH": "you functioned"
+    },
+    "EL": {
+      "SPANISH": "funcionó",
+      "ENGLISH": "s/he functioned, you (formal) functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "funcionaron",
+      "ENGLISH": "they functioned, you (plural formal) functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "funcionamos",
+      "ENGLISH": "we functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "funcionasteis",
+      "ENGLISH": "you (plural) functioned"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había funcionado",
+      "ENGLISH": "I had functioned"
+    },
+    "TU": {
+      "SPANISH": "habías funcionado",
+      "ENGLISH": "you had functioned"
+    },
+    "EL": {
+      "SPANISH": "había funcionado",
+      "ENGLISH": "s/he had functioned, you (formal) had functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "habían funcionado",
+      "ENGLISH": "they had functioned, you (plural formal) had functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos funcionado",
+      "ENGLISH": "we had functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais funcionado",
+      "ENGLISH": "you (plural) had functioned"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "funcioné",
+      "ENGLISH": "I functioned"
+    },
+    "TU": {
+      "SPANISH": "funcionaste",
+      "ENGLISH": "you functioned"
+    },
+    "EL": {
+      "SPANISH": "funcionó",
+      "ENGLISH": "s/he functioned, you (formal) functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "funcionaron",
+      "ENGLISH": "they functioned, you (plural formal) functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "funcionamos",
+      "ENGLISH": "we functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "funcionasteis",
+      "ENGLISH": "you (plural) functioned"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "funcionaré",
+      "ENGLISH": "I will function"
+    },
+    "TU": {
+      "SPANISH": "funcionarás",
+      "ENGLISH": "you will function"
+    },
+    "EL": {
+      "SPANISH": "funcionará",
+      "ENGLISH": "s/he will function, you (formal) will function"
+    },
+    "ELLOS": {
+      "SPANISH": "funcionarán",
+      "ENGLISH": "they will function, you (plural formal) will function"
+    },
+    "NOSOTROS": {
+      "SPANISH": "funcionaremos",
+      "ENGLISH": "we will function"
+    },
+    "VOSOTROS": {
+      "SPANISH": "funcionaréis",
+      "ENGLISH": "you (plural) will function"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré funcionado",
+      "ENGLISH": "I will have functioned"
+    },
+    "TU": {
+      "SPANISH": "habrás funcionado",
+      "ENGLISH": "you will have functioned"
+    },
+    "EL": {
+      "SPANISH": "habrá funcionado",
+      "ENGLISH": "s/he will have functioned, you (formal) will have functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán funcionado",
+      "ENGLISH": "they will have functioned, you (plural formal) will have functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos funcionado",
+      "ENGLISH": "we will have functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis funcionado",
+      "ENGLISH": "you (plural) will have functioned"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "funcionaría",
+      "ENGLISH": "I would function"
+    },
+    "TU": {
+      "SPANISH": "funcionarías",
+      "ENGLISH": "you would function"
+    },
+    "EL": {
+      "SPANISH": "funcionaría",
+      "ENGLISH": "s/he would function, you (formal) would function"
+    },
+    "ELLOS": {
+      "SPANISH": "funcionarían",
+      "ENGLISH": "they would function, you (plural formal) would function"
+    },
+    "NOSOTROS": {
+      "SPANISH": "funcionaríamos",
+      "ENGLISH": "we would function"
+    },
+    "VOSOTROS": {
+      "SPANISH": "funcionaríais",
+      "ENGLISH": "you (plural) would function"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría funcionado",
+      "ENGLISH": "I would have functioned"
+    },
+    "TU": {
+      "SPANISH": "habrías funcionado",
+      "ENGLISH": "you would have functioned"
+    },
+    "EL": {
+      "SPANISH": "habría funcionado",
+      "ENGLISH": "s/he would have functioned, you (formal) would have functioned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían funcionado",
+      "ENGLISH": "they would have functioned, you (plural formal) would have functioned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos funcionado",
+      "ENGLISH": "we would have functioned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais funcionado",
+      "ENGLISH": "you (plural) would have functioned"
+    }
+  }
+}

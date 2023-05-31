@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "creo",
+      "ENGLISH": "I believe"
+    },
+    "TU": {
+      "SPANISH": "crees",
+      "ENGLISH": "you believe"
+    },
+    "EL": {
+      "SPANISH": "cree",
+      "ENGLISH": "s/he believes, you (formal) believes"
+    },
+    "ELLOS": {
+      "SPANISH": "creen",
+      "ENGLISH": "they believe, you (plural formal) believe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creemos",
+      "ENGLISH": "we believe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creéis",
+      "ENGLISH": "you (plural) believe"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he creído ",
+      "ENGLISH": "I have believed"
+    },
+    "TU": {
+      "SPANISH": "has creído ",
+      "ENGLISH": "you have believed"
+    },
+    "EL": {
+      "SPANISH": "ha creído ",
+      "ENGLISH": "s/he has believed, you (formal) have believed"
+    },
+    "ELLOS": {
+      "SPANISH": "han creído ",
+      "ENGLISH": "they have believed, you (plural formal) have believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos creído ",
+      "ENGLISH": "we have believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis creído ",
+      "ENGLISH": "you (plural) have believed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "creí",
+      "ENGLISH": "I believed"
+    },
+    "TU": {
+      "SPANISH": "creíste ",
+      "ENGLISH": "you believed"
+    },
+    "EL": {
+      "SPANISH": "creyó ",
+      "ENGLISH": "s/he believed, you (formal) believed"
+    },
+    "ELLOS": {
+      "SPANISH": "creyeron ",
+      "ENGLISH": "they believed, you (plural formal) believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creímos ",
+      "ENGLISH": "we believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creísteis ",
+      "ENGLISH": "you (plural) believed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había creído ",
+      "ENGLISH": "I had believed"
+    },
+    "TU": {
+      "SPANISH": "habías creído ",
+      "ENGLISH": "you had believed"
+    },
+    "EL": {
+      "SPANISH": "había creído ",
+      "ENGLISH": "s/he had believed, you (formal) had believed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían creído ",
+      "ENGLISH": "they had believed, you (plural formal) had believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos creído ",
+      "ENGLISH": "we had believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais creído ",
+      "ENGLISH": "you (plural) had believed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "creí",
+      "ENGLISH": "I believed"
+    },
+    "TU": {
+      "SPANISH": "creíste ",
+      "ENGLISH": "you believed"
+    },
+    "EL": {
+      "SPANISH": "creyó ",
+      "ENGLISH": "s/he believed, you (formal) believed"
+    },
+    "ELLOS": {
+      "SPANISH": "creyeron ",
+      "ENGLISH": "they believed, you (plural formal) believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creímos ",
+      "ENGLISH": "we believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creísteis ",
+      "ENGLISH": "you (plural) believed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "creeré",
+      "ENGLISH": "I will believe"
+    },
+    "TU": {
+      "SPANISH": "creerás",
+      "ENGLISH": "you will believe"
+    },
+    "EL": {
+      "SPANISH": "creerá",
+      "ENGLISH": "s/he will believe, you (formal) will believe"
+    },
+    "ELLOS": {
+      "SPANISH": "creerán",
+      "ENGLISH": "they will believe, you (plural formal) will believe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creeremos",
+      "ENGLISH": "we will believe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creeréis",
+      "ENGLISH": "you (plural) will believe"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré creído ",
+      "ENGLISH": "I will have believed"
+    },
+    "TU": {
+      "SPANISH": "habrás creído ",
+      "ENGLISH": "you will have believed"
+    },
+    "EL": {
+      "SPANISH": "habrá creído ",
+      "ENGLISH": "s/he will have believed, you (formal) will have believed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán creído ",
+      "ENGLISH": "they will have believed, you (plural formal) will have believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos creído ",
+      "ENGLISH": "we will have believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis creído ",
+      "ENGLISH": "you (plural) will have believed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "creería",
+      "ENGLISH": "I would believe"
+    },
+    "TU": {
+      "SPANISH": "creerías",
+      "ENGLISH": "you would believe"
+    },
+    "EL": {
+      "SPANISH": "creería",
+      "ENGLISH": "s/he would believe, you (formal) would believe"
+    },
+    "ELLOS": {
+      "SPANISH": "creerían",
+      "ENGLISH": "they would believe, you (plural formal) would believe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creeríamos",
+      "ENGLISH": "we would believe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creeríais",
+      "ENGLISH": "you (plural) would believe"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría creído ",
+      "ENGLISH": "I would have believed"
+    },
+    "TU": {
+      "SPANISH": "habrías creído ",
+      "ENGLISH": "you would have believed"
+    },
+    "EL": {
+      "SPANISH": "habría creído ",
+      "ENGLISH": "s/he would have believed, you (formal) would have believed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían creído ",
+      "ENGLISH": "they would have believed, you (plural formal) would have believed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos creído ",
+      "ENGLISH": "we would have believed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais creído ",
+      "ENGLISH": "you (plural) would have believed"
+    }
+  }
+}

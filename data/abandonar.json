@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "abandono",
+      "ENGLISH": "I abandon"
+    },
+    "TU": {
+      "SPANISH": "abandonas",
+      "ENGLISH": "you abandon"
+    },
+    "EL": {
+      "SPANISH": "abandona",
+      "ENGLISH": "s/he abandons, you (formal) abandons"
+    },
+    "ELLOS": {
+      "SPANISH": "abandonan",
+      "ENGLISH": "they abandon, you (plural formal) abandon"
+    },
+    "NOSOTROS": {
+      "SPANISH": "abandonamos",
+      "ENGLISH": "we abandon"
+    },
+    "VOSOTROS": {
+      "SPANISH": "abandonáis",
+      "ENGLISH": "you (plural) abandon"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he abandonado",
+      "ENGLISH": "I have abandoned"
+    },
+    "TU": {
+      "SPANISH": "has abandonado",
+      "ENGLISH": "you have abandoned"
+    },
+    "EL": {
+      "SPANISH": "ha abandonado",
+      "ENGLISH": "s/he has abandoned, you (formal) have abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "han abandonado",
+      "ENGLISH": "they have abandoned, you (plural formal) have abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos abandonado",
+      "ENGLISH": "we have abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis abandonado",
+      "ENGLISH": "you (plural) have abandoned"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "abandoné",
+      "ENGLISH": "I abandoned"
+    },
+    "TU": {
+      "SPANISH": "abandonaste",
+      "ENGLISH": "you abandoned"
+    },
+    "EL": {
+      "SPANISH": "abandonó",
+      "ENGLISH": "s/he abandoned, you (formal) abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "abandonaron",
+      "ENGLISH": "they abandoned, you (plural formal) abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "abandonamos",
+      "ENGLISH": "we abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "abandonasteis",
+      "ENGLISH": "you (plural) abandoned"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había abandonado",
+      "ENGLISH": "I had abandoned"
+    },
+    "TU": {
+      "SPANISH": "habías abandonado",
+      "ENGLISH": "you had abandoned"
+    },
+    "EL": {
+      "SPANISH": "había abandonado",
+      "ENGLISH": "s/he had abandoned, you (formal) had abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "habían abandonado",
+      "ENGLISH": "they had abandoned, you (plural formal) had abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos abandonado",
+      "ENGLISH": "we had abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais abandonado",
+      "ENGLISH": "you (plural) had abandoned"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "abandoné",
+      "ENGLISH": "I abandoned"
+    },
+    "TU": {
+      "SPANISH": "abandonaste",
+      "ENGLISH": "you abandoned"
+    },
+    "EL": {
+      "SPANISH": "abandonó",
+      "ENGLISH": "s/he abandoned, you (formal) abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "abandonaron",
+      "ENGLISH": "they abandoned, you (plural formal) abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "abandonamos",
+      "ENGLISH": "we abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "abandonasteis",
+      "ENGLISH": "you (plural) abandoned"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "abandonaré",
+      "ENGLISH": "I will abandon"
+    },
+    "TU": {
+      "SPANISH": "abandonarás",
+      "ENGLISH": "you will abandon"
+    },
+    "EL": {
+      "SPANISH": "abandonará",
+      "ENGLISH": "s/he will abandon, you (formal) will abandon"
+    },
+    "ELLOS": {
+      "SPANISH": "abandonarán",
+      "ENGLISH": "they will abandon, you (plural formal) will abandon"
+    },
+    "NOSOTROS": {
+      "SPANISH": "abandonaremos",
+      "ENGLISH": "we will abandon"
+    },
+    "VOSOTROS": {
+      "SPANISH": "abandonaréis",
+      "ENGLISH": "you (plural) will abandon"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré abandonado",
+      "ENGLISH": "I will have abandoned"
+    },
+    "TU": {
+      "SPANISH": "habrás abandonado",
+      "ENGLISH": "you will have abandoned"
+    },
+    "EL": {
+      "SPANISH": "habrá abandonado",
+      "ENGLISH": "s/he will have abandoned, you (formal) will have abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán abandonado",
+      "ENGLISH": "they will have abandoned, you (plural formal) will have abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos abandonado",
+      "ENGLISH": "we will have abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis abandonado",
+      "ENGLISH": "you (plural) will have abandoned"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "abandonaría",
+      "ENGLISH": "I would abandon"
+    },
+    "TU": {
+      "SPANISH": "abandonarías",
+      "ENGLISH": "you would abandon"
+    },
+    "EL": {
+      "SPANISH": "abandonaría",
+      "ENGLISH": "s/he would abandon, you (formal) would abandon"
+    },
+    "ELLOS": {
+      "SPANISH": "abandonarían",
+      "ENGLISH": "they would abandon, you (plural formal) would abandon"
+    },
+    "NOSOTROS": {
+      "SPANISH": "abandonaríamos",
+      "ENGLISH": "we would abandon"
+    },
+    "VOSOTROS": {
+      "SPANISH": "abandonaríais",
+      "ENGLISH": "you (plural) would abandon"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría abandonado",
+      "ENGLISH": "I would have abandoned"
+    },
+    "TU": {
+      "SPANISH": "habrías abandonado",
+      "ENGLISH": "you would have abandoned"
+    },
+    "EL": {
+      "SPANISH": "habría abandonado",
+      "ENGLISH": "s/he would have abandoned, you (formal) would have abandoned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían abandonado",
+      "ENGLISH": "they would have abandoned, you (plural formal) would have abandoned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos abandonado",
+      "ENGLISH": "we would have abandoned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais abandonado",
+      "ENGLISH": "you (plural) would have abandoned"
+    }
+  }
+}

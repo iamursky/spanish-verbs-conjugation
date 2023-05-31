@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "enseño",
+      "ENGLISH": "I teach"
+    },
+    "TU": {
+      "SPANISH": "enseñas",
+      "ENGLISH": "you teach"
+    },
+    "EL": {
+      "SPANISH": "enseña",
+      "ENGLISH": "s/he teaches, you (formal) teaches"
+    },
+    "ELLOS": {
+      "SPANISH": "enseñan",
+      "ENGLISH": "they teach, you (plural formal) teach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enseñamos",
+      "ENGLISH": "we teach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enseñáis",
+      "ENGLISH": "you (plural) teach"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he enseñado",
+      "ENGLISH": "I have taught"
+    },
+    "TU": {
+      "SPANISH": "has enseñado",
+      "ENGLISH": "you have taught"
+    },
+    "EL": {
+      "SPANISH": "ha enseñado",
+      "ENGLISH": "s/he has taught, you (formal) have taught"
+    },
+    "ELLOS": {
+      "SPANISH": "han enseñado",
+      "ENGLISH": "they have taught, you (plural formal) have taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos enseñado",
+      "ENGLISH": "we have taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis enseñado",
+      "ENGLISH": "you (plural) have taught"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "enseñé",
+      "ENGLISH": "I taught"
+    },
+    "TU": {
+      "SPANISH": "enseñaste",
+      "ENGLISH": "you taught"
+    },
+    "EL": {
+      "SPANISH": "enseñó",
+      "ENGLISH": "s/he taught, you (formal) taught"
+    },
+    "ELLOS": {
+      "SPANISH": "enseñaron",
+      "ENGLISH": "they taught, you (plural formal) taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enseñamos",
+      "ENGLISH": "we taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enseñasteis",
+      "ENGLISH": "you (plural) taught"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había enseñado",
+      "ENGLISH": "I had taught"
+    },
+    "TU": {
+      "SPANISH": "habías enseñado",
+      "ENGLISH": "you had taught"
+    },
+    "EL": {
+      "SPANISH": "había enseñado",
+      "ENGLISH": "s/he had taught, you (formal) had taught"
+    },
+    "ELLOS": {
+      "SPANISH": "habían enseñado",
+      "ENGLISH": "they had taught, you (plural formal) had taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos enseñado",
+      "ENGLISH": "we had taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais enseñado",
+      "ENGLISH": "you (plural) had taught"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "enseñé",
+      "ENGLISH": "I taught"
+    },
+    "TU": {
+      "SPANISH": "enseñaste",
+      "ENGLISH": "you taught"
+    },
+    "EL": {
+      "SPANISH": "enseñó",
+      "ENGLISH": "s/he taught, you (formal) taught"
+    },
+    "ELLOS": {
+      "SPANISH": "enseñaron",
+      "ENGLISH": "they taught, you (plural formal) taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enseñamos",
+      "ENGLISH": "we taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enseñasteis",
+      "ENGLISH": "you (plural) taught"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "enseñaré",
+      "ENGLISH": "I will teach"
+    },
+    "TU": {
+      "SPANISH": "enseñarás",
+      "ENGLISH": "you will teach"
+    },
+    "EL": {
+      "SPANISH": "enseñará",
+      "ENGLISH": "s/he will teach, you (formal) will teach"
+    },
+    "ELLOS": {
+      "SPANISH": "enseñarán",
+      "ENGLISH": "they will teach, you (plural formal) will teach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enseñaremos",
+      "ENGLISH": "we will teach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enseñaréis",
+      "ENGLISH": "you (plural) will teach"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré enseñado",
+      "ENGLISH": "I will have taught"
+    },
+    "TU": {
+      "SPANISH": "habrás enseñado",
+      "ENGLISH": "you will have taught"
+    },
+    "EL": {
+      "SPANISH": "habrá enseñado",
+      "ENGLISH": "s/he will have taught, you (formal) will have taught"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán enseñado",
+      "ENGLISH": "they will have taught, you (plural formal) will have taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos enseñado",
+      "ENGLISH": "we will have taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis enseñado",
+      "ENGLISH": "you (plural) will have taught"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "enseñaría",
+      "ENGLISH": "I would teach"
+    },
+    "TU": {
+      "SPANISH": "enseñarías",
+      "ENGLISH": "you would teach"
+    },
+    "EL": {
+      "SPANISH": "enseñaría",
+      "ENGLISH": "s/he would teach, you (formal) would teach"
+    },
+    "ELLOS": {
+      "SPANISH": "enseñarían",
+      "ENGLISH": "they would teach, you (plural formal) would teach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enseñaríamos",
+      "ENGLISH": "we would teach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enseñaríais",
+      "ENGLISH": "you (plural) would teach"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría enseñado",
+      "ENGLISH": "I would have taught"
+    },
+    "TU": {
+      "SPANISH": "habrías enseñado",
+      "ENGLISH": "you would have taught"
+    },
+    "EL": {
+      "SPANISH": "habría enseñado",
+      "ENGLISH": "s/he would have taught, you (formal) would have taught"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían enseñado",
+      "ENGLISH": "they would have taught, you (plural formal) would have taught"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos enseñado",
+      "ENGLISH": "we would have taught"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais enseñado",
+      "ENGLISH": "you (plural) would have taught"
+    }
+  }
+}

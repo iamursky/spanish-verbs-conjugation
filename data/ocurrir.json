@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "ocurro",
+      "ENGLISH": "I occur"
+    },
+    "TU": {
+      "SPANISH": "ocurres",
+      "ENGLISH": "you occur"
+    },
+    "EL": {
+      "SPANISH": "ocurre",
+      "ENGLISH": "s/he occurs, you (formal) occurs"
+    },
+    "ELLOS": {
+      "SPANISH": "ocurren",
+      "ENGLISH": "they occur, you (plural formal) occur"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocurrimos",
+      "ENGLISH": "we occur"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocurrís",
+      "ENGLISH": "you (plural) occur"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he ocurrido",
+      "ENGLISH": "I have occured"
+    },
+    "TU": {
+      "SPANISH": "has ocurrido",
+      "ENGLISH": "you have occured"
+    },
+    "EL": {
+      "SPANISH": "ha ocurrido",
+      "ENGLISH": "s/he has occured, you (formal) have occured"
+    },
+    "ELLOS": {
+      "SPANISH": "han ocurrido",
+      "ENGLISH": "they have occured, you (plural formal) have occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos ocurrido",
+      "ENGLISH": "we have occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis ocurrido",
+      "ENGLISH": "you (plural) have occured"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "ocurrí",
+      "ENGLISH": "I occured"
+    },
+    "TU": {
+      "SPANISH": "ocurriste",
+      "ENGLISH": "you occured"
+    },
+    "EL": {
+      "SPANISH": "ocurrió",
+      "ENGLISH": "s/he occured, you (formal) occured"
+    },
+    "ELLOS": {
+      "SPANISH": "ocurrieron",
+      "ENGLISH": "they occured, you (plural formal) occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocurrimos",
+      "ENGLISH": "we occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocurristeis",
+      "ENGLISH": "you (plural) occured"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había ocurrido",
+      "ENGLISH": "I had occured"
+    },
+    "TU": {
+      "SPANISH": "habías ocurrido",
+      "ENGLISH": "you had occured"
+    },
+    "EL": {
+      "SPANISH": "había ocurrido",
+      "ENGLISH": "s/he had occured, you (formal) had occured"
+    },
+    "ELLOS": {
+      "SPANISH": "habían ocurrido",
+      "ENGLISH": "they had occured, you (plural formal) had occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos ocurrido",
+      "ENGLISH": "we had occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais ocurrido",
+      "ENGLISH": "you (plural) had occured"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "ocurrí",
+      "ENGLISH": "I occured"
+    },
+    "TU": {
+      "SPANISH": "ocurriste",
+      "ENGLISH": "you occured"
+    },
+    "EL": {
+      "SPANISH": "ocurrió",
+      "ENGLISH": "s/he occured, you (formal) occured"
+    },
+    "ELLOS": {
+      "SPANISH": "ocurrieron",
+      "ENGLISH": "they occured, you (plural formal) occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocurrimos",
+      "ENGLISH": "we occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocurristeis",
+      "ENGLISH": "you (plural) occured"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "ocurriré",
+      "ENGLISH": "I will occur"
+    },
+    "TU": {
+      "SPANISH": "ocurrirás",
+      "ENGLISH": "you will occur"
+    },
+    "EL": {
+      "SPANISH": "ocurrirá",
+      "ENGLISH": "s/he will occur, you (formal) will occur"
+    },
+    "ELLOS": {
+      "SPANISH": "ocurrirán",
+      "ENGLISH": "they will occur, you (plural formal) will occur"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocurriremos",
+      "ENGLISH": "we will occur"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocurriréis",
+      "ENGLISH": "you (plural) will occur"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré ocurrido",
+      "ENGLISH": "I will have occured"
+    },
+    "TU": {
+      "SPANISH": "habrás ocurrido",
+      "ENGLISH": "you will have occured"
+    },
+    "EL": {
+      "SPANISH": "habrá ocurrido",
+      "ENGLISH": "s/he will have occured, you (formal) will have occured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán ocurrido",
+      "ENGLISH": "they will have occured, you (plural formal) will have occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos ocurrido",
+      "ENGLISH": "we will have occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis ocurrido",
+      "ENGLISH": "you (plural) will have occured"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "ocurriría",
+      "ENGLISH": "I would occur"
+    },
+    "TU": {
+      "SPANISH": "ocurrirías",
+      "ENGLISH": "you would occur"
+    },
+    "EL": {
+      "SPANISH": "ocurriría",
+      "ENGLISH": "s/he would occur, you (formal) would occur"
+    },
+    "ELLOS": {
+      "SPANISH": "ocurrirían",
+      "ENGLISH": "they would occur, you (plural formal) would occur"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocurriríamos",
+      "ENGLISH": "we would occur"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocurriríais",
+      "ENGLISH": "you (plural) would occur"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría ocurrido",
+      "ENGLISH": "I would have occured"
+    },
+    "TU": {
+      "SPANISH": "habrías ocurrido",
+      "ENGLISH": "you would have occured"
+    },
+    "EL": {
+      "SPANISH": "habría ocurrido",
+      "ENGLISH": "s/he would have occured, you (formal) would have occured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían ocurrido",
+      "ENGLISH": "they would have occured, you (plural formal) would have occured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos ocurrido",
+      "ENGLISH": "we would have occured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais ocurrido",
+      "ENGLISH": "you (plural) would have occured"
+    }
+  }
+}

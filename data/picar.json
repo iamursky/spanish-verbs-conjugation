@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "pico",
+      "ENGLISH": "I chop"
+    },
+    "TU": {
+      "SPANISH": "picas",
+      "ENGLISH": "you chop"
+    },
+    "EL": {
+      "SPANISH": "pica",
+      "ENGLISH": "s/he chops, you (formal) chops"
+    },
+    "ELLOS": {
+      "SPANISH": "pican",
+      "ENGLISH": "they chop, you (plural formal) chop"
+    },
+    "NOSOTROS": {
+      "SPANISH": "picamos",
+      "ENGLISH": "we chop"
+    },
+    "VOSOTROS": {
+      "SPANISH": "picáis",
+      "ENGLISH": "you (plural) chop"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he picado",
+      "ENGLISH": "I have chopped"
+    },
+    "TU": {
+      "SPANISH": "has picado",
+      "ENGLISH": "you have chopped"
+    },
+    "EL": {
+      "SPANISH": "ha picado",
+      "ENGLISH": "s/he has chopped, you (formal) have chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "han picado",
+      "ENGLISH": "they have chopped, you (plural formal) have chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos picado",
+      "ENGLISH": "we have chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis picado",
+      "ENGLISH": "you (plural) have chopped"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "piqué ",
+      "ENGLISH": "I chopped"
+    },
+    "TU": {
+      "SPANISH": "picaste",
+      "ENGLISH": "you chopped"
+    },
+    "EL": {
+      "SPANISH": "picó",
+      "ENGLISH": "s/he chopped, you (formal) chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "picaron",
+      "ENGLISH": "they chopped, you (plural formal) chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "picamos",
+      "ENGLISH": "we chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "picasteis",
+      "ENGLISH": "you (plural) chopped"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había picado",
+      "ENGLISH": "I had chopped"
+    },
+    "TU": {
+      "SPANISH": "habías picado",
+      "ENGLISH": "you had chopped"
+    },
+    "EL": {
+      "SPANISH": "había picado",
+      "ENGLISH": "s/he had chopped, you (formal) had chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "habían picado",
+      "ENGLISH": "they had chopped, you (plural formal) had chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos picado",
+      "ENGLISH": "we had chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais picado",
+      "ENGLISH": "you (plural) had chopped"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "piqué ",
+      "ENGLISH": "I chopped"
+    },
+    "TU": {
+      "SPANISH": "picaste",
+      "ENGLISH": "you chopped"
+    },
+    "EL": {
+      "SPANISH": "picó",
+      "ENGLISH": "s/he chopped, you (formal) chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "picaron",
+      "ENGLISH": "they chopped, you (plural formal) chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "picamos",
+      "ENGLISH": "we chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "picasteis",
+      "ENGLISH": "you (plural) chopped"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "picaré",
+      "ENGLISH": "I will chop"
+    },
+    "TU": {
+      "SPANISH": "picarás",
+      "ENGLISH": "you will chop"
+    },
+    "EL": {
+      "SPANISH": "picará",
+      "ENGLISH": "s/he will chop, you (formal) will chop"
+    },
+    "ELLOS": {
+      "SPANISH": "picarán",
+      "ENGLISH": "they will chop, you (plural formal) will chop"
+    },
+    "NOSOTROS": {
+      "SPANISH": "picaremos",
+      "ENGLISH": "we will chop"
+    },
+    "VOSOTROS": {
+      "SPANISH": "picaréis",
+      "ENGLISH": "you (plural) will chop"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré picado",
+      "ENGLISH": "I will have chopped"
+    },
+    "TU": {
+      "SPANISH": "habrás picado",
+      "ENGLISH": "you will have chopped"
+    },
+    "EL": {
+      "SPANISH": "habrá picado",
+      "ENGLISH": "s/he will have chopped, you (formal) will have chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán picado",
+      "ENGLISH": "they will have chopped, you (plural formal) will have chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos picado",
+      "ENGLISH": "we will have chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis picado",
+      "ENGLISH": "you (plural) will have chopped"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "picaría",
+      "ENGLISH": "I would chop"
+    },
+    "TU": {
+      "SPANISH": "picarías",
+      "ENGLISH": "you would chop"
+    },
+    "EL": {
+      "SPANISH": "picaría",
+      "ENGLISH": "s/he would chop, you (formal) would chop"
+    },
+    "ELLOS": {
+      "SPANISH": "picarían",
+      "ENGLISH": "they would chop, you (plural formal) would chop"
+    },
+    "NOSOTROS": {
+      "SPANISH": "picaríamos",
+      "ENGLISH": "we would chop"
+    },
+    "VOSOTROS": {
+      "SPANISH": "picaríais",
+      "ENGLISH": "you (plural) would chop"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría picado",
+      "ENGLISH": "I would have chopped"
+    },
+    "TU": {
+      "SPANISH": "habrías picado",
+      "ENGLISH": "you would have chopped"
+    },
+    "EL": {
+      "SPANISH": "habría picado",
+      "ENGLISH": "s/he would have chopped, you (formal) would have chopped"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían picado",
+      "ENGLISH": "they would have chopped, you (plural formal) would have chopped"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos picado",
+      "ENGLISH": "we would have chopped"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais picado",
+      "ENGLISH": "you (plural) would have chopped"
+    }
+  }
+}

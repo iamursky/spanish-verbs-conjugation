@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "descanso",
+      "ENGLISH": "I rest"
+    },
+    "TU": {
+      "SPANISH": "descansas",
+      "ENGLISH": "you rest"
+    },
+    "EL": {
+      "SPANISH": "descansa",
+      "ENGLISH": "s/he rests, you (formal) rests"
+    },
+    "ELLOS": {
+      "SPANISH": "descansan",
+      "ENGLISH": "they rest, you (plural formal) rest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "descansamos",
+      "ENGLISH": "we rest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "descansáis",
+      "ENGLISH": "you (plural) rest"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he descansado",
+      "ENGLISH": "I have rested"
+    },
+    "TU": {
+      "SPANISH": "has descansado",
+      "ENGLISH": "you have rested"
+    },
+    "EL": {
+      "SPANISH": "ha descansado",
+      "ENGLISH": "s/he has rested, you (formal) have rested"
+    },
+    "ELLOS": {
+      "SPANISH": "han descansado",
+      "ENGLISH": "they have rested, you (plural formal) have rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos descansado",
+      "ENGLISH": "we have rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis descansado",
+      "ENGLISH": "you (plural) have rested"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "descansé",
+      "ENGLISH": "I rested"
+    },
+    "TU": {
+      "SPANISH": "descansaste",
+      "ENGLISH": "you rested"
+    },
+    "EL": {
+      "SPANISH": "descansó",
+      "ENGLISH": "s/he rested, you (formal) rested"
+    },
+    "ELLOS": {
+      "SPANISH": "descansaron",
+      "ENGLISH": "they rested, you (plural formal) rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "descansamos",
+      "ENGLISH": "we rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "descansasteis",
+      "ENGLISH": "you (plural) rested"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había descansado",
+      "ENGLISH": "I had rested"
+    },
+    "TU": {
+      "SPANISH": "habías descansado",
+      "ENGLISH": "you had rested"
+    },
+    "EL": {
+      "SPANISH": "había descansado",
+      "ENGLISH": "s/he had rested, you (formal) had rested"
+    },
+    "ELLOS": {
+      "SPANISH": "habían descansado",
+      "ENGLISH": "they had rested, you (plural formal) had rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos descansado",
+      "ENGLISH": "we had rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais descansado",
+      "ENGLISH": "you (plural) had rested"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "descansé",
+      "ENGLISH": "I rested"
+    },
+    "TU": {
+      "SPANISH": "descansaste",
+      "ENGLISH": "you rested"
+    },
+    "EL": {
+      "SPANISH": "descansó",
+      "ENGLISH": "s/he rested, you (formal) rested"
+    },
+    "ELLOS": {
+      "SPANISH": "descansaron",
+      "ENGLISH": "they rested, you (plural formal) rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "descansamos",
+      "ENGLISH": "we rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "descansasteis",
+      "ENGLISH": "you (plural) rested"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "descansaré",
+      "ENGLISH": "I will rest"
+    },
+    "TU": {
+      "SPANISH": "descansarás",
+      "ENGLISH": "you will rest"
+    },
+    "EL": {
+      "SPANISH": "descansará",
+      "ENGLISH": "s/he will rest, you (formal) will rest"
+    },
+    "ELLOS": {
+      "SPANISH": "descansarán",
+      "ENGLISH": "they will rest, you (plural formal) will rest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "descansaremos",
+      "ENGLISH": "we will rest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "descansaréis",
+      "ENGLISH": "you (plural) will rest"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré descansado",
+      "ENGLISH": "I will have rested"
+    },
+    "TU": {
+      "SPANISH": "habrás descansado",
+      "ENGLISH": "you will have rested"
+    },
+    "EL": {
+      "SPANISH": "habrá descansado",
+      "ENGLISH": "s/he will have rested, you (formal) will have rested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán descansado",
+      "ENGLISH": "they will have rested, you (plural formal) will have rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos descansado",
+      "ENGLISH": "we will have rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis descansado",
+      "ENGLISH": "you (plural) will have rested"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "descansaría",
+      "ENGLISH": "I would rest"
+    },
+    "TU": {
+      "SPANISH": "descansarías",
+      "ENGLISH": "you would rest"
+    },
+    "EL": {
+      "SPANISH": "descansaría",
+      "ENGLISH": "s/he would rest, you (formal) would rest"
+    },
+    "ELLOS": {
+      "SPANISH": "descansarían",
+      "ENGLISH": "they would rest, you (plural formal) would rest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "descansaríamos",
+      "ENGLISH": "we would rest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "descansaríais",
+      "ENGLISH": "you (plural) would rest"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría descansado",
+      "ENGLISH": "I would have rested"
+    },
+    "TU": {
+      "SPANISH": "habrías descansado",
+      "ENGLISH": "you would have rested"
+    },
+    "EL": {
+      "SPANISH": "habría descansado",
+      "ENGLISH": "s/he would have rested, you (formal) would have rested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían descansado",
+      "ENGLISH": "they would have rested, you (plural formal) would have rested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos descansado",
+      "ENGLISH": "we would have rested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais descansado",
+      "ENGLISH": "you (plural) would have rested"
+    }
+  }
+}

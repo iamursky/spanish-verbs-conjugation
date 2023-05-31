@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "dirijo ",
+      "ENGLISH": "I direct"
+    },
+    "TU": {
+      "SPANISH": "diriges",
+      "ENGLISH": "you direct"
+    },
+    "EL": {
+      "SPANISH": "dirige",
+      "ENGLISH": "s/he directs, you (formal) directs"
+    },
+    "ELLOS": {
+      "SPANISH": "dirigen",
+      "ENGLISH": "they direct, you (plural formal) direct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dirigimos",
+      "ENGLISH": "we direct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dirigís",
+      "ENGLISH": "you (plural) direct"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he dirigido",
+      "ENGLISH": "I have directed"
+    },
+    "TU": {
+      "SPANISH": "has dirigido",
+      "ENGLISH": "you have directed"
+    },
+    "EL": {
+      "SPANISH": "ha dirigido",
+      "ENGLISH": "s/he has directed, you (formal) have directed"
+    },
+    "ELLOS": {
+      "SPANISH": "han dirigido",
+      "ENGLISH": "they have directed, you (plural formal) have directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos dirigido",
+      "ENGLISH": "we have directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis dirigido",
+      "ENGLISH": "you (plural) have directed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "dirigí",
+      "ENGLISH": "I directed"
+    },
+    "TU": {
+      "SPANISH": "dirigiste",
+      "ENGLISH": "you directed"
+    },
+    "EL": {
+      "SPANISH": "dirigió",
+      "ENGLISH": "s/he directed, you (formal) directed"
+    },
+    "ELLOS": {
+      "SPANISH": "dirigieron",
+      "ENGLISH": "they directed, you (plural formal) directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dirigimos",
+      "ENGLISH": "we directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dirigisteis",
+      "ENGLISH": "you (plural) directed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había dirigido",
+      "ENGLISH": "I had directed"
+    },
+    "TU": {
+      "SPANISH": "habías dirigido",
+      "ENGLISH": "you had directed"
+    },
+    "EL": {
+      "SPANISH": "había dirigido",
+      "ENGLISH": "s/he had directed, you (formal) had directed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían dirigido",
+      "ENGLISH": "they had directed, you (plural formal) had directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos dirigido",
+      "ENGLISH": "we had directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais dirigido",
+      "ENGLISH": "you (plural) had directed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "dirigí",
+      "ENGLISH": "I directed"
+    },
+    "TU": {
+      "SPANISH": "dirigiste",
+      "ENGLISH": "you directed"
+    },
+    "EL": {
+      "SPANISH": "dirigió",
+      "ENGLISH": "s/he directed, you (formal) directed"
+    },
+    "ELLOS": {
+      "SPANISH": "dirigieron",
+      "ENGLISH": "they directed, you (plural formal) directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dirigimos",
+      "ENGLISH": "we directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dirigisteis",
+      "ENGLISH": "you (plural) directed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "dirigiré",
+      "ENGLISH": "I will direct"
+    },
+    "TU": {
+      "SPANISH": "dirigirás",
+      "ENGLISH": "you will direct"
+    },
+    "EL": {
+      "SPANISH": "dirigirá",
+      "ENGLISH": "s/he will direct, you (formal) will direct"
+    },
+    "ELLOS": {
+      "SPANISH": "dirigirán",
+      "ENGLISH": "they will direct, you (plural formal) will direct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dirigiremos",
+      "ENGLISH": "we will direct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dirigiréis",
+      "ENGLISH": "you (plural) will direct"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré dirigido",
+      "ENGLISH": "I will have directed"
+    },
+    "TU": {
+      "SPANISH": "habrás dirigido",
+      "ENGLISH": "you will have directed"
+    },
+    "EL": {
+      "SPANISH": "habrá dirigido",
+      "ENGLISH": "s/he will have directed, you (formal) will have directed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán dirigido",
+      "ENGLISH": "they will have directed, you (plural formal) will have directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos dirigido",
+      "ENGLISH": "we will have directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis dirigido",
+      "ENGLISH": "you (plural) will have directed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "dirigiría",
+      "ENGLISH": "I would direct"
+    },
+    "TU": {
+      "SPANISH": "dirigirías",
+      "ENGLISH": "you would direct"
+    },
+    "EL": {
+      "SPANISH": "dirigiría",
+      "ENGLISH": "s/he would direct, you (formal) would direct"
+    },
+    "ELLOS": {
+      "SPANISH": "dirigirían",
+      "ENGLISH": "they would direct, you (plural formal) would direct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dirigiríamos",
+      "ENGLISH": "we would direct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dirigiríais",
+      "ENGLISH": "you (plural) would direct"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría dirigido",
+      "ENGLISH": "I would have directed"
+    },
+    "TU": {
+      "SPANISH": "habrías dirigido",
+      "ENGLISH": "you would have directed"
+    },
+    "EL": {
+      "SPANISH": "habría dirigido",
+      "ENGLISH": "s/he would have directed, you (formal) would have directed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían dirigido",
+      "ENGLISH": "they would have directed, you (plural formal) would have directed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos dirigido",
+      "ENGLISH": "we would have directed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais dirigido",
+      "ENGLISH": "you (plural) would have directed"
+    }
+  }
+}

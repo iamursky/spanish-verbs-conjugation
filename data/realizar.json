@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "realizo",
+      "ENGLISH": "I perform"
+    },
+    "TU": {
+      "SPANISH": "realizas",
+      "ENGLISH": "you perform"
+    },
+    "EL": {
+      "SPANISH": "realiza",
+      "ENGLISH": "s/he performs, you (formal) performs"
+    },
+    "ELLOS": {
+      "SPANISH": "realizan",
+      "ENGLISH": "they perform, you (plural formal) perform"
+    },
+    "NOSOTROS": {
+      "SPANISH": "realizamos",
+      "ENGLISH": "we perform"
+    },
+    "VOSOTROS": {
+      "SPANISH": "realizáis",
+      "ENGLISH": "you (plural) perform"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he realizado",
+      "ENGLISH": "I have performed"
+    },
+    "TU": {
+      "SPANISH": "has realizado",
+      "ENGLISH": "you have performed"
+    },
+    "EL": {
+      "SPANISH": "ha realizado",
+      "ENGLISH": "s/he has performed, you (formal) have performed"
+    },
+    "ELLOS": {
+      "SPANISH": "han realizado",
+      "ENGLISH": "they have performed, you (plural formal) have performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos realizado",
+      "ENGLISH": "we have performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis realizado",
+      "ENGLISH": "you (plural) have performed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "realicé ",
+      "ENGLISH": "I performed"
+    },
+    "TU": {
+      "SPANISH": "realizaste",
+      "ENGLISH": "you performed"
+    },
+    "EL": {
+      "SPANISH": "realizó",
+      "ENGLISH": "s/he performed, you (formal) performed"
+    },
+    "ELLOS": {
+      "SPANISH": "realizaron",
+      "ENGLISH": "they performed, you (plural formal) performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "realizamos",
+      "ENGLISH": "we performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "realizasteis",
+      "ENGLISH": "you (plural) performed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había realizado",
+      "ENGLISH": "I had performed"
+    },
+    "TU": {
+      "SPANISH": "habías realizado",
+      "ENGLISH": "you had performed"
+    },
+    "EL": {
+      "SPANISH": "había realizado",
+      "ENGLISH": "s/he had performed, you (formal) had performed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían realizado",
+      "ENGLISH": "they had performed, you (plural formal) had performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos realizado",
+      "ENGLISH": "we had performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais realizado",
+      "ENGLISH": "you (plural) had performed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "realicé ",
+      "ENGLISH": "I performed"
+    },
+    "TU": {
+      "SPANISH": "realizaste",
+      "ENGLISH": "you performed"
+    },
+    "EL": {
+      "SPANISH": "realizó",
+      "ENGLISH": "s/he performed, you (formal) performed"
+    },
+    "ELLOS": {
+      "SPANISH": "realizaron",
+      "ENGLISH": "they performed, you (plural formal) performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "realizamos",
+      "ENGLISH": "we performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "realizasteis",
+      "ENGLISH": "you (plural) performed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "realizaré",
+      "ENGLISH": "I will perform"
+    },
+    "TU": {
+      "SPANISH": "realizarás",
+      "ENGLISH": "you will perform"
+    },
+    "EL": {
+      "SPANISH": "realizará",
+      "ENGLISH": "s/he will perform, you (formal) will perform"
+    },
+    "ELLOS": {
+      "SPANISH": "realizarán",
+      "ENGLISH": "they will perform, you (plural formal) will perform"
+    },
+    "NOSOTROS": {
+      "SPANISH": "realizaremos",
+      "ENGLISH": "we will perform"
+    },
+    "VOSOTROS": {
+      "SPANISH": "realizaréis",
+      "ENGLISH": "you (plural) will perform"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré realizado",
+      "ENGLISH": "I will have performed"
+    },
+    "TU": {
+      "SPANISH": "habrás realizado",
+      "ENGLISH": "you will have performed"
+    },
+    "EL": {
+      "SPANISH": "habrá realizado",
+      "ENGLISH": "s/he will have performed, you (formal) will have performed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán realizado",
+      "ENGLISH": "they will have performed, you (plural formal) will have performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos realizado",
+      "ENGLISH": "we will have performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis realizado",
+      "ENGLISH": "you (plural) will have performed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "realizaría",
+      "ENGLISH": "I would perform"
+    },
+    "TU": {
+      "SPANISH": "realizarías",
+      "ENGLISH": "you would perform"
+    },
+    "EL": {
+      "SPANISH": "realizaría",
+      "ENGLISH": "s/he would perform, you (formal) would perform"
+    },
+    "ELLOS": {
+      "SPANISH": "realizarían",
+      "ENGLISH": "they would perform, you (plural formal) would perform"
+    },
+    "NOSOTROS": {
+      "SPANISH": "realizaríamos",
+      "ENGLISH": "we would perform"
+    },
+    "VOSOTROS": {
+      "SPANISH": "realizaríais",
+      "ENGLISH": "you (plural) would perform"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría realizado",
+      "ENGLISH": "I would have performed"
+    },
+    "TU": {
+      "SPANISH": "habrías realizado",
+      "ENGLISH": "you would have performed"
+    },
+    "EL": {
+      "SPANISH": "habría realizado",
+      "ENGLISH": "s/he would have performed, you (formal) would have performed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían realizado",
+      "ENGLISH": "they would have performed, you (plural formal) would have performed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos realizado",
+      "ENGLISH": "we would have performed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais realizado",
+      "ENGLISH": "you (plural) would have performed"
+    }
+  }
+}

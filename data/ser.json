@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "soy ",
+      "ENGLISH": "I am"
+    },
+    "TU": {
+      "SPANISH": "eres ",
+      "ENGLISH": "you are"
+    },
+    "EL": {
+      "SPANISH": "es ",
+      "ENGLISH": "s/he is , you (formal) are"
+    },
+    "ELLOS": {
+      "SPANISH": "son ",
+      "ENGLISH": "they are , you (plural formal) are"
+    },
+    "NOSOTROS": {
+      "SPANISH": "somos ",
+      "ENGLISH": "we are"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sois ",
+      "ENGLISH": "you (plural) are"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sido",
+      "ENGLISH": "I have been"
+    },
+    "TU": {
+      "SPANISH": "has sido",
+      "ENGLISH": "you have been"
+    },
+    "EL": {
+      "SPANISH": "ha sido",
+      "ENGLISH": "s/he has been, you (formal) have been"
+    },
+    "ELLOS": {
+      "SPANISH": "han sido",
+      "ENGLISH": "they have been, you (plural formal) have been"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sido",
+      "ENGLISH": "we have been"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sido",
+      "ENGLISH": "you (plural) have been"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "fui ",
+      "ENGLISH": "I was"
+    },
+    "TU": {
+      "SPANISH": "fuiste ",
+      "ENGLISH": "you were"
+    },
+    "EL": {
+      "SPANISH": "fue ",
+      "ENGLISH": "s/he was, you (formal) was"
+    },
+    "ELLOS": {
+      "SPANISH": "fueron ",
+      "ENGLISH": "they were, you (plural formal) were"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fuimos ",
+      "ENGLISH": "we were"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fuisteis ",
+      "ENGLISH": "you (plural) were"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sido",
+      "ENGLISH": "I had been"
+    },
+    "TU": {
+      "SPANISH": "habías sido",
+      "ENGLISH": "you had been"
+    },
+    "EL": {
+      "SPANISH": "había sido",
+      "ENGLISH": "s/he had been, you (formal) had been"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sido",
+      "ENGLISH": "they had been, you (plural formal) had been"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sido",
+      "ENGLISH": "we had been"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sido",
+      "ENGLISH": "you (plural) had been"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "fui ",
+      "ENGLISH": "I was"
+    },
+    "TU": {
+      "SPANISH": "fuiste ",
+      "ENGLISH": "you were"
+    },
+    "EL": {
+      "SPANISH": "fue ",
+      "ENGLISH": "s/he was, you (formal) was"
+    },
+    "ELLOS": {
+      "SPANISH": "fueron ",
+      "ENGLISH": "they were, you (plural formal) were"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fuimos ",
+      "ENGLISH": "we were"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fuisteis ",
+      "ENGLISH": "you (plural) were"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "seré",
+      "ENGLISH": "I will be"
+    },
+    "TU": {
+      "SPANISH": "serás",
+      "ENGLISH": "you will be"
+    },
+    "EL": {
+      "SPANISH": "será",
+      "ENGLISH": "s/he will be, you (formal) will be"
+    },
+    "ELLOS": {
+      "SPANISH": "serán",
+      "ENGLISH": "they will be, you (plural formal) will be"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seremos",
+      "ENGLISH": "we will be"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seréis",
+      "ENGLISH": "you (plural) will be"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sido",
+      "ENGLISH": "I will have been"
+    },
+    "TU": {
+      "SPANISH": "habrás sido",
+      "ENGLISH": "you will have been"
+    },
+    "EL": {
+      "SPANISH": "habrá sido",
+      "ENGLISH": "s/he will have been, you (formal) will have been"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sido",
+      "ENGLISH": "they will have been, you (plural formal) will have been"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sido",
+      "ENGLISH": "we will have been"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sido",
+      "ENGLISH": "you (plural) will have been"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sería",
+      "ENGLISH": "I would be"
+    },
+    "TU": {
+      "SPANISH": "serías",
+      "ENGLISH": "you would be"
+    },
+    "EL": {
+      "SPANISH": "sería",
+      "ENGLISH": "s/he would be, you (formal) would be"
+    },
+    "ELLOS": {
+      "SPANISH": "serían",
+      "ENGLISH": "they would be, you (plural formal) would be"
+    },
+    "NOSOTROS": {
+      "SPANISH": "seríamos",
+      "ENGLISH": "we would be"
+    },
+    "VOSOTROS": {
+      "SPANISH": "seríais",
+      "ENGLISH": "you (plural) would be"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sido",
+      "ENGLISH": "I would have been"
+    },
+    "TU": {
+      "SPANISH": "habrías sido",
+      "ENGLISH": "you would have been"
+    },
+    "EL": {
+      "SPANISH": "habría sido",
+      "ENGLISH": "s/he would have been, you (formal) would have been"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sido",
+      "ENGLISH": "they would have been, you (plural formal) would have been"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sido",
+      "ENGLISH": "we would have been"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sido",
+      "ENGLISH": "you (plural) would have been"
+    }
+  }
+}

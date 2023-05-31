@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "río ",
+      "ENGLISH": "I laugh"
+    },
+    "TU": {
+      "SPANISH": "ríes ",
+      "ENGLISH": "you laugh"
+    },
+    "EL": {
+      "SPANISH": "ríe ",
+      "ENGLISH": "s/he laughes, you (formal) laughes"
+    },
+    "ELLOS": {
+      "SPANISH": "ríen ",
+      "ENGLISH": "they laugh, you (plural formal) laugh"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reímos ",
+      "ENGLISH": "we laugh"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reís",
+      "ENGLISH": "you (plural) laugh"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he reído ",
+      "ENGLISH": "I have laughed"
+    },
+    "TU": {
+      "SPANISH": "has reído ",
+      "ENGLISH": "you have laughed"
+    },
+    "EL": {
+      "SPANISH": "ha reído ",
+      "ENGLISH": "s/he has laughed, you (formal) have laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "han reído ",
+      "ENGLISH": "they have laughed, you (plural formal) have laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos reído ",
+      "ENGLISH": "we have laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis reído ",
+      "ENGLISH": "you (plural) have laughed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "reí",
+      "ENGLISH": "I laughed"
+    },
+    "TU": {
+      "SPANISH": "reíste ",
+      "ENGLISH": "you laughed"
+    },
+    "EL": {
+      "SPANISH": "rio ",
+      "ENGLISH": "s/he laughed, you (formal) laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "rieron ",
+      "ENGLISH": "they laughed, you (plural formal) laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reímos ",
+      "ENGLISH": "we laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reísteis ",
+      "ENGLISH": "you (plural) laughed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había reído ",
+      "ENGLISH": "I had laughed"
+    },
+    "TU": {
+      "SPANISH": "habías reído ",
+      "ENGLISH": "you had laughed"
+    },
+    "EL": {
+      "SPANISH": "había reído ",
+      "ENGLISH": "s/he had laughed, you (formal) had laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían reído ",
+      "ENGLISH": "they had laughed, you (plural formal) had laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos reído ",
+      "ENGLISH": "we had laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais reído ",
+      "ENGLISH": "you (plural) had laughed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "reí",
+      "ENGLISH": "I laughed"
+    },
+    "TU": {
+      "SPANISH": "reíste ",
+      "ENGLISH": "you laughed"
+    },
+    "EL": {
+      "SPANISH": "rio ",
+      "ENGLISH": "s/he laughed, you (formal) laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "rieron ",
+      "ENGLISH": "they laughed, you (plural formal) laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reímos ",
+      "ENGLISH": "we laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reísteis ",
+      "ENGLISH": "you (plural) laughed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "reiré",
+      "ENGLISH": "I will laugh"
+    },
+    "TU": {
+      "SPANISH": "reirás",
+      "ENGLISH": "you will laugh"
+    },
+    "EL": {
+      "SPANISH": "reirá",
+      "ENGLISH": "s/he will laugh, you (formal) will laugh"
+    },
+    "ELLOS": {
+      "SPANISH": "reirán",
+      "ENGLISH": "they will laugh, you (plural formal) will laugh"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reiremos",
+      "ENGLISH": "we will laugh"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reiréis",
+      "ENGLISH": "you (plural) will laugh"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré reído ",
+      "ENGLISH": "I will have laughed"
+    },
+    "TU": {
+      "SPANISH": "habrás reído ",
+      "ENGLISH": "you will have laughed"
+    },
+    "EL": {
+      "SPANISH": "habrá reído ",
+      "ENGLISH": "s/he will have laughed, you (formal) will have laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán reído ",
+      "ENGLISH": "they will have laughed, you (plural formal) will have laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos reído ",
+      "ENGLISH": "we will have laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis reído ",
+      "ENGLISH": "you (plural) will have laughed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "reiría",
+      "ENGLISH": "I would laugh"
+    },
+    "TU": {
+      "SPANISH": "reirías",
+      "ENGLISH": "you would laugh"
+    },
+    "EL": {
+      "SPANISH": "reiría",
+      "ENGLISH": "s/he would laugh, you (formal) would laugh"
+    },
+    "ELLOS": {
+      "SPANISH": "reirían",
+      "ENGLISH": "they would laugh, you (plural formal) would laugh"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reiríamos",
+      "ENGLISH": "we would laugh"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reiríais",
+      "ENGLISH": "you (plural) would laugh"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría reído ",
+      "ENGLISH": "I would have laughed"
+    },
+    "TU": {
+      "SPANISH": "habrías reído ",
+      "ENGLISH": "you would have laughed"
+    },
+    "EL": {
+      "SPANISH": "habría reído ",
+      "ENGLISH": "s/he would have laughed, you (formal) would have laughed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían reído ",
+      "ENGLISH": "they would have laughed, you (plural formal) would have laughed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos reído ",
+      "ENGLISH": "we would have laughed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais reído ",
+      "ENGLISH": "you (plural) would have laughed"
+    }
+  }
+}

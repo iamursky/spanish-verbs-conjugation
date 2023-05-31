@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "convierto ",
+      "ENGLISH": "I convert"
+    },
+    "TU": {
+      "SPANISH": "conviertes ",
+      "ENGLISH": "you convert"
+    },
+    "EL": {
+      "SPANISH": "convierte ",
+      "ENGLISH": "s/he converts, you (formal) converts"
+    },
+    "ELLOS": {
+      "SPANISH": "convierten ",
+      "ENGLISH": "they convert, you (plural formal) convert"
+    },
+    "NOSOTROS": {
+      "SPANISH": "convertimos",
+      "ENGLISH": "we convert"
+    },
+    "VOSOTROS": {
+      "SPANISH": "convertís",
+      "ENGLISH": "you (plural) convert"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he convertido",
+      "ENGLISH": "I have converted"
+    },
+    "TU": {
+      "SPANISH": "has convertido",
+      "ENGLISH": "you have converted"
+    },
+    "EL": {
+      "SPANISH": "ha convertido",
+      "ENGLISH": "s/he has converted, you (formal) have converted"
+    },
+    "ELLOS": {
+      "SPANISH": "han convertido",
+      "ENGLISH": "they have converted, you (plural formal) have converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos convertido",
+      "ENGLISH": "we have converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis convertido",
+      "ENGLISH": "you (plural) have converted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "convertí",
+      "ENGLISH": "I converted"
+    },
+    "TU": {
+      "SPANISH": "convertiste",
+      "ENGLISH": "you converted"
+    },
+    "EL": {
+      "SPANISH": "convirtió ",
+      "ENGLISH": "s/he converted, you (formal) converted"
+    },
+    "ELLOS": {
+      "SPANISH": "convirtieron ",
+      "ENGLISH": "they converted, you (plural formal) converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "convertimos",
+      "ENGLISH": "we converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "convertisteis",
+      "ENGLISH": "you (plural) converted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había convertido",
+      "ENGLISH": "I had converted"
+    },
+    "TU": {
+      "SPANISH": "habías convertido",
+      "ENGLISH": "you had converted"
+    },
+    "EL": {
+      "SPANISH": "había convertido",
+      "ENGLISH": "s/he had converted, you (formal) had converted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían convertido",
+      "ENGLISH": "they had converted, you (plural formal) had converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos convertido",
+      "ENGLISH": "we had converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais convertido",
+      "ENGLISH": "you (plural) had converted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "convertí",
+      "ENGLISH": "I converted"
+    },
+    "TU": {
+      "SPANISH": "convertiste",
+      "ENGLISH": "you converted"
+    },
+    "EL": {
+      "SPANISH": "convirtió ",
+      "ENGLISH": "s/he converted, you (formal) converted"
+    },
+    "ELLOS": {
+      "SPANISH": "convirtieron ",
+      "ENGLISH": "they converted, you (plural formal) converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "convertimos",
+      "ENGLISH": "we converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "convertisteis",
+      "ENGLISH": "you (plural) converted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "convertiré",
+      "ENGLISH": "I will convert"
+    },
+    "TU": {
+      "SPANISH": "convertirás",
+      "ENGLISH": "you will convert"
+    },
+    "EL": {
+      "SPANISH": "convertirá",
+      "ENGLISH": "s/he will convert, you (formal) will convert"
+    },
+    "ELLOS": {
+      "SPANISH": "convertirán",
+      "ENGLISH": "they will convert, you (plural formal) will convert"
+    },
+    "NOSOTROS": {
+      "SPANISH": "convertiremos",
+      "ENGLISH": "we will convert"
+    },
+    "VOSOTROS": {
+      "SPANISH": "convertiréis",
+      "ENGLISH": "you (plural) will convert"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré convertido",
+      "ENGLISH": "I will have converted"
+    },
+    "TU": {
+      "SPANISH": "habrás convertido",
+      "ENGLISH": "you will have converted"
+    },
+    "EL": {
+      "SPANISH": "habrá convertido",
+      "ENGLISH": "s/he will have converted, you (formal) will have converted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán convertido",
+      "ENGLISH": "they will have converted, you (plural formal) will have converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos convertido",
+      "ENGLISH": "we will have converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis convertido",
+      "ENGLISH": "you (plural) will have converted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "convertiría",
+      "ENGLISH": "I would convert"
+    },
+    "TU": {
+      "SPANISH": "convertirías",
+      "ENGLISH": "you would convert"
+    },
+    "EL": {
+      "SPANISH": "convertiría",
+      "ENGLISH": "s/he would convert, you (formal) would convert"
+    },
+    "ELLOS": {
+      "SPANISH": "convertirían",
+      "ENGLISH": "they would convert, you (plural formal) would convert"
+    },
+    "NOSOTROS": {
+      "SPANISH": "convertiríamos",
+      "ENGLISH": "we would convert"
+    },
+    "VOSOTROS": {
+      "SPANISH": "convertiríais",
+      "ENGLISH": "you (plural) would convert"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría convertido",
+      "ENGLISH": "I would have converted"
+    },
+    "TU": {
+      "SPANISH": "habrías convertido",
+      "ENGLISH": "you would have converted"
+    },
+    "EL": {
+      "SPANISH": "habría convertido",
+      "ENGLISH": "s/he would have converted, you (formal) would have converted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían convertido",
+      "ENGLISH": "they would have converted, you (plural formal) would have converted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos convertido",
+      "ENGLISH": "we would have converted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais convertido",
+      "ENGLISH": "you (plural) would have converted"
+    }
+  }
+}

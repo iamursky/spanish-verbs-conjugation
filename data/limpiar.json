@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "limpio",
+      "ENGLISH": "I clean"
+    },
+    "TU": {
+      "SPANISH": "limpias",
+      "ENGLISH": "you clean"
+    },
+    "EL": {
+      "SPANISH": "limpia",
+      "ENGLISH": "s/he cleans, you (formal) cleans"
+    },
+    "ELLOS": {
+      "SPANISH": "limpian",
+      "ENGLISH": "they clean, you (plural formal) clean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "limpiamos",
+      "ENGLISH": "we clean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "limpiáis",
+      "ENGLISH": "you (plural) clean"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he limpiado",
+      "ENGLISH": "I have cleaned"
+    },
+    "TU": {
+      "SPANISH": "has limpiado",
+      "ENGLISH": "you have cleaned"
+    },
+    "EL": {
+      "SPANISH": "ha limpiado",
+      "ENGLISH": "s/he has cleaned, you (formal) have cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "han limpiado",
+      "ENGLISH": "they have cleaned, you (plural formal) have cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos limpiado",
+      "ENGLISH": "we have cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis limpiado",
+      "ENGLISH": "you (plural) have cleaned"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "limpié",
+      "ENGLISH": "I cleaned"
+    },
+    "TU": {
+      "SPANISH": "limpiaste",
+      "ENGLISH": "you cleaned"
+    },
+    "EL": {
+      "SPANISH": "limpió",
+      "ENGLISH": "s/he cleaned, you (formal) cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "limpiaron",
+      "ENGLISH": "they cleaned, you (plural formal) cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "limpiamos",
+      "ENGLISH": "we cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "limpiasteis",
+      "ENGLISH": "you (plural) cleaned"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había limpiado",
+      "ENGLISH": "I had cleaned"
+    },
+    "TU": {
+      "SPANISH": "habías limpiado",
+      "ENGLISH": "you had cleaned"
+    },
+    "EL": {
+      "SPANISH": "había limpiado",
+      "ENGLISH": "s/he had cleaned, you (formal) had cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "habían limpiado",
+      "ENGLISH": "they had cleaned, you (plural formal) had cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos limpiado",
+      "ENGLISH": "we had cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais limpiado",
+      "ENGLISH": "you (plural) had cleaned"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "limpié",
+      "ENGLISH": "I cleaned"
+    },
+    "TU": {
+      "SPANISH": "limpiaste",
+      "ENGLISH": "you cleaned"
+    },
+    "EL": {
+      "SPANISH": "limpió",
+      "ENGLISH": "s/he cleaned, you (formal) cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "limpiaron",
+      "ENGLISH": "they cleaned, you (plural formal) cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "limpiamos",
+      "ENGLISH": "we cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "limpiasteis",
+      "ENGLISH": "you (plural) cleaned"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "limpiaré",
+      "ENGLISH": "I will clean"
+    },
+    "TU": {
+      "SPANISH": "limpiarás",
+      "ENGLISH": "you will clean"
+    },
+    "EL": {
+      "SPANISH": "limpiará",
+      "ENGLISH": "s/he will clean, you (formal) will clean"
+    },
+    "ELLOS": {
+      "SPANISH": "limpiarán",
+      "ENGLISH": "they will clean, you (plural formal) will clean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "limpiaremos",
+      "ENGLISH": "we will clean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "limpiaréis",
+      "ENGLISH": "you (plural) will clean"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré limpiado",
+      "ENGLISH": "I will have cleaned"
+    },
+    "TU": {
+      "SPANISH": "habrás limpiado",
+      "ENGLISH": "you will have cleaned"
+    },
+    "EL": {
+      "SPANISH": "habrá limpiado",
+      "ENGLISH": "s/he will have cleaned, you (formal) will have cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán limpiado",
+      "ENGLISH": "they will have cleaned, you (plural formal) will have cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos limpiado",
+      "ENGLISH": "we will have cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis limpiado",
+      "ENGLISH": "you (plural) will have cleaned"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "limpiaría",
+      "ENGLISH": "I would clean"
+    },
+    "TU": {
+      "SPANISH": "limpiarías",
+      "ENGLISH": "you would clean"
+    },
+    "EL": {
+      "SPANISH": "limpiaría",
+      "ENGLISH": "s/he would clean, you (formal) would clean"
+    },
+    "ELLOS": {
+      "SPANISH": "limpiarían",
+      "ENGLISH": "they would clean, you (plural formal) would clean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "limpiaríamos",
+      "ENGLISH": "we would clean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "limpiaríais",
+      "ENGLISH": "you (plural) would clean"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría limpiado",
+      "ENGLISH": "I would have cleaned"
+    },
+    "TU": {
+      "SPANISH": "habrías limpiado",
+      "ENGLISH": "you would have cleaned"
+    },
+    "EL": {
+      "SPANISH": "habría limpiado",
+      "ENGLISH": "s/he would have cleaned, you (formal) would have cleaned"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían limpiado",
+      "ENGLISH": "they would have cleaned, you (plural formal) would have cleaned"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos limpiado",
+      "ENGLISH": "we would have cleaned"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais limpiado",
+      "ENGLISH": "you (plural) would have cleaned"
+    }
+  }
+}

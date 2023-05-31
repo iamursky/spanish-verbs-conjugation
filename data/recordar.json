@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "recuerdo ",
+      "ENGLISH": "I remember"
+    },
+    "TU": {
+      "SPANISH": "recuerdas ",
+      "ENGLISH": "you remember"
+    },
+    "EL": {
+      "SPANISH": "recuerda ",
+      "ENGLISH": "s/he remembers, you (formal) remembers"
+    },
+    "ELLOS": {
+      "SPANISH": "recuerdan ",
+      "ENGLISH": "they remember, you (plural formal) remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recordamos",
+      "ENGLISH": "we remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recordáis",
+      "ENGLISH": "you (plural) remember"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he recordado",
+      "ENGLISH": "I have remembered"
+    },
+    "TU": {
+      "SPANISH": "has recordado",
+      "ENGLISH": "you have remembered"
+    },
+    "EL": {
+      "SPANISH": "ha recordado",
+      "ENGLISH": "s/he has remembered, you (formal) have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "han recordado",
+      "ENGLISH": "they have remembered, you (plural formal) have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos recordado",
+      "ENGLISH": "we have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis recordado",
+      "ENGLISH": "you (plural) have remembered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "recordé",
+      "ENGLISH": "I remembered"
+    },
+    "TU": {
+      "SPANISH": "recordaste",
+      "ENGLISH": "you remembered"
+    },
+    "EL": {
+      "SPANISH": "recordó",
+      "ENGLISH": "s/he remembered, you (formal) remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "recordaron",
+      "ENGLISH": "they remembered, you (plural formal) remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recordamos",
+      "ENGLISH": "we remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recordasteis",
+      "ENGLISH": "you (plural) remembered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había recordado",
+      "ENGLISH": "I had remembered"
+    },
+    "TU": {
+      "SPANISH": "habías recordado",
+      "ENGLISH": "you had remembered"
+    },
+    "EL": {
+      "SPANISH": "había recordado",
+      "ENGLISH": "s/he had remembered, you (formal) had remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían recordado",
+      "ENGLISH": "they had remembered, you (plural formal) had remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos recordado",
+      "ENGLISH": "we had remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais recordado",
+      "ENGLISH": "you (plural) had remembered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "recordé",
+      "ENGLISH": "I remembered"
+    },
+    "TU": {
+      "SPANISH": "recordaste",
+      "ENGLISH": "you remembered"
+    },
+    "EL": {
+      "SPANISH": "recordó",
+      "ENGLISH": "s/he remembered, you (formal) remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "recordaron",
+      "ENGLISH": "they remembered, you (plural formal) remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recordamos",
+      "ENGLISH": "we remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recordasteis",
+      "ENGLISH": "you (plural) remembered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "recordaré",
+      "ENGLISH": "I will remember"
+    },
+    "TU": {
+      "SPANISH": "recordarás",
+      "ENGLISH": "you will remember"
+    },
+    "EL": {
+      "SPANISH": "recordará",
+      "ENGLISH": "s/he will remember, you (formal) will remember"
+    },
+    "ELLOS": {
+      "SPANISH": "recordarán",
+      "ENGLISH": "they will remember, you (plural formal) will remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recordaremos",
+      "ENGLISH": "we will remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recordaréis",
+      "ENGLISH": "you (plural) will remember"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré recordado",
+      "ENGLISH": "I will have remembered"
+    },
+    "TU": {
+      "SPANISH": "habrás recordado",
+      "ENGLISH": "you will have remembered"
+    },
+    "EL": {
+      "SPANISH": "habrá recordado",
+      "ENGLISH": "s/he will have remembered, you (formal) will have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán recordado",
+      "ENGLISH": "they will have remembered, you (plural formal) will have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos recordado",
+      "ENGLISH": "we will have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis recordado",
+      "ENGLISH": "you (plural) will have remembered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "recordaría",
+      "ENGLISH": "I would remember"
+    },
+    "TU": {
+      "SPANISH": "recordarías",
+      "ENGLISH": "you would remember"
+    },
+    "EL": {
+      "SPANISH": "recordaría",
+      "ENGLISH": "s/he would remember, you (formal) would remember"
+    },
+    "ELLOS": {
+      "SPANISH": "recordarían",
+      "ENGLISH": "they would remember, you (plural formal) would remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recordaríamos",
+      "ENGLISH": "we would remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recordaríais",
+      "ENGLISH": "you (plural) would remember"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría recordado",
+      "ENGLISH": "I would have remembered"
+    },
+    "TU": {
+      "SPANISH": "habrías recordado",
+      "ENGLISH": "you would have remembered"
+    },
+    "EL": {
+      "SPANISH": "habría recordado",
+      "ENGLISH": "s/he would have remembered, you (formal) would have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían recordado",
+      "ENGLISH": "they would have remembered, you (plural formal) would have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos recordado",
+      "ENGLISH": "we would have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais recordado",
+      "ENGLISH": "you (plural) would have remembered"
+    }
+  }
+}

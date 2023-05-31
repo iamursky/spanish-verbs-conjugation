@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "acabo",
+      "ENGLISH": "I finish"
+    },
+    "TU": {
+      "SPANISH": "acabas",
+      "ENGLISH": "you finish"
+    },
+    "EL": {
+      "SPANISH": "acaba",
+      "ENGLISH": "s/he finishes, you (formal) finishes"
+    },
+    "ELLOS": {
+      "SPANISH": "acaban",
+      "ENGLISH": "they finish, you (plural formal) finish"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acabamos",
+      "ENGLISH": "we finish"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acabáis",
+      "ENGLISH": "you (plural) finish"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he acabado",
+      "ENGLISH": "I have finished"
+    },
+    "TU": {
+      "SPANISH": "has acabado",
+      "ENGLISH": "you have finished"
+    },
+    "EL": {
+      "SPANISH": "ha acabado",
+      "ENGLISH": "s/he has finished, you (formal) have finished"
+    },
+    "ELLOS": {
+      "SPANISH": "han acabado",
+      "ENGLISH": "they have finished, you (plural formal) have finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos acabado",
+      "ENGLISH": "we have finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis acabado",
+      "ENGLISH": "you (plural) have finished"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "acabé",
+      "ENGLISH": "I finished"
+    },
+    "TU": {
+      "SPANISH": "acabaste",
+      "ENGLISH": "you finished"
+    },
+    "EL": {
+      "SPANISH": "acabó",
+      "ENGLISH": "s/he finished, you (formal) finished"
+    },
+    "ELLOS": {
+      "SPANISH": "acabaron",
+      "ENGLISH": "they finished, you (plural formal) finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acabamos",
+      "ENGLISH": "we finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acabasteis",
+      "ENGLISH": "you (plural) finished"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había acabado",
+      "ENGLISH": "I had finished"
+    },
+    "TU": {
+      "SPANISH": "habías acabado",
+      "ENGLISH": "you had finished"
+    },
+    "EL": {
+      "SPANISH": "había acabado",
+      "ENGLISH": "s/he had finished, you (formal) had finished"
+    },
+    "ELLOS": {
+      "SPANISH": "habían acabado",
+      "ENGLISH": "they had finished, you (plural formal) had finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos acabado",
+      "ENGLISH": "we had finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais acabado",
+      "ENGLISH": "you (plural) had finished"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "acabé",
+      "ENGLISH": "I finished"
+    },
+    "TU": {
+      "SPANISH": "acabaste",
+      "ENGLISH": "you finished"
+    },
+    "EL": {
+      "SPANISH": "acabó",
+      "ENGLISH": "s/he finished, you (formal) finished"
+    },
+    "ELLOS": {
+      "SPANISH": "acabaron",
+      "ENGLISH": "they finished, you (plural formal) finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acabamos",
+      "ENGLISH": "we finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acabasteis",
+      "ENGLISH": "you (plural) finished"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "acabaré",
+      "ENGLISH": "I will finish"
+    },
+    "TU": {
+      "SPANISH": "acabarás",
+      "ENGLISH": "you will finish"
+    },
+    "EL": {
+      "SPANISH": "acabará",
+      "ENGLISH": "s/he will finish, you (formal) will finish"
+    },
+    "ELLOS": {
+      "SPANISH": "acabarán",
+      "ENGLISH": "they will finish, you (plural formal) will finish"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acabaremos",
+      "ENGLISH": "we will finish"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acabaréis",
+      "ENGLISH": "you (plural) will finish"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré acabado",
+      "ENGLISH": "I will have finished"
+    },
+    "TU": {
+      "SPANISH": "habrás acabado",
+      "ENGLISH": "you will have finished"
+    },
+    "EL": {
+      "SPANISH": "habrá acabado",
+      "ENGLISH": "s/he will have finished, you (formal) will have finished"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán acabado",
+      "ENGLISH": "they will have finished, you (plural formal) will have finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos acabado",
+      "ENGLISH": "we will have finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis acabado",
+      "ENGLISH": "you (plural) will have finished"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "acabaría",
+      "ENGLISH": "I would finish"
+    },
+    "TU": {
+      "SPANISH": "acabarías",
+      "ENGLISH": "you would finish"
+    },
+    "EL": {
+      "SPANISH": "acabaría",
+      "ENGLISH": "s/he would finish, you (formal) would finish"
+    },
+    "ELLOS": {
+      "SPANISH": "acabarían",
+      "ENGLISH": "they would finish, you (plural formal) would finish"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acabaríamos",
+      "ENGLISH": "we would finish"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acabaríais",
+      "ENGLISH": "you (plural) would finish"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría acabado",
+      "ENGLISH": "I would have finished"
+    },
+    "TU": {
+      "SPANISH": "habrías acabado",
+      "ENGLISH": "you would have finished"
+    },
+    "EL": {
+      "SPANISH": "habría acabado",
+      "ENGLISH": "s/he would have finished, you (formal) would have finished"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían acabado",
+      "ENGLISH": "they would have finished, you (plural formal) would have finished"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos acabado",
+      "ENGLISH": "we would have finished"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais acabado",
+      "ENGLISH": "you (plural) would have finished"
+    }
+  }
+}

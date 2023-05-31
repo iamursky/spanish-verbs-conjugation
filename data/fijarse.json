@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me fijo",
+      "ENGLISH": "I take notice"
+    },
+    "TU": {
+      "SPANISH": "te fijas",
+      "ENGLISH": "you take notice"
+    },
+    "EL": {
+      "SPANISH": "se fija",
+      "ENGLISH": "s/he takes notice, you (formal) takes notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se fijan",
+      "ENGLISH": "they take notice, you (plural formal) take notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fijamos",
+      "ENGLISH": "we take notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fijáis",
+      "ENGLISH": "you (plural) take notice"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he fijado",
+      "ENGLISH": "I have taken notice"
+    },
+    "TU": {
+      "SPANISH": "te has fijado",
+      "ENGLISH": "you have taken notice"
+    },
+    "EL": {
+      "SPANISH": "se ha fijado",
+      "ENGLISH": "s/he has taken notice, you (formal) have taken notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se han fijado",
+      "ENGLISH": "they have taken notice, you (plural formal) have taken notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos fijado",
+      "ENGLISH": "we have taken notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis fijado",
+      "ENGLISH": "you (plural) have taken notice"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me fijé",
+      "ENGLISH": "I took notice"
+    },
+    "TU": {
+      "SPANISH": "te fijaste",
+      "ENGLISH": "you took notice"
+    },
+    "EL": {
+      "SPANISH": "se fijó",
+      "ENGLISH": "s/he took notice, you (formal) took notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se fijaron",
+      "ENGLISH": "they took notice, you (plural formal) took notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fijamos",
+      "ENGLISH": "we took notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fijasteis",
+      "ENGLISH": "you (plural) took notice"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había fijado",
+      "ENGLISH": "I had taken notice"
+    },
+    "TU": {
+      "SPANISH": "te habías fijado",
+      "ENGLISH": "you had taken notice"
+    },
+    "EL": {
+      "SPANISH": "se había fijado",
+      "ENGLISH": "s/he had taken notice, you (formal) had taken notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían fijado",
+      "ENGLISH": "they had taken notice, you (plural formal) had taken notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos fijado",
+      "ENGLISH": "we had taken notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais fijado",
+      "ENGLISH": "you (plural) had taken notice"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me fijé",
+      "ENGLISH": "I took notice"
+    },
+    "TU": {
+      "SPANISH": "te fijaste",
+      "ENGLISH": "you took notice"
+    },
+    "EL": {
+      "SPANISH": "se fijó",
+      "ENGLISH": "s/he took notice, you (formal) took notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se fijaron",
+      "ENGLISH": "they took notice, you (plural formal) took notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fijamos",
+      "ENGLISH": "we took notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fijasteis",
+      "ENGLISH": "you (plural) took notice"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me fijaré",
+      "ENGLISH": "I will take notice"
+    },
+    "TU": {
+      "SPANISH": "te fijarás",
+      "ENGLISH": "you will take notice"
+    },
+    "EL": {
+      "SPANISH": "se fijará",
+      "ENGLISH": "s/he will take notice, you (formal) will take notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se fijarán",
+      "ENGLISH": "they will take notice, you (plural formal) will take notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fijaremos",
+      "ENGLISH": "we will take notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fijaréis",
+      "ENGLISH": "you (plural) will take notice"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré fijado",
+      "ENGLISH": "I will have taken notice"
+    },
+    "TU": {
+      "SPANISH": "te habrás fijado",
+      "ENGLISH": "you will have taken notice"
+    },
+    "EL": {
+      "SPANISH": "se habrá fijado",
+      "ENGLISH": "s/he will have taken notice, you (formal) will have taken notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán fijado",
+      "ENGLISH": "they will have taken notice, you (plural formal) will have taken notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos fijado",
+      "ENGLISH": "we will have taken notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis fijado",
+      "ENGLISH": "you (plural) will have taken notice"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me fijaría",
+      "ENGLISH": "I would take notice"
+    },
+    "TU": {
+      "SPANISH": "te fijarías",
+      "ENGLISH": "you would take notice"
+    },
+    "EL": {
+      "SPANISH": "se fijaría",
+      "ENGLISH": "s/he would take notice, you (formal) would take notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se fijarían",
+      "ENGLISH": "they would take notice, you (plural formal) would take notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fijaríamos",
+      "ENGLISH": "we would take notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fijaríais",
+      "ENGLISH": "you (plural) would take notice"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría fijado",
+      "ENGLISH": "I would have taken notice"
+    },
+    "TU": {
+      "SPANISH": "te habrías fijado",
+      "ENGLISH": "you would have taken notice"
+    },
+    "EL": {
+      "SPANISH": "se habría fijado",
+      "ENGLISH": "s/he would have taken notice, you (formal) would have taken notice"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían fijado",
+      "ENGLISH": "they would have taken notice, you (plural formal) would have taken notice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos fijado",
+      "ENGLISH": "we would have taken notice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais fijado",
+      "ENGLISH": "you (plural) would have taken notice"
+    }
+  }
+}

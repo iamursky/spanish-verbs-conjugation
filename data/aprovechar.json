@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "aprovecho",
+      "ENGLISH": "I take advantage of"
+    },
+    "TU": {
+      "SPANISH": "aprovechas",
+      "ENGLISH": "you take advantage of"
+    },
+    "EL": {
+      "SPANISH": "aprovecha",
+      "ENGLISH": "s/he takes advantage of, you (formal) takes advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "aprovechan",
+      "ENGLISH": "they take advantage of, you (plural formal) take advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aprovechamos",
+      "ENGLISH": "we take advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aprovecháis",
+      "ENGLISH": "you (plural) take advantage of"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he aprovechado",
+      "ENGLISH": "I have taken advantage of"
+    },
+    "TU": {
+      "SPANISH": "has aprovechado",
+      "ENGLISH": "you have taken advantage of"
+    },
+    "EL": {
+      "SPANISH": "ha aprovechado",
+      "ENGLISH": "s/he has taken advantage of, you (formal) have taken advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "han aprovechado",
+      "ENGLISH": "they have taken advantage of, you (plural formal) have taken advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos aprovechado",
+      "ENGLISH": "we have taken advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis aprovechado",
+      "ENGLISH": "you (plural) have taken advantage of"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "aproveché",
+      "ENGLISH": "I took advantage of"
+    },
+    "TU": {
+      "SPANISH": "aprovechaste",
+      "ENGLISH": "you took advantage of"
+    },
+    "EL": {
+      "SPANISH": "aprovechó",
+      "ENGLISH": "s/he took advantage of, you (formal) took advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "aprovecharon",
+      "ENGLISH": "they took advantage of, you (plural formal) took advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aprovechamos",
+      "ENGLISH": "we took advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aprovechasteis",
+      "ENGLISH": "you (plural) took advantage of"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había aprovechado",
+      "ENGLISH": "I had taken advantage of"
+    },
+    "TU": {
+      "SPANISH": "habías aprovechado",
+      "ENGLISH": "you had taken advantage of"
+    },
+    "EL": {
+      "SPANISH": "había aprovechado",
+      "ENGLISH": "s/he had taken advantage of, you (formal) had taken advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "habían aprovechado",
+      "ENGLISH": "they had taken advantage of, you (plural formal) had taken advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos aprovechado",
+      "ENGLISH": "we had taken advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais aprovechado",
+      "ENGLISH": "you (plural) had taken advantage of"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "aproveché",
+      "ENGLISH": "I took advantage of"
+    },
+    "TU": {
+      "SPANISH": "aprovechaste",
+      "ENGLISH": "you took advantage of"
+    },
+    "EL": {
+      "SPANISH": "aprovechó",
+      "ENGLISH": "s/he took advantage of, you (formal) took advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "aprovecharon",
+      "ENGLISH": "they took advantage of, you (plural formal) took advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aprovechamos",
+      "ENGLISH": "we took advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aprovechasteis",
+      "ENGLISH": "you (plural) took advantage of"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "aprovecharé",
+      "ENGLISH": "I will take advantage of"
+    },
+    "TU": {
+      "SPANISH": "aprovecharás",
+      "ENGLISH": "you will take advantage of"
+    },
+    "EL": {
+      "SPANISH": "aprovechará",
+      "ENGLISH": "s/he will take advantage of, you (formal) will take advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "aprovecharán",
+      "ENGLISH": "they will take advantage of, you (plural formal) will take advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aprovecharemos",
+      "ENGLISH": "we will take advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aprovecharéis",
+      "ENGLISH": "you (plural) will take advantage of"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré aprovechado",
+      "ENGLISH": "I will have taken advantage of"
+    },
+    "TU": {
+      "SPANISH": "habrás aprovechado",
+      "ENGLISH": "you will have taken advantage of"
+    },
+    "EL": {
+      "SPANISH": "habrá aprovechado",
+      "ENGLISH": "s/he will have taken advantage of, you (formal) will have taken advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán aprovechado",
+      "ENGLISH": "they will have taken advantage of, you (plural formal) will have taken advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos aprovechado",
+      "ENGLISH": "we will have taken advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis aprovechado",
+      "ENGLISH": "you (plural) will have taken advantage of"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "aprovecharía",
+      "ENGLISH": "I would take advantage of"
+    },
+    "TU": {
+      "SPANISH": "aprovecharías",
+      "ENGLISH": "you would take advantage of"
+    },
+    "EL": {
+      "SPANISH": "aprovecharía",
+      "ENGLISH": "s/he would take advantage of, you (formal) would take advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "aprovecharían",
+      "ENGLISH": "they would take advantage of, you (plural formal) would take advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "aprovecharíamos",
+      "ENGLISH": "we would take advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "aprovecharíais",
+      "ENGLISH": "you (plural) would take advantage of"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría aprovechado",
+      "ENGLISH": "I would have taken advantage of"
+    },
+    "TU": {
+      "SPANISH": "habrías aprovechado",
+      "ENGLISH": "you would have taken advantage of"
+    },
+    "EL": {
+      "SPANISH": "habría aprovechado",
+      "ENGLISH": "s/he would have taken advantage of, you (formal) would have taken advantage of"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían aprovechado",
+      "ENGLISH": "they would have taken advantage of, you (plural formal) would have taken advantage of"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos aprovechado",
+      "ENGLISH": "we would have taken advantage of"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais aprovechado",
+      "ENGLISH": "you (plural) would have taken advantage of"
+    }
+  }
+}

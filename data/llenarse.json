@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me lleno",
+      "ENGLISH": "I am full"
+    },
+    "TU": {
+      "SPANISH": "te llenas",
+      "ENGLISH": "you are full"
+    },
+    "EL": {
+      "SPANISH": "se llena",
+      "ENGLISH": "s/he is full, you (formal) are full"
+    },
+    "ELLOS": {
+      "SPANISH": "se llenan",
+      "ENGLISH": "they are full, you (plural formal) are full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llenamos",
+      "ENGLISH": "we are full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llenáis",
+      "ENGLISH": "you (plural) are full"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he llenado",
+      "ENGLISH": "I have been full"
+    },
+    "TU": {
+      "SPANISH": "te has llenado",
+      "ENGLISH": "you have been full"
+    },
+    "EL": {
+      "SPANISH": "se ha llenado",
+      "ENGLISH": "s/he has been full, you (formal) have been full"
+    },
+    "ELLOS": {
+      "SPANISH": "se han llenado",
+      "ENGLISH": "they have been full, you (plural formal) have been full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos llenado",
+      "ENGLISH": "we have been full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis llenado",
+      "ENGLISH": "you (plural) have been full"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me llené",
+      "ENGLISH": "I was full"
+    },
+    "TU": {
+      "SPANISH": "te llenaste",
+      "ENGLISH": "you were full"
+    },
+    "EL": {
+      "SPANISH": "se llenó",
+      "ENGLISH": "s/he was full, you (formal) was full"
+    },
+    "ELLOS": {
+      "SPANISH": "se llenaron",
+      "ENGLISH": "they were full, you (plural formal) were full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llenamos",
+      "ENGLISH": "we were full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llenasteis",
+      "ENGLISH": "you (plural) were full"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había llenado",
+      "ENGLISH": "I had been full"
+    },
+    "TU": {
+      "SPANISH": "te habías llenado",
+      "ENGLISH": "you had been full"
+    },
+    "EL": {
+      "SPANISH": "se había llenado",
+      "ENGLISH": "s/he had been full, you (formal) had been full"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían llenado",
+      "ENGLISH": "they had been full, you (plural formal) had been full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos llenado",
+      "ENGLISH": "we had been full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais llenado",
+      "ENGLISH": "you (plural) had been full"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me llené",
+      "ENGLISH": "I was full"
+    },
+    "TU": {
+      "SPANISH": "te llenaste",
+      "ENGLISH": "you were full"
+    },
+    "EL": {
+      "SPANISH": "se llenó",
+      "ENGLISH": "s/he was full, you (formal) was full"
+    },
+    "ELLOS": {
+      "SPANISH": "se llenaron",
+      "ENGLISH": "they were full, you (plural formal) were full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llenamos",
+      "ENGLISH": "we were full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llenasteis",
+      "ENGLISH": "you (plural) were full"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llenaré",
+      "ENGLISH": "I will be full"
+    },
+    "TU": {
+      "SPANISH": "te llenarás",
+      "ENGLISH": "you will be full"
+    },
+    "EL": {
+      "SPANISH": "se llenará",
+      "ENGLISH": "s/he will be full, you (formal) will be full"
+    },
+    "ELLOS": {
+      "SPANISH": "se llenarán",
+      "ENGLISH": "they will be full, you (plural formal) will be full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llenaremos",
+      "ENGLISH": "we will be full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llenaréis",
+      "ENGLISH": "you (plural) will be full"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré llenado",
+      "ENGLISH": "I will have been full"
+    },
+    "TU": {
+      "SPANISH": "te habrás llenado",
+      "ENGLISH": "you will have been full"
+    },
+    "EL": {
+      "SPANISH": "se habrá llenado",
+      "ENGLISH": "s/he will have been full, you (formal) will have been full"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán llenado",
+      "ENGLISH": "they will have been full, you (plural formal) will have been full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos llenado",
+      "ENGLISH": "we will have been full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis llenado",
+      "ENGLISH": "you (plural) will have been full"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llenaría",
+      "ENGLISH": "I would be full"
+    },
+    "TU": {
+      "SPANISH": "te llenarías",
+      "ENGLISH": "you would be full"
+    },
+    "EL": {
+      "SPANISH": "se llenaría",
+      "ENGLISH": "s/he would be full, you (formal) would be full"
+    },
+    "ELLOS": {
+      "SPANISH": "se llenarían",
+      "ENGLISH": "they would be full, you (plural formal) would be full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llenaríamos",
+      "ENGLISH": "we would be full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llenaríais",
+      "ENGLISH": "you (plural) would be full"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría llenado",
+      "ENGLISH": "I would have been full"
+    },
+    "TU": {
+      "SPANISH": "te habrías llenado",
+      "ENGLISH": "you would have been full"
+    },
+    "EL": {
+      "SPANISH": "se habría llenado",
+      "ENGLISH": "s/he would have been full, you (formal) would have been full"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían llenado",
+      "ENGLISH": "they would have been full, you (plural formal) would have been full"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos llenado",
+      "ENGLISH": "we would have been full"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais llenado",
+      "ENGLISH": "you (plural) would have been full"
+    }
+  }
+}

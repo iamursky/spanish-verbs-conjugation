@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "respiro",
+      "ENGLISH": "I breathe"
+    },
+    "TU": {
+      "SPANISH": "respiras",
+      "ENGLISH": "you breathe"
+    },
+    "EL": {
+      "SPANISH": "respira",
+      "ENGLISH": "s/he breathes, you (formal) breathes"
+    },
+    "ELLOS": {
+      "SPANISH": "respiran",
+      "ENGLISH": "they breathe, you (plural formal) breathe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "respiramos",
+      "ENGLISH": "we breathe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "respiráis",
+      "ENGLISH": "you (plural) breathe"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he respirado",
+      "ENGLISH": "I have breathed"
+    },
+    "TU": {
+      "SPANISH": "has respirado",
+      "ENGLISH": "you have breathed"
+    },
+    "EL": {
+      "SPANISH": "ha respirado",
+      "ENGLISH": "s/he has breathed, you (formal) have breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "han respirado",
+      "ENGLISH": "they have breathed, you (plural formal) have breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos respirado",
+      "ENGLISH": "we have breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis respirado",
+      "ENGLISH": "you (plural) have breathed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "respiré",
+      "ENGLISH": "I breathed"
+    },
+    "TU": {
+      "SPANISH": "respiraste",
+      "ENGLISH": "you breathed"
+    },
+    "EL": {
+      "SPANISH": "respiró",
+      "ENGLISH": "s/he breathed, you (formal) breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "respiraron",
+      "ENGLISH": "they breathed, you (plural formal) breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "respiramos",
+      "ENGLISH": "we breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "respirasteis",
+      "ENGLISH": "you (plural) breathed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había respirado",
+      "ENGLISH": "I had breathed"
+    },
+    "TU": {
+      "SPANISH": "habías respirado",
+      "ENGLISH": "you had breathed"
+    },
+    "EL": {
+      "SPANISH": "había respirado",
+      "ENGLISH": "s/he had breathed, you (formal) had breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían respirado",
+      "ENGLISH": "they had breathed, you (plural formal) had breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos respirado",
+      "ENGLISH": "we had breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais respirado",
+      "ENGLISH": "you (plural) had breathed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "respiré",
+      "ENGLISH": "I breathed"
+    },
+    "TU": {
+      "SPANISH": "respiraste",
+      "ENGLISH": "you breathed"
+    },
+    "EL": {
+      "SPANISH": "respiró",
+      "ENGLISH": "s/he breathed, you (formal) breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "respiraron",
+      "ENGLISH": "they breathed, you (plural formal) breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "respiramos",
+      "ENGLISH": "we breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "respirasteis",
+      "ENGLISH": "you (plural) breathed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "respiraré",
+      "ENGLISH": "I will breathe"
+    },
+    "TU": {
+      "SPANISH": "respirarás",
+      "ENGLISH": "you will breathe"
+    },
+    "EL": {
+      "SPANISH": "respirará",
+      "ENGLISH": "s/he will breathe, you (formal) will breathe"
+    },
+    "ELLOS": {
+      "SPANISH": "respirarán",
+      "ENGLISH": "they will breathe, you (plural formal) will breathe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "respiraremos",
+      "ENGLISH": "we will breathe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "respiraréis",
+      "ENGLISH": "you (plural) will breathe"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré respirado",
+      "ENGLISH": "I will have breathed"
+    },
+    "TU": {
+      "SPANISH": "habrás respirado",
+      "ENGLISH": "you will have breathed"
+    },
+    "EL": {
+      "SPANISH": "habrá respirado",
+      "ENGLISH": "s/he will have breathed, you (formal) will have breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán respirado",
+      "ENGLISH": "they will have breathed, you (plural formal) will have breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos respirado",
+      "ENGLISH": "we will have breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis respirado",
+      "ENGLISH": "you (plural) will have breathed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "respiraría",
+      "ENGLISH": "I would breathe"
+    },
+    "TU": {
+      "SPANISH": "respirarías",
+      "ENGLISH": "you would breathe"
+    },
+    "EL": {
+      "SPANISH": "respiraría",
+      "ENGLISH": "s/he would breathe, you (formal) would breathe"
+    },
+    "ELLOS": {
+      "SPANISH": "respirarían",
+      "ENGLISH": "they would breathe, you (plural formal) would breathe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "respiraríamos",
+      "ENGLISH": "we would breathe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "respiraríais",
+      "ENGLISH": "you (plural) would breathe"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría respirado",
+      "ENGLISH": "I would have breathed"
+    },
+    "TU": {
+      "SPANISH": "habrías respirado",
+      "ENGLISH": "you would have breathed"
+    },
+    "EL": {
+      "SPANISH": "habría respirado",
+      "ENGLISH": "s/he would have breathed, you (formal) would have breathed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían respirado",
+      "ENGLISH": "they would have breathed, you (plural formal) would have breathed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos respirado",
+      "ENGLISH": "we would have breathed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais respirado",
+      "ENGLISH": "you (plural) would have breathed"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "oigo ",
+      "ENGLISH": "I hear"
+    },
+    "TU": {
+      "SPANISH": "oyes ",
+      "ENGLISH": "you hear"
+    },
+    "EL": {
+      "SPANISH": "oye ",
+      "ENGLISH": "s/he hears, you (formal) hears"
+    },
+    "ELLOS": {
+      "SPANISH": "oyen ",
+      "ENGLISH": "they hear, you (plural formal) hear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oímos ",
+      "ENGLISH": "we hear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oís",
+      "ENGLISH": "you (plural) hear"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he oído ",
+      "ENGLISH": "I have heard"
+    },
+    "TU": {
+      "SPANISH": "has oído ",
+      "ENGLISH": "you have heard"
+    },
+    "EL": {
+      "SPANISH": "ha oído ",
+      "ENGLISH": "s/he has heard, you (formal) have heard"
+    },
+    "ELLOS": {
+      "SPANISH": "han oído ",
+      "ENGLISH": "they have heard, you (plural formal) have heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos oído ",
+      "ENGLISH": "we have heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis oído ",
+      "ENGLISH": "you (plural) have heard"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "oí",
+      "ENGLISH": "I heard"
+    },
+    "TU": {
+      "SPANISH": "oíste ",
+      "ENGLISH": "you heard"
+    },
+    "EL": {
+      "SPANISH": "oyó ",
+      "ENGLISH": "s/he heard, you (formal) heard"
+    },
+    "ELLOS": {
+      "SPANISH": "oyeron ",
+      "ENGLISH": "they heard, you (plural formal) heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oímos ",
+      "ENGLISH": "we heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oísteis ",
+      "ENGLISH": "you (plural) heard"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había oído ",
+      "ENGLISH": "I had heard"
+    },
+    "TU": {
+      "SPANISH": "habías oído ",
+      "ENGLISH": "you had heard"
+    },
+    "EL": {
+      "SPANISH": "había oído ",
+      "ENGLISH": "s/he had heard, you (formal) had heard"
+    },
+    "ELLOS": {
+      "SPANISH": "habían oído ",
+      "ENGLISH": "they had heard, you (plural formal) had heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos oído ",
+      "ENGLISH": "we had heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais oído ",
+      "ENGLISH": "you (plural) had heard"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "oí",
+      "ENGLISH": "I heard"
+    },
+    "TU": {
+      "SPANISH": "oíste ",
+      "ENGLISH": "you heard"
+    },
+    "EL": {
+      "SPANISH": "oyó ",
+      "ENGLISH": "s/he heard, you (formal) heard"
+    },
+    "ELLOS": {
+      "SPANISH": "oyeron ",
+      "ENGLISH": "they heard, you (plural formal) heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oímos ",
+      "ENGLISH": "we heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oísteis ",
+      "ENGLISH": "you (plural) heard"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "oiré",
+      "ENGLISH": "I will hear"
+    },
+    "TU": {
+      "SPANISH": "oirás",
+      "ENGLISH": "you will hear"
+    },
+    "EL": {
+      "SPANISH": "oirá",
+      "ENGLISH": "s/he will hear, you (formal) will hear"
+    },
+    "ELLOS": {
+      "SPANISH": "oirán",
+      "ENGLISH": "they will hear, you (plural formal) will hear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oiremos",
+      "ENGLISH": "we will hear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oiréis",
+      "ENGLISH": "you (plural) will hear"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré oído ",
+      "ENGLISH": "I will have heard"
+    },
+    "TU": {
+      "SPANISH": "habrás oído ",
+      "ENGLISH": "you will have heard"
+    },
+    "EL": {
+      "SPANISH": "habrá oído ",
+      "ENGLISH": "s/he will have heard, you (formal) will have heard"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán oído ",
+      "ENGLISH": "they will have heard, you (plural formal) will have heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos oído ",
+      "ENGLISH": "we will have heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis oído ",
+      "ENGLISH": "you (plural) will have heard"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "oiría",
+      "ENGLISH": "I would hear"
+    },
+    "TU": {
+      "SPANISH": "oirías",
+      "ENGLISH": "you would hear"
+    },
+    "EL": {
+      "SPANISH": "oiría",
+      "ENGLISH": "s/he would hear, you (formal) would hear"
+    },
+    "ELLOS": {
+      "SPANISH": "oirían",
+      "ENGLISH": "they would hear, you (plural formal) would hear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oiríamos",
+      "ENGLISH": "we would hear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oiríais",
+      "ENGLISH": "you (plural) would hear"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría oído ",
+      "ENGLISH": "I would have heard"
+    },
+    "TU": {
+      "SPANISH": "habrías oído ",
+      "ENGLISH": "you would have heard"
+    },
+    "EL": {
+      "SPANISH": "habría oído ",
+      "ENGLISH": "s/he would have heard, you (formal) would have heard"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían oído ",
+      "ENGLISH": "they would have heard, you (plural formal) would have heard"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos oído ",
+      "ENGLISH": "we would have heard"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais oído ",
+      "ENGLISH": "you (plural) would have heard"
+    }
+  }
+}

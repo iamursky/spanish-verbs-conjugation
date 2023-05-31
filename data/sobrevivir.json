@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sobrevivo",
+      "ENGLISH": "I survive"
+    },
+    "TU": {
+      "SPANISH": "sobrevives",
+      "ENGLISH": "you survive"
+    },
+    "EL": {
+      "SPANISH": "sobrevive",
+      "ENGLISH": "s/he survives, you (formal) survives"
+    },
+    "ELLOS": {
+      "SPANISH": "sobreviven",
+      "ENGLISH": "they survive, you (plural formal) survive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sobrevivimos",
+      "ENGLISH": "we survive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sobrevivís",
+      "ENGLISH": "you (plural) survive"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sobrevivido",
+      "ENGLISH": "I have survived"
+    },
+    "TU": {
+      "SPANISH": "has sobrevivido",
+      "ENGLISH": "you have survived"
+    },
+    "EL": {
+      "SPANISH": "ha sobrevivido",
+      "ENGLISH": "s/he has survived, you (formal) have survived"
+    },
+    "ELLOS": {
+      "SPANISH": "han sobrevivido",
+      "ENGLISH": "they have survived, you (plural formal) have survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sobrevivido",
+      "ENGLISH": "we have survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sobrevivido",
+      "ENGLISH": "you (plural) have survived"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sobreviví",
+      "ENGLISH": "I survived"
+    },
+    "TU": {
+      "SPANISH": "sobreviviste",
+      "ENGLISH": "you survived"
+    },
+    "EL": {
+      "SPANISH": "sobrevivió",
+      "ENGLISH": "s/he survived, you (formal) survived"
+    },
+    "ELLOS": {
+      "SPANISH": "sobrevivieron",
+      "ENGLISH": "they survived, you (plural formal) survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sobrevivimos",
+      "ENGLISH": "we survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sobrevivisteis",
+      "ENGLISH": "you (plural) survived"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sobrevivido",
+      "ENGLISH": "I had survived"
+    },
+    "TU": {
+      "SPANISH": "habías sobrevivido",
+      "ENGLISH": "you had survived"
+    },
+    "EL": {
+      "SPANISH": "había sobrevivido",
+      "ENGLISH": "s/he had survived, you (formal) had survived"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sobrevivido",
+      "ENGLISH": "they had survived, you (plural formal) had survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sobrevivido",
+      "ENGLISH": "we had survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sobrevivido",
+      "ENGLISH": "you (plural) had survived"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sobreviví",
+      "ENGLISH": "I survived"
+    },
+    "TU": {
+      "SPANISH": "sobreviviste",
+      "ENGLISH": "you survived"
+    },
+    "EL": {
+      "SPANISH": "sobrevivió",
+      "ENGLISH": "s/he survived, you (formal) survived"
+    },
+    "ELLOS": {
+      "SPANISH": "sobrevivieron",
+      "ENGLISH": "they survived, you (plural formal) survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sobrevivimos",
+      "ENGLISH": "we survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sobrevivisteis",
+      "ENGLISH": "you (plural) survived"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sobreviviré",
+      "ENGLISH": "I will survive"
+    },
+    "TU": {
+      "SPANISH": "sobrevivirás",
+      "ENGLISH": "you will survive"
+    },
+    "EL": {
+      "SPANISH": "sobrevivirá",
+      "ENGLISH": "s/he will survive, you (formal) will survive"
+    },
+    "ELLOS": {
+      "SPANISH": "sobrevivirán",
+      "ENGLISH": "they will survive, you (plural formal) will survive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sobreviviremos",
+      "ENGLISH": "we will survive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sobreviviréis",
+      "ENGLISH": "you (plural) will survive"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sobrevivido",
+      "ENGLISH": "I will have survived"
+    },
+    "TU": {
+      "SPANISH": "habrás sobrevivido",
+      "ENGLISH": "you will have survived"
+    },
+    "EL": {
+      "SPANISH": "habrá sobrevivido",
+      "ENGLISH": "s/he will have survived, you (formal) will have survived"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sobrevivido",
+      "ENGLISH": "they will have survived, you (plural formal) will have survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sobrevivido",
+      "ENGLISH": "we will have survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sobrevivido",
+      "ENGLISH": "you (plural) will have survived"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sobreviviría",
+      "ENGLISH": "I would survive"
+    },
+    "TU": {
+      "SPANISH": "sobrevivirías",
+      "ENGLISH": "you would survive"
+    },
+    "EL": {
+      "SPANISH": "sobreviviría",
+      "ENGLISH": "s/he would survive, you (formal) would survive"
+    },
+    "ELLOS": {
+      "SPANISH": "sobrevivirían",
+      "ENGLISH": "they would survive, you (plural formal) would survive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sobreviviríamos",
+      "ENGLISH": "we would survive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sobreviviríais",
+      "ENGLISH": "you (plural) would survive"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sobrevivido",
+      "ENGLISH": "I would have survived"
+    },
+    "TU": {
+      "SPANISH": "habrías sobrevivido",
+      "ENGLISH": "you would have survived"
+    },
+    "EL": {
+      "SPANISH": "habría sobrevivido",
+      "ENGLISH": "s/he would have survived, you (formal) would have survived"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sobrevivido",
+      "ENGLISH": "they would have survived, you (plural formal) would have survived"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sobrevivido",
+      "ENGLISH": "we would have survived"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sobrevivido",
+      "ENGLISH": "you (plural) would have survived"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me cepillo",
+      "ENGLISH": "I brush"
+    },
+    "TU": {
+      "SPANISH": "te cepillas",
+      "ENGLISH": "you brush"
+    },
+    "EL": {
+      "SPANISH": "se cepilla",
+      "ENGLISH": "s/he brushes, you (formal) brushes"
+    },
+    "ELLOS": {
+      "SPANISH": "se cepillan",
+      "ENGLISH": "they brush, you (plural formal) brush"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos cepillamos",
+      "ENGLISH": "we brush"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os cepilláis",
+      "ENGLISH": "you (plural) brush"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he cepillado",
+      "ENGLISH": "I have brushed"
+    },
+    "TU": {
+      "SPANISH": "te has cepillado",
+      "ENGLISH": "you have brushed"
+    },
+    "EL": {
+      "SPANISH": "se ha cepillado",
+      "ENGLISH": "s/he has brushed, you (formal) have brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se han cepillado",
+      "ENGLISH": "they have brushed, you (plural formal) have brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos cepillado",
+      "ENGLISH": "we have brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis cepillado",
+      "ENGLISH": "you (plural) have brushed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me cepillé",
+      "ENGLISH": "I brushed"
+    },
+    "TU": {
+      "SPANISH": "te cepillaste",
+      "ENGLISH": "you brushed"
+    },
+    "EL": {
+      "SPANISH": "se cepilló",
+      "ENGLISH": "s/he brushed, you (formal) brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se cepillaron",
+      "ENGLISH": "they brushed, you (plural formal) brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos cepillamos",
+      "ENGLISH": "we brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os cepillasteis",
+      "ENGLISH": "you (plural) brushed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había cepillado",
+      "ENGLISH": "I had brushed"
+    },
+    "TU": {
+      "SPANISH": "te habías cepillado",
+      "ENGLISH": "you had brushed"
+    },
+    "EL": {
+      "SPANISH": "se había cepillado",
+      "ENGLISH": "s/he had brushed, you (formal) had brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían cepillado",
+      "ENGLISH": "they had brushed, you (plural formal) had brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos cepillado",
+      "ENGLISH": "we had brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais cepillado",
+      "ENGLISH": "you (plural) had brushed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me cepillé",
+      "ENGLISH": "I brushed"
+    },
+    "TU": {
+      "SPANISH": "te cepillaste",
+      "ENGLISH": "you brushed"
+    },
+    "EL": {
+      "SPANISH": "se cepilló",
+      "ENGLISH": "s/he brushed, you (formal) brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se cepillaron",
+      "ENGLISH": "they brushed, you (plural formal) brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos cepillamos",
+      "ENGLISH": "we brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os cepillasteis",
+      "ENGLISH": "you (plural) brushed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me cepillaré",
+      "ENGLISH": "I will brush"
+    },
+    "TU": {
+      "SPANISH": "te cepillarás",
+      "ENGLISH": "you will brush"
+    },
+    "EL": {
+      "SPANISH": "se cepillará",
+      "ENGLISH": "s/he will brush, you (formal) will brush"
+    },
+    "ELLOS": {
+      "SPANISH": "se cepillarán",
+      "ENGLISH": "they will brush, you (plural formal) will brush"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos cepillaremos",
+      "ENGLISH": "we will brush"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os cepillaréis",
+      "ENGLISH": "you (plural) will brush"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré cepillado",
+      "ENGLISH": "I will have brushed"
+    },
+    "TU": {
+      "SPANISH": "te habrás cepillado",
+      "ENGLISH": "you will have brushed"
+    },
+    "EL": {
+      "SPANISH": "se habrá cepillado",
+      "ENGLISH": "s/he will have brushed, you (formal) will have brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán cepillado",
+      "ENGLISH": "they will have brushed, you (plural formal) will have brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos cepillado",
+      "ENGLISH": "we will have brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis cepillado",
+      "ENGLISH": "you (plural) will have brushed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me cepillaría",
+      "ENGLISH": "I would brush"
+    },
+    "TU": {
+      "SPANISH": "te cepillarías",
+      "ENGLISH": "you would brush"
+    },
+    "EL": {
+      "SPANISH": "se cepillaría",
+      "ENGLISH": "s/he would brush, you (formal) would brush"
+    },
+    "ELLOS": {
+      "SPANISH": "se cepillarían",
+      "ENGLISH": "they would brush, you (plural formal) would brush"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos cepillaríamos",
+      "ENGLISH": "we would brush"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os cepillaríais",
+      "ENGLISH": "you (plural) would brush"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría cepillado",
+      "ENGLISH": "I would have brushed"
+    },
+    "TU": {
+      "SPANISH": "te habrías cepillado",
+      "ENGLISH": "you would have brushed"
+    },
+    "EL": {
+      "SPANISH": "se habría cepillado",
+      "ENGLISH": "s/he would have brushed, you (formal) would have brushed"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían cepillado",
+      "ENGLISH": "they would have brushed, you (plural formal) would have brushed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos cepillado",
+      "ENGLISH": "we would have brushed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais cepillado",
+      "ENGLISH": "you (plural) would have brushed"
+    }
+  }
+}

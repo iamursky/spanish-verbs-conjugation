@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "registro",
+      "ENGLISH": "I register"
+    },
+    "TU": {
+      "SPANISH": "registras",
+      "ENGLISH": "you register"
+    },
+    "EL": {
+      "SPANISH": "registra",
+      "ENGLISH": "s/he registers, you (formal) registers"
+    },
+    "ELLOS": {
+      "SPANISH": "registran",
+      "ENGLISH": "they register, you (plural formal) register"
+    },
+    "NOSOTROS": {
+      "SPANISH": "registramos",
+      "ENGLISH": "we register"
+    },
+    "VOSOTROS": {
+      "SPANISH": "registráis",
+      "ENGLISH": "you (plural) register"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he registrado",
+      "ENGLISH": "I have registered"
+    },
+    "TU": {
+      "SPANISH": "has registrado",
+      "ENGLISH": "you have registered"
+    },
+    "EL": {
+      "SPANISH": "ha registrado",
+      "ENGLISH": "s/he has registered, you (formal) have registered"
+    },
+    "ELLOS": {
+      "SPANISH": "han registrado",
+      "ENGLISH": "they have registered, you (plural formal) have registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos registrado",
+      "ENGLISH": "we have registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis registrado",
+      "ENGLISH": "you (plural) have registered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "registré",
+      "ENGLISH": "I registered"
+    },
+    "TU": {
+      "SPANISH": "registraste",
+      "ENGLISH": "you registered"
+    },
+    "EL": {
+      "SPANISH": "registró",
+      "ENGLISH": "s/he registered, you (formal) registered"
+    },
+    "ELLOS": {
+      "SPANISH": "registraron",
+      "ENGLISH": "they registered, you (plural formal) registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "registramos",
+      "ENGLISH": "we registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "registrasteis",
+      "ENGLISH": "you (plural) registered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había registrado",
+      "ENGLISH": "I had registered"
+    },
+    "TU": {
+      "SPANISH": "habías registrado",
+      "ENGLISH": "you had registered"
+    },
+    "EL": {
+      "SPANISH": "había registrado",
+      "ENGLISH": "s/he had registered, you (formal) had registered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían registrado",
+      "ENGLISH": "they had registered, you (plural formal) had registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos registrado",
+      "ENGLISH": "we had registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais registrado",
+      "ENGLISH": "you (plural) had registered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "registré",
+      "ENGLISH": "I registered"
+    },
+    "TU": {
+      "SPANISH": "registraste",
+      "ENGLISH": "you registered"
+    },
+    "EL": {
+      "SPANISH": "registró",
+      "ENGLISH": "s/he registered, you (formal) registered"
+    },
+    "ELLOS": {
+      "SPANISH": "registraron",
+      "ENGLISH": "they registered, you (plural formal) registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "registramos",
+      "ENGLISH": "we registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "registrasteis",
+      "ENGLISH": "you (plural) registered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "registraré",
+      "ENGLISH": "I will register"
+    },
+    "TU": {
+      "SPANISH": "registrarás",
+      "ENGLISH": "you will register"
+    },
+    "EL": {
+      "SPANISH": "registrará",
+      "ENGLISH": "s/he will register, you (formal) will register"
+    },
+    "ELLOS": {
+      "SPANISH": "registrarán",
+      "ENGLISH": "they will register, you (plural formal) will register"
+    },
+    "NOSOTROS": {
+      "SPANISH": "registraremos",
+      "ENGLISH": "we will register"
+    },
+    "VOSOTROS": {
+      "SPANISH": "registraréis",
+      "ENGLISH": "you (plural) will register"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré registrado",
+      "ENGLISH": "I will have registered"
+    },
+    "TU": {
+      "SPANISH": "habrás registrado",
+      "ENGLISH": "you will have registered"
+    },
+    "EL": {
+      "SPANISH": "habrá registrado",
+      "ENGLISH": "s/he will have registered, you (formal) will have registered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán registrado",
+      "ENGLISH": "they will have registered, you (plural formal) will have registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos registrado",
+      "ENGLISH": "we will have registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis registrado",
+      "ENGLISH": "you (plural) will have registered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "registraría",
+      "ENGLISH": "I would register"
+    },
+    "TU": {
+      "SPANISH": "registrarías",
+      "ENGLISH": "you would register"
+    },
+    "EL": {
+      "SPANISH": "registraría",
+      "ENGLISH": "s/he would register, you (formal) would register"
+    },
+    "ELLOS": {
+      "SPANISH": "registrarían",
+      "ENGLISH": "they would register, you (plural formal) would register"
+    },
+    "NOSOTROS": {
+      "SPANISH": "registraríamos",
+      "ENGLISH": "we would register"
+    },
+    "VOSOTROS": {
+      "SPANISH": "registraríais",
+      "ENGLISH": "you (plural) would register"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría registrado",
+      "ENGLISH": "I would have registered"
+    },
+    "TU": {
+      "SPANISH": "habrías registrado",
+      "ENGLISH": "you would have registered"
+    },
+    "EL": {
+      "SPANISH": "habría registrado",
+      "ENGLISH": "s/he would have registered, you (formal) would have registered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían registrado",
+      "ENGLISH": "they would have registered, you (plural formal) would have registered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos registrado",
+      "ENGLISH": "we would have registered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais registrado",
+      "ENGLISH": "you (plural) would have registered"
+    }
+  }
+}

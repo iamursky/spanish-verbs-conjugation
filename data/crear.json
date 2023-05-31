@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "creo",
+      "ENGLISH": "I create"
+    },
+    "TU": {
+      "SPANISH": "creas",
+      "ENGLISH": "you create"
+    },
+    "EL": {
+      "SPANISH": "crea",
+      "ENGLISH": "s/he creates, you (formal) creates"
+    },
+    "ELLOS": {
+      "SPANISH": "crean",
+      "ENGLISH": "they create, you (plural formal) create"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creamos",
+      "ENGLISH": "we create"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creáis",
+      "ENGLISH": "you (plural) create"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he creado",
+      "ENGLISH": "I have created"
+    },
+    "TU": {
+      "SPANISH": "has creado",
+      "ENGLISH": "you have created"
+    },
+    "EL": {
+      "SPANISH": "ha creado",
+      "ENGLISH": "s/he has created, you (formal) have created"
+    },
+    "ELLOS": {
+      "SPANISH": "han creado",
+      "ENGLISH": "they have created, you (plural formal) have created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos creado",
+      "ENGLISH": "we have created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis creado",
+      "ENGLISH": "you (plural) have created"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "creé",
+      "ENGLISH": "I created"
+    },
+    "TU": {
+      "SPANISH": "creaste",
+      "ENGLISH": "you created"
+    },
+    "EL": {
+      "SPANISH": "creó",
+      "ENGLISH": "s/he created, you (formal) created"
+    },
+    "ELLOS": {
+      "SPANISH": "crearon",
+      "ENGLISH": "they created, you (plural formal) created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creamos",
+      "ENGLISH": "we created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creasteis",
+      "ENGLISH": "you (plural) created"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había creado",
+      "ENGLISH": "I had created"
+    },
+    "TU": {
+      "SPANISH": "habías creado",
+      "ENGLISH": "you had created"
+    },
+    "EL": {
+      "SPANISH": "había creado",
+      "ENGLISH": "s/he had created, you (formal) had created"
+    },
+    "ELLOS": {
+      "SPANISH": "habían creado",
+      "ENGLISH": "they had created, you (plural formal) had created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos creado",
+      "ENGLISH": "we had created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais creado",
+      "ENGLISH": "you (plural) had created"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "creé",
+      "ENGLISH": "I created"
+    },
+    "TU": {
+      "SPANISH": "creaste",
+      "ENGLISH": "you created"
+    },
+    "EL": {
+      "SPANISH": "creó",
+      "ENGLISH": "s/he created, you (formal) created"
+    },
+    "ELLOS": {
+      "SPANISH": "crearon",
+      "ENGLISH": "they created, you (plural formal) created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creamos",
+      "ENGLISH": "we created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creasteis",
+      "ENGLISH": "you (plural) created"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "crearé",
+      "ENGLISH": "I will create"
+    },
+    "TU": {
+      "SPANISH": "crearás",
+      "ENGLISH": "you will create"
+    },
+    "EL": {
+      "SPANISH": "creará",
+      "ENGLISH": "s/he will create, you (formal) will create"
+    },
+    "ELLOS": {
+      "SPANISH": "crearán",
+      "ENGLISH": "they will create, you (plural formal) will create"
+    },
+    "NOSOTROS": {
+      "SPANISH": "crearemos",
+      "ENGLISH": "we will create"
+    },
+    "VOSOTROS": {
+      "SPANISH": "crearéis",
+      "ENGLISH": "you (plural) will create"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré creado",
+      "ENGLISH": "I will have created"
+    },
+    "TU": {
+      "SPANISH": "habrás creado",
+      "ENGLISH": "you will have created"
+    },
+    "EL": {
+      "SPANISH": "habrá creado",
+      "ENGLISH": "s/he will have created, you (formal) will have created"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán creado",
+      "ENGLISH": "they will have created, you (plural formal) will have created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos creado",
+      "ENGLISH": "we will have created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis creado",
+      "ENGLISH": "you (plural) will have created"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "crearía",
+      "ENGLISH": "I would create"
+    },
+    "TU": {
+      "SPANISH": "crearías",
+      "ENGLISH": "you would create"
+    },
+    "EL": {
+      "SPANISH": "crearía",
+      "ENGLISH": "s/he would create, you (formal) would create"
+    },
+    "ELLOS": {
+      "SPANISH": "crearían",
+      "ENGLISH": "they would create, you (plural formal) would create"
+    },
+    "NOSOTROS": {
+      "SPANISH": "crearíamos",
+      "ENGLISH": "we would create"
+    },
+    "VOSOTROS": {
+      "SPANISH": "crearíais",
+      "ENGLISH": "you (plural) would create"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría creado",
+      "ENGLISH": "I would have created"
+    },
+    "TU": {
+      "SPANISH": "habrías creado",
+      "ENGLISH": "you would have created"
+    },
+    "EL": {
+      "SPANISH": "habría creado",
+      "ENGLISH": "s/he would have created, you (formal) would have created"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían creado",
+      "ENGLISH": "they would have created, you (plural formal) would have created"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos creado",
+      "ENGLISH": "we would have created"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais creado",
+      "ENGLISH": "you (plural) would have created"
+    }
+  }
+}

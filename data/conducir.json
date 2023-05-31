@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "conduzco ",
+      "ENGLISH": "I drive"
+    },
+    "TU": {
+      "SPANISH": "conduces",
+      "ENGLISH": "you drive"
+    },
+    "EL": {
+      "SPANISH": "conduce",
+      "ENGLISH": "s/he drives, you (formal) drives"
+    },
+    "ELLOS": {
+      "SPANISH": "conducen",
+      "ENGLISH": "they drive, you (plural formal) drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conducimos",
+      "ENGLISH": "we drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conducís",
+      "ENGLISH": "you (plural) drive"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he conducido",
+      "ENGLISH": "I have driven"
+    },
+    "TU": {
+      "SPANISH": "has conducido",
+      "ENGLISH": "you have driven"
+    },
+    "EL": {
+      "SPANISH": "ha conducido",
+      "ENGLISH": "s/he has driven, you (formal) have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "han conducido",
+      "ENGLISH": "they have driven, you (plural formal) have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos conducido",
+      "ENGLISH": "we have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis conducido",
+      "ENGLISH": "you (plural) have driven"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "conduje ",
+      "ENGLISH": "I drove"
+    },
+    "TU": {
+      "SPANISH": "condujiste ",
+      "ENGLISH": "you drove"
+    },
+    "EL": {
+      "SPANISH": "condujo ",
+      "ENGLISH": "s/he drove, you (formal) drove"
+    },
+    "ELLOS": {
+      "SPANISH": "condujeron ",
+      "ENGLISH": "they drove, you (plural formal) drove"
+    },
+    "NOSOTROS": {
+      "SPANISH": "condujimos ",
+      "ENGLISH": "we drove"
+    },
+    "VOSOTROS": {
+      "SPANISH": "condujisteis ",
+      "ENGLISH": "you (plural) drove"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había conducido",
+      "ENGLISH": "I had driven"
+    },
+    "TU": {
+      "SPANISH": "habías conducido",
+      "ENGLISH": "you had driven"
+    },
+    "EL": {
+      "SPANISH": "había conducido",
+      "ENGLISH": "s/he had driven, you (formal) had driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habían conducido",
+      "ENGLISH": "they had driven, you (plural formal) had driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos conducido",
+      "ENGLISH": "we had driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais conducido",
+      "ENGLISH": "you (plural) had driven"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "conduje ",
+      "ENGLISH": "I drove"
+    },
+    "TU": {
+      "SPANISH": "condujiste ",
+      "ENGLISH": "you drove"
+    },
+    "EL": {
+      "SPANISH": "condujo ",
+      "ENGLISH": "s/he drove, you (formal) drove"
+    },
+    "ELLOS": {
+      "SPANISH": "condujeron ",
+      "ENGLISH": "they drove, you (plural formal) drove"
+    },
+    "NOSOTROS": {
+      "SPANISH": "condujimos ",
+      "ENGLISH": "we drove"
+    },
+    "VOSOTROS": {
+      "SPANISH": "condujisteis ",
+      "ENGLISH": "you (plural) drove"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "conduciré",
+      "ENGLISH": "I will drive"
+    },
+    "TU": {
+      "SPANISH": "conducirás",
+      "ENGLISH": "you will drive"
+    },
+    "EL": {
+      "SPANISH": "conducirá",
+      "ENGLISH": "s/he will drive, you (formal) will drive"
+    },
+    "ELLOS": {
+      "SPANISH": "conducirán",
+      "ENGLISH": "they will drive, you (plural formal) will drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conduciremos",
+      "ENGLISH": "we will drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conduciréis",
+      "ENGLISH": "you (plural) will drive"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré conducido",
+      "ENGLISH": "I will have driven"
+    },
+    "TU": {
+      "SPANISH": "habrás conducido",
+      "ENGLISH": "you will have driven"
+    },
+    "EL": {
+      "SPANISH": "habrá conducido",
+      "ENGLISH": "s/he will have driven, you (formal) will have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán conducido",
+      "ENGLISH": "they will have driven, you (plural formal) will have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos conducido",
+      "ENGLISH": "we will have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis conducido",
+      "ENGLISH": "you (plural) will have driven"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "conduciría",
+      "ENGLISH": "I would drive"
+    },
+    "TU": {
+      "SPANISH": "conducirías",
+      "ENGLISH": "you would drive"
+    },
+    "EL": {
+      "SPANISH": "conduciría",
+      "ENGLISH": "s/he would drive, you (formal) would drive"
+    },
+    "ELLOS": {
+      "SPANISH": "conducirían",
+      "ENGLISH": "they would drive, you (plural formal) would drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conduciríamos",
+      "ENGLISH": "we would drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conduciríais",
+      "ENGLISH": "you (plural) would drive"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría conducido",
+      "ENGLISH": "I would have driven"
+    },
+    "TU": {
+      "SPANISH": "habrías conducido",
+      "ENGLISH": "you would have driven"
+    },
+    "EL": {
+      "SPANISH": "habría conducido",
+      "ENGLISH": "s/he would have driven, you (formal) would have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían conducido",
+      "ENGLISH": "they would have driven, you (plural formal) would have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos conducido",
+      "ENGLISH": "we would have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais conducido",
+      "ENGLISH": "you (plural) would have driven"
+    }
+  }
+}

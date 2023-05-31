@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cuido",
+      "ENGLISH": "I look after"
+    },
+    "TU": {
+      "SPANISH": "cuidas",
+      "ENGLISH": "you look after"
+    },
+    "EL": {
+      "SPANISH": "cuida",
+      "ENGLISH": "s/he looks after, you (formal) looks after"
+    },
+    "ELLOS": {
+      "SPANISH": "cuidan",
+      "ENGLISH": "they look after, you (plural formal) look after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cuidamos",
+      "ENGLISH": "we look after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cuidáis",
+      "ENGLISH": "you (plural) look after"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cuidado",
+      "ENGLISH": "I have looked after"
+    },
+    "TU": {
+      "SPANISH": "has cuidado",
+      "ENGLISH": "you have looked after"
+    },
+    "EL": {
+      "SPANISH": "ha cuidado",
+      "ENGLISH": "s/he has looked after, you (formal) have looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "han cuidado",
+      "ENGLISH": "they have looked after, you (plural formal) have looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cuidado",
+      "ENGLISH": "we have looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cuidado",
+      "ENGLISH": "you (plural) have looked after"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "cuidé",
+      "ENGLISH": "I looked after"
+    },
+    "TU": {
+      "SPANISH": "cuidaste",
+      "ENGLISH": "you looked after"
+    },
+    "EL": {
+      "SPANISH": "cuidó",
+      "ENGLISH": "s/he looked after, you (formal) looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "cuidaron",
+      "ENGLISH": "they looked after, you (plural formal) looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cuidamos",
+      "ENGLISH": "we looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cuidasteis",
+      "ENGLISH": "you (plural) looked after"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cuidado",
+      "ENGLISH": "I had looked after"
+    },
+    "TU": {
+      "SPANISH": "habías cuidado",
+      "ENGLISH": "you had looked after"
+    },
+    "EL": {
+      "SPANISH": "había cuidado",
+      "ENGLISH": "s/he had looked after, you (formal) had looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cuidado",
+      "ENGLISH": "they had looked after, you (plural formal) had looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cuidado",
+      "ENGLISH": "we had looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cuidado",
+      "ENGLISH": "you (plural) had looked after"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "cuidé",
+      "ENGLISH": "I looked after"
+    },
+    "TU": {
+      "SPANISH": "cuidaste",
+      "ENGLISH": "you looked after"
+    },
+    "EL": {
+      "SPANISH": "cuidó",
+      "ENGLISH": "s/he looked after, you (formal) looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "cuidaron",
+      "ENGLISH": "they looked after, you (plural formal) looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cuidamos",
+      "ENGLISH": "we looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cuidasteis",
+      "ENGLISH": "you (plural) looked after"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cuidaré",
+      "ENGLISH": "I will look after"
+    },
+    "TU": {
+      "SPANISH": "cuidarás",
+      "ENGLISH": "you will look after"
+    },
+    "EL": {
+      "SPANISH": "cuidará",
+      "ENGLISH": "s/he will look after, you (formal) will look after"
+    },
+    "ELLOS": {
+      "SPANISH": "cuidarán",
+      "ENGLISH": "they will look after, you (plural formal) will look after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cuidaremos",
+      "ENGLISH": "we will look after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cuidaréis",
+      "ENGLISH": "you (plural) will look after"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cuidado",
+      "ENGLISH": "I will have looked after"
+    },
+    "TU": {
+      "SPANISH": "habrás cuidado",
+      "ENGLISH": "you will have looked after"
+    },
+    "EL": {
+      "SPANISH": "habrá cuidado",
+      "ENGLISH": "s/he will have looked after, you (formal) will have looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cuidado",
+      "ENGLISH": "they will have looked after, you (plural formal) will have looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cuidado",
+      "ENGLISH": "we will have looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cuidado",
+      "ENGLISH": "you (plural) will have looked after"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cuidaría",
+      "ENGLISH": "I would look after"
+    },
+    "TU": {
+      "SPANISH": "cuidarías",
+      "ENGLISH": "you would look after"
+    },
+    "EL": {
+      "SPANISH": "cuidaría",
+      "ENGLISH": "s/he would look after, you (formal) would look after"
+    },
+    "ELLOS": {
+      "SPANISH": "cuidarían",
+      "ENGLISH": "they would look after, you (plural formal) would look after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cuidaríamos",
+      "ENGLISH": "we would look after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cuidaríais",
+      "ENGLISH": "you (plural) would look after"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cuidado",
+      "ENGLISH": "I would have looked after"
+    },
+    "TU": {
+      "SPANISH": "habrías cuidado",
+      "ENGLISH": "you would have looked after"
+    },
+    "EL": {
+      "SPANISH": "habría cuidado",
+      "ENGLISH": "s/he would have looked after, you (formal) would have looked after"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cuidado",
+      "ENGLISH": "they would have looked after, you (plural formal) would have looked after"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cuidado",
+      "ENGLISH": "we would have looked after"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cuidado",
+      "ENGLISH": "you (plural) would have looked after"
+    }
+  }
+}

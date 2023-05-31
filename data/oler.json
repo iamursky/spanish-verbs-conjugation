@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "huelo ",
+      "ENGLISH": "I smell"
+    },
+    "TU": {
+      "SPANISH": "hueles ",
+      "ENGLISH": "you smell"
+    },
+    "EL": {
+      "SPANISH": "huele ",
+      "ENGLISH": "s/he smells, you (formal) smells"
+    },
+    "ELLOS": {
+      "SPANISH": "huelen ",
+      "ENGLISH": "they smell, you (plural formal) smell"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olemos",
+      "ENGLISH": "we smell"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oléis",
+      "ENGLISH": "you (plural) smell"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he olido",
+      "ENGLISH": "I have smelled"
+    },
+    "TU": {
+      "SPANISH": "has olido",
+      "ENGLISH": "you have smelled"
+    },
+    "EL": {
+      "SPANISH": "ha olido",
+      "ENGLISH": "s/he has smelled, you (formal) have smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "han olido",
+      "ENGLISH": "they have smelled, you (plural formal) have smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos olido",
+      "ENGLISH": "we have smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis olido",
+      "ENGLISH": "you (plural) have smelled"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "olí",
+      "ENGLISH": "I smelled"
+    },
+    "TU": {
+      "SPANISH": "oliste",
+      "ENGLISH": "you smelled"
+    },
+    "EL": {
+      "SPANISH": "olió",
+      "ENGLISH": "s/he smelled, you (formal) smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "olieron",
+      "ENGLISH": "they smelled, you (plural formal) smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olimos",
+      "ENGLISH": "we smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olisteis",
+      "ENGLISH": "you (plural) smelled"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había olido",
+      "ENGLISH": "I had smelled"
+    },
+    "TU": {
+      "SPANISH": "habías olido",
+      "ENGLISH": "you had smelled"
+    },
+    "EL": {
+      "SPANISH": "había olido",
+      "ENGLISH": "s/he had smelled, you (formal) had smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habían olido",
+      "ENGLISH": "they had smelled, you (plural formal) had smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos olido",
+      "ENGLISH": "we had smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais olido",
+      "ENGLISH": "you (plural) had smelled"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "olí",
+      "ENGLISH": "I smelled"
+    },
+    "TU": {
+      "SPANISH": "oliste",
+      "ENGLISH": "you smelled"
+    },
+    "EL": {
+      "SPANISH": "olió",
+      "ENGLISH": "s/he smelled, you (formal) smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "olieron",
+      "ENGLISH": "they smelled, you (plural formal) smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olimos",
+      "ENGLISH": "we smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olisteis",
+      "ENGLISH": "you (plural) smelled"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "oleré",
+      "ENGLISH": "I will smell"
+    },
+    "TU": {
+      "SPANISH": "olerás",
+      "ENGLISH": "you will smell"
+    },
+    "EL": {
+      "SPANISH": "olerá",
+      "ENGLISH": "s/he will smell, you (formal) will smell"
+    },
+    "ELLOS": {
+      "SPANISH": "olerán",
+      "ENGLISH": "they will smell, you (plural formal) will smell"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oleremos",
+      "ENGLISH": "we will smell"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oleréis",
+      "ENGLISH": "you (plural) will smell"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré olido",
+      "ENGLISH": "I will have smelled"
+    },
+    "TU": {
+      "SPANISH": "habrás olido",
+      "ENGLISH": "you will have smelled"
+    },
+    "EL": {
+      "SPANISH": "habrá olido",
+      "ENGLISH": "s/he will have smelled, you (formal) will have smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán olido",
+      "ENGLISH": "they will have smelled, you (plural formal) will have smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos olido",
+      "ENGLISH": "we will have smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis olido",
+      "ENGLISH": "you (plural) will have smelled"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "olería",
+      "ENGLISH": "I would smell"
+    },
+    "TU": {
+      "SPANISH": "olerías",
+      "ENGLISH": "you would smell"
+    },
+    "EL": {
+      "SPANISH": "olería",
+      "ENGLISH": "s/he would smell, you (formal) would smell"
+    },
+    "ELLOS": {
+      "SPANISH": "olerían",
+      "ENGLISH": "they would smell, you (plural formal) would smell"
+    },
+    "NOSOTROS": {
+      "SPANISH": "oleríamos",
+      "ENGLISH": "we would smell"
+    },
+    "VOSOTROS": {
+      "SPANISH": "oleríais",
+      "ENGLISH": "you (plural) would smell"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría olido",
+      "ENGLISH": "I would have smelled"
+    },
+    "TU": {
+      "SPANISH": "habrías olido",
+      "ENGLISH": "you would have smelled"
+    },
+    "EL": {
+      "SPANISH": "habría olido",
+      "ENGLISH": "s/he would have smelled, you (formal) would have smelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían olido",
+      "ENGLISH": "they would have smelled, you (plural formal) would have smelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos olido",
+      "ENGLISH": "we would have smelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais olido",
+      "ENGLISH": "you (plural) would have smelled"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "fijo",
+      "ENGLISH": "I pin up"
+    },
+    "TU": {
+      "SPANISH": "fijas",
+      "ENGLISH": "you pin up"
+    },
+    "EL": {
+      "SPANISH": "fija",
+      "ENGLISH": "s/he pins up, you (formal) pins up"
+    },
+    "ELLOS": {
+      "SPANISH": "fijan",
+      "ENGLISH": "they pin up, you (plural formal) pin up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fijamos",
+      "ENGLISH": "we pin up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fijáis",
+      "ENGLISH": "you (plural) pin up"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he fijado",
+      "ENGLISH": "I have pinned up"
+    },
+    "TU": {
+      "SPANISH": "has fijado",
+      "ENGLISH": "you have pinned up"
+    },
+    "EL": {
+      "SPANISH": "ha fijado",
+      "ENGLISH": "s/he has pinned up, you (formal) have pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "han fijado",
+      "ENGLISH": "they have pinned up, you (plural formal) have pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos fijado",
+      "ENGLISH": "we have pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis fijado",
+      "ENGLISH": "you (plural) have pinned up"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "fijé",
+      "ENGLISH": "I pinned up"
+    },
+    "TU": {
+      "SPANISH": "fijaste",
+      "ENGLISH": "you pinned up"
+    },
+    "EL": {
+      "SPANISH": "fijó",
+      "ENGLISH": "s/he pinned up, you (formal) pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "fijaron",
+      "ENGLISH": "they pinned up, you (plural formal) pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fijamos",
+      "ENGLISH": "we pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fijasteis",
+      "ENGLISH": "you (plural) pinned up"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había fijado",
+      "ENGLISH": "I had pinned up"
+    },
+    "TU": {
+      "SPANISH": "habías fijado",
+      "ENGLISH": "you had pinned up"
+    },
+    "EL": {
+      "SPANISH": "había fijado",
+      "ENGLISH": "s/he had pinned up, you (formal) had pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "habían fijado",
+      "ENGLISH": "they had pinned up, you (plural formal) had pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos fijado",
+      "ENGLISH": "we had pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais fijado",
+      "ENGLISH": "you (plural) had pinned up"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "fijé",
+      "ENGLISH": "I pinned up"
+    },
+    "TU": {
+      "SPANISH": "fijaste",
+      "ENGLISH": "you pinned up"
+    },
+    "EL": {
+      "SPANISH": "fijó",
+      "ENGLISH": "s/he pinned up, you (formal) pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "fijaron",
+      "ENGLISH": "they pinned up, you (plural formal) pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fijamos",
+      "ENGLISH": "we pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fijasteis",
+      "ENGLISH": "you (plural) pinned up"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "fijaré",
+      "ENGLISH": "I will pin up"
+    },
+    "TU": {
+      "SPANISH": "fijarás",
+      "ENGLISH": "you will pin up"
+    },
+    "EL": {
+      "SPANISH": "fijará",
+      "ENGLISH": "s/he will pin up, you (formal) will pin up"
+    },
+    "ELLOS": {
+      "SPANISH": "fijarán",
+      "ENGLISH": "they will pin up, you (plural formal) will pin up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fijaremos",
+      "ENGLISH": "we will pin up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fijaréis",
+      "ENGLISH": "you (plural) will pin up"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré fijado",
+      "ENGLISH": "I will have pinned up"
+    },
+    "TU": {
+      "SPANISH": "habrás fijado",
+      "ENGLISH": "you will have pinned up"
+    },
+    "EL": {
+      "SPANISH": "habrá fijado",
+      "ENGLISH": "s/he will have pinned up, you (formal) will have pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán fijado",
+      "ENGLISH": "they will have pinned up, you (plural formal) will have pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos fijado",
+      "ENGLISH": "we will have pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis fijado",
+      "ENGLISH": "you (plural) will have pinned up"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "fijaría",
+      "ENGLISH": "I would pin up"
+    },
+    "TU": {
+      "SPANISH": "fijarías",
+      "ENGLISH": "you would pin up"
+    },
+    "EL": {
+      "SPANISH": "fijaría",
+      "ENGLISH": "s/he would pin up, you (formal) would pin up"
+    },
+    "ELLOS": {
+      "SPANISH": "fijarían",
+      "ENGLISH": "they would pin up, you (plural formal) would pin up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fijaríamos",
+      "ENGLISH": "we would pin up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fijaríais",
+      "ENGLISH": "you (plural) would pin up"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría fijado",
+      "ENGLISH": "I would have pinned up"
+    },
+    "TU": {
+      "SPANISH": "habrías fijado",
+      "ENGLISH": "you would have pinned up"
+    },
+    "EL": {
+      "SPANISH": "habría fijado",
+      "ENGLISH": "s/he would have pinned up, you (formal) would have pinned up"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían fijado",
+      "ENGLISH": "they would have pinned up, you (plural formal) would have pinned up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos fijado",
+      "ENGLISH": "we would have pinned up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais fijado",
+      "ENGLISH": "you (plural) would have pinned up"
+    }
+  }
+}

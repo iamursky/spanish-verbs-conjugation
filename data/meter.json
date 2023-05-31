@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "meto",
+      "ENGLISH": "I put"
+    },
+    "TU": {
+      "SPANISH": "metes",
+      "ENGLISH": "you put"
+    },
+    "EL": {
+      "SPANISH": "mete",
+      "ENGLISH": "s/he puts, you (formal) puts"
+    },
+    "ELLOS": {
+      "SPANISH": "meten",
+      "ENGLISH": "they put, you (plural formal) put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "metemos",
+      "ENGLISH": "we put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "metéis",
+      "ENGLISH": "you (plural) put"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he metido",
+      "ENGLISH": "I have put"
+    },
+    "TU": {
+      "SPANISH": "has metido",
+      "ENGLISH": "you have put"
+    },
+    "EL": {
+      "SPANISH": "ha metido",
+      "ENGLISH": "s/he has put, you (formal) have put"
+    },
+    "ELLOS": {
+      "SPANISH": "han metido",
+      "ENGLISH": "they have put, you (plural formal) have put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos metido",
+      "ENGLISH": "we have put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis metido",
+      "ENGLISH": "you (plural) have put"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "metí",
+      "ENGLISH": "I put"
+    },
+    "TU": {
+      "SPANISH": "metiste",
+      "ENGLISH": "you put"
+    },
+    "EL": {
+      "SPANISH": "metió",
+      "ENGLISH": "s/he put, you (formal) put"
+    },
+    "ELLOS": {
+      "SPANISH": "metieron",
+      "ENGLISH": "they put, you (plural formal) put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "metimos",
+      "ENGLISH": "we put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "metisteis",
+      "ENGLISH": "you (plural) put"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había metido",
+      "ENGLISH": "I had put"
+    },
+    "TU": {
+      "SPANISH": "habías metido",
+      "ENGLISH": "you had put"
+    },
+    "EL": {
+      "SPANISH": "había metido",
+      "ENGLISH": "s/he had put, you (formal) had put"
+    },
+    "ELLOS": {
+      "SPANISH": "habían metido",
+      "ENGLISH": "they had put, you (plural formal) had put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos metido",
+      "ENGLISH": "we had put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais metido",
+      "ENGLISH": "you (plural) had put"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "metí",
+      "ENGLISH": "I put"
+    },
+    "TU": {
+      "SPANISH": "metiste",
+      "ENGLISH": "you put"
+    },
+    "EL": {
+      "SPANISH": "metió",
+      "ENGLISH": "s/he put, you (formal) put"
+    },
+    "ELLOS": {
+      "SPANISH": "metieron",
+      "ENGLISH": "they put, you (plural formal) put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "metimos",
+      "ENGLISH": "we put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "metisteis",
+      "ENGLISH": "you (plural) put"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "meteré",
+      "ENGLISH": "I will put"
+    },
+    "TU": {
+      "SPANISH": "meterás",
+      "ENGLISH": "you will put"
+    },
+    "EL": {
+      "SPANISH": "meterá",
+      "ENGLISH": "s/he will put, you (formal) will put"
+    },
+    "ELLOS": {
+      "SPANISH": "meterán",
+      "ENGLISH": "they will put, you (plural formal) will put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "meteremos",
+      "ENGLISH": "we will put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "meteréis",
+      "ENGLISH": "you (plural) will put"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré metido",
+      "ENGLISH": "I will have put"
+    },
+    "TU": {
+      "SPANISH": "habrás metido",
+      "ENGLISH": "you will have put"
+    },
+    "EL": {
+      "SPANISH": "habrá metido",
+      "ENGLISH": "s/he will have put, you (formal) will have put"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán metido",
+      "ENGLISH": "they will have put, you (plural formal) will have put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos metido",
+      "ENGLISH": "we will have put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis metido",
+      "ENGLISH": "you (plural) will have put"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "metería",
+      "ENGLISH": "I would put"
+    },
+    "TU": {
+      "SPANISH": "meterías",
+      "ENGLISH": "you would put"
+    },
+    "EL": {
+      "SPANISH": "metería",
+      "ENGLISH": "s/he would put, you (formal) would put"
+    },
+    "ELLOS": {
+      "SPANISH": "meterían",
+      "ENGLISH": "they would put, you (plural formal) would put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "meteríamos",
+      "ENGLISH": "we would put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "meteríais",
+      "ENGLISH": "you (plural) would put"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría metido",
+      "ENGLISH": "I would have put"
+    },
+    "TU": {
+      "SPANISH": "habrías metido",
+      "ENGLISH": "you would have put"
+    },
+    "EL": {
+      "SPANISH": "habría metido",
+      "ENGLISH": "s/he would have put, you (formal) would have put"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían metido",
+      "ENGLISH": "they would have put, you (plural formal) would have put"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos metido",
+      "ENGLISH": "we would have put"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais metido",
+      "ENGLISH": "you (plural) would have put"
+    }
+  }
+}

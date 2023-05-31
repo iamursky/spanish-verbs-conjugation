@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "corrijo ",
+      "ENGLISH": "I correct"
+    },
+    "TU": {
+      "SPANISH": "corriges ",
+      "ENGLISH": "you correct"
+    },
+    "EL": {
+      "SPANISH": "corrige ",
+      "ENGLISH": "s/he corrects, you (formal) corrects"
+    },
+    "ELLOS": {
+      "SPANISH": "corrigen ",
+      "ENGLISH": "they correct, you (plural formal) correct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "corregimos",
+      "ENGLISH": "we correct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "corregís",
+      "ENGLISH": "you (plural) correct"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he corregido",
+      "ENGLISH": "I have corrected"
+    },
+    "TU": {
+      "SPANISH": "has corregido",
+      "ENGLISH": "you have corrected"
+    },
+    "EL": {
+      "SPANISH": "ha corregido",
+      "ENGLISH": "s/he has corrected, you (formal) have corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "han corregido",
+      "ENGLISH": "they have corrected, you (plural formal) have corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos corregido",
+      "ENGLISH": "we have corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis corregido",
+      "ENGLISH": "you (plural) have corrected"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "corregí",
+      "ENGLISH": "I corrected"
+    },
+    "TU": {
+      "SPANISH": "corregiste",
+      "ENGLISH": "you corrected"
+    },
+    "EL": {
+      "SPANISH": "corrigió ",
+      "ENGLISH": "s/he corrected, you (formal) corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "corrigieron ",
+      "ENGLISH": "they corrected, you (plural formal) corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "corregimos",
+      "ENGLISH": "we corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "corregisteis",
+      "ENGLISH": "you (plural) corrected"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había corregido",
+      "ENGLISH": "I had corrected"
+    },
+    "TU": {
+      "SPANISH": "habías corregido",
+      "ENGLISH": "you had corrected"
+    },
+    "EL": {
+      "SPANISH": "había corregido",
+      "ENGLISH": "s/he had corrected, you (formal) had corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "habían corregido",
+      "ENGLISH": "they had corrected, you (plural formal) had corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos corregido",
+      "ENGLISH": "we had corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais corregido",
+      "ENGLISH": "you (plural) had corrected"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "corregí",
+      "ENGLISH": "I corrected"
+    },
+    "TU": {
+      "SPANISH": "corregiste",
+      "ENGLISH": "you corrected"
+    },
+    "EL": {
+      "SPANISH": "corrigió ",
+      "ENGLISH": "s/he corrected, you (formal) corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "corrigieron ",
+      "ENGLISH": "they corrected, you (plural formal) corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "corregimos",
+      "ENGLISH": "we corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "corregisteis",
+      "ENGLISH": "you (plural) corrected"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "corregiré",
+      "ENGLISH": "I will correct"
+    },
+    "TU": {
+      "SPANISH": "corregirás",
+      "ENGLISH": "you will correct"
+    },
+    "EL": {
+      "SPANISH": "corregirá",
+      "ENGLISH": "s/he will correct, you (formal) will correct"
+    },
+    "ELLOS": {
+      "SPANISH": "corregirán",
+      "ENGLISH": "they will correct, you (plural formal) will correct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "corregiremos",
+      "ENGLISH": "we will correct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "corregiréis",
+      "ENGLISH": "you (plural) will correct"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré corregido",
+      "ENGLISH": "I will have corrected"
+    },
+    "TU": {
+      "SPANISH": "habrás corregido",
+      "ENGLISH": "you will have corrected"
+    },
+    "EL": {
+      "SPANISH": "habrá corregido",
+      "ENGLISH": "s/he will have corrected, you (formal) will have corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán corregido",
+      "ENGLISH": "they will have corrected, you (plural formal) will have corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos corregido",
+      "ENGLISH": "we will have corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis corregido",
+      "ENGLISH": "you (plural) will have corrected"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "corregiría",
+      "ENGLISH": "I would correct"
+    },
+    "TU": {
+      "SPANISH": "corregirías",
+      "ENGLISH": "you would correct"
+    },
+    "EL": {
+      "SPANISH": "corregiría",
+      "ENGLISH": "s/he would correct, you (formal) would correct"
+    },
+    "ELLOS": {
+      "SPANISH": "corregirían",
+      "ENGLISH": "they would correct, you (plural formal) would correct"
+    },
+    "NOSOTROS": {
+      "SPANISH": "corregiríamos",
+      "ENGLISH": "we would correct"
+    },
+    "VOSOTROS": {
+      "SPANISH": "corregiríais",
+      "ENGLISH": "you (plural) would correct"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría corregido",
+      "ENGLISH": "I would have corrected"
+    },
+    "TU": {
+      "SPANISH": "habrías corregido",
+      "ENGLISH": "you would have corrected"
+    },
+    "EL": {
+      "SPANISH": "habría corregido",
+      "ENGLISH": "s/he would have corrected, you (formal) would have corrected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían corregido",
+      "ENGLISH": "they would have corrected, you (plural formal) would have corrected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos corregido",
+      "ENGLISH": "we would have corrected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais corregido",
+      "ENGLISH": "you (plural) would have corrected"
+    }
+  }
+}

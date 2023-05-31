@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cuesto ",
+      "ENGLISH": "I cost"
+    },
+    "TU": {
+      "SPANISH": "cuestas ",
+      "ENGLISH": "you cost"
+    },
+    "EL": {
+      "SPANISH": "cuesta ",
+      "ENGLISH": "s/he costs, you (formal) costs"
+    },
+    "ELLOS": {
+      "SPANISH": "cuestan ",
+      "ENGLISH": "they cost, you (plural formal) cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "costamos",
+      "ENGLISH": "we cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "costáis",
+      "ENGLISH": "you (plural) cost"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he costado",
+      "ENGLISH": "I have cost"
+    },
+    "TU": {
+      "SPANISH": "has costado",
+      "ENGLISH": "you have cost"
+    },
+    "EL": {
+      "SPANISH": "ha costado",
+      "ENGLISH": "s/he has cost, you (formal) have cost"
+    },
+    "ELLOS": {
+      "SPANISH": "han costado",
+      "ENGLISH": "they have cost, you (plural formal) have cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos costado",
+      "ENGLISH": "we have cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis costado",
+      "ENGLISH": "you (plural) have cost"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "costé",
+      "ENGLISH": "I cost"
+    },
+    "TU": {
+      "SPANISH": "costaste",
+      "ENGLISH": "you cost"
+    },
+    "EL": {
+      "SPANISH": "costó",
+      "ENGLISH": "s/he cost, you (formal) cost"
+    },
+    "ELLOS": {
+      "SPANISH": "costaron",
+      "ENGLISH": "they cost, you (plural formal) cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "costamos",
+      "ENGLISH": "we cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "costasteis",
+      "ENGLISH": "you (plural) cost"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había costado",
+      "ENGLISH": "I had cost"
+    },
+    "TU": {
+      "SPANISH": "habías costado",
+      "ENGLISH": "you had cost"
+    },
+    "EL": {
+      "SPANISH": "había costado",
+      "ENGLISH": "s/he had cost, you (formal) had cost"
+    },
+    "ELLOS": {
+      "SPANISH": "habían costado",
+      "ENGLISH": "they had cost, you (plural formal) had cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos costado",
+      "ENGLISH": "we had cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais costado",
+      "ENGLISH": "you (plural) had cost"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "costé",
+      "ENGLISH": "I cost"
+    },
+    "TU": {
+      "SPANISH": "costaste",
+      "ENGLISH": "you cost"
+    },
+    "EL": {
+      "SPANISH": "costó",
+      "ENGLISH": "s/he cost, you (formal) cost"
+    },
+    "ELLOS": {
+      "SPANISH": "costaron",
+      "ENGLISH": "they cost, you (plural formal) cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "costamos",
+      "ENGLISH": "we cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "costasteis",
+      "ENGLISH": "you (plural) cost"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "costaré",
+      "ENGLISH": "I will cost"
+    },
+    "TU": {
+      "SPANISH": "costarás",
+      "ENGLISH": "you will cost"
+    },
+    "EL": {
+      "SPANISH": "costará",
+      "ENGLISH": "s/he will cost, you (formal) will cost"
+    },
+    "ELLOS": {
+      "SPANISH": "costarán",
+      "ENGLISH": "they will cost, you (plural formal) will cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "costaremos",
+      "ENGLISH": "we will cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "costaréis",
+      "ENGLISH": "you (plural) will cost"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré costado",
+      "ENGLISH": "I will have cost"
+    },
+    "TU": {
+      "SPANISH": "habrás costado",
+      "ENGLISH": "you will have cost"
+    },
+    "EL": {
+      "SPANISH": "habrá costado",
+      "ENGLISH": "s/he will have cost, you (formal) will have cost"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán costado",
+      "ENGLISH": "they will have cost, you (plural formal) will have cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos costado",
+      "ENGLISH": "we will have cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis costado",
+      "ENGLISH": "you (plural) will have cost"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "costaría",
+      "ENGLISH": "I would cost"
+    },
+    "TU": {
+      "SPANISH": "costarías",
+      "ENGLISH": "you would cost"
+    },
+    "EL": {
+      "SPANISH": "costaría",
+      "ENGLISH": "s/he would cost, you (formal) would cost"
+    },
+    "ELLOS": {
+      "SPANISH": "costarían",
+      "ENGLISH": "they would cost, you (plural formal) would cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "costaríamos",
+      "ENGLISH": "we would cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "costaríais",
+      "ENGLISH": "you (plural) would cost"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría costado",
+      "ENGLISH": "I would have cost"
+    },
+    "TU": {
+      "SPANISH": "habrías costado",
+      "ENGLISH": "you would have cost"
+    },
+    "EL": {
+      "SPANISH": "habría costado",
+      "ENGLISH": "s/he would have cost, you (formal) would have cost"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían costado",
+      "ENGLISH": "they would have cost, you (plural formal) would have cost"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos costado",
+      "ENGLISH": "we would have cost"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais costado",
+      "ENGLISH": "you (plural) would have cost"
+    }
+  }
+}

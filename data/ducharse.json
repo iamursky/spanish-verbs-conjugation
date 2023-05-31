@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me ducho",
+      "ENGLISH": "I shower"
+    },
+    "TU": {
+      "SPANISH": "te duchas",
+      "ENGLISH": "you shower"
+    },
+    "EL": {
+      "SPANISH": "se ducha",
+      "ENGLISH": "s/he showers, you (formal) showers"
+    },
+    "ELLOS": {
+      "SPANISH": "se duchan",
+      "ENGLISH": "they shower, you (plural formal) shower"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos duchamos",
+      "ENGLISH": "we shower"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os ducháis",
+      "ENGLISH": "you (plural) shower"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he duchado",
+      "ENGLISH": "I have showered"
+    },
+    "TU": {
+      "SPANISH": "te has duchado",
+      "ENGLISH": "you have showered"
+    },
+    "EL": {
+      "SPANISH": "se ha duchado",
+      "ENGLISH": "s/he has showered, you (formal) have showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se han duchado",
+      "ENGLISH": "they have showered, you (plural formal) have showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos duchado",
+      "ENGLISH": "we have showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis duchado",
+      "ENGLISH": "you (plural) have showered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me duché",
+      "ENGLISH": "I showered"
+    },
+    "TU": {
+      "SPANISH": "te duchaste",
+      "ENGLISH": "you showered"
+    },
+    "EL": {
+      "SPANISH": "se duchó",
+      "ENGLISH": "s/he showered, you (formal) showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se ducharon",
+      "ENGLISH": "they showered, you (plural formal) showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos duchamos",
+      "ENGLISH": "we showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os duchasteis",
+      "ENGLISH": "you (plural) showered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había duchado",
+      "ENGLISH": "I had showered"
+    },
+    "TU": {
+      "SPANISH": "te habías duchado",
+      "ENGLISH": "you had showered"
+    },
+    "EL": {
+      "SPANISH": "se había duchado",
+      "ENGLISH": "s/he had showered, you (formal) had showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían duchado",
+      "ENGLISH": "they had showered, you (plural formal) had showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos duchado",
+      "ENGLISH": "we had showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais duchado",
+      "ENGLISH": "you (plural) had showered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me duché",
+      "ENGLISH": "I showered"
+    },
+    "TU": {
+      "SPANISH": "te duchaste",
+      "ENGLISH": "you showered"
+    },
+    "EL": {
+      "SPANISH": "se duchó",
+      "ENGLISH": "s/he showered, you (formal) showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se ducharon",
+      "ENGLISH": "they showered, you (plural formal) showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos duchamos",
+      "ENGLISH": "we showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os duchasteis",
+      "ENGLISH": "you (plural) showered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me ducharé",
+      "ENGLISH": "I will shower"
+    },
+    "TU": {
+      "SPANISH": "te ducharás",
+      "ENGLISH": "you will shower"
+    },
+    "EL": {
+      "SPANISH": "se duchará",
+      "ENGLISH": "s/he will shower, you (formal) will shower"
+    },
+    "ELLOS": {
+      "SPANISH": "se ducharán",
+      "ENGLISH": "they will shower, you (plural formal) will shower"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos ducharemos",
+      "ENGLISH": "we will shower"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os ducharéis",
+      "ENGLISH": "you (plural) will shower"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré duchado",
+      "ENGLISH": "I will have showered"
+    },
+    "TU": {
+      "SPANISH": "te habrás duchado",
+      "ENGLISH": "you will have showered"
+    },
+    "EL": {
+      "SPANISH": "se habrá duchado",
+      "ENGLISH": "s/he will have showered, you (formal) will have showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán duchado",
+      "ENGLISH": "they will have showered, you (plural formal) will have showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos duchado",
+      "ENGLISH": "we will have showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis duchado",
+      "ENGLISH": "you (plural) will have showered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me ducharía",
+      "ENGLISH": "I would shower"
+    },
+    "TU": {
+      "SPANISH": "te ducharías",
+      "ENGLISH": "you would shower"
+    },
+    "EL": {
+      "SPANISH": "se ducharía",
+      "ENGLISH": "s/he would shower, you (formal) would shower"
+    },
+    "ELLOS": {
+      "SPANISH": "se ducharían",
+      "ENGLISH": "they would shower, you (plural formal) would shower"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos ducharíamos",
+      "ENGLISH": "we would shower"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os ducharíais",
+      "ENGLISH": "you (plural) would shower"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría duchado",
+      "ENGLISH": "I would have showered"
+    },
+    "TU": {
+      "SPANISH": "te habrías duchado",
+      "ENGLISH": "you would have showered"
+    },
+    "EL": {
+      "SPANISH": "se habría duchado",
+      "ENGLISH": "s/he would have showered, you (formal) would have showered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían duchado",
+      "ENGLISH": "they would have showered, you (plural formal) would have showered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos duchado",
+      "ENGLISH": "we would have showered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais duchado",
+      "ENGLISH": "you (plural) would have showered"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "evacuo",
+      "ENGLISH": "I evacuate"
+    },
+    "TU": {
+      "SPANISH": "evacuas",
+      "ENGLISH": "you evacuate"
+    },
+    "EL": {
+      "SPANISH": "evacua",
+      "ENGLISH": "s/he evacuates, you (formal) evacuates"
+    },
+    "ELLOS": {
+      "SPANISH": "evacuan",
+      "ENGLISH": "they evacuate, you (plural formal) evacuate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evacuamos",
+      "ENGLISH": "we evacuate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evacuáis",
+      "ENGLISH": "you (plural) evacuate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he evacuado",
+      "ENGLISH": "I have evacuated"
+    },
+    "TU": {
+      "SPANISH": "has evacuado",
+      "ENGLISH": "you have evacuated"
+    },
+    "EL": {
+      "SPANISH": "ha evacuado",
+      "ENGLISH": "s/he has evacuated, you (formal) have evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "han evacuado",
+      "ENGLISH": "they have evacuated, you (plural formal) have evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos evacuado",
+      "ENGLISH": "we have evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis evacuado",
+      "ENGLISH": "you (plural) have evacuated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "evacué",
+      "ENGLISH": "I evacuated"
+    },
+    "TU": {
+      "SPANISH": "evacuaste",
+      "ENGLISH": "you evacuated"
+    },
+    "EL": {
+      "SPANISH": "evacuó",
+      "ENGLISH": "s/he evacuated, you (formal) evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "evacuaron",
+      "ENGLISH": "they evacuated, you (plural formal) evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evacuamos",
+      "ENGLISH": "we evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evacuasteis",
+      "ENGLISH": "you (plural) evacuated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había evacuado",
+      "ENGLISH": "I had evacuated"
+    },
+    "TU": {
+      "SPANISH": "habías evacuado",
+      "ENGLISH": "you had evacuated"
+    },
+    "EL": {
+      "SPANISH": "había evacuado",
+      "ENGLISH": "s/he had evacuated, you (formal) had evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían evacuado",
+      "ENGLISH": "they had evacuated, you (plural formal) had evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos evacuado",
+      "ENGLISH": "we had evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais evacuado",
+      "ENGLISH": "you (plural) had evacuated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "evacué",
+      "ENGLISH": "I evacuated"
+    },
+    "TU": {
+      "SPANISH": "evacuaste",
+      "ENGLISH": "you evacuated"
+    },
+    "EL": {
+      "SPANISH": "evacuó",
+      "ENGLISH": "s/he evacuated, you (formal) evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "evacuaron",
+      "ENGLISH": "they evacuated, you (plural formal) evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evacuamos",
+      "ENGLISH": "we evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evacuasteis",
+      "ENGLISH": "you (plural) evacuated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "evacuaré",
+      "ENGLISH": "I will evacuate"
+    },
+    "TU": {
+      "SPANISH": "evacuarás",
+      "ENGLISH": "you will evacuate"
+    },
+    "EL": {
+      "SPANISH": "evacuará",
+      "ENGLISH": "s/he will evacuate, you (formal) will evacuate"
+    },
+    "ELLOS": {
+      "SPANISH": "evacuarán",
+      "ENGLISH": "they will evacuate, you (plural formal) will evacuate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evacuaremos",
+      "ENGLISH": "we will evacuate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evacuaréis",
+      "ENGLISH": "you (plural) will evacuate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré evacuado",
+      "ENGLISH": "I will have evacuated"
+    },
+    "TU": {
+      "SPANISH": "habrás evacuado",
+      "ENGLISH": "you will have evacuated"
+    },
+    "EL": {
+      "SPANISH": "habrá evacuado",
+      "ENGLISH": "s/he will have evacuated, you (formal) will have evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán evacuado",
+      "ENGLISH": "they will have evacuated, you (plural formal) will have evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos evacuado",
+      "ENGLISH": "we will have evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis evacuado",
+      "ENGLISH": "you (plural) will have evacuated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "evacuaría",
+      "ENGLISH": "I would evacuate"
+    },
+    "TU": {
+      "SPANISH": "evacuarías",
+      "ENGLISH": "you would evacuate"
+    },
+    "EL": {
+      "SPANISH": "evacuaría",
+      "ENGLISH": "s/he would evacuate, you (formal) would evacuate"
+    },
+    "ELLOS": {
+      "SPANISH": "evacuarían",
+      "ENGLISH": "they would evacuate, you (plural formal) would evacuate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evacuaríamos",
+      "ENGLISH": "we would evacuate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evacuaríais",
+      "ENGLISH": "you (plural) would evacuate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría evacuado",
+      "ENGLISH": "I would have evacuated"
+    },
+    "TU": {
+      "SPANISH": "habrías evacuado",
+      "ENGLISH": "you would have evacuated"
+    },
+    "EL": {
+      "SPANISH": "habría evacuado",
+      "ENGLISH": "s/he would have evacuated, you (formal) would have evacuated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían evacuado",
+      "ENGLISH": "they would have evacuated, you (plural formal) would have evacuated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos evacuado",
+      "ENGLISH": "we would have evacuated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais evacuado",
+      "ENGLISH": "you (plural) would have evacuated"
+    }
+  }
+}

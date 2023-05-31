@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "consisto",
+      "ENGLISH": "I consist"
+    },
+    "TU": {
+      "SPANISH": "consistes",
+      "ENGLISH": "you consist"
+    },
+    "EL": {
+      "SPANISH": "consiste",
+      "ENGLISH": "s/he consists, you (formal) consists"
+    },
+    "ELLOS": {
+      "SPANISH": "consisten",
+      "ENGLISH": "they consist, you (plural formal) consist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consistimos",
+      "ENGLISH": "we consist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consistís",
+      "ENGLISH": "you (plural) consist"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he consistido",
+      "ENGLISH": "I have consisted"
+    },
+    "TU": {
+      "SPANISH": "has consistido",
+      "ENGLISH": "you have consisted"
+    },
+    "EL": {
+      "SPANISH": "ha consistido",
+      "ENGLISH": "s/he has consisted, you (formal) have consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "han consistido",
+      "ENGLISH": "they have consisted, you (plural formal) have consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos consistido",
+      "ENGLISH": "we have consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis consistido",
+      "ENGLISH": "you (plural) have consisted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "consistí",
+      "ENGLISH": "I consisted"
+    },
+    "TU": {
+      "SPANISH": "consististe",
+      "ENGLISH": "you consisted"
+    },
+    "EL": {
+      "SPANISH": "consistió",
+      "ENGLISH": "s/he consisted, you (formal) consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "consistieron",
+      "ENGLISH": "they consisted, you (plural formal) consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consistimos",
+      "ENGLISH": "we consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consististeis",
+      "ENGLISH": "you (plural) consisted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había consistido",
+      "ENGLISH": "I had consisted"
+    },
+    "TU": {
+      "SPANISH": "habías consistido",
+      "ENGLISH": "you had consisted"
+    },
+    "EL": {
+      "SPANISH": "había consistido",
+      "ENGLISH": "s/he had consisted, you (formal) had consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían consistido",
+      "ENGLISH": "they had consisted, you (plural formal) had consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos consistido",
+      "ENGLISH": "we had consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais consistido",
+      "ENGLISH": "you (plural) had consisted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "consistí",
+      "ENGLISH": "I consisted"
+    },
+    "TU": {
+      "SPANISH": "consististe",
+      "ENGLISH": "you consisted"
+    },
+    "EL": {
+      "SPANISH": "consistió",
+      "ENGLISH": "s/he consisted, you (formal) consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "consistieron",
+      "ENGLISH": "they consisted, you (plural formal) consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consistimos",
+      "ENGLISH": "we consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consististeis",
+      "ENGLISH": "you (plural) consisted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "consistiré",
+      "ENGLISH": "I will consist"
+    },
+    "TU": {
+      "SPANISH": "consistirás",
+      "ENGLISH": "you will consist"
+    },
+    "EL": {
+      "SPANISH": "consistirá",
+      "ENGLISH": "s/he will consist, you (formal) will consist"
+    },
+    "ELLOS": {
+      "SPANISH": "consistirán",
+      "ENGLISH": "they will consist, you (plural formal) will consist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consistiremos",
+      "ENGLISH": "we will consist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consistiréis",
+      "ENGLISH": "you (plural) will consist"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré consistido",
+      "ENGLISH": "I will have consisted"
+    },
+    "TU": {
+      "SPANISH": "habrás consistido",
+      "ENGLISH": "you will have consisted"
+    },
+    "EL": {
+      "SPANISH": "habrá consistido",
+      "ENGLISH": "s/he will have consisted, you (formal) will have consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán consistido",
+      "ENGLISH": "they will have consisted, you (plural formal) will have consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos consistido",
+      "ENGLISH": "we will have consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis consistido",
+      "ENGLISH": "you (plural) will have consisted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "consistiría",
+      "ENGLISH": "I would consist"
+    },
+    "TU": {
+      "SPANISH": "consistirías",
+      "ENGLISH": "you would consist"
+    },
+    "EL": {
+      "SPANISH": "consistiría",
+      "ENGLISH": "s/he would consist, you (formal) would consist"
+    },
+    "ELLOS": {
+      "SPANISH": "consistirían",
+      "ENGLISH": "they would consist, you (plural formal) would consist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consistiríamos",
+      "ENGLISH": "we would consist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consistiríais",
+      "ENGLISH": "you (plural) would consist"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría consistido",
+      "ENGLISH": "I would have consisted"
+    },
+    "TU": {
+      "SPANISH": "habrías consistido",
+      "ENGLISH": "you would have consisted"
+    },
+    "EL": {
+      "SPANISH": "habría consistido",
+      "ENGLISH": "s/he would have consisted, you (formal) would have consisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían consistido",
+      "ENGLISH": "they would have consisted, you (plural formal) would have consisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos consistido",
+      "ENGLISH": "we would have consisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais consistido",
+      "ENGLISH": "you (plural) would have consisted"
+    }
+  }
+}

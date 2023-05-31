@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me acuerdo ",
+      "ENGLISH": "I remember"
+    },
+    "TU": {
+      "SPANISH": "te acuerdas ",
+      "ENGLISH": "you remember"
+    },
+    "EL": {
+      "SPANISH": "se acuerda ",
+      "ENGLISH": "s/he remembers, you (formal) remembers"
+    },
+    "ELLOS": {
+      "SPANISH": "se acuerdan ",
+      "ENGLISH": "they remember, you (plural formal) remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acordamos",
+      "ENGLISH": "we remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acordáis",
+      "ENGLISH": "you (plural) remember"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he acordado",
+      "ENGLISH": "I have remembered"
+    },
+    "TU": {
+      "SPANISH": "te has acordado",
+      "ENGLISH": "you have remembered"
+    },
+    "EL": {
+      "SPANISH": "se ha acordado",
+      "ENGLISH": "s/he has remembered, you (formal) have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se han acordado",
+      "ENGLISH": "they have remembered, you (plural formal) have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos acordado",
+      "ENGLISH": "we have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis acordado",
+      "ENGLISH": "you (plural) have remembered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me acordé",
+      "ENGLISH": "I remembered"
+    },
+    "TU": {
+      "SPANISH": "te acordaste",
+      "ENGLISH": "you remembered"
+    },
+    "EL": {
+      "SPANISH": "se acordó",
+      "ENGLISH": "s/he remembered, you (formal) remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se acordaron",
+      "ENGLISH": "they remembered, you (plural formal) remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acordamos",
+      "ENGLISH": "we remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acordasteis",
+      "ENGLISH": "you (plural) remembered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había acordado",
+      "ENGLISH": "I had remembered"
+    },
+    "TU": {
+      "SPANISH": "te habías acordado",
+      "ENGLISH": "you had remembered"
+    },
+    "EL": {
+      "SPANISH": "se había acordado",
+      "ENGLISH": "s/he had remembered, you (formal) had remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían acordado",
+      "ENGLISH": "they had remembered, you (plural formal) had remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos acordado",
+      "ENGLISH": "we had remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais acordado",
+      "ENGLISH": "you (plural) had remembered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me acordé",
+      "ENGLISH": "I remembered"
+    },
+    "TU": {
+      "SPANISH": "te acordaste",
+      "ENGLISH": "you remembered"
+    },
+    "EL": {
+      "SPANISH": "se acordó",
+      "ENGLISH": "s/he remembered, you (formal) remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se acordaron",
+      "ENGLISH": "they remembered, you (plural formal) remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acordamos",
+      "ENGLISH": "we remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acordasteis",
+      "ENGLISH": "you (plural) remembered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me acordaré",
+      "ENGLISH": "I will remember"
+    },
+    "TU": {
+      "SPANISH": "te acordarás",
+      "ENGLISH": "you will remember"
+    },
+    "EL": {
+      "SPANISH": "se acordará",
+      "ENGLISH": "s/he will remember, you (formal) will remember"
+    },
+    "ELLOS": {
+      "SPANISH": "se acordarán",
+      "ENGLISH": "they will remember, you (plural formal) will remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acordaremos",
+      "ENGLISH": "we will remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acordaréis",
+      "ENGLISH": "you (plural) will remember"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré acordado",
+      "ENGLISH": "I will have remembered"
+    },
+    "TU": {
+      "SPANISH": "te habrás acordado",
+      "ENGLISH": "you will have remembered"
+    },
+    "EL": {
+      "SPANISH": "se habrá acordado",
+      "ENGLISH": "s/he will have remembered, you (formal) will have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán acordado",
+      "ENGLISH": "they will have remembered, you (plural formal) will have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos acordado",
+      "ENGLISH": "we will have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis acordado",
+      "ENGLISH": "you (plural) will have remembered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me acordaría",
+      "ENGLISH": "I would remember"
+    },
+    "TU": {
+      "SPANISH": "te acordarías",
+      "ENGLISH": "you would remember"
+    },
+    "EL": {
+      "SPANISH": "se acordaría",
+      "ENGLISH": "s/he would remember, you (formal) would remember"
+    },
+    "ELLOS": {
+      "SPANISH": "se acordarían",
+      "ENGLISH": "they would remember, you (plural formal) would remember"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acordaríamos",
+      "ENGLISH": "we would remember"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acordaríais",
+      "ENGLISH": "you (plural) would remember"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría acordado",
+      "ENGLISH": "I would have remembered"
+    },
+    "TU": {
+      "SPANISH": "te habrías acordado",
+      "ENGLISH": "you would have remembered"
+    },
+    "EL": {
+      "SPANISH": "se habría acordado",
+      "ENGLISH": "s/he would have remembered, you (formal) would have remembered"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían acordado",
+      "ENGLISH": "they would have remembered, you (plural formal) would have remembered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos acordado",
+      "ENGLISH": "we would have remembered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais acordado",
+      "ENGLISH": "you (plural) would have remembered"
+    }
+  }
+}

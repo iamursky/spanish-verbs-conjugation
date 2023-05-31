@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "llamo",
+      "ENGLISH": "I call"
+    },
+    "TU": {
+      "SPANISH": "llamas",
+      "ENGLISH": "you call"
+    },
+    "EL": {
+      "SPANISH": "llama",
+      "ENGLISH": "s/he calls, you (formal) calls"
+    },
+    "ELLOS": {
+      "SPANISH": "llaman",
+      "ENGLISH": "they call, you (plural formal) call"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llamamos",
+      "ENGLISH": "we call"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llamáis",
+      "ENGLISH": "you (plural) call"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he llamado",
+      "ENGLISH": "I have called"
+    },
+    "TU": {
+      "SPANISH": "has llamado",
+      "ENGLISH": "you have called"
+    },
+    "EL": {
+      "SPANISH": "ha llamado",
+      "ENGLISH": "s/he has called, you (formal) have called"
+    },
+    "ELLOS": {
+      "SPANISH": "han llamado",
+      "ENGLISH": "they have called, you (plural formal) have called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos llamado",
+      "ENGLISH": "we have called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis llamado",
+      "ENGLISH": "you (plural) have called"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "llamé",
+      "ENGLISH": "I called"
+    },
+    "TU": {
+      "SPANISH": "llamaste",
+      "ENGLISH": "you called"
+    },
+    "EL": {
+      "SPANISH": "llamó",
+      "ENGLISH": "s/he called, you (formal) called"
+    },
+    "ELLOS": {
+      "SPANISH": "llamaron",
+      "ENGLISH": "they called, you (plural formal) called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llamamos",
+      "ENGLISH": "we called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llamasteis",
+      "ENGLISH": "you (plural) called"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había llamado",
+      "ENGLISH": "I had called"
+    },
+    "TU": {
+      "SPANISH": "habías llamado",
+      "ENGLISH": "you had called"
+    },
+    "EL": {
+      "SPANISH": "había llamado",
+      "ENGLISH": "s/he had called, you (formal) had called"
+    },
+    "ELLOS": {
+      "SPANISH": "habían llamado",
+      "ENGLISH": "they had called, you (plural formal) had called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos llamado",
+      "ENGLISH": "we had called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais llamado",
+      "ENGLISH": "you (plural) had called"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "llamé",
+      "ENGLISH": "I called"
+    },
+    "TU": {
+      "SPANISH": "llamaste",
+      "ENGLISH": "you called"
+    },
+    "EL": {
+      "SPANISH": "llamó",
+      "ENGLISH": "s/he called, you (formal) called"
+    },
+    "ELLOS": {
+      "SPANISH": "llamaron",
+      "ENGLISH": "they called, you (plural formal) called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llamamos",
+      "ENGLISH": "we called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llamasteis",
+      "ENGLISH": "you (plural) called"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "llamaré",
+      "ENGLISH": "I will call"
+    },
+    "TU": {
+      "SPANISH": "llamarás",
+      "ENGLISH": "you will call"
+    },
+    "EL": {
+      "SPANISH": "llamará",
+      "ENGLISH": "s/he will call, you (formal) will call"
+    },
+    "ELLOS": {
+      "SPANISH": "llamarán",
+      "ENGLISH": "they will call, you (plural formal) will call"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llamaremos",
+      "ENGLISH": "we will call"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llamaréis",
+      "ENGLISH": "you (plural) will call"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré llamado",
+      "ENGLISH": "I will have called"
+    },
+    "TU": {
+      "SPANISH": "habrás llamado",
+      "ENGLISH": "you will have called"
+    },
+    "EL": {
+      "SPANISH": "habrá llamado",
+      "ENGLISH": "s/he will have called, you (formal) will have called"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán llamado",
+      "ENGLISH": "they will have called, you (plural formal) will have called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos llamado",
+      "ENGLISH": "we will have called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis llamado",
+      "ENGLISH": "you (plural) will have called"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "llamaría",
+      "ENGLISH": "I would call"
+    },
+    "TU": {
+      "SPANISH": "llamarías",
+      "ENGLISH": "you would call"
+    },
+    "EL": {
+      "SPANISH": "llamaría",
+      "ENGLISH": "s/he would call, you (formal) would call"
+    },
+    "ELLOS": {
+      "SPANISH": "llamarían",
+      "ENGLISH": "they would call, you (plural formal) would call"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llamaríamos",
+      "ENGLISH": "we would call"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llamaríais",
+      "ENGLISH": "you (plural) would call"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría llamado",
+      "ENGLISH": "I would have called"
+    },
+    "TU": {
+      "SPANISH": "habrías llamado",
+      "ENGLISH": "you would have called"
+    },
+    "EL": {
+      "SPANISH": "habría llamado",
+      "ENGLISH": "s/he would have called, you (formal) would have called"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían llamado",
+      "ENGLISH": "they would have called, you (plural formal) would have called"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos llamado",
+      "ENGLISH": "we would have called"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais llamado",
+      "ENGLISH": "you (plural) would have called"
+    }
+  }
+}

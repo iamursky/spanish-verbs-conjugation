@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "leo",
+      "ENGLISH": "I read"
+    },
+    "TU": {
+      "SPANISH": "lees",
+      "ENGLISH": "you read"
+    },
+    "EL": {
+      "SPANISH": "lee",
+      "ENGLISH": "s/he reads, you (formal) reads"
+    },
+    "ELLOS": {
+      "SPANISH": "leen",
+      "ENGLISH": "they read, you (plural formal) read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "leemos",
+      "ENGLISH": "we read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "leéis",
+      "ENGLISH": "you (plural) read"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he leído ",
+      "ENGLISH": "I have read"
+    },
+    "TU": {
+      "SPANISH": "has leído ",
+      "ENGLISH": "you have read"
+    },
+    "EL": {
+      "SPANISH": "ha leído ",
+      "ENGLISH": "s/he has read, you (formal) have read"
+    },
+    "ELLOS": {
+      "SPANISH": "han leído ",
+      "ENGLISH": "they have read, you (plural formal) have read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos leído ",
+      "ENGLISH": "we have read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis leído ",
+      "ENGLISH": "you (plural) have read"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "leí",
+      "ENGLISH": "I read"
+    },
+    "TU": {
+      "SPANISH": "leíste ",
+      "ENGLISH": "you read"
+    },
+    "EL": {
+      "SPANISH": "leyó ",
+      "ENGLISH": "s/he read, you (formal) read"
+    },
+    "ELLOS": {
+      "SPANISH": "leyeron ",
+      "ENGLISH": "they read, you (plural formal) read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "leímos ",
+      "ENGLISH": "we read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "leísteis ",
+      "ENGLISH": "you (plural) read"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había leído ",
+      "ENGLISH": "I had read"
+    },
+    "TU": {
+      "SPANISH": "habías leído ",
+      "ENGLISH": "you had read"
+    },
+    "EL": {
+      "SPANISH": "había leído ",
+      "ENGLISH": "s/he had read, you (formal) had read"
+    },
+    "ELLOS": {
+      "SPANISH": "habían leído ",
+      "ENGLISH": "they had read, you (plural formal) had read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos leído ",
+      "ENGLISH": "we had read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais leído ",
+      "ENGLISH": "you (plural) had read"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "leí",
+      "ENGLISH": "I read"
+    },
+    "TU": {
+      "SPANISH": "leíste ",
+      "ENGLISH": "you read"
+    },
+    "EL": {
+      "SPANISH": "leyó ",
+      "ENGLISH": "s/he read, you (formal) read"
+    },
+    "ELLOS": {
+      "SPANISH": "leyeron ",
+      "ENGLISH": "they read, you (plural formal) read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "leímos ",
+      "ENGLISH": "we read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "leísteis ",
+      "ENGLISH": "you (plural) read"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "leeré",
+      "ENGLISH": "I will read"
+    },
+    "TU": {
+      "SPANISH": "leerás",
+      "ENGLISH": "you will read"
+    },
+    "EL": {
+      "SPANISH": "leerá",
+      "ENGLISH": "s/he will read, you (formal) will read"
+    },
+    "ELLOS": {
+      "SPANISH": "leerán",
+      "ENGLISH": "they will read, you (plural formal) will read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "leeremos",
+      "ENGLISH": "we will read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "leeréis",
+      "ENGLISH": "you (plural) will read"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré leído ",
+      "ENGLISH": "I will have read"
+    },
+    "TU": {
+      "SPANISH": "habrás leído ",
+      "ENGLISH": "you will have read"
+    },
+    "EL": {
+      "SPANISH": "habrá leído ",
+      "ENGLISH": "s/he will have read, you (formal) will have read"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán leído ",
+      "ENGLISH": "they will have read, you (plural formal) will have read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos leído ",
+      "ENGLISH": "we will have read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis leído ",
+      "ENGLISH": "you (plural) will have read"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "leería",
+      "ENGLISH": "I would read"
+    },
+    "TU": {
+      "SPANISH": "leerías",
+      "ENGLISH": "you would read"
+    },
+    "EL": {
+      "SPANISH": "leería",
+      "ENGLISH": "s/he would read, you (formal) would read"
+    },
+    "ELLOS": {
+      "SPANISH": "leerían",
+      "ENGLISH": "they would read, you (plural formal) would read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "leeríamos",
+      "ENGLISH": "we would read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "leeríais",
+      "ENGLISH": "you (plural) would read"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría leído ",
+      "ENGLISH": "I would have read"
+    },
+    "TU": {
+      "SPANISH": "habrías leído ",
+      "ENGLISH": "you would have read"
+    },
+    "EL": {
+      "SPANISH": "habría leído ",
+      "ENGLISH": "s/he would have read, you (formal) would have read"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían leído ",
+      "ENGLISH": "they would have read, you (plural formal) would have read"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos leído ",
+      "ENGLISH": "we would have read"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais leído ",
+      "ENGLISH": "you (plural) would have read"
+    }
+  }
+}

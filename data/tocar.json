@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "toco",
+      "ENGLISH": "I play"
+    },
+    "TU": {
+      "SPANISH": "tocas",
+      "ENGLISH": "you play"
+    },
+    "EL": {
+      "SPANISH": "toca",
+      "ENGLISH": "s/he plays, you (formal) plays"
+    },
+    "ELLOS": {
+      "SPANISH": "tocan",
+      "ENGLISH": "they play, you (plural formal) play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tocamos",
+      "ENGLISH": "we play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tocáis",
+      "ENGLISH": "you (plural) play"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he tocado",
+      "ENGLISH": "I have played"
+    },
+    "TU": {
+      "SPANISH": "has tocado",
+      "ENGLISH": "you have played"
+    },
+    "EL": {
+      "SPANISH": "ha tocado",
+      "ENGLISH": "s/he has played, you (formal) have played"
+    },
+    "ELLOS": {
+      "SPANISH": "han tocado",
+      "ENGLISH": "they have played, you (plural formal) have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos tocado",
+      "ENGLISH": "we have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis tocado",
+      "ENGLISH": "you (plural) have played"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "toqué ",
+      "ENGLISH": "I played"
+    },
+    "TU": {
+      "SPANISH": "tocaste",
+      "ENGLISH": "you played"
+    },
+    "EL": {
+      "SPANISH": "tocó",
+      "ENGLISH": "s/he played, you (formal) played"
+    },
+    "ELLOS": {
+      "SPANISH": "tocaron",
+      "ENGLISH": "they played, you (plural formal) played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tocamos",
+      "ENGLISH": "we played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tocasteis",
+      "ENGLISH": "you (plural) played"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había tocado",
+      "ENGLISH": "I had played"
+    },
+    "TU": {
+      "SPANISH": "habías tocado",
+      "ENGLISH": "you had played"
+    },
+    "EL": {
+      "SPANISH": "había tocado",
+      "ENGLISH": "s/he had played, you (formal) had played"
+    },
+    "ELLOS": {
+      "SPANISH": "habían tocado",
+      "ENGLISH": "they had played, you (plural formal) had played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos tocado",
+      "ENGLISH": "we had played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais tocado",
+      "ENGLISH": "you (plural) had played"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "toqué ",
+      "ENGLISH": "I played"
+    },
+    "TU": {
+      "SPANISH": "tocaste",
+      "ENGLISH": "you played"
+    },
+    "EL": {
+      "SPANISH": "tocó",
+      "ENGLISH": "s/he played, you (formal) played"
+    },
+    "ELLOS": {
+      "SPANISH": "tocaron",
+      "ENGLISH": "they played, you (plural formal) played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tocamos",
+      "ENGLISH": "we played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tocasteis",
+      "ENGLISH": "you (plural) played"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "tocaré",
+      "ENGLISH": "I will play"
+    },
+    "TU": {
+      "SPANISH": "tocarás",
+      "ENGLISH": "you will play"
+    },
+    "EL": {
+      "SPANISH": "tocará",
+      "ENGLISH": "s/he will play, you (formal) will play"
+    },
+    "ELLOS": {
+      "SPANISH": "tocarán",
+      "ENGLISH": "they will play, you (plural formal) will play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tocaremos",
+      "ENGLISH": "we will play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tocaréis",
+      "ENGLISH": "you (plural) will play"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré tocado",
+      "ENGLISH": "I will have played"
+    },
+    "TU": {
+      "SPANISH": "habrás tocado",
+      "ENGLISH": "you will have played"
+    },
+    "EL": {
+      "SPANISH": "habrá tocado",
+      "ENGLISH": "s/he will have played, you (formal) will have played"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán tocado",
+      "ENGLISH": "they will have played, you (plural formal) will have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos tocado",
+      "ENGLISH": "we will have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis tocado",
+      "ENGLISH": "you (plural) will have played"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "tocaría",
+      "ENGLISH": "I would play"
+    },
+    "TU": {
+      "SPANISH": "tocarías",
+      "ENGLISH": "you would play"
+    },
+    "EL": {
+      "SPANISH": "tocaría",
+      "ENGLISH": "s/he would play, you (formal) would play"
+    },
+    "ELLOS": {
+      "SPANISH": "tocarían",
+      "ENGLISH": "they would play, you (plural formal) would play"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tocaríamos",
+      "ENGLISH": "we would play"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tocaríais",
+      "ENGLISH": "you (plural) would play"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría tocado",
+      "ENGLISH": "I would have played"
+    },
+    "TU": {
+      "SPANISH": "habrías tocado",
+      "ENGLISH": "you would have played"
+    },
+    "EL": {
+      "SPANISH": "habría tocado",
+      "ENGLISH": "s/he would have played, you (formal) would have played"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían tocado",
+      "ENGLISH": "they would have played, you (plural formal) would have played"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos tocado",
+      "ENGLISH": "we would have played"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais tocado",
+      "ENGLISH": "you (plural) would have played"
+    }
+  }
+}

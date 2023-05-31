@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me gusta / gustan",
+      "ENGLISH": "I like"
+    },
+    "TU": {
+      "SPANISH": "te gusta / gustan",
+      "ENGLISH": "you like"
+    },
+    "EL": {
+      "SPANISH": "le gusta / gustan",
+      "ENGLISH": "s/he likes, you (formal) likes"
+    },
+    "ELLOS": {
+      "SPANISH": "les gusta / gustan",
+      "ENGLISH": "they like, you (plural formal) like"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos gusta / gustan",
+      "ENGLISH": "we like"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os gusta / gustan",
+      "ENGLISH": "you (plural) like"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me ha gustado / han gustado",
+      "ENGLISH": "I have liked"
+    },
+    "TU": {
+      "SPANISH": "te ha gustado / han gustado",
+      "ENGLISH": "you have liked"
+    },
+    "EL": {
+      "SPANISH": "le ha gustado / han gustado",
+      "ENGLISH": "s/he has liked, you (formal) have liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les ha gustado / han gustado",
+      "ENGLISH": "they have liked, you (plural formal) have liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos ha gustado / han gustado",
+      "ENGLISH": "we have liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os ha gustado / han gustado",
+      "ENGLISH": "you (plural) have liked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me gustó / gustaron",
+      "ENGLISH": "I liked"
+    },
+    "TU": {
+      "SPANISH": "te gustó / gustaron",
+      "ENGLISH": "you liked"
+    },
+    "EL": {
+      "SPANISH": "le gustó / gustaron",
+      "ENGLISH": "s/he liked, you (formal) liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les gustó / gustaron",
+      "ENGLISH": "they liked, you (plural formal) liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos gustó / gustaron",
+      "ENGLISH": "we liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os gustó / gustaron",
+      "ENGLISH": "you (plural) liked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había gustado / habían gustado",
+      "ENGLISH": "I had liked"
+    },
+    "TU": {
+      "SPANISH": "te había gustado / habían gustado",
+      "ENGLISH": "you had liked"
+    },
+    "EL": {
+      "SPANISH": "le había gustado / habían gustado",
+      "ENGLISH": "s/he had liked, you (formal) had liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les había gustado / habían gustado",
+      "ENGLISH": "they had liked, you (plural formal) had liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos había gustado / habían gustado",
+      "ENGLISH": "we had liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os había gustado / habían gustado",
+      "ENGLISH": "you (plural) had liked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me gustó / gustaron",
+      "ENGLISH": "I liked"
+    },
+    "TU": {
+      "SPANISH": "te gustó / gustaron",
+      "ENGLISH": "you liked"
+    },
+    "EL": {
+      "SPANISH": "le gustó / gustaron",
+      "ENGLISH": "s/he liked, you (formal) liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les gustó / gustaron",
+      "ENGLISH": "they liked, you (plural formal) liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos gustó / gustaron",
+      "ENGLISH": "we liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os gustó / gustaron",
+      "ENGLISH": "you (plural) liked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me gustará / gustarán",
+      "ENGLISH": "I will like"
+    },
+    "TU": {
+      "SPANISH": "te gustará / gustarán",
+      "ENGLISH": "you will like"
+    },
+    "EL": {
+      "SPANISH": "le gustará / gustarán",
+      "ENGLISH": "s/he will like, you (formal) will like"
+    },
+    "ELLOS": {
+      "SPANISH": "les gustará / gustarán",
+      "ENGLISH": "they will like, you (plural formal) will like"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos gustará / gustarán",
+      "ENGLISH": "we will like"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os gustará / gustarán",
+      "ENGLISH": "you (plural) will like"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habrá gustado / habrán gustado",
+      "ENGLISH": "I will have liked"
+    },
+    "TU": {
+      "SPANISH": "te habrá gustado / habrán gustado",
+      "ENGLISH": "you will have liked"
+    },
+    "EL": {
+      "SPANISH": "le habrá gustado / habrán gustado",
+      "ENGLISH": "s/he will have liked, you (formal) will have liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les habrá gustado / habrán gustado",
+      "ENGLISH": "they will have liked, you (plural formal) will have liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habrá gustado / habrán gustado",
+      "ENGLISH": "we will have liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habrá gustado / habrán gustado",
+      "ENGLISH": "you (plural) will have liked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me gustaría / gustarían",
+      "ENGLISH": "I would like"
+    },
+    "TU": {
+      "SPANISH": "te gustaría / gustarían",
+      "ENGLISH": "you would like"
+    },
+    "EL": {
+      "SPANISH": "le gustaría / gustarían",
+      "ENGLISH": "s/he would like, you (formal) would like"
+    },
+    "ELLOS": {
+      "SPANISH": "les gustaría / gustarían",
+      "ENGLISH": "they would like, you (plural formal) would like"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos gustaría / gustarían",
+      "ENGLISH": "we would like"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os gustaría / gustarían",
+      "ENGLISH": "you (plural) would like"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría gustado / habrían gustado",
+      "ENGLISH": "I would have liked"
+    },
+    "TU": {
+      "SPANISH": "te habría gustado / habrían gustado",
+      "ENGLISH": "you would have liked"
+    },
+    "EL": {
+      "SPANISH": "le habría gustado / habrían gustado",
+      "ENGLISH": "s/he would have liked, you (formal) would have liked"
+    },
+    "ELLOS": {
+      "SPANISH": "les habría gustado / habrían gustado",
+      "ENGLISH": "they would have liked, you (plural formal) would have liked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habría gustado / habrían gustado",
+      "ENGLISH": "we would have liked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habría gustado / habrían gustado",
+      "ENGLISH": "you (plural) would have liked"
+    }
+  }
+}

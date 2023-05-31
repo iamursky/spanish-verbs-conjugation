@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "intereso",
+      "ENGLISH": "I interest"
+    },
+    "TU": {
+      "SPANISH": "interesas",
+      "ENGLISH": "you interest"
+    },
+    "EL": {
+      "SPANISH": "interesa",
+      "ENGLISH": "s/he interests, you (formal) interests"
+    },
+    "ELLOS": {
+      "SPANISH": "interesan",
+      "ENGLISH": "they interest, you (plural formal) interest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "interesamos",
+      "ENGLISH": "we interest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "interesáis",
+      "ENGLISH": "you (plural) interest"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he interesado",
+      "ENGLISH": "I have interested"
+    },
+    "TU": {
+      "SPANISH": "has interesado",
+      "ENGLISH": "you have interested"
+    },
+    "EL": {
+      "SPANISH": "ha interesado",
+      "ENGLISH": "s/he has interested, you (formal) have interested"
+    },
+    "ELLOS": {
+      "SPANISH": "han interesado",
+      "ENGLISH": "they have interested, you (plural formal) have interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos interesado",
+      "ENGLISH": "we have interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis interesado",
+      "ENGLISH": "you (plural) have interested"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "interesé",
+      "ENGLISH": "I interested"
+    },
+    "TU": {
+      "SPANISH": "interesaste",
+      "ENGLISH": "you interested"
+    },
+    "EL": {
+      "SPANISH": "interesó",
+      "ENGLISH": "s/he interested, you (formal) interested"
+    },
+    "ELLOS": {
+      "SPANISH": "interesaron",
+      "ENGLISH": "they interested, you (plural formal) interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "interesamos",
+      "ENGLISH": "we interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "interesasteis",
+      "ENGLISH": "you (plural) interested"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había interesado",
+      "ENGLISH": "I had interested"
+    },
+    "TU": {
+      "SPANISH": "habías interesado",
+      "ENGLISH": "you had interested"
+    },
+    "EL": {
+      "SPANISH": "había interesado",
+      "ENGLISH": "s/he had interested, you (formal) had interested"
+    },
+    "ELLOS": {
+      "SPANISH": "habían interesado",
+      "ENGLISH": "they had interested, you (plural formal) had interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos interesado",
+      "ENGLISH": "we had interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais interesado",
+      "ENGLISH": "you (plural) had interested"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "interesé",
+      "ENGLISH": "I interested"
+    },
+    "TU": {
+      "SPANISH": "interesaste",
+      "ENGLISH": "you interested"
+    },
+    "EL": {
+      "SPANISH": "interesó",
+      "ENGLISH": "s/he interested, you (formal) interested"
+    },
+    "ELLOS": {
+      "SPANISH": "interesaron",
+      "ENGLISH": "they interested, you (plural formal) interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "interesamos",
+      "ENGLISH": "we interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "interesasteis",
+      "ENGLISH": "you (plural) interested"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "interesaré",
+      "ENGLISH": "I will interest"
+    },
+    "TU": {
+      "SPANISH": "interesarás",
+      "ENGLISH": "you will interest"
+    },
+    "EL": {
+      "SPANISH": "interesará",
+      "ENGLISH": "s/he will interest, you (formal) will interest"
+    },
+    "ELLOS": {
+      "SPANISH": "interesarán",
+      "ENGLISH": "they will interest, you (plural formal) will interest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "interesaremos",
+      "ENGLISH": "we will interest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "interesaréis",
+      "ENGLISH": "you (plural) will interest"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré interesado",
+      "ENGLISH": "I will have interested"
+    },
+    "TU": {
+      "SPANISH": "habrás interesado",
+      "ENGLISH": "you will have interested"
+    },
+    "EL": {
+      "SPANISH": "habrá interesado",
+      "ENGLISH": "s/he will have interested, you (formal) will have interested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán interesado",
+      "ENGLISH": "they will have interested, you (plural formal) will have interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos interesado",
+      "ENGLISH": "we will have interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis interesado",
+      "ENGLISH": "you (plural) will have interested"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "interesaría",
+      "ENGLISH": "I would interest"
+    },
+    "TU": {
+      "SPANISH": "interesarías",
+      "ENGLISH": "you would interest"
+    },
+    "EL": {
+      "SPANISH": "interesaría",
+      "ENGLISH": "s/he would interest, you (formal) would interest"
+    },
+    "ELLOS": {
+      "SPANISH": "interesarían",
+      "ENGLISH": "they would interest, you (plural formal) would interest"
+    },
+    "NOSOTROS": {
+      "SPANISH": "interesaríamos",
+      "ENGLISH": "we would interest"
+    },
+    "VOSOTROS": {
+      "SPANISH": "interesaríais",
+      "ENGLISH": "you (plural) would interest"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría interesado",
+      "ENGLISH": "I would have interested"
+    },
+    "TU": {
+      "SPANISH": "habrías interesado",
+      "ENGLISH": "you would have interested"
+    },
+    "EL": {
+      "SPANISH": "habría interesado",
+      "ENGLISH": "s/he would have interested, you (formal) would have interested"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían interesado",
+      "ENGLISH": "they would have interested, you (plural formal) would have interested"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos interesado",
+      "ENGLISH": "we would have interested"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais interesado",
+      "ENGLISH": "you (plural) would have interested"
+    }
+  }
+}

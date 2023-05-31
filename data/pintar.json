@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "pinto",
+      "ENGLISH": "I paint"
+    },
+    "TU": {
+      "SPANISH": "pintas",
+      "ENGLISH": "you paint"
+    },
+    "EL": {
+      "SPANISH": "pinta",
+      "ENGLISH": "s/he paints, you (formal) paints"
+    },
+    "ELLOS": {
+      "SPANISH": "pintan",
+      "ENGLISH": "they paint, you (plural formal) paint"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pintamos",
+      "ENGLISH": "we paint"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pintáis",
+      "ENGLISH": "you (plural) paint"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he pintado",
+      "ENGLISH": "I have painted"
+    },
+    "TU": {
+      "SPANISH": "has pintado",
+      "ENGLISH": "you have painted"
+    },
+    "EL": {
+      "SPANISH": "ha pintado",
+      "ENGLISH": "s/he has painted, you (formal) have painted"
+    },
+    "ELLOS": {
+      "SPANISH": "han pintado",
+      "ENGLISH": "they have painted, you (plural formal) have painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos pintado",
+      "ENGLISH": "we have painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis pintado",
+      "ENGLISH": "you (plural) have painted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "pinté",
+      "ENGLISH": "I painted"
+    },
+    "TU": {
+      "SPANISH": "pintaste",
+      "ENGLISH": "you painted"
+    },
+    "EL": {
+      "SPANISH": "pintó",
+      "ENGLISH": "s/he painted, you (formal) painted"
+    },
+    "ELLOS": {
+      "SPANISH": "pintaron",
+      "ENGLISH": "they painted, you (plural formal) painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pintamos",
+      "ENGLISH": "we painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pintasteis",
+      "ENGLISH": "you (plural) painted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había pintado",
+      "ENGLISH": "I had painted"
+    },
+    "TU": {
+      "SPANISH": "habías pintado",
+      "ENGLISH": "you had painted"
+    },
+    "EL": {
+      "SPANISH": "había pintado",
+      "ENGLISH": "s/he had painted, you (formal) had painted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían pintado",
+      "ENGLISH": "they had painted, you (plural formal) had painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos pintado",
+      "ENGLISH": "we had painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais pintado",
+      "ENGLISH": "you (plural) had painted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "pinté",
+      "ENGLISH": "I painted"
+    },
+    "TU": {
+      "SPANISH": "pintaste",
+      "ENGLISH": "you painted"
+    },
+    "EL": {
+      "SPANISH": "pintó",
+      "ENGLISH": "s/he painted, you (formal) painted"
+    },
+    "ELLOS": {
+      "SPANISH": "pintaron",
+      "ENGLISH": "they painted, you (plural formal) painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pintamos",
+      "ENGLISH": "we painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pintasteis",
+      "ENGLISH": "you (plural) painted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "pintaré",
+      "ENGLISH": "I will paint"
+    },
+    "TU": {
+      "SPANISH": "pintarás",
+      "ENGLISH": "you will paint"
+    },
+    "EL": {
+      "SPANISH": "pintará",
+      "ENGLISH": "s/he will paint, you (formal) will paint"
+    },
+    "ELLOS": {
+      "SPANISH": "pintarán",
+      "ENGLISH": "they will paint, you (plural formal) will paint"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pintaremos",
+      "ENGLISH": "we will paint"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pintaréis",
+      "ENGLISH": "you (plural) will paint"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré pintado",
+      "ENGLISH": "I will have painted"
+    },
+    "TU": {
+      "SPANISH": "habrás pintado",
+      "ENGLISH": "you will have painted"
+    },
+    "EL": {
+      "SPANISH": "habrá pintado",
+      "ENGLISH": "s/he will have painted, you (formal) will have painted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán pintado",
+      "ENGLISH": "they will have painted, you (plural formal) will have painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos pintado",
+      "ENGLISH": "we will have painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis pintado",
+      "ENGLISH": "you (plural) will have painted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "pintaría",
+      "ENGLISH": "I would paint"
+    },
+    "TU": {
+      "SPANISH": "pintarías",
+      "ENGLISH": "you would paint"
+    },
+    "EL": {
+      "SPANISH": "pintaría",
+      "ENGLISH": "s/he would paint, you (formal) would paint"
+    },
+    "ELLOS": {
+      "SPANISH": "pintarían",
+      "ENGLISH": "they would paint, you (plural formal) would paint"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pintaríamos",
+      "ENGLISH": "we would paint"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pintaríais",
+      "ENGLISH": "you (plural) would paint"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría pintado",
+      "ENGLISH": "I would have painted"
+    },
+    "TU": {
+      "SPANISH": "habrías pintado",
+      "ENGLISH": "you would have painted"
+    },
+    "EL": {
+      "SPANISH": "habría pintado",
+      "ENGLISH": "s/he would have painted, you (formal) would have painted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían pintado",
+      "ENGLISH": "they would have painted, you (plural formal) would have painted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos pintado",
+      "ENGLISH": "we would have painted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais pintado",
+      "ENGLISH": "you (plural) would have painted"
+    }
+  }
+}

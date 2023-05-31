@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "muestro ",
+      "ENGLISH": "I show"
+    },
+    "TU": {
+      "SPANISH": "muestras ",
+      "ENGLISH": "you show"
+    },
+    "EL": {
+      "SPANISH": "muestra ",
+      "ENGLISH": "s/he shows, you (formal) shows"
+    },
+    "ELLOS": {
+      "SPANISH": "muestran ",
+      "ENGLISH": "they show, you (plural formal) show"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mostramos",
+      "ENGLISH": "we show"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mostráis",
+      "ENGLISH": "you (plural) show"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he mostrado",
+      "ENGLISH": "I have shown"
+    },
+    "TU": {
+      "SPANISH": "has mostrado",
+      "ENGLISH": "you have shown"
+    },
+    "EL": {
+      "SPANISH": "ha mostrado",
+      "ENGLISH": "s/he has shown, you (formal) have shown"
+    },
+    "ELLOS": {
+      "SPANISH": "han mostrado",
+      "ENGLISH": "they have shown, you (plural formal) have shown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos mostrado",
+      "ENGLISH": "we have shown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis mostrado",
+      "ENGLISH": "you (plural) have shown"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "mostré",
+      "ENGLISH": "I showed"
+    },
+    "TU": {
+      "SPANISH": "mostraste",
+      "ENGLISH": "you showed"
+    },
+    "EL": {
+      "SPANISH": "mostró",
+      "ENGLISH": "s/he showed, you (formal) showed"
+    },
+    "ELLOS": {
+      "SPANISH": "mostraron",
+      "ENGLISH": "they showed, you (plural formal) showed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mostramos",
+      "ENGLISH": "we showed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mostrasteis",
+      "ENGLISH": "you (plural) showed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había mostrado",
+      "ENGLISH": "I had shown"
+    },
+    "TU": {
+      "SPANISH": "habías mostrado",
+      "ENGLISH": "you had shown"
+    },
+    "EL": {
+      "SPANISH": "había mostrado",
+      "ENGLISH": "s/he had shown, you (formal) had shown"
+    },
+    "ELLOS": {
+      "SPANISH": "habían mostrado",
+      "ENGLISH": "they had shown, you (plural formal) had shown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos mostrado",
+      "ENGLISH": "we had shown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais mostrado",
+      "ENGLISH": "you (plural) had shown"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "mostré",
+      "ENGLISH": "I showed"
+    },
+    "TU": {
+      "SPANISH": "mostraste",
+      "ENGLISH": "you showed"
+    },
+    "EL": {
+      "SPANISH": "mostró",
+      "ENGLISH": "s/he showed, you (formal) showed"
+    },
+    "ELLOS": {
+      "SPANISH": "mostraron",
+      "ENGLISH": "they showed, you (plural formal) showed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mostramos",
+      "ENGLISH": "we showed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mostrasteis",
+      "ENGLISH": "you (plural) showed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mostraré",
+      "ENGLISH": "I will show"
+    },
+    "TU": {
+      "SPANISH": "mostrarás",
+      "ENGLISH": "you will show"
+    },
+    "EL": {
+      "SPANISH": "mostrará",
+      "ENGLISH": "s/he will show, you (formal) will show"
+    },
+    "ELLOS": {
+      "SPANISH": "mostrarán",
+      "ENGLISH": "they will show, you (plural formal) will show"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mostraremos",
+      "ENGLISH": "we will show"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mostraréis",
+      "ENGLISH": "you (plural) will show"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré mostrado",
+      "ENGLISH": "I will have shown"
+    },
+    "TU": {
+      "SPANISH": "habrás mostrado",
+      "ENGLISH": "you will have shown"
+    },
+    "EL": {
+      "SPANISH": "habrá mostrado",
+      "ENGLISH": "s/he will have shown, you (formal) will have shown"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán mostrado",
+      "ENGLISH": "they will have shown, you (plural formal) will have shown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos mostrado",
+      "ENGLISH": "we will have shown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis mostrado",
+      "ENGLISH": "you (plural) will have shown"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mostraría",
+      "ENGLISH": "I would show"
+    },
+    "TU": {
+      "SPANISH": "mostrarías",
+      "ENGLISH": "you would show"
+    },
+    "EL": {
+      "SPANISH": "mostraría",
+      "ENGLISH": "s/he would show, you (formal) would show"
+    },
+    "ELLOS": {
+      "SPANISH": "mostrarían",
+      "ENGLISH": "they would show, you (plural formal) would show"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mostraríamos",
+      "ENGLISH": "we would show"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mostraríais",
+      "ENGLISH": "you (plural) would show"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría mostrado",
+      "ENGLISH": "I would have shown"
+    },
+    "TU": {
+      "SPANISH": "habrías mostrado",
+      "ENGLISH": "you would have shown"
+    },
+    "EL": {
+      "SPANISH": "habría mostrado",
+      "ENGLISH": "s/he would have shown, you (formal) would have shown"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían mostrado",
+      "ENGLISH": "they would have shown, you (plural formal) would have shown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos mostrado",
+      "ENGLISH": "we would have shown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais mostrado",
+      "ENGLISH": "you (plural) would have shown"
+    }
+  }
+}

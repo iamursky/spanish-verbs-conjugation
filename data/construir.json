@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "construyo ",
+      "ENGLISH": "I build"
+    },
+    "TU": {
+      "SPANISH": "construyes ",
+      "ENGLISH": "you build"
+    },
+    "EL": {
+      "SPANISH": "construye ",
+      "ENGLISH": "s/he builds, you (formal) builds"
+    },
+    "ELLOS": {
+      "SPANISH": "construyen ",
+      "ENGLISH": "they build, you (plural formal) build"
+    },
+    "NOSOTROS": {
+      "SPANISH": "construimos",
+      "ENGLISH": "we build"
+    },
+    "VOSOTROS": {
+      "SPANISH": "construís",
+      "ENGLISH": "you (plural) build"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he construido",
+      "ENGLISH": "I have built"
+    },
+    "TU": {
+      "SPANISH": "has construido",
+      "ENGLISH": "you have built"
+    },
+    "EL": {
+      "SPANISH": "ha construido",
+      "ENGLISH": "s/he has built, you (formal) have built"
+    },
+    "ELLOS": {
+      "SPANISH": "han construido",
+      "ENGLISH": "they have built, you (plural formal) have built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos construido",
+      "ENGLISH": "we have built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis construido",
+      "ENGLISH": "you (plural) have built"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "construí",
+      "ENGLISH": "I built"
+    },
+    "TU": {
+      "SPANISH": "construiste",
+      "ENGLISH": "you built"
+    },
+    "EL": {
+      "SPANISH": "construyó ",
+      "ENGLISH": "s/he built, you (formal) built"
+    },
+    "ELLOS": {
+      "SPANISH": "construyeron ",
+      "ENGLISH": "they built, you (plural formal) built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "construimos",
+      "ENGLISH": "we built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "construisteis",
+      "ENGLISH": "you (plural) built"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había construido",
+      "ENGLISH": "I had built"
+    },
+    "TU": {
+      "SPANISH": "habías construido",
+      "ENGLISH": "you had built"
+    },
+    "EL": {
+      "SPANISH": "había construido",
+      "ENGLISH": "s/he had built, you (formal) had built"
+    },
+    "ELLOS": {
+      "SPANISH": "habían construido",
+      "ENGLISH": "they had built, you (plural formal) had built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos construido",
+      "ENGLISH": "we had built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais construido",
+      "ENGLISH": "you (plural) had built"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "construí",
+      "ENGLISH": "I built"
+    },
+    "TU": {
+      "SPANISH": "construiste",
+      "ENGLISH": "you built"
+    },
+    "EL": {
+      "SPANISH": "construyó ",
+      "ENGLISH": "s/he built, you (formal) built"
+    },
+    "ELLOS": {
+      "SPANISH": "construyeron ",
+      "ENGLISH": "they built, you (plural formal) built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "construimos",
+      "ENGLISH": "we built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "construisteis",
+      "ENGLISH": "you (plural) built"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "construiré",
+      "ENGLISH": "I will build"
+    },
+    "TU": {
+      "SPANISH": "construirás",
+      "ENGLISH": "you will build"
+    },
+    "EL": {
+      "SPANISH": "construirá",
+      "ENGLISH": "s/he will build, you (formal) will build"
+    },
+    "ELLOS": {
+      "SPANISH": "construirán",
+      "ENGLISH": "they will build, you (plural formal) will build"
+    },
+    "NOSOTROS": {
+      "SPANISH": "construiremos",
+      "ENGLISH": "we will build"
+    },
+    "VOSOTROS": {
+      "SPANISH": "construiréis",
+      "ENGLISH": "you (plural) will build"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré construido",
+      "ENGLISH": "I will have built"
+    },
+    "TU": {
+      "SPANISH": "habrás construido",
+      "ENGLISH": "you will have built"
+    },
+    "EL": {
+      "SPANISH": "habrá construido",
+      "ENGLISH": "s/he will have built, you (formal) will have built"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán construido",
+      "ENGLISH": "they will have built, you (plural formal) will have built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos construido",
+      "ENGLISH": "we will have built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis construido",
+      "ENGLISH": "you (plural) will have built"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "construiría",
+      "ENGLISH": "I would build"
+    },
+    "TU": {
+      "SPANISH": "construirías",
+      "ENGLISH": "you would build"
+    },
+    "EL": {
+      "SPANISH": "construiría",
+      "ENGLISH": "s/he would build, you (formal) would build"
+    },
+    "ELLOS": {
+      "SPANISH": "construirían",
+      "ENGLISH": "they would build, you (plural formal) would build"
+    },
+    "NOSOTROS": {
+      "SPANISH": "construiríamos",
+      "ENGLISH": "we would build"
+    },
+    "VOSOTROS": {
+      "SPANISH": "construiríais",
+      "ENGLISH": "you (plural) would build"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría construido",
+      "ENGLISH": "I would have built"
+    },
+    "TU": {
+      "SPANISH": "habrías construido",
+      "ENGLISH": "you would have built"
+    },
+    "EL": {
+      "SPANISH": "habría construido",
+      "ENGLISH": "s/he would have built, you (formal) would have built"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían construido",
+      "ENGLISH": "they would have built, you (plural formal) would have built"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos construido",
+      "ENGLISH": "we would have built"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais construido",
+      "ENGLISH": "you (plural) would have built"
+    }
+  }
+}

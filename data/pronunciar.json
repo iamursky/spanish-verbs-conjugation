@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "pronuncio",
+      "ENGLISH": "I pronounce"
+    },
+    "TU": {
+      "SPANISH": "pronuncias",
+      "ENGLISH": "you pronounce"
+    },
+    "EL": {
+      "SPANISH": "pronuncia",
+      "ENGLISH": "s/he pronounces, you (formal) pronounces"
+    },
+    "ELLOS": {
+      "SPANISH": "pronuncian",
+      "ENGLISH": "they pronounce, you (plural formal) pronounce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pronunciamos",
+      "ENGLISH": "we pronounce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pronunciáis",
+      "ENGLISH": "you (plural) pronounce"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he pronunciado",
+      "ENGLISH": "I have pronounced"
+    },
+    "TU": {
+      "SPANISH": "has pronunciado",
+      "ENGLISH": "you have pronounced"
+    },
+    "EL": {
+      "SPANISH": "ha pronunciado",
+      "ENGLISH": "s/he has pronounced, you (formal) have pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "han pronunciado",
+      "ENGLISH": "they have pronounced, you (plural formal) have pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos pronunciado",
+      "ENGLISH": "we have pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis pronunciado",
+      "ENGLISH": "you (plural) have pronounced"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "pronuncié",
+      "ENGLISH": "I pronounced"
+    },
+    "TU": {
+      "SPANISH": "pronunciaste",
+      "ENGLISH": "you pronounced"
+    },
+    "EL": {
+      "SPANISH": "pronunció",
+      "ENGLISH": "s/he pronounced, you (formal) pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "pronunciaron",
+      "ENGLISH": "they pronounced, you (plural formal) pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pronunciamos",
+      "ENGLISH": "we pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pronunciasteis",
+      "ENGLISH": "you (plural) pronounced"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había pronunciado",
+      "ENGLISH": "I had pronounced"
+    },
+    "TU": {
+      "SPANISH": "habías pronunciado",
+      "ENGLISH": "you had pronounced"
+    },
+    "EL": {
+      "SPANISH": "había pronunciado",
+      "ENGLISH": "s/he had pronounced, you (formal) had pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "habían pronunciado",
+      "ENGLISH": "they had pronounced, you (plural formal) had pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos pronunciado",
+      "ENGLISH": "we had pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais pronunciado",
+      "ENGLISH": "you (plural) had pronounced"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "pronuncié",
+      "ENGLISH": "I pronounced"
+    },
+    "TU": {
+      "SPANISH": "pronunciaste",
+      "ENGLISH": "you pronounced"
+    },
+    "EL": {
+      "SPANISH": "pronunció",
+      "ENGLISH": "s/he pronounced, you (formal) pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "pronunciaron",
+      "ENGLISH": "they pronounced, you (plural formal) pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pronunciamos",
+      "ENGLISH": "we pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pronunciasteis",
+      "ENGLISH": "you (plural) pronounced"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "pronunciaré",
+      "ENGLISH": "I will pronounce"
+    },
+    "TU": {
+      "SPANISH": "pronunciarás",
+      "ENGLISH": "you will pronounce"
+    },
+    "EL": {
+      "SPANISH": "pronunciará",
+      "ENGLISH": "s/he will pronounce, you (formal) will pronounce"
+    },
+    "ELLOS": {
+      "SPANISH": "pronunciarán",
+      "ENGLISH": "they will pronounce, you (plural formal) will pronounce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pronunciaremos",
+      "ENGLISH": "we will pronounce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pronunciaréis",
+      "ENGLISH": "you (plural) will pronounce"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré pronunciado",
+      "ENGLISH": "I will have pronounced"
+    },
+    "TU": {
+      "SPANISH": "habrás pronunciado",
+      "ENGLISH": "you will have pronounced"
+    },
+    "EL": {
+      "SPANISH": "habrá pronunciado",
+      "ENGLISH": "s/he will have pronounced, you (formal) will have pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán pronunciado",
+      "ENGLISH": "they will have pronounced, you (plural formal) will have pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos pronunciado",
+      "ENGLISH": "we will have pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis pronunciado",
+      "ENGLISH": "you (plural) will have pronounced"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "pronunciaría",
+      "ENGLISH": "I would pronounce"
+    },
+    "TU": {
+      "SPANISH": "pronunciarías",
+      "ENGLISH": "you would pronounce"
+    },
+    "EL": {
+      "SPANISH": "pronunciaría",
+      "ENGLISH": "s/he would pronounce, you (formal) would pronounce"
+    },
+    "ELLOS": {
+      "SPANISH": "pronunciarían",
+      "ENGLISH": "they would pronounce, you (plural formal) would pronounce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pronunciaríamos",
+      "ENGLISH": "we would pronounce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pronunciaríais",
+      "ENGLISH": "you (plural) would pronounce"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría pronunciado",
+      "ENGLISH": "I would have pronounced"
+    },
+    "TU": {
+      "SPANISH": "habrías pronunciado",
+      "ENGLISH": "you would have pronounced"
+    },
+    "EL": {
+      "SPANISH": "habría pronunciado",
+      "ENGLISH": "s/he would have pronounced, you (formal) would have pronounced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían pronunciado",
+      "ENGLISH": "they would have pronounced, you (plural formal) would have pronounced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos pronunciado",
+      "ENGLISH": "we would have pronounced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais pronunciado",
+      "ENGLISH": "you (plural) would have pronounced"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "vacío ",
+      "ENGLISH": "I empty"
+    },
+    "TU": {
+      "SPANISH": "vacías ",
+      "ENGLISH": "you empty"
+    },
+    "EL": {
+      "SPANISH": "vacía ",
+      "ENGLISH": "s/he empties, you (formal) empties"
+    },
+    "ELLOS": {
+      "SPANISH": "vacían ",
+      "ENGLISH": "they empty, you (plural formal) empty"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vaciamos",
+      "ENGLISH": "we empty"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vaciáis",
+      "ENGLISH": "you (plural) empty"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he vaciado",
+      "ENGLISH": "I have emptied"
+    },
+    "TU": {
+      "SPANISH": "has vaciado",
+      "ENGLISH": "you have emptied"
+    },
+    "EL": {
+      "SPANISH": "ha vaciado",
+      "ENGLISH": "s/he has emptied, you (formal) have emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "han vaciado",
+      "ENGLISH": "they have emptied, you (plural formal) have emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos vaciado",
+      "ENGLISH": "we have emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis vaciado",
+      "ENGLISH": "you (plural) have emptied"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "vacié",
+      "ENGLISH": "I emptied"
+    },
+    "TU": {
+      "SPANISH": "vaciaste",
+      "ENGLISH": "you emptied"
+    },
+    "EL": {
+      "SPANISH": "vació",
+      "ENGLISH": "s/he emptied, you (formal) emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "vaciaron",
+      "ENGLISH": "they emptied, you (plural formal) emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vaciamos",
+      "ENGLISH": "we emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vaciasteis",
+      "ENGLISH": "you (plural) emptied"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había vaciado",
+      "ENGLISH": "I had emptied"
+    },
+    "TU": {
+      "SPANISH": "habías vaciado",
+      "ENGLISH": "you had emptied"
+    },
+    "EL": {
+      "SPANISH": "había vaciado",
+      "ENGLISH": "s/he had emptied, you (formal) had emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "habían vaciado",
+      "ENGLISH": "they had emptied, you (plural formal) had emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos vaciado",
+      "ENGLISH": "we had emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais vaciado",
+      "ENGLISH": "you (plural) had emptied"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "vacié",
+      "ENGLISH": "I emptied"
+    },
+    "TU": {
+      "SPANISH": "vaciaste",
+      "ENGLISH": "you emptied"
+    },
+    "EL": {
+      "SPANISH": "vació",
+      "ENGLISH": "s/he emptied, you (formal) emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "vaciaron",
+      "ENGLISH": "they emptied, you (plural formal) emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vaciamos",
+      "ENGLISH": "we emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vaciasteis",
+      "ENGLISH": "you (plural) emptied"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "vaciaré",
+      "ENGLISH": "I will empty"
+    },
+    "TU": {
+      "SPANISH": "vaciarás",
+      "ENGLISH": "you will empty"
+    },
+    "EL": {
+      "SPANISH": "vaciará",
+      "ENGLISH": "s/he will empty, you (formal) will empty"
+    },
+    "ELLOS": {
+      "SPANISH": "vaciarán",
+      "ENGLISH": "they will empty, you (plural formal) will empty"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vaciaremos",
+      "ENGLISH": "we will empty"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vaciaréis",
+      "ENGLISH": "you (plural) will empty"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré vaciado",
+      "ENGLISH": "I will have emptied"
+    },
+    "TU": {
+      "SPANISH": "habrás vaciado",
+      "ENGLISH": "you will have emptied"
+    },
+    "EL": {
+      "SPANISH": "habrá vaciado",
+      "ENGLISH": "s/he will have emptied, you (formal) will have emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán vaciado",
+      "ENGLISH": "they will have emptied, you (plural formal) will have emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos vaciado",
+      "ENGLISH": "we will have emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis vaciado",
+      "ENGLISH": "you (plural) will have emptied"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "vaciaría",
+      "ENGLISH": "I would empty"
+    },
+    "TU": {
+      "SPANISH": "vaciarías",
+      "ENGLISH": "you would empty"
+    },
+    "EL": {
+      "SPANISH": "vaciaría",
+      "ENGLISH": "s/he would empty, you (formal) would empty"
+    },
+    "ELLOS": {
+      "SPANISH": "vaciarían",
+      "ENGLISH": "they would empty, you (plural formal) would empty"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vaciaríamos",
+      "ENGLISH": "we would empty"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vaciaríais",
+      "ENGLISH": "you (plural) would empty"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría vaciado",
+      "ENGLISH": "I would have emptied"
+    },
+    "TU": {
+      "SPANISH": "habrías vaciado",
+      "ENGLISH": "you would have emptied"
+    },
+    "EL": {
+      "SPANISH": "habría vaciado",
+      "ENGLISH": "s/he would have emptied, you (formal) would have emptied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían vaciado",
+      "ENGLISH": "they would have emptied, you (plural formal) would have emptied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos vaciado",
+      "ENGLISH": "we would have emptied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais vaciado",
+      "ENGLISH": "you (plural) would have emptied"
+    }
+  }
+}

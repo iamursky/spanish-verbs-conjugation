@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "significo",
+      "ENGLISH": "I mean"
+    },
+    "TU": {
+      "SPANISH": "significas",
+      "ENGLISH": "you mean"
+    },
+    "EL": {
+      "SPANISH": "significa",
+      "ENGLISH": "s/he means, you (formal) means"
+    },
+    "ELLOS": {
+      "SPANISH": "significan",
+      "ENGLISH": "they mean, you (plural formal) mean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "significamos",
+      "ENGLISH": "we mean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "significáis",
+      "ENGLISH": "you (plural) mean"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he significado",
+      "ENGLISH": "I have meant"
+    },
+    "TU": {
+      "SPANISH": "has significado",
+      "ENGLISH": "you have meant"
+    },
+    "EL": {
+      "SPANISH": "ha significado",
+      "ENGLISH": "s/he has meant, you (formal) have meant"
+    },
+    "ELLOS": {
+      "SPANISH": "han significado",
+      "ENGLISH": "they have meant, you (plural formal) have meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos significado",
+      "ENGLISH": "we have meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis significado",
+      "ENGLISH": "you (plural) have meant"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "signifiqué ",
+      "ENGLISH": "I meant"
+    },
+    "TU": {
+      "SPANISH": "significaste",
+      "ENGLISH": "you meant"
+    },
+    "EL": {
+      "SPANISH": "significó",
+      "ENGLISH": "s/he meant, you (formal) meant"
+    },
+    "ELLOS": {
+      "SPANISH": "significaron",
+      "ENGLISH": "they meant, you (plural formal) meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "significamos",
+      "ENGLISH": "we meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "significasteis",
+      "ENGLISH": "you (plural) meant"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había significado",
+      "ENGLISH": "I had meant"
+    },
+    "TU": {
+      "SPANISH": "habías significado",
+      "ENGLISH": "you had meant"
+    },
+    "EL": {
+      "SPANISH": "había significado",
+      "ENGLISH": "s/he had meant, you (formal) had meant"
+    },
+    "ELLOS": {
+      "SPANISH": "habían significado",
+      "ENGLISH": "they had meant, you (plural formal) had meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos significado",
+      "ENGLISH": "we had meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais significado",
+      "ENGLISH": "you (plural) had meant"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "signifiqué ",
+      "ENGLISH": "I meant"
+    },
+    "TU": {
+      "SPANISH": "significaste",
+      "ENGLISH": "you meant"
+    },
+    "EL": {
+      "SPANISH": "significó",
+      "ENGLISH": "s/he meant, you (formal) meant"
+    },
+    "ELLOS": {
+      "SPANISH": "significaron",
+      "ENGLISH": "they meant, you (plural formal) meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "significamos",
+      "ENGLISH": "we meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "significasteis",
+      "ENGLISH": "you (plural) meant"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "significaré",
+      "ENGLISH": "I will mean"
+    },
+    "TU": {
+      "SPANISH": "significarás",
+      "ENGLISH": "you will mean"
+    },
+    "EL": {
+      "SPANISH": "significará",
+      "ENGLISH": "s/he will mean, you (formal) will mean"
+    },
+    "ELLOS": {
+      "SPANISH": "significarán",
+      "ENGLISH": "they will mean, you (plural formal) will mean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "significaremos",
+      "ENGLISH": "we will mean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "significaréis",
+      "ENGLISH": "you (plural) will mean"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré significado",
+      "ENGLISH": "I will have meant"
+    },
+    "TU": {
+      "SPANISH": "habrás significado",
+      "ENGLISH": "you will have meant"
+    },
+    "EL": {
+      "SPANISH": "habrá significado",
+      "ENGLISH": "s/he will have meant, you (formal) will have meant"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán significado",
+      "ENGLISH": "they will have meant, you (plural formal) will have meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos significado",
+      "ENGLISH": "we will have meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis significado",
+      "ENGLISH": "you (plural) will have meant"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "significaría",
+      "ENGLISH": "I would mean"
+    },
+    "TU": {
+      "SPANISH": "significarías",
+      "ENGLISH": "you would mean"
+    },
+    "EL": {
+      "SPANISH": "significaría",
+      "ENGLISH": "s/he would mean, you (formal) would mean"
+    },
+    "ELLOS": {
+      "SPANISH": "significarían",
+      "ENGLISH": "they would mean, you (plural formal) would mean"
+    },
+    "NOSOTROS": {
+      "SPANISH": "significaríamos",
+      "ENGLISH": "we would mean"
+    },
+    "VOSOTROS": {
+      "SPANISH": "significaríais",
+      "ENGLISH": "you (plural) would mean"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría significado",
+      "ENGLISH": "I would have meant"
+    },
+    "TU": {
+      "SPANISH": "habrías significado",
+      "ENGLISH": "you would have meant"
+    },
+    "EL": {
+      "SPANISH": "habría significado",
+      "ENGLISH": "s/he would have meant, you (formal) would have meant"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían significado",
+      "ENGLISH": "they would have meant, you (plural formal) would have meant"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos significado",
+      "ENGLISH": "we would have meant"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais significado",
+      "ENGLISH": "you (plural) would have meant"
+    }
+  }
+}

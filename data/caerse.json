@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me caigo ",
+      "ENGLISH": "I fall"
+    },
+    "TU": {
+      "SPANISH": "te caes",
+      "ENGLISH": "you fall"
+    },
+    "EL": {
+      "SPANISH": "se cae",
+      "ENGLISH": "s/he falls, you (formal) falls"
+    },
+    "ELLOS": {
+      "SPANISH": "se caen",
+      "ENGLISH": "they fall, you (plural formal) fall"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos caemos",
+      "ENGLISH": "we fall"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os caéis",
+      "ENGLISH": "you (plural) fall"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he caído ",
+      "ENGLISH": "I have fallen"
+    },
+    "TU": {
+      "SPANISH": "te has caído ",
+      "ENGLISH": "you have fallen"
+    },
+    "EL": {
+      "SPANISH": "se ha caído ",
+      "ENGLISH": "s/he has fallen, you (formal) have fallen"
+    },
+    "ELLOS": {
+      "SPANISH": "se han caído ",
+      "ENGLISH": "they have fallen, you (plural formal) have fallen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos caído ",
+      "ENGLISH": "we have fallen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis caído ",
+      "ENGLISH": "you (plural) have fallen"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me caí",
+      "ENGLISH": "I fell"
+    },
+    "TU": {
+      "SPANISH": "te caíste ",
+      "ENGLISH": "you fell"
+    },
+    "EL": {
+      "SPANISH": "se cayó ",
+      "ENGLISH": "s/he fell, you (formal) fell"
+    },
+    "ELLOS": {
+      "SPANISH": "se cayeron ",
+      "ENGLISH": "they fell, you (plural formal) fell"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos caímos ",
+      "ENGLISH": "we fell"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os caísteis ",
+      "ENGLISH": "you (plural) fell"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había caído ",
+      "ENGLISH": "I had fallen"
+    },
+    "TU": {
+      "SPANISH": "te habías caído ",
+      "ENGLISH": "you had fallen"
+    },
+    "EL": {
+      "SPANISH": "se había caído ",
+      "ENGLISH": "s/he had fallen, you (formal) had fallen"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían caído ",
+      "ENGLISH": "they had fallen, you (plural formal) had fallen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos caído ",
+      "ENGLISH": "we had fallen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais caído ",
+      "ENGLISH": "you (plural) had fallen"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me caí",
+      "ENGLISH": "I fell"
+    },
+    "TU": {
+      "SPANISH": "te caíste ",
+      "ENGLISH": "you fell"
+    },
+    "EL": {
+      "SPANISH": "se cayó ",
+      "ENGLISH": "s/he fell, you (formal) fell"
+    },
+    "ELLOS": {
+      "SPANISH": "se cayeron ",
+      "ENGLISH": "they fell, you (plural formal) fell"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos caímos ",
+      "ENGLISH": "we fell"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os caísteis ",
+      "ENGLISH": "you (plural) fell"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me caeré",
+      "ENGLISH": "I will fall"
+    },
+    "TU": {
+      "SPANISH": "te caerás",
+      "ENGLISH": "you will fall"
+    },
+    "EL": {
+      "SPANISH": "se caerá",
+      "ENGLISH": "s/he will fall, you (formal) will fall"
+    },
+    "ELLOS": {
+      "SPANISH": "se caerán",
+      "ENGLISH": "they will fall, you (plural formal) will fall"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos caeremos",
+      "ENGLISH": "we will fall"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os caeréis",
+      "ENGLISH": "you (plural) will fall"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré caído ",
+      "ENGLISH": "I will have fallen"
+    },
+    "TU": {
+      "SPANISH": "te habrás caído ",
+      "ENGLISH": "you will have fallen"
+    },
+    "EL": {
+      "SPANISH": "se habrá caído ",
+      "ENGLISH": "s/he will have fallen, you (formal) will have fallen"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán caído ",
+      "ENGLISH": "they will have fallen, you (plural formal) will have fallen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos caído ",
+      "ENGLISH": "we will have fallen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis caído ",
+      "ENGLISH": "you (plural) will have fallen"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me caería",
+      "ENGLISH": "I would fall"
+    },
+    "TU": {
+      "SPANISH": "te caerías",
+      "ENGLISH": "you would fall"
+    },
+    "EL": {
+      "SPANISH": "se caería",
+      "ENGLISH": "s/he would fall, you (formal) would fall"
+    },
+    "ELLOS": {
+      "SPANISH": "se caerían",
+      "ENGLISH": "they would fall, you (plural formal) would fall"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos caeríamos",
+      "ENGLISH": "we would fall"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os caeríais",
+      "ENGLISH": "you (plural) would fall"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría caído ",
+      "ENGLISH": "I would have fallen"
+    },
+    "TU": {
+      "SPANISH": "te habrías caído ",
+      "ENGLISH": "you would have fallen"
+    },
+    "EL": {
+      "SPANISH": "se habría caído ",
+      "ENGLISH": "s/he would have fallen, you (formal) would have fallen"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían caído ",
+      "ENGLISH": "they would have fallen, you (plural formal) would have fallen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos caído ",
+      "ENGLISH": "we would have fallen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais caído ",
+      "ENGLISH": "you (plural) would have fallen"
+    }
+  }
+}

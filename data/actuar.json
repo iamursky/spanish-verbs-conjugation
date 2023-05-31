@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "actúo ",
+      "ENGLISH": "I act"
+    },
+    "TU": {
+      "SPANISH": "actúas ",
+      "ENGLISH": "you act"
+    },
+    "EL": {
+      "SPANISH": "actúa ",
+      "ENGLISH": "s/he acts, you (formal) acts"
+    },
+    "ELLOS": {
+      "SPANISH": "actúan ",
+      "ENGLISH": "they act, you (plural formal) act"
+    },
+    "NOSOTROS": {
+      "SPANISH": "actuamos",
+      "ENGLISH": "we act"
+    },
+    "VOSOTROS": {
+      "SPANISH": "actuáis",
+      "ENGLISH": "you (plural) act"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he actuado",
+      "ENGLISH": "I have acted"
+    },
+    "TU": {
+      "SPANISH": "has actuado",
+      "ENGLISH": "you have acted"
+    },
+    "EL": {
+      "SPANISH": "ha actuado",
+      "ENGLISH": "s/he has acted, you (formal) have acted"
+    },
+    "ELLOS": {
+      "SPANISH": "han actuado",
+      "ENGLISH": "they have acted, you (plural formal) have acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos actuado",
+      "ENGLISH": "we have acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis actuado",
+      "ENGLISH": "you (plural) have acted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "actué",
+      "ENGLISH": "I acted"
+    },
+    "TU": {
+      "SPANISH": "actuaste",
+      "ENGLISH": "you acted"
+    },
+    "EL": {
+      "SPANISH": "actuó",
+      "ENGLISH": "s/he acted, you (formal) acted"
+    },
+    "ELLOS": {
+      "SPANISH": "actuaron",
+      "ENGLISH": "they acted, you (plural formal) acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "actuamos",
+      "ENGLISH": "we acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "actuasteis",
+      "ENGLISH": "you (plural) acted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había actuado",
+      "ENGLISH": "I had acted"
+    },
+    "TU": {
+      "SPANISH": "habías actuado",
+      "ENGLISH": "you had acted"
+    },
+    "EL": {
+      "SPANISH": "había actuado",
+      "ENGLISH": "s/he had acted, you (formal) had acted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían actuado",
+      "ENGLISH": "they had acted, you (plural formal) had acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos actuado",
+      "ENGLISH": "we had acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais actuado",
+      "ENGLISH": "you (plural) had acted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "actué",
+      "ENGLISH": "I acted"
+    },
+    "TU": {
+      "SPANISH": "actuaste",
+      "ENGLISH": "you acted"
+    },
+    "EL": {
+      "SPANISH": "actuó",
+      "ENGLISH": "s/he acted, you (formal) acted"
+    },
+    "ELLOS": {
+      "SPANISH": "actuaron",
+      "ENGLISH": "they acted, you (plural formal) acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "actuamos",
+      "ENGLISH": "we acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "actuasteis",
+      "ENGLISH": "you (plural) acted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "actuaré",
+      "ENGLISH": "I will act"
+    },
+    "TU": {
+      "SPANISH": "actuarás",
+      "ENGLISH": "you will act"
+    },
+    "EL": {
+      "SPANISH": "actuará",
+      "ENGLISH": "s/he will act, you (formal) will act"
+    },
+    "ELLOS": {
+      "SPANISH": "actuarán",
+      "ENGLISH": "they will act, you (plural formal) will act"
+    },
+    "NOSOTROS": {
+      "SPANISH": "actuaremos",
+      "ENGLISH": "we will act"
+    },
+    "VOSOTROS": {
+      "SPANISH": "actuaréis",
+      "ENGLISH": "you (plural) will act"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré actuado",
+      "ENGLISH": "I will have acted"
+    },
+    "TU": {
+      "SPANISH": "habrás actuado",
+      "ENGLISH": "you will have acted"
+    },
+    "EL": {
+      "SPANISH": "habrá actuado",
+      "ENGLISH": "s/he will have acted, you (formal) will have acted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán actuado",
+      "ENGLISH": "they will have acted, you (plural formal) will have acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos actuado",
+      "ENGLISH": "we will have acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis actuado",
+      "ENGLISH": "you (plural) will have acted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "actuaría",
+      "ENGLISH": "I would act"
+    },
+    "TU": {
+      "SPANISH": "actuarías",
+      "ENGLISH": "you would act"
+    },
+    "EL": {
+      "SPANISH": "actuaría",
+      "ENGLISH": "s/he would act, you (formal) would act"
+    },
+    "ELLOS": {
+      "SPANISH": "actuarían",
+      "ENGLISH": "they would act, you (plural formal) would act"
+    },
+    "NOSOTROS": {
+      "SPANISH": "actuaríamos",
+      "ENGLISH": "we would act"
+    },
+    "VOSOTROS": {
+      "SPANISH": "actuaríais",
+      "ENGLISH": "you (plural) would act"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría actuado",
+      "ENGLISH": "I would have acted"
+    },
+    "TU": {
+      "SPANISH": "habrías actuado",
+      "ENGLISH": "you would have acted"
+    },
+    "EL": {
+      "SPANISH": "habría actuado",
+      "ENGLISH": "s/he would have acted, you (formal) would have acted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían actuado",
+      "ENGLISH": "they would have acted, you (plural formal) would have acted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos actuado",
+      "ENGLISH": "we would have acted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais actuado",
+      "ENGLISH": "you (plural) would have acted"
+    }
+  }
+}

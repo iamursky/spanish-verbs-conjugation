@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "siento ",
+      "ENGLISH": "I feel"
+    },
+    "TU": {
+      "SPANISH": "sientes ",
+      "ENGLISH": "you feel"
+    },
+    "EL": {
+      "SPANISH": "siente ",
+      "ENGLISH": "s/he feels, you (formal) feels"
+    },
+    "ELLOS": {
+      "SPANISH": "sienten ",
+      "ENGLISH": "they feel, you (plural formal) feel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sentimos",
+      "ENGLISH": "we feel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sentís",
+      "ENGLISH": "you (plural) feel"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sentido",
+      "ENGLISH": "I have felt"
+    },
+    "TU": {
+      "SPANISH": "has sentido",
+      "ENGLISH": "you have felt"
+    },
+    "EL": {
+      "SPANISH": "ha sentido",
+      "ENGLISH": "s/he has felt, you (formal) have felt"
+    },
+    "ELLOS": {
+      "SPANISH": "han sentido",
+      "ENGLISH": "they have felt, you (plural formal) have felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sentido",
+      "ENGLISH": "we have felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sentido",
+      "ENGLISH": "you (plural) have felt"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sentí",
+      "ENGLISH": "I felt"
+    },
+    "TU": {
+      "SPANISH": "sentiste",
+      "ENGLISH": "you felt"
+    },
+    "EL": {
+      "SPANISH": "sintió ",
+      "ENGLISH": "s/he felt, you (formal) felt"
+    },
+    "ELLOS": {
+      "SPANISH": "sintieron ",
+      "ENGLISH": "they felt, you (plural formal) felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sentimos",
+      "ENGLISH": "we felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sentisteis",
+      "ENGLISH": "you (plural) felt"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sentido",
+      "ENGLISH": "I had felt"
+    },
+    "TU": {
+      "SPANISH": "habías sentido",
+      "ENGLISH": "you had felt"
+    },
+    "EL": {
+      "SPANISH": "había sentido",
+      "ENGLISH": "s/he had felt, you (formal) had felt"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sentido",
+      "ENGLISH": "they had felt, you (plural formal) had felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sentido",
+      "ENGLISH": "we had felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sentido",
+      "ENGLISH": "you (plural) had felt"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sentí",
+      "ENGLISH": "I felt"
+    },
+    "TU": {
+      "SPANISH": "sentiste",
+      "ENGLISH": "you felt"
+    },
+    "EL": {
+      "SPANISH": "sintió ",
+      "ENGLISH": "s/he felt, you (formal) felt"
+    },
+    "ELLOS": {
+      "SPANISH": "sintieron ",
+      "ENGLISH": "they felt, you (plural formal) felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sentimos",
+      "ENGLISH": "we felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sentisteis",
+      "ENGLISH": "you (plural) felt"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sentiré",
+      "ENGLISH": "I will feel"
+    },
+    "TU": {
+      "SPANISH": "sentirás",
+      "ENGLISH": "you will feel"
+    },
+    "EL": {
+      "SPANISH": "sentirá",
+      "ENGLISH": "s/he will feel, you (formal) will feel"
+    },
+    "ELLOS": {
+      "SPANISH": "sentirán",
+      "ENGLISH": "they will feel, you (plural formal) will feel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sentiremos",
+      "ENGLISH": "we will feel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sentiréis",
+      "ENGLISH": "you (plural) will feel"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sentido",
+      "ENGLISH": "I will have felt"
+    },
+    "TU": {
+      "SPANISH": "habrás sentido",
+      "ENGLISH": "you will have felt"
+    },
+    "EL": {
+      "SPANISH": "habrá sentido",
+      "ENGLISH": "s/he will have felt, you (formal) will have felt"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sentido",
+      "ENGLISH": "they will have felt, you (plural formal) will have felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sentido",
+      "ENGLISH": "we will have felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sentido",
+      "ENGLISH": "you (plural) will have felt"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sentiría",
+      "ENGLISH": "I would feel"
+    },
+    "TU": {
+      "SPANISH": "sentirías",
+      "ENGLISH": "you would feel"
+    },
+    "EL": {
+      "SPANISH": "sentiría",
+      "ENGLISH": "s/he would feel, you (formal) would feel"
+    },
+    "ELLOS": {
+      "SPANISH": "sentirían",
+      "ENGLISH": "they would feel, you (plural formal) would feel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sentiríamos",
+      "ENGLISH": "we would feel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sentiríais",
+      "ENGLISH": "you (plural) would feel"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sentido",
+      "ENGLISH": "I would have felt"
+    },
+    "TU": {
+      "SPANISH": "habrías sentido",
+      "ENGLISH": "you would have felt"
+    },
+    "EL": {
+      "SPANISH": "habría sentido",
+      "ENGLISH": "s/he would have felt, you (formal) would have felt"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sentido",
+      "ENGLISH": "they would have felt, you (plural formal) would have felt"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sentido",
+      "ENGLISH": "we would have felt"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sentido",
+      "ENGLISH": "you (plural) would have felt"
+    }
+  }
+}

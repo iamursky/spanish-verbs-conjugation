@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "quepo ",
+      "ENGLISH": "I fit"
+    },
+    "TU": {
+      "SPANISH": "cabes",
+      "ENGLISH": "you fit"
+    },
+    "EL": {
+      "SPANISH": "cabe",
+      "ENGLISH": "s/he fits, you (formal) fits"
+    },
+    "ELLOS": {
+      "SPANISH": "caben",
+      "ENGLISH": "they fit, you (plural formal) fit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cabemos",
+      "ENGLISH": "we fit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cabéis",
+      "ENGLISH": "you (plural) fit"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cabido",
+      "ENGLISH": "I have fitted"
+    },
+    "TU": {
+      "SPANISH": "has cabido",
+      "ENGLISH": "you have fitted"
+    },
+    "EL": {
+      "SPANISH": "ha cabido",
+      "ENGLISH": "s/he has fitted, you (formal) have fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "han cabido",
+      "ENGLISH": "they have fitted, you (plural formal) have fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cabido",
+      "ENGLISH": "we have fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cabido",
+      "ENGLISH": "you (plural) have fitted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "cupe ",
+      "ENGLISH": "I fitted"
+    },
+    "TU": {
+      "SPANISH": "cupiste ",
+      "ENGLISH": "you fitted"
+    },
+    "EL": {
+      "SPANISH": "cupo ",
+      "ENGLISH": "s/he fitted, you (formal) fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "cupieron ",
+      "ENGLISH": "they fitted, you (plural formal) fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cupimos ",
+      "ENGLISH": "we fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cupisteis ",
+      "ENGLISH": "you (plural) fitted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cabido",
+      "ENGLISH": "I had fitted"
+    },
+    "TU": {
+      "SPANISH": "habías cabido",
+      "ENGLISH": "you had fitted"
+    },
+    "EL": {
+      "SPANISH": "había cabido",
+      "ENGLISH": "s/he had fitted, you (formal) had fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cabido",
+      "ENGLISH": "they had fitted, you (plural formal) had fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cabido",
+      "ENGLISH": "we had fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cabido",
+      "ENGLISH": "you (plural) had fitted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "cupe ",
+      "ENGLISH": "I fitted"
+    },
+    "TU": {
+      "SPANISH": "cupiste ",
+      "ENGLISH": "you fitted"
+    },
+    "EL": {
+      "SPANISH": "cupo ",
+      "ENGLISH": "s/he fitted, you (formal) fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "cupieron ",
+      "ENGLISH": "they fitted, you (plural formal) fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cupimos ",
+      "ENGLISH": "we fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cupisteis ",
+      "ENGLISH": "you (plural) fitted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cabré ",
+      "ENGLISH": "I will fit"
+    },
+    "TU": {
+      "SPANISH": "cabrás ",
+      "ENGLISH": "you will fit"
+    },
+    "EL": {
+      "SPANISH": "cabrá ",
+      "ENGLISH": "s/he will fit, you (formal) will fit"
+    },
+    "ELLOS": {
+      "SPANISH": "cabrán ",
+      "ENGLISH": "they will fit, you (plural formal) will fit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cabremos ",
+      "ENGLISH": "we will fit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cabréis ",
+      "ENGLISH": "you (plural) will fit"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cabido",
+      "ENGLISH": "I will have fitted"
+    },
+    "TU": {
+      "SPANISH": "habrás cabido",
+      "ENGLISH": "you will have fitted"
+    },
+    "EL": {
+      "SPANISH": "habrá cabido",
+      "ENGLISH": "s/he will have fitted, you (formal) will have fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cabido",
+      "ENGLISH": "they will have fitted, you (plural formal) will have fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cabido",
+      "ENGLISH": "we will have fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cabido",
+      "ENGLISH": "you (plural) will have fitted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cabría ",
+      "ENGLISH": "I would fit"
+    },
+    "TU": {
+      "SPANISH": "cabrías ",
+      "ENGLISH": "you would fit"
+    },
+    "EL": {
+      "SPANISH": "cabría ",
+      "ENGLISH": "s/he would fit, you (formal) would fit"
+    },
+    "ELLOS": {
+      "SPANISH": "cabrían ",
+      "ENGLISH": "they would fit, you (plural formal) would fit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cabríamos ",
+      "ENGLISH": "we would fit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cabríais ",
+      "ENGLISH": "you (plural) would fit"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cabido",
+      "ENGLISH": "I would have fitted"
+    },
+    "TU": {
+      "SPANISH": "habrías cabido",
+      "ENGLISH": "you would have fitted"
+    },
+    "EL": {
+      "SPANISH": "habría cabido",
+      "ENGLISH": "s/he would have fitted, you (formal) would have fitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cabido",
+      "ENGLISH": "they would have fitted, you (plural formal) would have fitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cabido",
+      "ENGLISH": "we would have fitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cabido",
+      "ENGLISH": "you (plural) would have fitted"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "estaciono",
+      "ENGLISH": "I park"
+    },
+    "TU": {
+      "SPANISH": "estacionas",
+      "ENGLISH": "you park"
+    },
+    "EL": {
+      "SPANISH": "estaciona",
+      "ENGLISH": "s/he parks, you (formal) parks"
+    },
+    "ELLOS": {
+      "SPANISH": "estacionan",
+      "ENGLISH": "they park, you (plural formal) park"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estacionamos",
+      "ENGLISH": "we park"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estacionáis",
+      "ENGLISH": "you (plural) park"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he estacionado",
+      "ENGLISH": "I have parked"
+    },
+    "TU": {
+      "SPANISH": "has estacionado",
+      "ENGLISH": "you have parked"
+    },
+    "EL": {
+      "SPANISH": "ha estacionado",
+      "ENGLISH": "s/he has parked, you (formal) have parked"
+    },
+    "ELLOS": {
+      "SPANISH": "han estacionado",
+      "ENGLISH": "they have parked, you (plural formal) have parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos estacionado",
+      "ENGLISH": "we have parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis estacionado",
+      "ENGLISH": "you (plural) have parked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "estacioné",
+      "ENGLISH": "I parked"
+    },
+    "TU": {
+      "SPANISH": "estacionaste",
+      "ENGLISH": "you parked"
+    },
+    "EL": {
+      "SPANISH": "estacionó",
+      "ENGLISH": "s/he parked, you (formal) parked"
+    },
+    "ELLOS": {
+      "SPANISH": "estacionaron",
+      "ENGLISH": "they parked, you (plural formal) parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estacionamos",
+      "ENGLISH": "we parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estacionasteis",
+      "ENGLISH": "you (plural) parked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había estacionado",
+      "ENGLISH": "I had parked"
+    },
+    "TU": {
+      "SPANISH": "habías estacionado",
+      "ENGLISH": "you had parked"
+    },
+    "EL": {
+      "SPANISH": "había estacionado",
+      "ENGLISH": "s/he had parked, you (formal) had parked"
+    },
+    "ELLOS": {
+      "SPANISH": "habían estacionado",
+      "ENGLISH": "they had parked, you (plural formal) had parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos estacionado",
+      "ENGLISH": "we had parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais estacionado",
+      "ENGLISH": "you (plural) had parked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "estacioné",
+      "ENGLISH": "I parked"
+    },
+    "TU": {
+      "SPANISH": "estacionaste",
+      "ENGLISH": "you parked"
+    },
+    "EL": {
+      "SPANISH": "estacionó",
+      "ENGLISH": "s/he parked, you (formal) parked"
+    },
+    "ELLOS": {
+      "SPANISH": "estacionaron",
+      "ENGLISH": "they parked, you (plural formal) parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estacionamos",
+      "ENGLISH": "we parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estacionasteis",
+      "ENGLISH": "you (plural) parked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "estacionaré",
+      "ENGLISH": "I will park"
+    },
+    "TU": {
+      "SPANISH": "estacionarás",
+      "ENGLISH": "you will park"
+    },
+    "EL": {
+      "SPANISH": "estacionará",
+      "ENGLISH": "s/he will park, you (formal) will park"
+    },
+    "ELLOS": {
+      "SPANISH": "estacionarán",
+      "ENGLISH": "they will park, you (plural formal) will park"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estacionaremos",
+      "ENGLISH": "we will park"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estacionaréis",
+      "ENGLISH": "you (plural) will park"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré estacionado",
+      "ENGLISH": "I will have parked"
+    },
+    "TU": {
+      "SPANISH": "habrás estacionado",
+      "ENGLISH": "you will have parked"
+    },
+    "EL": {
+      "SPANISH": "habrá estacionado",
+      "ENGLISH": "s/he will have parked, you (formal) will have parked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán estacionado",
+      "ENGLISH": "they will have parked, you (plural formal) will have parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos estacionado",
+      "ENGLISH": "we will have parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis estacionado",
+      "ENGLISH": "you (plural) will have parked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "estacionaría",
+      "ENGLISH": "I would park"
+    },
+    "TU": {
+      "SPANISH": "estacionarías",
+      "ENGLISH": "you would park"
+    },
+    "EL": {
+      "SPANISH": "estacionaría",
+      "ENGLISH": "s/he would park, you (formal) would park"
+    },
+    "ELLOS": {
+      "SPANISH": "estacionarían",
+      "ENGLISH": "they would park, you (plural formal) would park"
+    },
+    "NOSOTROS": {
+      "SPANISH": "estacionaríamos",
+      "ENGLISH": "we would park"
+    },
+    "VOSOTROS": {
+      "SPANISH": "estacionaríais",
+      "ENGLISH": "you (plural) would park"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría estacionado",
+      "ENGLISH": "I would have parked"
+    },
+    "TU": {
+      "SPANISH": "habrías estacionado",
+      "ENGLISH": "you would have parked"
+    },
+    "EL": {
+      "SPANISH": "habría estacionado",
+      "ENGLISH": "s/he would have parked, you (formal) would have parked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían estacionado",
+      "ENGLISH": "they would have parked, you (plural formal) would have parked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos estacionado",
+      "ENGLISH": "we would have parked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais estacionado",
+      "ENGLISH": "you (plural) would have parked"
+    }
+  }
+}

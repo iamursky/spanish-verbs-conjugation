@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "consuelo ",
+      "ENGLISH": "I comfort"
+    },
+    "TU": {
+      "SPANISH": "consuelas ",
+      "ENGLISH": "you comfort"
+    },
+    "EL": {
+      "SPANISH": "consuela ",
+      "ENGLISH": "s/he comforts, you (formal) comforts"
+    },
+    "ELLOS": {
+      "SPANISH": "consuelan ",
+      "ENGLISH": "they comfort, you (plural formal) comfort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consolamos",
+      "ENGLISH": "we comfort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consoláis",
+      "ENGLISH": "you (plural) comfort"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he consolado",
+      "ENGLISH": "I have comforted"
+    },
+    "TU": {
+      "SPANISH": "has consolado",
+      "ENGLISH": "you have comforted"
+    },
+    "EL": {
+      "SPANISH": "ha consolado",
+      "ENGLISH": "s/he has comforted, you (formal) have comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "han consolado",
+      "ENGLISH": "they have comforted, you (plural formal) have comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos consolado",
+      "ENGLISH": "we have comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis consolado",
+      "ENGLISH": "you (plural) have comforted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "consolé",
+      "ENGLISH": "I comforted"
+    },
+    "TU": {
+      "SPANISH": "consolaste",
+      "ENGLISH": "you comforted"
+    },
+    "EL": {
+      "SPANISH": "consoló",
+      "ENGLISH": "s/he comforted, you (formal) comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "consolaron",
+      "ENGLISH": "they comforted, you (plural formal) comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consolamos",
+      "ENGLISH": "we comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consolasteis",
+      "ENGLISH": "you (plural) comforted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había consolado",
+      "ENGLISH": "I had comforted"
+    },
+    "TU": {
+      "SPANISH": "habías consolado",
+      "ENGLISH": "you had comforted"
+    },
+    "EL": {
+      "SPANISH": "había consolado",
+      "ENGLISH": "s/he had comforted, you (formal) had comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían consolado",
+      "ENGLISH": "they had comforted, you (plural formal) had comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos consolado",
+      "ENGLISH": "we had comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais consolado",
+      "ENGLISH": "you (plural) had comforted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "consolé",
+      "ENGLISH": "I comforted"
+    },
+    "TU": {
+      "SPANISH": "consolaste",
+      "ENGLISH": "you comforted"
+    },
+    "EL": {
+      "SPANISH": "consoló",
+      "ENGLISH": "s/he comforted, you (formal) comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "consolaron",
+      "ENGLISH": "they comforted, you (plural formal) comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consolamos",
+      "ENGLISH": "we comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consolasteis",
+      "ENGLISH": "you (plural) comforted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "consolaré",
+      "ENGLISH": "I will comfort"
+    },
+    "TU": {
+      "SPANISH": "consolarás",
+      "ENGLISH": "you will comfort"
+    },
+    "EL": {
+      "SPANISH": "consolará",
+      "ENGLISH": "s/he will comfort, you (formal) will comfort"
+    },
+    "ELLOS": {
+      "SPANISH": "consolarán",
+      "ENGLISH": "they will comfort, you (plural formal) will comfort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consolaremos",
+      "ENGLISH": "we will comfort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consolaréis",
+      "ENGLISH": "you (plural) will comfort"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré consolado",
+      "ENGLISH": "I will have comforted"
+    },
+    "TU": {
+      "SPANISH": "habrás consolado",
+      "ENGLISH": "you will have comforted"
+    },
+    "EL": {
+      "SPANISH": "habrá consolado",
+      "ENGLISH": "s/he will have comforted, you (formal) will have comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán consolado",
+      "ENGLISH": "they will have comforted, you (plural formal) will have comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos consolado",
+      "ENGLISH": "we will have comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis consolado",
+      "ENGLISH": "you (plural) will have comforted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "consolaría",
+      "ENGLISH": "I would comfort"
+    },
+    "TU": {
+      "SPANISH": "consolarías",
+      "ENGLISH": "you would comfort"
+    },
+    "EL": {
+      "SPANISH": "consolaría",
+      "ENGLISH": "s/he would comfort, you (formal) would comfort"
+    },
+    "ELLOS": {
+      "SPANISH": "consolarían",
+      "ENGLISH": "they would comfort, you (plural formal) would comfort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consolaríamos",
+      "ENGLISH": "we would comfort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consolaríais",
+      "ENGLISH": "you (plural) would comfort"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría consolado",
+      "ENGLISH": "I would have comforted"
+    },
+    "TU": {
+      "SPANISH": "habrías consolado",
+      "ENGLISH": "you would have comforted"
+    },
+    "EL": {
+      "SPANISH": "habría consolado",
+      "ENGLISH": "s/he would have comforted, you (formal) would have comforted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían consolado",
+      "ENGLISH": "they would have comforted, you (plural formal) would have comforted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos consolado",
+      "ENGLISH": "we would have comforted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais consolado",
+      "ENGLISH": "you (plural) would have comforted"
+    }
+  }
+}

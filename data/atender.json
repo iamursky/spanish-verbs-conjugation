@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "atiendo ",
+      "ENGLISH": "I attend to"
+    },
+    "TU": {
+      "SPANISH": "atiendes ",
+      "ENGLISH": "you attend to"
+    },
+    "EL": {
+      "SPANISH": "atiende ",
+      "ENGLISH": "s/he attends to, you (formal) attends to"
+    },
+    "ELLOS": {
+      "SPANISH": "atienden ",
+      "ENGLISH": "they attend to, you (plural formal) attend to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "atendemos",
+      "ENGLISH": "we attend to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "atendéis",
+      "ENGLISH": "you (plural) attend to"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he atendido",
+      "ENGLISH": "I have attended to"
+    },
+    "TU": {
+      "SPANISH": "has atendido",
+      "ENGLISH": "you have attended to"
+    },
+    "EL": {
+      "SPANISH": "ha atendido",
+      "ENGLISH": "s/he has attended to, you (formal) have attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "han atendido",
+      "ENGLISH": "they have attended to, you (plural formal) have attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos atendido",
+      "ENGLISH": "we have attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis atendido",
+      "ENGLISH": "you (plural) have attended to"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "atendí",
+      "ENGLISH": "I attended to"
+    },
+    "TU": {
+      "SPANISH": "atendiste",
+      "ENGLISH": "you attended to"
+    },
+    "EL": {
+      "SPANISH": "atendió",
+      "ENGLISH": "s/he attended to, you (formal) attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "atendieron",
+      "ENGLISH": "they attended to, you (plural formal) attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "atendimos",
+      "ENGLISH": "we attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "atendisteis",
+      "ENGLISH": "you (plural) attended to"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había atendido",
+      "ENGLISH": "I had attended to"
+    },
+    "TU": {
+      "SPANISH": "habías atendido",
+      "ENGLISH": "you had attended to"
+    },
+    "EL": {
+      "SPANISH": "había atendido",
+      "ENGLISH": "s/he had attended to, you (formal) had attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "habían atendido",
+      "ENGLISH": "they had attended to, you (plural formal) had attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos atendido",
+      "ENGLISH": "we had attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais atendido",
+      "ENGLISH": "you (plural) had attended to"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "atendí",
+      "ENGLISH": "I attended to"
+    },
+    "TU": {
+      "SPANISH": "atendiste",
+      "ENGLISH": "you attended to"
+    },
+    "EL": {
+      "SPANISH": "atendió",
+      "ENGLISH": "s/he attended to, you (formal) attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "atendieron",
+      "ENGLISH": "they attended to, you (plural formal) attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "atendimos",
+      "ENGLISH": "we attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "atendisteis",
+      "ENGLISH": "you (plural) attended to"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "atenderé",
+      "ENGLISH": "I will attend to"
+    },
+    "TU": {
+      "SPANISH": "atenderás",
+      "ENGLISH": "you will attend to"
+    },
+    "EL": {
+      "SPANISH": "atenderá",
+      "ENGLISH": "s/he will attend to, you (formal) will attend to"
+    },
+    "ELLOS": {
+      "SPANISH": "atenderán",
+      "ENGLISH": "they will attend to, you (plural formal) will attend to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "atenderemos",
+      "ENGLISH": "we will attend to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "atenderéis",
+      "ENGLISH": "you (plural) will attend to"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré atendido",
+      "ENGLISH": "I will have attended to"
+    },
+    "TU": {
+      "SPANISH": "habrás atendido",
+      "ENGLISH": "you will have attended to"
+    },
+    "EL": {
+      "SPANISH": "habrá atendido",
+      "ENGLISH": "s/he will have attended to, you (formal) will have attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán atendido",
+      "ENGLISH": "they will have attended to, you (plural formal) will have attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos atendido",
+      "ENGLISH": "we will have attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis atendido",
+      "ENGLISH": "you (plural) will have attended to"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "atendería",
+      "ENGLISH": "I would attend to"
+    },
+    "TU": {
+      "SPANISH": "atenderías",
+      "ENGLISH": "you would attend to"
+    },
+    "EL": {
+      "SPANISH": "atendería",
+      "ENGLISH": "s/he would attend to, you (formal) would attend to"
+    },
+    "ELLOS": {
+      "SPANISH": "atenderían",
+      "ENGLISH": "they would attend to, you (plural formal) would attend to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "atenderíamos",
+      "ENGLISH": "we would attend to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "atenderíais",
+      "ENGLISH": "you (plural) would attend to"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría atendido",
+      "ENGLISH": "I would have attended to"
+    },
+    "TU": {
+      "SPANISH": "habrías atendido",
+      "ENGLISH": "you would have attended to"
+    },
+    "EL": {
+      "SPANISH": "habría atendido",
+      "ENGLISH": "s/he would have attended to, you (formal) would have attended to"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían atendido",
+      "ENGLISH": "they would have attended to, you (plural formal) would have attended to"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos atendido",
+      "ENGLISH": "we would have attended to"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais atendido",
+      "ENGLISH": "you (plural) would have attended to"
+    }
+  }
+}

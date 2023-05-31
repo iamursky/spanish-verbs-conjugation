@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "desayuno",
+      "ENGLISH": "I have breakfast"
+    },
+    "TU": {
+      "SPANISH": "desayunas",
+      "ENGLISH": "you have breakfast"
+    },
+    "EL": {
+      "SPANISH": "desayuna",
+      "ENGLISH": "s/he has breakfast, you (formal) have breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "desayunan",
+      "ENGLISH": "they have breakfast, you (plural formal) have breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desayunamos",
+      "ENGLISH": "we have breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desayunáis",
+      "ENGLISH": "you (plural) have breakfast"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he desayunado",
+      "ENGLISH": "I have had breakfast"
+    },
+    "TU": {
+      "SPANISH": "has desayunado",
+      "ENGLISH": "you have had breakfast"
+    },
+    "EL": {
+      "SPANISH": "ha desayunado",
+      "ENGLISH": "s/he has had breakfast, you (formal) have had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "han desayunado",
+      "ENGLISH": "they have had breakfast, you (plural formal) have had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos desayunado",
+      "ENGLISH": "we have had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis desayunado",
+      "ENGLISH": "you (plural) have had breakfast"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "desayuné",
+      "ENGLISH": "I had breakfast"
+    },
+    "TU": {
+      "SPANISH": "desayunaste",
+      "ENGLISH": "you had breakfast"
+    },
+    "EL": {
+      "SPANISH": "desayunó",
+      "ENGLISH": "s/he had breakfast, you (formal) had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "desayunaron",
+      "ENGLISH": "they had breakfast, you (plural formal) had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desayunamos",
+      "ENGLISH": "we had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desayunasteis",
+      "ENGLISH": "you (plural) had breakfast"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había desayunado",
+      "ENGLISH": "I had had breakfast"
+    },
+    "TU": {
+      "SPANISH": "habías desayunado",
+      "ENGLISH": "you had had breakfast"
+    },
+    "EL": {
+      "SPANISH": "había desayunado",
+      "ENGLISH": "s/he had had breakfast, you (formal) had had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "habían desayunado",
+      "ENGLISH": "they had had breakfast, you (plural formal) had had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos desayunado",
+      "ENGLISH": "we had had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais desayunado",
+      "ENGLISH": "you (plural) had had breakfast"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "desayuné",
+      "ENGLISH": "I had breakfast"
+    },
+    "TU": {
+      "SPANISH": "desayunaste",
+      "ENGLISH": "you had breakfast"
+    },
+    "EL": {
+      "SPANISH": "desayunó",
+      "ENGLISH": "s/he had breakfast, you (formal) had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "desayunaron",
+      "ENGLISH": "they had breakfast, you (plural formal) had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desayunamos",
+      "ENGLISH": "we had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desayunasteis",
+      "ENGLISH": "you (plural) had breakfast"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "desayunaré",
+      "ENGLISH": "I will have breakfast"
+    },
+    "TU": {
+      "SPANISH": "desayunarás",
+      "ENGLISH": "you will have breakfast"
+    },
+    "EL": {
+      "SPANISH": "desayunará",
+      "ENGLISH": "s/he will have breakfast, you (formal) will have breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "desayunarán",
+      "ENGLISH": "they will have breakfast, you (plural formal) will have breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desayunaremos",
+      "ENGLISH": "we will have breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desayunaréis",
+      "ENGLISH": "you (plural) will have breakfast"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré desayunado",
+      "ENGLISH": "I will have had breakfast"
+    },
+    "TU": {
+      "SPANISH": "habrás desayunado",
+      "ENGLISH": "you will have had breakfast"
+    },
+    "EL": {
+      "SPANISH": "habrá desayunado",
+      "ENGLISH": "s/he will have had breakfast, you (formal) will have had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán desayunado",
+      "ENGLISH": "they will have had breakfast, you (plural formal) will have had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos desayunado",
+      "ENGLISH": "we will have had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis desayunado",
+      "ENGLISH": "you (plural) will have had breakfast"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "desayunaría",
+      "ENGLISH": "I would have breakfast"
+    },
+    "TU": {
+      "SPANISH": "desayunarías",
+      "ENGLISH": "you would have breakfast"
+    },
+    "EL": {
+      "SPANISH": "desayunaría",
+      "ENGLISH": "s/he would have breakfast, you (formal) would have breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "desayunarían",
+      "ENGLISH": "they would have breakfast, you (plural formal) would have breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desayunaríamos",
+      "ENGLISH": "we would have breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desayunaríais",
+      "ENGLISH": "you (plural) would have breakfast"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría desayunado",
+      "ENGLISH": "I would have had breakfast"
+    },
+    "TU": {
+      "SPANISH": "habrías desayunado",
+      "ENGLISH": "you would have had breakfast"
+    },
+    "EL": {
+      "SPANISH": "habría desayunado",
+      "ENGLISH": "s/he would have had breakfast, you (formal) would have had breakfast"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían desayunado",
+      "ENGLISH": "they would have had breakfast, you (plural formal) would have had breakfast"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos desayunado",
+      "ENGLISH": "we would have had breakfast"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais desayunado",
+      "ENGLISH": "you (plural) would have had breakfast"
+    }
+  }
+}

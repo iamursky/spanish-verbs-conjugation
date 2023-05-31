@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "bebo",
+      "ENGLISH": "I drink"
+    },
+    "TU": {
+      "SPANISH": "bebes",
+      "ENGLISH": "you drink"
+    },
+    "EL": {
+      "SPANISH": "bebe",
+      "ENGLISH": "s/he drinks, you (formal) drinks"
+    },
+    "ELLOS": {
+      "SPANISH": "beben",
+      "ENGLISH": "they drink, you (plural formal) drink"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bebemos",
+      "ENGLISH": "we drink"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bebéis",
+      "ENGLISH": "you (plural) drink"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he bebido",
+      "ENGLISH": "I have drunk"
+    },
+    "TU": {
+      "SPANISH": "has bebido",
+      "ENGLISH": "you have drunk"
+    },
+    "EL": {
+      "SPANISH": "ha bebido",
+      "ENGLISH": "s/he has drunk, you (formal) have drunk"
+    },
+    "ELLOS": {
+      "SPANISH": "han bebido",
+      "ENGLISH": "they have drunk, you (plural formal) have drunk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos bebido",
+      "ENGLISH": "we have drunk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis bebido",
+      "ENGLISH": "you (plural) have drunk"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "bebí",
+      "ENGLISH": "I drank"
+    },
+    "TU": {
+      "SPANISH": "bebiste",
+      "ENGLISH": "you drank"
+    },
+    "EL": {
+      "SPANISH": "bebió",
+      "ENGLISH": "s/he drank, you (formal) drank"
+    },
+    "ELLOS": {
+      "SPANISH": "bebieron",
+      "ENGLISH": "they drank, you (plural formal) drank"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bebimos",
+      "ENGLISH": "we drank"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bebisteis",
+      "ENGLISH": "you (plural) drank"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había bebido",
+      "ENGLISH": "I had drunk"
+    },
+    "TU": {
+      "SPANISH": "habías bebido",
+      "ENGLISH": "you had drunk"
+    },
+    "EL": {
+      "SPANISH": "había bebido",
+      "ENGLISH": "s/he had drunk, you (formal) had drunk"
+    },
+    "ELLOS": {
+      "SPANISH": "habían bebido",
+      "ENGLISH": "they had drunk, you (plural formal) had drunk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos bebido",
+      "ENGLISH": "we had drunk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais bebido",
+      "ENGLISH": "you (plural) had drunk"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "bebí",
+      "ENGLISH": "I drank"
+    },
+    "TU": {
+      "SPANISH": "bebiste",
+      "ENGLISH": "you drank"
+    },
+    "EL": {
+      "SPANISH": "bebió",
+      "ENGLISH": "s/he drank, you (formal) drank"
+    },
+    "ELLOS": {
+      "SPANISH": "bebieron",
+      "ENGLISH": "they drank, you (plural formal) drank"
+    },
+    "NOSOTROS": {
+      "SPANISH": "bebimos",
+      "ENGLISH": "we drank"
+    },
+    "VOSOTROS": {
+      "SPANISH": "bebisteis",
+      "ENGLISH": "you (plural) drank"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "beberé",
+      "ENGLISH": "I will drink"
+    },
+    "TU": {
+      "SPANISH": "beberás",
+      "ENGLISH": "you will drink"
+    },
+    "EL": {
+      "SPANISH": "beberá",
+      "ENGLISH": "s/he will drink, you (formal) will drink"
+    },
+    "ELLOS": {
+      "SPANISH": "beberán",
+      "ENGLISH": "they will drink, you (plural formal) will drink"
+    },
+    "NOSOTROS": {
+      "SPANISH": "beberemos",
+      "ENGLISH": "we will drink"
+    },
+    "VOSOTROS": {
+      "SPANISH": "beberéis",
+      "ENGLISH": "you (plural) will drink"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré bebido",
+      "ENGLISH": "I will have drunk"
+    },
+    "TU": {
+      "SPANISH": "habrás bebido",
+      "ENGLISH": "you will have drunk"
+    },
+    "EL": {
+      "SPANISH": "habrá bebido",
+      "ENGLISH": "s/he will have drunk, you (formal) will have drunk"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán bebido",
+      "ENGLISH": "they will have drunk, you (plural formal) will have drunk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos bebido",
+      "ENGLISH": "we will have drunk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis bebido",
+      "ENGLISH": "you (plural) will have drunk"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "bebería",
+      "ENGLISH": "I would drink"
+    },
+    "TU": {
+      "SPANISH": "beberías",
+      "ENGLISH": "you would drink"
+    },
+    "EL": {
+      "SPANISH": "bebería",
+      "ENGLISH": "s/he would drink, you (formal) would drink"
+    },
+    "ELLOS": {
+      "SPANISH": "beberían",
+      "ENGLISH": "they would drink, you (plural formal) would drink"
+    },
+    "NOSOTROS": {
+      "SPANISH": "beberíamos",
+      "ENGLISH": "we would drink"
+    },
+    "VOSOTROS": {
+      "SPANISH": "beberíais",
+      "ENGLISH": "you (plural) would drink"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría bebido",
+      "ENGLISH": "I would have drunk"
+    },
+    "TU": {
+      "SPANISH": "habrías bebido",
+      "ENGLISH": "you would have drunk"
+    },
+    "EL": {
+      "SPANISH": "habría bebido",
+      "ENGLISH": "s/he would have drunk, you (formal) would have drunk"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían bebido",
+      "ENGLISH": "they would have drunk, you (plural formal) would have drunk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos bebido",
+      "ENGLISH": "we would have drunk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais bebido",
+      "ENGLISH": "you (plural) would have drunk"
+    }
+  }
+}

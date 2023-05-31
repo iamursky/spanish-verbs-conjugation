@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "emigro",
+      "ENGLISH": "I emigrate"
+    },
+    "TU": {
+      "SPANISH": "emigras",
+      "ENGLISH": "you emigrate"
+    },
+    "EL": {
+      "SPANISH": "emigra",
+      "ENGLISH": "s/he emigrates, you (formal) emigrates"
+    },
+    "ELLOS": {
+      "SPANISH": "emigran",
+      "ENGLISH": "they emigrate, you (plural formal) emigrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emigramos",
+      "ENGLISH": "we emigrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emigráis",
+      "ENGLISH": "you (plural) emigrate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he emigrado",
+      "ENGLISH": "I have emigrated"
+    },
+    "TU": {
+      "SPANISH": "has emigrado",
+      "ENGLISH": "you have emigrated"
+    },
+    "EL": {
+      "SPANISH": "ha emigrado",
+      "ENGLISH": "s/he has emigrated, you (formal) have emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "han emigrado",
+      "ENGLISH": "they have emigrated, you (plural formal) have emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos emigrado",
+      "ENGLISH": "we have emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis emigrado",
+      "ENGLISH": "you (plural) have emigrated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "emigré",
+      "ENGLISH": "I emigrated"
+    },
+    "TU": {
+      "SPANISH": "emigraste",
+      "ENGLISH": "you emigrated"
+    },
+    "EL": {
+      "SPANISH": "emigró",
+      "ENGLISH": "s/he emigrated, you (formal) emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "emigraron",
+      "ENGLISH": "they emigrated, you (plural formal) emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emigramos",
+      "ENGLISH": "we emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emigrasteis",
+      "ENGLISH": "you (plural) emigrated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había emigrado",
+      "ENGLISH": "I had emigrated"
+    },
+    "TU": {
+      "SPANISH": "habías emigrado",
+      "ENGLISH": "you had emigrated"
+    },
+    "EL": {
+      "SPANISH": "había emigrado",
+      "ENGLISH": "s/he had emigrated, you (formal) had emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían emigrado",
+      "ENGLISH": "they had emigrated, you (plural formal) had emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos emigrado",
+      "ENGLISH": "we had emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais emigrado",
+      "ENGLISH": "you (plural) had emigrated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "emigré",
+      "ENGLISH": "I emigrated"
+    },
+    "TU": {
+      "SPANISH": "emigraste",
+      "ENGLISH": "you emigrated"
+    },
+    "EL": {
+      "SPANISH": "emigró",
+      "ENGLISH": "s/he emigrated, you (formal) emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "emigraron",
+      "ENGLISH": "they emigrated, you (plural formal) emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emigramos",
+      "ENGLISH": "we emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emigrasteis",
+      "ENGLISH": "you (plural) emigrated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "emigraré",
+      "ENGLISH": "I will emigrate"
+    },
+    "TU": {
+      "SPANISH": "emigrarás",
+      "ENGLISH": "you will emigrate"
+    },
+    "EL": {
+      "SPANISH": "emigrará",
+      "ENGLISH": "s/he will emigrate, you (formal) will emigrate"
+    },
+    "ELLOS": {
+      "SPANISH": "emigrarán",
+      "ENGLISH": "they will emigrate, you (plural formal) will emigrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emigraremos",
+      "ENGLISH": "we will emigrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emigraréis",
+      "ENGLISH": "you (plural) will emigrate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré emigrado",
+      "ENGLISH": "I will have emigrated"
+    },
+    "TU": {
+      "SPANISH": "habrás emigrado",
+      "ENGLISH": "you will have emigrated"
+    },
+    "EL": {
+      "SPANISH": "habrá emigrado",
+      "ENGLISH": "s/he will have emigrated, you (formal) will have emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán emigrado",
+      "ENGLISH": "they will have emigrated, you (plural formal) will have emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos emigrado",
+      "ENGLISH": "we will have emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis emigrado",
+      "ENGLISH": "you (plural) will have emigrated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "emigraría",
+      "ENGLISH": "I would emigrate"
+    },
+    "TU": {
+      "SPANISH": "emigrarías",
+      "ENGLISH": "you would emigrate"
+    },
+    "EL": {
+      "SPANISH": "emigraría",
+      "ENGLISH": "s/he would emigrate, you (formal) would emigrate"
+    },
+    "ELLOS": {
+      "SPANISH": "emigrarían",
+      "ENGLISH": "they would emigrate, you (plural formal) would emigrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "emigraríamos",
+      "ENGLISH": "we would emigrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "emigraríais",
+      "ENGLISH": "you (plural) would emigrate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría emigrado",
+      "ENGLISH": "I would have emigrated"
+    },
+    "TU": {
+      "SPANISH": "habrías emigrado",
+      "ENGLISH": "you would have emigrated"
+    },
+    "EL": {
+      "SPANISH": "habría emigrado",
+      "ENGLISH": "s/he would have emigrated, you (formal) would have emigrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían emigrado",
+      "ENGLISH": "they would have emigrated, you (plural formal) would have emigrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos emigrado",
+      "ENGLISH": "we would have emigrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais emigrado",
+      "ENGLISH": "you (plural) would have emigrated"
+    }
+  }
+}

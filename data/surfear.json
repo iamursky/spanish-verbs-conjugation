@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "surfeo",
+      "ENGLISH": "I surf"
+    },
+    "TU": {
+      "SPANISH": "surfeas",
+      "ENGLISH": "you surf"
+    },
+    "EL": {
+      "SPANISH": "surfea",
+      "ENGLISH": "s/he surfs, you (formal) surfs"
+    },
+    "ELLOS": {
+      "SPANISH": "surfean",
+      "ENGLISH": "they surf, you (plural formal) surf"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surfeamos",
+      "ENGLISH": "we surf"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surfeáis",
+      "ENGLISH": "you (plural) surf"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he surfeado",
+      "ENGLISH": "I have surfed"
+    },
+    "TU": {
+      "SPANISH": "has surfeado",
+      "ENGLISH": "you have surfed"
+    },
+    "EL": {
+      "SPANISH": "ha surfeado",
+      "ENGLISH": "s/he has surfed, you (formal) have surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "han surfeado",
+      "ENGLISH": "they have surfed, you (plural formal) have surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos surfeado",
+      "ENGLISH": "we have surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis surfeado",
+      "ENGLISH": "you (plural) have surfed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "surfeé",
+      "ENGLISH": "I surfed"
+    },
+    "TU": {
+      "SPANISH": "surfeaste",
+      "ENGLISH": "you surfed"
+    },
+    "EL": {
+      "SPANISH": "surfeó",
+      "ENGLISH": "s/he surfed, you (formal) surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "surfearon",
+      "ENGLISH": "they surfed, you (plural formal) surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surfeamos",
+      "ENGLISH": "we surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surfeasteis",
+      "ENGLISH": "you (plural) surfed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había surfeado",
+      "ENGLISH": "I had surfed"
+    },
+    "TU": {
+      "SPANISH": "habías surfeado",
+      "ENGLISH": "you had surfed"
+    },
+    "EL": {
+      "SPANISH": "había surfeado",
+      "ENGLISH": "s/he had surfed, you (formal) had surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían surfeado",
+      "ENGLISH": "they had surfed, you (plural formal) had surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos surfeado",
+      "ENGLISH": "we had surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais surfeado",
+      "ENGLISH": "you (plural) had surfed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "surfeé",
+      "ENGLISH": "I surfed"
+    },
+    "TU": {
+      "SPANISH": "surfeaste",
+      "ENGLISH": "you surfed"
+    },
+    "EL": {
+      "SPANISH": "surfeó",
+      "ENGLISH": "s/he surfed, you (formal) surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "surfearon",
+      "ENGLISH": "they surfed, you (plural formal) surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surfeamos",
+      "ENGLISH": "we surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surfeasteis",
+      "ENGLISH": "you (plural) surfed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "surfearé",
+      "ENGLISH": "I will surf"
+    },
+    "TU": {
+      "SPANISH": "surfearás",
+      "ENGLISH": "you will surf"
+    },
+    "EL": {
+      "SPANISH": "surfeará",
+      "ENGLISH": "s/he will surf, you (formal) will surf"
+    },
+    "ELLOS": {
+      "SPANISH": "surfearán",
+      "ENGLISH": "they will surf, you (plural formal) will surf"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surfearemos",
+      "ENGLISH": "we will surf"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surfearéis",
+      "ENGLISH": "you (plural) will surf"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré surfeado",
+      "ENGLISH": "I will have surfed"
+    },
+    "TU": {
+      "SPANISH": "habrás surfeado",
+      "ENGLISH": "you will have surfed"
+    },
+    "EL": {
+      "SPANISH": "habrá surfeado",
+      "ENGLISH": "s/he will have surfed, you (formal) will have surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán surfeado",
+      "ENGLISH": "they will have surfed, you (plural formal) will have surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos surfeado",
+      "ENGLISH": "we will have surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis surfeado",
+      "ENGLISH": "you (plural) will have surfed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "surfearía",
+      "ENGLISH": "I would surf"
+    },
+    "TU": {
+      "SPANISH": "surfearías",
+      "ENGLISH": "you would surf"
+    },
+    "EL": {
+      "SPANISH": "surfearía",
+      "ENGLISH": "s/he would surf, you (formal) would surf"
+    },
+    "ELLOS": {
+      "SPANISH": "surfearían",
+      "ENGLISH": "they would surf, you (plural formal) would surf"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surfearíamos",
+      "ENGLISH": "we would surf"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surfearíais",
+      "ENGLISH": "you (plural) would surf"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría surfeado",
+      "ENGLISH": "I would have surfed"
+    },
+    "TU": {
+      "SPANISH": "habrías surfeado",
+      "ENGLISH": "you would have surfed"
+    },
+    "EL": {
+      "SPANISH": "habría surfeado",
+      "ENGLISH": "s/he would have surfed, you (formal) would have surfed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían surfeado",
+      "ENGLISH": "they would have surfed, you (plural formal) would have surfed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos surfeado",
+      "ENGLISH": "we would have surfed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais surfeado",
+      "ENGLISH": "you (plural) would have surfed"
+    }
+  }
+}

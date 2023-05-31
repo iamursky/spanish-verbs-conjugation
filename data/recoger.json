@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "recojo ",
+      "ENGLISH": "I collect"
+    },
+    "TU": {
+      "SPANISH": "recoges",
+      "ENGLISH": "you collect"
+    },
+    "EL": {
+      "SPANISH": "recoge",
+      "ENGLISH": "s/he collects, you (formal) collects"
+    },
+    "ELLOS": {
+      "SPANISH": "recogen",
+      "ENGLISH": "they collect, you (plural formal) collect"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recogemos",
+      "ENGLISH": "we collect"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recogéis",
+      "ENGLISH": "you (plural) collect"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he recogido",
+      "ENGLISH": "I have collected"
+    },
+    "TU": {
+      "SPANISH": "has recogido",
+      "ENGLISH": "you have collected"
+    },
+    "EL": {
+      "SPANISH": "ha recogido",
+      "ENGLISH": "s/he has collected, you (formal) have collected"
+    },
+    "ELLOS": {
+      "SPANISH": "han recogido",
+      "ENGLISH": "they have collected, you (plural formal) have collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos recogido",
+      "ENGLISH": "we have collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis recogido",
+      "ENGLISH": "you (plural) have collected"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "recogí",
+      "ENGLISH": "I collected"
+    },
+    "TU": {
+      "SPANISH": "recogiste",
+      "ENGLISH": "you collected"
+    },
+    "EL": {
+      "SPANISH": "recogió",
+      "ENGLISH": "s/he collected, you (formal) collected"
+    },
+    "ELLOS": {
+      "SPANISH": "recogieron",
+      "ENGLISH": "they collected, you (plural formal) collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recogimos",
+      "ENGLISH": "we collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recogisteis",
+      "ENGLISH": "you (plural) collected"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había recogido",
+      "ENGLISH": "I had collected"
+    },
+    "TU": {
+      "SPANISH": "habías recogido",
+      "ENGLISH": "you had collected"
+    },
+    "EL": {
+      "SPANISH": "había recogido",
+      "ENGLISH": "s/he had collected, you (formal) had collected"
+    },
+    "ELLOS": {
+      "SPANISH": "habían recogido",
+      "ENGLISH": "they had collected, you (plural formal) had collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos recogido",
+      "ENGLISH": "we had collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais recogido",
+      "ENGLISH": "you (plural) had collected"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "recogí",
+      "ENGLISH": "I collected"
+    },
+    "TU": {
+      "SPANISH": "recogiste",
+      "ENGLISH": "you collected"
+    },
+    "EL": {
+      "SPANISH": "recogió",
+      "ENGLISH": "s/he collected, you (formal) collected"
+    },
+    "ELLOS": {
+      "SPANISH": "recogieron",
+      "ENGLISH": "they collected, you (plural formal) collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recogimos",
+      "ENGLISH": "we collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recogisteis",
+      "ENGLISH": "you (plural) collected"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "recogeré",
+      "ENGLISH": "I will collect"
+    },
+    "TU": {
+      "SPANISH": "recogerás",
+      "ENGLISH": "you will collect"
+    },
+    "EL": {
+      "SPANISH": "recogerá",
+      "ENGLISH": "s/he will collect, you (formal) will collect"
+    },
+    "ELLOS": {
+      "SPANISH": "recogerán",
+      "ENGLISH": "they will collect, you (plural formal) will collect"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recogeremos",
+      "ENGLISH": "we will collect"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recogeréis",
+      "ENGLISH": "you (plural) will collect"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré recogido",
+      "ENGLISH": "I will have collected"
+    },
+    "TU": {
+      "SPANISH": "habrás recogido",
+      "ENGLISH": "you will have collected"
+    },
+    "EL": {
+      "SPANISH": "habrá recogido",
+      "ENGLISH": "s/he will have collected, you (formal) will have collected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán recogido",
+      "ENGLISH": "they will have collected, you (plural formal) will have collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos recogido",
+      "ENGLISH": "we will have collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis recogido",
+      "ENGLISH": "you (plural) will have collected"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "recogería",
+      "ENGLISH": "I would collect"
+    },
+    "TU": {
+      "SPANISH": "recogerías",
+      "ENGLISH": "you would collect"
+    },
+    "EL": {
+      "SPANISH": "recogería",
+      "ENGLISH": "s/he would collect, you (formal) would collect"
+    },
+    "ELLOS": {
+      "SPANISH": "recogerían",
+      "ENGLISH": "they would collect, you (plural formal) would collect"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recogeríamos",
+      "ENGLISH": "we would collect"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recogeríais",
+      "ENGLISH": "you (plural) would collect"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría recogido",
+      "ENGLISH": "I would have collected"
+    },
+    "TU": {
+      "SPANISH": "habrías recogido",
+      "ENGLISH": "you would have collected"
+    },
+    "EL": {
+      "SPANISH": "habría recogido",
+      "ENGLISH": "s/he would have collected, you (formal) would have collected"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían recogido",
+      "ENGLISH": "they would have collected, you (plural formal) would have collected"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos recogido",
+      "ENGLISH": "we would have collected"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais recogido",
+      "ENGLISH": "you (plural) would have collected"
+    }
+  }
+}

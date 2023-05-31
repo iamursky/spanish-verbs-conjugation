@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "escolto",
+      "ENGLISH": "I escort"
+    },
+    "TU": {
+      "SPANISH": "escoltas",
+      "ENGLISH": "you escort"
+    },
+    "EL": {
+      "SPANISH": "escolta",
+      "ENGLISH": "s/he escorts, you (formal) escorts"
+    },
+    "ELLOS": {
+      "SPANISH": "escoltan",
+      "ENGLISH": "they escort, you (plural formal) escort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escoltamos",
+      "ENGLISH": "we escort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escoltáis",
+      "ENGLISH": "you (plural) escort"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he escoltado",
+      "ENGLISH": "I have escorted"
+    },
+    "TU": {
+      "SPANISH": "has escoltado",
+      "ENGLISH": "you have escorted"
+    },
+    "EL": {
+      "SPANISH": "ha escoltado",
+      "ENGLISH": "s/he has escorted, you (formal) have escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "han escoltado",
+      "ENGLISH": "they have escorted, you (plural formal) have escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos escoltado",
+      "ENGLISH": "we have escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis escoltado",
+      "ENGLISH": "you (plural) have escorted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "escolté",
+      "ENGLISH": "I escorted"
+    },
+    "TU": {
+      "SPANISH": "escoltaste",
+      "ENGLISH": "you escorted"
+    },
+    "EL": {
+      "SPANISH": "escoltó",
+      "ENGLISH": "s/he escorted, you (formal) escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "escoltaron",
+      "ENGLISH": "they escorted, you (plural formal) escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escoltamos",
+      "ENGLISH": "we escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escoltasteis",
+      "ENGLISH": "you (plural) escorted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había escoltado",
+      "ENGLISH": "I had escorted"
+    },
+    "TU": {
+      "SPANISH": "habías escoltado",
+      "ENGLISH": "you had escorted"
+    },
+    "EL": {
+      "SPANISH": "había escoltado",
+      "ENGLISH": "s/he had escorted, you (formal) had escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían escoltado",
+      "ENGLISH": "they had escorted, you (plural formal) had escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos escoltado",
+      "ENGLISH": "we had escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais escoltado",
+      "ENGLISH": "you (plural) had escorted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "escolté",
+      "ENGLISH": "I escorted"
+    },
+    "TU": {
+      "SPANISH": "escoltaste",
+      "ENGLISH": "you escorted"
+    },
+    "EL": {
+      "SPANISH": "escoltó",
+      "ENGLISH": "s/he escorted, you (formal) escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "escoltaron",
+      "ENGLISH": "they escorted, you (plural formal) escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escoltamos",
+      "ENGLISH": "we escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escoltasteis",
+      "ENGLISH": "you (plural) escorted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "escoltaré",
+      "ENGLISH": "I will escort"
+    },
+    "TU": {
+      "SPANISH": "escoltarás",
+      "ENGLISH": "you will escort"
+    },
+    "EL": {
+      "SPANISH": "escoltará",
+      "ENGLISH": "s/he will escort, you (formal) will escort"
+    },
+    "ELLOS": {
+      "SPANISH": "escoltarán",
+      "ENGLISH": "they will escort, you (plural formal) will escort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escoltaremos",
+      "ENGLISH": "we will escort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escoltaréis",
+      "ENGLISH": "you (plural) will escort"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré escoltado",
+      "ENGLISH": "I will have escorted"
+    },
+    "TU": {
+      "SPANISH": "habrás escoltado",
+      "ENGLISH": "you will have escorted"
+    },
+    "EL": {
+      "SPANISH": "habrá escoltado",
+      "ENGLISH": "s/he will have escorted, you (formal) will have escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán escoltado",
+      "ENGLISH": "they will have escorted, you (plural formal) will have escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos escoltado",
+      "ENGLISH": "we will have escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis escoltado",
+      "ENGLISH": "you (plural) will have escorted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "escoltaría",
+      "ENGLISH": "I would escort"
+    },
+    "TU": {
+      "SPANISH": "escoltarías",
+      "ENGLISH": "you would escort"
+    },
+    "EL": {
+      "SPANISH": "escoltaría",
+      "ENGLISH": "s/he would escort, you (formal) would escort"
+    },
+    "ELLOS": {
+      "SPANISH": "escoltarían",
+      "ENGLISH": "they would escort, you (plural formal) would escort"
+    },
+    "NOSOTROS": {
+      "SPANISH": "escoltaríamos",
+      "ENGLISH": "we would escort"
+    },
+    "VOSOTROS": {
+      "SPANISH": "escoltaríais",
+      "ENGLISH": "you (plural) would escort"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría escoltado",
+      "ENGLISH": "I would have escorted"
+    },
+    "TU": {
+      "SPANISH": "habrías escoltado",
+      "ENGLISH": "you would have escorted"
+    },
+    "EL": {
+      "SPANISH": "habría escoltado",
+      "ENGLISH": "s/he would have escorted, you (formal) would have escorted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían escoltado",
+      "ENGLISH": "they would have escorted, you (plural formal) would have escorted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos escoltado",
+      "ENGLISH": "we would have escorted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais escoltado",
+      "ENGLISH": "you (plural) would have escorted"
+    }
+  }
+}

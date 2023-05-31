@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "celebro",
+      "ENGLISH": "I celebrate"
+    },
+    "TU": {
+      "SPANISH": "celebras",
+      "ENGLISH": "you celebrate"
+    },
+    "EL": {
+      "SPANISH": "celebra",
+      "ENGLISH": "s/he celebrates, you (formal) celebrates"
+    },
+    "ELLOS": {
+      "SPANISH": "celebran",
+      "ENGLISH": "they celebrate, you (plural formal) celebrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "celebramos",
+      "ENGLISH": "we celebrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "celebráis",
+      "ENGLISH": "you (plural) celebrate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he celebrado",
+      "ENGLISH": "I have celebrated"
+    },
+    "TU": {
+      "SPANISH": "has celebrado",
+      "ENGLISH": "you have celebrated"
+    },
+    "EL": {
+      "SPANISH": "ha celebrado",
+      "ENGLISH": "s/he has celebrated, you (formal) have celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "han celebrado",
+      "ENGLISH": "they have celebrated, you (plural formal) have celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos celebrado",
+      "ENGLISH": "we have celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis celebrado",
+      "ENGLISH": "you (plural) have celebrated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "celebré",
+      "ENGLISH": "I celebrated"
+    },
+    "TU": {
+      "SPANISH": "celebraste",
+      "ENGLISH": "you celebrated"
+    },
+    "EL": {
+      "SPANISH": "celebró",
+      "ENGLISH": "s/he celebrated, you (formal) celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "celebraron",
+      "ENGLISH": "they celebrated, you (plural formal) celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "celebramos",
+      "ENGLISH": "we celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "celebrasteis",
+      "ENGLISH": "you (plural) celebrated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había celebrado",
+      "ENGLISH": "I had celebrated"
+    },
+    "TU": {
+      "SPANISH": "habías celebrado",
+      "ENGLISH": "you had celebrated"
+    },
+    "EL": {
+      "SPANISH": "había celebrado",
+      "ENGLISH": "s/he had celebrated, you (formal) had celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían celebrado",
+      "ENGLISH": "they had celebrated, you (plural formal) had celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos celebrado",
+      "ENGLISH": "we had celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais celebrado",
+      "ENGLISH": "you (plural) had celebrated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "celebré",
+      "ENGLISH": "I celebrated"
+    },
+    "TU": {
+      "SPANISH": "celebraste",
+      "ENGLISH": "you celebrated"
+    },
+    "EL": {
+      "SPANISH": "celebró",
+      "ENGLISH": "s/he celebrated, you (formal) celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "celebraron",
+      "ENGLISH": "they celebrated, you (plural formal) celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "celebramos",
+      "ENGLISH": "we celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "celebrasteis",
+      "ENGLISH": "you (plural) celebrated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "celebraré",
+      "ENGLISH": "I will celebrate"
+    },
+    "TU": {
+      "SPANISH": "celebrarás",
+      "ENGLISH": "you will celebrate"
+    },
+    "EL": {
+      "SPANISH": "celebrará",
+      "ENGLISH": "s/he will celebrate, you (formal) will celebrate"
+    },
+    "ELLOS": {
+      "SPANISH": "celebrarán",
+      "ENGLISH": "they will celebrate, you (plural formal) will celebrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "celebraremos",
+      "ENGLISH": "we will celebrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "celebraréis",
+      "ENGLISH": "you (plural) will celebrate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré celebrado",
+      "ENGLISH": "I will have celebrated"
+    },
+    "TU": {
+      "SPANISH": "habrás celebrado",
+      "ENGLISH": "you will have celebrated"
+    },
+    "EL": {
+      "SPANISH": "habrá celebrado",
+      "ENGLISH": "s/he will have celebrated, you (formal) will have celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán celebrado",
+      "ENGLISH": "they will have celebrated, you (plural formal) will have celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos celebrado",
+      "ENGLISH": "we will have celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis celebrado",
+      "ENGLISH": "you (plural) will have celebrated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "celebraría",
+      "ENGLISH": "I would celebrate"
+    },
+    "TU": {
+      "SPANISH": "celebrarías",
+      "ENGLISH": "you would celebrate"
+    },
+    "EL": {
+      "SPANISH": "celebraría",
+      "ENGLISH": "s/he would celebrate, you (formal) would celebrate"
+    },
+    "ELLOS": {
+      "SPANISH": "celebrarían",
+      "ENGLISH": "they would celebrate, you (plural formal) would celebrate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "celebraríamos",
+      "ENGLISH": "we would celebrate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "celebraríais",
+      "ENGLISH": "you (plural) would celebrate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría celebrado",
+      "ENGLISH": "I would have celebrated"
+    },
+    "TU": {
+      "SPANISH": "habrías celebrado",
+      "ENGLISH": "you would have celebrated"
+    },
+    "EL": {
+      "SPANISH": "habría celebrado",
+      "ENGLISH": "s/he would have celebrated, you (formal) would have celebrated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían celebrado",
+      "ENGLISH": "they would have celebrated, you (plural formal) would have celebrated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos celebrado",
+      "ENGLISH": "we would have celebrated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais celebrado",
+      "ENGLISH": "you (plural) would have celebrated"
+    }
+  }
+}

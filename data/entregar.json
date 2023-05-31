@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "entrego",
+      "ENGLISH": "I deliver"
+    },
+    "TU": {
+      "SPANISH": "entregas",
+      "ENGLISH": "you deliver"
+    },
+    "EL": {
+      "SPANISH": "entrega",
+      "ENGLISH": "s/he delivers, you (formal) delivers"
+    },
+    "ELLOS": {
+      "SPANISH": "entregan",
+      "ENGLISH": "they deliver, you (plural formal) deliver"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entregamos",
+      "ENGLISH": "we deliver"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entregáis",
+      "ENGLISH": "you (plural) deliver"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he entregado",
+      "ENGLISH": "I have delivered"
+    },
+    "TU": {
+      "SPANISH": "has entregado",
+      "ENGLISH": "you have delivered"
+    },
+    "EL": {
+      "SPANISH": "ha entregado",
+      "ENGLISH": "s/he has delivered, you (formal) have delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "han entregado",
+      "ENGLISH": "they have delivered, you (plural formal) have delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos entregado",
+      "ENGLISH": "we have delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis entregado",
+      "ENGLISH": "you (plural) have delivered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "entregué ",
+      "ENGLISH": "I delivered"
+    },
+    "TU": {
+      "SPANISH": "entregaste",
+      "ENGLISH": "you delivered"
+    },
+    "EL": {
+      "SPANISH": "entregó",
+      "ENGLISH": "s/he delivered, you (formal) delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "entregaron",
+      "ENGLISH": "they delivered, you (plural formal) delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entregamos",
+      "ENGLISH": "we delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entregasteis",
+      "ENGLISH": "you (plural) delivered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había entregado",
+      "ENGLISH": "I had delivered"
+    },
+    "TU": {
+      "SPANISH": "habías entregado",
+      "ENGLISH": "you had delivered"
+    },
+    "EL": {
+      "SPANISH": "había entregado",
+      "ENGLISH": "s/he had delivered, you (formal) had delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían entregado",
+      "ENGLISH": "they had delivered, you (plural formal) had delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos entregado",
+      "ENGLISH": "we had delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais entregado",
+      "ENGLISH": "you (plural) had delivered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "entregué ",
+      "ENGLISH": "I delivered"
+    },
+    "TU": {
+      "SPANISH": "entregaste",
+      "ENGLISH": "you delivered"
+    },
+    "EL": {
+      "SPANISH": "entregó",
+      "ENGLISH": "s/he delivered, you (formal) delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "entregaron",
+      "ENGLISH": "they delivered, you (plural formal) delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entregamos",
+      "ENGLISH": "we delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entregasteis",
+      "ENGLISH": "you (plural) delivered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "entregaré",
+      "ENGLISH": "I will deliver"
+    },
+    "TU": {
+      "SPANISH": "entregarás",
+      "ENGLISH": "you will deliver"
+    },
+    "EL": {
+      "SPANISH": "entregará",
+      "ENGLISH": "s/he will deliver, you (formal) will deliver"
+    },
+    "ELLOS": {
+      "SPANISH": "entregarán",
+      "ENGLISH": "they will deliver, you (plural formal) will deliver"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entregaremos",
+      "ENGLISH": "we will deliver"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entregaréis",
+      "ENGLISH": "you (plural) will deliver"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré entregado",
+      "ENGLISH": "I will have delivered"
+    },
+    "TU": {
+      "SPANISH": "habrás entregado",
+      "ENGLISH": "you will have delivered"
+    },
+    "EL": {
+      "SPANISH": "habrá entregado",
+      "ENGLISH": "s/he will have delivered, you (formal) will have delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán entregado",
+      "ENGLISH": "they will have delivered, you (plural formal) will have delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos entregado",
+      "ENGLISH": "we will have delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis entregado",
+      "ENGLISH": "you (plural) will have delivered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "entregaría",
+      "ENGLISH": "I would deliver"
+    },
+    "TU": {
+      "SPANISH": "entregarías",
+      "ENGLISH": "you would deliver"
+    },
+    "EL": {
+      "SPANISH": "entregaría",
+      "ENGLISH": "s/he would deliver, you (formal) would deliver"
+    },
+    "ELLOS": {
+      "SPANISH": "entregarían",
+      "ENGLISH": "they would deliver, you (plural formal) would deliver"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entregaríamos",
+      "ENGLISH": "we would deliver"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entregaríais",
+      "ENGLISH": "you (plural) would deliver"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría entregado",
+      "ENGLISH": "I would have delivered"
+    },
+    "TU": {
+      "SPANISH": "habrías entregado",
+      "ENGLISH": "you would have delivered"
+    },
+    "EL": {
+      "SPANISH": "habría entregado",
+      "ENGLISH": "s/he would have delivered, you (formal) would have delivered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían entregado",
+      "ENGLISH": "they would have delivered, you (plural formal) would have delivered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos entregado",
+      "ENGLISH": "we would have delivered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais entregado",
+      "ENGLISH": "you (plural) would have delivered"
+    }
+  }
+}

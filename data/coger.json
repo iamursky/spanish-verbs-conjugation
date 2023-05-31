@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cojo ",
+      "ENGLISH": "I take"
+    },
+    "TU": {
+      "SPANISH": "coges",
+      "ENGLISH": "you take"
+    },
+    "EL": {
+      "SPANISH": "coge",
+      "ENGLISH": "s/he takes, you (formal) takes"
+    },
+    "ELLOS": {
+      "SPANISH": "cogen",
+      "ENGLISH": "they take, you (plural formal) take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cogemos",
+      "ENGLISH": "we take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cogéis",
+      "ENGLISH": "you (plural) take"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cogido",
+      "ENGLISH": "I have taken"
+    },
+    "TU": {
+      "SPANISH": "has cogido",
+      "ENGLISH": "you have taken"
+    },
+    "EL": {
+      "SPANISH": "ha cogido",
+      "ENGLISH": "s/he has taken, you (formal) have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "han cogido",
+      "ENGLISH": "they have taken, you (plural formal) have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cogido",
+      "ENGLISH": "we have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cogido",
+      "ENGLISH": "you (plural) have taken"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "cogí",
+      "ENGLISH": "I took"
+    },
+    "TU": {
+      "SPANISH": "cogiste",
+      "ENGLISH": "you took"
+    },
+    "EL": {
+      "SPANISH": "cogió",
+      "ENGLISH": "s/he took, you (formal) took"
+    },
+    "ELLOS": {
+      "SPANISH": "cogieron",
+      "ENGLISH": "they took, you (plural formal) took"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cogimos",
+      "ENGLISH": "we took"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cogisteis",
+      "ENGLISH": "you (plural) took"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cogido",
+      "ENGLISH": "I had taken"
+    },
+    "TU": {
+      "SPANISH": "habías cogido",
+      "ENGLISH": "you had taken"
+    },
+    "EL": {
+      "SPANISH": "había cogido",
+      "ENGLISH": "s/he had taken, you (formal) had taken"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cogido",
+      "ENGLISH": "they had taken, you (plural formal) had taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cogido",
+      "ENGLISH": "we had taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cogido",
+      "ENGLISH": "you (plural) had taken"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "cogí",
+      "ENGLISH": "I took"
+    },
+    "TU": {
+      "SPANISH": "cogiste",
+      "ENGLISH": "you took"
+    },
+    "EL": {
+      "SPANISH": "cogió",
+      "ENGLISH": "s/he took, you (formal) took"
+    },
+    "ELLOS": {
+      "SPANISH": "cogieron",
+      "ENGLISH": "they took, you (plural formal) took"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cogimos",
+      "ENGLISH": "we took"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cogisteis",
+      "ENGLISH": "you (plural) took"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cogeré",
+      "ENGLISH": "I will take"
+    },
+    "TU": {
+      "SPANISH": "cogerás",
+      "ENGLISH": "you will take"
+    },
+    "EL": {
+      "SPANISH": "cogerá",
+      "ENGLISH": "s/he will take, you (formal) will take"
+    },
+    "ELLOS": {
+      "SPANISH": "cogerán",
+      "ENGLISH": "they will take, you (plural formal) will take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cogeremos",
+      "ENGLISH": "we will take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cogeréis",
+      "ENGLISH": "you (plural) will take"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cogido",
+      "ENGLISH": "I will have taken"
+    },
+    "TU": {
+      "SPANISH": "habrás cogido",
+      "ENGLISH": "you will have taken"
+    },
+    "EL": {
+      "SPANISH": "habrá cogido",
+      "ENGLISH": "s/he will have taken, you (formal) will have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cogido",
+      "ENGLISH": "they will have taken, you (plural formal) will have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cogido",
+      "ENGLISH": "we will have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cogido",
+      "ENGLISH": "you (plural) will have taken"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cogería",
+      "ENGLISH": "I would take"
+    },
+    "TU": {
+      "SPANISH": "cogerías",
+      "ENGLISH": "you would take"
+    },
+    "EL": {
+      "SPANISH": "cogería",
+      "ENGLISH": "s/he would take, you (formal) would take"
+    },
+    "ELLOS": {
+      "SPANISH": "cogerían",
+      "ENGLISH": "they would take, you (plural formal) would take"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cogeríamos",
+      "ENGLISH": "we would take"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cogeríais",
+      "ENGLISH": "you (plural) would take"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cogido",
+      "ENGLISH": "I would have taken"
+    },
+    "TU": {
+      "SPANISH": "habrías cogido",
+      "ENGLISH": "you would have taken"
+    },
+    "EL": {
+      "SPANISH": "habría cogido",
+      "ENGLISH": "s/he would have taken, you (formal) would have taken"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cogido",
+      "ENGLISH": "they would have taken, you (plural formal) would have taken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cogido",
+      "ENGLISH": "we would have taken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cogido",
+      "ENGLISH": "you (plural) would have taken"
+    }
+  }
+}

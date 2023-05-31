@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "surjo ",
+      "ENGLISH": "I emerge"
+    },
+    "TU": {
+      "SPANISH": "surges",
+      "ENGLISH": "you emerge"
+    },
+    "EL": {
+      "SPANISH": "surge",
+      "ENGLISH": "s/he emerges, you (formal) emerges"
+    },
+    "ELLOS": {
+      "SPANISH": "surgen",
+      "ENGLISH": "they emerge, you (plural formal) emerge"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surgimos",
+      "ENGLISH": "we emerge"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surgís",
+      "ENGLISH": "you (plural) emerge"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he surgido",
+      "ENGLISH": "I have emerged"
+    },
+    "TU": {
+      "SPANISH": "has surgido",
+      "ENGLISH": "you have emerged"
+    },
+    "EL": {
+      "SPANISH": "ha surgido",
+      "ENGLISH": "s/he has emerged, you (formal) have emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "han surgido",
+      "ENGLISH": "they have emerged, you (plural formal) have emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos surgido",
+      "ENGLISH": "we have emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis surgido",
+      "ENGLISH": "you (plural) have emerged"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "surgí",
+      "ENGLISH": "I emerged"
+    },
+    "TU": {
+      "SPANISH": "surgiste",
+      "ENGLISH": "you emerged"
+    },
+    "EL": {
+      "SPANISH": "surgió",
+      "ENGLISH": "s/he emerged, you (formal) emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "surgieron",
+      "ENGLISH": "they emerged, you (plural formal) emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surgimos",
+      "ENGLISH": "we emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surgisteis",
+      "ENGLISH": "you (plural) emerged"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había surgido",
+      "ENGLISH": "I had emerged"
+    },
+    "TU": {
+      "SPANISH": "habías surgido",
+      "ENGLISH": "you had emerged"
+    },
+    "EL": {
+      "SPANISH": "había surgido",
+      "ENGLISH": "s/he had emerged, you (formal) had emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "habían surgido",
+      "ENGLISH": "they had emerged, you (plural formal) had emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos surgido",
+      "ENGLISH": "we had emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais surgido",
+      "ENGLISH": "you (plural) had emerged"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "surgí",
+      "ENGLISH": "I emerged"
+    },
+    "TU": {
+      "SPANISH": "surgiste",
+      "ENGLISH": "you emerged"
+    },
+    "EL": {
+      "SPANISH": "surgió",
+      "ENGLISH": "s/he emerged, you (formal) emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "surgieron",
+      "ENGLISH": "they emerged, you (plural formal) emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surgimos",
+      "ENGLISH": "we emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surgisteis",
+      "ENGLISH": "you (plural) emerged"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "surgiré",
+      "ENGLISH": "I will emerge"
+    },
+    "TU": {
+      "SPANISH": "surgirás",
+      "ENGLISH": "you will emerge"
+    },
+    "EL": {
+      "SPANISH": "surgirá",
+      "ENGLISH": "s/he will emerge, you (formal) will emerge"
+    },
+    "ELLOS": {
+      "SPANISH": "surgirán",
+      "ENGLISH": "they will emerge, you (plural formal) will emerge"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surgiremos",
+      "ENGLISH": "we will emerge"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surgiréis",
+      "ENGLISH": "you (plural) will emerge"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré surgido",
+      "ENGLISH": "I will have emerged"
+    },
+    "TU": {
+      "SPANISH": "habrás surgido",
+      "ENGLISH": "you will have emerged"
+    },
+    "EL": {
+      "SPANISH": "habrá surgido",
+      "ENGLISH": "s/he will have emerged, you (formal) will have emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán surgido",
+      "ENGLISH": "they will have emerged, you (plural formal) will have emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos surgido",
+      "ENGLISH": "we will have emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis surgido",
+      "ENGLISH": "you (plural) will have emerged"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "surgiría",
+      "ENGLISH": "I would emerge"
+    },
+    "TU": {
+      "SPANISH": "surgirías",
+      "ENGLISH": "you would emerge"
+    },
+    "EL": {
+      "SPANISH": "surgiría",
+      "ENGLISH": "s/he would emerge, you (formal) would emerge"
+    },
+    "ELLOS": {
+      "SPANISH": "surgirían",
+      "ENGLISH": "they would emerge, you (plural formal) would emerge"
+    },
+    "NOSOTROS": {
+      "SPANISH": "surgiríamos",
+      "ENGLISH": "we would emerge"
+    },
+    "VOSOTROS": {
+      "SPANISH": "surgiríais",
+      "ENGLISH": "you (plural) would emerge"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría surgido",
+      "ENGLISH": "I would have emerged"
+    },
+    "TU": {
+      "SPANISH": "habrías surgido",
+      "ENGLISH": "you would have emerged"
+    },
+    "EL": {
+      "SPANISH": "habría surgido",
+      "ENGLISH": "s/he would have emerged, you (formal) would have emerged"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían surgido",
+      "ENGLISH": "they would have emerged, you (plural formal) would have emerged"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos surgido",
+      "ENGLISH": "we would have emerged"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais surgido",
+      "ENGLISH": "you (plural) would have emerged"
+    }
+  }
+}

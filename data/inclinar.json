@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "inclino",
+      "ENGLISH": "I incline"
+    },
+    "TU": {
+      "SPANISH": "inclinas",
+      "ENGLISH": "you incline"
+    },
+    "EL": {
+      "SPANISH": "inclina",
+      "ENGLISH": "s/he inclines, you (formal) inclines"
+    },
+    "ELLOS": {
+      "SPANISH": "inclinan",
+      "ENGLISH": "they incline, you (plural formal) incline"
+    },
+    "NOSOTROS": {
+      "SPANISH": "inclinamos",
+      "ENGLISH": "we incline"
+    },
+    "VOSOTROS": {
+      "SPANISH": "inclináis",
+      "ENGLISH": "you (plural) incline"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he inclinado",
+      "ENGLISH": "I have inclined"
+    },
+    "TU": {
+      "SPANISH": "has inclinado",
+      "ENGLISH": "you have inclined"
+    },
+    "EL": {
+      "SPANISH": "ha inclinado",
+      "ENGLISH": "s/he has inclined, you (formal) have inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "han inclinado",
+      "ENGLISH": "they have inclined, you (plural formal) have inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos inclinado",
+      "ENGLISH": "we have inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis inclinado",
+      "ENGLISH": "you (plural) have inclined"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "incliné",
+      "ENGLISH": "I inclined"
+    },
+    "TU": {
+      "SPANISH": "inclinaste",
+      "ENGLISH": "you inclined"
+    },
+    "EL": {
+      "SPANISH": "inclinó",
+      "ENGLISH": "s/he inclined, you (formal) inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "inclinaron",
+      "ENGLISH": "they inclined, you (plural formal) inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "inclinamos",
+      "ENGLISH": "we inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "inclinasteis",
+      "ENGLISH": "you (plural) inclined"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había inclinado",
+      "ENGLISH": "I had inclined"
+    },
+    "TU": {
+      "SPANISH": "habías inclinado",
+      "ENGLISH": "you had inclined"
+    },
+    "EL": {
+      "SPANISH": "había inclinado",
+      "ENGLISH": "s/he had inclined, you (formal) had inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "habían inclinado",
+      "ENGLISH": "they had inclined, you (plural formal) had inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos inclinado",
+      "ENGLISH": "we had inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais inclinado",
+      "ENGLISH": "you (plural) had inclined"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "incliné",
+      "ENGLISH": "I inclined"
+    },
+    "TU": {
+      "SPANISH": "inclinaste",
+      "ENGLISH": "you inclined"
+    },
+    "EL": {
+      "SPANISH": "inclinó",
+      "ENGLISH": "s/he inclined, you (formal) inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "inclinaron",
+      "ENGLISH": "they inclined, you (plural formal) inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "inclinamos",
+      "ENGLISH": "we inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "inclinasteis",
+      "ENGLISH": "you (plural) inclined"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "inclinaré",
+      "ENGLISH": "I will incline"
+    },
+    "TU": {
+      "SPANISH": "inclinarás",
+      "ENGLISH": "you will incline"
+    },
+    "EL": {
+      "SPANISH": "inclinará",
+      "ENGLISH": "s/he will incline, you (formal) will incline"
+    },
+    "ELLOS": {
+      "SPANISH": "inclinarán",
+      "ENGLISH": "they will incline, you (plural formal) will incline"
+    },
+    "NOSOTROS": {
+      "SPANISH": "inclinaremos",
+      "ENGLISH": "we will incline"
+    },
+    "VOSOTROS": {
+      "SPANISH": "inclinaréis",
+      "ENGLISH": "you (plural) will incline"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré inclinado",
+      "ENGLISH": "I will have inclined"
+    },
+    "TU": {
+      "SPANISH": "habrás inclinado",
+      "ENGLISH": "you will have inclined"
+    },
+    "EL": {
+      "SPANISH": "habrá inclinado",
+      "ENGLISH": "s/he will have inclined, you (formal) will have inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán inclinado",
+      "ENGLISH": "they will have inclined, you (plural formal) will have inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos inclinado",
+      "ENGLISH": "we will have inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis inclinado",
+      "ENGLISH": "you (plural) will have inclined"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "inclinaría",
+      "ENGLISH": "I would incline"
+    },
+    "TU": {
+      "SPANISH": "inclinarías",
+      "ENGLISH": "you would incline"
+    },
+    "EL": {
+      "SPANISH": "inclinaría",
+      "ENGLISH": "s/he would incline, you (formal) would incline"
+    },
+    "ELLOS": {
+      "SPANISH": "inclinarían",
+      "ENGLISH": "they would incline, you (plural formal) would incline"
+    },
+    "NOSOTROS": {
+      "SPANISH": "inclinaríamos",
+      "ENGLISH": "we would incline"
+    },
+    "VOSOTROS": {
+      "SPANISH": "inclinaríais",
+      "ENGLISH": "you (plural) would incline"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría inclinado",
+      "ENGLISH": "I would have inclined"
+    },
+    "TU": {
+      "SPANISH": "habrías inclinado",
+      "ENGLISH": "you would have inclined"
+    },
+    "EL": {
+      "SPANISH": "habría inclinado",
+      "ENGLISH": "s/he would have inclined, you (formal) would have inclined"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían inclinado",
+      "ENGLISH": "they would have inclined, you (plural formal) would have inclined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos inclinado",
+      "ENGLISH": "we would have inclined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais inclinado",
+      "ENGLISH": "you (plural) would have inclined"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "determino",
+      "ENGLISH": "I determine"
+    },
+    "TU": {
+      "SPANISH": "determinas",
+      "ENGLISH": "you determine"
+    },
+    "EL": {
+      "SPANISH": "determina",
+      "ENGLISH": "s/he determines, you (formal) determines"
+    },
+    "ELLOS": {
+      "SPANISH": "determinan",
+      "ENGLISH": "they determine, you (plural formal) determine"
+    },
+    "NOSOTROS": {
+      "SPANISH": "determinamos",
+      "ENGLISH": "we determine"
+    },
+    "VOSOTROS": {
+      "SPANISH": "determináis",
+      "ENGLISH": "you (plural) determine"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he determinado",
+      "ENGLISH": "I have determined"
+    },
+    "TU": {
+      "SPANISH": "has determinado",
+      "ENGLISH": "you have determined"
+    },
+    "EL": {
+      "SPANISH": "ha determinado",
+      "ENGLISH": "s/he has determined, you (formal) have determined"
+    },
+    "ELLOS": {
+      "SPANISH": "han determinado",
+      "ENGLISH": "they have determined, you (plural formal) have determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos determinado",
+      "ENGLISH": "we have determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis determinado",
+      "ENGLISH": "you (plural) have determined"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "determiné",
+      "ENGLISH": "I determined"
+    },
+    "TU": {
+      "SPANISH": "determinaste",
+      "ENGLISH": "you determined"
+    },
+    "EL": {
+      "SPANISH": "determinó",
+      "ENGLISH": "s/he determined, you (formal) determined"
+    },
+    "ELLOS": {
+      "SPANISH": "determinaron",
+      "ENGLISH": "they determined, you (plural formal) determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "determinamos",
+      "ENGLISH": "we determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "determinasteis",
+      "ENGLISH": "you (plural) determined"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había determinado",
+      "ENGLISH": "I had determined"
+    },
+    "TU": {
+      "SPANISH": "habías determinado",
+      "ENGLISH": "you had determined"
+    },
+    "EL": {
+      "SPANISH": "había determinado",
+      "ENGLISH": "s/he had determined, you (formal) had determined"
+    },
+    "ELLOS": {
+      "SPANISH": "habían determinado",
+      "ENGLISH": "they had determined, you (plural formal) had determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos determinado",
+      "ENGLISH": "we had determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais determinado",
+      "ENGLISH": "you (plural) had determined"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "determiné",
+      "ENGLISH": "I determined"
+    },
+    "TU": {
+      "SPANISH": "determinaste",
+      "ENGLISH": "you determined"
+    },
+    "EL": {
+      "SPANISH": "determinó",
+      "ENGLISH": "s/he determined, you (formal) determined"
+    },
+    "ELLOS": {
+      "SPANISH": "determinaron",
+      "ENGLISH": "they determined, you (plural formal) determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "determinamos",
+      "ENGLISH": "we determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "determinasteis",
+      "ENGLISH": "you (plural) determined"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "determinaré",
+      "ENGLISH": "I will determine"
+    },
+    "TU": {
+      "SPANISH": "determinarás",
+      "ENGLISH": "you will determine"
+    },
+    "EL": {
+      "SPANISH": "determinará",
+      "ENGLISH": "s/he will determine, you (formal) will determine"
+    },
+    "ELLOS": {
+      "SPANISH": "determinarán",
+      "ENGLISH": "they will determine, you (plural formal) will determine"
+    },
+    "NOSOTROS": {
+      "SPANISH": "determinaremos",
+      "ENGLISH": "we will determine"
+    },
+    "VOSOTROS": {
+      "SPANISH": "determinaréis",
+      "ENGLISH": "you (plural) will determine"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré determinado",
+      "ENGLISH": "I will have determined"
+    },
+    "TU": {
+      "SPANISH": "habrás determinado",
+      "ENGLISH": "you will have determined"
+    },
+    "EL": {
+      "SPANISH": "habrá determinado",
+      "ENGLISH": "s/he will have determined, you (formal) will have determined"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán determinado",
+      "ENGLISH": "they will have determined, you (plural formal) will have determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos determinado",
+      "ENGLISH": "we will have determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis determinado",
+      "ENGLISH": "you (plural) will have determined"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "determinaría",
+      "ENGLISH": "I would determine"
+    },
+    "TU": {
+      "SPANISH": "determinarías",
+      "ENGLISH": "you would determine"
+    },
+    "EL": {
+      "SPANISH": "determinaría",
+      "ENGLISH": "s/he would determine, you (formal) would determine"
+    },
+    "ELLOS": {
+      "SPANISH": "determinarían",
+      "ENGLISH": "they would determine, you (plural formal) would determine"
+    },
+    "NOSOTROS": {
+      "SPANISH": "determinaríamos",
+      "ENGLISH": "we would determine"
+    },
+    "VOSOTROS": {
+      "SPANISH": "determinaríais",
+      "ENGLISH": "you (plural) would determine"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría determinado",
+      "ENGLISH": "I would have determined"
+    },
+    "TU": {
+      "SPANISH": "habrías determinado",
+      "ENGLISH": "you would have determined"
+    },
+    "EL": {
+      "SPANISH": "habría determinado",
+      "ENGLISH": "s/he would have determined, you (formal) would have determined"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían determinado",
+      "ENGLISH": "they would have determined, you (plural formal) would have determined"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos determinado",
+      "ENGLISH": "we would have determined"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais determinado",
+      "ENGLISH": "you (plural) would have determined"
+    }
+  }
+}

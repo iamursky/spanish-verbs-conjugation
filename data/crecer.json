@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "crezco ",
+      "ENGLISH": "I grow up"
+    },
+    "TU": {
+      "SPANISH": "creces",
+      "ENGLISH": "you grow up"
+    },
+    "EL": {
+      "SPANISH": "crece",
+      "ENGLISH": "s/he grows up, you (formal) grows up"
+    },
+    "ELLOS": {
+      "SPANISH": "crecen",
+      "ENGLISH": "they grow up, you (plural formal) grow up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "crecemos",
+      "ENGLISH": "we grow up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "crecéis",
+      "ENGLISH": "you (plural) grow up"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he crecido",
+      "ENGLISH": "I have grown up"
+    },
+    "TU": {
+      "SPANISH": "has crecido",
+      "ENGLISH": "you have grown up"
+    },
+    "EL": {
+      "SPANISH": "ha crecido",
+      "ENGLISH": "s/he has grown up, you (formal) have grown up"
+    },
+    "ELLOS": {
+      "SPANISH": "han crecido",
+      "ENGLISH": "they have grown up, you (plural formal) have grown up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos crecido",
+      "ENGLISH": "we have grown up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis crecido",
+      "ENGLISH": "you (plural) have grown up"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "crecí",
+      "ENGLISH": "I grew up"
+    },
+    "TU": {
+      "SPANISH": "creciste",
+      "ENGLISH": "you grew up"
+    },
+    "EL": {
+      "SPANISH": "creció",
+      "ENGLISH": "s/he grew up, you (formal) grew up"
+    },
+    "ELLOS": {
+      "SPANISH": "crecieron",
+      "ENGLISH": "they grew up, you (plural formal) grew up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "crecimos",
+      "ENGLISH": "we grew up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "crecisteis",
+      "ENGLISH": "you (plural) grew up"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había crecido",
+      "ENGLISH": "I had grown up"
+    },
+    "TU": {
+      "SPANISH": "habías crecido",
+      "ENGLISH": "you had grown up"
+    },
+    "EL": {
+      "SPANISH": "había crecido",
+      "ENGLISH": "s/he had grown up, you (formal) had grown up"
+    },
+    "ELLOS": {
+      "SPANISH": "habían crecido",
+      "ENGLISH": "they had grown up, you (plural formal) had grown up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos crecido",
+      "ENGLISH": "we had grown up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais crecido",
+      "ENGLISH": "you (plural) had grown up"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "crecí",
+      "ENGLISH": "I grew up"
+    },
+    "TU": {
+      "SPANISH": "creciste",
+      "ENGLISH": "you grew up"
+    },
+    "EL": {
+      "SPANISH": "creció",
+      "ENGLISH": "s/he grew up, you (formal) grew up"
+    },
+    "ELLOS": {
+      "SPANISH": "crecieron",
+      "ENGLISH": "they grew up, you (plural formal) grew up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "crecimos",
+      "ENGLISH": "we grew up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "crecisteis",
+      "ENGLISH": "you (plural) grew up"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "creceré",
+      "ENGLISH": "I will grow up"
+    },
+    "TU": {
+      "SPANISH": "crecerás",
+      "ENGLISH": "you will grow up"
+    },
+    "EL": {
+      "SPANISH": "crecerá",
+      "ENGLISH": "s/he will grow up, you (formal) will grow up"
+    },
+    "ELLOS": {
+      "SPANISH": "crecerán",
+      "ENGLISH": "they will grow up, you (plural formal) will grow up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creceremos",
+      "ENGLISH": "we will grow up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creceréis",
+      "ENGLISH": "you (plural) will grow up"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré crecido",
+      "ENGLISH": "I will have grown up"
+    },
+    "TU": {
+      "SPANISH": "habrás crecido",
+      "ENGLISH": "you will have grown up"
+    },
+    "EL": {
+      "SPANISH": "habrá crecido",
+      "ENGLISH": "s/he will have grown up, you (formal) will have grown up"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán crecido",
+      "ENGLISH": "they will have grown up, you (plural formal) will have grown up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos crecido",
+      "ENGLISH": "we will have grown up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis crecido",
+      "ENGLISH": "you (plural) will have grown up"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "crecería",
+      "ENGLISH": "I would grow up"
+    },
+    "TU": {
+      "SPANISH": "crecerías",
+      "ENGLISH": "you would grow up"
+    },
+    "EL": {
+      "SPANISH": "crecería",
+      "ENGLISH": "s/he would grow up, you (formal) would grow up"
+    },
+    "ELLOS": {
+      "SPANISH": "crecerían",
+      "ENGLISH": "they would grow up, you (plural formal) would grow up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "creceríamos",
+      "ENGLISH": "we would grow up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "creceríais",
+      "ENGLISH": "you (plural) would grow up"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría crecido",
+      "ENGLISH": "I would have grown up"
+    },
+    "TU": {
+      "SPANISH": "habrías crecido",
+      "ENGLISH": "you would have grown up"
+    },
+    "EL": {
+      "SPANISH": "habría crecido",
+      "ENGLISH": "s/he would have grown up, you (formal) would have grown up"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían crecido",
+      "ENGLISH": "they would have grown up, you (plural formal) would have grown up"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos crecido",
+      "ENGLISH": "we would have grown up"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais crecido",
+      "ENGLISH": "you (plural) would have grown up"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "comprendo",
+      "ENGLISH": "I comprehend"
+    },
+    "TU": {
+      "SPANISH": "comprendes",
+      "ENGLISH": "you comprehend"
+    },
+    "EL": {
+      "SPANISH": "comprende",
+      "ENGLISH": "s/he comprehends, you (formal) comprehends"
+    },
+    "ELLOS": {
+      "SPANISH": "comprenden",
+      "ENGLISH": "they comprehend, you (plural formal) comprehend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "comprendemos",
+      "ENGLISH": "we comprehend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprendéis",
+      "ENGLISH": "you (plural) comprehend"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he comprendido",
+      "ENGLISH": "I have comprehended"
+    },
+    "TU": {
+      "SPANISH": "has comprendido",
+      "ENGLISH": "you have comprehended"
+    },
+    "EL": {
+      "SPANISH": "ha comprendido",
+      "ENGLISH": "s/he has comprehended, you (formal) have comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "han comprendido",
+      "ENGLISH": "they have comprehended, you (plural formal) have comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos comprendido",
+      "ENGLISH": "we have comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis comprendido",
+      "ENGLISH": "you (plural) have comprehended"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "comprendí",
+      "ENGLISH": "I comprehended"
+    },
+    "TU": {
+      "SPANISH": "comprendiste",
+      "ENGLISH": "you comprehended"
+    },
+    "EL": {
+      "SPANISH": "comprendió",
+      "ENGLISH": "s/he comprehended, you (formal) comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "comprendieron",
+      "ENGLISH": "they comprehended, you (plural formal) comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "comprendimos",
+      "ENGLISH": "we comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprendisteis",
+      "ENGLISH": "you (plural) comprehended"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había comprendido",
+      "ENGLISH": "I had comprehended"
+    },
+    "TU": {
+      "SPANISH": "habías comprendido",
+      "ENGLISH": "you had comprehended"
+    },
+    "EL": {
+      "SPANISH": "había comprendido",
+      "ENGLISH": "s/he had comprehended, you (formal) had comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "habían comprendido",
+      "ENGLISH": "they had comprehended, you (plural formal) had comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos comprendido",
+      "ENGLISH": "we had comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais comprendido",
+      "ENGLISH": "you (plural) had comprehended"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "comprendí",
+      "ENGLISH": "I comprehended"
+    },
+    "TU": {
+      "SPANISH": "comprendiste",
+      "ENGLISH": "you comprehended"
+    },
+    "EL": {
+      "SPANISH": "comprendió",
+      "ENGLISH": "s/he comprehended, you (formal) comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "comprendieron",
+      "ENGLISH": "they comprehended, you (plural formal) comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "comprendimos",
+      "ENGLISH": "we comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprendisteis",
+      "ENGLISH": "you (plural) comprehended"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "comprenderé",
+      "ENGLISH": "I will comprehend"
+    },
+    "TU": {
+      "SPANISH": "comprenderás",
+      "ENGLISH": "you will comprehend"
+    },
+    "EL": {
+      "SPANISH": "comprenderá",
+      "ENGLISH": "s/he will comprehend, you (formal) will comprehend"
+    },
+    "ELLOS": {
+      "SPANISH": "comprenderán",
+      "ENGLISH": "they will comprehend, you (plural formal) will comprehend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "comprenderemos",
+      "ENGLISH": "we will comprehend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprenderéis",
+      "ENGLISH": "you (plural) will comprehend"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré comprendido",
+      "ENGLISH": "I will have comprehended"
+    },
+    "TU": {
+      "SPANISH": "habrás comprendido",
+      "ENGLISH": "you will have comprehended"
+    },
+    "EL": {
+      "SPANISH": "habrá comprendido",
+      "ENGLISH": "s/he will have comprehended, you (formal) will have comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán comprendido",
+      "ENGLISH": "they will have comprehended, you (plural formal) will have comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos comprendido",
+      "ENGLISH": "we will have comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis comprendido",
+      "ENGLISH": "you (plural) will have comprehended"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "comprendería",
+      "ENGLISH": "I would comprehend"
+    },
+    "TU": {
+      "SPANISH": "comprenderías",
+      "ENGLISH": "you would comprehend"
+    },
+    "EL": {
+      "SPANISH": "comprendería",
+      "ENGLISH": "s/he would comprehend, you (formal) would comprehend"
+    },
+    "ELLOS": {
+      "SPANISH": "comprenderían",
+      "ENGLISH": "they would comprehend, you (plural formal) would comprehend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "comprenderíamos",
+      "ENGLISH": "we would comprehend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "comprenderíais",
+      "ENGLISH": "you (plural) would comprehend"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría comprendido",
+      "ENGLISH": "I would have comprehended"
+    },
+    "TU": {
+      "SPANISH": "habrías comprendido",
+      "ENGLISH": "you would have comprehended"
+    },
+    "EL": {
+      "SPANISH": "habría comprendido",
+      "ENGLISH": "s/he would have comprehended, you (formal) would have comprehended"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían comprendido",
+      "ENGLISH": "they would have comprehended, you (plural formal) would have comprehended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos comprendido",
+      "ENGLISH": "we would have comprehended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais comprendido",
+      "ENGLISH": "you (plural) would have comprehended"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "disculpo",
+      "ENGLISH": "I excuse"
+    },
+    "TU": {
+      "SPANISH": "disculpas",
+      "ENGLISH": "you excuse"
+    },
+    "EL": {
+      "SPANISH": "disculpa",
+      "ENGLISH": "s/he excuses, you (formal) excuses"
+    },
+    "ELLOS": {
+      "SPANISH": "disculpan",
+      "ENGLISH": "they excuse, you (plural formal) excuse"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disculpamos",
+      "ENGLISH": "we excuse"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disculpáis",
+      "ENGLISH": "you (plural) excuse"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he disculpado",
+      "ENGLISH": "I have excused"
+    },
+    "TU": {
+      "SPANISH": "has disculpado",
+      "ENGLISH": "you have excused"
+    },
+    "EL": {
+      "SPANISH": "ha disculpado",
+      "ENGLISH": "s/he has excused, you (formal) have excused"
+    },
+    "ELLOS": {
+      "SPANISH": "han disculpado",
+      "ENGLISH": "they have excused, you (plural formal) have excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos disculpado",
+      "ENGLISH": "we have excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis disculpado",
+      "ENGLISH": "you (plural) have excused"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "disculpé",
+      "ENGLISH": "I excused"
+    },
+    "TU": {
+      "SPANISH": "disculpaste",
+      "ENGLISH": "you excused"
+    },
+    "EL": {
+      "SPANISH": "disculpó",
+      "ENGLISH": "s/he excused, you (formal) excused"
+    },
+    "ELLOS": {
+      "SPANISH": "disculparon",
+      "ENGLISH": "they excused, you (plural formal) excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disculpamos",
+      "ENGLISH": "we excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disculpasteis",
+      "ENGLISH": "you (plural) excused"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había disculpado",
+      "ENGLISH": "I had excused"
+    },
+    "TU": {
+      "SPANISH": "habías disculpado",
+      "ENGLISH": "you had excused"
+    },
+    "EL": {
+      "SPANISH": "había disculpado",
+      "ENGLISH": "s/he had excused, you (formal) had excused"
+    },
+    "ELLOS": {
+      "SPANISH": "habían disculpado",
+      "ENGLISH": "they had excused, you (plural formal) had excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos disculpado",
+      "ENGLISH": "we had excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais disculpado",
+      "ENGLISH": "you (plural) had excused"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "disculpé",
+      "ENGLISH": "I excused"
+    },
+    "TU": {
+      "SPANISH": "disculpaste",
+      "ENGLISH": "you excused"
+    },
+    "EL": {
+      "SPANISH": "disculpó",
+      "ENGLISH": "s/he excused, you (formal) excused"
+    },
+    "ELLOS": {
+      "SPANISH": "disculparon",
+      "ENGLISH": "they excused, you (plural formal) excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disculpamos",
+      "ENGLISH": "we excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disculpasteis",
+      "ENGLISH": "you (plural) excused"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "disculparé",
+      "ENGLISH": "I will excuse"
+    },
+    "TU": {
+      "SPANISH": "disculparás",
+      "ENGLISH": "you will excuse"
+    },
+    "EL": {
+      "SPANISH": "disculpará",
+      "ENGLISH": "s/he will excuse, you (formal) will excuse"
+    },
+    "ELLOS": {
+      "SPANISH": "disculparán",
+      "ENGLISH": "they will excuse, you (plural formal) will excuse"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disculparemos",
+      "ENGLISH": "we will excuse"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disculparéis",
+      "ENGLISH": "you (plural) will excuse"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré disculpado",
+      "ENGLISH": "I will have excused"
+    },
+    "TU": {
+      "SPANISH": "habrás disculpado",
+      "ENGLISH": "you will have excused"
+    },
+    "EL": {
+      "SPANISH": "habrá disculpado",
+      "ENGLISH": "s/he will have excused, you (formal) will have excused"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán disculpado",
+      "ENGLISH": "they will have excused, you (plural formal) will have excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos disculpado",
+      "ENGLISH": "we will have excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis disculpado",
+      "ENGLISH": "you (plural) will have excused"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "disculparía",
+      "ENGLISH": "I would excuse"
+    },
+    "TU": {
+      "SPANISH": "disculparías",
+      "ENGLISH": "you would excuse"
+    },
+    "EL": {
+      "SPANISH": "disculparía",
+      "ENGLISH": "s/he would excuse, you (formal) would excuse"
+    },
+    "ELLOS": {
+      "SPANISH": "disculparían",
+      "ENGLISH": "they would excuse, you (plural formal) would excuse"
+    },
+    "NOSOTROS": {
+      "SPANISH": "disculparíamos",
+      "ENGLISH": "we would excuse"
+    },
+    "VOSOTROS": {
+      "SPANISH": "disculparíais",
+      "ENGLISH": "you (plural) would excuse"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría disculpado",
+      "ENGLISH": "I would have excused"
+    },
+    "TU": {
+      "SPANISH": "habrías disculpado",
+      "ENGLISH": "you would have excused"
+    },
+    "EL": {
+      "SPANISH": "habría disculpado",
+      "ENGLISH": "s/he would have excused, you (formal) would have excused"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían disculpado",
+      "ENGLISH": "they would have excused, you (plural formal) would have excused"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos disculpado",
+      "ENGLISH": "we would have excused"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais disculpado",
+      "ENGLISH": "you (plural) would have excused"
+    }
+  }
+}

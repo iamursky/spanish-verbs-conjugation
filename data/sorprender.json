@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sorprendo",
+      "ENGLISH": "I surprise"
+    },
+    "TU": {
+      "SPANISH": "sorprendes",
+      "ENGLISH": "you surprise"
+    },
+    "EL": {
+      "SPANISH": "sorprende",
+      "ENGLISH": "s/he surprises, you (formal) surprises"
+    },
+    "ELLOS": {
+      "SPANISH": "sorprenden",
+      "ENGLISH": "they surprise, you (plural formal) surprise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sorprendemos",
+      "ENGLISH": "we surprise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sorprendéis",
+      "ENGLISH": "you (plural) surprise"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sorprendido",
+      "ENGLISH": "I have surprised"
+    },
+    "TU": {
+      "SPANISH": "has sorprendido",
+      "ENGLISH": "you have surprised"
+    },
+    "EL": {
+      "SPANISH": "ha sorprendido",
+      "ENGLISH": "s/he has surprised, you (formal) have surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "han sorprendido",
+      "ENGLISH": "they have surprised, you (plural formal) have surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sorprendido",
+      "ENGLISH": "we have surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sorprendido",
+      "ENGLISH": "you (plural) have surprised"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sorprendí",
+      "ENGLISH": "I surprised"
+    },
+    "TU": {
+      "SPANISH": "sorprendiste",
+      "ENGLISH": "you surprised"
+    },
+    "EL": {
+      "SPANISH": "sorprendió",
+      "ENGLISH": "s/he surprised, you (formal) surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "sorprendieron",
+      "ENGLISH": "they surprised, you (plural formal) surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sorprendimos",
+      "ENGLISH": "we surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sorprendisteis",
+      "ENGLISH": "you (plural) surprised"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sorprendido",
+      "ENGLISH": "I had surprised"
+    },
+    "TU": {
+      "SPANISH": "habías sorprendido",
+      "ENGLISH": "you had surprised"
+    },
+    "EL": {
+      "SPANISH": "había sorprendido",
+      "ENGLISH": "s/he had surprised, you (formal) had surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sorprendido",
+      "ENGLISH": "they had surprised, you (plural formal) had surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sorprendido",
+      "ENGLISH": "we had surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sorprendido",
+      "ENGLISH": "you (plural) had surprised"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sorprendí",
+      "ENGLISH": "I surprised"
+    },
+    "TU": {
+      "SPANISH": "sorprendiste",
+      "ENGLISH": "you surprised"
+    },
+    "EL": {
+      "SPANISH": "sorprendió",
+      "ENGLISH": "s/he surprised, you (formal) surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "sorprendieron",
+      "ENGLISH": "they surprised, you (plural formal) surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sorprendimos",
+      "ENGLISH": "we surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sorprendisteis",
+      "ENGLISH": "you (plural) surprised"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sorprenderé",
+      "ENGLISH": "I will surprise"
+    },
+    "TU": {
+      "SPANISH": "sorprenderás",
+      "ENGLISH": "you will surprise"
+    },
+    "EL": {
+      "SPANISH": "sorprenderá",
+      "ENGLISH": "s/he will surprise, you (formal) will surprise"
+    },
+    "ELLOS": {
+      "SPANISH": "sorprenderán",
+      "ENGLISH": "they will surprise, you (plural formal) will surprise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sorprenderemos",
+      "ENGLISH": "we will surprise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sorprenderéis",
+      "ENGLISH": "you (plural) will surprise"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sorprendido",
+      "ENGLISH": "I will have surprised"
+    },
+    "TU": {
+      "SPANISH": "habrás sorprendido",
+      "ENGLISH": "you will have surprised"
+    },
+    "EL": {
+      "SPANISH": "habrá sorprendido",
+      "ENGLISH": "s/he will have surprised, you (formal) will have surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sorprendido",
+      "ENGLISH": "they will have surprised, you (plural formal) will have surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sorprendido",
+      "ENGLISH": "we will have surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sorprendido",
+      "ENGLISH": "you (plural) will have surprised"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sorprendería",
+      "ENGLISH": "I would surprise"
+    },
+    "TU": {
+      "SPANISH": "sorprenderías",
+      "ENGLISH": "you would surprise"
+    },
+    "EL": {
+      "SPANISH": "sorprendería",
+      "ENGLISH": "s/he would surprise, you (formal) would surprise"
+    },
+    "ELLOS": {
+      "SPANISH": "sorprenderían",
+      "ENGLISH": "they would surprise, you (plural formal) would surprise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sorprenderíamos",
+      "ENGLISH": "we would surprise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sorprenderíais",
+      "ENGLISH": "you (plural) would surprise"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sorprendido",
+      "ENGLISH": "I would have surprised"
+    },
+    "TU": {
+      "SPANISH": "habrías sorprendido",
+      "ENGLISH": "you would have surprised"
+    },
+    "EL": {
+      "SPANISH": "habría sorprendido",
+      "ENGLISH": "s/he would have surprised, you (formal) would have surprised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sorprendido",
+      "ENGLISH": "they would have surprised, you (plural formal) would have surprised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sorprendido",
+      "ENGLISH": "we would have surprised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sorprendido",
+      "ENGLISH": "you (plural) would have surprised"
+    }
+  }
+}

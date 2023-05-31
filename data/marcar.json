@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "marco",
+      "ENGLISH": "I mark"
+    },
+    "TU": {
+      "SPANISH": "marcas",
+      "ENGLISH": "you mark"
+    },
+    "EL": {
+      "SPANISH": "marca",
+      "ENGLISH": "s/he marks, you (formal) marks"
+    },
+    "ELLOS": {
+      "SPANISH": "marcan",
+      "ENGLISH": "they mark, you (plural formal) mark"
+    },
+    "NOSOTROS": {
+      "SPANISH": "marcamos",
+      "ENGLISH": "we mark"
+    },
+    "VOSOTROS": {
+      "SPANISH": "marcáis",
+      "ENGLISH": "you (plural) mark"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he marcado",
+      "ENGLISH": "I have marked"
+    },
+    "TU": {
+      "SPANISH": "has marcado",
+      "ENGLISH": "you have marked"
+    },
+    "EL": {
+      "SPANISH": "ha marcado",
+      "ENGLISH": "s/he has marked, you (formal) have marked"
+    },
+    "ELLOS": {
+      "SPANISH": "han marcado",
+      "ENGLISH": "they have marked, you (plural formal) have marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos marcado",
+      "ENGLISH": "we have marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis marcado",
+      "ENGLISH": "you (plural) have marked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "marqué ",
+      "ENGLISH": "I marked"
+    },
+    "TU": {
+      "SPANISH": "marcaste",
+      "ENGLISH": "you marked"
+    },
+    "EL": {
+      "SPANISH": "marcó",
+      "ENGLISH": "s/he marked, you (formal) marked"
+    },
+    "ELLOS": {
+      "SPANISH": "marcaron",
+      "ENGLISH": "they marked, you (plural formal) marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "marcamos",
+      "ENGLISH": "we marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "marcasteis",
+      "ENGLISH": "you (plural) marked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había marcado",
+      "ENGLISH": "I had marked"
+    },
+    "TU": {
+      "SPANISH": "habías marcado",
+      "ENGLISH": "you had marked"
+    },
+    "EL": {
+      "SPANISH": "había marcado",
+      "ENGLISH": "s/he had marked, you (formal) had marked"
+    },
+    "ELLOS": {
+      "SPANISH": "habían marcado",
+      "ENGLISH": "they had marked, you (plural formal) had marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos marcado",
+      "ENGLISH": "we had marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais marcado",
+      "ENGLISH": "you (plural) had marked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "marqué ",
+      "ENGLISH": "I marked"
+    },
+    "TU": {
+      "SPANISH": "marcaste",
+      "ENGLISH": "you marked"
+    },
+    "EL": {
+      "SPANISH": "marcó",
+      "ENGLISH": "s/he marked, you (formal) marked"
+    },
+    "ELLOS": {
+      "SPANISH": "marcaron",
+      "ENGLISH": "they marked, you (plural formal) marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "marcamos",
+      "ENGLISH": "we marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "marcasteis",
+      "ENGLISH": "you (plural) marked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "marcaré",
+      "ENGLISH": "I will mark"
+    },
+    "TU": {
+      "SPANISH": "marcarás",
+      "ENGLISH": "you will mark"
+    },
+    "EL": {
+      "SPANISH": "marcará",
+      "ENGLISH": "s/he will mark, you (formal) will mark"
+    },
+    "ELLOS": {
+      "SPANISH": "marcarán",
+      "ENGLISH": "they will mark, you (plural formal) will mark"
+    },
+    "NOSOTROS": {
+      "SPANISH": "marcaremos",
+      "ENGLISH": "we will mark"
+    },
+    "VOSOTROS": {
+      "SPANISH": "marcaréis",
+      "ENGLISH": "you (plural) will mark"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré marcado",
+      "ENGLISH": "I will have marked"
+    },
+    "TU": {
+      "SPANISH": "habrás marcado",
+      "ENGLISH": "you will have marked"
+    },
+    "EL": {
+      "SPANISH": "habrá marcado",
+      "ENGLISH": "s/he will have marked, you (formal) will have marked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán marcado",
+      "ENGLISH": "they will have marked, you (plural formal) will have marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos marcado",
+      "ENGLISH": "we will have marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis marcado",
+      "ENGLISH": "you (plural) will have marked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "marcaría",
+      "ENGLISH": "I would mark"
+    },
+    "TU": {
+      "SPANISH": "marcarías",
+      "ENGLISH": "you would mark"
+    },
+    "EL": {
+      "SPANISH": "marcaría",
+      "ENGLISH": "s/he would mark, you (formal) would mark"
+    },
+    "ELLOS": {
+      "SPANISH": "marcarían",
+      "ENGLISH": "they would mark, you (plural formal) would mark"
+    },
+    "NOSOTROS": {
+      "SPANISH": "marcaríamos",
+      "ENGLISH": "we would mark"
+    },
+    "VOSOTROS": {
+      "SPANISH": "marcaríais",
+      "ENGLISH": "you (plural) would mark"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría marcado",
+      "ENGLISH": "I would have marked"
+    },
+    "TU": {
+      "SPANISH": "habrías marcado",
+      "ENGLISH": "you would have marked"
+    },
+    "EL": {
+      "SPANISH": "habría marcado",
+      "ENGLISH": "s/he would have marked, you (formal) would have marked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían marcado",
+      "ENGLISH": "they would have marked, you (plural formal) would have marked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos marcado",
+      "ENGLISH": "we would have marked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais marcado",
+      "ENGLISH": "you (plural) would have marked"
+    }
+  }
+}

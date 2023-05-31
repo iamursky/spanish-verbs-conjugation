@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "manejo",
+      "ENGLISH": "I drive"
+    },
+    "TU": {
+      "SPANISH": "manejas",
+      "ENGLISH": "you drive"
+    },
+    "EL": {
+      "SPANISH": "maneja",
+      "ENGLISH": "s/he drives, you (formal) drives"
+    },
+    "ELLOS": {
+      "SPANISH": "manejan",
+      "ENGLISH": "they drive, you (plural formal) drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manejamos",
+      "ENGLISH": "we drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manejáis",
+      "ENGLISH": "you (plural) drive"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he manejado",
+      "ENGLISH": "I have driven"
+    },
+    "TU": {
+      "SPANISH": "has manejado",
+      "ENGLISH": "you have driven"
+    },
+    "EL": {
+      "SPANISH": "ha manejado",
+      "ENGLISH": "s/he has driven, you (formal) have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "han manejado",
+      "ENGLISH": "they have driven, you (plural formal) have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos manejado",
+      "ENGLISH": "we have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis manejado",
+      "ENGLISH": "you (plural) have driven"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "manejé",
+      "ENGLISH": "I drove"
+    },
+    "TU": {
+      "SPANISH": "manejaste",
+      "ENGLISH": "you drove"
+    },
+    "EL": {
+      "SPANISH": "manejó",
+      "ENGLISH": "s/he drove, you (formal) drove"
+    },
+    "ELLOS": {
+      "SPANISH": "manejaron",
+      "ENGLISH": "they drove, you (plural formal) drove"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manejamos",
+      "ENGLISH": "we drove"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manejasteis",
+      "ENGLISH": "you (plural) drove"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había manejado",
+      "ENGLISH": "I had driven"
+    },
+    "TU": {
+      "SPANISH": "habías manejado",
+      "ENGLISH": "you had driven"
+    },
+    "EL": {
+      "SPANISH": "había manejado",
+      "ENGLISH": "s/he had driven, you (formal) had driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habían manejado",
+      "ENGLISH": "they had driven, you (plural formal) had driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos manejado",
+      "ENGLISH": "we had driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais manejado",
+      "ENGLISH": "you (plural) had driven"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "manejé",
+      "ENGLISH": "I drove"
+    },
+    "TU": {
+      "SPANISH": "manejaste",
+      "ENGLISH": "you drove"
+    },
+    "EL": {
+      "SPANISH": "manejó",
+      "ENGLISH": "s/he drove, you (formal) drove"
+    },
+    "ELLOS": {
+      "SPANISH": "manejaron",
+      "ENGLISH": "they drove, you (plural formal) drove"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manejamos",
+      "ENGLISH": "we drove"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manejasteis",
+      "ENGLISH": "you (plural) drove"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "manejaré",
+      "ENGLISH": "I will drive"
+    },
+    "TU": {
+      "SPANISH": "manejarás",
+      "ENGLISH": "you will drive"
+    },
+    "EL": {
+      "SPANISH": "manejará",
+      "ENGLISH": "s/he will drive, you (formal) will drive"
+    },
+    "ELLOS": {
+      "SPANISH": "manejarán",
+      "ENGLISH": "they will drive, you (plural formal) will drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manejaremos",
+      "ENGLISH": "we will drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manejaréis",
+      "ENGLISH": "you (plural) will drive"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré manejado",
+      "ENGLISH": "I will have driven"
+    },
+    "TU": {
+      "SPANISH": "habrás manejado",
+      "ENGLISH": "you will have driven"
+    },
+    "EL": {
+      "SPANISH": "habrá manejado",
+      "ENGLISH": "s/he will have driven, you (formal) will have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán manejado",
+      "ENGLISH": "they will have driven, you (plural formal) will have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos manejado",
+      "ENGLISH": "we will have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis manejado",
+      "ENGLISH": "you (plural) will have driven"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "manejaría",
+      "ENGLISH": "I would drive"
+    },
+    "TU": {
+      "SPANISH": "manejarías",
+      "ENGLISH": "you would drive"
+    },
+    "EL": {
+      "SPANISH": "manejaría",
+      "ENGLISH": "s/he would drive, you (formal) would drive"
+    },
+    "ELLOS": {
+      "SPANISH": "manejarían",
+      "ENGLISH": "they would drive, you (plural formal) would drive"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manejaríamos",
+      "ENGLISH": "we would drive"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manejaríais",
+      "ENGLISH": "you (plural) would drive"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría manejado",
+      "ENGLISH": "I would have driven"
+    },
+    "TU": {
+      "SPANISH": "habrías manejado",
+      "ENGLISH": "you would have driven"
+    },
+    "EL": {
+      "SPANISH": "habría manejado",
+      "ENGLISH": "s/he would have driven, you (formal) would have driven"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían manejado",
+      "ENGLISH": "they would have driven, you (plural formal) would have driven"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos manejado",
+      "ENGLISH": "we would have driven"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais manejado",
+      "ENGLISH": "you (plural) would have driven"
+    }
+  }
+}

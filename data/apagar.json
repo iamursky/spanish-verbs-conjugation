@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "apago",
+      "ENGLISH": "I turn off"
+    },
+    "TU": {
+      "SPANISH": "apagas",
+      "ENGLISH": "you turn off"
+    },
+    "EL": {
+      "SPANISH": "apaga",
+      "ENGLISH": "s/he turns off, you (formal) turns off"
+    },
+    "ELLOS": {
+      "SPANISH": "apagan",
+      "ENGLISH": "they turn off, you (plural formal) turn off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "apagamos",
+      "ENGLISH": "we turn off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "apagáis",
+      "ENGLISH": "you (plural) turn off"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he apagado",
+      "ENGLISH": "I have turned off"
+    },
+    "TU": {
+      "SPANISH": "has apagado",
+      "ENGLISH": "you have turned off"
+    },
+    "EL": {
+      "SPANISH": "ha apagado",
+      "ENGLISH": "s/he has turned off, you (formal) have turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "han apagado",
+      "ENGLISH": "they have turned off, you (plural formal) have turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos apagado",
+      "ENGLISH": "we have turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis apagado",
+      "ENGLISH": "you (plural) have turned off"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "apagué ",
+      "ENGLISH": "I turned off"
+    },
+    "TU": {
+      "SPANISH": "apagaste",
+      "ENGLISH": "you turned off"
+    },
+    "EL": {
+      "SPANISH": "apagó",
+      "ENGLISH": "s/he turned off, you (formal) turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "apagaron",
+      "ENGLISH": "they turned off, you (plural formal) turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "apagamos",
+      "ENGLISH": "we turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "apagasteis",
+      "ENGLISH": "you (plural) turned off"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había apagado",
+      "ENGLISH": "I had turned off"
+    },
+    "TU": {
+      "SPANISH": "habías apagado",
+      "ENGLISH": "you had turned off"
+    },
+    "EL": {
+      "SPANISH": "había apagado",
+      "ENGLISH": "s/he had turned off, you (formal) had turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "habían apagado",
+      "ENGLISH": "they had turned off, you (plural formal) had turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos apagado",
+      "ENGLISH": "we had turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais apagado",
+      "ENGLISH": "you (plural) had turned off"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "apagué ",
+      "ENGLISH": "I turned off"
+    },
+    "TU": {
+      "SPANISH": "apagaste",
+      "ENGLISH": "you turned off"
+    },
+    "EL": {
+      "SPANISH": "apagó",
+      "ENGLISH": "s/he turned off, you (formal) turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "apagaron",
+      "ENGLISH": "they turned off, you (plural formal) turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "apagamos",
+      "ENGLISH": "we turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "apagasteis",
+      "ENGLISH": "you (plural) turned off"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "apagaré",
+      "ENGLISH": "I will turn off"
+    },
+    "TU": {
+      "SPANISH": "apagarás",
+      "ENGLISH": "you will turn off"
+    },
+    "EL": {
+      "SPANISH": "apagará",
+      "ENGLISH": "s/he will turn off, you (formal) will turn off"
+    },
+    "ELLOS": {
+      "SPANISH": "apagarán",
+      "ENGLISH": "they will turn off, you (plural formal) will turn off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "apagaremos",
+      "ENGLISH": "we will turn off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "apagaréis",
+      "ENGLISH": "you (plural) will turn off"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré apagado",
+      "ENGLISH": "I will have turned off"
+    },
+    "TU": {
+      "SPANISH": "habrás apagado",
+      "ENGLISH": "you will have turned off"
+    },
+    "EL": {
+      "SPANISH": "habrá apagado",
+      "ENGLISH": "s/he will have turned off, you (formal) will have turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán apagado",
+      "ENGLISH": "they will have turned off, you (plural formal) will have turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos apagado",
+      "ENGLISH": "we will have turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis apagado",
+      "ENGLISH": "you (plural) will have turned off"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "apagaría",
+      "ENGLISH": "I would turn off"
+    },
+    "TU": {
+      "SPANISH": "apagarías",
+      "ENGLISH": "you would turn off"
+    },
+    "EL": {
+      "SPANISH": "apagaría",
+      "ENGLISH": "s/he would turn off, you (formal) would turn off"
+    },
+    "ELLOS": {
+      "SPANISH": "apagarían",
+      "ENGLISH": "they would turn off, you (plural formal) would turn off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "apagaríamos",
+      "ENGLISH": "we would turn off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "apagaríais",
+      "ENGLISH": "you (plural) would turn off"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría apagado",
+      "ENGLISH": "I would have turned off"
+    },
+    "TU": {
+      "SPANISH": "habrías apagado",
+      "ENGLISH": "you would have turned off"
+    },
+    "EL": {
+      "SPANISH": "habría apagado",
+      "ENGLISH": "s/he would have turned off, you (formal) would have turned off"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían apagado",
+      "ENGLISH": "they would have turned off, you (plural formal) would have turned off"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos apagado",
+      "ENGLISH": "we would have turned off"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais apagado",
+      "ENGLISH": "you (plural) would have turned off"
+    }
+  }
+}

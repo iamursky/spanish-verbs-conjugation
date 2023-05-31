@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "oculto",
+      "ENGLISH": "I hide"
+    },
+    "TU": {
+      "SPANISH": "ocultas",
+      "ENGLISH": "you hide"
+    },
+    "EL": {
+      "SPANISH": "oculta",
+      "ENGLISH": "s/he hides, you (formal) hides"
+    },
+    "ELLOS": {
+      "SPANISH": "ocultan",
+      "ENGLISH": "they hide, you (plural formal) hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocultamos",
+      "ENGLISH": "we hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocultáis",
+      "ENGLISH": "you (plural) hide"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he ocultado",
+      "ENGLISH": "I have hidden"
+    },
+    "TU": {
+      "SPANISH": "has ocultado",
+      "ENGLISH": "you have hidden"
+    },
+    "EL": {
+      "SPANISH": "ha ocultado",
+      "ENGLISH": "s/he has hidden, you (formal) have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "han ocultado",
+      "ENGLISH": "they have hidden, you (plural formal) have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos ocultado",
+      "ENGLISH": "we have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis ocultado",
+      "ENGLISH": "you (plural) have hidden"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "oculté",
+      "ENGLISH": "I hid"
+    },
+    "TU": {
+      "SPANISH": "ocultaste",
+      "ENGLISH": "you hid"
+    },
+    "EL": {
+      "SPANISH": "ocultó",
+      "ENGLISH": "s/he hid, you (formal) hid"
+    },
+    "ELLOS": {
+      "SPANISH": "ocultaron",
+      "ENGLISH": "they hid, you (plural formal) hid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocultamos",
+      "ENGLISH": "we hid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocultasteis",
+      "ENGLISH": "you (plural) hid"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había ocultado",
+      "ENGLISH": "I had hidden"
+    },
+    "TU": {
+      "SPANISH": "habías ocultado",
+      "ENGLISH": "you had hidden"
+    },
+    "EL": {
+      "SPANISH": "había ocultado",
+      "ENGLISH": "s/he had hidden, you (formal) had hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habían ocultado",
+      "ENGLISH": "they had hidden, you (plural formal) had hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos ocultado",
+      "ENGLISH": "we had hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais ocultado",
+      "ENGLISH": "you (plural) had hidden"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "oculté",
+      "ENGLISH": "I hid"
+    },
+    "TU": {
+      "SPANISH": "ocultaste",
+      "ENGLISH": "you hid"
+    },
+    "EL": {
+      "SPANISH": "ocultó",
+      "ENGLISH": "s/he hid, you (formal) hid"
+    },
+    "ELLOS": {
+      "SPANISH": "ocultaron",
+      "ENGLISH": "they hid, you (plural formal) hid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocultamos",
+      "ENGLISH": "we hid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocultasteis",
+      "ENGLISH": "you (plural) hid"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "ocultaré",
+      "ENGLISH": "I will hide"
+    },
+    "TU": {
+      "SPANISH": "ocultarás",
+      "ENGLISH": "you will hide"
+    },
+    "EL": {
+      "SPANISH": "ocultará",
+      "ENGLISH": "s/he will hide, you (formal) will hide"
+    },
+    "ELLOS": {
+      "SPANISH": "ocultarán",
+      "ENGLISH": "they will hide, you (plural formal) will hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocultaremos",
+      "ENGLISH": "we will hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocultaréis",
+      "ENGLISH": "you (plural) will hide"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré ocultado",
+      "ENGLISH": "I will have hidden"
+    },
+    "TU": {
+      "SPANISH": "habrás ocultado",
+      "ENGLISH": "you will have hidden"
+    },
+    "EL": {
+      "SPANISH": "habrá ocultado",
+      "ENGLISH": "s/he will have hidden, you (formal) will have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán ocultado",
+      "ENGLISH": "they will have hidden, you (plural formal) will have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos ocultado",
+      "ENGLISH": "we will have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis ocultado",
+      "ENGLISH": "you (plural) will have hidden"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "ocultaría",
+      "ENGLISH": "I would hide"
+    },
+    "TU": {
+      "SPANISH": "ocultarías",
+      "ENGLISH": "you would hide"
+    },
+    "EL": {
+      "SPANISH": "ocultaría",
+      "ENGLISH": "s/he would hide, you (formal) would hide"
+    },
+    "ELLOS": {
+      "SPANISH": "ocultarían",
+      "ENGLISH": "they would hide, you (plural formal) would hide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "ocultaríamos",
+      "ENGLISH": "we would hide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "ocultaríais",
+      "ENGLISH": "you (plural) would hide"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría ocultado",
+      "ENGLISH": "I would have hidden"
+    },
+    "TU": {
+      "SPANISH": "habrías ocultado",
+      "ENGLISH": "you would have hidden"
+    },
+    "EL": {
+      "SPANISH": "habría ocultado",
+      "ENGLISH": "s/he would have hidden, you (formal) would have hidden"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían ocultado",
+      "ENGLISH": "they would have hidden, you (plural formal) would have hidden"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos ocultado",
+      "ENGLISH": "we would have hidden"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais ocultado",
+      "ENGLISH": "you (plural) would have hidden"
+    }
+  }
+}

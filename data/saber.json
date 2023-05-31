@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sé ",
+      "ENGLISH": "I know"
+    },
+    "TU": {
+      "SPANISH": "sabes",
+      "ENGLISH": "you know"
+    },
+    "EL": {
+      "SPANISH": "sabe",
+      "ENGLISH": "s/he knows, you (formal) knows"
+    },
+    "ELLOS": {
+      "SPANISH": "saben",
+      "ENGLISH": "they know, you (plural formal) know"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sabemos",
+      "ENGLISH": "we know"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sabéis",
+      "ENGLISH": "you (plural) know"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sabido",
+      "ENGLISH": "I have known"
+    },
+    "TU": {
+      "SPANISH": "has sabido",
+      "ENGLISH": "you have known"
+    },
+    "EL": {
+      "SPANISH": "ha sabido",
+      "ENGLISH": "s/he has known, you (formal) have known"
+    },
+    "ELLOS": {
+      "SPANISH": "han sabido",
+      "ENGLISH": "they have known, you (plural formal) have known"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sabido",
+      "ENGLISH": "we have known"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sabido",
+      "ENGLISH": "you (plural) have known"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "supe ",
+      "ENGLISH": "I knew"
+    },
+    "TU": {
+      "SPANISH": "supiste ",
+      "ENGLISH": "you knew"
+    },
+    "EL": {
+      "SPANISH": "supo ",
+      "ENGLISH": "s/he knew, you (formal) knew"
+    },
+    "ELLOS": {
+      "SPANISH": "supieron ",
+      "ENGLISH": "they knew, you (plural formal) knew"
+    },
+    "NOSOTROS": {
+      "SPANISH": "supimos ",
+      "ENGLISH": "we knew"
+    },
+    "VOSOTROS": {
+      "SPANISH": "supisteis ",
+      "ENGLISH": "you (plural) knew"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sabido",
+      "ENGLISH": "I had known"
+    },
+    "TU": {
+      "SPANISH": "habías sabido",
+      "ENGLISH": "you had known"
+    },
+    "EL": {
+      "SPANISH": "había sabido",
+      "ENGLISH": "s/he had known, you (formal) had known"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sabido",
+      "ENGLISH": "they had known, you (plural formal) had known"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sabido",
+      "ENGLISH": "we had known"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sabido",
+      "ENGLISH": "you (plural) had known"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "supe ",
+      "ENGLISH": "I knew"
+    },
+    "TU": {
+      "SPANISH": "supiste ",
+      "ENGLISH": "you knew"
+    },
+    "EL": {
+      "SPANISH": "supo ",
+      "ENGLISH": "s/he knew, you (formal) knew"
+    },
+    "ELLOS": {
+      "SPANISH": "supieron ",
+      "ENGLISH": "they knew, you (plural formal) knew"
+    },
+    "NOSOTROS": {
+      "SPANISH": "supimos ",
+      "ENGLISH": "we knew"
+    },
+    "VOSOTROS": {
+      "SPANISH": "supisteis ",
+      "ENGLISH": "you (plural) knew"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sabré ",
+      "ENGLISH": "I will know"
+    },
+    "TU": {
+      "SPANISH": "sabrás ",
+      "ENGLISH": "you will know"
+    },
+    "EL": {
+      "SPANISH": "sabrá ",
+      "ENGLISH": "s/he will know, you (formal) will know"
+    },
+    "ELLOS": {
+      "SPANISH": "sabrán ",
+      "ENGLISH": "they will know, you (plural formal) will know"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sabremos ",
+      "ENGLISH": "we will know"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sabréis ",
+      "ENGLISH": "you (plural) will know"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sabido",
+      "ENGLISH": "I will have known"
+    },
+    "TU": {
+      "SPANISH": "habrás sabido",
+      "ENGLISH": "you will have known"
+    },
+    "EL": {
+      "SPANISH": "habrá sabido",
+      "ENGLISH": "s/he will have known, you (formal) will have known"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sabido",
+      "ENGLISH": "they will have known, you (plural formal) will have known"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sabido",
+      "ENGLISH": "we will have known"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sabido",
+      "ENGLISH": "you (plural) will have known"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sabría ",
+      "ENGLISH": "I would know"
+    },
+    "TU": {
+      "SPANISH": "sabrías ",
+      "ENGLISH": "you would know"
+    },
+    "EL": {
+      "SPANISH": "sabría ",
+      "ENGLISH": "s/he would know, you (formal) would know"
+    },
+    "ELLOS": {
+      "SPANISH": "sabrían ",
+      "ENGLISH": "they would know, you (plural formal) would know"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sabríamos ",
+      "ENGLISH": "we would know"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sabríais ",
+      "ENGLISH": "you (plural) would know"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sabido",
+      "ENGLISH": "I would have known"
+    },
+    "TU": {
+      "SPANISH": "habrías sabido",
+      "ENGLISH": "you would have known"
+    },
+    "EL": {
+      "SPANISH": "habría sabido",
+      "ENGLISH": "s/he would have known, you (formal) would have known"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sabido",
+      "ENGLISH": "they would have known, you (plural formal) would have known"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sabido",
+      "ENGLISH": "we would have known"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sabido",
+      "ENGLISH": "you (plural) would have known"
+    }
+  }
+}

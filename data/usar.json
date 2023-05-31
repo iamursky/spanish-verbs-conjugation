@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "uso",
+      "ENGLISH": "I use"
+    },
+    "TU": {
+      "SPANISH": "usas",
+      "ENGLISH": "you use"
+    },
+    "EL": {
+      "SPANISH": "usa",
+      "ENGLISH": "s/he uses, you (formal) uses"
+    },
+    "ELLOS": {
+      "SPANISH": "usan",
+      "ENGLISH": "they use, you (plural formal) use"
+    },
+    "NOSOTROS": {
+      "SPANISH": "usamos",
+      "ENGLISH": "we use"
+    },
+    "VOSOTROS": {
+      "SPANISH": "usáis",
+      "ENGLISH": "you (plural) use"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he usado",
+      "ENGLISH": "I have used"
+    },
+    "TU": {
+      "SPANISH": "has usado",
+      "ENGLISH": "you have used"
+    },
+    "EL": {
+      "SPANISH": "ha usado",
+      "ENGLISH": "s/he has used, you (formal) have used"
+    },
+    "ELLOS": {
+      "SPANISH": "han usado",
+      "ENGLISH": "they have used, you (plural formal) have used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos usado",
+      "ENGLISH": "we have used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis usado",
+      "ENGLISH": "you (plural) have used"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "usé",
+      "ENGLISH": "I used"
+    },
+    "TU": {
+      "SPANISH": "usaste",
+      "ENGLISH": "you used"
+    },
+    "EL": {
+      "SPANISH": "usó",
+      "ENGLISH": "s/he used, you (formal) used"
+    },
+    "ELLOS": {
+      "SPANISH": "usaron",
+      "ENGLISH": "they used, you (plural formal) used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "usamos",
+      "ENGLISH": "we used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "usasteis",
+      "ENGLISH": "you (plural) used"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había usado",
+      "ENGLISH": "I had used"
+    },
+    "TU": {
+      "SPANISH": "habías usado",
+      "ENGLISH": "you had used"
+    },
+    "EL": {
+      "SPANISH": "había usado",
+      "ENGLISH": "s/he had used, you (formal) had used"
+    },
+    "ELLOS": {
+      "SPANISH": "habían usado",
+      "ENGLISH": "they had used, you (plural formal) had used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos usado",
+      "ENGLISH": "we had used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais usado",
+      "ENGLISH": "you (plural) had used"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "usé",
+      "ENGLISH": "I used"
+    },
+    "TU": {
+      "SPANISH": "usaste",
+      "ENGLISH": "you used"
+    },
+    "EL": {
+      "SPANISH": "usó",
+      "ENGLISH": "s/he used, you (formal) used"
+    },
+    "ELLOS": {
+      "SPANISH": "usaron",
+      "ENGLISH": "they used, you (plural formal) used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "usamos",
+      "ENGLISH": "we used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "usasteis",
+      "ENGLISH": "you (plural) used"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "usaré",
+      "ENGLISH": "I will use"
+    },
+    "TU": {
+      "SPANISH": "usarás",
+      "ENGLISH": "you will use"
+    },
+    "EL": {
+      "SPANISH": "usará",
+      "ENGLISH": "s/he will use, you (formal) will use"
+    },
+    "ELLOS": {
+      "SPANISH": "usarán",
+      "ENGLISH": "they will use, you (plural formal) will use"
+    },
+    "NOSOTROS": {
+      "SPANISH": "usaremos",
+      "ENGLISH": "we will use"
+    },
+    "VOSOTROS": {
+      "SPANISH": "usaréis",
+      "ENGLISH": "you (plural) will use"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré usado",
+      "ENGLISH": "I will have used"
+    },
+    "TU": {
+      "SPANISH": "habrás usado",
+      "ENGLISH": "you will have used"
+    },
+    "EL": {
+      "SPANISH": "habrá usado",
+      "ENGLISH": "s/he will have used, you (formal) will have used"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán usado",
+      "ENGLISH": "they will have used, you (plural formal) will have used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos usado",
+      "ENGLISH": "we will have used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis usado",
+      "ENGLISH": "you (plural) will have used"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "usaría",
+      "ENGLISH": "I would use"
+    },
+    "TU": {
+      "SPANISH": "usarías",
+      "ENGLISH": "you would use"
+    },
+    "EL": {
+      "SPANISH": "usaría",
+      "ENGLISH": "s/he would use, you (formal) would use"
+    },
+    "ELLOS": {
+      "SPANISH": "usarían",
+      "ENGLISH": "they would use, you (plural formal) would use"
+    },
+    "NOSOTROS": {
+      "SPANISH": "usaríamos",
+      "ENGLISH": "we would use"
+    },
+    "VOSOTROS": {
+      "SPANISH": "usaríais",
+      "ENGLISH": "you (plural) would use"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría usado",
+      "ENGLISH": "I would have used"
+    },
+    "TU": {
+      "SPANISH": "habrías usado",
+      "ENGLISH": "you would have used"
+    },
+    "EL": {
+      "SPANISH": "habría usado",
+      "ENGLISH": "s/he would have used, you (formal) would have used"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían usado",
+      "ENGLISH": "they would have used, you (plural formal) would have used"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos usado",
+      "ENGLISH": "we would have used"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais usado",
+      "ENGLISH": "you (plural) would have used"
+    }
+  }
+}

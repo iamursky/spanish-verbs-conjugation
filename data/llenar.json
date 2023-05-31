@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "lleno",
+      "ENGLISH": "I fill"
+    },
+    "TU": {
+      "SPANISH": "llenas",
+      "ENGLISH": "you fill"
+    },
+    "EL": {
+      "SPANISH": "llena",
+      "ENGLISH": "s/he fills, you (formal) fills"
+    },
+    "ELLOS": {
+      "SPANISH": "llenan",
+      "ENGLISH": "they fill, you (plural formal) fill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llenamos",
+      "ENGLISH": "we fill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llenáis",
+      "ENGLISH": "you (plural) fill"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he llenado",
+      "ENGLISH": "I have filled"
+    },
+    "TU": {
+      "SPANISH": "has llenado",
+      "ENGLISH": "you have filled"
+    },
+    "EL": {
+      "SPANISH": "ha llenado",
+      "ENGLISH": "s/he has filled, you (formal) have filled"
+    },
+    "ELLOS": {
+      "SPANISH": "han llenado",
+      "ENGLISH": "they have filled, you (plural formal) have filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos llenado",
+      "ENGLISH": "we have filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis llenado",
+      "ENGLISH": "you (plural) have filled"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "llené",
+      "ENGLISH": "I filled"
+    },
+    "TU": {
+      "SPANISH": "llenaste",
+      "ENGLISH": "you filled"
+    },
+    "EL": {
+      "SPANISH": "llenó",
+      "ENGLISH": "s/he filled, you (formal) filled"
+    },
+    "ELLOS": {
+      "SPANISH": "llenaron",
+      "ENGLISH": "they filled, you (plural formal) filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llenamos",
+      "ENGLISH": "we filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llenasteis",
+      "ENGLISH": "you (plural) filled"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había llenado",
+      "ENGLISH": "I had filled"
+    },
+    "TU": {
+      "SPANISH": "habías llenado",
+      "ENGLISH": "you had filled"
+    },
+    "EL": {
+      "SPANISH": "había llenado",
+      "ENGLISH": "s/he had filled, you (formal) had filled"
+    },
+    "ELLOS": {
+      "SPANISH": "habían llenado",
+      "ENGLISH": "they had filled, you (plural formal) had filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos llenado",
+      "ENGLISH": "we had filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais llenado",
+      "ENGLISH": "you (plural) had filled"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "llené",
+      "ENGLISH": "I filled"
+    },
+    "TU": {
+      "SPANISH": "llenaste",
+      "ENGLISH": "you filled"
+    },
+    "EL": {
+      "SPANISH": "llenó",
+      "ENGLISH": "s/he filled, you (formal) filled"
+    },
+    "ELLOS": {
+      "SPANISH": "llenaron",
+      "ENGLISH": "they filled, you (plural formal) filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llenamos",
+      "ENGLISH": "we filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llenasteis",
+      "ENGLISH": "you (plural) filled"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "llenaré",
+      "ENGLISH": "I will fill"
+    },
+    "TU": {
+      "SPANISH": "llenarás",
+      "ENGLISH": "you will fill"
+    },
+    "EL": {
+      "SPANISH": "llenará",
+      "ENGLISH": "s/he will fill, you (formal) will fill"
+    },
+    "ELLOS": {
+      "SPANISH": "llenarán",
+      "ENGLISH": "they will fill, you (plural formal) will fill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llenaremos",
+      "ENGLISH": "we will fill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llenaréis",
+      "ENGLISH": "you (plural) will fill"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré llenado",
+      "ENGLISH": "I will have filled"
+    },
+    "TU": {
+      "SPANISH": "habrás llenado",
+      "ENGLISH": "you will have filled"
+    },
+    "EL": {
+      "SPANISH": "habrá llenado",
+      "ENGLISH": "s/he will have filled, you (formal) will have filled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán llenado",
+      "ENGLISH": "they will have filled, you (plural formal) will have filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos llenado",
+      "ENGLISH": "we will have filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis llenado",
+      "ENGLISH": "you (plural) will have filled"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "llenaría",
+      "ENGLISH": "I would fill"
+    },
+    "TU": {
+      "SPANISH": "llenarías",
+      "ENGLISH": "you would fill"
+    },
+    "EL": {
+      "SPANISH": "llenaría",
+      "ENGLISH": "s/he would fill, you (formal) would fill"
+    },
+    "ELLOS": {
+      "SPANISH": "llenarían",
+      "ENGLISH": "they would fill, you (plural formal) would fill"
+    },
+    "NOSOTROS": {
+      "SPANISH": "llenaríamos",
+      "ENGLISH": "we would fill"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llenaríais",
+      "ENGLISH": "you (plural) would fill"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría llenado",
+      "ENGLISH": "I would have filled"
+    },
+    "TU": {
+      "SPANISH": "habrías llenado",
+      "ENGLISH": "you would have filled"
+    },
+    "EL": {
+      "SPANISH": "habría llenado",
+      "ENGLISH": "s/he would have filled, you (formal) would have filled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían llenado",
+      "ENGLISH": "they would have filled, you (plural formal) would have filled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos llenado",
+      "ENGLISH": "we would have filled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais llenado",
+      "ENGLISH": "you (plural) would have filled"
+    }
+  }
+}

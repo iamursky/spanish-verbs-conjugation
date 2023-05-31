@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "persisto",
+      "ENGLISH": "I persist"
+    },
+    "TU": {
+      "SPANISH": "persistes",
+      "ENGLISH": "you persist"
+    },
+    "EL": {
+      "SPANISH": "persiste",
+      "ENGLISH": "s/he persists, you (formal) persists"
+    },
+    "ELLOS": {
+      "SPANISH": "persisten",
+      "ENGLISH": "they persist, you (plural formal) persist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "persistimos",
+      "ENGLISH": "we persist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "persistís",
+      "ENGLISH": "you (plural) persist"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he persistido",
+      "ENGLISH": "I have persisted"
+    },
+    "TU": {
+      "SPANISH": "has persistido",
+      "ENGLISH": "you have persisted"
+    },
+    "EL": {
+      "SPANISH": "ha persistido",
+      "ENGLISH": "s/he has persisted, you (formal) have persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "han persistido",
+      "ENGLISH": "they have persisted, you (plural formal) have persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos persistido",
+      "ENGLISH": "we have persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis persistido",
+      "ENGLISH": "you (plural) have persisted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "persistí",
+      "ENGLISH": "I persisted"
+    },
+    "TU": {
+      "SPANISH": "persististe",
+      "ENGLISH": "you persisted"
+    },
+    "EL": {
+      "SPANISH": "persistió",
+      "ENGLISH": "s/he persisted, you (formal) persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "persistieron",
+      "ENGLISH": "they persisted, you (plural formal) persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "persistimos",
+      "ENGLISH": "we persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "persististeis",
+      "ENGLISH": "you (plural) persisted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había persistido",
+      "ENGLISH": "I had persisted"
+    },
+    "TU": {
+      "SPANISH": "habías persistido",
+      "ENGLISH": "you had persisted"
+    },
+    "EL": {
+      "SPANISH": "había persistido",
+      "ENGLISH": "s/he had persisted, you (formal) had persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían persistido",
+      "ENGLISH": "they had persisted, you (plural formal) had persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos persistido",
+      "ENGLISH": "we had persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais persistido",
+      "ENGLISH": "you (plural) had persisted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "persistí",
+      "ENGLISH": "I persisted"
+    },
+    "TU": {
+      "SPANISH": "persististe",
+      "ENGLISH": "you persisted"
+    },
+    "EL": {
+      "SPANISH": "persistió",
+      "ENGLISH": "s/he persisted, you (formal) persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "persistieron",
+      "ENGLISH": "they persisted, you (plural formal) persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "persistimos",
+      "ENGLISH": "we persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "persististeis",
+      "ENGLISH": "you (plural) persisted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "persistiré",
+      "ENGLISH": "I will persist"
+    },
+    "TU": {
+      "SPANISH": "persistirás",
+      "ENGLISH": "you will persist"
+    },
+    "EL": {
+      "SPANISH": "persistirá",
+      "ENGLISH": "s/he will persist, you (formal) will persist"
+    },
+    "ELLOS": {
+      "SPANISH": "persistirán",
+      "ENGLISH": "they will persist, you (plural formal) will persist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "persistiremos",
+      "ENGLISH": "we will persist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "persistiréis",
+      "ENGLISH": "you (plural) will persist"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré persistido",
+      "ENGLISH": "I will have persisted"
+    },
+    "TU": {
+      "SPANISH": "habrás persistido",
+      "ENGLISH": "you will have persisted"
+    },
+    "EL": {
+      "SPANISH": "habrá persistido",
+      "ENGLISH": "s/he will have persisted, you (formal) will have persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán persistido",
+      "ENGLISH": "they will have persisted, you (plural formal) will have persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos persistido",
+      "ENGLISH": "we will have persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis persistido",
+      "ENGLISH": "you (plural) will have persisted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "persistiría",
+      "ENGLISH": "I would persist"
+    },
+    "TU": {
+      "SPANISH": "persistirías",
+      "ENGLISH": "you would persist"
+    },
+    "EL": {
+      "SPANISH": "persistiría",
+      "ENGLISH": "s/he would persist, you (formal) would persist"
+    },
+    "ELLOS": {
+      "SPANISH": "persistirían",
+      "ENGLISH": "they would persist, you (plural formal) would persist"
+    },
+    "NOSOTROS": {
+      "SPANISH": "persistiríamos",
+      "ENGLISH": "we would persist"
+    },
+    "VOSOTROS": {
+      "SPANISH": "persistiríais",
+      "ENGLISH": "you (plural) would persist"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría persistido",
+      "ENGLISH": "I would have persisted"
+    },
+    "TU": {
+      "SPANISH": "habrías persistido",
+      "ENGLISH": "you would have persisted"
+    },
+    "EL": {
+      "SPANISH": "habría persistido",
+      "ENGLISH": "s/he would have persisted, you (formal) would have persisted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían persistido",
+      "ENGLISH": "they would have persisted, you (plural formal) would have persisted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos persistido",
+      "ENGLISH": "we would have persisted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais persistido",
+      "ENGLISH": "you (plural) would have persisted"
+    }
+  }
+}

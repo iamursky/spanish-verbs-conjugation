@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me voy ",
+      "ENGLISH": "I go"
+    },
+    "TU": {
+      "SPANISH": "te vas ",
+      "ENGLISH": "you go"
+    },
+    "EL": {
+      "SPANISH": "se va ",
+      "ENGLISH": "s/he goes, you (formal) goes"
+    },
+    "ELLOS": {
+      "SPANISH": "se van ",
+      "ENGLISH": "they go, you (plural formal) go"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos vamos ",
+      "ENGLISH": "we go"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os vais ",
+      "ENGLISH": "you (plural) go"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he ido",
+      "ENGLISH": "I have gone"
+    },
+    "TU": {
+      "SPANISH": "te has ido",
+      "ENGLISH": "you have gone"
+    },
+    "EL": {
+      "SPANISH": "se ha ido",
+      "ENGLISH": "s/he has gone, you (formal) have gone"
+    },
+    "ELLOS": {
+      "SPANISH": "se han ido",
+      "ENGLISH": "they have gone, you (plural formal) have gone"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos ido",
+      "ENGLISH": "we have gone"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis ido",
+      "ENGLISH": "you (plural) have gone"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me fui ",
+      "ENGLISH": "I went"
+    },
+    "TU": {
+      "SPANISH": "te fuiste ",
+      "ENGLISH": "you went"
+    },
+    "EL": {
+      "SPANISH": "se fue ",
+      "ENGLISH": "s/he went, you (formal) went"
+    },
+    "ELLOS": {
+      "SPANISH": "se fueron ",
+      "ENGLISH": "they went, you (plural formal) went"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fuimos ",
+      "ENGLISH": "we went"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fuisteis ",
+      "ENGLISH": "you (plural) went"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había ido",
+      "ENGLISH": "I had gone"
+    },
+    "TU": {
+      "SPANISH": "te habías ido",
+      "ENGLISH": "you had gone"
+    },
+    "EL": {
+      "SPANISH": "se había ido",
+      "ENGLISH": "s/he had gone, you (formal) had gone"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían ido",
+      "ENGLISH": "they had gone, you (plural formal) had gone"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos ido",
+      "ENGLISH": "we had gone"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais ido",
+      "ENGLISH": "you (plural) had gone"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me fui ",
+      "ENGLISH": "I went"
+    },
+    "TU": {
+      "SPANISH": "te fuiste ",
+      "ENGLISH": "you went"
+    },
+    "EL": {
+      "SPANISH": "se fue ",
+      "ENGLISH": "s/he went, you (formal) went"
+    },
+    "ELLOS": {
+      "SPANISH": "se fueron ",
+      "ENGLISH": "they went, you (plural formal) went"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos fuimos ",
+      "ENGLISH": "we went"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os fuisteis ",
+      "ENGLISH": "you (plural) went"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me iré",
+      "ENGLISH": "I will go"
+    },
+    "TU": {
+      "SPANISH": "te irás",
+      "ENGLISH": "you will go"
+    },
+    "EL": {
+      "SPANISH": "se irá",
+      "ENGLISH": "s/he will go, you (formal) will go"
+    },
+    "ELLOS": {
+      "SPANISH": "se irán",
+      "ENGLISH": "they will go, you (plural formal) will go"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos iremos",
+      "ENGLISH": "we will go"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os iréis",
+      "ENGLISH": "you (plural) will go"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré ido",
+      "ENGLISH": "I will have gone"
+    },
+    "TU": {
+      "SPANISH": "te habrás ido",
+      "ENGLISH": "you will have gone"
+    },
+    "EL": {
+      "SPANISH": "se habrá ido",
+      "ENGLISH": "s/he will have gone, you (formal) will have gone"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán ido",
+      "ENGLISH": "they will have gone, you (plural formal) will have gone"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos ido",
+      "ENGLISH": "we will have gone"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis ido",
+      "ENGLISH": "you (plural) will have gone"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me iría",
+      "ENGLISH": "I would go"
+    },
+    "TU": {
+      "SPANISH": "te irías",
+      "ENGLISH": "you would go"
+    },
+    "EL": {
+      "SPANISH": "se iría",
+      "ENGLISH": "s/he would go, you (formal) would go"
+    },
+    "ELLOS": {
+      "SPANISH": "se irían",
+      "ENGLISH": "they would go, you (plural formal) would go"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos iríamos",
+      "ENGLISH": "we would go"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os iríais",
+      "ENGLISH": "you (plural) would go"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría ido",
+      "ENGLISH": "I would have gone"
+    },
+    "TU": {
+      "SPANISH": "te habrías ido",
+      "ENGLISH": "you would have gone"
+    },
+    "EL": {
+      "SPANISH": "se habría ido",
+      "ENGLISH": "s/he would have gone, you (formal) would have gone"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían ido",
+      "ENGLISH": "they would have gone, you (plural formal) would have gone"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos ido",
+      "ENGLISH": "we would have gone"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais ido",
+      "ENGLISH": "you (plural) would have gone"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "contengo ",
+      "ENGLISH": "I contain"
+    },
+    "TU": {
+      "SPANISH": "contienes ",
+      "ENGLISH": "you contain"
+    },
+    "EL": {
+      "SPANISH": "contiene ",
+      "ENGLISH": "s/he contains, you (formal) contains"
+    },
+    "ELLOS": {
+      "SPANISH": "contienen ",
+      "ENGLISH": "they contain, you (plural formal) contain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contenemos",
+      "ENGLISH": "we contain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contenéis",
+      "ENGLISH": "you (plural) contain"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he contenido",
+      "ENGLISH": "I have contained"
+    },
+    "TU": {
+      "SPANISH": "has contenido",
+      "ENGLISH": "you have contained"
+    },
+    "EL": {
+      "SPANISH": "ha contenido",
+      "ENGLISH": "s/he has contained, you (formal) have contained"
+    },
+    "ELLOS": {
+      "SPANISH": "han contenido",
+      "ENGLISH": "they have contained, you (plural formal) have contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos contenido",
+      "ENGLISH": "we have contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis contenido",
+      "ENGLISH": "you (plural) have contained"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "contuve ",
+      "ENGLISH": "I contained"
+    },
+    "TU": {
+      "SPANISH": "contuviste ",
+      "ENGLISH": "you contained"
+    },
+    "EL": {
+      "SPANISH": "contuvo ",
+      "ENGLISH": "s/he contained, you (formal) contained"
+    },
+    "ELLOS": {
+      "SPANISH": "contuvieron ",
+      "ENGLISH": "they contained, you (plural formal) contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contuvimos ",
+      "ENGLISH": "we contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contuvisteis ",
+      "ENGLISH": "you (plural) contained"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había contenido",
+      "ENGLISH": "I had contained"
+    },
+    "TU": {
+      "SPANISH": "habías contenido",
+      "ENGLISH": "you had contained"
+    },
+    "EL": {
+      "SPANISH": "había contenido",
+      "ENGLISH": "s/he had contained, you (formal) had contained"
+    },
+    "ELLOS": {
+      "SPANISH": "habían contenido",
+      "ENGLISH": "they had contained, you (plural formal) had contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos contenido",
+      "ENGLISH": "we had contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais contenido",
+      "ENGLISH": "you (plural) had contained"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "contuve ",
+      "ENGLISH": "I contained"
+    },
+    "TU": {
+      "SPANISH": "contuviste ",
+      "ENGLISH": "you contained"
+    },
+    "EL": {
+      "SPANISH": "contuvo ",
+      "ENGLISH": "s/he contained, you (formal) contained"
+    },
+    "ELLOS": {
+      "SPANISH": "contuvieron ",
+      "ENGLISH": "they contained, you (plural formal) contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contuvimos ",
+      "ENGLISH": "we contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contuvisteis ",
+      "ENGLISH": "you (plural) contained"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "contendré ",
+      "ENGLISH": "I will contain"
+    },
+    "TU": {
+      "SPANISH": "contendrás ",
+      "ENGLISH": "you will contain"
+    },
+    "EL": {
+      "SPANISH": "contendrá ",
+      "ENGLISH": "s/he will contain, you (formal) will contain"
+    },
+    "ELLOS": {
+      "SPANISH": "contendrán ",
+      "ENGLISH": "they will contain, you (plural formal) will contain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contendremos ",
+      "ENGLISH": "we will contain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contendréis ",
+      "ENGLISH": "you (plural) will contain"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré contenido",
+      "ENGLISH": "I will have contained"
+    },
+    "TU": {
+      "SPANISH": "habrás contenido",
+      "ENGLISH": "you will have contained"
+    },
+    "EL": {
+      "SPANISH": "habrá contenido",
+      "ENGLISH": "s/he will have contained, you (formal) will have contained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán contenido",
+      "ENGLISH": "they will have contained, you (plural formal) will have contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos contenido",
+      "ENGLISH": "we will have contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis contenido",
+      "ENGLISH": "you (plural) will have contained"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "contendría ",
+      "ENGLISH": "I would contain"
+    },
+    "TU": {
+      "SPANISH": "contendrías ",
+      "ENGLISH": "you would contain"
+    },
+    "EL": {
+      "SPANISH": "contendría ",
+      "ENGLISH": "s/he would contain, you (formal) would contain"
+    },
+    "ELLOS": {
+      "SPANISH": "contendrían ",
+      "ENGLISH": "they would contain, you (plural formal) would contain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contendríamos ",
+      "ENGLISH": "we would contain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contendríais ",
+      "ENGLISH": "you (plural) would contain"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría contenido",
+      "ENGLISH": "I would have contained"
+    },
+    "TU": {
+      "SPANISH": "habrías contenido",
+      "ENGLISH": "you would have contained"
+    },
+    "EL": {
+      "SPANISH": "habría contenido",
+      "ENGLISH": "s/he would have contained, you (formal) would have contained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían contenido",
+      "ENGLISH": "they would have contained, you (plural formal) would have contained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos contenido",
+      "ENGLISH": "we would have contained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais contenido",
+      "ENGLISH": "you (plural) would have contained"
+    }
+  }
+}

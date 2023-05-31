@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me mantengo ",
+      "ENGLISH": "I support"
+    },
+    "TU": {
+      "SPANISH": "te mantienes ",
+      "ENGLISH": "you support"
+    },
+    "EL": {
+      "SPANISH": "se mantiene ",
+      "ENGLISH": "s/he supports, you (formal) supports"
+    },
+    "ELLOS": {
+      "SPANISH": "se mantienen ",
+      "ENGLISH": "they support, you (plural formal) support"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos mantenemos",
+      "ENGLISH": "we support"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os mantenéis",
+      "ENGLISH": "you (plural) support"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he mantenido",
+      "ENGLISH": "I have supported"
+    },
+    "TU": {
+      "SPANISH": "te has mantenido",
+      "ENGLISH": "you have supported"
+    },
+    "EL": {
+      "SPANISH": "se ha mantenido",
+      "ENGLISH": "s/he has supported, you (formal) have supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se han mantenido",
+      "ENGLISH": "they have supported, you (plural formal) have supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos mantenido",
+      "ENGLISH": "we have supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis mantenido",
+      "ENGLISH": "you (plural) have supported"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me mantuve ",
+      "ENGLISH": "I supported"
+    },
+    "TU": {
+      "SPANISH": "te mantuviste ",
+      "ENGLISH": "you supported"
+    },
+    "EL": {
+      "SPANISH": "se mantuvo ",
+      "ENGLISH": "s/he supported, you (formal) supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se mantuvieron ",
+      "ENGLISH": "they supported, you (plural formal) supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos mantuvimos ",
+      "ENGLISH": "we supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os mantuvisteis ",
+      "ENGLISH": "you (plural) supported"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había mantenido",
+      "ENGLISH": "I had supported"
+    },
+    "TU": {
+      "SPANISH": "te habías mantenido",
+      "ENGLISH": "you had supported"
+    },
+    "EL": {
+      "SPANISH": "se había mantenido",
+      "ENGLISH": "s/he had supported, you (formal) had supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían mantenido",
+      "ENGLISH": "they had supported, you (plural formal) had supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos mantenido",
+      "ENGLISH": "we had supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais mantenido",
+      "ENGLISH": "you (plural) had supported"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me mantuve ",
+      "ENGLISH": "I supported"
+    },
+    "TU": {
+      "SPANISH": "te mantuviste ",
+      "ENGLISH": "you supported"
+    },
+    "EL": {
+      "SPANISH": "se mantuvo ",
+      "ENGLISH": "s/he supported, you (formal) supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se mantuvieron ",
+      "ENGLISH": "they supported, you (plural formal) supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos mantuvimos ",
+      "ENGLISH": "we supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os mantuvisteis ",
+      "ENGLISH": "you (plural) supported"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me mantendré ",
+      "ENGLISH": "I will support"
+    },
+    "TU": {
+      "SPANISH": "te mantendrás ",
+      "ENGLISH": "you will support"
+    },
+    "EL": {
+      "SPANISH": "se mantendrá ",
+      "ENGLISH": "s/he will support, you (formal) will support"
+    },
+    "ELLOS": {
+      "SPANISH": "se mantendrán ",
+      "ENGLISH": "they will support, you (plural formal) will support"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos mantendremos ",
+      "ENGLISH": "we will support"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os mantendréis ",
+      "ENGLISH": "you (plural) will support"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré mantenido",
+      "ENGLISH": "I will have supported"
+    },
+    "TU": {
+      "SPANISH": "te habrás mantenido",
+      "ENGLISH": "you will have supported"
+    },
+    "EL": {
+      "SPANISH": "se habrá mantenido",
+      "ENGLISH": "s/he will have supported, you (formal) will have supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán mantenido",
+      "ENGLISH": "they will have supported, you (plural formal) will have supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos mantenido",
+      "ENGLISH": "we will have supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis mantenido",
+      "ENGLISH": "you (plural) will have supported"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me mantendría ",
+      "ENGLISH": "I would support"
+    },
+    "TU": {
+      "SPANISH": "te mantendrías ",
+      "ENGLISH": "you would support"
+    },
+    "EL": {
+      "SPANISH": "se mantendría ",
+      "ENGLISH": "s/he would support, you (formal) would support"
+    },
+    "ELLOS": {
+      "SPANISH": "se mantendrían ",
+      "ENGLISH": "they would support, you (plural formal) would support"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos mantendríamos ",
+      "ENGLISH": "we would support"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os mantendríais ",
+      "ENGLISH": "you (plural) would support"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría mantenido",
+      "ENGLISH": "I would have supported"
+    },
+    "TU": {
+      "SPANISH": "te habrías mantenido",
+      "ENGLISH": "you would have supported"
+    },
+    "EL": {
+      "SPANISH": "se habría mantenido",
+      "ENGLISH": "s/he would have supported, you (formal) would have supported"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían mantenido",
+      "ENGLISH": "they would have supported, you (plural formal) would have supported"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos mantenido",
+      "ENGLISH": "we would have supported"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais mantenido",
+      "ENGLISH": "you (plural) would have supported"
+    }
+  }
+}

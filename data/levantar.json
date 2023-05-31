@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "levanto",
+      "ENGLISH": "I lift"
+    },
+    "TU": {
+      "SPANISH": "levantas",
+      "ENGLISH": "you lift"
+    },
+    "EL": {
+      "SPANISH": "levanta",
+      "ENGLISH": "s/he lifts, you (formal) lifts"
+    },
+    "ELLOS": {
+      "SPANISH": "levantan",
+      "ENGLISH": "they lift, you (plural formal) lift"
+    },
+    "NOSOTROS": {
+      "SPANISH": "levantamos",
+      "ENGLISH": "we lift"
+    },
+    "VOSOTROS": {
+      "SPANISH": "levantáis",
+      "ENGLISH": "you (plural) lift"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he levantado",
+      "ENGLISH": "I have lifted"
+    },
+    "TU": {
+      "SPANISH": "has levantado",
+      "ENGLISH": "you have lifted"
+    },
+    "EL": {
+      "SPANISH": "ha levantado",
+      "ENGLISH": "s/he has lifted, you (formal) have lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "han levantado",
+      "ENGLISH": "they have lifted, you (plural formal) have lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos levantado",
+      "ENGLISH": "we have lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis levantado",
+      "ENGLISH": "you (plural) have lifted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "levanté",
+      "ENGLISH": "I lifted"
+    },
+    "TU": {
+      "SPANISH": "levantaste",
+      "ENGLISH": "you lifted"
+    },
+    "EL": {
+      "SPANISH": "levantó",
+      "ENGLISH": "s/he lifted, you (formal) lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "levantaron",
+      "ENGLISH": "they lifted, you (plural formal) lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "levantamos",
+      "ENGLISH": "we lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "levantasteis",
+      "ENGLISH": "you (plural) lifted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había levantado",
+      "ENGLISH": "I had lifted"
+    },
+    "TU": {
+      "SPANISH": "habías levantado",
+      "ENGLISH": "you had lifted"
+    },
+    "EL": {
+      "SPANISH": "había levantado",
+      "ENGLISH": "s/he had lifted, you (formal) had lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían levantado",
+      "ENGLISH": "they had lifted, you (plural formal) had lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos levantado",
+      "ENGLISH": "we had lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais levantado",
+      "ENGLISH": "you (plural) had lifted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "levanté",
+      "ENGLISH": "I lifted"
+    },
+    "TU": {
+      "SPANISH": "levantaste",
+      "ENGLISH": "you lifted"
+    },
+    "EL": {
+      "SPANISH": "levantó",
+      "ENGLISH": "s/he lifted, you (formal) lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "levantaron",
+      "ENGLISH": "they lifted, you (plural formal) lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "levantamos",
+      "ENGLISH": "we lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "levantasteis",
+      "ENGLISH": "you (plural) lifted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "levantaré",
+      "ENGLISH": "I will lift"
+    },
+    "TU": {
+      "SPANISH": "levantarás",
+      "ENGLISH": "you will lift"
+    },
+    "EL": {
+      "SPANISH": "levantará",
+      "ENGLISH": "s/he will lift, you (formal) will lift"
+    },
+    "ELLOS": {
+      "SPANISH": "levantarán",
+      "ENGLISH": "they will lift, you (plural formal) will lift"
+    },
+    "NOSOTROS": {
+      "SPANISH": "levantaremos",
+      "ENGLISH": "we will lift"
+    },
+    "VOSOTROS": {
+      "SPANISH": "levantaréis",
+      "ENGLISH": "you (plural) will lift"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré levantado",
+      "ENGLISH": "I will have lifted"
+    },
+    "TU": {
+      "SPANISH": "habrás levantado",
+      "ENGLISH": "you will have lifted"
+    },
+    "EL": {
+      "SPANISH": "habrá levantado",
+      "ENGLISH": "s/he will have lifted, you (formal) will have lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán levantado",
+      "ENGLISH": "they will have lifted, you (plural formal) will have lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos levantado",
+      "ENGLISH": "we will have lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis levantado",
+      "ENGLISH": "you (plural) will have lifted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "levantaría",
+      "ENGLISH": "I would lift"
+    },
+    "TU": {
+      "SPANISH": "levantarías",
+      "ENGLISH": "you would lift"
+    },
+    "EL": {
+      "SPANISH": "levantaría",
+      "ENGLISH": "s/he would lift, you (formal) would lift"
+    },
+    "ELLOS": {
+      "SPANISH": "levantarían",
+      "ENGLISH": "they would lift, you (plural formal) would lift"
+    },
+    "NOSOTROS": {
+      "SPANISH": "levantaríamos",
+      "ENGLISH": "we would lift"
+    },
+    "VOSOTROS": {
+      "SPANISH": "levantaríais",
+      "ENGLISH": "you (plural) would lift"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría levantado",
+      "ENGLISH": "I would have lifted"
+    },
+    "TU": {
+      "SPANISH": "habrías levantado",
+      "ENGLISH": "you would have lifted"
+    },
+    "EL": {
+      "SPANISH": "habría levantado",
+      "ENGLISH": "s/he would have lifted, you (formal) would have lifted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían levantado",
+      "ENGLISH": "they would have lifted, you (plural formal) would have lifted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos levantado",
+      "ENGLISH": "we would have lifted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais levantado",
+      "ENGLISH": "you (plural) would have lifted"
+    }
+  }
+}

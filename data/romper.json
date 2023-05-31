@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "rompo",
+      "ENGLISH": "I break"
+    },
+    "TU": {
+      "SPANISH": "rompes",
+      "ENGLISH": "you break"
+    },
+    "EL": {
+      "SPANISH": "rompe",
+      "ENGLISH": "s/he breaks, you (formal) breaks"
+    },
+    "ELLOS": {
+      "SPANISH": "rompen",
+      "ENGLISH": "they break, you (plural formal) break"
+    },
+    "NOSOTROS": {
+      "SPANISH": "rompemos",
+      "ENGLISH": "we break"
+    },
+    "VOSOTROS": {
+      "SPANISH": "rompéis",
+      "ENGLISH": "you (plural) break"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he roto ",
+      "ENGLISH": "I have broken"
+    },
+    "TU": {
+      "SPANISH": "has roto ",
+      "ENGLISH": "you have broken"
+    },
+    "EL": {
+      "SPANISH": "ha roto ",
+      "ENGLISH": "s/he has broken, you (formal) have broken"
+    },
+    "ELLOS": {
+      "SPANISH": "han roto ",
+      "ENGLISH": "they have broken, you (plural formal) have broken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos roto ",
+      "ENGLISH": "we have broken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis roto ",
+      "ENGLISH": "you (plural) have broken"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "rompí",
+      "ENGLISH": "I broke"
+    },
+    "TU": {
+      "SPANISH": "rompiste",
+      "ENGLISH": "you broke"
+    },
+    "EL": {
+      "SPANISH": "rompió",
+      "ENGLISH": "s/he broke, you (formal) broke"
+    },
+    "ELLOS": {
+      "SPANISH": "rompieron",
+      "ENGLISH": "they broke, you (plural formal) broke"
+    },
+    "NOSOTROS": {
+      "SPANISH": "rompimos",
+      "ENGLISH": "we broke"
+    },
+    "VOSOTROS": {
+      "SPANISH": "rompisteis",
+      "ENGLISH": "you (plural) broke"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había roto ",
+      "ENGLISH": "I had broken"
+    },
+    "TU": {
+      "SPANISH": "habías roto ",
+      "ENGLISH": "you had broken"
+    },
+    "EL": {
+      "SPANISH": "había roto ",
+      "ENGLISH": "s/he had broken, you (formal) had broken"
+    },
+    "ELLOS": {
+      "SPANISH": "habían roto ",
+      "ENGLISH": "they had broken, you (plural formal) had broken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos roto ",
+      "ENGLISH": "we had broken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais roto ",
+      "ENGLISH": "you (plural) had broken"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "rompí",
+      "ENGLISH": "I broke"
+    },
+    "TU": {
+      "SPANISH": "rompiste",
+      "ENGLISH": "you broke"
+    },
+    "EL": {
+      "SPANISH": "rompió",
+      "ENGLISH": "s/he broke, you (formal) broke"
+    },
+    "ELLOS": {
+      "SPANISH": "rompieron",
+      "ENGLISH": "they broke, you (plural formal) broke"
+    },
+    "NOSOTROS": {
+      "SPANISH": "rompimos",
+      "ENGLISH": "we broke"
+    },
+    "VOSOTROS": {
+      "SPANISH": "rompisteis",
+      "ENGLISH": "you (plural) broke"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "romperé",
+      "ENGLISH": "I will break"
+    },
+    "TU": {
+      "SPANISH": "romperás",
+      "ENGLISH": "you will break"
+    },
+    "EL": {
+      "SPANISH": "romperá",
+      "ENGLISH": "s/he will break, you (formal) will break"
+    },
+    "ELLOS": {
+      "SPANISH": "romperán",
+      "ENGLISH": "they will break, you (plural formal) will break"
+    },
+    "NOSOTROS": {
+      "SPANISH": "romperemos",
+      "ENGLISH": "we will break"
+    },
+    "VOSOTROS": {
+      "SPANISH": "romperéis",
+      "ENGLISH": "you (plural) will break"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré roto ",
+      "ENGLISH": "I will have broken"
+    },
+    "TU": {
+      "SPANISH": "habrás roto ",
+      "ENGLISH": "you will have broken"
+    },
+    "EL": {
+      "SPANISH": "habrá roto ",
+      "ENGLISH": "s/he will have broken, you (formal) will have broken"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán roto ",
+      "ENGLISH": "they will have broken, you (plural formal) will have broken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos roto ",
+      "ENGLISH": "we will have broken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis roto ",
+      "ENGLISH": "you (plural) will have broken"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "rompería",
+      "ENGLISH": "I would break"
+    },
+    "TU": {
+      "SPANISH": "romperías",
+      "ENGLISH": "you would break"
+    },
+    "EL": {
+      "SPANISH": "rompería",
+      "ENGLISH": "s/he would break, you (formal) would break"
+    },
+    "ELLOS": {
+      "SPANISH": "romperían",
+      "ENGLISH": "they would break, you (plural formal) would break"
+    },
+    "NOSOTROS": {
+      "SPANISH": "romperíamos",
+      "ENGLISH": "we would break"
+    },
+    "VOSOTROS": {
+      "SPANISH": "romperíais",
+      "ENGLISH": "you (plural) would break"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría roto ",
+      "ENGLISH": "I would have broken"
+    },
+    "TU": {
+      "SPANISH": "habrías roto ",
+      "ENGLISH": "you would have broken"
+    },
+    "EL": {
+      "SPANISH": "habría roto ",
+      "ENGLISH": "s/he would have broken, you (formal) would have broken"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían roto ",
+      "ENGLISH": "they would have broken, you (plural formal) would have broken"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos roto ",
+      "ENGLISH": "we would have broken"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais roto ",
+      "ENGLISH": "you (plural) would have broken"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "explico",
+      "ENGLISH": "I explain"
+    },
+    "TU": {
+      "SPANISH": "explicas",
+      "ENGLISH": "you explain"
+    },
+    "EL": {
+      "SPANISH": "explica",
+      "ENGLISH": "s/he explains, you (formal) explains"
+    },
+    "ELLOS": {
+      "SPANISH": "explican",
+      "ENGLISH": "they explain, you (plural formal) explain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "explicamos",
+      "ENGLISH": "we explain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "explicáis",
+      "ENGLISH": "you (plural) explain"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he explicado",
+      "ENGLISH": "I have explained"
+    },
+    "TU": {
+      "SPANISH": "has explicado",
+      "ENGLISH": "you have explained"
+    },
+    "EL": {
+      "SPANISH": "ha explicado",
+      "ENGLISH": "s/he has explained, you (formal) have explained"
+    },
+    "ELLOS": {
+      "SPANISH": "han explicado",
+      "ENGLISH": "they have explained, you (plural formal) have explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos explicado",
+      "ENGLISH": "we have explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis explicado",
+      "ENGLISH": "you (plural) have explained"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "expliqué ",
+      "ENGLISH": "I explained"
+    },
+    "TU": {
+      "SPANISH": "explicaste",
+      "ENGLISH": "you explained"
+    },
+    "EL": {
+      "SPANISH": "explicó",
+      "ENGLISH": "s/he explained, you (formal) explained"
+    },
+    "ELLOS": {
+      "SPANISH": "explicaron",
+      "ENGLISH": "they explained, you (plural formal) explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "explicamos",
+      "ENGLISH": "we explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "explicasteis",
+      "ENGLISH": "you (plural) explained"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había explicado",
+      "ENGLISH": "I had explained"
+    },
+    "TU": {
+      "SPANISH": "habías explicado",
+      "ENGLISH": "you had explained"
+    },
+    "EL": {
+      "SPANISH": "había explicado",
+      "ENGLISH": "s/he had explained, you (formal) had explained"
+    },
+    "ELLOS": {
+      "SPANISH": "habían explicado",
+      "ENGLISH": "they had explained, you (plural formal) had explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos explicado",
+      "ENGLISH": "we had explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais explicado",
+      "ENGLISH": "you (plural) had explained"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "expliqué ",
+      "ENGLISH": "I explained"
+    },
+    "TU": {
+      "SPANISH": "explicaste",
+      "ENGLISH": "you explained"
+    },
+    "EL": {
+      "SPANISH": "explicó",
+      "ENGLISH": "s/he explained, you (formal) explained"
+    },
+    "ELLOS": {
+      "SPANISH": "explicaron",
+      "ENGLISH": "they explained, you (plural formal) explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "explicamos",
+      "ENGLISH": "we explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "explicasteis",
+      "ENGLISH": "you (plural) explained"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "explicaré",
+      "ENGLISH": "I will explain"
+    },
+    "TU": {
+      "SPANISH": "explicarás",
+      "ENGLISH": "you will explain"
+    },
+    "EL": {
+      "SPANISH": "explicará",
+      "ENGLISH": "s/he will explain, you (formal) will explain"
+    },
+    "ELLOS": {
+      "SPANISH": "explicarán",
+      "ENGLISH": "they will explain, you (plural formal) will explain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "explicaremos",
+      "ENGLISH": "we will explain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "explicaréis",
+      "ENGLISH": "you (plural) will explain"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré explicado",
+      "ENGLISH": "I will have explained"
+    },
+    "TU": {
+      "SPANISH": "habrás explicado",
+      "ENGLISH": "you will have explained"
+    },
+    "EL": {
+      "SPANISH": "habrá explicado",
+      "ENGLISH": "s/he will have explained, you (formal) will have explained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán explicado",
+      "ENGLISH": "they will have explained, you (plural formal) will have explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos explicado",
+      "ENGLISH": "we will have explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis explicado",
+      "ENGLISH": "you (plural) will have explained"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "explicaría",
+      "ENGLISH": "I would explain"
+    },
+    "TU": {
+      "SPANISH": "explicarías",
+      "ENGLISH": "you would explain"
+    },
+    "EL": {
+      "SPANISH": "explicaría",
+      "ENGLISH": "s/he would explain, you (formal) would explain"
+    },
+    "ELLOS": {
+      "SPANISH": "explicarían",
+      "ENGLISH": "they would explain, you (plural formal) would explain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "explicaríamos",
+      "ENGLISH": "we would explain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "explicaríais",
+      "ENGLISH": "you (plural) would explain"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría explicado",
+      "ENGLISH": "I would have explained"
+    },
+    "TU": {
+      "SPANISH": "habrías explicado",
+      "ENGLISH": "you would have explained"
+    },
+    "EL": {
+      "SPANISH": "habría explicado",
+      "ENGLISH": "s/he would have explained, you (formal) would have explained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían explicado",
+      "ENGLISH": "they would have explained, you (plural formal) would have explained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos explicado",
+      "ENGLISH": "we would have explained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais explicado",
+      "ENGLISH": "you (plural) would have explained"
+    }
+  }
+}

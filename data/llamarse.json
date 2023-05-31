@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me llamo",
+      "ENGLISH": "I am named"
+    },
+    "TU": {
+      "SPANISH": "te llamas",
+      "ENGLISH": "you are named"
+    },
+    "EL": {
+      "SPANISH": "se llama",
+      "ENGLISH": "s/he is named, you (formal) are named"
+    },
+    "ELLOS": {
+      "SPANISH": "se llaman",
+      "ENGLISH": "they are named, you (plural formal) are named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llamamos",
+      "ENGLISH": "we are named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llamáis",
+      "ENGLISH": "you (plural) are named"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he llamado",
+      "ENGLISH": "I have been named"
+    },
+    "TU": {
+      "SPANISH": "te has llamado",
+      "ENGLISH": "you have been named"
+    },
+    "EL": {
+      "SPANISH": "se ha llamado",
+      "ENGLISH": "s/he has been named, you (formal) have been named"
+    },
+    "ELLOS": {
+      "SPANISH": "se han llamado",
+      "ENGLISH": "they have been named, you (plural formal) have been named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos llamado",
+      "ENGLISH": "we have been named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis llamado",
+      "ENGLISH": "you (plural) have been named"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me llamé",
+      "ENGLISH": "I was named"
+    },
+    "TU": {
+      "SPANISH": "te llamaste",
+      "ENGLISH": "you were named"
+    },
+    "EL": {
+      "SPANISH": "se llamó",
+      "ENGLISH": "s/he was named, you (formal) was named"
+    },
+    "ELLOS": {
+      "SPANISH": "se llamaron",
+      "ENGLISH": "they were named, you (plural formal) were named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llamamos",
+      "ENGLISH": "we were named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llamasteis",
+      "ENGLISH": "you (plural) were named"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había llamado",
+      "ENGLISH": "I had been named"
+    },
+    "TU": {
+      "SPANISH": "te habías llamado",
+      "ENGLISH": "you had been named"
+    },
+    "EL": {
+      "SPANISH": "se había llamado",
+      "ENGLISH": "s/he had been named, you (formal) had been named"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían llamado",
+      "ENGLISH": "they had been named, you (plural formal) had been named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos llamado",
+      "ENGLISH": "we had been named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais llamado",
+      "ENGLISH": "you (plural) had been named"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me llamé",
+      "ENGLISH": "I was named"
+    },
+    "TU": {
+      "SPANISH": "te llamaste",
+      "ENGLISH": "you were named"
+    },
+    "EL": {
+      "SPANISH": "se llamó",
+      "ENGLISH": "s/he was named, you (formal) was named"
+    },
+    "ELLOS": {
+      "SPANISH": "se llamaron",
+      "ENGLISH": "they were named, you (plural formal) were named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llamamos",
+      "ENGLISH": "we were named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llamasteis",
+      "ENGLISH": "you (plural) were named"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llamaré",
+      "ENGLISH": "I will be named"
+    },
+    "TU": {
+      "SPANISH": "te llamarás",
+      "ENGLISH": "you will be named"
+    },
+    "EL": {
+      "SPANISH": "se llamará",
+      "ENGLISH": "s/he will be named, you (formal) will be named"
+    },
+    "ELLOS": {
+      "SPANISH": "se llamarán",
+      "ENGLISH": "they will be named, you (plural formal) will be named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llamaremos",
+      "ENGLISH": "we will be named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llamaréis",
+      "ENGLISH": "you (plural) will be named"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré llamado",
+      "ENGLISH": "I will have been named"
+    },
+    "TU": {
+      "SPANISH": "te habrás llamado",
+      "ENGLISH": "you will have been named"
+    },
+    "EL": {
+      "SPANISH": "se habrá llamado",
+      "ENGLISH": "s/he will have been named, you (formal) will have been named"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán llamado",
+      "ENGLISH": "they will have been named, you (plural formal) will have been named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos llamado",
+      "ENGLISH": "we will have been named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis llamado",
+      "ENGLISH": "you (plural) will have been named"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me llamaría",
+      "ENGLISH": "I would be named"
+    },
+    "TU": {
+      "SPANISH": "te llamarías",
+      "ENGLISH": "you would be named"
+    },
+    "EL": {
+      "SPANISH": "se llamaría",
+      "ENGLISH": "s/he would be named, you (formal) would be named"
+    },
+    "ELLOS": {
+      "SPANISH": "se llamarían",
+      "ENGLISH": "they would be named, you (plural formal) would be named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos llamaríamos",
+      "ENGLISH": "we would be named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os llamaríais",
+      "ENGLISH": "you (plural) would be named"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría llamado",
+      "ENGLISH": "I would have been named"
+    },
+    "TU": {
+      "SPANISH": "te habrías llamado",
+      "ENGLISH": "you would have been named"
+    },
+    "EL": {
+      "SPANISH": "se habría llamado",
+      "ENGLISH": "s/he would have been named, you (formal) would have been named"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían llamado",
+      "ENGLISH": "they would have been named, you (plural formal) would have been named"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos llamado",
+      "ENGLISH": "we would have been named"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais llamado",
+      "ENGLISH": "you (plural) would have been named"
+    }
+  }
+}

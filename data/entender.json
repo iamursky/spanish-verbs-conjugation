@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "entiendo ",
+      "ENGLISH": "I understand"
+    },
+    "TU": {
+      "SPANISH": "entiendes ",
+      "ENGLISH": "you understand"
+    },
+    "EL": {
+      "SPANISH": "entiende ",
+      "ENGLISH": "s/he understands, you (formal) understands"
+    },
+    "ELLOS": {
+      "SPANISH": "entienden ",
+      "ENGLISH": "they understand, you (plural formal) understand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entendemos",
+      "ENGLISH": "we understand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entendéis",
+      "ENGLISH": "you (plural) understand"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he entendido",
+      "ENGLISH": "I have understood"
+    },
+    "TU": {
+      "SPANISH": "has entendido",
+      "ENGLISH": "you have understood"
+    },
+    "EL": {
+      "SPANISH": "ha entendido",
+      "ENGLISH": "s/he has understood, you (formal) have understood"
+    },
+    "ELLOS": {
+      "SPANISH": "han entendido",
+      "ENGLISH": "they have understood, you (plural formal) have understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos entendido",
+      "ENGLISH": "we have understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis entendido",
+      "ENGLISH": "you (plural) have understood"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "entendí",
+      "ENGLISH": "I understood"
+    },
+    "TU": {
+      "SPANISH": "entendiste",
+      "ENGLISH": "you understood"
+    },
+    "EL": {
+      "SPANISH": "entendió",
+      "ENGLISH": "s/he understood, you (formal) understood"
+    },
+    "ELLOS": {
+      "SPANISH": "entendieron",
+      "ENGLISH": "they understood, you (plural formal) understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entendimos",
+      "ENGLISH": "we understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entendisteis",
+      "ENGLISH": "you (plural) understood"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había entendido",
+      "ENGLISH": "I had understood"
+    },
+    "TU": {
+      "SPANISH": "habías entendido",
+      "ENGLISH": "you had understood"
+    },
+    "EL": {
+      "SPANISH": "había entendido",
+      "ENGLISH": "s/he had understood, you (formal) had understood"
+    },
+    "ELLOS": {
+      "SPANISH": "habían entendido",
+      "ENGLISH": "they had understood, you (plural formal) had understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos entendido",
+      "ENGLISH": "we had understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais entendido",
+      "ENGLISH": "you (plural) had understood"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "entendí",
+      "ENGLISH": "I understood"
+    },
+    "TU": {
+      "SPANISH": "entendiste",
+      "ENGLISH": "you understood"
+    },
+    "EL": {
+      "SPANISH": "entendió",
+      "ENGLISH": "s/he understood, you (formal) understood"
+    },
+    "ELLOS": {
+      "SPANISH": "entendieron",
+      "ENGLISH": "they understood, you (plural formal) understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entendimos",
+      "ENGLISH": "we understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entendisteis",
+      "ENGLISH": "you (plural) understood"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "entenderé",
+      "ENGLISH": "I will understand"
+    },
+    "TU": {
+      "SPANISH": "entenderás",
+      "ENGLISH": "you will understand"
+    },
+    "EL": {
+      "SPANISH": "entenderá",
+      "ENGLISH": "s/he will understand, you (formal) will understand"
+    },
+    "ELLOS": {
+      "SPANISH": "entenderán",
+      "ENGLISH": "they will understand, you (plural formal) will understand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entenderemos",
+      "ENGLISH": "we will understand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entenderéis",
+      "ENGLISH": "you (plural) will understand"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré entendido",
+      "ENGLISH": "I will have understood"
+    },
+    "TU": {
+      "SPANISH": "habrás entendido",
+      "ENGLISH": "you will have understood"
+    },
+    "EL": {
+      "SPANISH": "habrá entendido",
+      "ENGLISH": "s/he will have understood, you (formal) will have understood"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán entendido",
+      "ENGLISH": "they will have understood, you (plural formal) will have understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos entendido",
+      "ENGLISH": "we will have understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis entendido",
+      "ENGLISH": "you (plural) will have understood"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "entendería",
+      "ENGLISH": "I would understand"
+    },
+    "TU": {
+      "SPANISH": "entenderías",
+      "ENGLISH": "you would understand"
+    },
+    "EL": {
+      "SPANISH": "entendería",
+      "ENGLISH": "s/he would understand, you (formal) would understand"
+    },
+    "ELLOS": {
+      "SPANISH": "entenderían",
+      "ENGLISH": "they would understand, you (plural formal) would understand"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entenderíamos",
+      "ENGLISH": "we would understand"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entenderíais",
+      "ENGLISH": "you (plural) would understand"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría entendido",
+      "ENGLISH": "I would have understood"
+    },
+    "TU": {
+      "SPANISH": "habrías entendido",
+      "ENGLISH": "you would have understood"
+    },
+    "EL": {
+      "SPANISH": "habría entendido",
+      "ENGLISH": "s/he would have understood, you (formal) would have understood"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían entendido",
+      "ENGLISH": "they would have understood, you (plural formal) would have understood"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos entendido",
+      "ENGLISH": "we would have understood"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais entendido",
+      "ENGLISH": "you (plural) would have understood"
+    }
+  }
+}

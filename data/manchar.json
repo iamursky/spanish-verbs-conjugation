@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "mancho",
+      "ENGLISH": "I stain"
+    },
+    "TU": {
+      "SPANISH": "manchas",
+      "ENGLISH": "you stain"
+    },
+    "EL": {
+      "SPANISH": "mancha",
+      "ENGLISH": "s/he stains, you (formal) stains"
+    },
+    "ELLOS": {
+      "SPANISH": "manchan",
+      "ENGLISH": "they stain, you (plural formal) stain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manchamos",
+      "ENGLISH": "we stain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mancháis",
+      "ENGLISH": "you (plural) stain"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he manchado",
+      "ENGLISH": "I have stained"
+    },
+    "TU": {
+      "SPANISH": "has manchado",
+      "ENGLISH": "you have stained"
+    },
+    "EL": {
+      "SPANISH": "ha manchado",
+      "ENGLISH": "s/he has stained, you (formal) have stained"
+    },
+    "ELLOS": {
+      "SPANISH": "han manchado",
+      "ENGLISH": "they have stained, you (plural formal) have stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos manchado",
+      "ENGLISH": "we have stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis manchado",
+      "ENGLISH": "you (plural) have stained"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "manché",
+      "ENGLISH": "I stained"
+    },
+    "TU": {
+      "SPANISH": "manchaste",
+      "ENGLISH": "you stained"
+    },
+    "EL": {
+      "SPANISH": "manchó",
+      "ENGLISH": "s/he stained, you (formal) stained"
+    },
+    "ELLOS": {
+      "SPANISH": "mancharon",
+      "ENGLISH": "they stained, you (plural formal) stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manchamos",
+      "ENGLISH": "we stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manchasteis",
+      "ENGLISH": "you (plural) stained"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había manchado",
+      "ENGLISH": "I had stained"
+    },
+    "TU": {
+      "SPANISH": "habías manchado",
+      "ENGLISH": "you had stained"
+    },
+    "EL": {
+      "SPANISH": "había manchado",
+      "ENGLISH": "s/he had stained, you (formal) had stained"
+    },
+    "ELLOS": {
+      "SPANISH": "habían manchado",
+      "ENGLISH": "they had stained, you (plural formal) had stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos manchado",
+      "ENGLISH": "we had stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais manchado",
+      "ENGLISH": "you (plural) had stained"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "manché",
+      "ENGLISH": "I stained"
+    },
+    "TU": {
+      "SPANISH": "manchaste",
+      "ENGLISH": "you stained"
+    },
+    "EL": {
+      "SPANISH": "manchó",
+      "ENGLISH": "s/he stained, you (formal) stained"
+    },
+    "ELLOS": {
+      "SPANISH": "mancharon",
+      "ENGLISH": "they stained, you (plural formal) stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "manchamos",
+      "ENGLISH": "we stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "manchasteis",
+      "ENGLISH": "you (plural) stained"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mancharé",
+      "ENGLISH": "I will stain"
+    },
+    "TU": {
+      "SPANISH": "mancharás",
+      "ENGLISH": "you will stain"
+    },
+    "EL": {
+      "SPANISH": "manchará",
+      "ENGLISH": "s/he will stain, you (formal) will stain"
+    },
+    "ELLOS": {
+      "SPANISH": "mancharán",
+      "ENGLISH": "they will stain, you (plural formal) will stain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mancharemos",
+      "ENGLISH": "we will stain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mancharéis",
+      "ENGLISH": "you (plural) will stain"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré manchado",
+      "ENGLISH": "I will have stained"
+    },
+    "TU": {
+      "SPANISH": "habrás manchado",
+      "ENGLISH": "you will have stained"
+    },
+    "EL": {
+      "SPANISH": "habrá manchado",
+      "ENGLISH": "s/he will have stained, you (formal) will have stained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán manchado",
+      "ENGLISH": "they will have stained, you (plural formal) will have stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos manchado",
+      "ENGLISH": "we will have stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis manchado",
+      "ENGLISH": "you (plural) will have stained"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mancharía",
+      "ENGLISH": "I would stain"
+    },
+    "TU": {
+      "SPANISH": "mancharías",
+      "ENGLISH": "you would stain"
+    },
+    "EL": {
+      "SPANISH": "mancharía",
+      "ENGLISH": "s/he would stain, you (formal) would stain"
+    },
+    "ELLOS": {
+      "SPANISH": "mancharían",
+      "ENGLISH": "they would stain, you (plural formal) would stain"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mancharíamos",
+      "ENGLISH": "we would stain"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mancharíais",
+      "ENGLISH": "you (plural) would stain"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría manchado",
+      "ENGLISH": "I would have stained"
+    },
+    "TU": {
+      "SPANISH": "habrías manchado",
+      "ENGLISH": "you would have stained"
+    },
+    "EL": {
+      "SPANISH": "habría manchado",
+      "ENGLISH": "s/he would have stained, you (formal) would have stained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían manchado",
+      "ENGLISH": "they would have stained, you (plural formal) would have stained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos manchado",
+      "ENGLISH": "we would have stained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais manchado",
+      "ENGLISH": "you (plural) would have stained"
+    }
+  }
+}

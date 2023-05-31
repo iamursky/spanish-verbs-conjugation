@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "sufro",
+      "ENGLISH": "I suffer"
+    },
+    "TU": {
+      "SPANISH": "sufres",
+      "ENGLISH": "you suffer"
+    },
+    "EL": {
+      "SPANISH": "sufre",
+      "ENGLISH": "s/he suffers, you (formal) suffers"
+    },
+    "ELLOS": {
+      "SPANISH": "sufren",
+      "ENGLISH": "they suffer, you (plural formal) suffer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sufrimos",
+      "ENGLISH": "we suffer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sufrís",
+      "ENGLISH": "you (plural) suffer"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he sufrido",
+      "ENGLISH": "I have suffered"
+    },
+    "TU": {
+      "SPANISH": "has sufrido",
+      "ENGLISH": "you have suffered"
+    },
+    "EL": {
+      "SPANISH": "ha sufrido",
+      "ENGLISH": "s/he has suffered, you (formal) have suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "han sufrido",
+      "ENGLISH": "they have suffered, you (plural formal) have suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos sufrido",
+      "ENGLISH": "we have suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis sufrido",
+      "ENGLISH": "you (plural) have suffered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "sufrí",
+      "ENGLISH": "I suffered"
+    },
+    "TU": {
+      "SPANISH": "sufriste",
+      "ENGLISH": "you suffered"
+    },
+    "EL": {
+      "SPANISH": "sufrió",
+      "ENGLISH": "s/he suffered, you (formal) suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "sufrieron",
+      "ENGLISH": "they suffered, you (plural formal) suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sufrimos",
+      "ENGLISH": "we suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sufristeis",
+      "ENGLISH": "you (plural) suffered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había sufrido",
+      "ENGLISH": "I had suffered"
+    },
+    "TU": {
+      "SPANISH": "habías sufrido",
+      "ENGLISH": "you had suffered"
+    },
+    "EL": {
+      "SPANISH": "había sufrido",
+      "ENGLISH": "s/he had suffered, you (formal) had suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían sufrido",
+      "ENGLISH": "they had suffered, you (plural formal) had suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos sufrido",
+      "ENGLISH": "we had suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais sufrido",
+      "ENGLISH": "you (plural) had suffered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "sufrí",
+      "ENGLISH": "I suffered"
+    },
+    "TU": {
+      "SPANISH": "sufriste",
+      "ENGLISH": "you suffered"
+    },
+    "EL": {
+      "SPANISH": "sufrió",
+      "ENGLISH": "s/he suffered, you (formal) suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "sufrieron",
+      "ENGLISH": "they suffered, you (plural formal) suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sufrimos",
+      "ENGLISH": "we suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sufristeis",
+      "ENGLISH": "you (plural) suffered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "sufriré",
+      "ENGLISH": "I will suffer"
+    },
+    "TU": {
+      "SPANISH": "sufrirás",
+      "ENGLISH": "you will suffer"
+    },
+    "EL": {
+      "SPANISH": "sufrirá",
+      "ENGLISH": "s/he will suffer, you (formal) will suffer"
+    },
+    "ELLOS": {
+      "SPANISH": "sufrirán",
+      "ENGLISH": "they will suffer, you (plural formal) will suffer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sufriremos",
+      "ENGLISH": "we will suffer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sufriréis",
+      "ENGLISH": "you (plural) will suffer"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré sufrido",
+      "ENGLISH": "I will have suffered"
+    },
+    "TU": {
+      "SPANISH": "habrás sufrido",
+      "ENGLISH": "you will have suffered"
+    },
+    "EL": {
+      "SPANISH": "habrá sufrido",
+      "ENGLISH": "s/he will have suffered, you (formal) will have suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán sufrido",
+      "ENGLISH": "they will have suffered, you (plural formal) will have suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos sufrido",
+      "ENGLISH": "we will have suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis sufrido",
+      "ENGLISH": "you (plural) will have suffered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "sufriría",
+      "ENGLISH": "I would suffer"
+    },
+    "TU": {
+      "SPANISH": "sufrirías",
+      "ENGLISH": "you would suffer"
+    },
+    "EL": {
+      "SPANISH": "sufriría",
+      "ENGLISH": "s/he would suffer, you (formal) would suffer"
+    },
+    "ELLOS": {
+      "SPANISH": "sufrirían",
+      "ENGLISH": "they would suffer, you (plural formal) would suffer"
+    },
+    "NOSOTROS": {
+      "SPANISH": "sufriríamos",
+      "ENGLISH": "we would suffer"
+    },
+    "VOSOTROS": {
+      "SPANISH": "sufriríais",
+      "ENGLISH": "you (plural) would suffer"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría sufrido",
+      "ENGLISH": "I would have suffered"
+    },
+    "TU": {
+      "SPANISH": "habrías sufrido",
+      "ENGLISH": "you would have suffered"
+    },
+    "EL": {
+      "SPANISH": "habría sufrido",
+      "ENGLISH": "s/he would have suffered, you (formal) would have suffered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían sufrido",
+      "ENGLISH": "they would have suffered, you (plural formal) would have suffered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos sufrido",
+      "ENGLISH": "we would have suffered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais sufrido",
+      "ENGLISH": "you (plural) would have suffered"
+    }
+  }
+}

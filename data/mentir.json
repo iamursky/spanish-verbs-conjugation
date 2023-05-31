@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "miento ",
+      "ENGLISH": "I lie"
+    },
+    "TU": {
+      "SPANISH": "mientes ",
+      "ENGLISH": "you lie"
+    },
+    "EL": {
+      "SPANISH": "miente ",
+      "ENGLISH": "s/he lies, you (formal) lies"
+    },
+    "ELLOS": {
+      "SPANISH": "mienten ",
+      "ENGLISH": "they lie, you (plural formal) lie"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mentimos",
+      "ENGLISH": "we lie"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mentís",
+      "ENGLISH": "you (plural) lie"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he mentido",
+      "ENGLISH": "I have lied"
+    },
+    "TU": {
+      "SPANISH": "has mentido",
+      "ENGLISH": "you have lied"
+    },
+    "EL": {
+      "SPANISH": "ha mentido",
+      "ENGLISH": "s/he has lied, you (formal) have lied"
+    },
+    "ELLOS": {
+      "SPANISH": "han mentido",
+      "ENGLISH": "they have lied, you (plural formal) have lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos mentido",
+      "ENGLISH": "we have lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis mentido",
+      "ENGLISH": "you (plural) have lied"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "mentí",
+      "ENGLISH": "I lied"
+    },
+    "TU": {
+      "SPANISH": "mentiste",
+      "ENGLISH": "you lied"
+    },
+    "EL": {
+      "SPANISH": "mintió ",
+      "ENGLISH": "s/he lied, you (formal) lied"
+    },
+    "ELLOS": {
+      "SPANISH": "mintieron ",
+      "ENGLISH": "they lied, you (plural formal) lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mentimos",
+      "ENGLISH": "we lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mentisteis",
+      "ENGLISH": "you (plural) lied"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había mentido",
+      "ENGLISH": "I had lied"
+    },
+    "TU": {
+      "SPANISH": "habías mentido",
+      "ENGLISH": "you had lied"
+    },
+    "EL": {
+      "SPANISH": "había mentido",
+      "ENGLISH": "s/he had lied, you (formal) had lied"
+    },
+    "ELLOS": {
+      "SPANISH": "habían mentido",
+      "ENGLISH": "they had lied, you (plural formal) had lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos mentido",
+      "ENGLISH": "we had lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais mentido",
+      "ENGLISH": "you (plural) had lied"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "mentí",
+      "ENGLISH": "I lied"
+    },
+    "TU": {
+      "SPANISH": "mentiste",
+      "ENGLISH": "you lied"
+    },
+    "EL": {
+      "SPANISH": "mintió ",
+      "ENGLISH": "s/he lied, you (formal) lied"
+    },
+    "ELLOS": {
+      "SPANISH": "mintieron ",
+      "ENGLISH": "they lied, you (plural formal) lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mentimos",
+      "ENGLISH": "we lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mentisteis",
+      "ENGLISH": "you (plural) lied"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mentiré",
+      "ENGLISH": "I will lie"
+    },
+    "TU": {
+      "SPANISH": "mentirás",
+      "ENGLISH": "you will lie"
+    },
+    "EL": {
+      "SPANISH": "mentirá",
+      "ENGLISH": "s/he will lie, you (formal) will lie"
+    },
+    "ELLOS": {
+      "SPANISH": "mentirán",
+      "ENGLISH": "they will lie, you (plural formal) will lie"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mentiremos",
+      "ENGLISH": "we will lie"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mentiréis",
+      "ENGLISH": "you (plural) will lie"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré mentido",
+      "ENGLISH": "I will have lied"
+    },
+    "TU": {
+      "SPANISH": "habrás mentido",
+      "ENGLISH": "you will have lied"
+    },
+    "EL": {
+      "SPANISH": "habrá mentido",
+      "ENGLISH": "s/he will have lied, you (formal) will have lied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán mentido",
+      "ENGLISH": "they will have lied, you (plural formal) will have lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos mentido",
+      "ENGLISH": "we will have lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis mentido",
+      "ENGLISH": "you (plural) will have lied"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "mentiría",
+      "ENGLISH": "I would lie"
+    },
+    "TU": {
+      "SPANISH": "mentirías",
+      "ENGLISH": "you would lie"
+    },
+    "EL": {
+      "SPANISH": "mentiría",
+      "ENGLISH": "s/he would lie, you (formal) would lie"
+    },
+    "ELLOS": {
+      "SPANISH": "mentirían",
+      "ENGLISH": "they would lie, you (plural formal) would lie"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mentiríamos",
+      "ENGLISH": "we would lie"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mentiríais",
+      "ENGLISH": "you (plural) would lie"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría mentido",
+      "ENGLISH": "I would have lied"
+    },
+    "TU": {
+      "SPANISH": "habrías mentido",
+      "ENGLISH": "you would have lied"
+    },
+    "EL": {
+      "SPANISH": "habría mentido",
+      "ENGLISH": "s/he would have lied, you (formal) would have lied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían mentido",
+      "ENGLISH": "they would have lied, you (plural formal) would have lied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos mentido",
+      "ENGLISH": "we would have lied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais mentido",
+      "ENGLISH": "you (plural) would have lied"
+    }
+  }
+}

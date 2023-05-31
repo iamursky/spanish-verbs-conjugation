@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "preparo",
+      "ENGLISH": "I prepare"
+    },
+    "TU": {
+      "SPANISH": "preparas",
+      "ENGLISH": "you prepare"
+    },
+    "EL": {
+      "SPANISH": "prepara",
+      "ENGLISH": "s/he prepares, you (formal) prepares"
+    },
+    "ELLOS": {
+      "SPANISH": "preparan",
+      "ENGLISH": "they prepare, you (plural formal) prepare"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preparamos",
+      "ENGLISH": "we prepare"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preparáis",
+      "ENGLISH": "you (plural) prepare"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he preparado",
+      "ENGLISH": "I have prepared"
+    },
+    "TU": {
+      "SPANISH": "has preparado",
+      "ENGLISH": "you have prepared"
+    },
+    "EL": {
+      "SPANISH": "ha preparado",
+      "ENGLISH": "s/he has prepared, you (formal) have prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "han preparado",
+      "ENGLISH": "they have prepared, you (plural formal) have prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos preparado",
+      "ENGLISH": "we have prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis preparado",
+      "ENGLISH": "you (plural) have prepared"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "preparé",
+      "ENGLISH": "I prepared"
+    },
+    "TU": {
+      "SPANISH": "preparaste",
+      "ENGLISH": "you prepared"
+    },
+    "EL": {
+      "SPANISH": "preparó",
+      "ENGLISH": "s/he prepared, you (formal) prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "prepararon",
+      "ENGLISH": "they prepared, you (plural formal) prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preparamos",
+      "ENGLISH": "we prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preparasteis",
+      "ENGLISH": "you (plural) prepared"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había preparado",
+      "ENGLISH": "I had prepared"
+    },
+    "TU": {
+      "SPANISH": "habías preparado",
+      "ENGLISH": "you had prepared"
+    },
+    "EL": {
+      "SPANISH": "había preparado",
+      "ENGLISH": "s/he had prepared, you (formal) had prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "habían preparado",
+      "ENGLISH": "they had prepared, you (plural formal) had prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos preparado",
+      "ENGLISH": "we had prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais preparado",
+      "ENGLISH": "you (plural) had prepared"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "preparé",
+      "ENGLISH": "I prepared"
+    },
+    "TU": {
+      "SPANISH": "preparaste",
+      "ENGLISH": "you prepared"
+    },
+    "EL": {
+      "SPANISH": "preparó",
+      "ENGLISH": "s/he prepared, you (formal) prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "prepararon",
+      "ENGLISH": "they prepared, you (plural formal) prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "preparamos",
+      "ENGLISH": "we prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "preparasteis",
+      "ENGLISH": "you (plural) prepared"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "prepararé",
+      "ENGLISH": "I will prepare"
+    },
+    "TU": {
+      "SPANISH": "prepararás",
+      "ENGLISH": "you will prepare"
+    },
+    "EL": {
+      "SPANISH": "preparará",
+      "ENGLISH": "s/he will prepare, you (formal) will prepare"
+    },
+    "ELLOS": {
+      "SPANISH": "prepararán",
+      "ENGLISH": "they will prepare, you (plural formal) will prepare"
+    },
+    "NOSOTROS": {
+      "SPANISH": "prepararemos",
+      "ENGLISH": "we will prepare"
+    },
+    "VOSOTROS": {
+      "SPANISH": "prepararéis",
+      "ENGLISH": "you (plural) will prepare"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré preparado",
+      "ENGLISH": "I will have prepared"
+    },
+    "TU": {
+      "SPANISH": "habrás preparado",
+      "ENGLISH": "you will have prepared"
+    },
+    "EL": {
+      "SPANISH": "habrá preparado",
+      "ENGLISH": "s/he will have prepared, you (formal) will have prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán preparado",
+      "ENGLISH": "they will have prepared, you (plural formal) will have prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos preparado",
+      "ENGLISH": "we will have prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis preparado",
+      "ENGLISH": "you (plural) will have prepared"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "prepararía",
+      "ENGLISH": "I would prepare"
+    },
+    "TU": {
+      "SPANISH": "prepararías",
+      "ENGLISH": "you would prepare"
+    },
+    "EL": {
+      "SPANISH": "prepararía",
+      "ENGLISH": "s/he would prepare, you (formal) would prepare"
+    },
+    "ELLOS": {
+      "SPANISH": "prepararían",
+      "ENGLISH": "they would prepare, you (plural formal) would prepare"
+    },
+    "NOSOTROS": {
+      "SPANISH": "prepararíamos",
+      "ENGLISH": "we would prepare"
+    },
+    "VOSOTROS": {
+      "SPANISH": "prepararíais",
+      "ENGLISH": "you (plural) would prepare"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría preparado",
+      "ENGLISH": "I would have prepared"
+    },
+    "TU": {
+      "SPANISH": "habrías preparado",
+      "ENGLISH": "you would have prepared"
+    },
+    "EL": {
+      "SPANISH": "habría preparado",
+      "ENGLISH": "s/he would have prepared, you (formal) would have prepared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían preparado",
+      "ENGLISH": "they would have prepared, you (plural formal) would have prepared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos preparado",
+      "ENGLISH": "we would have prepared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais preparado",
+      "ENGLISH": "you (plural) would have prepared"
+    }
+  }
+}

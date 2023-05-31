@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "recomiendo ",
+      "ENGLISH": "I recommend"
+    },
+    "TU": {
+      "SPANISH": "recomiendas ",
+      "ENGLISH": "you recommend"
+    },
+    "EL": {
+      "SPANISH": "recomienda ",
+      "ENGLISH": "s/he recommends, you (formal) recommends"
+    },
+    "ELLOS": {
+      "SPANISH": "recomiendan ",
+      "ENGLISH": "they recommend, you (plural formal) recommend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recomendamos",
+      "ENGLISH": "we recommend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recomendáis",
+      "ENGLISH": "you (plural) recommend"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he recomendado",
+      "ENGLISH": "I have recommended"
+    },
+    "TU": {
+      "SPANISH": "has recomendado",
+      "ENGLISH": "you have recommended"
+    },
+    "EL": {
+      "SPANISH": "ha recomendado",
+      "ENGLISH": "s/he has recommended, you (formal) have recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "han recomendado",
+      "ENGLISH": "they have recommended, you (plural formal) have recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos recomendado",
+      "ENGLISH": "we have recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis recomendado",
+      "ENGLISH": "you (plural) have recommended"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "recomendé",
+      "ENGLISH": "I recommended"
+    },
+    "TU": {
+      "SPANISH": "recomendaste",
+      "ENGLISH": "you recommended"
+    },
+    "EL": {
+      "SPANISH": "recomendó",
+      "ENGLISH": "s/he recommended, you (formal) recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "recomendaron",
+      "ENGLISH": "they recommended, you (plural formal) recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recomendamos",
+      "ENGLISH": "we recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recomendasteis",
+      "ENGLISH": "you (plural) recommended"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había recomendado",
+      "ENGLISH": "I had recommended"
+    },
+    "TU": {
+      "SPANISH": "habías recomendado",
+      "ENGLISH": "you had recommended"
+    },
+    "EL": {
+      "SPANISH": "había recomendado",
+      "ENGLISH": "s/he had recommended, you (formal) had recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "habían recomendado",
+      "ENGLISH": "they had recommended, you (plural formal) had recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos recomendado",
+      "ENGLISH": "we had recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais recomendado",
+      "ENGLISH": "you (plural) had recommended"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "recomendé",
+      "ENGLISH": "I recommended"
+    },
+    "TU": {
+      "SPANISH": "recomendaste",
+      "ENGLISH": "you recommended"
+    },
+    "EL": {
+      "SPANISH": "recomendó",
+      "ENGLISH": "s/he recommended, you (formal) recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "recomendaron",
+      "ENGLISH": "they recommended, you (plural formal) recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recomendamos",
+      "ENGLISH": "we recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recomendasteis",
+      "ENGLISH": "you (plural) recommended"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "recomendaré",
+      "ENGLISH": "I will recommend"
+    },
+    "TU": {
+      "SPANISH": "recomendarás",
+      "ENGLISH": "you will recommend"
+    },
+    "EL": {
+      "SPANISH": "recomendará",
+      "ENGLISH": "s/he will recommend, you (formal) will recommend"
+    },
+    "ELLOS": {
+      "SPANISH": "recomendarán",
+      "ENGLISH": "they will recommend, you (plural formal) will recommend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recomendaremos",
+      "ENGLISH": "we will recommend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recomendaréis",
+      "ENGLISH": "you (plural) will recommend"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré recomendado",
+      "ENGLISH": "I will have recommended"
+    },
+    "TU": {
+      "SPANISH": "habrás recomendado",
+      "ENGLISH": "you will have recommended"
+    },
+    "EL": {
+      "SPANISH": "habrá recomendado",
+      "ENGLISH": "s/he will have recommended, you (formal) will have recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán recomendado",
+      "ENGLISH": "they will have recommended, you (plural formal) will have recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos recomendado",
+      "ENGLISH": "we will have recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis recomendado",
+      "ENGLISH": "you (plural) will have recommended"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "recomendaría",
+      "ENGLISH": "I would recommend"
+    },
+    "TU": {
+      "SPANISH": "recomendarías",
+      "ENGLISH": "you would recommend"
+    },
+    "EL": {
+      "SPANISH": "recomendaría",
+      "ENGLISH": "s/he would recommend, you (formal) would recommend"
+    },
+    "ELLOS": {
+      "SPANISH": "recomendarían",
+      "ENGLISH": "they would recommend, you (plural formal) would recommend"
+    },
+    "NOSOTROS": {
+      "SPANISH": "recomendaríamos",
+      "ENGLISH": "we would recommend"
+    },
+    "VOSOTROS": {
+      "SPANISH": "recomendaríais",
+      "ENGLISH": "you (plural) would recommend"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría recomendado",
+      "ENGLISH": "I would have recommended"
+    },
+    "TU": {
+      "SPANISH": "habrías recomendado",
+      "ENGLISH": "you would have recommended"
+    },
+    "EL": {
+      "SPANISH": "habría recomendado",
+      "ENGLISH": "s/he would have recommended, you (formal) would have recommended"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían recomendado",
+      "ENGLISH": "they would have recommended, you (plural formal) would have recommended"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos recomendado",
+      "ENGLISH": "we would have recommended"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais recomendado",
+      "ENGLISH": "you (plural) would have recommended"
+    }
+  }
+}

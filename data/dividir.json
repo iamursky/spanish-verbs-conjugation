@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "divido",
+      "ENGLISH": "I divide"
+    },
+    "TU": {
+      "SPANISH": "divides",
+      "ENGLISH": "you divide"
+    },
+    "EL": {
+      "SPANISH": "divide",
+      "ENGLISH": "s/he divides, you (formal) divides"
+    },
+    "ELLOS": {
+      "SPANISH": "dividen",
+      "ENGLISH": "they divide, you (plural formal) divide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dividimos",
+      "ENGLISH": "we divide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dividís",
+      "ENGLISH": "you (plural) divide"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he dividido",
+      "ENGLISH": "I have divided"
+    },
+    "TU": {
+      "SPANISH": "has dividido",
+      "ENGLISH": "you have divided"
+    },
+    "EL": {
+      "SPANISH": "ha dividido",
+      "ENGLISH": "s/he has divided, you (formal) have divided"
+    },
+    "ELLOS": {
+      "SPANISH": "han dividido",
+      "ENGLISH": "they have divided, you (plural formal) have divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos dividido",
+      "ENGLISH": "we have divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis dividido",
+      "ENGLISH": "you (plural) have divided"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "dividí",
+      "ENGLISH": "I divided"
+    },
+    "TU": {
+      "SPANISH": "dividiste",
+      "ENGLISH": "you divided"
+    },
+    "EL": {
+      "SPANISH": "dividió",
+      "ENGLISH": "s/he divided, you (formal) divided"
+    },
+    "ELLOS": {
+      "SPANISH": "dividieron",
+      "ENGLISH": "they divided, you (plural formal) divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dividimos",
+      "ENGLISH": "we divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dividisteis",
+      "ENGLISH": "you (plural) divided"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había dividido",
+      "ENGLISH": "I had divided"
+    },
+    "TU": {
+      "SPANISH": "habías dividido",
+      "ENGLISH": "you had divided"
+    },
+    "EL": {
+      "SPANISH": "había dividido",
+      "ENGLISH": "s/he had divided, you (formal) had divided"
+    },
+    "ELLOS": {
+      "SPANISH": "habían dividido",
+      "ENGLISH": "they had divided, you (plural formal) had divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos dividido",
+      "ENGLISH": "we had divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais dividido",
+      "ENGLISH": "you (plural) had divided"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "dividí",
+      "ENGLISH": "I divided"
+    },
+    "TU": {
+      "SPANISH": "dividiste",
+      "ENGLISH": "you divided"
+    },
+    "EL": {
+      "SPANISH": "dividió",
+      "ENGLISH": "s/he divided, you (formal) divided"
+    },
+    "ELLOS": {
+      "SPANISH": "dividieron",
+      "ENGLISH": "they divided, you (plural formal) divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dividimos",
+      "ENGLISH": "we divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dividisteis",
+      "ENGLISH": "you (plural) divided"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "dividiré",
+      "ENGLISH": "I will divide"
+    },
+    "TU": {
+      "SPANISH": "dividirás",
+      "ENGLISH": "you will divide"
+    },
+    "EL": {
+      "SPANISH": "dividirá",
+      "ENGLISH": "s/he will divide, you (formal) will divide"
+    },
+    "ELLOS": {
+      "SPANISH": "dividirán",
+      "ENGLISH": "they will divide, you (plural formal) will divide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dividiremos",
+      "ENGLISH": "we will divide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dividiréis",
+      "ENGLISH": "you (plural) will divide"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré dividido",
+      "ENGLISH": "I will have divided"
+    },
+    "TU": {
+      "SPANISH": "habrás dividido",
+      "ENGLISH": "you will have divided"
+    },
+    "EL": {
+      "SPANISH": "habrá dividido",
+      "ENGLISH": "s/he will have divided, you (formal) will have divided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán dividido",
+      "ENGLISH": "they will have divided, you (plural formal) will have divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos dividido",
+      "ENGLISH": "we will have divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis dividido",
+      "ENGLISH": "you (plural) will have divided"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "dividiría",
+      "ENGLISH": "I would divide"
+    },
+    "TU": {
+      "SPANISH": "dividirías",
+      "ENGLISH": "you would divide"
+    },
+    "EL": {
+      "SPANISH": "dividiría",
+      "ENGLISH": "s/he would divide, you (formal) would divide"
+    },
+    "ELLOS": {
+      "SPANISH": "dividirían",
+      "ENGLISH": "they would divide, you (plural formal) would divide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "dividiríamos",
+      "ENGLISH": "we would divide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "dividiríais",
+      "ENGLISH": "you (plural) would divide"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría dividido",
+      "ENGLISH": "I would have divided"
+    },
+    "TU": {
+      "SPANISH": "habrías dividido",
+      "ENGLISH": "you would have divided"
+    },
+    "EL": {
+      "SPANISH": "habría dividido",
+      "ENGLISH": "s/he would have divided, you (formal) would have divided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían dividido",
+      "ENGLISH": "they would have divided, you (plural formal) would have divided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos dividido",
+      "ENGLISH": "we would have divided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais dividido",
+      "ENGLISH": "you (plural) would have divided"
+    }
+  }
+}

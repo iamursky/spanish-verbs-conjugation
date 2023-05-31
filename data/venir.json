@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "vengo ",
+      "ENGLISH": "I come"
+    },
+    "TU": {
+      "SPANISH": "vienes ",
+      "ENGLISH": "you come"
+    },
+    "EL": {
+      "SPANISH": "viene ",
+      "ENGLISH": "s/he comes, you (formal) comes"
+    },
+    "ELLOS": {
+      "SPANISH": "vienen ",
+      "ENGLISH": "they come, you (plural formal) come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "venimos",
+      "ENGLISH": "we come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "venís",
+      "ENGLISH": "you (plural) come"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he venido",
+      "ENGLISH": "I have come"
+    },
+    "TU": {
+      "SPANISH": "has venido",
+      "ENGLISH": "you have come"
+    },
+    "EL": {
+      "SPANISH": "ha venido",
+      "ENGLISH": "s/he has come, you (formal) have come"
+    },
+    "ELLOS": {
+      "SPANISH": "han venido",
+      "ENGLISH": "they have come, you (plural formal) have come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos venido",
+      "ENGLISH": "we have come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis venido",
+      "ENGLISH": "you (plural) have come"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "vine ",
+      "ENGLISH": "I came"
+    },
+    "TU": {
+      "SPANISH": "viniste ",
+      "ENGLISH": "you came"
+    },
+    "EL": {
+      "SPANISH": "vino ",
+      "ENGLISH": "s/he came, you (formal) came"
+    },
+    "ELLOS": {
+      "SPANISH": "vinieron ",
+      "ENGLISH": "they came, you (plural formal) came"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vinimos ",
+      "ENGLISH": "we came"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vinisteis ",
+      "ENGLISH": "you (plural) came"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había venido",
+      "ENGLISH": "I had come"
+    },
+    "TU": {
+      "SPANISH": "habías venido",
+      "ENGLISH": "you had come"
+    },
+    "EL": {
+      "SPANISH": "había venido",
+      "ENGLISH": "s/he had come, you (formal) had come"
+    },
+    "ELLOS": {
+      "SPANISH": "habían venido",
+      "ENGLISH": "they had come, you (plural formal) had come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos venido",
+      "ENGLISH": "we had come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais venido",
+      "ENGLISH": "you (plural) had come"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "vine ",
+      "ENGLISH": "I came"
+    },
+    "TU": {
+      "SPANISH": "viniste ",
+      "ENGLISH": "you came"
+    },
+    "EL": {
+      "SPANISH": "vino ",
+      "ENGLISH": "s/he came, you (formal) came"
+    },
+    "ELLOS": {
+      "SPANISH": "vinieron ",
+      "ENGLISH": "they came, you (plural formal) came"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vinimos ",
+      "ENGLISH": "we came"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vinisteis ",
+      "ENGLISH": "you (plural) came"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "vendré ",
+      "ENGLISH": "I will come"
+    },
+    "TU": {
+      "SPANISH": "vendrás ",
+      "ENGLISH": "you will come"
+    },
+    "EL": {
+      "SPANISH": "vendrá ",
+      "ENGLISH": "s/he will come, you (formal) will come"
+    },
+    "ELLOS": {
+      "SPANISH": "vendrán ",
+      "ENGLISH": "they will come, you (plural formal) will come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vendremos ",
+      "ENGLISH": "we will come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vendréis ",
+      "ENGLISH": "you (plural) will come"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré venido",
+      "ENGLISH": "I will have come"
+    },
+    "TU": {
+      "SPANISH": "habrás venido",
+      "ENGLISH": "you will have come"
+    },
+    "EL": {
+      "SPANISH": "habrá venido",
+      "ENGLISH": "s/he will have come, you (formal) will have come"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán venido",
+      "ENGLISH": "they will have come, you (plural formal) will have come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos venido",
+      "ENGLISH": "we will have come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis venido",
+      "ENGLISH": "you (plural) will have come"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "vendría ",
+      "ENGLISH": "I would come"
+    },
+    "TU": {
+      "SPANISH": "vendrías ",
+      "ENGLISH": "you would come"
+    },
+    "EL": {
+      "SPANISH": "vendría ",
+      "ENGLISH": "s/he would come, you (formal) would come"
+    },
+    "ELLOS": {
+      "SPANISH": "vendrían ",
+      "ENGLISH": "they would come, you (plural formal) would come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "vendríamos ",
+      "ENGLISH": "we would come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "vendríais ",
+      "ENGLISH": "you (plural) would come"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría venido",
+      "ENGLISH": "I would have come"
+    },
+    "TU": {
+      "SPANISH": "habrías venido",
+      "ENGLISH": "you would have come"
+    },
+    "EL": {
+      "SPANISH": "habría venido",
+      "ENGLISH": "s/he would have come, you (formal) would have come"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían venido",
+      "ENGLISH": "they would have come, you (plural formal) would have come"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos venido",
+      "ENGLISH": "we would have come"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais venido",
+      "ENGLISH": "you (plural) would have come"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "cumplo",
+      "ENGLISH": "I carry out"
+    },
+    "TU": {
+      "SPANISH": "cumples",
+      "ENGLISH": "you carry out"
+    },
+    "EL": {
+      "SPANISH": "cumple",
+      "ENGLISH": "s/he carries out, you (formal) carries out"
+    },
+    "ELLOS": {
+      "SPANISH": "cumplen",
+      "ENGLISH": "they carry out, you (plural formal) carry out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cumplimos",
+      "ENGLISH": "we carry out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cumplís",
+      "ENGLISH": "you (plural) carry out"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he cumplido",
+      "ENGLISH": "I have carried out"
+    },
+    "TU": {
+      "SPANISH": "has cumplido",
+      "ENGLISH": "you have carried out"
+    },
+    "EL": {
+      "SPANISH": "ha cumplido",
+      "ENGLISH": "s/he has carried out, you (formal) have carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "han cumplido",
+      "ENGLISH": "they have carried out, you (plural formal) have carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos cumplido",
+      "ENGLISH": "we have carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis cumplido",
+      "ENGLISH": "you (plural) have carried out"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "cumplí",
+      "ENGLISH": "I carried out"
+    },
+    "TU": {
+      "SPANISH": "cumpliste",
+      "ENGLISH": "you carried out"
+    },
+    "EL": {
+      "SPANISH": "cumplió",
+      "ENGLISH": "s/he carried out, you (formal) carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "cumplieron",
+      "ENGLISH": "they carried out, you (plural formal) carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cumplimos",
+      "ENGLISH": "we carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cumplisteis",
+      "ENGLISH": "you (plural) carried out"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había cumplido",
+      "ENGLISH": "I had carried out"
+    },
+    "TU": {
+      "SPANISH": "habías cumplido",
+      "ENGLISH": "you had carried out"
+    },
+    "EL": {
+      "SPANISH": "había cumplido",
+      "ENGLISH": "s/he had carried out, you (formal) had carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "habían cumplido",
+      "ENGLISH": "they had carried out, you (plural formal) had carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos cumplido",
+      "ENGLISH": "we had carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais cumplido",
+      "ENGLISH": "you (plural) had carried out"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "cumplí",
+      "ENGLISH": "I carried out"
+    },
+    "TU": {
+      "SPANISH": "cumpliste",
+      "ENGLISH": "you carried out"
+    },
+    "EL": {
+      "SPANISH": "cumplió",
+      "ENGLISH": "s/he carried out, you (formal) carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "cumplieron",
+      "ENGLISH": "they carried out, you (plural formal) carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cumplimos",
+      "ENGLISH": "we carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cumplisteis",
+      "ENGLISH": "you (plural) carried out"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "cumpliré",
+      "ENGLISH": "I will carry out"
+    },
+    "TU": {
+      "SPANISH": "cumplirás",
+      "ENGLISH": "you will carry out"
+    },
+    "EL": {
+      "SPANISH": "cumplirá",
+      "ENGLISH": "s/he will carry out, you (formal) will carry out"
+    },
+    "ELLOS": {
+      "SPANISH": "cumplirán",
+      "ENGLISH": "they will carry out, you (plural formal) will carry out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cumpliremos",
+      "ENGLISH": "we will carry out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cumpliréis",
+      "ENGLISH": "you (plural) will carry out"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré cumplido",
+      "ENGLISH": "I will have carried out"
+    },
+    "TU": {
+      "SPANISH": "habrás cumplido",
+      "ENGLISH": "you will have carried out"
+    },
+    "EL": {
+      "SPANISH": "habrá cumplido",
+      "ENGLISH": "s/he will have carried out, you (formal) will have carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán cumplido",
+      "ENGLISH": "they will have carried out, you (plural formal) will have carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos cumplido",
+      "ENGLISH": "we will have carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis cumplido",
+      "ENGLISH": "you (plural) will have carried out"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "cumpliría",
+      "ENGLISH": "I would carry out"
+    },
+    "TU": {
+      "SPANISH": "cumplirías",
+      "ENGLISH": "you would carry out"
+    },
+    "EL": {
+      "SPANISH": "cumpliría",
+      "ENGLISH": "s/he would carry out, you (formal) would carry out"
+    },
+    "ELLOS": {
+      "SPANISH": "cumplirían",
+      "ENGLISH": "they would carry out, you (plural formal) would carry out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "cumpliríamos",
+      "ENGLISH": "we would carry out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "cumpliríais",
+      "ENGLISH": "you (plural) would carry out"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría cumplido",
+      "ENGLISH": "I would have carried out"
+    },
+    "TU": {
+      "SPANISH": "habrías cumplido",
+      "ENGLISH": "you would have carried out"
+    },
+    "EL": {
+      "SPANISH": "habría cumplido",
+      "ENGLISH": "s/he would have carried out, you (formal) would have carried out"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían cumplido",
+      "ENGLISH": "they would have carried out, you (plural formal) would have carried out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos cumplido",
+      "ENGLISH": "we would have carried out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais cumplido",
+      "ENGLISH": "you (plural) would have carried out"
+    }
+  }
+}

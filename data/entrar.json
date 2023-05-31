@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "entro",
+      "ENGLISH": "I enter"
+    },
+    "TU": {
+      "SPANISH": "entras",
+      "ENGLISH": "you enter"
+    },
+    "EL": {
+      "SPANISH": "entra",
+      "ENGLISH": "s/he enters, you (formal) enters"
+    },
+    "ELLOS": {
+      "SPANISH": "entran",
+      "ENGLISH": "they enter, you (plural formal) enter"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entramos",
+      "ENGLISH": "we enter"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entráis",
+      "ENGLISH": "you (plural) enter"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he entrado",
+      "ENGLISH": "I have entered"
+    },
+    "TU": {
+      "SPANISH": "has entrado",
+      "ENGLISH": "you have entered"
+    },
+    "EL": {
+      "SPANISH": "ha entrado",
+      "ENGLISH": "s/he has entered, you (formal) have entered"
+    },
+    "ELLOS": {
+      "SPANISH": "han entrado",
+      "ENGLISH": "they have entered, you (plural formal) have entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos entrado",
+      "ENGLISH": "we have entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis entrado",
+      "ENGLISH": "you (plural) have entered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "entré",
+      "ENGLISH": "I entered"
+    },
+    "TU": {
+      "SPANISH": "entraste",
+      "ENGLISH": "you entered"
+    },
+    "EL": {
+      "SPANISH": "entró",
+      "ENGLISH": "s/he entered, you (formal) entered"
+    },
+    "ELLOS": {
+      "SPANISH": "entraron",
+      "ENGLISH": "they entered, you (plural formal) entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entramos",
+      "ENGLISH": "we entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrasteis",
+      "ENGLISH": "you (plural) entered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había entrado",
+      "ENGLISH": "I had entered"
+    },
+    "TU": {
+      "SPANISH": "habías entrado",
+      "ENGLISH": "you had entered"
+    },
+    "EL": {
+      "SPANISH": "había entrado",
+      "ENGLISH": "s/he had entered, you (formal) had entered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían entrado",
+      "ENGLISH": "they had entered, you (plural formal) had entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos entrado",
+      "ENGLISH": "we had entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais entrado",
+      "ENGLISH": "you (plural) had entered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "entré",
+      "ENGLISH": "I entered"
+    },
+    "TU": {
+      "SPANISH": "entraste",
+      "ENGLISH": "you entered"
+    },
+    "EL": {
+      "SPANISH": "entró",
+      "ENGLISH": "s/he entered, you (formal) entered"
+    },
+    "ELLOS": {
+      "SPANISH": "entraron",
+      "ENGLISH": "they entered, you (plural formal) entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entramos",
+      "ENGLISH": "we entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrasteis",
+      "ENGLISH": "you (plural) entered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "entraré",
+      "ENGLISH": "I will enter"
+    },
+    "TU": {
+      "SPANISH": "entrarás",
+      "ENGLISH": "you will enter"
+    },
+    "EL": {
+      "SPANISH": "entrará",
+      "ENGLISH": "s/he will enter, you (formal) will enter"
+    },
+    "ELLOS": {
+      "SPANISH": "entrarán",
+      "ENGLISH": "they will enter, you (plural formal) will enter"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entraremos",
+      "ENGLISH": "we will enter"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entraréis",
+      "ENGLISH": "you (plural) will enter"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré entrado",
+      "ENGLISH": "I will have entered"
+    },
+    "TU": {
+      "SPANISH": "habrás entrado",
+      "ENGLISH": "you will have entered"
+    },
+    "EL": {
+      "SPANISH": "habrá entrado",
+      "ENGLISH": "s/he will have entered, you (formal) will have entered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán entrado",
+      "ENGLISH": "they will have entered, you (plural formal) will have entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos entrado",
+      "ENGLISH": "we will have entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis entrado",
+      "ENGLISH": "you (plural) will have entered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "entraría",
+      "ENGLISH": "I would enter"
+    },
+    "TU": {
+      "SPANISH": "entrarías",
+      "ENGLISH": "you would enter"
+    },
+    "EL": {
+      "SPANISH": "entraría",
+      "ENGLISH": "s/he would enter, you (formal) would enter"
+    },
+    "ELLOS": {
+      "SPANISH": "entrarían",
+      "ENGLISH": "they would enter, you (plural formal) would enter"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entraríamos",
+      "ENGLISH": "we would enter"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entraríais",
+      "ENGLISH": "you (plural) would enter"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría entrado",
+      "ENGLISH": "I would have entered"
+    },
+    "TU": {
+      "SPANISH": "habrías entrado",
+      "ENGLISH": "you would have entered"
+    },
+    "EL": {
+      "SPANISH": "habría entrado",
+      "ENGLISH": "s/he would have entered, you (formal) would have entered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían entrado",
+      "ENGLISH": "they would have entered, you (plural formal) would have entered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos entrado",
+      "ENGLISH": "we would have entered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais entrado",
+      "ENGLISH": "you (plural) would have entered"
+    }
+  }
+}

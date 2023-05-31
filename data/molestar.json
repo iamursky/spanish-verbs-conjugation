@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "molesto",
+      "ENGLISH": "I bother"
+    },
+    "TU": {
+      "SPANISH": "molestas",
+      "ENGLISH": "you bother"
+    },
+    "EL": {
+      "SPANISH": "molesta",
+      "ENGLISH": "s/he bothers, you (formal) bothers"
+    },
+    "ELLOS": {
+      "SPANISH": "molestan",
+      "ENGLISH": "they bother, you (plural formal) bother"
+    },
+    "NOSOTROS": {
+      "SPANISH": "molestamos",
+      "ENGLISH": "we bother"
+    },
+    "VOSOTROS": {
+      "SPANISH": "molestáis",
+      "ENGLISH": "you (plural) bother"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he molestado",
+      "ENGLISH": "I have bothered"
+    },
+    "TU": {
+      "SPANISH": "has molestado",
+      "ENGLISH": "you have bothered"
+    },
+    "EL": {
+      "SPANISH": "ha molestado",
+      "ENGLISH": "s/he has bothered, you (formal) have bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "han molestado",
+      "ENGLISH": "they have bothered, you (plural formal) have bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos molestado",
+      "ENGLISH": "we have bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis molestado",
+      "ENGLISH": "you (plural) have bothered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "molesté",
+      "ENGLISH": "I bothered"
+    },
+    "TU": {
+      "SPANISH": "molestaste",
+      "ENGLISH": "you bothered"
+    },
+    "EL": {
+      "SPANISH": "molestó",
+      "ENGLISH": "s/he bothered, you (formal) bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "molestaron",
+      "ENGLISH": "they bothered, you (plural formal) bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "molestamos",
+      "ENGLISH": "we bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "molestasteis",
+      "ENGLISH": "you (plural) bothered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había molestado",
+      "ENGLISH": "I had bothered"
+    },
+    "TU": {
+      "SPANISH": "habías molestado",
+      "ENGLISH": "you had bothered"
+    },
+    "EL": {
+      "SPANISH": "había molestado",
+      "ENGLISH": "s/he had bothered, you (formal) had bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían molestado",
+      "ENGLISH": "they had bothered, you (plural formal) had bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos molestado",
+      "ENGLISH": "we had bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais molestado",
+      "ENGLISH": "you (plural) had bothered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "molesté",
+      "ENGLISH": "I bothered"
+    },
+    "TU": {
+      "SPANISH": "molestaste",
+      "ENGLISH": "you bothered"
+    },
+    "EL": {
+      "SPANISH": "molestó",
+      "ENGLISH": "s/he bothered, you (formal) bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "molestaron",
+      "ENGLISH": "they bothered, you (plural formal) bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "molestamos",
+      "ENGLISH": "we bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "molestasteis",
+      "ENGLISH": "you (plural) bothered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "molestaré",
+      "ENGLISH": "I will bother"
+    },
+    "TU": {
+      "SPANISH": "molestarás",
+      "ENGLISH": "you will bother"
+    },
+    "EL": {
+      "SPANISH": "molestará",
+      "ENGLISH": "s/he will bother, you (formal) will bother"
+    },
+    "ELLOS": {
+      "SPANISH": "molestarán",
+      "ENGLISH": "they will bother, you (plural formal) will bother"
+    },
+    "NOSOTROS": {
+      "SPANISH": "molestaremos",
+      "ENGLISH": "we will bother"
+    },
+    "VOSOTROS": {
+      "SPANISH": "molestaréis",
+      "ENGLISH": "you (plural) will bother"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré molestado",
+      "ENGLISH": "I will have bothered"
+    },
+    "TU": {
+      "SPANISH": "habrás molestado",
+      "ENGLISH": "you will have bothered"
+    },
+    "EL": {
+      "SPANISH": "habrá molestado",
+      "ENGLISH": "s/he will have bothered, you (formal) will have bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán molestado",
+      "ENGLISH": "they will have bothered, you (plural formal) will have bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos molestado",
+      "ENGLISH": "we will have bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis molestado",
+      "ENGLISH": "you (plural) will have bothered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "molestaría",
+      "ENGLISH": "I would bother"
+    },
+    "TU": {
+      "SPANISH": "molestarías",
+      "ENGLISH": "you would bother"
+    },
+    "EL": {
+      "SPANISH": "molestaría",
+      "ENGLISH": "s/he would bother, you (formal) would bother"
+    },
+    "ELLOS": {
+      "SPANISH": "molestarían",
+      "ENGLISH": "they would bother, you (plural formal) would bother"
+    },
+    "NOSOTROS": {
+      "SPANISH": "molestaríamos",
+      "ENGLISH": "we would bother"
+    },
+    "VOSOTROS": {
+      "SPANISH": "molestaríais",
+      "ENGLISH": "you (plural) would bother"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría molestado",
+      "ENGLISH": "I would have bothered"
+    },
+    "TU": {
+      "SPANISH": "habrías molestado",
+      "ENGLISH": "you would have bothered"
+    },
+    "EL": {
+      "SPANISH": "habría molestado",
+      "ENGLISH": "s/he would have bothered, you (formal) would have bothered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían molestado",
+      "ENGLISH": "they would have bothered, you (plural formal) would have bothered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos molestado",
+      "ENGLISH": "we would have bothered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais molestado",
+      "ENGLISH": "you (plural) would have bothered"
+    }
+  }
+}

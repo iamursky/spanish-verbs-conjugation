@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "busco",
+      "ENGLISH": "I search"
+    },
+    "TU": {
+      "SPANISH": "buscas",
+      "ENGLISH": "you search"
+    },
+    "EL": {
+      "SPANISH": "busca",
+      "ENGLISH": "s/he searches, you (formal) searches"
+    },
+    "ELLOS": {
+      "SPANISH": "buscan",
+      "ENGLISH": "they search, you (plural formal) search"
+    },
+    "NOSOTROS": {
+      "SPANISH": "buscamos",
+      "ENGLISH": "we search"
+    },
+    "VOSOTROS": {
+      "SPANISH": "buscáis",
+      "ENGLISH": "you (plural) search"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he buscado",
+      "ENGLISH": "I have searched"
+    },
+    "TU": {
+      "SPANISH": "has buscado",
+      "ENGLISH": "you have searched"
+    },
+    "EL": {
+      "SPANISH": "ha buscado",
+      "ENGLISH": "s/he has searched, you (formal) have searched"
+    },
+    "ELLOS": {
+      "SPANISH": "han buscado",
+      "ENGLISH": "they have searched, you (plural formal) have searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos buscado",
+      "ENGLISH": "we have searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis buscado",
+      "ENGLISH": "you (plural) have searched"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "busqué ",
+      "ENGLISH": "I searched"
+    },
+    "TU": {
+      "SPANISH": "buscaste",
+      "ENGLISH": "you searched"
+    },
+    "EL": {
+      "SPANISH": "buscó",
+      "ENGLISH": "s/he searched, you (formal) searched"
+    },
+    "ELLOS": {
+      "SPANISH": "buscaron",
+      "ENGLISH": "they searched, you (plural formal) searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "buscamos",
+      "ENGLISH": "we searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "buscasteis",
+      "ENGLISH": "you (plural) searched"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había buscado",
+      "ENGLISH": "I had searched"
+    },
+    "TU": {
+      "SPANISH": "habías buscado",
+      "ENGLISH": "you had searched"
+    },
+    "EL": {
+      "SPANISH": "había buscado",
+      "ENGLISH": "s/he had searched, you (formal) had searched"
+    },
+    "ELLOS": {
+      "SPANISH": "habían buscado",
+      "ENGLISH": "they had searched, you (plural formal) had searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos buscado",
+      "ENGLISH": "we had searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais buscado",
+      "ENGLISH": "you (plural) had searched"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "busqué ",
+      "ENGLISH": "I searched"
+    },
+    "TU": {
+      "SPANISH": "buscaste",
+      "ENGLISH": "you searched"
+    },
+    "EL": {
+      "SPANISH": "buscó",
+      "ENGLISH": "s/he searched, you (formal) searched"
+    },
+    "ELLOS": {
+      "SPANISH": "buscaron",
+      "ENGLISH": "they searched, you (plural formal) searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "buscamos",
+      "ENGLISH": "we searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "buscasteis",
+      "ENGLISH": "you (plural) searched"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "buscaré",
+      "ENGLISH": "I will search"
+    },
+    "TU": {
+      "SPANISH": "buscarás",
+      "ENGLISH": "you will search"
+    },
+    "EL": {
+      "SPANISH": "buscará",
+      "ENGLISH": "s/he will search, you (formal) will search"
+    },
+    "ELLOS": {
+      "SPANISH": "buscarán",
+      "ENGLISH": "they will search, you (plural formal) will search"
+    },
+    "NOSOTROS": {
+      "SPANISH": "buscaremos",
+      "ENGLISH": "we will search"
+    },
+    "VOSOTROS": {
+      "SPANISH": "buscaréis",
+      "ENGLISH": "you (plural) will search"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré buscado",
+      "ENGLISH": "I will have searched"
+    },
+    "TU": {
+      "SPANISH": "habrás buscado",
+      "ENGLISH": "you will have searched"
+    },
+    "EL": {
+      "SPANISH": "habrá buscado",
+      "ENGLISH": "s/he will have searched, you (formal) will have searched"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán buscado",
+      "ENGLISH": "they will have searched, you (plural formal) will have searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos buscado",
+      "ENGLISH": "we will have searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis buscado",
+      "ENGLISH": "you (plural) will have searched"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "buscaría",
+      "ENGLISH": "I would search"
+    },
+    "TU": {
+      "SPANISH": "buscarías",
+      "ENGLISH": "you would search"
+    },
+    "EL": {
+      "SPANISH": "buscaría",
+      "ENGLISH": "s/he would search, you (formal) would search"
+    },
+    "ELLOS": {
+      "SPANISH": "buscarían",
+      "ENGLISH": "they would search, you (plural formal) would search"
+    },
+    "NOSOTROS": {
+      "SPANISH": "buscaríamos",
+      "ENGLISH": "we would search"
+    },
+    "VOSOTROS": {
+      "SPANISH": "buscaríais",
+      "ENGLISH": "you (plural) would search"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría buscado",
+      "ENGLISH": "I would have searched"
+    },
+    "TU": {
+      "SPANISH": "habrías buscado",
+      "ENGLISH": "you would have searched"
+    },
+    "EL": {
+      "SPANISH": "habría buscado",
+      "ENGLISH": "s/he would have searched, you (formal) would have searched"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían buscado",
+      "ENGLISH": "they would have searched, you (plural formal) would have searched"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos buscado",
+      "ENGLISH": "we would have searched"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais buscado",
+      "ENGLISH": "you (plural) would have searched"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "averiguo",
+      "ENGLISH": "I find out"
+    },
+    "TU": {
+      "SPANISH": "averiguas",
+      "ENGLISH": "you find out"
+    },
+    "EL": {
+      "SPANISH": "averigua",
+      "ENGLISH": "s/he finds out, you (formal) finds out"
+    },
+    "ELLOS": {
+      "SPANISH": "averiguan",
+      "ENGLISH": "they find out, you (plural formal) find out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "averiguamos",
+      "ENGLISH": "we find out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "averiguáis",
+      "ENGLISH": "you (plural) find out"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he averiguado",
+      "ENGLISH": "I have found out"
+    },
+    "TU": {
+      "SPANISH": "has averiguado",
+      "ENGLISH": "you have found out"
+    },
+    "EL": {
+      "SPANISH": "ha averiguado",
+      "ENGLISH": "s/he has found out, you (formal) have found out"
+    },
+    "ELLOS": {
+      "SPANISH": "han averiguado",
+      "ENGLISH": "they have found out, you (plural formal) have found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos averiguado",
+      "ENGLISH": "we have found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis averiguado",
+      "ENGLISH": "you (plural) have found out"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "averigüé ",
+      "ENGLISH": "I found out"
+    },
+    "TU": {
+      "SPANISH": "averiguaste",
+      "ENGLISH": "you found out"
+    },
+    "EL": {
+      "SPANISH": "averiguó",
+      "ENGLISH": "s/he found out, you (formal) found out"
+    },
+    "ELLOS": {
+      "SPANISH": "averiguaron",
+      "ENGLISH": "they found out, you (plural formal) found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "averiguamos",
+      "ENGLISH": "we found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "averiguasteis",
+      "ENGLISH": "you (plural) found out"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había averiguado",
+      "ENGLISH": "I had found out"
+    },
+    "TU": {
+      "SPANISH": "habías averiguado",
+      "ENGLISH": "you had found out"
+    },
+    "EL": {
+      "SPANISH": "había averiguado",
+      "ENGLISH": "s/he had found out, you (formal) had found out"
+    },
+    "ELLOS": {
+      "SPANISH": "habían averiguado",
+      "ENGLISH": "they had found out, you (plural formal) had found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos averiguado",
+      "ENGLISH": "we had found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais averiguado",
+      "ENGLISH": "you (plural) had found out"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "averigüé ",
+      "ENGLISH": "I found out"
+    },
+    "TU": {
+      "SPANISH": "averiguaste",
+      "ENGLISH": "you found out"
+    },
+    "EL": {
+      "SPANISH": "averiguó",
+      "ENGLISH": "s/he found out, you (formal) found out"
+    },
+    "ELLOS": {
+      "SPANISH": "averiguaron",
+      "ENGLISH": "they found out, you (plural formal) found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "averiguamos",
+      "ENGLISH": "we found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "averiguasteis",
+      "ENGLISH": "you (plural) found out"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "averiguaré",
+      "ENGLISH": "I will find out"
+    },
+    "TU": {
+      "SPANISH": "averiguarás",
+      "ENGLISH": "you will find out"
+    },
+    "EL": {
+      "SPANISH": "averiguará",
+      "ENGLISH": "s/he will find out, you (formal) will find out"
+    },
+    "ELLOS": {
+      "SPANISH": "averiguarán",
+      "ENGLISH": "they will find out, you (plural formal) will find out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "averiguaremos",
+      "ENGLISH": "we will find out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "averiguaréis",
+      "ENGLISH": "you (plural) will find out"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré averiguado",
+      "ENGLISH": "I will have found out"
+    },
+    "TU": {
+      "SPANISH": "habrás averiguado",
+      "ENGLISH": "you will have found out"
+    },
+    "EL": {
+      "SPANISH": "habrá averiguado",
+      "ENGLISH": "s/he will have found out, you (formal) will have found out"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán averiguado",
+      "ENGLISH": "they will have found out, you (plural formal) will have found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos averiguado",
+      "ENGLISH": "we will have found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis averiguado",
+      "ENGLISH": "you (plural) will have found out"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "averiguaría",
+      "ENGLISH": "I would find out"
+    },
+    "TU": {
+      "SPANISH": "averiguarías",
+      "ENGLISH": "you would find out"
+    },
+    "EL": {
+      "SPANISH": "averiguaría",
+      "ENGLISH": "s/he would find out, you (formal) would find out"
+    },
+    "ELLOS": {
+      "SPANISH": "averiguarían",
+      "ENGLISH": "they would find out, you (plural formal) would find out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "averiguaríamos",
+      "ENGLISH": "we would find out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "averiguaríais",
+      "ENGLISH": "you (plural) would find out"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría averiguado",
+      "ENGLISH": "I would have found out"
+    },
+    "TU": {
+      "SPANISH": "habrías averiguado",
+      "ENGLISH": "you would have found out"
+    },
+    "EL": {
+      "SPANISH": "habría averiguado",
+      "ENGLISH": "s/he would have found out, you (formal) would have found out"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían averiguado",
+      "ENGLISH": "they would have found out, you (plural formal) would have found out"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos averiguado",
+      "ENGLISH": "we would have found out"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais averiguado",
+      "ENGLISH": "you (plural) would have found out"
+    }
+  }
+}

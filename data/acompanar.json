@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "acompaño",
+      "ENGLISH": "I accompany"
+    },
+    "TU": {
+      "SPANISH": "acompañas",
+      "ENGLISH": "you accompany"
+    },
+    "EL": {
+      "SPANISH": "acompaña",
+      "ENGLISH": "s/he accompanies, you (formal) accompanies"
+    },
+    "ELLOS": {
+      "SPANISH": "acompañan",
+      "ENGLISH": "they accompany, you (plural formal) accompany"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acompañamos",
+      "ENGLISH": "we accompany"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acompañáis",
+      "ENGLISH": "you (plural) accompany"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he acompañado",
+      "ENGLISH": "I have accompanied"
+    },
+    "TU": {
+      "SPANISH": "has acompañado",
+      "ENGLISH": "you have accompanied"
+    },
+    "EL": {
+      "SPANISH": "ha acompañado",
+      "ENGLISH": "s/he has accompanied, you (formal) have accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "han acompañado",
+      "ENGLISH": "they have accompanied, you (plural formal) have accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos acompañado",
+      "ENGLISH": "we have accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis acompañado",
+      "ENGLISH": "you (plural) have accompanied"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "acompañé",
+      "ENGLISH": "I accompanied"
+    },
+    "TU": {
+      "SPANISH": "acompañaste",
+      "ENGLISH": "you accompanied"
+    },
+    "EL": {
+      "SPANISH": "acompañó",
+      "ENGLISH": "s/he accompanied, you (formal) accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "acompañaron",
+      "ENGLISH": "they accompanied, you (plural formal) accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acompañamos",
+      "ENGLISH": "we accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acompañasteis",
+      "ENGLISH": "you (plural) accompanied"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había acompañado",
+      "ENGLISH": "I had accompanied"
+    },
+    "TU": {
+      "SPANISH": "habías acompañado",
+      "ENGLISH": "you had accompanied"
+    },
+    "EL": {
+      "SPANISH": "había acompañado",
+      "ENGLISH": "s/he had accompanied, you (formal) had accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "habían acompañado",
+      "ENGLISH": "they had accompanied, you (plural formal) had accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos acompañado",
+      "ENGLISH": "we had accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais acompañado",
+      "ENGLISH": "you (plural) had accompanied"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "acompañé",
+      "ENGLISH": "I accompanied"
+    },
+    "TU": {
+      "SPANISH": "acompañaste",
+      "ENGLISH": "you accompanied"
+    },
+    "EL": {
+      "SPANISH": "acompañó",
+      "ENGLISH": "s/he accompanied, you (formal) accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "acompañaron",
+      "ENGLISH": "they accompanied, you (plural formal) accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acompañamos",
+      "ENGLISH": "we accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acompañasteis",
+      "ENGLISH": "you (plural) accompanied"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "acompañaré",
+      "ENGLISH": "I will accompany"
+    },
+    "TU": {
+      "SPANISH": "acompañarás",
+      "ENGLISH": "you will accompany"
+    },
+    "EL": {
+      "SPANISH": "acompañará",
+      "ENGLISH": "s/he will accompany, you (formal) will accompany"
+    },
+    "ELLOS": {
+      "SPANISH": "acompañarán",
+      "ENGLISH": "they will accompany, you (plural formal) will accompany"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acompañaremos",
+      "ENGLISH": "we will accompany"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acompañaréis",
+      "ENGLISH": "you (plural) will accompany"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré acompañado",
+      "ENGLISH": "I will have accompanied"
+    },
+    "TU": {
+      "SPANISH": "habrás acompañado",
+      "ENGLISH": "you will have accompanied"
+    },
+    "EL": {
+      "SPANISH": "habrá acompañado",
+      "ENGLISH": "s/he will have accompanied, you (formal) will have accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán acompañado",
+      "ENGLISH": "they will have accompanied, you (plural formal) will have accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos acompañado",
+      "ENGLISH": "we will have accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis acompañado",
+      "ENGLISH": "you (plural) will have accompanied"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "acompañaría",
+      "ENGLISH": "I would accompany"
+    },
+    "TU": {
+      "SPANISH": "acompañarías",
+      "ENGLISH": "you would accompany"
+    },
+    "EL": {
+      "SPANISH": "acompañaría",
+      "ENGLISH": "s/he would accompany, you (formal) would accompany"
+    },
+    "ELLOS": {
+      "SPANISH": "acompañarían",
+      "ENGLISH": "they would accompany, you (plural formal) would accompany"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acompañaríamos",
+      "ENGLISH": "we would accompany"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acompañaríais",
+      "ENGLISH": "you (plural) would accompany"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría acompañado",
+      "ENGLISH": "I would have accompanied"
+    },
+    "TU": {
+      "SPANISH": "habrías acompañado",
+      "ENGLISH": "you would have accompanied"
+    },
+    "EL": {
+      "SPANISH": "habría acompañado",
+      "ENGLISH": "s/he would have accompanied, you (formal) would have accompanied"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían acompañado",
+      "ENGLISH": "they would have accompanied, you (plural formal) would have accompanied"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos acompañado",
+      "ENGLISH": "we would have accompanied"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais acompañado",
+      "ENGLISH": "you (plural) would have accompanied"
+    }
+  }
+}

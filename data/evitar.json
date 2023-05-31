@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "evito",
+      "ENGLISH": "I avoid"
+    },
+    "TU": {
+      "SPANISH": "evitas",
+      "ENGLISH": "you avoid"
+    },
+    "EL": {
+      "SPANISH": "evita",
+      "ENGLISH": "s/he avoids, you (formal) avoids"
+    },
+    "ELLOS": {
+      "SPANISH": "evitan",
+      "ENGLISH": "they avoid, you (plural formal) avoid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evitamos",
+      "ENGLISH": "we avoid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evitáis",
+      "ENGLISH": "you (plural) avoid"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he evitado",
+      "ENGLISH": "I have avoided"
+    },
+    "TU": {
+      "SPANISH": "has evitado",
+      "ENGLISH": "you have avoided"
+    },
+    "EL": {
+      "SPANISH": "ha evitado",
+      "ENGLISH": "s/he has avoided, you (formal) have avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "han evitado",
+      "ENGLISH": "they have avoided, you (plural formal) have avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos evitado",
+      "ENGLISH": "we have avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis evitado",
+      "ENGLISH": "you (plural) have avoided"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "evité",
+      "ENGLISH": "I avoided"
+    },
+    "TU": {
+      "SPANISH": "evitaste",
+      "ENGLISH": "you avoided"
+    },
+    "EL": {
+      "SPANISH": "evitó",
+      "ENGLISH": "s/he avoided, you (formal) avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "evitaron",
+      "ENGLISH": "they avoided, you (plural formal) avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evitamos",
+      "ENGLISH": "we avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evitasteis",
+      "ENGLISH": "you (plural) avoided"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había evitado",
+      "ENGLISH": "I had avoided"
+    },
+    "TU": {
+      "SPANISH": "habías evitado",
+      "ENGLISH": "you had avoided"
+    },
+    "EL": {
+      "SPANISH": "había evitado",
+      "ENGLISH": "s/he had avoided, you (formal) had avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "habían evitado",
+      "ENGLISH": "they had avoided, you (plural formal) had avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos evitado",
+      "ENGLISH": "we had avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais evitado",
+      "ENGLISH": "you (plural) had avoided"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "evité",
+      "ENGLISH": "I avoided"
+    },
+    "TU": {
+      "SPANISH": "evitaste",
+      "ENGLISH": "you avoided"
+    },
+    "EL": {
+      "SPANISH": "evitó",
+      "ENGLISH": "s/he avoided, you (formal) avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "evitaron",
+      "ENGLISH": "they avoided, you (plural formal) avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evitamos",
+      "ENGLISH": "we avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evitasteis",
+      "ENGLISH": "you (plural) avoided"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "evitaré",
+      "ENGLISH": "I will avoid"
+    },
+    "TU": {
+      "SPANISH": "evitarás",
+      "ENGLISH": "you will avoid"
+    },
+    "EL": {
+      "SPANISH": "evitará",
+      "ENGLISH": "s/he will avoid, you (formal) will avoid"
+    },
+    "ELLOS": {
+      "SPANISH": "evitarán",
+      "ENGLISH": "they will avoid, you (plural formal) will avoid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evitaremos",
+      "ENGLISH": "we will avoid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evitaréis",
+      "ENGLISH": "you (plural) will avoid"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré evitado",
+      "ENGLISH": "I will have avoided"
+    },
+    "TU": {
+      "SPANISH": "habrás evitado",
+      "ENGLISH": "you will have avoided"
+    },
+    "EL": {
+      "SPANISH": "habrá evitado",
+      "ENGLISH": "s/he will have avoided, you (formal) will have avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán evitado",
+      "ENGLISH": "they will have avoided, you (plural formal) will have avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos evitado",
+      "ENGLISH": "we will have avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis evitado",
+      "ENGLISH": "you (plural) will have avoided"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "evitaría",
+      "ENGLISH": "I would avoid"
+    },
+    "TU": {
+      "SPANISH": "evitarías",
+      "ENGLISH": "you would avoid"
+    },
+    "EL": {
+      "SPANISH": "evitaría",
+      "ENGLISH": "s/he would avoid, you (formal) would avoid"
+    },
+    "ELLOS": {
+      "SPANISH": "evitarían",
+      "ENGLISH": "they would avoid, you (plural formal) would avoid"
+    },
+    "NOSOTROS": {
+      "SPANISH": "evitaríamos",
+      "ENGLISH": "we would avoid"
+    },
+    "VOSOTROS": {
+      "SPANISH": "evitaríais",
+      "ENGLISH": "you (plural) would avoid"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría evitado",
+      "ENGLISH": "I would have avoided"
+    },
+    "TU": {
+      "SPANISH": "habrías evitado",
+      "ENGLISH": "you would have avoided"
+    },
+    "EL": {
+      "SPANISH": "habría evitado",
+      "ENGLISH": "s/he would have avoided, you (formal) would have avoided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían evitado",
+      "ENGLISH": "they would have avoided, you (plural formal) would have avoided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos evitado",
+      "ENGLISH": "we would have avoided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais evitado",
+      "ENGLISH": "you (plural) would have avoided"
+    }
+  }
+}

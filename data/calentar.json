@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "caliento ",
+      "ENGLISH": "I warm"
+    },
+    "TU": {
+      "SPANISH": "calientas ",
+      "ENGLISH": "you warm"
+    },
+    "EL": {
+      "SPANISH": "calienta ",
+      "ENGLISH": "s/he warms, you (formal) warms"
+    },
+    "ELLOS": {
+      "SPANISH": "calientan ",
+      "ENGLISH": "they warm, you (plural formal) warm"
+    },
+    "NOSOTROS": {
+      "SPANISH": "calentamos",
+      "ENGLISH": "we warm"
+    },
+    "VOSOTROS": {
+      "SPANISH": "calentáis",
+      "ENGLISH": "you (plural) warm"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he calentado",
+      "ENGLISH": "I have warmed"
+    },
+    "TU": {
+      "SPANISH": "has calentado",
+      "ENGLISH": "you have warmed"
+    },
+    "EL": {
+      "SPANISH": "ha calentado",
+      "ENGLISH": "s/he has warmed, you (formal) have warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "han calentado",
+      "ENGLISH": "they have warmed, you (plural formal) have warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos calentado",
+      "ENGLISH": "we have warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis calentado",
+      "ENGLISH": "you (plural) have warmed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "calenté",
+      "ENGLISH": "I warmed"
+    },
+    "TU": {
+      "SPANISH": "calentaste",
+      "ENGLISH": "you warmed"
+    },
+    "EL": {
+      "SPANISH": "calentó",
+      "ENGLISH": "s/he warmed, you (formal) warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "calentaron",
+      "ENGLISH": "they warmed, you (plural formal) warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "calentamos",
+      "ENGLISH": "we warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "calentasteis",
+      "ENGLISH": "you (plural) warmed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había calentado",
+      "ENGLISH": "I had warmed"
+    },
+    "TU": {
+      "SPANISH": "habías calentado",
+      "ENGLISH": "you had warmed"
+    },
+    "EL": {
+      "SPANISH": "había calentado",
+      "ENGLISH": "s/he had warmed, you (formal) had warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían calentado",
+      "ENGLISH": "they had warmed, you (plural formal) had warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos calentado",
+      "ENGLISH": "we had warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais calentado",
+      "ENGLISH": "you (plural) had warmed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "calenté",
+      "ENGLISH": "I warmed"
+    },
+    "TU": {
+      "SPANISH": "calentaste",
+      "ENGLISH": "you warmed"
+    },
+    "EL": {
+      "SPANISH": "calentó",
+      "ENGLISH": "s/he warmed, you (formal) warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "calentaron",
+      "ENGLISH": "they warmed, you (plural formal) warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "calentamos",
+      "ENGLISH": "we warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "calentasteis",
+      "ENGLISH": "you (plural) warmed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "calentaré",
+      "ENGLISH": "I will warm"
+    },
+    "TU": {
+      "SPANISH": "calentarás",
+      "ENGLISH": "you will warm"
+    },
+    "EL": {
+      "SPANISH": "calentará",
+      "ENGLISH": "s/he will warm, you (formal) will warm"
+    },
+    "ELLOS": {
+      "SPANISH": "calentarán",
+      "ENGLISH": "they will warm, you (plural formal) will warm"
+    },
+    "NOSOTROS": {
+      "SPANISH": "calentaremos",
+      "ENGLISH": "we will warm"
+    },
+    "VOSOTROS": {
+      "SPANISH": "calentaréis",
+      "ENGLISH": "you (plural) will warm"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré calentado",
+      "ENGLISH": "I will have warmed"
+    },
+    "TU": {
+      "SPANISH": "habrás calentado",
+      "ENGLISH": "you will have warmed"
+    },
+    "EL": {
+      "SPANISH": "habrá calentado",
+      "ENGLISH": "s/he will have warmed, you (formal) will have warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán calentado",
+      "ENGLISH": "they will have warmed, you (plural formal) will have warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos calentado",
+      "ENGLISH": "we will have warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis calentado",
+      "ENGLISH": "you (plural) will have warmed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "calentaría",
+      "ENGLISH": "I would warm"
+    },
+    "TU": {
+      "SPANISH": "calentarías",
+      "ENGLISH": "you would warm"
+    },
+    "EL": {
+      "SPANISH": "calentaría",
+      "ENGLISH": "s/he would warm, you (formal) would warm"
+    },
+    "ELLOS": {
+      "SPANISH": "calentarían",
+      "ENGLISH": "they would warm, you (plural formal) would warm"
+    },
+    "NOSOTROS": {
+      "SPANISH": "calentaríamos",
+      "ENGLISH": "we would warm"
+    },
+    "VOSOTROS": {
+      "SPANISH": "calentaríais",
+      "ENGLISH": "you (plural) would warm"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría calentado",
+      "ENGLISH": "I would have warmed"
+    },
+    "TU": {
+      "SPANISH": "habrías calentado",
+      "ENGLISH": "you would have warmed"
+    },
+    "EL": {
+      "SPANISH": "habría calentado",
+      "ENGLISH": "s/he would have warmed, you (formal) would have warmed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían calentado",
+      "ENGLISH": "they would have warmed, you (plural formal) would have warmed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos calentado",
+      "ENGLISH": "we would have warmed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais calentado",
+      "ENGLISH": "you (plural) would have warmed"
+    }
+  }
+}

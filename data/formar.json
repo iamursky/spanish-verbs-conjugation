@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "formo",
+      "ENGLISH": "I form"
+    },
+    "TU": {
+      "SPANISH": "formas",
+      "ENGLISH": "you form"
+    },
+    "EL": {
+      "SPANISH": "forma",
+      "ENGLISH": "s/he forms, you (formal) forms"
+    },
+    "ELLOS": {
+      "SPANISH": "forman",
+      "ENGLISH": "they form, you (plural formal) form"
+    },
+    "NOSOTROS": {
+      "SPANISH": "formamos",
+      "ENGLISH": "we form"
+    },
+    "VOSOTROS": {
+      "SPANISH": "formáis",
+      "ENGLISH": "you (plural) form"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he formado",
+      "ENGLISH": "I have formed"
+    },
+    "TU": {
+      "SPANISH": "has formado",
+      "ENGLISH": "you have formed"
+    },
+    "EL": {
+      "SPANISH": "ha formado",
+      "ENGLISH": "s/he has formed, you (formal) have formed"
+    },
+    "ELLOS": {
+      "SPANISH": "han formado",
+      "ENGLISH": "they have formed, you (plural formal) have formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos formado",
+      "ENGLISH": "we have formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis formado",
+      "ENGLISH": "you (plural) have formed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "formé",
+      "ENGLISH": "I formed"
+    },
+    "TU": {
+      "SPANISH": "formaste",
+      "ENGLISH": "you formed"
+    },
+    "EL": {
+      "SPANISH": "formó",
+      "ENGLISH": "s/he formed, you (formal) formed"
+    },
+    "ELLOS": {
+      "SPANISH": "formaron",
+      "ENGLISH": "they formed, you (plural formal) formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "formamos",
+      "ENGLISH": "we formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "formasteis",
+      "ENGLISH": "you (plural) formed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había formado",
+      "ENGLISH": "I had formed"
+    },
+    "TU": {
+      "SPANISH": "habías formado",
+      "ENGLISH": "you had formed"
+    },
+    "EL": {
+      "SPANISH": "había formado",
+      "ENGLISH": "s/he had formed, you (formal) had formed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían formado",
+      "ENGLISH": "they had formed, you (plural formal) had formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos formado",
+      "ENGLISH": "we had formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais formado",
+      "ENGLISH": "you (plural) had formed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "formé",
+      "ENGLISH": "I formed"
+    },
+    "TU": {
+      "SPANISH": "formaste",
+      "ENGLISH": "you formed"
+    },
+    "EL": {
+      "SPANISH": "formó",
+      "ENGLISH": "s/he formed, you (formal) formed"
+    },
+    "ELLOS": {
+      "SPANISH": "formaron",
+      "ENGLISH": "they formed, you (plural formal) formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "formamos",
+      "ENGLISH": "we formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "formasteis",
+      "ENGLISH": "you (plural) formed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "formaré",
+      "ENGLISH": "I will form"
+    },
+    "TU": {
+      "SPANISH": "formarás",
+      "ENGLISH": "you will form"
+    },
+    "EL": {
+      "SPANISH": "formará",
+      "ENGLISH": "s/he will form, you (formal) will form"
+    },
+    "ELLOS": {
+      "SPANISH": "formarán",
+      "ENGLISH": "they will form, you (plural formal) will form"
+    },
+    "NOSOTROS": {
+      "SPANISH": "formaremos",
+      "ENGLISH": "we will form"
+    },
+    "VOSOTROS": {
+      "SPANISH": "formaréis",
+      "ENGLISH": "you (plural) will form"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré formado",
+      "ENGLISH": "I will have formed"
+    },
+    "TU": {
+      "SPANISH": "habrás formado",
+      "ENGLISH": "you will have formed"
+    },
+    "EL": {
+      "SPANISH": "habrá formado",
+      "ENGLISH": "s/he will have formed, you (formal) will have formed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán formado",
+      "ENGLISH": "they will have formed, you (plural formal) will have formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos formado",
+      "ENGLISH": "we will have formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis formado",
+      "ENGLISH": "you (plural) will have formed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "formaría",
+      "ENGLISH": "I would form"
+    },
+    "TU": {
+      "SPANISH": "formarías",
+      "ENGLISH": "you would form"
+    },
+    "EL": {
+      "SPANISH": "formaría",
+      "ENGLISH": "s/he would form, you (formal) would form"
+    },
+    "ELLOS": {
+      "SPANISH": "formarían",
+      "ENGLISH": "they would form, you (plural formal) would form"
+    },
+    "NOSOTROS": {
+      "SPANISH": "formaríamos",
+      "ENGLISH": "we would form"
+    },
+    "VOSOTROS": {
+      "SPANISH": "formaríais",
+      "ENGLISH": "you (plural) would form"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría formado",
+      "ENGLISH": "I would have formed"
+    },
+    "TU": {
+      "SPANISH": "habrías formado",
+      "ENGLISH": "you would have formed"
+    },
+    "EL": {
+      "SPANISH": "habría formado",
+      "ENGLISH": "s/he would have formed, you (formal) would have formed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían formado",
+      "ENGLISH": "they would have formed, you (plural formal) would have formed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos formado",
+      "ENGLISH": "we would have formed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais formado",
+      "ENGLISH": "you (plural) would have formed"
+    }
+  }
+}

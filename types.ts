@@ -22,9 +22,9 @@ export const PRONOUN = {
   YO: "YO",
   TU: "TU",
   EL: "EL",
-  ELLOS: "ELLOS",
   NOSOTROS: "NOSOTROS",
   VOSOTROS: "VOSOTROS",
+  ELLOS: "ELLOS",
 } as const;
 
 export type Language = keyof typeof LANGUAGE;
@@ -41,6 +41,14 @@ export type Conjugations = {
   [tense in Tense]: {
     [pronoun in Pronoun]: Verb;
   };
+};
+
+export type VerbMap = {
+  [verb: string]: Verb;
+};
+
+export type VerbConjugationMap = {
+  [verb: string]: Conjugations;
 };
 
 export type PronounLabels = {

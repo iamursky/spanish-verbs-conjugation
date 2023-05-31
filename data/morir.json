@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "muero ",
+      "ENGLISH": "I die"
+    },
+    "TU": {
+      "SPANISH": "mueres ",
+      "ENGLISH": "you die"
+    },
+    "EL": {
+      "SPANISH": "muere ",
+      "ENGLISH": "s/he dies, you (formal) dies"
+    },
+    "ELLOS": {
+      "SPANISH": "mueren ",
+      "ENGLISH": "they die, you (plural formal) die"
+    },
+    "NOSOTROS": {
+      "SPANISH": "morimos",
+      "ENGLISH": "we die"
+    },
+    "VOSOTROS": {
+      "SPANISH": "morís",
+      "ENGLISH": "you (plural) die"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he muerto ",
+      "ENGLISH": "I have died"
+    },
+    "TU": {
+      "SPANISH": "has muerto ",
+      "ENGLISH": "you have died"
+    },
+    "EL": {
+      "SPANISH": "ha muerto ",
+      "ENGLISH": "s/he has died, you (formal) have died"
+    },
+    "ELLOS": {
+      "SPANISH": "han muerto ",
+      "ENGLISH": "they have died, you (plural formal) have died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos muerto ",
+      "ENGLISH": "we have died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis muerto ",
+      "ENGLISH": "you (plural) have died"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "morí",
+      "ENGLISH": "I died"
+    },
+    "TU": {
+      "SPANISH": "moriste",
+      "ENGLISH": "you died"
+    },
+    "EL": {
+      "SPANISH": "murió ",
+      "ENGLISH": "s/he died, you (formal) died"
+    },
+    "ELLOS": {
+      "SPANISH": "murieron ",
+      "ENGLISH": "they died, you (plural formal) died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "morimos",
+      "ENGLISH": "we died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moristeis",
+      "ENGLISH": "you (plural) died"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había muerto ",
+      "ENGLISH": "I had died"
+    },
+    "TU": {
+      "SPANISH": "habías muerto ",
+      "ENGLISH": "you had died"
+    },
+    "EL": {
+      "SPANISH": "había muerto ",
+      "ENGLISH": "s/he had died, you (formal) had died"
+    },
+    "ELLOS": {
+      "SPANISH": "habían muerto ",
+      "ENGLISH": "they had died, you (plural formal) had died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos muerto ",
+      "ENGLISH": "we had died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais muerto ",
+      "ENGLISH": "you (plural) had died"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "morí",
+      "ENGLISH": "I died"
+    },
+    "TU": {
+      "SPANISH": "moriste",
+      "ENGLISH": "you died"
+    },
+    "EL": {
+      "SPANISH": "murió ",
+      "ENGLISH": "s/he died, you (formal) died"
+    },
+    "ELLOS": {
+      "SPANISH": "murieron ",
+      "ENGLISH": "they died, you (plural formal) died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "morimos",
+      "ENGLISH": "we died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moristeis",
+      "ENGLISH": "you (plural) died"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "moriré",
+      "ENGLISH": "I will die"
+    },
+    "TU": {
+      "SPANISH": "morirás",
+      "ENGLISH": "you will die"
+    },
+    "EL": {
+      "SPANISH": "morirá",
+      "ENGLISH": "s/he will die, you (formal) will die"
+    },
+    "ELLOS": {
+      "SPANISH": "morirán",
+      "ENGLISH": "they will die, you (plural formal) will die"
+    },
+    "NOSOTROS": {
+      "SPANISH": "moriremos",
+      "ENGLISH": "we will die"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moriréis",
+      "ENGLISH": "you (plural) will die"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré muerto ",
+      "ENGLISH": "I will have died"
+    },
+    "TU": {
+      "SPANISH": "habrás muerto ",
+      "ENGLISH": "you will have died"
+    },
+    "EL": {
+      "SPANISH": "habrá muerto ",
+      "ENGLISH": "s/he will have died, you (formal) will have died"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán muerto ",
+      "ENGLISH": "they will have died, you (plural formal) will have died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos muerto ",
+      "ENGLISH": "we will have died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis muerto ",
+      "ENGLISH": "you (plural) will have died"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "moriría",
+      "ENGLISH": "I would die"
+    },
+    "TU": {
+      "SPANISH": "morirías",
+      "ENGLISH": "you would die"
+    },
+    "EL": {
+      "SPANISH": "moriría",
+      "ENGLISH": "s/he would die, you (formal) would die"
+    },
+    "ELLOS": {
+      "SPANISH": "morirían",
+      "ENGLISH": "they would die, you (plural formal) would die"
+    },
+    "NOSOTROS": {
+      "SPANISH": "moriríamos",
+      "ENGLISH": "we would die"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moriríais",
+      "ENGLISH": "you (plural) would die"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría muerto ",
+      "ENGLISH": "I would have died"
+    },
+    "TU": {
+      "SPANISH": "habrías muerto ",
+      "ENGLISH": "you would have died"
+    },
+    "EL": {
+      "SPANISH": "habría muerto ",
+      "ENGLISH": "s/he would have died, you (formal) would have died"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían muerto ",
+      "ENGLISH": "they would have died, you (plural formal) would have died"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos muerto ",
+      "ENGLISH": "we would have died"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais muerto ",
+      "ENGLISH": "you (plural) would have died"
+    }
+  }
+}

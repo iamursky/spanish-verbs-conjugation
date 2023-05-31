@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "monto",
+      "ENGLISH": "I mount"
+    },
+    "TU": {
+      "SPANISH": "montas",
+      "ENGLISH": "you mount"
+    },
+    "EL": {
+      "SPANISH": "monta",
+      "ENGLISH": "s/he mounts, you (formal) mounts"
+    },
+    "ELLOS": {
+      "SPANISH": "montan",
+      "ENGLISH": "they mount, you (plural formal) mount"
+    },
+    "NOSOTROS": {
+      "SPANISH": "montamos",
+      "ENGLISH": "we mount"
+    },
+    "VOSOTROS": {
+      "SPANISH": "montáis",
+      "ENGLISH": "you (plural) mount"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he montado",
+      "ENGLISH": "I have mounted"
+    },
+    "TU": {
+      "SPANISH": "has montado",
+      "ENGLISH": "you have mounted"
+    },
+    "EL": {
+      "SPANISH": "ha montado",
+      "ENGLISH": "s/he has mounted, you (formal) have mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "han montado",
+      "ENGLISH": "they have mounted, you (plural formal) have mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos montado",
+      "ENGLISH": "we have mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis montado",
+      "ENGLISH": "you (plural) have mounted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "monté",
+      "ENGLISH": "I mounted"
+    },
+    "TU": {
+      "SPANISH": "montaste",
+      "ENGLISH": "you mounted"
+    },
+    "EL": {
+      "SPANISH": "montó",
+      "ENGLISH": "s/he mounted, you (formal) mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "montaron",
+      "ENGLISH": "they mounted, you (plural formal) mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "montamos",
+      "ENGLISH": "we mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "montasteis",
+      "ENGLISH": "you (plural) mounted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había montado",
+      "ENGLISH": "I had mounted"
+    },
+    "TU": {
+      "SPANISH": "habías montado",
+      "ENGLISH": "you had mounted"
+    },
+    "EL": {
+      "SPANISH": "había montado",
+      "ENGLISH": "s/he had mounted, you (formal) had mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían montado",
+      "ENGLISH": "they had mounted, you (plural formal) had mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos montado",
+      "ENGLISH": "we had mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais montado",
+      "ENGLISH": "you (plural) had mounted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "monté",
+      "ENGLISH": "I mounted"
+    },
+    "TU": {
+      "SPANISH": "montaste",
+      "ENGLISH": "you mounted"
+    },
+    "EL": {
+      "SPANISH": "montó",
+      "ENGLISH": "s/he mounted, you (formal) mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "montaron",
+      "ENGLISH": "they mounted, you (plural formal) mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "montamos",
+      "ENGLISH": "we mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "montasteis",
+      "ENGLISH": "you (plural) mounted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "montaré",
+      "ENGLISH": "I will mount"
+    },
+    "TU": {
+      "SPANISH": "montarás",
+      "ENGLISH": "you will mount"
+    },
+    "EL": {
+      "SPANISH": "montará",
+      "ENGLISH": "s/he will mount, you (formal) will mount"
+    },
+    "ELLOS": {
+      "SPANISH": "montarán",
+      "ENGLISH": "they will mount, you (plural formal) will mount"
+    },
+    "NOSOTROS": {
+      "SPANISH": "montaremos",
+      "ENGLISH": "we will mount"
+    },
+    "VOSOTROS": {
+      "SPANISH": "montaréis",
+      "ENGLISH": "you (plural) will mount"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré montado",
+      "ENGLISH": "I will have mounted"
+    },
+    "TU": {
+      "SPANISH": "habrás montado",
+      "ENGLISH": "you will have mounted"
+    },
+    "EL": {
+      "SPANISH": "habrá montado",
+      "ENGLISH": "s/he will have mounted, you (formal) will have mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán montado",
+      "ENGLISH": "they will have mounted, you (plural formal) will have mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos montado",
+      "ENGLISH": "we will have mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis montado",
+      "ENGLISH": "you (plural) will have mounted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "montaría",
+      "ENGLISH": "I would mount"
+    },
+    "TU": {
+      "SPANISH": "montarías",
+      "ENGLISH": "you would mount"
+    },
+    "EL": {
+      "SPANISH": "montaría",
+      "ENGLISH": "s/he would mount, you (formal) would mount"
+    },
+    "ELLOS": {
+      "SPANISH": "montarían",
+      "ENGLISH": "they would mount, you (plural formal) would mount"
+    },
+    "NOSOTROS": {
+      "SPANISH": "montaríamos",
+      "ENGLISH": "we would mount"
+    },
+    "VOSOTROS": {
+      "SPANISH": "montaríais",
+      "ENGLISH": "you (plural) would mount"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría montado",
+      "ENGLISH": "I would have mounted"
+    },
+    "TU": {
+      "SPANISH": "habrías montado",
+      "ENGLISH": "you would have mounted"
+    },
+    "EL": {
+      "SPANISH": "habría montado",
+      "ENGLISH": "s/he would have mounted, you (formal) would have mounted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían montado",
+      "ENGLISH": "they would have mounted, you (plural formal) would have mounted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos montado",
+      "ENGLISH": "we would have mounted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais montado",
+      "ENGLISH": "you (plural) would have mounted"
+    }
+  }
+}

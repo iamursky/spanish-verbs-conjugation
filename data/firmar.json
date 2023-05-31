@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "firmo",
+      "ENGLISH": "I sign"
+    },
+    "TU": {
+      "SPANISH": "firmas",
+      "ENGLISH": "you sign"
+    },
+    "EL": {
+      "SPANISH": "firma",
+      "ENGLISH": "s/he signs, you (formal) signs"
+    },
+    "ELLOS": {
+      "SPANISH": "firman",
+      "ENGLISH": "they sign, you (plural formal) sign"
+    },
+    "NOSOTROS": {
+      "SPANISH": "firmamos",
+      "ENGLISH": "we sign"
+    },
+    "VOSOTROS": {
+      "SPANISH": "firmáis",
+      "ENGLISH": "you (plural) sign"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he firmado",
+      "ENGLISH": "I have signed"
+    },
+    "TU": {
+      "SPANISH": "has firmado",
+      "ENGLISH": "you have signed"
+    },
+    "EL": {
+      "SPANISH": "ha firmado",
+      "ENGLISH": "s/he has signed, you (formal) have signed"
+    },
+    "ELLOS": {
+      "SPANISH": "han firmado",
+      "ENGLISH": "they have signed, you (plural formal) have signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos firmado",
+      "ENGLISH": "we have signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis firmado",
+      "ENGLISH": "you (plural) have signed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "firmé",
+      "ENGLISH": "I signed"
+    },
+    "TU": {
+      "SPANISH": "firmaste",
+      "ENGLISH": "you signed"
+    },
+    "EL": {
+      "SPANISH": "firmó",
+      "ENGLISH": "s/he signed, you (formal) signed"
+    },
+    "ELLOS": {
+      "SPANISH": "firmaron",
+      "ENGLISH": "they signed, you (plural formal) signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "firmamos",
+      "ENGLISH": "we signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "firmasteis",
+      "ENGLISH": "you (plural) signed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había firmado",
+      "ENGLISH": "I had signed"
+    },
+    "TU": {
+      "SPANISH": "habías firmado",
+      "ENGLISH": "you had signed"
+    },
+    "EL": {
+      "SPANISH": "había firmado",
+      "ENGLISH": "s/he had signed, you (formal) had signed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían firmado",
+      "ENGLISH": "they had signed, you (plural formal) had signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos firmado",
+      "ENGLISH": "we had signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais firmado",
+      "ENGLISH": "you (plural) had signed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "firmé",
+      "ENGLISH": "I signed"
+    },
+    "TU": {
+      "SPANISH": "firmaste",
+      "ENGLISH": "you signed"
+    },
+    "EL": {
+      "SPANISH": "firmó",
+      "ENGLISH": "s/he signed, you (formal) signed"
+    },
+    "ELLOS": {
+      "SPANISH": "firmaron",
+      "ENGLISH": "they signed, you (plural formal) signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "firmamos",
+      "ENGLISH": "we signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "firmasteis",
+      "ENGLISH": "you (plural) signed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "firmaré",
+      "ENGLISH": "I will sign"
+    },
+    "TU": {
+      "SPANISH": "firmarás",
+      "ENGLISH": "you will sign"
+    },
+    "EL": {
+      "SPANISH": "firmará",
+      "ENGLISH": "s/he will sign, you (formal) will sign"
+    },
+    "ELLOS": {
+      "SPANISH": "firmarán",
+      "ENGLISH": "they will sign, you (plural formal) will sign"
+    },
+    "NOSOTROS": {
+      "SPANISH": "firmaremos",
+      "ENGLISH": "we will sign"
+    },
+    "VOSOTROS": {
+      "SPANISH": "firmaréis",
+      "ENGLISH": "you (plural) will sign"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré firmado",
+      "ENGLISH": "I will have signed"
+    },
+    "TU": {
+      "SPANISH": "habrás firmado",
+      "ENGLISH": "you will have signed"
+    },
+    "EL": {
+      "SPANISH": "habrá firmado",
+      "ENGLISH": "s/he will have signed, you (formal) will have signed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán firmado",
+      "ENGLISH": "they will have signed, you (plural formal) will have signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos firmado",
+      "ENGLISH": "we will have signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis firmado",
+      "ENGLISH": "you (plural) will have signed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "firmaría",
+      "ENGLISH": "I would sign"
+    },
+    "TU": {
+      "SPANISH": "firmarías",
+      "ENGLISH": "you would sign"
+    },
+    "EL": {
+      "SPANISH": "firmaría",
+      "ENGLISH": "s/he would sign, you (formal) would sign"
+    },
+    "ELLOS": {
+      "SPANISH": "firmarían",
+      "ENGLISH": "they would sign, you (plural formal) would sign"
+    },
+    "NOSOTROS": {
+      "SPANISH": "firmaríamos",
+      "ENGLISH": "we would sign"
+    },
+    "VOSOTROS": {
+      "SPANISH": "firmaríais",
+      "ENGLISH": "you (plural) would sign"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría firmado",
+      "ENGLISH": "I would have signed"
+    },
+    "TU": {
+      "SPANISH": "habrías firmado",
+      "ENGLISH": "you would have signed"
+    },
+    "EL": {
+      "SPANISH": "habría firmado",
+      "ENGLISH": "s/he would have signed, you (formal) would have signed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían firmado",
+      "ENGLISH": "they would have signed, you (plural formal) would have signed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos firmado",
+      "ENGLISH": "we would have signed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais firmado",
+      "ENGLISH": "you (plural) would have signed"
+    }
+  }
+}

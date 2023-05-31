@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me acerco",
+      "ENGLISH": "I approach"
+    },
+    "TU": {
+      "SPANISH": "te acercas",
+      "ENGLISH": "you approach"
+    },
+    "EL": {
+      "SPANISH": "se acerca",
+      "ENGLISH": "s/he approaches, you (formal) approaches"
+    },
+    "ELLOS": {
+      "SPANISH": "se acercan",
+      "ENGLISH": "they approach, you (plural formal) approach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acercamos",
+      "ENGLISH": "we approach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acercáis",
+      "ENGLISH": "you (plural) approach"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he acercado",
+      "ENGLISH": "I have approached"
+    },
+    "TU": {
+      "SPANISH": "te has acercado",
+      "ENGLISH": "you have approached"
+    },
+    "EL": {
+      "SPANISH": "se ha acercado",
+      "ENGLISH": "s/he has approached, you (formal) have approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se han acercado",
+      "ENGLISH": "they have approached, you (plural formal) have approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos acercado",
+      "ENGLISH": "we have approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis acercado",
+      "ENGLISH": "you (plural) have approached"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me acerqué ",
+      "ENGLISH": "I approached"
+    },
+    "TU": {
+      "SPANISH": "te acercaste",
+      "ENGLISH": "you approached"
+    },
+    "EL": {
+      "SPANISH": "se acercó",
+      "ENGLISH": "s/he approached, you (formal) approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se acercaron",
+      "ENGLISH": "they approached, you (plural formal) approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acercamos",
+      "ENGLISH": "we approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acercasteis",
+      "ENGLISH": "you (plural) approached"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había acercado",
+      "ENGLISH": "I had approached"
+    },
+    "TU": {
+      "SPANISH": "te habías acercado",
+      "ENGLISH": "you had approached"
+    },
+    "EL": {
+      "SPANISH": "se había acercado",
+      "ENGLISH": "s/he had approached, you (formal) had approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían acercado",
+      "ENGLISH": "they had approached, you (plural formal) had approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos acercado",
+      "ENGLISH": "we had approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais acercado",
+      "ENGLISH": "you (plural) had approached"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me acerqué ",
+      "ENGLISH": "I approached"
+    },
+    "TU": {
+      "SPANISH": "te acercaste",
+      "ENGLISH": "you approached"
+    },
+    "EL": {
+      "SPANISH": "se acercó",
+      "ENGLISH": "s/he approached, you (formal) approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se acercaron",
+      "ENGLISH": "they approached, you (plural formal) approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acercamos",
+      "ENGLISH": "we approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acercasteis",
+      "ENGLISH": "you (plural) approached"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me acercaré",
+      "ENGLISH": "I will approach"
+    },
+    "TU": {
+      "SPANISH": "te acercarás",
+      "ENGLISH": "you will approach"
+    },
+    "EL": {
+      "SPANISH": "se acercará",
+      "ENGLISH": "s/he will approach, you (formal) will approach"
+    },
+    "ELLOS": {
+      "SPANISH": "se acercarán",
+      "ENGLISH": "they will approach, you (plural formal) will approach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acercaremos",
+      "ENGLISH": "we will approach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acercaréis",
+      "ENGLISH": "you (plural) will approach"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré acercado",
+      "ENGLISH": "I will have approached"
+    },
+    "TU": {
+      "SPANISH": "te habrás acercado",
+      "ENGLISH": "you will have approached"
+    },
+    "EL": {
+      "SPANISH": "se habrá acercado",
+      "ENGLISH": "s/he will have approached, you (formal) will have approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán acercado",
+      "ENGLISH": "they will have approached, you (plural formal) will have approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos acercado",
+      "ENGLISH": "we will have approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis acercado",
+      "ENGLISH": "you (plural) will have approached"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me acercaría",
+      "ENGLISH": "I would approach"
+    },
+    "TU": {
+      "SPANISH": "te acercarías",
+      "ENGLISH": "you would approach"
+    },
+    "EL": {
+      "SPANISH": "se acercaría",
+      "ENGLISH": "s/he would approach, you (formal) would approach"
+    },
+    "ELLOS": {
+      "SPANISH": "se acercarían",
+      "ENGLISH": "they would approach, you (plural formal) would approach"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos acercaríamos",
+      "ENGLISH": "we would approach"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os acercaríais",
+      "ENGLISH": "you (plural) would approach"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría acercado",
+      "ENGLISH": "I would have approached"
+    },
+    "TU": {
+      "SPANISH": "te habrías acercado",
+      "ENGLISH": "you would have approached"
+    },
+    "EL": {
+      "SPANISH": "se habría acercado",
+      "ENGLISH": "s/he would have approached, you (formal) would have approached"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían acercado",
+      "ENGLISH": "they would have approached, you (plural formal) would have approached"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos acercado",
+      "ENGLISH": "we would have approached"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais acercado",
+      "ENGLISH": "you (plural) would have approached"
+    }
+  }
+}

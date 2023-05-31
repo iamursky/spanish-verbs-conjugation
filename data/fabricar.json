@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "fabrico",
+      "ENGLISH": "I manufacture"
+    },
+    "TU": {
+      "SPANISH": "fabricas",
+      "ENGLISH": "you manufacture"
+    },
+    "EL": {
+      "SPANISH": "fabrica",
+      "ENGLISH": "s/he manufactures, you (formal) manufactures"
+    },
+    "ELLOS": {
+      "SPANISH": "fabrican",
+      "ENGLISH": "they manufacture, you (plural formal) manufacture"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fabricamos",
+      "ENGLISH": "we manufacture"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fabricáis",
+      "ENGLISH": "you (plural) manufacture"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he fabricado",
+      "ENGLISH": "I have manufactured"
+    },
+    "TU": {
+      "SPANISH": "has fabricado",
+      "ENGLISH": "you have manufactured"
+    },
+    "EL": {
+      "SPANISH": "ha fabricado",
+      "ENGLISH": "s/he has manufactured, you (formal) have manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "han fabricado",
+      "ENGLISH": "they have manufactured, you (plural formal) have manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos fabricado",
+      "ENGLISH": "we have manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis fabricado",
+      "ENGLISH": "you (plural) have manufactured"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "fabriqué ",
+      "ENGLISH": "I manufactured"
+    },
+    "TU": {
+      "SPANISH": "fabricaste",
+      "ENGLISH": "you manufactured"
+    },
+    "EL": {
+      "SPANISH": "fabricó",
+      "ENGLISH": "s/he manufactured, you (formal) manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "fabricaron",
+      "ENGLISH": "they manufactured, you (plural formal) manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fabricamos",
+      "ENGLISH": "we manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fabricasteis",
+      "ENGLISH": "you (plural) manufactured"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había fabricado",
+      "ENGLISH": "I had manufactured"
+    },
+    "TU": {
+      "SPANISH": "habías fabricado",
+      "ENGLISH": "you had manufactured"
+    },
+    "EL": {
+      "SPANISH": "había fabricado",
+      "ENGLISH": "s/he had manufactured, you (formal) had manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "habían fabricado",
+      "ENGLISH": "they had manufactured, you (plural formal) had manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos fabricado",
+      "ENGLISH": "we had manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais fabricado",
+      "ENGLISH": "you (plural) had manufactured"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "fabriqué ",
+      "ENGLISH": "I manufactured"
+    },
+    "TU": {
+      "SPANISH": "fabricaste",
+      "ENGLISH": "you manufactured"
+    },
+    "EL": {
+      "SPANISH": "fabricó",
+      "ENGLISH": "s/he manufactured, you (formal) manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "fabricaron",
+      "ENGLISH": "they manufactured, you (plural formal) manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fabricamos",
+      "ENGLISH": "we manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fabricasteis",
+      "ENGLISH": "you (plural) manufactured"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "fabricaré",
+      "ENGLISH": "I will manufacture"
+    },
+    "TU": {
+      "SPANISH": "fabricarás",
+      "ENGLISH": "you will manufacture"
+    },
+    "EL": {
+      "SPANISH": "fabricará",
+      "ENGLISH": "s/he will manufacture, you (formal) will manufacture"
+    },
+    "ELLOS": {
+      "SPANISH": "fabricarán",
+      "ENGLISH": "they will manufacture, you (plural formal) will manufacture"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fabricaremos",
+      "ENGLISH": "we will manufacture"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fabricaréis",
+      "ENGLISH": "you (plural) will manufacture"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré fabricado",
+      "ENGLISH": "I will have manufactured"
+    },
+    "TU": {
+      "SPANISH": "habrás fabricado",
+      "ENGLISH": "you will have manufactured"
+    },
+    "EL": {
+      "SPANISH": "habrá fabricado",
+      "ENGLISH": "s/he will have manufactured, you (formal) will have manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán fabricado",
+      "ENGLISH": "they will have manufactured, you (plural formal) will have manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos fabricado",
+      "ENGLISH": "we will have manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis fabricado",
+      "ENGLISH": "you (plural) will have manufactured"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "fabricaría",
+      "ENGLISH": "I would manufacture"
+    },
+    "TU": {
+      "SPANISH": "fabricarías",
+      "ENGLISH": "you would manufacture"
+    },
+    "EL": {
+      "SPANISH": "fabricaría",
+      "ENGLISH": "s/he would manufacture, you (formal) would manufacture"
+    },
+    "ELLOS": {
+      "SPANISH": "fabricarían",
+      "ENGLISH": "they would manufacture, you (plural formal) would manufacture"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fabricaríamos",
+      "ENGLISH": "we would manufacture"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fabricaríais",
+      "ENGLISH": "you (plural) would manufacture"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría fabricado",
+      "ENGLISH": "I would have manufactured"
+    },
+    "TU": {
+      "SPANISH": "habrías fabricado",
+      "ENGLISH": "you would have manufactured"
+    },
+    "EL": {
+      "SPANISH": "habría fabricado",
+      "ENGLISH": "s/he would have manufactured, you (formal) would have manufactured"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían fabricado",
+      "ENGLISH": "they would have manufactured, you (plural formal) would have manufactured"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos fabricado",
+      "ENGLISH": "we would have manufactured"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais fabricado",
+      "ENGLISH": "you (plural) would have manufactured"
+    }
+  }
+}

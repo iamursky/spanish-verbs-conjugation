@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "conservo",
+      "ENGLISH": "I keep"
+    },
+    "TU": {
+      "SPANISH": "conservas",
+      "ENGLISH": "you keep"
+    },
+    "EL": {
+      "SPANISH": "conserva",
+      "ENGLISH": "s/he keeps, you (formal) keeps"
+    },
+    "ELLOS": {
+      "SPANISH": "conservan",
+      "ENGLISH": "they keep, you (plural formal) keep"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conservamos",
+      "ENGLISH": "we keep"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conserváis",
+      "ENGLISH": "you (plural) keep"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he conservado",
+      "ENGLISH": "I have kept"
+    },
+    "TU": {
+      "SPANISH": "has conservado",
+      "ENGLISH": "you have kept"
+    },
+    "EL": {
+      "SPANISH": "ha conservado",
+      "ENGLISH": "s/he has kept, you (formal) have kept"
+    },
+    "ELLOS": {
+      "SPANISH": "han conservado",
+      "ENGLISH": "they have kept, you (plural formal) have kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos conservado",
+      "ENGLISH": "we have kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis conservado",
+      "ENGLISH": "you (plural) have kept"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "conservé",
+      "ENGLISH": "I kept"
+    },
+    "TU": {
+      "SPANISH": "conservaste",
+      "ENGLISH": "you kept"
+    },
+    "EL": {
+      "SPANISH": "conservó",
+      "ENGLISH": "s/he kept, you (formal) kept"
+    },
+    "ELLOS": {
+      "SPANISH": "conservaron",
+      "ENGLISH": "they kept, you (plural formal) kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conservamos",
+      "ENGLISH": "we kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conservasteis",
+      "ENGLISH": "you (plural) kept"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había conservado",
+      "ENGLISH": "I had kept"
+    },
+    "TU": {
+      "SPANISH": "habías conservado",
+      "ENGLISH": "you had kept"
+    },
+    "EL": {
+      "SPANISH": "había conservado",
+      "ENGLISH": "s/he had kept, you (formal) had kept"
+    },
+    "ELLOS": {
+      "SPANISH": "habían conservado",
+      "ENGLISH": "they had kept, you (plural formal) had kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos conservado",
+      "ENGLISH": "we had kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais conservado",
+      "ENGLISH": "you (plural) had kept"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "conservé",
+      "ENGLISH": "I kept"
+    },
+    "TU": {
+      "SPANISH": "conservaste",
+      "ENGLISH": "you kept"
+    },
+    "EL": {
+      "SPANISH": "conservó",
+      "ENGLISH": "s/he kept, you (formal) kept"
+    },
+    "ELLOS": {
+      "SPANISH": "conservaron",
+      "ENGLISH": "they kept, you (plural formal) kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conservamos",
+      "ENGLISH": "we kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conservasteis",
+      "ENGLISH": "you (plural) kept"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "conservaré",
+      "ENGLISH": "I will keep"
+    },
+    "TU": {
+      "SPANISH": "conservarás",
+      "ENGLISH": "you will keep"
+    },
+    "EL": {
+      "SPANISH": "conservará",
+      "ENGLISH": "s/he will keep, you (formal) will keep"
+    },
+    "ELLOS": {
+      "SPANISH": "conservarán",
+      "ENGLISH": "they will keep, you (plural formal) will keep"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conservaremos",
+      "ENGLISH": "we will keep"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conservaréis",
+      "ENGLISH": "you (plural) will keep"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré conservado",
+      "ENGLISH": "I will have kept"
+    },
+    "TU": {
+      "SPANISH": "habrás conservado",
+      "ENGLISH": "you will have kept"
+    },
+    "EL": {
+      "SPANISH": "habrá conservado",
+      "ENGLISH": "s/he will have kept, you (formal) will have kept"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán conservado",
+      "ENGLISH": "they will have kept, you (plural formal) will have kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos conservado",
+      "ENGLISH": "we will have kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis conservado",
+      "ENGLISH": "you (plural) will have kept"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "conservaría",
+      "ENGLISH": "I would keep"
+    },
+    "TU": {
+      "SPANISH": "conservarías",
+      "ENGLISH": "you would keep"
+    },
+    "EL": {
+      "SPANISH": "conservaría",
+      "ENGLISH": "s/he would keep, you (formal) would keep"
+    },
+    "ELLOS": {
+      "SPANISH": "conservarían",
+      "ENGLISH": "they would keep, you (plural formal) would keep"
+    },
+    "NOSOTROS": {
+      "SPANISH": "conservaríamos",
+      "ENGLISH": "we would keep"
+    },
+    "VOSOTROS": {
+      "SPANISH": "conservaríais",
+      "ENGLISH": "you (plural) would keep"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría conservado",
+      "ENGLISH": "I would have kept"
+    },
+    "TU": {
+      "SPANISH": "habrías conservado",
+      "ENGLISH": "you would have kept"
+    },
+    "EL": {
+      "SPANISH": "habría conservado",
+      "ENGLISH": "s/he would have kept, you (formal) would have kept"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían conservado",
+      "ENGLISH": "they would have kept, you (plural formal) would have kept"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos conservado",
+      "ENGLISH": "we would have kept"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais conservado",
+      "ENGLISH": "you (plural) would have kept"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "viajo",
+      "ENGLISH": "I travel"
+    },
+    "TU": {
+      "SPANISH": "viajas",
+      "ENGLISH": "you travel"
+    },
+    "EL": {
+      "SPANISH": "viaja",
+      "ENGLISH": "s/he travels, you (formal) travels"
+    },
+    "ELLOS": {
+      "SPANISH": "viajan",
+      "ENGLISH": "they travel, you (plural formal) travel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "viajamos",
+      "ENGLISH": "we travel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "viajáis",
+      "ENGLISH": "you (plural) travel"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he viajado",
+      "ENGLISH": "I have travelled"
+    },
+    "TU": {
+      "SPANISH": "has viajado",
+      "ENGLISH": "you have travelled"
+    },
+    "EL": {
+      "SPANISH": "ha viajado",
+      "ENGLISH": "s/he has travelled, you (formal) have travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "han viajado",
+      "ENGLISH": "they have travelled, you (plural formal) have travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos viajado",
+      "ENGLISH": "we have travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis viajado",
+      "ENGLISH": "you (plural) have travelled"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "viajé",
+      "ENGLISH": "I travelled"
+    },
+    "TU": {
+      "SPANISH": "viajaste",
+      "ENGLISH": "you travelled"
+    },
+    "EL": {
+      "SPANISH": "viajó",
+      "ENGLISH": "s/he travelled, you (formal) travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "viajaron",
+      "ENGLISH": "they travelled, you (plural formal) travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "viajamos",
+      "ENGLISH": "we travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "viajasteis",
+      "ENGLISH": "you (plural) travelled"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había viajado",
+      "ENGLISH": "I had travelled"
+    },
+    "TU": {
+      "SPANISH": "habías viajado",
+      "ENGLISH": "you had travelled"
+    },
+    "EL": {
+      "SPANISH": "había viajado",
+      "ENGLISH": "s/he had travelled, you (formal) had travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habían viajado",
+      "ENGLISH": "they had travelled, you (plural formal) had travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos viajado",
+      "ENGLISH": "we had travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais viajado",
+      "ENGLISH": "you (plural) had travelled"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "viajé",
+      "ENGLISH": "I travelled"
+    },
+    "TU": {
+      "SPANISH": "viajaste",
+      "ENGLISH": "you travelled"
+    },
+    "EL": {
+      "SPANISH": "viajó",
+      "ENGLISH": "s/he travelled, you (formal) travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "viajaron",
+      "ENGLISH": "they travelled, you (plural formal) travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "viajamos",
+      "ENGLISH": "we travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "viajasteis",
+      "ENGLISH": "you (plural) travelled"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "viajaré",
+      "ENGLISH": "I will travel"
+    },
+    "TU": {
+      "SPANISH": "viajarás",
+      "ENGLISH": "you will travel"
+    },
+    "EL": {
+      "SPANISH": "viajará",
+      "ENGLISH": "s/he will travel, you (formal) will travel"
+    },
+    "ELLOS": {
+      "SPANISH": "viajarán",
+      "ENGLISH": "they will travel, you (plural formal) will travel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "viajaremos",
+      "ENGLISH": "we will travel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "viajaréis",
+      "ENGLISH": "you (plural) will travel"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré viajado",
+      "ENGLISH": "I will have travelled"
+    },
+    "TU": {
+      "SPANISH": "habrás viajado",
+      "ENGLISH": "you will have travelled"
+    },
+    "EL": {
+      "SPANISH": "habrá viajado",
+      "ENGLISH": "s/he will have travelled, you (formal) will have travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán viajado",
+      "ENGLISH": "they will have travelled, you (plural formal) will have travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos viajado",
+      "ENGLISH": "we will have travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis viajado",
+      "ENGLISH": "you (plural) will have travelled"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "viajaría",
+      "ENGLISH": "I would travel"
+    },
+    "TU": {
+      "SPANISH": "viajarías",
+      "ENGLISH": "you would travel"
+    },
+    "EL": {
+      "SPANISH": "viajaría",
+      "ENGLISH": "s/he would travel, you (formal) would travel"
+    },
+    "ELLOS": {
+      "SPANISH": "viajarían",
+      "ENGLISH": "they would travel, you (plural formal) would travel"
+    },
+    "NOSOTROS": {
+      "SPANISH": "viajaríamos",
+      "ENGLISH": "we would travel"
+    },
+    "VOSOTROS": {
+      "SPANISH": "viajaríais",
+      "ENGLISH": "you (plural) would travel"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría viajado",
+      "ENGLISH": "I would have travelled"
+    },
+    "TU": {
+      "SPANISH": "habrías viajado",
+      "ENGLISH": "you would have travelled"
+    },
+    "EL": {
+      "SPANISH": "habría viajado",
+      "ENGLISH": "s/he would have travelled, you (formal) would have travelled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían viajado",
+      "ENGLISH": "they would have travelled, you (plural formal) would have travelled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos viajado",
+      "ENGLISH": "we would have travelled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais viajado",
+      "ENGLISH": "you (plural) would have travelled"
+    }
+  }
+}

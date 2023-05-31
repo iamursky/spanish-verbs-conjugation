@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "envío ",
+      "ENGLISH": "I send"
+    },
+    "TU": {
+      "SPANISH": "envías ",
+      "ENGLISH": "you send"
+    },
+    "EL": {
+      "SPANISH": "envía ",
+      "ENGLISH": "s/he sends, you (formal) sends"
+    },
+    "ELLOS": {
+      "SPANISH": "envían ",
+      "ENGLISH": "they send, you (plural formal) send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enviamos",
+      "ENGLISH": "we send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enviáis",
+      "ENGLISH": "you (plural) send"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he enviado",
+      "ENGLISH": "I have sent"
+    },
+    "TU": {
+      "SPANISH": "has enviado",
+      "ENGLISH": "you have sent"
+    },
+    "EL": {
+      "SPANISH": "ha enviado",
+      "ENGLISH": "s/he has sent, you (formal) have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "han enviado",
+      "ENGLISH": "they have sent, you (plural formal) have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos enviado",
+      "ENGLISH": "we have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis enviado",
+      "ENGLISH": "you (plural) have sent"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "envié",
+      "ENGLISH": "I sent"
+    },
+    "TU": {
+      "SPANISH": "enviaste",
+      "ENGLISH": "you sent"
+    },
+    "EL": {
+      "SPANISH": "envió",
+      "ENGLISH": "s/he sent, you (formal) sent"
+    },
+    "ELLOS": {
+      "SPANISH": "enviaron",
+      "ENGLISH": "they sent, you (plural formal) sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enviamos",
+      "ENGLISH": "we sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enviasteis",
+      "ENGLISH": "you (plural) sent"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había enviado",
+      "ENGLISH": "I had sent"
+    },
+    "TU": {
+      "SPANISH": "habías enviado",
+      "ENGLISH": "you had sent"
+    },
+    "EL": {
+      "SPANISH": "había enviado",
+      "ENGLISH": "s/he had sent, you (formal) had sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habían enviado",
+      "ENGLISH": "they had sent, you (plural formal) had sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos enviado",
+      "ENGLISH": "we had sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais enviado",
+      "ENGLISH": "you (plural) had sent"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "envié",
+      "ENGLISH": "I sent"
+    },
+    "TU": {
+      "SPANISH": "enviaste",
+      "ENGLISH": "you sent"
+    },
+    "EL": {
+      "SPANISH": "envió",
+      "ENGLISH": "s/he sent, you (formal) sent"
+    },
+    "ELLOS": {
+      "SPANISH": "enviaron",
+      "ENGLISH": "they sent, you (plural formal) sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enviamos",
+      "ENGLISH": "we sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enviasteis",
+      "ENGLISH": "you (plural) sent"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "enviaré",
+      "ENGLISH": "I will send"
+    },
+    "TU": {
+      "SPANISH": "enviarás",
+      "ENGLISH": "you will send"
+    },
+    "EL": {
+      "SPANISH": "enviará",
+      "ENGLISH": "s/he will send, you (formal) will send"
+    },
+    "ELLOS": {
+      "SPANISH": "enviarán",
+      "ENGLISH": "they will send, you (plural formal) will send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enviaremos",
+      "ENGLISH": "we will send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enviaréis",
+      "ENGLISH": "you (plural) will send"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré enviado",
+      "ENGLISH": "I will have sent"
+    },
+    "TU": {
+      "SPANISH": "habrás enviado",
+      "ENGLISH": "you will have sent"
+    },
+    "EL": {
+      "SPANISH": "habrá enviado",
+      "ENGLISH": "s/he will have sent, you (formal) will have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán enviado",
+      "ENGLISH": "they will have sent, you (plural formal) will have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos enviado",
+      "ENGLISH": "we will have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis enviado",
+      "ENGLISH": "you (plural) will have sent"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "enviaría",
+      "ENGLISH": "I would send"
+    },
+    "TU": {
+      "SPANISH": "enviarías",
+      "ENGLISH": "you would send"
+    },
+    "EL": {
+      "SPANISH": "enviaría",
+      "ENGLISH": "s/he would send, you (formal) would send"
+    },
+    "ELLOS": {
+      "SPANISH": "enviarían",
+      "ENGLISH": "they would send, you (plural formal) would send"
+    },
+    "NOSOTROS": {
+      "SPANISH": "enviaríamos",
+      "ENGLISH": "we would send"
+    },
+    "VOSOTROS": {
+      "SPANISH": "enviaríais",
+      "ENGLISH": "you (plural) would send"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría enviado",
+      "ENGLISH": "I would have sent"
+    },
+    "TU": {
+      "SPANISH": "habrías enviado",
+      "ENGLISH": "you would have sent"
+    },
+    "EL": {
+      "SPANISH": "habría enviado",
+      "ENGLISH": "s/he would have sent, you (formal) would have sent"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían enviado",
+      "ENGLISH": "they would have sent, you (plural formal) would have sent"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos enviado",
+      "ENGLISH": "we would have sent"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais enviado",
+      "ENGLISH": "you (plural) would have sent"
+    }
+  }
+}

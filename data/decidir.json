@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "decido",
+      "ENGLISH": "I decide"
+    },
+    "TU": {
+      "SPANISH": "decides",
+      "ENGLISH": "you decide"
+    },
+    "EL": {
+      "SPANISH": "decide",
+      "ENGLISH": "s/he decides, you (formal) decides"
+    },
+    "ELLOS": {
+      "SPANISH": "deciden",
+      "ENGLISH": "they decide, you (plural formal) decide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decidimos",
+      "ENGLISH": "we decide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decidís",
+      "ENGLISH": "you (plural) decide"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he decidido",
+      "ENGLISH": "I have decided"
+    },
+    "TU": {
+      "SPANISH": "has decidido",
+      "ENGLISH": "you have decided"
+    },
+    "EL": {
+      "SPANISH": "ha decidido",
+      "ENGLISH": "s/he has decided, you (formal) have decided"
+    },
+    "ELLOS": {
+      "SPANISH": "han decidido",
+      "ENGLISH": "they have decided, you (plural formal) have decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos decidido",
+      "ENGLISH": "we have decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis decidido",
+      "ENGLISH": "you (plural) have decided"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "decidí",
+      "ENGLISH": "I decided"
+    },
+    "TU": {
+      "SPANISH": "decidiste",
+      "ENGLISH": "you decided"
+    },
+    "EL": {
+      "SPANISH": "decidió",
+      "ENGLISH": "s/he decided, you (formal) decided"
+    },
+    "ELLOS": {
+      "SPANISH": "decidieron",
+      "ENGLISH": "they decided, you (plural formal) decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decidimos",
+      "ENGLISH": "we decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decidisteis",
+      "ENGLISH": "you (plural) decided"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había decidido",
+      "ENGLISH": "I had decided"
+    },
+    "TU": {
+      "SPANISH": "habías decidido",
+      "ENGLISH": "you had decided"
+    },
+    "EL": {
+      "SPANISH": "había decidido",
+      "ENGLISH": "s/he had decided, you (formal) had decided"
+    },
+    "ELLOS": {
+      "SPANISH": "habían decidido",
+      "ENGLISH": "they had decided, you (plural formal) had decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos decidido",
+      "ENGLISH": "we had decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais decidido",
+      "ENGLISH": "you (plural) had decided"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "decidí",
+      "ENGLISH": "I decided"
+    },
+    "TU": {
+      "SPANISH": "decidiste",
+      "ENGLISH": "you decided"
+    },
+    "EL": {
+      "SPANISH": "decidió",
+      "ENGLISH": "s/he decided, you (formal) decided"
+    },
+    "ELLOS": {
+      "SPANISH": "decidieron",
+      "ENGLISH": "they decided, you (plural formal) decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decidimos",
+      "ENGLISH": "we decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decidisteis",
+      "ENGLISH": "you (plural) decided"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "decidiré",
+      "ENGLISH": "I will decide"
+    },
+    "TU": {
+      "SPANISH": "decidirás",
+      "ENGLISH": "you will decide"
+    },
+    "EL": {
+      "SPANISH": "decidirá",
+      "ENGLISH": "s/he will decide, you (formal) will decide"
+    },
+    "ELLOS": {
+      "SPANISH": "decidirán",
+      "ENGLISH": "they will decide, you (plural formal) will decide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decidiremos",
+      "ENGLISH": "we will decide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decidiréis",
+      "ENGLISH": "you (plural) will decide"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré decidido",
+      "ENGLISH": "I will have decided"
+    },
+    "TU": {
+      "SPANISH": "habrás decidido",
+      "ENGLISH": "you will have decided"
+    },
+    "EL": {
+      "SPANISH": "habrá decidido",
+      "ENGLISH": "s/he will have decided, you (formal) will have decided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán decidido",
+      "ENGLISH": "they will have decided, you (plural formal) will have decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos decidido",
+      "ENGLISH": "we will have decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis decidido",
+      "ENGLISH": "you (plural) will have decided"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "decidiría",
+      "ENGLISH": "I would decide"
+    },
+    "TU": {
+      "SPANISH": "decidirías",
+      "ENGLISH": "you would decide"
+    },
+    "EL": {
+      "SPANISH": "decidiría",
+      "ENGLISH": "s/he would decide, you (formal) would decide"
+    },
+    "ELLOS": {
+      "SPANISH": "decidirían",
+      "ENGLISH": "they would decide, you (plural formal) would decide"
+    },
+    "NOSOTROS": {
+      "SPANISH": "decidiríamos",
+      "ENGLISH": "we would decide"
+    },
+    "VOSOTROS": {
+      "SPANISH": "decidiríais",
+      "ENGLISH": "you (plural) would decide"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría decidido",
+      "ENGLISH": "I would have decided"
+    },
+    "TU": {
+      "SPANISH": "habrías decidido",
+      "ENGLISH": "you would have decided"
+    },
+    "EL": {
+      "SPANISH": "habría decidido",
+      "ENGLISH": "s/he would have decided, you (formal) would have decided"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían decidido",
+      "ENGLISH": "they would have decided, you (plural formal) would have decided"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos decidido",
+      "ENGLISH": "we would have decided"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais decidido",
+      "ENGLISH": "you (plural) would have decided"
+    }
+  }
+}

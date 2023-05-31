@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "fortalezco ",
+      "ENGLISH": "I strengthen"
+    },
+    "TU": {
+      "SPANISH": "fortaleces",
+      "ENGLISH": "you strengthen"
+    },
+    "EL": {
+      "SPANISH": "fortalece",
+      "ENGLISH": "s/he strengthens, you (formal) strengthens"
+    },
+    "ELLOS": {
+      "SPANISH": "fortalecen",
+      "ENGLISH": "they strengthen, you (plural formal) strengthen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fortalecemos",
+      "ENGLISH": "we strengthen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fortalecéis",
+      "ENGLISH": "you (plural) strengthen"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he fortalecido",
+      "ENGLISH": "I have strengthened"
+    },
+    "TU": {
+      "SPANISH": "has fortalecido",
+      "ENGLISH": "you have strengthened"
+    },
+    "EL": {
+      "SPANISH": "ha fortalecido",
+      "ENGLISH": "s/he has strengthened, you (formal) have strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "han fortalecido",
+      "ENGLISH": "they have strengthened, you (plural formal) have strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos fortalecido",
+      "ENGLISH": "we have strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis fortalecido",
+      "ENGLISH": "you (plural) have strengthened"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "fortalecí",
+      "ENGLISH": "I strengthened"
+    },
+    "TU": {
+      "SPANISH": "fortaleciste",
+      "ENGLISH": "you strengthened"
+    },
+    "EL": {
+      "SPANISH": "fortaleció",
+      "ENGLISH": "s/he strengthened, you (formal) strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "fortalecieron",
+      "ENGLISH": "they strengthened, you (plural formal) strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fortalecimos",
+      "ENGLISH": "we strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fortalecisteis",
+      "ENGLISH": "you (plural) strengthened"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había fortalecido",
+      "ENGLISH": "I had strengthened"
+    },
+    "TU": {
+      "SPANISH": "habías fortalecido",
+      "ENGLISH": "you had strengthened"
+    },
+    "EL": {
+      "SPANISH": "había fortalecido",
+      "ENGLISH": "s/he had strengthened, you (formal) had strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "habían fortalecido",
+      "ENGLISH": "they had strengthened, you (plural formal) had strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos fortalecido",
+      "ENGLISH": "we had strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais fortalecido",
+      "ENGLISH": "you (plural) had strengthened"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "fortalecí",
+      "ENGLISH": "I strengthened"
+    },
+    "TU": {
+      "SPANISH": "fortaleciste",
+      "ENGLISH": "you strengthened"
+    },
+    "EL": {
+      "SPANISH": "fortaleció",
+      "ENGLISH": "s/he strengthened, you (formal) strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "fortalecieron",
+      "ENGLISH": "they strengthened, you (plural formal) strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fortalecimos",
+      "ENGLISH": "we strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fortalecisteis",
+      "ENGLISH": "you (plural) strengthened"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "fortaleceré",
+      "ENGLISH": "I will strengthen"
+    },
+    "TU": {
+      "SPANISH": "fortalecerás",
+      "ENGLISH": "you will strengthen"
+    },
+    "EL": {
+      "SPANISH": "fortalecerá",
+      "ENGLISH": "s/he will strengthen, you (formal) will strengthen"
+    },
+    "ELLOS": {
+      "SPANISH": "fortalecerán",
+      "ENGLISH": "they will strengthen, you (plural formal) will strengthen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fortaleceremos",
+      "ENGLISH": "we will strengthen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fortaleceréis",
+      "ENGLISH": "you (plural) will strengthen"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré fortalecido",
+      "ENGLISH": "I will have strengthened"
+    },
+    "TU": {
+      "SPANISH": "habrás fortalecido",
+      "ENGLISH": "you will have strengthened"
+    },
+    "EL": {
+      "SPANISH": "habrá fortalecido",
+      "ENGLISH": "s/he will have strengthened, you (formal) will have strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán fortalecido",
+      "ENGLISH": "they will have strengthened, you (plural formal) will have strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos fortalecido",
+      "ENGLISH": "we will have strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis fortalecido",
+      "ENGLISH": "you (plural) will have strengthened"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "fortalecería",
+      "ENGLISH": "I would strengthen"
+    },
+    "TU": {
+      "SPANISH": "fortalecerías",
+      "ENGLISH": "you would strengthen"
+    },
+    "EL": {
+      "SPANISH": "fortalecería",
+      "ENGLISH": "s/he would strengthen, you (formal) would strengthen"
+    },
+    "ELLOS": {
+      "SPANISH": "fortalecerían",
+      "ENGLISH": "they would strengthen, you (plural formal) would strengthen"
+    },
+    "NOSOTROS": {
+      "SPANISH": "fortaleceríamos",
+      "ENGLISH": "we would strengthen"
+    },
+    "VOSOTROS": {
+      "SPANISH": "fortaleceríais",
+      "ENGLISH": "you (plural) would strengthen"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría fortalecido",
+      "ENGLISH": "I would have strengthened"
+    },
+    "TU": {
+      "SPANISH": "habrías fortalecido",
+      "ENGLISH": "you would have strengthened"
+    },
+    "EL": {
+      "SPANISH": "habría fortalecido",
+      "ENGLISH": "s/he would have strengthened, you (formal) would have strengthened"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían fortalecido",
+      "ENGLISH": "they would have strengthened, you (plural formal) would have strengthened"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos fortalecido",
+      "ENGLISH": "we would have strengthened"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais fortalecido",
+      "ENGLISH": "you (plural) would have strengthened"
+    }
+  }
+}

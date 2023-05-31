@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "contagio",
+      "ENGLISH": "I transmit"
+    },
+    "TU": {
+      "SPANISH": "contagias",
+      "ENGLISH": "you transmit"
+    },
+    "EL": {
+      "SPANISH": "contagia",
+      "ENGLISH": "s/he transmits, you (formal) transmits"
+    },
+    "ELLOS": {
+      "SPANISH": "contagian",
+      "ENGLISH": "they transmit, you (plural formal) transmit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contagiamos",
+      "ENGLISH": "we transmit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contagiáis",
+      "ENGLISH": "you (plural) transmit"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he contagiado",
+      "ENGLISH": "I have transmitted"
+    },
+    "TU": {
+      "SPANISH": "has contagiado",
+      "ENGLISH": "you have transmitted"
+    },
+    "EL": {
+      "SPANISH": "ha contagiado",
+      "ENGLISH": "s/he has transmitted, you (formal) have transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "han contagiado",
+      "ENGLISH": "they have transmitted, you (plural formal) have transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos contagiado",
+      "ENGLISH": "we have transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis contagiado",
+      "ENGLISH": "you (plural) have transmitted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "contagié",
+      "ENGLISH": "I transmitted"
+    },
+    "TU": {
+      "SPANISH": "contagiaste",
+      "ENGLISH": "you transmitted"
+    },
+    "EL": {
+      "SPANISH": "contagió",
+      "ENGLISH": "s/he transmitted, you (formal) transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "contagiaron",
+      "ENGLISH": "they transmitted, you (plural formal) transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contagiamos",
+      "ENGLISH": "we transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contagiasteis",
+      "ENGLISH": "you (plural) transmitted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había contagiado",
+      "ENGLISH": "I had transmitted"
+    },
+    "TU": {
+      "SPANISH": "habías contagiado",
+      "ENGLISH": "you had transmitted"
+    },
+    "EL": {
+      "SPANISH": "había contagiado",
+      "ENGLISH": "s/he had transmitted, you (formal) had transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habían contagiado",
+      "ENGLISH": "they had transmitted, you (plural formal) had transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos contagiado",
+      "ENGLISH": "we had transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais contagiado",
+      "ENGLISH": "you (plural) had transmitted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "contagié",
+      "ENGLISH": "I transmitted"
+    },
+    "TU": {
+      "SPANISH": "contagiaste",
+      "ENGLISH": "you transmitted"
+    },
+    "EL": {
+      "SPANISH": "contagió",
+      "ENGLISH": "s/he transmitted, you (formal) transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "contagiaron",
+      "ENGLISH": "they transmitted, you (plural formal) transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contagiamos",
+      "ENGLISH": "we transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contagiasteis",
+      "ENGLISH": "you (plural) transmitted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "contagiaré",
+      "ENGLISH": "I will transmit"
+    },
+    "TU": {
+      "SPANISH": "contagiarás",
+      "ENGLISH": "you will transmit"
+    },
+    "EL": {
+      "SPANISH": "contagiará",
+      "ENGLISH": "s/he will transmit, you (formal) will transmit"
+    },
+    "ELLOS": {
+      "SPANISH": "contagiarán",
+      "ENGLISH": "they will transmit, you (plural formal) will transmit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contagiaremos",
+      "ENGLISH": "we will transmit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contagiaréis",
+      "ENGLISH": "you (plural) will transmit"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré contagiado",
+      "ENGLISH": "I will have transmitted"
+    },
+    "TU": {
+      "SPANISH": "habrás contagiado",
+      "ENGLISH": "you will have transmitted"
+    },
+    "EL": {
+      "SPANISH": "habrá contagiado",
+      "ENGLISH": "s/he will have transmitted, you (formal) will have transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán contagiado",
+      "ENGLISH": "they will have transmitted, you (plural formal) will have transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos contagiado",
+      "ENGLISH": "we will have transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis contagiado",
+      "ENGLISH": "you (plural) will have transmitted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "contagiaría",
+      "ENGLISH": "I would transmit"
+    },
+    "TU": {
+      "SPANISH": "contagiarías",
+      "ENGLISH": "you would transmit"
+    },
+    "EL": {
+      "SPANISH": "contagiaría",
+      "ENGLISH": "s/he would transmit, you (formal) would transmit"
+    },
+    "ELLOS": {
+      "SPANISH": "contagiarían",
+      "ENGLISH": "they would transmit, you (plural formal) would transmit"
+    },
+    "NOSOTROS": {
+      "SPANISH": "contagiaríamos",
+      "ENGLISH": "we would transmit"
+    },
+    "VOSOTROS": {
+      "SPANISH": "contagiaríais",
+      "ENGLISH": "you (plural) would transmit"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría contagiado",
+      "ENGLISH": "I would have transmitted"
+    },
+    "TU": {
+      "SPANISH": "habrías contagiado",
+      "ENGLISH": "you would have transmitted"
+    },
+    "EL": {
+      "SPANISH": "habría contagiado",
+      "ENGLISH": "s/he would have transmitted, you (formal) would have transmitted"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían contagiado",
+      "ENGLISH": "they would have transmitted, you (plural formal) would have transmitted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos contagiado",
+      "ENGLISH": "we would have transmitted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais contagiado",
+      "ENGLISH": "you (plural) would have transmitted"
+    }
+  }
+}

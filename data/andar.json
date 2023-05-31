@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "ando",
+      "ENGLISH": "I walk"
+    },
+    "TU": {
+      "SPANISH": "andas",
+      "ENGLISH": "you walk"
+    },
+    "EL": {
+      "SPANISH": "anda",
+      "ENGLISH": "s/he walks, you (formal) walks"
+    },
+    "ELLOS": {
+      "SPANISH": "andan",
+      "ENGLISH": "they walk, you (plural formal) walk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "andamos",
+      "ENGLISH": "we walk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "andáis",
+      "ENGLISH": "you (plural) walk"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he andado",
+      "ENGLISH": "I have walked"
+    },
+    "TU": {
+      "SPANISH": "has andado",
+      "ENGLISH": "you have walked"
+    },
+    "EL": {
+      "SPANISH": "ha andado",
+      "ENGLISH": "s/he has walked, you (formal) have walked"
+    },
+    "ELLOS": {
+      "SPANISH": "han andado",
+      "ENGLISH": "they have walked, you (plural formal) have walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos andado",
+      "ENGLISH": "we have walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis andado",
+      "ENGLISH": "you (plural) have walked"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "anduve ",
+      "ENGLISH": "I walked"
+    },
+    "TU": {
+      "SPANISH": "anduviste ",
+      "ENGLISH": "you walked"
+    },
+    "EL": {
+      "SPANISH": "anduvo ",
+      "ENGLISH": "s/he walked, you (formal) walked"
+    },
+    "ELLOS": {
+      "SPANISH": "anduvieron ",
+      "ENGLISH": "they walked, you (plural formal) walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anduvimos ",
+      "ENGLISH": "we walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anduvisteis ",
+      "ENGLISH": "you (plural) walked"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había andado",
+      "ENGLISH": "I had walked"
+    },
+    "TU": {
+      "SPANISH": "habías andado",
+      "ENGLISH": "you had walked"
+    },
+    "EL": {
+      "SPANISH": "había andado",
+      "ENGLISH": "s/he had walked, you (formal) had walked"
+    },
+    "ELLOS": {
+      "SPANISH": "habían andado",
+      "ENGLISH": "they had walked, you (plural formal) had walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos andado",
+      "ENGLISH": "we had walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais andado",
+      "ENGLISH": "you (plural) had walked"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "anduve ",
+      "ENGLISH": "I walked"
+    },
+    "TU": {
+      "SPANISH": "anduviste ",
+      "ENGLISH": "you walked"
+    },
+    "EL": {
+      "SPANISH": "anduvo ",
+      "ENGLISH": "s/he walked, you (formal) walked"
+    },
+    "ELLOS": {
+      "SPANISH": "anduvieron ",
+      "ENGLISH": "they walked, you (plural formal) walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anduvimos ",
+      "ENGLISH": "we walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anduvisteis ",
+      "ENGLISH": "you (plural) walked"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "andaré",
+      "ENGLISH": "I will walk"
+    },
+    "TU": {
+      "SPANISH": "andarás",
+      "ENGLISH": "you will walk"
+    },
+    "EL": {
+      "SPANISH": "andará",
+      "ENGLISH": "s/he will walk, you (formal) will walk"
+    },
+    "ELLOS": {
+      "SPANISH": "andarán",
+      "ENGLISH": "they will walk, you (plural formal) will walk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "andaremos",
+      "ENGLISH": "we will walk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "andaréis",
+      "ENGLISH": "you (plural) will walk"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré andado",
+      "ENGLISH": "I will have walked"
+    },
+    "TU": {
+      "SPANISH": "habrás andado",
+      "ENGLISH": "you will have walked"
+    },
+    "EL": {
+      "SPANISH": "habrá andado",
+      "ENGLISH": "s/he will have walked, you (formal) will have walked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán andado",
+      "ENGLISH": "they will have walked, you (plural formal) will have walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos andado",
+      "ENGLISH": "we will have walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis andado",
+      "ENGLISH": "you (plural) will have walked"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "andaría",
+      "ENGLISH": "I would walk"
+    },
+    "TU": {
+      "SPANISH": "andarías",
+      "ENGLISH": "you would walk"
+    },
+    "EL": {
+      "SPANISH": "andaría",
+      "ENGLISH": "s/he would walk, you (formal) would walk"
+    },
+    "ELLOS": {
+      "SPANISH": "andarían",
+      "ENGLISH": "they would walk, you (plural formal) would walk"
+    },
+    "NOSOTROS": {
+      "SPANISH": "andaríamos",
+      "ENGLISH": "we would walk"
+    },
+    "VOSOTROS": {
+      "SPANISH": "andaríais",
+      "ENGLISH": "you (plural) would walk"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría andado",
+      "ENGLISH": "I would have walked"
+    },
+    "TU": {
+      "SPANISH": "habrías andado",
+      "ENGLISH": "you would have walked"
+    },
+    "EL": {
+      "SPANISH": "habría andado",
+      "ENGLISH": "s/he would have walked, you (formal) would have walked"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían andado",
+      "ENGLISH": "they would have walked, you (plural formal) would have walked"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos andado",
+      "ENGLISH": "we would have walked"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais andado",
+      "ENGLISH": "you (plural) would have walked"
+    }
+  }
+}

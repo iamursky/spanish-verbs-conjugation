@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "excluyo ",
+      "ENGLISH": "I exclude"
+    },
+    "TU": {
+      "SPANISH": "excluyes ",
+      "ENGLISH": "you exclude"
+    },
+    "EL": {
+      "SPANISH": "excluye ",
+      "ENGLISH": "s/he excludes, you (formal) excludes"
+    },
+    "ELLOS": {
+      "SPANISH": "excluyen ",
+      "ENGLISH": "they exclude, you (plural formal) exclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "excluimos",
+      "ENGLISH": "we exclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "excluís",
+      "ENGLISH": "you (plural) exclude"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he excluido",
+      "ENGLISH": "I have excluded"
+    },
+    "TU": {
+      "SPANISH": "has excluido",
+      "ENGLISH": "you have excluded"
+    },
+    "EL": {
+      "SPANISH": "ha excluido",
+      "ENGLISH": "s/he has excluded, you (formal) have excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "han excluido",
+      "ENGLISH": "they have excluded, you (plural formal) have excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos excluido",
+      "ENGLISH": "we have excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis excluido",
+      "ENGLISH": "you (plural) have excluded"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "excluí",
+      "ENGLISH": "I excluded"
+    },
+    "TU": {
+      "SPANISH": "excluiste",
+      "ENGLISH": "you excluded"
+    },
+    "EL": {
+      "SPANISH": "excluyó ",
+      "ENGLISH": "s/he excluded, you (formal) excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "excluyeron ",
+      "ENGLISH": "they excluded, you (plural formal) excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "excluimos",
+      "ENGLISH": "we excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "excluisteis",
+      "ENGLISH": "you (plural) excluded"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había excluido",
+      "ENGLISH": "I had excluded"
+    },
+    "TU": {
+      "SPANISH": "habías excluido",
+      "ENGLISH": "you had excluded"
+    },
+    "EL": {
+      "SPANISH": "había excluido",
+      "ENGLISH": "s/he had excluded, you (formal) had excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habían excluido",
+      "ENGLISH": "they had excluded, you (plural formal) had excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos excluido",
+      "ENGLISH": "we had excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais excluido",
+      "ENGLISH": "you (plural) had excluded"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "excluí",
+      "ENGLISH": "I excluded"
+    },
+    "TU": {
+      "SPANISH": "excluiste",
+      "ENGLISH": "you excluded"
+    },
+    "EL": {
+      "SPANISH": "excluyó ",
+      "ENGLISH": "s/he excluded, you (formal) excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "excluyeron ",
+      "ENGLISH": "they excluded, you (plural formal) excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "excluimos",
+      "ENGLISH": "we excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "excluisteis",
+      "ENGLISH": "you (plural) excluded"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "excluiré",
+      "ENGLISH": "I will exclude"
+    },
+    "TU": {
+      "SPANISH": "excluirás",
+      "ENGLISH": "you will exclude"
+    },
+    "EL": {
+      "SPANISH": "excluirá",
+      "ENGLISH": "s/he will exclude, you (formal) will exclude"
+    },
+    "ELLOS": {
+      "SPANISH": "excluirán",
+      "ENGLISH": "they will exclude, you (plural formal) will exclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "excluiremos",
+      "ENGLISH": "we will exclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "excluiréis",
+      "ENGLISH": "you (plural) will exclude"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré excluido",
+      "ENGLISH": "I will have excluded"
+    },
+    "TU": {
+      "SPANISH": "habrás excluido",
+      "ENGLISH": "you will have excluded"
+    },
+    "EL": {
+      "SPANISH": "habrá excluido",
+      "ENGLISH": "s/he will have excluded, you (formal) will have excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán excluido",
+      "ENGLISH": "they will have excluded, you (plural formal) will have excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos excluido",
+      "ENGLISH": "we will have excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis excluido",
+      "ENGLISH": "you (plural) will have excluded"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "excluiría",
+      "ENGLISH": "I would exclude"
+    },
+    "TU": {
+      "SPANISH": "excluirías",
+      "ENGLISH": "you would exclude"
+    },
+    "EL": {
+      "SPANISH": "excluiría",
+      "ENGLISH": "s/he would exclude, you (formal) would exclude"
+    },
+    "ELLOS": {
+      "SPANISH": "excluirían",
+      "ENGLISH": "they would exclude, you (plural formal) would exclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "excluiríamos",
+      "ENGLISH": "we would exclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "excluiríais",
+      "ENGLISH": "you (plural) would exclude"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría excluido",
+      "ENGLISH": "I would have excluded"
+    },
+    "TU": {
+      "SPANISH": "habrías excluido",
+      "ENGLISH": "you would have excluded"
+    },
+    "EL": {
+      "SPANISH": "habría excluido",
+      "ENGLISH": "s/he would have excluded, you (formal) would have excluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían excluido",
+      "ENGLISH": "they would have excluded, you (plural formal) would have excluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos excluido",
+      "ENGLISH": "we would have excluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais excluido",
+      "ENGLISH": "you (plural) would have excluded"
+    }
+  }
+}

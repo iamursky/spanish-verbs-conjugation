@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "acuesto ",
+      "ENGLISH": "I put to bed"
+    },
+    "TU": {
+      "SPANISH": "acuestas ",
+      "ENGLISH": "you put to bed"
+    },
+    "EL": {
+      "SPANISH": "acuesta ",
+      "ENGLISH": "s/he puts to bed, you (formal) puts to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "acuestan ",
+      "ENGLISH": "they put to bed, you (plural formal) put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acostamos",
+      "ENGLISH": "we put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acostáis",
+      "ENGLISH": "you (plural) put to bed"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he acostado",
+      "ENGLISH": "I have put to bed"
+    },
+    "TU": {
+      "SPANISH": "has acostado",
+      "ENGLISH": "you have put to bed"
+    },
+    "EL": {
+      "SPANISH": "ha acostado",
+      "ENGLISH": "s/he has put to bed, you (formal) have put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "han acostado",
+      "ENGLISH": "they have put to bed, you (plural formal) have put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos acostado",
+      "ENGLISH": "we have put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis acostado",
+      "ENGLISH": "you (plural) have put to bed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "acosté",
+      "ENGLISH": "I put to bed"
+    },
+    "TU": {
+      "SPANISH": "acostaste",
+      "ENGLISH": "you put to bed"
+    },
+    "EL": {
+      "SPANISH": "acostó",
+      "ENGLISH": "s/he put to bed, you (formal) put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "acostaron",
+      "ENGLISH": "they put to bed, you (plural formal) put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acostamos",
+      "ENGLISH": "we put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acostasteis",
+      "ENGLISH": "you (plural) put to bed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había acostado",
+      "ENGLISH": "I had put to bed"
+    },
+    "TU": {
+      "SPANISH": "habías acostado",
+      "ENGLISH": "you had put to bed"
+    },
+    "EL": {
+      "SPANISH": "había acostado",
+      "ENGLISH": "s/he had put to bed, you (formal) had put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían acostado",
+      "ENGLISH": "they had put to bed, you (plural formal) had put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos acostado",
+      "ENGLISH": "we had put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais acostado",
+      "ENGLISH": "you (plural) had put to bed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "acosté",
+      "ENGLISH": "I put to bed"
+    },
+    "TU": {
+      "SPANISH": "acostaste",
+      "ENGLISH": "you put to bed"
+    },
+    "EL": {
+      "SPANISH": "acostó",
+      "ENGLISH": "s/he put to bed, you (formal) put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "acostaron",
+      "ENGLISH": "they put to bed, you (plural formal) put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acostamos",
+      "ENGLISH": "we put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acostasteis",
+      "ENGLISH": "you (plural) put to bed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "acostaré",
+      "ENGLISH": "I will put to bed"
+    },
+    "TU": {
+      "SPANISH": "acostarás",
+      "ENGLISH": "you will put to bed"
+    },
+    "EL": {
+      "SPANISH": "acostará",
+      "ENGLISH": "s/he will put to bed, you (formal) will put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "acostarán",
+      "ENGLISH": "they will put to bed, you (plural formal) will put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acostaremos",
+      "ENGLISH": "we will put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acostaréis",
+      "ENGLISH": "you (plural) will put to bed"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré acostado",
+      "ENGLISH": "I will have put to bed"
+    },
+    "TU": {
+      "SPANISH": "habrás acostado",
+      "ENGLISH": "you will have put to bed"
+    },
+    "EL": {
+      "SPANISH": "habrá acostado",
+      "ENGLISH": "s/he will have put to bed, you (formal) will have put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán acostado",
+      "ENGLISH": "they will have put to bed, you (plural formal) will have put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos acostado",
+      "ENGLISH": "we will have put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis acostado",
+      "ENGLISH": "you (plural) will have put to bed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "acostaría",
+      "ENGLISH": "I would put to bed"
+    },
+    "TU": {
+      "SPANISH": "acostarías",
+      "ENGLISH": "you would put to bed"
+    },
+    "EL": {
+      "SPANISH": "acostaría",
+      "ENGLISH": "s/he would put to bed, you (formal) would put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "acostarían",
+      "ENGLISH": "they would put to bed, you (plural formal) would put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "acostaríamos",
+      "ENGLISH": "we would put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "acostaríais",
+      "ENGLISH": "you (plural) would put to bed"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría acostado",
+      "ENGLISH": "I would have put to bed"
+    },
+    "TU": {
+      "SPANISH": "habrías acostado",
+      "ENGLISH": "you would have put to bed"
+    },
+    "EL": {
+      "SPANISH": "habría acostado",
+      "ENGLISH": "s/he would have put to bed, you (formal) would have put to bed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían acostado",
+      "ENGLISH": "they would have put to bed, you (plural formal) would have put to bed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos acostado",
+      "ENGLISH": "we would have put to bed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais acostado",
+      "ENGLISH": "you (plural) would have put to bed"
+    }
+  }
+}

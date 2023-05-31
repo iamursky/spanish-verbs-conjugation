@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "concluyo ",
+      "ENGLISH": "I conclude"
+    },
+    "TU": {
+      "SPANISH": "concluyes ",
+      "ENGLISH": "you conclude"
+    },
+    "EL": {
+      "SPANISH": "concluye ",
+      "ENGLISH": "s/he concludes, you (formal) concludes"
+    },
+    "ELLOS": {
+      "SPANISH": "concluyen ",
+      "ENGLISH": "they conclude, you (plural formal) conclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "concluimos",
+      "ENGLISH": "we conclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "concluís",
+      "ENGLISH": "you (plural) conclude"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he concluido",
+      "ENGLISH": "I have concluded"
+    },
+    "TU": {
+      "SPANISH": "has concluido",
+      "ENGLISH": "you have concluded"
+    },
+    "EL": {
+      "SPANISH": "ha concluido",
+      "ENGLISH": "s/he has concluded, you (formal) have concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "han concluido",
+      "ENGLISH": "they have concluded, you (plural formal) have concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos concluido",
+      "ENGLISH": "we have concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis concluido",
+      "ENGLISH": "you (plural) have concluded"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "concluí",
+      "ENGLISH": "I concluded"
+    },
+    "TU": {
+      "SPANISH": "concluiste",
+      "ENGLISH": "you concluded"
+    },
+    "EL": {
+      "SPANISH": "concluyó ",
+      "ENGLISH": "s/he concluded, you (formal) concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "concluyeron ",
+      "ENGLISH": "they concluded, you (plural formal) concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "concluimos",
+      "ENGLISH": "we concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "concluisteis",
+      "ENGLISH": "you (plural) concluded"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había concluido",
+      "ENGLISH": "I had concluded"
+    },
+    "TU": {
+      "SPANISH": "habías concluido",
+      "ENGLISH": "you had concluded"
+    },
+    "EL": {
+      "SPANISH": "había concluido",
+      "ENGLISH": "s/he had concluded, you (formal) had concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habían concluido",
+      "ENGLISH": "they had concluded, you (plural formal) had concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos concluido",
+      "ENGLISH": "we had concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais concluido",
+      "ENGLISH": "you (plural) had concluded"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "concluí",
+      "ENGLISH": "I concluded"
+    },
+    "TU": {
+      "SPANISH": "concluiste",
+      "ENGLISH": "you concluded"
+    },
+    "EL": {
+      "SPANISH": "concluyó ",
+      "ENGLISH": "s/he concluded, you (formal) concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "concluyeron ",
+      "ENGLISH": "they concluded, you (plural formal) concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "concluimos",
+      "ENGLISH": "we concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "concluisteis",
+      "ENGLISH": "you (plural) concluded"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "concluiré",
+      "ENGLISH": "I will conclude"
+    },
+    "TU": {
+      "SPANISH": "concluirás",
+      "ENGLISH": "you will conclude"
+    },
+    "EL": {
+      "SPANISH": "concluirá",
+      "ENGLISH": "s/he will conclude, you (formal) will conclude"
+    },
+    "ELLOS": {
+      "SPANISH": "concluirán",
+      "ENGLISH": "they will conclude, you (plural formal) will conclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "concluiremos",
+      "ENGLISH": "we will conclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "concluiréis",
+      "ENGLISH": "you (plural) will conclude"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré concluido",
+      "ENGLISH": "I will have concluded"
+    },
+    "TU": {
+      "SPANISH": "habrás concluido",
+      "ENGLISH": "you will have concluded"
+    },
+    "EL": {
+      "SPANISH": "habrá concluido",
+      "ENGLISH": "s/he will have concluded, you (formal) will have concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán concluido",
+      "ENGLISH": "they will have concluded, you (plural formal) will have concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos concluido",
+      "ENGLISH": "we will have concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis concluido",
+      "ENGLISH": "you (plural) will have concluded"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "concluiría",
+      "ENGLISH": "I would conclude"
+    },
+    "TU": {
+      "SPANISH": "concluirías",
+      "ENGLISH": "you would conclude"
+    },
+    "EL": {
+      "SPANISH": "concluiría",
+      "ENGLISH": "s/he would conclude, you (formal) would conclude"
+    },
+    "ELLOS": {
+      "SPANISH": "concluirían",
+      "ENGLISH": "they would conclude, you (plural formal) would conclude"
+    },
+    "NOSOTROS": {
+      "SPANISH": "concluiríamos",
+      "ENGLISH": "we would conclude"
+    },
+    "VOSOTROS": {
+      "SPANISH": "concluiríais",
+      "ENGLISH": "you (plural) would conclude"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría concluido",
+      "ENGLISH": "I would have concluded"
+    },
+    "TU": {
+      "SPANISH": "habrías concluido",
+      "ENGLISH": "you would have concluded"
+    },
+    "EL": {
+      "SPANISH": "habría concluido",
+      "ENGLISH": "s/he would have concluded, you (formal) would have concluded"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían concluido",
+      "ENGLISH": "they would have concluded, you (plural formal) would have concluded"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos concluido",
+      "ENGLISH": "we would have concluded"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais concluido",
+      "ENGLISH": "you (plural) would have concluded"
+    }
+  }
+}

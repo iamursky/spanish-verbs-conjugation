@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me pruebo ",
+      "ENGLISH": "I try on"
+    },
+    "TU": {
+      "SPANISH": "te pruebas ",
+      "ENGLISH": "you try on"
+    },
+    "EL": {
+      "SPANISH": "se prueba ",
+      "ENGLISH": "s/he tries on, you (formal) tries on"
+    },
+    "ELLOS": {
+      "SPANISH": "se prueban ",
+      "ENGLISH": "they try on, you (plural formal) try on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos probamos",
+      "ENGLISH": "we try on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os probáis",
+      "ENGLISH": "you (plural) try on"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he probado",
+      "ENGLISH": "I have tried on"
+    },
+    "TU": {
+      "SPANISH": "te has probado",
+      "ENGLISH": "you have tried on"
+    },
+    "EL": {
+      "SPANISH": "se ha probado",
+      "ENGLISH": "s/he has tried on, you (formal) have tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se han probado",
+      "ENGLISH": "they have tried on, you (plural formal) have tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos probado",
+      "ENGLISH": "we have tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis probado",
+      "ENGLISH": "you (plural) have tried on"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me probé",
+      "ENGLISH": "I tried on"
+    },
+    "TU": {
+      "SPANISH": "te probaste",
+      "ENGLISH": "you tried on"
+    },
+    "EL": {
+      "SPANISH": "se probó",
+      "ENGLISH": "s/he tried on, you (formal) tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se probaron",
+      "ENGLISH": "they tried on, you (plural formal) tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos probamos",
+      "ENGLISH": "we tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os probasteis",
+      "ENGLISH": "you (plural) tried on"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había probado",
+      "ENGLISH": "I had tried on"
+    },
+    "TU": {
+      "SPANISH": "te habías probado",
+      "ENGLISH": "you had tried on"
+    },
+    "EL": {
+      "SPANISH": "se había probado",
+      "ENGLISH": "s/he had tried on, you (formal) had tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían probado",
+      "ENGLISH": "they had tried on, you (plural formal) had tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos probado",
+      "ENGLISH": "we had tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais probado",
+      "ENGLISH": "you (plural) had tried on"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me probé",
+      "ENGLISH": "I tried on"
+    },
+    "TU": {
+      "SPANISH": "te probaste",
+      "ENGLISH": "you tried on"
+    },
+    "EL": {
+      "SPANISH": "se probó",
+      "ENGLISH": "s/he tried on, you (formal) tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se probaron",
+      "ENGLISH": "they tried on, you (plural formal) tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos probamos",
+      "ENGLISH": "we tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os probasteis",
+      "ENGLISH": "you (plural) tried on"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me probaré",
+      "ENGLISH": "I will try on"
+    },
+    "TU": {
+      "SPANISH": "te probarás",
+      "ENGLISH": "you will try on"
+    },
+    "EL": {
+      "SPANISH": "se probará",
+      "ENGLISH": "s/he will try on, you (formal) will try on"
+    },
+    "ELLOS": {
+      "SPANISH": "se probarán",
+      "ENGLISH": "they will try on, you (plural formal) will try on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos probaremos",
+      "ENGLISH": "we will try on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os probaréis",
+      "ENGLISH": "you (plural) will try on"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré probado",
+      "ENGLISH": "I will have tried on"
+    },
+    "TU": {
+      "SPANISH": "te habrás probado",
+      "ENGLISH": "you will have tried on"
+    },
+    "EL": {
+      "SPANISH": "se habrá probado",
+      "ENGLISH": "s/he will have tried on, you (formal) will have tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán probado",
+      "ENGLISH": "they will have tried on, you (plural formal) will have tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos probado",
+      "ENGLISH": "we will have tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis probado",
+      "ENGLISH": "you (plural) will have tried on"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me probaría",
+      "ENGLISH": "I would try on"
+    },
+    "TU": {
+      "SPANISH": "te probarías",
+      "ENGLISH": "you would try on"
+    },
+    "EL": {
+      "SPANISH": "se probaría",
+      "ENGLISH": "s/he would try on, you (formal) would try on"
+    },
+    "ELLOS": {
+      "SPANISH": "se probarían",
+      "ENGLISH": "they would try on, you (plural formal) would try on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos probaríamos",
+      "ENGLISH": "we would try on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os probaríais",
+      "ENGLISH": "you (plural) would try on"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría probado",
+      "ENGLISH": "I would have tried on"
+    },
+    "TU": {
+      "SPANISH": "te habrías probado",
+      "ENGLISH": "you would have tried on"
+    },
+    "EL": {
+      "SPANISH": "se habría probado",
+      "ENGLISH": "s/he would have tried on, you (formal) would have tried on"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían probado",
+      "ENGLISH": "they would have tried on, you (plural formal) would have tried on"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos probado",
+      "ENGLISH": "we would have tried on"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais probado",
+      "ENGLISH": "you (plural) would have tried on"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "parezco ",
+      "ENGLISH": "I seem"
+    },
+    "TU": {
+      "SPANISH": "pareces",
+      "ENGLISH": "you seem"
+    },
+    "EL": {
+      "SPANISH": "parece",
+      "ENGLISH": "s/he seems, you (formal) seems"
+    },
+    "ELLOS": {
+      "SPANISH": "parecen",
+      "ENGLISH": "they seem, you (plural formal) seem"
+    },
+    "NOSOTROS": {
+      "SPANISH": "parecemos",
+      "ENGLISH": "we seem"
+    },
+    "VOSOTROS": {
+      "SPANISH": "parecéis",
+      "ENGLISH": "you (plural) seem"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he parecido",
+      "ENGLISH": "I have seemed"
+    },
+    "TU": {
+      "SPANISH": "has parecido",
+      "ENGLISH": "you have seemed"
+    },
+    "EL": {
+      "SPANISH": "ha parecido",
+      "ENGLISH": "s/he has seemed, you (formal) have seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "han parecido",
+      "ENGLISH": "they have seemed, you (plural formal) have seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos parecido",
+      "ENGLISH": "we have seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis parecido",
+      "ENGLISH": "you (plural) have seemed"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "parecí",
+      "ENGLISH": "I seemed"
+    },
+    "TU": {
+      "SPANISH": "pareciste",
+      "ENGLISH": "you seemed"
+    },
+    "EL": {
+      "SPANISH": "pareció",
+      "ENGLISH": "s/he seemed, you (formal) seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "parecieron",
+      "ENGLISH": "they seemed, you (plural formal) seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "parecimos",
+      "ENGLISH": "we seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "parecisteis",
+      "ENGLISH": "you (plural) seemed"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había parecido",
+      "ENGLISH": "I had seemed"
+    },
+    "TU": {
+      "SPANISH": "habías parecido",
+      "ENGLISH": "you had seemed"
+    },
+    "EL": {
+      "SPANISH": "había parecido",
+      "ENGLISH": "s/he had seemed, you (formal) had seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "habían parecido",
+      "ENGLISH": "they had seemed, you (plural formal) had seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos parecido",
+      "ENGLISH": "we had seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais parecido",
+      "ENGLISH": "you (plural) had seemed"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "parecí",
+      "ENGLISH": "I seemed"
+    },
+    "TU": {
+      "SPANISH": "pareciste",
+      "ENGLISH": "you seemed"
+    },
+    "EL": {
+      "SPANISH": "pareció",
+      "ENGLISH": "s/he seemed, you (formal) seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "parecieron",
+      "ENGLISH": "they seemed, you (plural formal) seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "parecimos",
+      "ENGLISH": "we seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "parecisteis",
+      "ENGLISH": "you (plural) seemed"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "pareceré",
+      "ENGLISH": "I will seem"
+    },
+    "TU": {
+      "SPANISH": "parecerás",
+      "ENGLISH": "you will seem"
+    },
+    "EL": {
+      "SPANISH": "parecerá",
+      "ENGLISH": "s/he will seem, you (formal) will seem"
+    },
+    "ELLOS": {
+      "SPANISH": "parecerán",
+      "ENGLISH": "they will seem, you (plural formal) will seem"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pareceremos",
+      "ENGLISH": "we will seem"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pareceréis",
+      "ENGLISH": "you (plural) will seem"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré parecido",
+      "ENGLISH": "I will have seemed"
+    },
+    "TU": {
+      "SPANISH": "habrás parecido",
+      "ENGLISH": "you will have seemed"
+    },
+    "EL": {
+      "SPANISH": "habrá parecido",
+      "ENGLISH": "s/he will have seemed, you (formal) will have seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán parecido",
+      "ENGLISH": "they will have seemed, you (plural formal) will have seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos parecido",
+      "ENGLISH": "we will have seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis parecido",
+      "ENGLISH": "you (plural) will have seemed"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "parecería",
+      "ENGLISH": "I would seem"
+    },
+    "TU": {
+      "SPANISH": "parecerías",
+      "ENGLISH": "you would seem"
+    },
+    "EL": {
+      "SPANISH": "parecería",
+      "ENGLISH": "s/he would seem, you (formal) would seem"
+    },
+    "ELLOS": {
+      "SPANISH": "parecerían",
+      "ENGLISH": "they would seem, you (plural formal) would seem"
+    },
+    "NOSOTROS": {
+      "SPANISH": "pareceríamos",
+      "ENGLISH": "we would seem"
+    },
+    "VOSOTROS": {
+      "SPANISH": "pareceríais",
+      "ENGLISH": "you (plural) would seem"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría parecido",
+      "ENGLISH": "I would have seemed"
+    },
+    "TU": {
+      "SPANISH": "habrías parecido",
+      "ENGLISH": "you would have seemed"
+    },
+    "EL": {
+      "SPANISH": "habría parecido",
+      "ENGLISH": "s/he would have seemed, you (formal) would have seemed"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían parecido",
+      "ENGLISH": "they would have seemed, you (plural formal) would have seemed"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos parecido",
+      "ENGLISH": "we would have seemed"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais parecido",
+      "ENGLISH": "you (plural) would have seemed"
+    }
+  }
+}

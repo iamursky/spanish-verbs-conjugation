@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "practico",
+      "ENGLISH": "I practice"
+    },
+    "TU": {
+      "SPANISH": "practicas",
+      "ENGLISH": "you practice"
+    },
+    "EL": {
+      "SPANISH": "practica",
+      "ENGLISH": "s/he practices, you (formal) practices"
+    },
+    "ELLOS": {
+      "SPANISH": "practican",
+      "ENGLISH": "they practice, you (plural formal) practice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "practicamos",
+      "ENGLISH": "we practice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "practicáis",
+      "ENGLISH": "you (plural) practice"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he practicado",
+      "ENGLISH": "I have practiced"
+    },
+    "TU": {
+      "SPANISH": "has practicado",
+      "ENGLISH": "you have practiced"
+    },
+    "EL": {
+      "SPANISH": "ha practicado",
+      "ENGLISH": "s/he has practiced, you (formal) have practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "han practicado",
+      "ENGLISH": "they have practiced, you (plural formal) have practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos practicado",
+      "ENGLISH": "we have practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis practicado",
+      "ENGLISH": "you (plural) have practiced"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "practiqué ",
+      "ENGLISH": "I practiced"
+    },
+    "TU": {
+      "SPANISH": "practicaste",
+      "ENGLISH": "you practiced"
+    },
+    "EL": {
+      "SPANISH": "practicó",
+      "ENGLISH": "s/he practiced, you (formal) practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "practicaron",
+      "ENGLISH": "they practiced, you (plural formal) practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "practicamos",
+      "ENGLISH": "we practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "practicasteis",
+      "ENGLISH": "you (plural) practiced"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había practicado",
+      "ENGLISH": "I had practiced"
+    },
+    "TU": {
+      "SPANISH": "habías practicado",
+      "ENGLISH": "you had practiced"
+    },
+    "EL": {
+      "SPANISH": "había practicado",
+      "ENGLISH": "s/he had practiced, you (formal) had practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "habían practicado",
+      "ENGLISH": "they had practiced, you (plural formal) had practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos practicado",
+      "ENGLISH": "we had practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais practicado",
+      "ENGLISH": "you (plural) had practiced"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "practiqué ",
+      "ENGLISH": "I practiced"
+    },
+    "TU": {
+      "SPANISH": "practicaste",
+      "ENGLISH": "you practiced"
+    },
+    "EL": {
+      "SPANISH": "practicó",
+      "ENGLISH": "s/he practiced, you (formal) practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "practicaron",
+      "ENGLISH": "they practiced, you (plural formal) practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "practicamos",
+      "ENGLISH": "we practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "practicasteis",
+      "ENGLISH": "you (plural) practiced"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "practicaré",
+      "ENGLISH": "I will practice"
+    },
+    "TU": {
+      "SPANISH": "practicarás",
+      "ENGLISH": "you will practice"
+    },
+    "EL": {
+      "SPANISH": "practicará",
+      "ENGLISH": "s/he will practice, you (formal) will practice"
+    },
+    "ELLOS": {
+      "SPANISH": "practicarán",
+      "ENGLISH": "they will practice, you (plural formal) will practice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "practicaremos",
+      "ENGLISH": "we will practice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "practicaréis",
+      "ENGLISH": "you (plural) will practice"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré practicado",
+      "ENGLISH": "I will have practiced"
+    },
+    "TU": {
+      "SPANISH": "habrás practicado",
+      "ENGLISH": "you will have practiced"
+    },
+    "EL": {
+      "SPANISH": "habrá practicado",
+      "ENGLISH": "s/he will have practiced, you (formal) will have practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán practicado",
+      "ENGLISH": "they will have practiced, you (plural formal) will have practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos practicado",
+      "ENGLISH": "we will have practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis practicado",
+      "ENGLISH": "you (plural) will have practiced"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "practicaría",
+      "ENGLISH": "I would practice"
+    },
+    "TU": {
+      "SPANISH": "practicarías",
+      "ENGLISH": "you would practice"
+    },
+    "EL": {
+      "SPANISH": "practicaría",
+      "ENGLISH": "s/he would practice, you (formal) would practice"
+    },
+    "ELLOS": {
+      "SPANISH": "practicarían",
+      "ENGLISH": "they would practice, you (plural formal) would practice"
+    },
+    "NOSOTROS": {
+      "SPANISH": "practicaríamos",
+      "ENGLISH": "we would practice"
+    },
+    "VOSOTROS": {
+      "SPANISH": "practicaríais",
+      "ENGLISH": "you (plural) would practice"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría practicado",
+      "ENGLISH": "I would have practiced"
+    },
+    "TU": {
+      "SPANISH": "habrías practicado",
+      "ENGLISH": "you would have practiced"
+    },
+    "EL": {
+      "SPANISH": "habría practicado",
+      "ENGLISH": "s/he would have practiced, you (formal) would have practiced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían practicado",
+      "ENGLISH": "they would have practiced, you (plural formal) would have practiced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos practicado",
+      "ENGLISH": "we would have practiced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais practicado",
+      "ENGLISH": "you (plural) would have practiced"
+    }
+  }
+}

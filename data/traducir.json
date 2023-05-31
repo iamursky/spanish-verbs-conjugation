@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "traduzco ",
+      "ENGLISH": "I translate"
+    },
+    "TU": {
+      "SPANISH": "traduces",
+      "ENGLISH": "you translate"
+    },
+    "EL": {
+      "SPANISH": "traduce",
+      "ENGLISH": "s/he translates, you (formal) translates"
+    },
+    "ELLOS": {
+      "SPANISH": "traducen",
+      "ENGLISH": "they translate, you (plural formal) translate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traducimos",
+      "ENGLISH": "we translate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traducís",
+      "ENGLISH": "you (plural) translate"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he traducido",
+      "ENGLISH": "I have translated"
+    },
+    "TU": {
+      "SPANISH": "has traducido",
+      "ENGLISH": "you have translated"
+    },
+    "EL": {
+      "SPANISH": "ha traducido",
+      "ENGLISH": "s/he has translated, you (formal) have translated"
+    },
+    "ELLOS": {
+      "SPANISH": "han traducido",
+      "ENGLISH": "they have translated, you (plural formal) have translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos traducido",
+      "ENGLISH": "we have translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis traducido",
+      "ENGLISH": "you (plural) have translated"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "traduje ",
+      "ENGLISH": "I translated"
+    },
+    "TU": {
+      "SPANISH": "tradujiste ",
+      "ENGLISH": "you translated"
+    },
+    "EL": {
+      "SPANISH": "tradujo ",
+      "ENGLISH": "s/he translated, you (formal) translated"
+    },
+    "ELLOS": {
+      "SPANISH": "tradujeron ",
+      "ENGLISH": "they translated, you (plural formal) translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tradujimos ",
+      "ENGLISH": "we translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tradujisteis ",
+      "ENGLISH": "you (plural) translated"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había traducido",
+      "ENGLISH": "I had translated"
+    },
+    "TU": {
+      "SPANISH": "habías traducido",
+      "ENGLISH": "you had translated"
+    },
+    "EL": {
+      "SPANISH": "había traducido",
+      "ENGLISH": "s/he had translated, you (formal) had translated"
+    },
+    "ELLOS": {
+      "SPANISH": "habían traducido",
+      "ENGLISH": "they had translated, you (plural formal) had translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos traducido",
+      "ENGLISH": "we had translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais traducido",
+      "ENGLISH": "you (plural) had translated"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "traduje ",
+      "ENGLISH": "I translated"
+    },
+    "TU": {
+      "SPANISH": "tradujiste ",
+      "ENGLISH": "you translated"
+    },
+    "EL": {
+      "SPANISH": "tradujo ",
+      "ENGLISH": "s/he translated, you (formal) translated"
+    },
+    "ELLOS": {
+      "SPANISH": "tradujeron ",
+      "ENGLISH": "they translated, you (plural formal) translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tradujimos ",
+      "ENGLISH": "we translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tradujisteis ",
+      "ENGLISH": "you (plural) translated"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "traduciré",
+      "ENGLISH": "I will translate"
+    },
+    "TU": {
+      "SPANISH": "traducirás",
+      "ENGLISH": "you will translate"
+    },
+    "EL": {
+      "SPANISH": "traducirá",
+      "ENGLISH": "s/he will translate, you (formal) will translate"
+    },
+    "ELLOS": {
+      "SPANISH": "traducirán",
+      "ENGLISH": "they will translate, you (plural formal) will translate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traduciremos",
+      "ENGLISH": "we will translate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traduciréis",
+      "ENGLISH": "you (plural) will translate"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré traducido",
+      "ENGLISH": "I will have translated"
+    },
+    "TU": {
+      "SPANISH": "habrás traducido",
+      "ENGLISH": "you will have translated"
+    },
+    "EL": {
+      "SPANISH": "habrá traducido",
+      "ENGLISH": "s/he will have translated, you (formal) will have translated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán traducido",
+      "ENGLISH": "they will have translated, you (plural formal) will have translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos traducido",
+      "ENGLISH": "we will have translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis traducido",
+      "ENGLISH": "you (plural) will have translated"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "traduciría",
+      "ENGLISH": "I would translate"
+    },
+    "TU": {
+      "SPANISH": "traducirías",
+      "ENGLISH": "you would translate"
+    },
+    "EL": {
+      "SPANISH": "traduciría",
+      "ENGLISH": "s/he would translate, you (formal) would translate"
+    },
+    "ELLOS": {
+      "SPANISH": "traducirían",
+      "ENGLISH": "they would translate, you (plural formal) would translate"
+    },
+    "NOSOTROS": {
+      "SPANISH": "traduciríamos",
+      "ENGLISH": "we would translate"
+    },
+    "VOSOTROS": {
+      "SPANISH": "traduciríais",
+      "ENGLISH": "you (plural) would translate"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría traducido",
+      "ENGLISH": "I would have translated"
+    },
+    "TU": {
+      "SPANISH": "habrías traducido",
+      "ENGLISH": "you would have translated"
+    },
+    "EL": {
+      "SPANISH": "habría traducido",
+      "ENGLISH": "s/he would have translated, you (formal) would have translated"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían traducido",
+      "ENGLISH": "they would have translated, you (plural formal) would have translated"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos traducido",
+      "ENGLISH": "we would have translated"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais traducido",
+      "ENGLISH": "you (plural) would have translated"
+    }
+  }
+}

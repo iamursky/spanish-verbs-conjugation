@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "desaparezco ",
+      "ENGLISH": "I disappear"
+    },
+    "TU": {
+      "SPANISH": "desapareces",
+      "ENGLISH": "you disappear"
+    },
+    "EL": {
+      "SPANISH": "desaparece",
+      "ENGLISH": "s/he disappears, you (formal) disappears"
+    },
+    "ELLOS": {
+      "SPANISH": "desaparecen",
+      "ENGLISH": "they disappear, you (plural formal) disappear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desaparecemos",
+      "ENGLISH": "we disappear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desaparecéis",
+      "ENGLISH": "you (plural) disappear"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he desaparecido",
+      "ENGLISH": "I have disappeared"
+    },
+    "TU": {
+      "SPANISH": "has desaparecido",
+      "ENGLISH": "you have disappeared"
+    },
+    "EL": {
+      "SPANISH": "ha desaparecido",
+      "ENGLISH": "s/he has disappeared, you (formal) have disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "han desaparecido",
+      "ENGLISH": "they have disappeared, you (plural formal) have disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos desaparecido",
+      "ENGLISH": "we have disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis desaparecido",
+      "ENGLISH": "you (plural) have disappeared"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "desaparecí",
+      "ENGLISH": "I disappeared"
+    },
+    "TU": {
+      "SPANISH": "desapareciste",
+      "ENGLISH": "you disappeared"
+    },
+    "EL": {
+      "SPANISH": "desapareció",
+      "ENGLISH": "s/he disappeared, you (formal) disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "desaparecieron",
+      "ENGLISH": "they disappeared, you (plural formal) disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desaparecimos",
+      "ENGLISH": "we disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desaparecisteis",
+      "ENGLISH": "you (plural) disappeared"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había desaparecido",
+      "ENGLISH": "I had disappeared"
+    },
+    "TU": {
+      "SPANISH": "habías desaparecido",
+      "ENGLISH": "you had disappeared"
+    },
+    "EL": {
+      "SPANISH": "había desaparecido",
+      "ENGLISH": "s/he had disappeared, you (formal) had disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "habían desaparecido",
+      "ENGLISH": "they had disappeared, you (plural formal) had disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos desaparecido",
+      "ENGLISH": "we had disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais desaparecido",
+      "ENGLISH": "you (plural) had disappeared"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "desaparecí",
+      "ENGLISH": "I disappeared"
+    },
+    "TU": {
+      "SPANISH": "desapareciste",
+      "ENGLISH": "you disappeared"
+    },
+    "EL": {
+      "SPANISH": "desapareció",
+      "ENGLISH": "s/he disappeared, you (formal) disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "desaparecieron",
+      "ENGLISH": "they disappeared, you (plural formal) disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desaparecimos",
+      "ENGLISH": "we disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desaparecisteis",
+      "ENGLISH": "you (plural) disappeared"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "desapareceré",
+      "ENGLISH": "I will disappear"
+    },
+    "TU": {
+      "SPANISH": "desaparecerás",
+      "ENGLISH": "you will disappear"
+    },
+    "EL": {
+      "SPANISH": "desaparecerá",
+      "ENGLISH": "s/he will disappear, you (formal) will disappear"
+    },
+    "ELLOS": {
+      "SPANISH": "desaparecerán",
+      "ENGLISH": "they will disappear, you (plural formal) will disappear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desapareceremos",
+      "ENGLISH": "we will disappear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desapareceréis",
+      "ENGLISH": "you (plural) will disappear"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré desaparecido",
+      "ENGLISH": "I will have disappeared"
+    },
+    "TU": {
+      "SPANISH": "habrás desaparecido",
+      "ENGLISH": "you will have disappeared"
+    },
+    "EL": {
+      "SPANISH": "habrá desaparecido",
+      "ENGLISH": "s/he will have disappeared, you (formal) will have disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán desaparecido",
+      "ENGLISH": "they will have disappeared, you (plural formal) will have disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos desaparecido",
+      "ENGLISH": "we will have disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis desaparecido",
+      "ENGLISH": "you (plural) will have disappeared"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "desaparecería",
+      "ENGLISH": "I would disappear"
+    },
+    "TU": {
+      "SPANISH": "desaparecerías",
+      "ENGLISH": "you would disappear"
+    },
+    "EL": {
+      "SPANISH": "desaparecería",
+      "ENGLISH": "s/he would disappear, you (formal) would disappear"
+    },
+    "ELLOS": {
+      "SPANISH": "desaparecerían",
+      "ENGLISH": "they would disappear, you (plural formal) would disappear"
+    },
+    "NOSOTROS": {
+      "SPANISH": "desapareceríamos",
+      "ENGLISH": "we would disappear"
+    },
+    "VOSOTROS": {
+      "SPANISH": "desapareceríais",
+      "ENGLISH": "you (plural) would disappear"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría desaparecido",
+      "ENGLISH": "I would have disappeared"
+    },
+    "TU": {
+      "SPANISH": "habrías desaparecido",
+      "ENGLISH": "you would have disappeared"
+    },
+    "EL": {
+      "SPANISH": "habría desaparecido",
+      "ENGLISH": "s/he would have disappeared, you (formal) would have disappeared"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían desaparecido",
+      "ENGLISH": "they would have disappeared, you (plural formal) would have disappeared"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos desaparecido",
+      "ENGLISH": "we would have disappeared"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais desaparecido",
+      "ENGLISH": "you (plural) would have disappeared"
+    }
+  }
+}

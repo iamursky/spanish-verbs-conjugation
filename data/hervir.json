@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "hiervo ",
+      "ENGLISH": "I boil"
+    },
+    "TU": {
+      "SPANISH": "hierves ",
+      "ENGLISH": "you boil"
+    },
+    "EL": {
+      "SPANISH": "hierve ",
+      "ENGLISH": "s/he boils, you (formal) boils"
+    },
+    "ELLOS": {
+      "SPANISH": "hierven ",
+      "ENGLISH": "they boil, you (plural formal) boil"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hervimos",
+      "ENGLISH": "we boil"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hervís",
+      "ENGLISH": "you (plural) boil"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he hervido",
+      "ENGLISH": "I have boiled"
+    },
+    "TU": {
+      "SPANISH": "has hervido",
+      "ENGLISH": "you have boiled"
+    },
+    "EL": {
+      "SPANISH": "ha hervido",
+      "ENGLISH": "s/he has boiled, you (formal) have boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "han hervido",
+      "ENGLISH": "they have boiled, you (plural formal) have boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos hervido",
+      "ENGLISH": "we have boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis hervido",
+      "ENGLISH": "you (plural) have boiled"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "herví",
+      "ENGLISH": "I boiled"
+    },
+    "TU": {
+      "SPANISH": "herviste",
+      "ENGLISH": "you boiled"
+    },
+    "EL": {
+      "SPANISH": "hirvió ",
+      "ENGLISH": "s/he boiled, you (formal) boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "hirvieron ",
+      "ENGLISH": "they boiled, you (plural formal) boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hervimos",
+      "ENGLISH": "we boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hervisteis",
+      "ENGLISH": "you (plural) boiled"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había hervido",
+      "ENGLISH": "I had boiled"
+    },
+    "TU": {
+      "SPANISH": "habías hervido",
+      "ENGLISH": "you had boiled"
+    },
+    "EL": {
+      "SPANISH": "había hervido",
+      "ENGLISH": "s/he had boiled, you (formal) had boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habían hervido",
+      "ENGLISH": "they had boiled, you (plural formal) had boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos hervido",
+      "ENGLISH": "we had boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais hervido",
+      "ENGLISH": "you (plural) had boiled"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "herví",
+      "ENGLISH": "I boiled"
+    },
+    "TU": {
+      "SPANISH": "herviste",
+      "ENGLISH": "you boiled"
+    },
+    "EL": {
+      "SPANISH": "hirvió ",
+      "ENGLISH": "s/he boiled, you (formal) boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "hirvieron ",
+      "ENGLISH": "they boiled, you (plural formal) boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hervimos",
+      "ENGLISH": "we boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "hervisteis",
+      "ENGLISH": "you (plural) boiled"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "herviré",
+      "ENGLISH": "I will boil"
+    },
+    "TU": {
+      "SPANISH": "hervirás",
+      "ENGLISH": "you will boil"
+    },
+    "EL": {
+      "SPANISH": "hervirá",
+      "ENGLISH": "s/he will boil, you (formal) will boil"
+    },
+    "ELLOS": {
+      "SPANISH": "hervirán",
+      "ENGLISH": "they will boil, you (plural formal) will boil"
+    },
+    "NOSOTROS": {
+      "SPANISH": "herviremos",
+      "ENGLISH": "we will boil"
+    },
+    "VOSOTROS": {
+      "SPANISH": "herviréis",
+      "ENGLISH": "you (plural) will boil"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré hervido",
+      "ENGLISH": "I will have boiled"
+    },
+    "TU": {
+      "SPANISH": "habrás hervido",
+      "ENGLISH": "you will have boiled"
+    },
+    "EL": {
+      "SPANISH": "habrá hervido",
+      "ENGLISH": "s/he will have boiled, you (formal) will have boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán hervido",
+      "ENGLISH": "they will have boiled, you (plural formal) will have boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos hervido",
+      "ENGLISH": "we will have boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis hervido",
+      "ENGLISH": "you (plural) will have boiled"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "herviría",
+      "ENGLISH": "I would boil"
+    },
+    "TU": {
+      "SPANISH": "hervirías",
+      "ENGLISH": "you would boil"
+    },
+    "EL": {
+      "SPANISH": "herviría",
+      "ENGLISH": "s/he would boil, you (formal) would boil"
+    },
+    "ELLOS": {
+      "SPANISH": "hervirían",
+      "ENGLISH": "they would boil, you (plural formal) would boil"
+    },
+    "NOSOTROS": {
+      "SPANISH": "herviríamos",
+      "ENGLISH": "we would boil"
+    },
+    "VOSOTROS": {
+      "SPANISH": "herviríais",
+      "ENGLISH": "you (plural) would boil"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría hervido",
+      "ENGLISH": "I would have boiled"
+    },
+    "TU": {
+      "SPANISH": "habrías hervido",
+      "ENGLISH": "you would have boiled"
+    },
+    "EL": {
+      "SPANISH": "habría hervido",
+      "ENGLISH": "s/he would have boiled, you (formal) would have boiled"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían hervido",
+      "ENGLISH": "they would have boiled, you (plural formal) would have boiled"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos hervido",
+      "ENGLISH": "we would have boiled"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais hervido",
+      "ENGLISH": "you (plural) would have boiled"
+    }
+  }
+}

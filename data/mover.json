@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "muevo ",
+      "ENGLISH": "I move"
+    },
+    "TU": {
+      "SPANISH": "mueves ",
+      "ENGLISH": "you move"
+    },
+    "EL": {
+      "SPANISH": "mueve ",
+      "ENGLISH": "s/he moves, you (formal) moves"
+    },
+    "ELLOS": {
+      "SPANISH": "mueven ",
+      "ENGLISH": "they move, you (plural formal) move"
+    },
+    "NOSOTROS": {
+      "SPANISH": "movemos",
+      "ENGLISH": "we move"
+    },
+    "VOSOTROS": {
+      "SPANISH": "movéis",
+      "ENGLISH": "you (plural) move"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he movido",
+      "ENGLISH": "I have moved"
+    },
+    "TU": {
+      "SPANISH": "has movido",
+      "ENGLISH": "you have moved"
+    },
+    "EL": {
+      "SPANISH": "ha movido",
+      "ENGLISH": "s/he has moved, you (formal) have moved"
+    },
+    "ELLOS": {
+      "SPANISH": "han movido",
+      "ENGLISH": "they have moved, you (plural formal) have moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos movido",
+      "ENGLISH": "we have moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis movido",
+      "ENGLISH": "you (plural) have moved"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "moví",
+      "ENGLISH": "I moved"
+    },
+    "TU": {
+      "SPANISH": "moviste",
+      "ENGLISH": "you moved"
+    },
+    "EL": {
+      "SPANISH": "movió",
+      "ENGLISH": "s/he moved, you (formal) moved"
+    },
+    "ELLOS": {
+      "SPANISH": "movieron",
+      "ENGLISH": "they moved, you (plural formal) moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "movimos",
+      "ENGLISH": "we moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "movisteis",
+      "ENGLISH": "you (plural) moved"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había movido",
+      "ENGLISH": "I had moved"
+    },
+    "TU": {
+      "SPANISH": "habías movido",
+      "ENGLISH": "you had moved"
+    },
+    "EL": {
+      "SPANISH": "había movido",
+      "ENGLISH": "s/he had moved, you (formal) had moved"
+    },
+    "ELLOS": {
+      "SPANISH": "habían movido",
+      "ENGLISH": "they had moved, you (plural formal) had moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos movido",
+      "ENGLISH": "we had moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais movido",
+      "ENGLISH": "you (plural) had moved"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "moví",
+      "ENGLISH": "I moved"
+    },
+    "TU": {
+      "SPANISH": "moviste",
+      "ENGLISH": "you moved"
+    },
+    "EL": {
+      "SPANISH": "movió",
+      "ENGLISH": "s/he moved, you (formal) moved"
+    },
+    "ELLOS": {
+      "SPANISH": "movieron",
+      "ENGLISH": "they moved, you (plural formal) moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "movimos",
+      "ENGLISH": "we moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "movisteis",
+      "ENGLISH": "you (plural) moved"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "moveré",
+      "ENGLISH": "I will move"
+    },
+    "TU": {
+      "SPANISH": "moverás",
+      "ENGLISH": "you will move"
+    },
+    "EL": {
+      "SPANISH": "moverá",
+      "ENGLISH": "s/he will move, you (formal) will move"
+    },
+    "ELLOS": {
+      "SPANISH": "moverán",
+      "ENGLISH": "they will move, you (plural formal) will move"
+    },
+    "NOSOTROS": {
+      "SPANISH": "moveremos",
+      "ENGLISH": "we will move"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moveréis",
+      "ENGLISH": "you (plural) will move"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré movido",
+      "ENGLISH": "I will have moved"
+    },
+    "TU": {
+      "SPANISH": "habrás movido",
+      "ENGLISH": "you will have moved"
+    },
+    "EL": {
+      "SPANISH": "habrá movido",
+      "ENGLISH": "s/he will have moved, you (formal) will have moved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán movido",
+      "ENGLISH": "they will have moved, you (plural formal) will have moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos movido",
+      "ENGLISH": "we will have moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis movido",
+      "ENGLISH": "you (plural) will have moved"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "movería",
+      "ENGLISH": "I would move"
+    },
+    "TU": {
+      "SPANISH": "moverías",
+      "ENGLISH": "you would move"
+    },
+    "EL": {
+      "SPANISH": "movería",
+      "ENGLISH": "s/he would move, you (formal) would move"
+    },
+    "ELLOS": {
+      "SPANISH": "moverían",
+      "ENGLISH": "they would move, you (plural formal) would move"
+    },
+    "NOSOTROS": {
+      "SPANISH": "moveríamos",
+      "ENGLISH": "we would move"
+    },
+    "VOSOTROS": {
+      "SPANISH": "moveríais",
+      "ENGLISH": "you (plural) would move"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría movido",
+      "ENGLISH": "I would have moved"
+    },
+    "TU": {
+      "SPANISH": "habrías movido",
+      "ENGLISH": "you would have moved"
+    },
+    "EL": {
+      "SPANISH": "habría movido",
+      "ENGLISH": "s/he would have moved, you (formal) would have moved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían movido",
+      "ENGLISH": "they would have moved, you (plural formal) would have moved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos movido",
+      "ENGLISH": "we would have moved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais movido",
+      "ENGLISH": "you (plural) would have moved"
+    }
+  }
+}

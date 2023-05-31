@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me echo",
+      "ENGLISH": "I throw"
+    },
+    "TU": {
+      "SPANISH": "te echas",
+      "ENGLISH": "you throw"
+    },
+    "EL": {
+      "SPANISH": "se echa",
+      "ENGLISH": "s/he throws, you (formal) throws"
+    },
+    "ELLOS": {
+      "SPANISH": "se echan",
+      "ENGLISH": "they throw, you (plural formal) throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos echamos",
+      "ENGLISH": "we throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os echáis",
+      "ENGLISH": "you (plural) throw"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he echado",
+      "ENGLISH": "I have thrown"
+    },
+    "TU": {
+      "SPANISH": "te has echado",
+      "ENGLISH": "you have thrown"
+    },
+    "EL": {
+      "SPANISH": "se ha echado",
+      "ENGLISH": "s/he has thrown, you (formal) have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "se han echado",
+      "ENGLISH": "they have thrown, you (plural formal) have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos echado",
+      "ENGLISH": "we have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis echado",
+      "ENGLISH": "you (plural) have thrown"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me eché",
+      "ENGLISH": "I threw"
+    },
+    "TU": {
+      "SPANISH": "te echaste",
+      "ENGLISH": "you threw"
+    },
+    "EL": {
+      "SPANISH": "se echó",
+      "ENGLISH": "s/he threw, you (formal) threw"
+    },
+    "ELLOS": {
+      "SPANISH": "se echaron",
+      "ENGLISH": "they threw, you (plural formal) threw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos echamos",
+      "ENGLISH": "we threw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os echasteis",
+      "ENGLISH": "you (plural) threw"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había echado",
+      "ENGLISH": "I had thrown"
+    },
+    "TU": {
+      "SPANISH": "te habías echado",
+      "ENGLISH": "you had thrown"
+    },
+    "EL": {
+      "SPANISH": "se había echado",
+      "ENGLISH": "s/he had thrown, you (formal) had thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían echado",
+      "ENGLISH": "they had thrown, you (plural formal) had thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos echado",
+      "ENGLISH": "we had thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais echado",
+      "ENGLISH": "you (plural) had thrown"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me eché",
+      "ENGLISH": "I threw"
+    },
+    "TU": {
+      "SPANISH": "te echaste",
+      "ENGLISH": "you threw"
+    },
+    "EL": {
+      "SPANISH": "se echó",
+      "ENGLISH": "s/he threw, you (formal) threw"
+    },
+    "ELLOS": {
+      "SPANISH": "se echaron",
+      "ENGLISH": "they threw, you (plural formal) threw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos echamos",
+      "ENGLISH": "we threw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os echasteis",
+      "ENGLISH": "you (plural) threw"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me echaré",
+      "ENGLISH": "I will throw"
+    },
+    "TU": {
+      "SPANISH": "te echarás",
+      "ENGLISH": "you will throw"
+    },
+    "EL": {
+      "SPANISH": "se echará",
+      "ENGLISH": "s/he will throw, you (formal) will throw"
+    },
+    "ELLOS": {
+      "SPANISH": "se echarán",
+      "ENGLISH": "they will throw, you (plural formal) will throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos echaremos",
+      "ENGLISH": "we will throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os echaréis",
+      "ENGLISH": "you (plural) will throw"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré echado",
+      "ENGLISH": "I will have thrown"
+    },
+    "TU": {
+      "SPANISH": "te habrás echado",
+      "ENGLISH": "you will have thrown"
+    },
+    "EL": {
+      "SPANISH": "se habrá echado",
+      "ENGLISH": "s/he will have thrown, you (formal) will have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán echado",
+      "ENGLISH": "they will have thrown, you (plural formal) will have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos echado",
+      "ENGLISH": "we will have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis echado",
+      "ENGLISH": "you (plural) will have thrown"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me echaría",
+      "ENGLISH": "I would throw"
+    },
+    "TU": {
+      "SPANISH": "te echarías",
+      "ENGLISH": "you would throw"
+    },
+    "EL": {
+      "SPANISH": "se echaría",
+      "ENGLISH": "s/he would throw, you (formal) would throw"
+    },
+    "ELLOS": {
+      "SPANISH": "se echarían",
+      "ENGLISH": "they would throw, you (plural formal) would throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos echaríamos",
+      "ENGLISH": "we would throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os echaríais",
+      "ENGLISH": "you (plural) would throw"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría echado",
+      "ENGLISH": "I would have thrown"
+    },
+    "TU": {
+      "SPANISH": "te habrías echado",
+      "ENGLISH": "you would have thrown"
+    },
+    "EL": {
+      "SPANISH": "se habría echado",
+      "ENGLISH": "s/he would have thrown, you (formal) would have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían echado",
+      "ENGLISH": "they would have thrown, you (plural formal) would have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos echado",
+      "ENGLISH": "we would have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais echado",
+      "ENGLISH": "you (plural) would have thrown"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "organizo",
+      "ENGLISH": "I organise"
+    },
+    "TU": {
+      "SPANISH": "organizas",
+      "ENGLISH": "you organise"
+    },
+    "EL": {
+      "SPANISH": "organiza",
+      "ENGLISH": "s/he organises, you (formal) organises"
+    },
+    "ELLOS": {
+      "SPANISH": "organizan",
+      "ENGLISH": "they organise, you (plural formal) organise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "organizamos",
+      "ENGLISH": "we organise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "organizáis",
+      "ENGLISH": "you (plural) organise"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he organizado",
+      "ENGLISH": "I have organised"
+    },
+    "TU": {
+      "SPANISH": "has organizado",
+      "ENGLISH": "you have organised"
+    },
+    "EL": {
+      "SPANISH": "ha organizado",
+      "ENGLISH": "s/he has organised, you (formal) have organised"
+    },
+    "ELLOS": {
+      "SPANISH": "han organizado",
+      "ENGLISH": "they have organised, you (plural formal) have organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos organizado",
+      "ENGLISH": "we have organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis organizado",
+      "ENGLISH": "you (plural) have organised"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "organicé ",
+      "ENGLISH": "I organised"
+    },
+    "TU": {
+      "SPANISH": "organizaste",
+      "ENGLISH": "you organised"
+    },
+    "EL": {
+      "SPANISH": "organizó",
+      "ENGLISH": "s/he organised, you (formal) organised"
+    },
+    "ELLOS": {
+      "SPANISH": "organizaron",
+      "ENGLISH": "they organised, you (plural formal) organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "organizamos",
+      "ENGLISH": "we organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "organizasteis",
+      "ENGLISH": "you (plural) organised"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había organizado",
+      "ENGLISH": "I had organised"
+    },
+    "TU": {
+      "SPANISH": "habías organizado",
+      "ENGLISH": "you had organised"
+    },
+    "EL": {
+      "SPANISH": "había organizado",
+      "ENGLISH": "s/he had organised, you (formal) had organised"
+    },
+    "ELLOS": {
+      "SPANISH": "habían organizado",
+      "ENGLISH": "they had organised, you (plural formal) had organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos organizado",
+      "ENGLISH": "we had organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais organizado",
+      "ENGLISH": "you (plural) had organised"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "organicé ",
+      "ENGLISH": "I organised"
+    },
+    "TU": {
+      "SPANISH": "organizaste",
+      "ENGLISH": "you organised"
+    },
+    "EL": {
+      "SPANISH": "organizó",
+      "ENGLISH": "s/he organised, you (formal) organised"
+    },
+    "ELLOS": {
+      "SPANISH": "organizaron",
+      "ENGLISH": "they organised, you (plural formal) organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "organizamos",
+      "ENGLISH": "we organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "organizasteis",
+      "ENGLISH": "you (plural) organised"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "organizaré",
+      "ENGLISH": "I will organise"
+    },
+    "TU": {
+      "SPANISH": "organizarás",
+      "ENGLISH": "you will organise"
+    },
+    "EL": {
+      "SPANISH": "organizará",
+      "ENGLISH": "s/he will organise, you (formal) will organise"
+    },
+    "ELLOS": {
+      "SPANISH": "organizarán",
+      "ENGLISH": "they will organise, you (plural formal) will organise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "organizaremos",
+      "ENGLISH": "we will organise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "organizaréis",
+      "ENGLISH": "you (plural) will organise"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré organizado",
+      "ENGLISH": "I will have organised"
+    },
+    "TU": {
+      "SPANISH": "habrás organizado",
+      "ENGLISH": "you will have organised"
+    },
+    "EL": {
+      "SPANISH": "habrá organizado",
+      "ENGLISH": "s/he will have organised, you (formal) will have organised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán organizado",
+      "ENGLISH": "they will have organised, you (plural formal) will have organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos organizado",
+      "ENGLISH": "we will have organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis organizado",
+      "ENGLISH": "you (plural) will have organised"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "organizaría",
+      "ENGLISH": "I would organise"
+    },
+    "TU": {
+      "SPANISH": "organizarías",
+      "ENGLISH": "you would organise"
+    },
+    "EL": {
+      "SPANISH": "organizaría",
+      "ENGLISH": "s/he would organise, you (formal) would organise"
+    },
+    "ELLOS": {
+      "SPANISH": "organizarían",
+      "ENGLISH": "they would organise, you (plural formal) would organise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "organizaríamos",
+      "ENGLISH": "we would organise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "organizaríais",
+      "ENGLISH": "you (plural) would organise"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría organizado",
+      "ENGLISH": "I would have organised"
+    },
+    "TU": {
+      "SPANISH": "habrías organizado",
+      "ENGLISH": "you would have organised"
+    },
+    "EL": {
+      "SPANISH": "habría organizado",
+      "ENGLISH": "s/he would have organised, you (formal) would have organised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían organizado",
+      "ENGLISH": "they would have organised, you (plural formal) would have organised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos organizado",
+      "ENGLISH": "we would have organised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais organizado",
+      "ENGLISH": "you (plural) would have organised"
+    }
+  }
+}

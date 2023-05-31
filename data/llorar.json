@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "lloro",
+      "ENGLISH": "I cry"
+    },
+    "TU": {
+      "SPANISH": "lloras",
+      "ENGLISH": "you cry"
+    },
+    "EL": {
+      "SPANISH": "llora",
+      "ENGLISH": "s/he cries, you (formal) cries"
+    },
+    "ELLOS": {
+      "SPANISH": "lloran",
+      "ENGLISH": "they cry, you (plural formal) cry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lloramos",
+      "ENGLISH": "we cry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lloráis",
+      "ENGLISH": "you (plural) cry"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he llorado",
+      "ENGLISH": "I have cried"
+    },
+    "TU": {
+      "SPANISH": "has llorado",
+      "ENGLISH": "you have cried"
+    },
+    "EL": {
+      "SPANISH": "ha llorado",
+      "ENGLISH": "s/he has cried, you (formal) have cried"
+    },
+    "ELLOS": {
+      "SPANISH": "han llorado",
+      "ENGLISH": "they have cried, you (plural formal) have cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos llorado",
+      "ENGLISH": "we have cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis llorado",
+      "ENGLISH": "you (plural) have cried"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "lloré",
+      "ENGLISH": "I cried"
+    },
+    "TU": {
+      "SPANISH": "lloraste",
+      "ENGLISH": "you cried"
+    },
+    "EL": {
+      "SPANISH": "lloró",
+      "ENGLISH": "s/he cried, you (formal) cried"
+    },
+    "ELLOS": {
+      "SPANISH": "lloraron",
+      "ENGLISH": "they cried, you (plural formal) cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lloramos",
+      "ENGLISH": "we cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llorasteis",
+      "ENGLISH": "you (plural) cried"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había llorado",
+      "ENGLISH": "I had cried"
+    },
+    "TU": {
+      "SPANISH": "habías llorado",
+      "ENGLISH": "you had cried"
+    },
+    "EL": {
+      "SPANISH": "había llorado",
+      "ENGLISH": "s/he had cried, you (formal) had cried"
+    },
+    "ELLOS": {
+      "SPANISH": "habían llorado",
+      "ENGLISH": "they had cried, you (plural formal) had cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos llorado",
+      "ENGLISH": "we had cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais llorado",
+      "ENGLISH": "you (plural) had cried"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "lloré",
+      "ENGLISH": "I cried"
+    },
+    "TU": {
+      "SPANISH": "lloraste",
+      "ENGLISH": "you cried"
+    },
+    "EL": {
+      "SPANISH": "lloró",
+      "ENGLISH": "s/he cried, you (formal) cried"
+    },
+    "ELLOS": {
+      "SPANISH": "lloraron",
+      "ENGLISH": "they cried, you (plural formal) cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lloramos",
+      "ENGLISH": "we cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "llorasteis",
+      "ENGLISH": "you (plural) cried"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "lloraré",
+      "ENGLISH": "I will cry"
+    },
+    "TU": {
+      "SPANISH": "llorarás",
+      "ENGLISH": "you will cry"
+    },
+    "EL": {
+      "SPANISH": "llorará",
+      "ENGLISH": "s/he will cry, you (formal) will cry"
+    },
+    "ELLOS": {
+      "SPANISH": "llorarán",
+      "ENGLISH": "they will cry, you (plural formal) will cry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lloraremos",
+      "ENGLISH": "we will cry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lloraréis",
+      "ENGLISH": "you (plural) will cry"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré llorado",
+      "ENGLISH": "I will have cried"
+    },
+    "TU": {
+      "SPANISH": "habrás llorado",
+      "ENGLISH": "you will have cried"
+    },
+    "EL": {
+      "SPANISH": "habrá llorado",
+      "ENGLISH": "s/he will have cried, you (formal) will have cried"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán llorado",
+      "ENGLISH": "they will have cried, you (plural formal) will have cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos llorado",
+      "ENGLISH": "we will have cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis llorado",
+      "ENGLISH": "you (plural) will have cried"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "lloraría",
+      "ENGLISH": "I would cry"
+    },
+    "TU": {
+      "SPANISH": "llorarías",
+      "ENGLISH": "you would cry"
+    },
+    "EL": {
+      "SPANISH": "lloraría",
+      "ENGLISH": "s/he would cry, you (formal) would cry"
+    },
+    "ELLOS": {
+      "SPANISH": "llorarían",
+      "ENGLISH": "they would cry, you (plural formal) would cry"
+    },
+    "NOSOTROS": {
+      "SPANISH": "lloraríamos",
+      "ENGLISH": "we would cry"
+    },
+    "VOSOTROS": {
+      "SPANISH": "lloraríais",
+      "ENGLISH": "you (plural) would cry"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría llorado",
+      "ENGLISH": "I would have cried"
+    },
+    "TU": {
+      "SPANISH": "habrías llorado",
+      "ENGLISH": "you would have cried"
+    },
+    "EL": {
+      "SPANISH": "habría llorado",
+      "ENGLISH": "s/he would have cried, you (formal) would have cried"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían llorado",
+      "ENGLISH": "they would have cried, you (plural formal) would have cried"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos llorado",
+      "ENGLISH": "we would have cried"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais llorado",
+      "ENGLISH": "you (plural) would have cried"
+    }
+  }
+}

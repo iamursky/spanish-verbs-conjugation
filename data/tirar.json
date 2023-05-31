@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "tiro",
+      "ENGLISH": "I throw"
+    },
+    "TU": {
+      "SPANISH": "tiras",
+      "ENGLISH": "you throw"
+    },
+    "EL": {
+      "SPANISH": "tira",
+      "ENGLISH": "s/he throws, you (formal) throws"
+    },
+    "ELLOS": {
+      "SPANISH": "tiran",
+      "ENGLISH": "they throw, you (plural formal) throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tiramos",
+      "ENGLISH": "we throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tiráis",
+      "ENGLISH": "you (plural) throw"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he tirado",
+      "ENGLISH": "I have thrown"
+    },
+    "TU": {
+      "SPANISH": "has tirado",
+      "ENGLISH": "you have thrown"
+    },
+    "EL": {
+      "SPANISH": "ha tirado",
+      "ENGLISH": "s/he has thrown, you (formal) have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "han tirado",
+      "ENGLISH": "they have thrown, you (plural formal) have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos tirado",
+      "ENGLISH": "we have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis tirado",
+      "ENGLISH": "you (plural) have thrown"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "tiré",
+      "ENGLISH": "I threw"
+    },
+    "TU": {
+      "SPANISH": "tiraste",
+      "ENGLISH": "you threw"
+    },
+    "EL": {
+      "SPANISH": "tiró",
+      "ENGLISH": "s/he threw, you (formal) threw"
+    },
+    "ELLOS": {
+      "SPANISH": "tiraron",
+      "ENGLISH": "they threw, you (plural formal) threw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tiramos",
+      "ENGLISH": "we threw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tirasteis",
+      "ENGLISH": "you (plural) threw"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había tirado",
+      "ENGLISH": "I had thrown"
+    },
+    "TU": {
+      "SPANISH": "habías tirado",
+      "ENGLISH": "you had thrown"
+    },
+    "EL": {
+      "SPANISH": "había tirado",
+      "ENGLISH": "s/he had thrown, you (formal) had thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "habían tirado",
+      "ENGLISH": "they had thrown, you (plural formal) had thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos tirado",
+      "ENGLISH": "we had thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais tirado",
+      "ENGLISH": "you (plural) had thrown"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "tiré",
+      "ENGLISH": "I threw"
+    },
+    "TU": {
+      "SPANISH": "tiraste",
+      "ENGLISH": "you threw"
+    },
+    "EL": {
+      "SPANISH": "tiró",
+      "ENGLISH": "s/he threw, you (formal) threw"
+    },
+    "ELLOS": {
+      "SPANISH": "tiraron",
+      "ENGLISH": "they threw, you (plural formal) threw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tiramos",
+      "ENGLISH": "we threw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tirasteis",
+      "ENGLISH": "you (plural) threw"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "tiraré",
+      "ENGLISH": "I will throw"
+    },
+    "TU": {
+      "SPANISH": "tirarás",
+      "ENGLISH": "you will throw"
+    },
+    "EL": {
+      "SPANISH": "tirará",
+      "ENGLISH": "s/he will throw, you (formal) will throw"
+    },
+    "ELLOS": {
+      "SPANISH": "tirarán",
+      "ENGLISH": "they will throw, you (plural formal) will throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tiraremos",
+      "ENGLISH": "we will throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tiraréis",
+      "ENGLISH": "you (plural) will throw"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré tirado",
+      "ENGLISH": "I will have thrown"
+    },
+    "TU": {
+      "SPANISH": "habrás tirado",
+      "ENGLISH": "you will have thrown"
+    },
+    "EL": {
+      "SPANISH": "habrá tirado",
+      "ENGLISH": "s/he will have thrown, you (formal) will have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán tirado",
+      "ENGLISH": "they will have thrown, you (plural formal) will have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos tirado",
+      "ENGLISH": "we will have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis tirado",
+      "ENGLISH": "you (plural) will have thrown"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "tiraría",
+      "ENGLISH": "I would throw"
+    },
+    "TU": {
+      "SPANISH": "tirarías",
+      "ENGLISH": "you would throw"
+    },
+    "EL": {
+      "SPANISH": "tiraría",
+      "ENGLISH": "s/he would throw, you (formal) would throw"
+    },
+    "ELLOS": {
+      "SPANISH": "tirarían",
+      "ENGLISH": "they would throw, you (plural formal) would throw"
+    },
+    "NOSOTROS": {
+      "SPANISH": "tiraríamos",
+      "ENGLISH": "we would throw"
+    },
+    "VOSOTROS": {
+      "SPANISH": "tiraríais",
+      "ENGLISH": "you (plural) would throw"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría tirado",
+      "ENGLISH": "I would have thrown"
+    },
+    "TU": {
+      "SPANISH": "habrías tirado",
+      "ENGLISH": "you would have thrown"
+    },
+    "EL": {
+      "SPANISH": "habría tirado",
+      "ENGLISH": "s/he would have thrown, you (formal) would have thrown"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían tirado",
+      "ENGLISH": "they would have thrown, you (plural formal) would have thrown"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos tirado",
+      "ENGLISH": "we would have thrown"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais tirado",
+      "ENGLISH": "you (plural) would have thrown"
+    }
+  }
+}

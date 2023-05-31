@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "olvido",
+      "ENGLISH": "I forget"
+    },
+    "TU": {
+      "SPANISH": "olvidas",
+      "ENGLISH": "you forget"
+    },
+    "EL": {
+      "SPANISH": "olvida",
+      "ENGLISH": "s/he forgets, you (formal) forgets"
+    },
+    "ELLOS": {
+      "SPANISH": "olvidan",
+      "ENGLISH": "they forget, you (plural formal) forget"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olvidamos",
+      "ENGLISH": "we forget"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olvidáis",
+      "ENGLISH": "you (plural) forget"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he olvidado",
+      "ENGLISH": "I have forgotten"
+    },
+    "TU": {
+      "SPANISH": "has olvidado",
+      "ENGLISH": "you have forgotten"
+    },
+    "EL": {
+      "SPANISH": "ha olvidado",
+      "ENGLISH": "s/he has forgotten, you (formal) have forgotten"
+    },
+    "ELLOS": {
+      "SPANISH": "han olvidado",
+      "ENGLISH": "they have forgotten, you (plural formal) have forgotten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos olvidado",
+      "ENGLISH": "we have forgotten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis olvidado",
+      "ENGLISH": "you (plural) have forgotten"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "olvidé",
+      "ENGLISH": "I forgot"
+    },
+    "TU": {
+      "SPANISH": "olvidaste",
+      "ENGLISH": "you forgot"
+    },
+    "EL": {
+      "SPANISH": "olvidó",
+      "ENGLISH": "s/he forgot, you (formal) forgot"
+    },
+    "ELLOS": {
+      "SPANISH": "olvidaron",
+      "ENGLISH": "they forgot, you (plural formal) forgot"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olvidamos",
+      "ENGLISH": "we forgot"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olvidasteis",
+      "ENGLISH": "you (plural) forgot"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había olvidado",
+      "ENGLISH": "I had forgotten"
+    },
+    "TU": {
+      "SPANISH": "habías olvidado",
+      "ENGLISH": "you had forgotten"
+    },
+    "EL": {
+      "SPANISH": "había olvidado",
+      "ENGLISH": "s/he had forgotten, you (formal) had forgotten"
+    },
+    "ELLOS": {
+      "SPANISH": "habían olvidado",
+      "ENGLISH": "they had forgotten, you (plural formal) had forgotten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos olvidado",
+      "ENGLISH": "we had forgotten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais olvidado",
+      "ENGLISH": "you (plural) had forgotten"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "olvidé",
+      "ENGLISH": "I forgot"
+    },
+    "TU": {
+      "SPANISH": "olvidaste",
+      "ENGLISH": "you forgot"
+    },
+    "EL": {
+      "SPANISH": "olvidó",
+      "ENGLISH": "s/he forgot, you (formal) forgot"
+    },
+    "ELLOS": {
+      "SPANISH": "olvidaron",
+      "ENGLISH": "they forgot, you (plural formal) forgot"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olvidamos",
+      "ENGLISH": "we forgot"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olvidasteis",
+      "ENGLISH": "you (plural) forgot"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "olvidaré",
+      "ENGLISH": "I will forget"
+    },
+    "TU": {
+      "SPANISH": "olvidarás",
+      "ENGLISH": "you will forget"
+    },
+    "EL": {
+      "SPANISH": "olvidará",
+      "ENGLISH": "s/he will forget, you (formal) will forget"
+    },
+    "ELLOS": {
+      "SPANISH": "olvidarán",
+      "ENGLISH": "they will forget, you (plural formal) will forget"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olvidaremos",
+      "ENGLISH": "we will forget"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olvidaréis",
+      "ENGLISH": "you (plural) will forget"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré olvidado",
+      "ENGLISH": "I will have forgotten"
+    },
+    "TU": {
+      "SPANISH": "habrás olvidado",
+      "ENGLISH": "you will have forgotten"
+    },
+    "EL": {
+      "SPANISH": "habrá olvidado",
+      "ENGLISH": "s/he will have forgotten, you (formal) will have forgotten"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán olvidado",
+      "ENGLISH": "they will have forgotten, you (plural formal) will have forgotten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos olvidado",
+      "ENGLISH": "we will have forgotten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis olvidado",
+      "ENGLISH": "you (plural) will have forgotten"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "olvidaría",
+      "ENGLISH": "I would forget"
+    },
+    "TU": {
+      "SPANISH": "olvidarías",
+      "ENGLISH": "you would forget"
+    },
+    "EL": {
+      "SPANISH": "olvidaría",
+      "ENGLISH": "s/he would forget, you (formal) would forget"
+    },
+    "ELLOS": {
+      "SPANISH": "olvidarían",
+      "ENGLISH": "they would forget, you (plural formal) would forget"
+    },
+    "NOSOTROS": {
+      "SPANISH": "olvidaríamos",
+      "ENGLISH": "we would forget"
+    },
+    "VOSOTROS": {
+      "SPANISH": "olvidaríais",
+      "ENGLISH": "you (plural) would forget"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría olvidado",
+      "ENGLISH": "I would have forgotten"
+    },
+    "TU": {
+      "SPANISH": "habrías olvidado",
+      "ENGLISH": "you would have forgotten"
+    },
+    "EL": {
+      "SPANISH": "habría olvidado",
+      "ENGLISH": "s/he would have forgotten, you (formal) would have forgotten"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían olvidado",
+      "ENGLISH": "they would have forgotten, you (plural formal) would have forgotten"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos olvidado",
+      "ENGLISH": "we would have forgotten"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais olvidado",
+      "ENGLISH": "you (plural) would have forgotten"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "reconozco ",
+      "ENGLISH": "I recognise"
+    },
+    "TU": {
+      "SPANISH": "reconoces",
+      "ENGLISH": "you recognise"
+    },
+    "EL": {
+      "SPANISH": "reconoce",
+      "ENGLISH": "s/he recognises, you (formal) recognises"
+    },
+    "ELLOS": {
+      "SPANISH": "reconocen",
+      "ENGLISH": "they recognise, you (plural formal) recognise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reconocemos",
+      "ENGLISH": "we recognise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reconocéis",
+      "ENGLISH": "you (plural) recognise"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he reconocido",
+      "ENGLISH": "I have recognised"
+    },
+    "TU": {
+      "SPANISH": "has reconocido",
+      "ENGLISH": "you have recognised"
+    },
+    "EL": {
+      "SPANISH": "ha reconocido",
+      "ENGLISH": "s/he has recognised, you (formal) have recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "han reconocido",
+      "ENGLISH": "they have recognised, you (plural formal) have recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos reconocido",
+      "ENGLISH": "we have recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis reconocido",
+      "ENGLISH": "you (plural) have recognised"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "reconocí",
+      "ENGLISH": "I recognised"
+    },
+    "TU": {
+      "SPANISH": "reconociste",
+      "ENGLISH": "you recognised"
+    },
+    "EL": {
+      "SPANISH": "reconoció",
+      "ENGLISH": "s/he recognised, you (formal) recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "reconocieron",
+      "ENGLISH": "they recognised, you (plural formal) recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reconocimos",
+      "ENGLISH": "we recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reconocisteis",
+      "ENGLISH": "you (plural) recognised"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había reconocido",
+      "ENGLISH": "I had recognised"
+    },
+    "TU": {
+      "SPANISH": "habías reconocido",
+      "ENGLISH": "you had recognised"
+    },
+    "EL": {
+      "SPANISH": "había reconocido",
+      "ENGLISH": "s/he had recognised, you (formal) had recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "habían reconocido",
+      "ENGLISH": "they had recognised, you (plural formal) had recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos reconocido",
+      "ENGLISH": "we had recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais reconocido",
+      "ENGLISH": "you (plural) had recognised"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "reconocí",
+      "ENGLISH": "I recognised"
+    },
+    "TU": {
+      "SPANISH": "reconociste",
+      "ENGLISH": "you recognised"
+    },
+    "EL": {
+      "SPANISH": "reconoció",
+      "ENGLISH": "s/he recognised, you (formal) recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "reconocieron",
+      "ENGLISH": "they recognised, you (plural formal) recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reconocimos",
+      "ENGLISH": "we recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reconocisteis",
+      "ENGLISH": "you (plural) recognised"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "reconoceré",
+      "ENGLISH": "I will recognise"
+    },
+    "TU": {
+      "SPANISH": "reconocerás",
+      "ENGLISH": "you will recognise"
+    },
+    "EL": {
+      "SPANISH": "reconocerá",
+      "ENGLISH": "s/he will recognise, you (formal) will recognise"
+    },
+    "ELLOS": {
+      "SPANISH": "reconocerán",
+      "ENGLISH": "they will recognise, you (plural formal) will recognise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reconoceremos",
+      "ENGLISH": "we will recognise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reconoceréis",
+      "ENGLISH": "you (plural) will recognise"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré reconocido",
+      "ENGLISH": "I will have recognised"
+    },
+    "TU": {
+      "SPANISH": "habrás reconocido",
+      "ENGLISH": "you will have recognised"
+    },
+    "EL": {
+      "SPANISH": "habrá reconocido",
+      "ENGLISH": "s/he will have recognised, you (formal) will have recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán reconocido",
+      "ENGLISH": "they will have recognised, you (plural formal) will have recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos reconocido",
+      "ENGLISH": "we will have recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis reconocido",
+      "ENGLISH": "you (plural) will have recognised"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "reconocería",
+      "ENGLISH": "I would recognise"
+    },
+    "TU": {
+      "SPANISH": "reconocerías",
+      "ENGLISH": "you would recognise"
+    },
+    "EL": {
+      "SPANISH": "reconocería",
+      "ENGLISH": "s/he would recognise, you (formal) would recognise"
+    },
+    "ELLOS": {
+      "SPANISH": "reconocerían",
+      "ENGLISH": "they would recognise, you (plural formal) would recognise"
+    },
+    "NOSOTROS": {
+      "SPANISH": "reconoceríamos",
+      "ENGLISH": "we would recognise"
+    },
+    "VOSOTROS": {
+      "SPANISH": "reconoceríais",
+      "ENGLISH": "you (plural) would recognise"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría reconocido",
+      "ENGLISH": "I would have recognised"
+    },
+    "TU": {
+      "SPANISH": "habrías reconocido",
+      "ENGLISH": "you would have recognised"
+    },
+    "EL": {
+      "SPANISH": "habría reconocido",
+      "ENGLISH": "s/he would have recognised, you (formal) would have recognised"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían reconocido",
+      "ENGLISH": "they would have recognised, you (plural formal) would have recognised"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos reconocido",
+      "ENGLISH": "we would have recognised"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais reconocido",
+      "ENGLISH": "you (plural) would have recognised"
+    }
+  }
+}

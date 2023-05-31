@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "entreno",
+      "ENGLISH": "I train"
+    },
+    "TU": {
+      "SPANISH": "entrenas",
+      "ENGLISH": "you train"
+    },
+    "EL": {
+      "SPANISH": "entrena",
+      "ENGLISH": "s/he trains, you (formal) trains"
+    },
+    "ELLOS": {
+      "SPANISH": "entrenan",
+      "ENGLISH": "they train, you (plural formal) train"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entrenamos",
+      "ENGLISH": "we train"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrenáis",
+      "ENGLISH": "you (plural) train"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he entrenado",
+      "ENGLISH": "I have trained"
+    },
+    "TU": {
+      "SPANISH": "has entrenado",
+      "ENGLISH": "you have trained"
+    },
+    "EL": {
+      "SPANISH": "ha entrenado",
+      "ENGLISH": "s/he has trained, you (formal) have trained"
+    },
+    "ELLOS": {
+      "SPANISH": "han entrenado",
+      "ENGLISH": "they have trained, you (plural formal) have trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos entrenado",
+      "ENGLISH": "we have trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis entrenado",
+      "ENGLISH": "you (plural) have trained"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "entrené",
+      "ENGLISH": "I trained"
+    },
+    "TU": {
+      "SPANISH": "entrenaste",
+      "ENGLISH": "you trained"
+    },
+    "EL": {
+      "SPANISH": "entrenó",
+      "ENGLISH": "s/he trained, you (formal) trained"
+    },
+    "ELLOS": {
+      "SPANISH": "entrenaron",
+      "ENGLISH": "they trained, you (plural formal) trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entrenamos",
+      "ENGLISH": "we trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrenasteis",
+      "ENGLISH": "you (plural) trained"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había entrenado",
+      "ENGLISH": "I had trained"
+    },
+    "TU": {
+      "SPANISH": "habías entrenado",
+      "ENGLISH": "you had trained"
+    },
+    "EL": {
+      "SPANISH": "había entrenado",
+      "ENGLISH": "s/he had trained, you (formal) had trained"
+    },
+    "ELLOS": {
+      "SPANISH": "habían entrenado",
+      "ENGLISH": "they had trained, you (plural formal) had trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos entrenado",
+      "ENGLISH": "we had trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais entrenado",
+      "ENGLISH": "you (plural) had trained"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "entrené",
+      "ENGLISH": "I trained"
+    },
+    "TU": {
+      "SPANISH": "entrenaste",
+      "ENGLISH": "you trained"
+    },
+    "EL": {
+      "SPANISH": "entrenó",
+      "ENGLISH": "s/he trained, you (formal) trained"
+    },
+    "ELLOS": {
+      "SPANISH": "entrenaron",
+      "ENGLISH": "they trained, you (plural formal) trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entrenamos",
+      "ENGLISH": "we trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrenasteis",
+      "ENGLISH": "you (plural) trained"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "entrenaré",
+      "ENGLISH": "I will train"
+    },
+    "TU": {
+      "SPANISH": "entrenarás",
+      "ENGLISH": "you will train"
+    },
+    "EL": {
+      "SPANISH": "entrenará",
+      "ENGLISH": "s/he will train, you (formal) will train"
+    },
+    "ELLOS": {
+      "SPANISH": "entrenarán",
+      "ENGLISH": "they will train, you (plural formal) will train"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entrenaremos",
+      "ENGLISH": "we will train"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrenaréis",
+      "ENGLISH": "you (plural) will train"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré entrenado",
+      "ENGLISH": "I will have trained"
+    },
+    "TU": {
+      "SPANISH": "habrás entrenado",
+      "ENGLISH": "you will have trained"
+    },
+    "EL": {
+      "SPANISH": "habrá entrenado",
+      "ENGLISH": "s/he will have trained, you (formal) will have trained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán entrenado",
+      "ENGLISH": "they will have trained, you (plural formal) will have trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos entrenado",
+      "ENGLISH": "we will have trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis entrenado",
+      "ENGLISH": "you (plural) will have trained"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "entrenaría",
+      "ENGLISH": "I would train"
+    },
+    "TU": {
+      "SPANISH": "entrenarías",
+      "ENGLISH": "you would train"
+    },
+    "EL": {
+      "SPANISH": "entrenaría",
+      "ENGLISH": "s/he would train, you (formal) would train"
+    },
+    "ELLOS": {
+      "SPANISH": "entrenarían",
+      "ENGLISH": "they would train, you (plural formal) would train"
+    },
+    "NOSOTROS": {
+      "SPANISH": "entrenaríamos",
+      "ENGLISH": "we would train"
+    },
+    "VOSOTROS": {
+      "SPANISH": "entrenaríais",
+      "ENGLISH": "you (plural) would train"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría entrenado",
+      "ENGLISH": "I would have trained"
+    },
+    "TU": {
+      "SPANISH": "habrías entrenado",
+      "ENGLISH": "you would have trained"
+    },
+    "EL": {
+      "SPANISH": "habría entrenado",
+      "ENGLISH": "s/he would have trained, you (formal) would have trained"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían entrenado",
+      "ENGLISH": "they would have trained, you (plural formal) would have trained"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos entrenado",
+      "ENGLISH": "we would have trained"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais entrenado",
+      "ENGLISH": "you (plural) would have trained"
+    }
+  }
+}

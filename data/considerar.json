@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "considero",
+      "ENGLISH": "I consider"
+    },
+    "TU": {
+      "SPANISH": "consideras",
+      "ENGLISH": "you consider"
+    },
+    "EL": {
+      "SPANISH": "considera",
+      "ENGLISH": "s/he considers, you (formal) considers"
+    },
+    "ELLOS": {
+      "SPANISH": "consideran",
+      "ENGLISH": "they consider, you (plural formal) consider"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consideramos",
+      "ENGLISH": "we consider"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consideráis",
+      "ENGLISH": "you (plural) consider"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he considerado",
+      "ENGLISH": "I have considered"
+    },
+    "TU": {
+      "SPANISH": "has considerado",
+      "ENGLISH": "you have considered"
+    },
+    "EL": {
+      "SPANISH": "ha considerado",
+      "ENGLISH": "s/he has considered, you (formal) have considered"
+    },
+    "ELLOS": {
+      "SPANISH": "han considerado",
+      "ENGLISH": "they have considered, you (plural formal) have considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos considerado",
+      "ENGLISH": "we have considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis considerado",
+      "ENGLISH": "you (plural) have considered"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "consideré",
+      "ENGLISH": "I considered"
+    },
+    "TU": {
+      "SPANISH": "consideraste",
+      "ENGLISH": "you considered"
+    },
+    "EL": {
+      "SPANISH": "consideró",
+      "ENGLISH": "s/he considered, you (formal) considered"
+    },
+    "ELLOS": {
+      "SPANISH": "consideraron",
+      "ENGLISH": "they considered, you (plural formal) considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consideramos",
+      "ENGLISH": "we considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "considerasteis",
+      "ENGLISH": "you (plural) considered"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había considerado",
+      "ENGLISH": "I had considered"
+    },
+    "TU": {
+      "SPANISH": "habías considerado",
+      "ENGLISH": "you had considered"
+    },
+    "EL": {
+      "SPANISH": "había considerado",
+      "ENGLISH": "s/he had considered, you (formal) had considered"
+    },
+    "ELLOS": {
+      "SPANISH": "habían considerado",
+      "ENGLISH": "they had considered, you (plural formal) had considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos considerado",
+      "ENGLISH": "we had considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais considerado",
+      "ENGLISH": "you (plural) had considered"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "consideré",
+      "ENGLISH": "I considered"
+    },
+    "TU": {
+      "SPANISH": "consideraste",
+      "ENGLISH": "you considered"
+    },
+    "EL": {
+      "SPANISH": "consideró",
+      "ENGLISH": "s/he considered, you (formal) considered"
+    },
+    "ELLOS": {
+      "SPANISH": "consideraron",
+      "ENGLISH": "they considered, you (plural formal) considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consideramos",
+      "ENGLISH": "we considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "considerasteis",
+      "ENGLISH": "you (plural) considered"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "consideraré",
+      "ENGLISH": "I will consider"
+    },
+    "TU": {
+      "SPANISH": "considerarás",
+      "ENGLISH": "you will consider"
+    },
+    "EL": {
+      "SPANISH": "considerará",
+      "ENGLISH": "s/he will consider, you (formal) will consider"
+    },
+    "ELLOS": {
+      "SPANISH": "considerarán",
+      "ENGLISH": "they will consider, you (plural formal) will consider"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consideraremos",
+      "ENGLISH": "we will consider"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consideraréis",
+      "ENGLISH": "you (plural) will consider"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré considerado",
+      "ENGLISH": "I will have considered"
+    },
+    "TU": {
+      "SPANISH": "habrás considerado",
+      "ENGLISH": "you will have considered"
+    },
+    "EL": {
+      "SPANISH": "habrá considerado",
+      "ENGLISH": "s/he will have considered, you (formal) will have considered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán considerado",
+      "ENGLISH": "they will have considered, you (plural formal) will have considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos considerado",
+      "ENGLISH": "we will have considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis considerado",
+      "ENGLISH": "you (plural) will have considered"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "consideraría",
+      "ENGLISH": "I would consider"
+    },
+    "TU": {
+      "SPANISH": "considerarías",
+      "ENGLISH": "you would consider"
+    },
+    "EL": {
+      "SPANISH": "consideraría",
+      "ENGLISH": "s/he would consider, you (formal) would consider"
+    },
+    "ELLOS": {
+      "SPANISH": "considerarían",
+      "ENGLISH": "they would consider, you (plural formal) would consider"
+    },
+    "NOSOTROS": {
+      "SPANISH": "consideraríamos",
+      "ENGLISH": "we would consider"
+    },
+    "VOSOTROS": {
+      "SPANISH": "consideraríais",
+      "ENGLISH": "you (plural) would consider"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría considerado",
+      "ENGLISH": "I would have considered"
+    },
+    "TU": {
+      "SPANISH": "habrías considerado",
+      "ENGLISH": "you would have considered"
+    },
+    "EL": {
+      "SPANISH": "habría considerado",
+      "ENGLISH": "s/he would have considered, you (formal) would have considered"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían considerado",
+      "ENGLISH": "they would have considered, you (plural formal) would have considered"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos considerado",
+      "ENGLISH": "we would have considered"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais considerado",
+      "ENGLISH": "you (plural) would have considered"
+    }
+  }
+}

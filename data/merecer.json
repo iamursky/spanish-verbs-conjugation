@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "merezco ",
+      "ENGLISH": "I deserve"
+    },
+    "TU": {
+      "SPANISH": "mereces",
+      "ENGLISH": "you deserve"
+    },
+    "EL": {
+      "SPANISH": "merece",
+      "ENGLISH": "s/he deserves, you (formal) deserves"
+    },
+    "ELLOS": {
+      "SPANISH": "merecen",
+      "ENGLISH": "they deserve, you (plural formal) deserve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "merecemos",
+      "ENGLISH": "we deserve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "merecéis",
+      "ENGLISH": "you (plural) deserve"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he merecido",
+      "ENGLISH": "I have deserved"
+    },
+    "TU": {
+      "SPANISH": "has merecido",
+      "ENGLISH": "you have deserved"
+    },
+    "EL": {
+      "SPANISH": "ha merecido",
+      "ENGLISH": "s/he has deserved, you (formal) have deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "han merecido",
+      "ENGLISH": "they have deserved, you (plural formal) have deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos merecido",
+      "ENGLISH": "we have deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis merecido",
+      "ENGLISH": "you (plural) have deserved"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "merecí",
+      "ENGLISH": "I deserved"
+    },
+    "TU": {
+      "SPANISH": "mereciste",
+      "ENGLISH": "you deserved"
+    },
+    "EL": {
+      "SPANISH": "mereció",
+      "ENGLISH": "s/he deserved, you (formal) deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "merecieron",
+      "ENGLISH": "they deserved, you (plural formal) deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "merecimos",
+      "ENGLISH": "we deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "merecisteis",
+      "ENGLISH": "you (plural) deserved"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había merecido",
+      "ENGLISH": "I had deserved"
+    },
+    "TU": {
+      "SPANISH": "habías merecido",
+      "ENGLISH": "you had deserved"
+    },
+    "EL": {
+      "SPANISH": "había merecido",
+      "ENGLISH": "s/he had deserved, you (formal) had deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "habían merecido",
+      "ENGLISH": "they had deserved, you (plural formal) had deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos merecido",
+      "ENGLISH": "we had deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais merecido",
+      "ENGLISH": "you (plural) had deserved"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "merecí",
+      "ENGLISH": "I deserved"
+    },
+    "TU": {
+      "SPANISH": "mereciste",
+      "ENGLISH": "you deserved"
+    },
+    "EL": {
+      "SPANISH": "mereció",
+      "ENGLISH": "s/he deserved, you (formal) deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "merecieron",
+      "ENGLISH": "they deserved, you (plural formal) deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "merecimos",
+      "ENGLISH": "we deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "merecisteis",
+      "ENGLISH": "you (plural) deserved"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "mereceré",
+      "ENGLISH": "I will deserve"
+    },
+    "TU": {
+      "SPANISH": "merecerás",
+      "ENGLISH": "you will deserve"
+    },
+    "EL": {
+      "SPANISH": "merecerá",
+      "ENGLISH": "s/he will deserve, you (formal) will deserve"
+    },
+    "ELLOS": {
+      "SPANISH": "merecerán",
+      "ENGLISH": "they will deserve, you (plural formal) will deserve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mereceremos",
+      "ENGLISH": "we will deserve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mereceréis",
+      "ENGLISH": "you (plural) will deserve"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré merecido",
+      "ENGLISH": "I will have deserved"
+    },
+    "TU": {
+      "SPANISH": "habrás merecido",
+      "ENGLISH": "you will have deserved"
+    },
+    "EL": {
+      "SPANISH": "habrá merecido",
+      "ENGLISH": "s/he will have deserved, you (formal) will have deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán merecido",
+      "ENGLISH": "they will have deserved, you (plural formal) will have deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos merecido",
+      "ENGLISH": "we will have deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis merecido",
+      "ENGLISH": "you (plural) will have deserved"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "merecería",
+      "ENGLISH": "I would deserve"
+    },
+    "TU": {
+      "SPANISH": "merecerías",
+      "ENGLISH": "you would deserve"
+    },
+    "EL": {
+      "SPANISH": "merecería",
+      "ENGLISH": "s/he would deserve, you (formal) would deserve"
+    },
+    "ELLOS": {
+      "SPANISH": "merecerían",
+      "ENGLISH": "they would deserve, you (plural formal) would deserve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "mereceríamos",
+      "ENGLISH": "we would deserve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "mereceríais",
+      "ENGLISH": "you (plural) would deserve"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría merecido",
+      "ENGLISH": "I would have deserved"
+    },
+    "TU": {
+      "SPANISH": "habrías merecido",
+      "ENGLISH": "you would have deserved"
+    },
+    "EL": {
+      "SPANISH": "habría merecido",
+      "ENGLISH": "s/he would have deserved, you (formal) would have deserved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían merecido",
+      "ENGLISH": "they would have deserved, you (plural formal) would have deserved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos merecido",
+      "ENGLISH": "we would have deserved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais merecido",
+      "ENGLISH": "you (plural) would have deserved"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "me dedico",
+      "ENGLISH": "I devote"
+    },
+    "TU": {
+      "SPANISH": "te dedicas",
+      "ENGLISH": "you devote"
+    },
+    "EL": {
+      "SPANISH": "se dedica",
+      "ENGLISH": "s/he devotes, you (formal) devotes"
+    },
+    "ELLOS": {
+      "SPANISH": "se dedican",
+      "ENGLISH": "they devote, you (plural formal) devote"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos dedicamos",
+      "ENGLISH": "we devote"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os dedicáis",
+      "ENGLISH": "you (plural) devote"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me he dedicado",
+      "ENGLISH": "I have devoted"
+    },
+    "TU": {
+      "SPANISH": "te has dedicado",
+      "ENGLISH": "you have devoted"
+    },
+    "EL": {
+      "SPANISH": "se ha dedicado",
+      "ENGLISH": "s/he has devoted, you (formal) have devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se han dedicado",
+      "ENGLISH": "they have devoted, you (plural formal) have devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos hemos dedicado",
+      "ENGLISH": "we have devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habéis dedicado",
+      "ENGLISH": "you (plural) have devoted"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "me dediqué ",
+      "ENGLISH": "I devoted"
+    },
+    "TU": {
+      "SPANISH": "te dedicaste",
+      "ENGLISH": "you devoted"
+    },
+    "EL": {
+      "SPANISH": "se dedicó",
+      "ENGLISH": "s/he devoted, you (formal) devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se dedicaron",
+      "ENGLISH": "they devoted, you (plural formal) devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos dedicamos",
+      "ENGLISH": "we devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os dedicasteis",
+      "ENGLISH": "you (plural) devoted"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "me había dedicado",
+      "ENGLISH": "I had devoted"
+    },
+    "TU": {
+      "SPANISH": "te habías dedicado",
+      "ENGLISH": "you had devoted"
+    },
+    "EL": {
+      "SPANISH": "se había dedicado",
+      "ENGLISH": "s/he had devoted, you (formal) had devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se habían dedicado",
+      "ENGLISH": "they had devoted, you (plural formal) had devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habíamos dedicado",
+      "ENGLISH": "we had devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habíais dedicado",
+      "ENGLISH": "you (plural) had devoted"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "me dediqué ",
+      "ENGLISH": "I devoted"
+    },
+    "TU": {
+      "SPANISH": "te dedicaste",
+      "ENGLISH": "you devoted"
+    },
+    "EL": {
+      "SPANISH": "se dedicó",
+      "ENGLISH": "s/he devoted, you (formal) devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se dedicaron",
+      "ENGLISH": "they devoted, you (plural formal) devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos dedicamos",
+      "ENGLISH": "we devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os dedicasteis",
+      "ENGLISH": "you (plural) devoted"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "me dedicaré",
+      "ENGLISH": "I will devote"
+    },
+    "TU": {
+      "SPANISH": "te dedicarás",
+      "ENGLISH": "you will devote"
+    },
+    "EL": {
+      "SPANISH": "se dedicará",
+      "ENGLISH": "s/he will devote, you (formal) will devote"
+    },
+    "ELLOS": {
+      "SPANISH": "se dedicarán",
+      "ENGLISH": "they will devote, you (plural formal) will devote"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos dedicaremos",
+      "ENGLISH": "we will devote"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os dedicaréis",
+      "ENGLISH": "you (plural) will devote"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habré dedicado",
+      "ENGLISH": "I will have devoted"
+    },
+    "TU": {
+      "SPANISH": "te habrás dedicado",
+      "ENGLISH": "you will have devoted"
+    },
+    "EL": {
+      "SPANISH": "se habrá dedicado",
+      "ENGLISH": "s/he will have devoted, you (formal) will have devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrán dedicado",
+      "ENGLISH": "they will have devoted, you (plural formal) will have devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habremos dedicado",
+      "ENGLISH": "we will have devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habréis dedicado",
+      "ENGLISH": "you (plural) will have devoted"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "me dedicaría",
+      "ENGLISH": "I would devote"
+    },
+    "TU": {
+      "SPANISH": "te dedicarías",
+      "ENGLISH": "you would devote"
+    },
+    "EL": {
+      "SPANISH": "se dedicaría",
+      "ENGLISH": "s/he would devote, you (formal) would devote"
+    },
+    "ELLOS": {
+      "SPANISH": "se dedicarían",
+      "ENGLISH": "they would devote, you (plural formal) would devote"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos dedicaríamos",
+      "ENGLISH": "we would devote"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os dedicaríais",
+      "ENGLISH": "you (plural) would devote"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "me habría dedicado",
+      "ENGLISH": "I would have devoted"
+    },
+    "TU": {
+      "SPANISH": "te habrías dedicado",
+      "ENGLISH": "you would have devoted"
+    },
+    "EL": {
+      "SPANISH": "se habría dedicado",
+      "ENGLISH": "s/he would have devoted, you (formal) would have devoted"
+    },
+    "ELLOS": {
+      "SPANISH": "se habrían dedicado",
+      "ENGLISH": "they would have devoted, you (plural formal) would have devoted"
+    },
+    "NOSOTROS": {
+      "SPANISH": "nos habríamos dedicado",
+      "ENGLISH": "we would have devoted"
+    },
+    "VOSOTROS": {
+      "SPANISH": "os habríais dedicado",
+      "ENGLISH": "you (plural) would have devoted"
+    }
+  }
+}

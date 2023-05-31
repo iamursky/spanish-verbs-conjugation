@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "describo",
+      "ENGLISH": "I describe"
+    },
+    "TU": {
+      "SPANISH": "describes",
+      "ENGLISH": "you describe"
+    },
+    "EL": {
+      "SPANISH": "describe",
+      "ENGLISH": "s/he describes, you (formal) describes"
+    },
+    "ELLOS": {
+      "SPANISH": "describen",
+      "ENGLISH": "they describe, you (plural formal) describe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "describimos",
+      "ENGLISH": "we describe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "describís",
+      "ENGLISH": "you (plural) describe"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he descrito ",
+      "ENGLISH": "I have described"
+    },
+    "TU": {
+      "SPANISH": "has descrito ",
+      "ENGLISH": "you have described"
+    },
+    "EL": {
+      "SPANISH": "ha descrito ",
+      "ENGLISH": "s/he has described, you (formal) have described"
+    },
+    "ELLOS": {
+      "SPANISH": "han descrito ",
+      "ENGLISH": "they have described, you (plural formal) have described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos descrito ",
+      "ENGLISH": "we have described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis descrito ",
+      "ENGLISH": "you (plural) have described"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "describí",
+      "ENGLISH": "I described"
+    },
+    "TU": {
+      "SPANISH": "describiste",
+      "ENGLISH": "you described"
+    },
+    "EL": {
+      "SPANISH": "describió",
+      "ENGLISH": "s/he described, you (formal) described"
+    },
+    "ELLOS": {
+      "SPANISH": "describieron",
+      "ENGLISH": "they described, you (plural formal) described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "describimos",
+      "ENGLISH": "we described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "describisteis",
+      "ENGLISH": "you (plural) described"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había descrito ",
+      "ENGLISH": "I had described"
+    },
+    "TU": {
+      "SPANISH": "habías descrito ",
+      "ENGLISH": "you had described"
+    },
+    "EL": {
+      "SPANISH": "había descrito ",
+      "ENGLISH": "s/he had described, you (formal) had described"
+    },
+    "ELLOS": {
+      "SPANISH": "habían descrito ",
+      "ENGLISH": "they had described, you (plural formal) had described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos descrito ",
+      "ENGLISH": "we had described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais descrito ",
+      "ENGLISH": "you (plural) had described"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "describí",
+      "ENGLISH": "I described"
+    },
+    "TU": {
+      "SPANISH": "describiste",
+      "ENGLISH": "you described"
+    },
+    "EL": {
+      "SPANISH": "describió",
+      "ENGLISH": "s/he described, you (formal) described"
+    },
+    "ELLOS": {
+      "SPANISH": "describieron",
+      "ENGLISH": "they described, you (plural formal) described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "describimos",
+      "ENGLISH": "we described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "describisteis",
+      "ENGLISH": "you (plural) described"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "describiré",
+      "ENGLISH": "I will describe"
+    },
+    "TU": {
+      "SPANISH": "describirás",
+      "ENGLISH": "you will describe"
+    },
+    "EL": {
+      "SPANISH": "describirá",
+      "ENGLISH": "s/he will describe, you (formal) will describe"
+    },
+    "ELLOS": {
+      "SPANISH": "describirán",
+      "ENGLISH": "they will describe, you (plural formal) will describe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "describiremos",
+      "ENGLISH": "we will describe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "describiréis",
+      "ENGLISH": "you (plural) will describe"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré descrito ",
+      "ENGLISH": "I will have described"
+    },
+    "TU": {
+      "SPANISH": "habrás descrito ",
+      "ENGLISH": "you will have described"
+    },
+    "EL": {
+      "SPANISH": "habrá descrito ",
+      "ENGLISH": "s/he will have described, you (formal) will have described"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán descrito ",
+      "ENGLISH": "they will have described, you (plural formal) will have described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos descrito ",
+      "ENGLISH": "we will have described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis descrito ",
+      "ENGLISH": "you (plural) will have described"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "describiría",
+      "ENGLISH": "I would describe"
+    },
+    "TU": {
+      "SPANISH": "describirías",
+      "ENGLISH": "you would describe"
+    },
+    "EL": {
+      "SPANISH": "describiría",
+      "ENGLISH": "s/he would describe, you (formal) would describe"
+    },
+    "ELLOS": {
+      "SPANISH": "describirían",
+      "ENGLISH": "they would describe, you (plural formal) would describe"
+    },
+    "NOSOTROS": {
+      "SPANISH": "describiríamos",
+      "ENGLISH": "we would describe"
+    },
+    "VOSOTROS": {
+      "SPANISH": "describiríais",
+      "ENGLISH": "you (plural) would describe"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría descrito ",
+      "ENGLISH": "I would have described"
+    },
+    "TU": {
+      "SPANISH": "habrías descrito ",
+      "ENGLISH": "you would have described"
+    },
+    "EL": {
+      "SPANISH": "habría descrito ",
+      "ENGLISH": "s/he would have described, you (formal) would have described"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían descrito ",
+      "ENGLISH": "they would have described, you (plural formal) would have described"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos descrito ",
+      "ENGLISH": "we would have described"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais descrito ",
+      "ENGLISH": "you (plural) would have described"
+    }
+  }
+}

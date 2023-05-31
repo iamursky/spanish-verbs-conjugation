@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "resuelvo ",
+      "ENGLISH": "I solve"
+    },
+    "TU": {
+      "SPANISH": "resuelves ",
+      "ENGLISH": "you solve"
+    },
+    "EL": {
+      "SPANISH": "resuelve ",
+      "ENGLISH": "s/he solves, you (formal) solves"
+    },
+    "ELLOS": {
+      "SPANISH": "resuelven ",
+      "ENGLISH": "they solve, you (plural formal) solve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "resolvemos",
+      "ENGLISH": "we solve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "resolvéis",
+      "ENGLISH": "you (plural) solve"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he resuelto ",
+      "ENGLISH": "I have solved"
+    },
+    "TU": {
+      "SPANISH": "has resuelto ",
+      "ENGLISH": "you have solved"
+    },
+    "EL": {
+      "SPANISH": "ha resuelto ",
+      "ENGLISH": "s/he has solved, you (formal) have solved"
+    },
+    "ELLOS": {
+      "SPANISH": "han resuelto ",
+      "ENGLISH": "they have solved, you (plural formal) have solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos resuelto ",
+      "ENGLISH": "we have solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis resuelto ",
+      "ENGLISH": "you (plural) have solved"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "resolví",
+      "ENGLISH": "I solved"
+    },
+    "TU": {
+      "SPANISH": "resolviste",
+      "ENGLISH": "you solved"
+    },
+    "EL": {
+      "SPANISH": "resolvió",
+      "ENGLISH": "s/he solved, you (formal) solved"
+    },
+    "ELLOS": {
+      "SPANISH": "resolvieron",
+      "ENGLISH": "they solved, you (plural formal) solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "resolvimos",
+      "ENGLISH": "we solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "resolvisteis",
+      "ENGLISH": "you (plural) solved"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había resuelto ",
+      "ENGLISH": "I had solved"
+    },
+    "TU": {
+      "SPANISH": "habías resuelto ",
+      "ENGLISH": "you had solved"
+    },
+    "EL": {
+      "SPANISH": "había resuelto ",
+      "ENGLISH": "s/he had solved, you (formal) had solved"
+    },
+    "ELLOS": {
+      "SPANISH": "habían resuelto ",
+      "ENGLISH": "they had solved, you (plural formal) had solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos resuelto ",
+      "ENGLISH": "we had solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais resuelto ",
+      "ENGLISH": "you (plural) had solved"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "resolví",
+      "ENGLISH": "I solved"
+    },
+    "TU": {
+      "SPANISH": "resolviste",
+      "ENGLISH": "you solved"
+    },
+    "EL": {
+      "SPANISH": "resolvió",
+      "ENGLISH": "s/he solved, you (formal) solved"
+    },
+    "ELLOS": {
+      "SPANISH": "resolvieron",
+      "ENGLISH": "they solved, you (plural formal) solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "resolvimos",
+      "ENGLISH": "we solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "resolvisteis",
+      "ENGLISH": "you (plural) solved"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "resolveré",
+      "ENGLISH": "I will solve"
+    },
+    "TU": {
+      "SPANISH": "resolverás",
+      "ENGLISH": "you will solve"
+    },
+    "EL": {
+      "SPANISH": "resolverá",
+      "ENGLISH": "s/he will solve, you (formal) will solve"
+    },
+    "ELLOS": {
+      "SPANISH": "resolverán",
+      "ENGLISH": "they will solve, you (plural formal) will solve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "resolveremos",
+      "ENGLISH": "we will solve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "resolveréis",
+      "ENGLISH": "you (plural) will solve"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré resuelto ",
+      "ENGLISH": "I will have solved"
+    },
+    "TU": {
+      "SPANISH": "habrás resuelto ",
+      "ENGLISH": "you will have solved"
+    },
+    "EL": {
+      "SPANISH": "habrá resuelto ",
+      "ENGLISH": "s/he will have solved, you (formal) will have solved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán resuelto ",
+      "ENGLISH": "they will have solved, you (plural formal) will have solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos resuelto ",
+      "ENGLISH": "we will have solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis resuelto ",
+      "ENGLISH": "you (plural) will have solved"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "resolvería",
+      "ENGLISH": "I would solve"
+    },
+    "TU": {
+      "SPANISH": "resolverías",
+      "ENGLISH": "you would solve"
+    },
+    "EL": {
+      "SPANISH": "resolvería",
+      "ENGLISH": "s/he would solve, you (formal) would solve"
+    },
+    "ELLOS": {
+      "SPANISH": "resolverían",
+      "ENGLISH": "they would solve, you (plural formal) would solve"
+    },
+    "NOSOTROS": {
+      "SPANISH": "resolveríamos",
+      "ENGLISH": "we would solve"
+    },
+    "VOSOTROS": {
+      "SPANISH": "resolveríais",
+      "ENGLISH": "you (plural) would solve"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría resuelto ",
+      "ENGLISH": "I would have solved"
+    },
+    "TU": {
+      "SPANISH": "habrías resuelto ",
+      "ENGLISH": "you would have solved"
+    },
+    "EL": {
+      "SPANISH": "habría resuelto ",
+      "ENGLISH": "s/he would have solved, you (formal) would have solved"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían resuelto ",
+      "ENGLISH": "they would have solved, you (plural formal) would have solved"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos resuelto ",
+      "ENGLISH": "we would have solved"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais resuelto ",
+      "ENGLISH": "you (plural) would have solved"
+    }
+  }
+}

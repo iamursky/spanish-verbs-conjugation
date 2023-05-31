@@ -1,0 +1,236 @@
+{
+  "PRESENTE": {
+    "YO": {
+      "SPANISH": "anuncio",
+      "ENGLISH": "I announce"
+    },
+    "TU": {
+      "SPANISH": "anuncias",
+      "ENGLISH": "you announce"
+    },
+    "EL": {
+      "SPANISH": "anuncia",
+      "ENGLISH": "s/he announces, you (formal) announces"
+    },
+    "ELLOS": {
+      "SPANISH": "anuncian",
+      "ENGLISH": "they announce, you (plural formal) announce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anunciamos",
+      "ENGLISH": "we announce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anunciáis",
+      "ENGLISH": "you (plural) announce"
+    }
+  },
+  "PERFECTO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "he anunciado",
+      "ENGLISH": "I have announced"
+    },
+    "TU": {
+      "SPANISH": "has anunciado",
+      "ENGLISH": "you have announced"
+    },
+    "EL": {
+      "SPANISH": "ha anunciado",
+      "ENGLISH": "s/he has announced, you (formal) have announced"
+    },
+    "ELLOS": {
+      "SPANISH": "han anunciado",
+      "ENGLISH": "they have announced, you (plural formal) have announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "hemos anunciado",
+      "ENGLISH": "we have announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habéis anunciado",
+      "ENGLISH": "you (plural) have announced"
+    }
+  },
+  "PRETERITO_INDEFINIDO": {
+    "YO": {
+      "SPANISH": "anuncié",
+      "ENGLISH": "I announced"
+    },
+    "TU": {
+      "SPANISH": "anunciaste",
+      "ENGLISH": "you announced"
+    },
+    "EL": {
+      "SPANISH": "anunció",
+      "ENGLISH": "s/he announced, you (formal) announced"
+    },
+    "ELLOS": {
+      "SPANISH": "anunciaron",
+      "ENGLISH": "they announced, you (plural formal) announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anunciamos",
+      "ENGLISH": "we announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anunciasteis",
+      "ENGLISH": "you (plural) announced"
+    }
+  },
+  "PRETERITO_PLUSCUAMPERFECTO": {
+    "YO": {
+      "SPANISH": "había anunciado",
+      "ENGLISH": "I had announced"
+    },
+    "TU": {
+      "SPANISH": "habías anunciado",
+      "ENGLISH": "you had announced"
+    },
+    "EL": {
+      "SPANISH": "había anunciado",
+      "ENGLISH": "s/he had announced, you (formal) had announced"
+    },
+    "ELLOS": {
+      "SPANISH": "habían anunciado",
+      "ENGLISH": "they had announced, you (plural formal) had announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habíamos anunciado",
+      "ENGLISH": "we had announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habíais anunciado",
+      "ENGLISH": "you (plural) had announced"
+    }
+  },
+  "PRETERITO_IMPERFECTO": {
+    "YO": {
+      "SPANISH": "anuncié",
+      "ENGLISH": "I announced"
+    },
+    "TU": {
+      "SPANISH": "anunciaste",
+      "ENGLISH": "you announced"
+    },
+    "EL": {
+      "SPANISH": "anunció",
+      "ENGLISH": "s/he announced, you (formal) announced"
+    },
+    "ELLOS": {
+      "SPANISH": "anunciaron",
+      "ENGLISH": "they announced, you (plural formal) announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anunciamos",
+      "ENGLISH": "we announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anunciasteis",
+      "ENGLISH": "you (plural) announced"
+    }
+  },
+  "FUTURO_SIMPLE": {
+    "YO": {
+      "SPANISH": "anunciaré",
+      "ENGLISH": "I will announce"
+    },
+    "TU": {
+      "SPANISH": "anunciarás",
+      "ENGLISH": "you will announce"
+    },
+    "EL": {
+      "SPANISH": "anunciará",
+      "ENGLISH": "s/he will announce, you (formal) will announce"
+    },
+    "ELLOS": {
+      "SPANISH": "anunciarán",
+      "ENGLISH": "they will announce, you (plural formal) will announce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anunciaremos",
+      "ENGLISH": "we will announce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anunciaréis",
+      "ENGLISH": "you (plural) will announce"
+    }
+  },
+  "FUTURO_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habré anunciado",
+      "ENGLISH": "I will have announced"
+    },
+    "TU": {
+      "SPANISH": "habrás anunciado",
+      "ENGLISH": "you will have announced"
+    },
+    "EL": {
+      "SPANISH": "habrá anunciado",
+      "ENGLISH": "s/he will have announced, you (formal) will have announced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrán anunciado",
+      "ENGLISH": "they will have announced, you (plural formal) will have announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habremos anunciado",
+      "ENGLISH": "we will have announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habréis anunciado",
+      "ENGLISH": "you (plural) will have announced"
+    }
+  },
+  "CONDICIONAL_SIMPLE": {
+    "YO": {
+      "SPANISH": "anunciaría",
+      "ENGLISH": "I would announce"
+    },
+    "TU": {
+      "SPANISH": "anunciarías",
+      "ENGLISH": "you would announce"
+    },
+    "EL": {
+      "SPANISH": "anunciaría",
+      "ENGLISH": "s/he would announce, you (formal) would announce"
+    },
+    "ELLOS": {
+      "SPANISH": "anunciarían",
+      "ENGLISH": "they would announce, you (plural formal) would announce"
+    },
+    "NOSOTROS": {
+      "SPANISH": "anunciaríamos",
+      "ENGLISH": "we would announce"
+    },
+    "VOSOTROS": {
+      "SPANISH": "anunciaríais",
+      "ENGLISH": "you (plural) would announce"
+    }
+  },
+  "CONDICIONAL_COMPUESTO": {
+    "YO": {
+      "SPANISH": "habría anunciado",
+      "ENGLISH": "I would have announced"
+    },
+    "TU": {
+      "SPANISH": "habrías anunciado",
+      "ENGLISH": "you would have announced"
+    },
+    "EL": {
+      "SPANISH": "habría anunciado",
+      "ENGLISH": "s/he would have announced, you (formal) would have announced"
+    },
+    "ELLOS": {
+      "SPANISH": "habrían anunciado",
+      "ENGLISH": "they would have announced, you (plural formal) would have announced"
+    },
+    "NOSOTROS": {
+      "SPANISH": "habríamos anunciado",
+      "ENGLISH": "we would have announced"
+    },
+    "VOSOTROS": {
+      "SPANISH": "habríais anunciado",
+      "ENGLISH": "you (plural) would have announced"
+    }
+  }
+}
