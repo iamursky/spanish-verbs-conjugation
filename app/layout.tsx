@@ -11,7 +11,7 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark:bg-neutral-900 dark:text-gray-400">
       <body className="container mx-auto py-8 font-serif">
         <header className="py-4 print:hidden">
           <Link href="/">
