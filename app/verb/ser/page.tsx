@@ -7,8 +7,8 @@ export default function Page() {
 }
 
 const SER_VERB: Verb = {
-  ENGLISH: "To be (permanent)",
   SPANISH: "Ser",
+  ENGLISH: "To be (permanent)",
 };
 
 const SER_VERB_CONJUGATIONS: Conjugations = {
@@ -52,6 +52,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Ha sido",
       ENGLISH: "He has been",
     },
+    ELLOS: {
+      SPANISH: "Han sido",
+      ENGLISH: "They have been",
+    },
     NOSOTROS: {
       SPANISH: "Hemos sido",
       ENGLISH: "We have been",
@@ -59,10 +63,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Habéis sido",
       ENGLISH: "You have been",
-    },
-    ELLOS: {
-      SPANISH: "Han sido",
-      ENGLISH: "They have been",
     },
   },
 
@@ -79,6 +79,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Fue",
       ENGLISH: "He were",
     },
+    ELLOS: {
+      SPANISH: "Fueron",
+      ENGLISH: "They were",
+    },
     NOSOTROS: {
       SPANISH: "Fuimos",
       ENGLISH: "We were",
@@ -86,10 +90,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Fuisteis",
       ENGLISH: "You were",
-    },
-    ELLOS: {
-      SPANISH: "Fueron",
-      ENGLISH: "They were",
     },
   },
 
@@ -106,6 +106,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Había sido",
       ENGLISH: "He had been",
     },
+    ELLOS: {
+      SPANISH: "Habían sido",
+      ENGLISH: "They had been",
+    },
     NOSOTROS: {
       SPANISH: "Habíamos sido",
       ENGLISH: "We had been",
@@ -113,10 +117,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Habías sido",
       ENGLISH: "You had been",
-    },
-    ELLOS: {
-      SPANISH: "Habían sido",
-      ENGLISH: "They had been",
     },
   },
 
@@ -133,6 +133,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Era",
       ENGLISH: "He used to be",
     },
+    ELLOS: {
+      SPANISH: "Eran",
+      ENGLISH: "They used to be",
+    },
     NOSOTROS: {
       SPANISH: "Éramos",
       ENGLISH: "We used to be",
@@ -140,10 +144,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Erais",
       ENGLISH: "You used to be",
-    },
-    ELLOS: {
-      SPANISH: "Eran",
-      ENGLISH: "They used to be",
     },
   },
 
@@ -160,6 +160,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Será",
       ENGLISH: "He will be",
     },
+    ELLOS: {
+      SPANISH: "Serán",
+      ENGLISH: "They will be",
+    },
     NOSOTROS: {
       SPANISH: "Seremos",
       ENGLISH: "We will be",
@@ -167,10 +171,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Seréis",
       ENGLISH: "You will be",
-    },
-    ELLOS: {
-      SPANISH: "Serán",
-      ENGLISH: "They will be",
     },
   },
 
@@ -187,6 +187,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Habrá sido",
       ENGLISH: "He will have been",
     },
+    ELLOS: {
+      SPANISH: "Habrán sido",
+      ENGLISH: "They will have been",
+    },
     NOSOTROS: {
       SPANISH: "Habremos sido",
       ENGLISH: "We will have been",
@@ -194,10 +198,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Habréis sido",
       ENGLISH: "You will have been",
-    },
-    ELLOS: {
-      SPANISH: "Habrán sido",
-      ENGLISH: "They will have been",
     },
   },
 
@@ -214,6 +214,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Sería",
       ENGLISH: "He would be",
     },
+    ELLOS: {
+      SPANISH: "Serían",
+      ENGLISH: "They would be",
+    },
     NOSOTROS: {
       SPANISH: "Seríamos",
       ENGLISH: "We would be",
@@ -221,10 +225,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Serías",
       ENGLISH: "You would be",
-    },
-    ELLOS: {
-      SPANISH: "Serían",
-      ENGLISH: "They would be",
     },
   },
 
@@ -241,6 +241,10 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
       SPANISH: "Habría sido",
       ENGLISH: "He would have been",
     },
+    ELLOS: {
+      SPANISH: "Habrían sido",
+      ENGLISH: "They would have been",
+    },
     NOSOTROS: {
       SPANISH: "Habríamos sido",
       ENGLISH: "We would have been",
@@ -248,10 +252,6 @@ const SER_VERB_CONJUGATIONS: Conjugations = {
     VOSOTROS: {
       SPANISH: "Habrías sido",
       ENGLISH: "You would have been",
-    },
-    ELLOS: {
-      SPANISH: "Habrían sido",
-      ENGLISH: "They would have been",
     },
   },
 } as const;

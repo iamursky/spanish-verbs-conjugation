@@ -73,7 +73,7 @@ const PRONOUN_LABELS: PronounLabels = {
   },
   ELLOS: {
     SPANISH: "Ellos/as",
-    ENGLISH: "They (plrl)",
+    ENGLISH: "They",
   },
 } as const;
 
