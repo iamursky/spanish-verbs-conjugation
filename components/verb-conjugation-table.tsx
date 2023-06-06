@@ -9,82 +9,67 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
     <div className="wrapper">
       {Object.keys(TENSE).map((tense) => (
         <section key={tense} className="tense">
-          <div className="table-container">
-            <table>
-              <caption aria-label="Tense name">{TENSE_LABELS[tense as Tense]["SPANISH"]}</caption>
-              <thead>
-                <tr>
-                  {Object.keys(PRONOUN).map((pronoun) => (
-                    <td key={pronoun}>
-                      <p className="spanish-label">
-                        {PRONOUN_LABELS[pronoun as Pronoun]["SPANISH"]}
-                      </p>
-                    </td>
-                  ))}
-                </tr>
-              </thead>
-              <tbody>
+          <h2 className="tense-name">{TENSE_LABELS[tense as Tense]["SPANISH"]}</h2>
+          <table>
+            <thead>
+              <tr>
                 {Object.keys(PRONOUN).map((pronoun) => (
-                  <td key={`${tense}.${pronoun}`}>
-                    <p className="spanish-conjugation">
-                      {conjugations[tense as Tense][pronoun as Pronoun]["SPANISH"]}
-                    </p>
-                    <p className="english-conjugation">
-                      {conjugations[tense as Tense][pronoun as Pronoun]["ENGLISH"]}
-                    </p>
+                  <td key={pronoun}>
+                    <p className="spanish-label">{PRONOUN_LABELS[pronoun as Pronoun]["SPANISH"]}</p>
                   </td>
                 ))}
-              </tbody>
-            </table>
-          </div>
+              </tr>
+            </thead>
+            <tbody>
+              {Object.keys(PRONOUN).map((pronoun) => (
+                <td key={`${tense}.${pronoun}`}>
+                  <p className="spanish-conjugation">
+                    {conjugations[tense as Tense][pronoun as Pronoun]["SPANISH"]}
+                  </p>
+                  <p className="english-conjugation">
+                    {conjugations[tense as Tense][pronoun as Pronoun]["ENGLISH"]}
+                  </p>
+                </td>
+              ))}
+            </tbody>
+          </table>
         </section>
       ))}
 
       <style jsx>{`
         .tense {
-          margin-bottom: var(--spacing-6);
+          margin-bottom: var(--spacing-5);
         }
 
         .tense-name {
           font-size: 1.3rem;
-          margin-bottom: var(--spacing-3);
-        }
-
-        .spanish-tense-name,
-        .english-tense-name {
-          display: block;
-        }
-
-        .spanish-tense-name {
-          line-height: 1.3rem;
-        }
-
-        .english-tense-name {
-          color: var(--color-6);
-          font-weight: 400;
-          font-size: 1.2rem;
-        }
-
-        .table-container {
-          width: 100%;
-          overflow-x: auto;
-        }
-
-        .spanish-label {
           font-weight: 700;
+          margin-bottom: var(--spacing-2);
         }
 
-        .english-label {
-          color: var(--color-5);
-          font-size: 0.9em;
+        table {
+          display: block;
+          width: 100%;
+          overflow: auto;
+
+          position: relative;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
         }
 
-        .spanish-conjugation {
+        table th,
+        table td {
+          padding: var(--spacing-2);
+          border: 1px solid var(--color-4);
+          background-color: var(--color-1);
+          white-space: nowrap;
+          vertical-align: top;
         }
 
         .english-conjugation {
+          font-size: 0.85em;
           color: var(--color-6);
-          font-size: 0.9em;
         }
       `}</style>
     </div>

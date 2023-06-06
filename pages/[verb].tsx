@@ -22,8 +22,8 @@ export default function Page({ verb, conjugations }: PageProps) {
 
       <style jsx>{`
         .container {
-          padding-top: var(--spacing-6);
-          padding-bottom: var(--spacing-6);
+          padding-top: var(--spacing-5);
+          padding-bottom: var(--spacing-5);
         }
       `}</style>
     </main>

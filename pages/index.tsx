@@ -69,6 +69,20 @@ export default function Page() {
           padding: var(--spacing-3) 0;
           background-color: var(--color-1);
         }
+
+        input {
+          width: 100%;
+          padding: var(--spacing-2) var(--spacing-3);
+
+          color: var(--color-9);
+          border-radius: var(--spacing-1);
+          border: 1px solid var(--color-4);
+          background-color: var(--color-1);
+        }
+
+        input::placeholder {
+          color: var(--color-6);
+        }
       `}</style>
     </main>
   ) : null;
