@@ -2,13 +2,9 @@
 .env*.local
 .next
 .vercel
-*.pem
 *.tsbuildinfo
 build
 next-env.d.ts
 node_modules
 out
-playwright-report
-playwright/.cache
 pnpm-debug.log*
-test-results

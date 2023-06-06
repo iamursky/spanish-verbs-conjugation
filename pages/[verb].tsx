@@ -2,7 +2,7 @@ import type { Conjugations, Verb } from "@/types";
 import type { GetStaticPaths, GetStaticProps } from "next";
 
 import { VerbConjugationTable } from "@/components/verb-conjugation-table";
-import { VERB_MAP } from "@/constants";
+import { VERBS_MAP } from "@/constants";
 import { readFileSync } from "fs";
 import { resolve } from "path";
 
@@ -17,8 +17,15 @@ type PageParams = {
 
 export default function Page({ verb, conjugations }: PageProps) {
   return (
-    <main className="py-4">
-      <VerbConjugationTable verb={verb} conjugations={conjugations} />
+    <main className="container">
+      <VerbConjugationTable conjugations={conjugations} />
+
+      <style jsx>{`
+        .container {
+          padding-top: var(--spacing-6);
+          padding-bottom: var(--spacing-6);
+        }
+      `}</style>
     </main>
   );
 }
@@ -26,7 +33,7 @@ export default function Page({ verb, conjugations }: PageProps) {
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
     fallback: false,
-    paths: Object.keys(VERB_MAP).map((normalizedVerb) => `/${normalizedVerb}`),
+    paths: Object.keys(VERBS_MAP).map((normalizedVerb) => `/${normalizedVerb}`),
   };
 };
 
@@ -36,5 +43,5 @@ export const getStaticProps: GetStaticProps<PageProps, PageParams> = async ({ pa
   const fileContent = readFileSync(resolve(`${process.cwd()}/data/${params.verb}.json`));
   const conjugations = JSON.parse(fileContent.toString());
 
-  return { props: { verb: VERB_MAP[params.verb], conjugations } };
+  return { props: { verb: VERBS_MAP[params.verb], conjugations } };
 };
