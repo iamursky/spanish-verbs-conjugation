@@ -48,28 +48,25 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
         }
 
         table {
-          display: block;
-          width: 100%;
-          overflow: auto;
-
-          position: relative;
-          table-layout: fixed;
           border-collapse: collapse;
           border-spacing: 0;
+          display: block;
+          table-layout: fixed;
+          width: 100%;
         }
 
         table th,
         table td {
-          padding: var(--spacing-2);
-          border: 1px solid var(--color-4);
           background-color: var(--color-1);
-          white-space: nowrap;
+          border: 1px solid var(--color-4);
+          padding: var(--spacing-2) var(--spacing-3);
           vertical-align: top;
+          white-space: nowrap;
         }
 
         .english-conjugation {
-          font-size: 0.85em;
           color: var(--color-6);
+          font-size: 0.85em;
         }
       `}</style>
     </div>
@@ -89,6 +86,10 @@ const PRONOUN_LABELS: PronounLabels = {
     SPANISH: "Él / Ella",
     ENGLISH: "He / She",
   },
+  ELLOS: {
+    SPANISH: "Ellos/as",
+    ENGLISH: "They",
+  },
   NOSOTROS: {
     SPANISH: "Nosotros/as",
     ENGLISH: "We",
@@ -97,40 +98,16 @@ const PRONOUN_LABELS: PronounLabels = {
     SPANISH: "Vosotros/as",
     ENGLISH: "You (plural)",
   },
-  ELLOS: {
-    SPANISH: "Ellos/as",
-    ENGLISH: "They",
-  },
 } as const;
 
 const TENSE_LABELS: TenseLabels = {
-  CONDICIONAL_COMPUESTO: {
-    SPANISH: "Condicional Compuesto",
-    ENGLISH: "Conditional Perfect",
-  },
-  CONDICIONAL_SIMPLE: {
-    SPANISH: "Condicional Simple",
-    ENGLISH: "Conditional Simple",
-  },
-  FUTURO_COMPUESTO: {
-    SPANISH: "Futuro Compuesto",
-    ENGLISH: "Future Perfect",
-  },
-  FUTURO_SIMPLE: {
-    SPANISH: "Futuro Simple",
-    ENGLISH: "Future Simple",
-  },
-  PERFECTO_COMPUESTO: {
-    SPANISH: "Perfecto Compuesto",
-    ENGLISH: "Present Perfect",
-  },
   PRESENTE: {
     SPANISH: "Presente",
     ENGLISH: "Present Simple",
   },
-  PRETERITO_IMPERFECTO: {
-    SPANISH: "Pretérito Imperfecto",
-    ENGLISH: "Past Progressive",
+  PERFECTO_COMPUESTO: {
+    SPANISH: "Perfecto Compuesto",
+    ENGLISH: "Present Perfect",
   },
   PRETERITO_INDEFINIDO: {
     SPANISH: "Pretérito Indefinido",
@@ -140,4 +117,24 @@ const TENSE_LABELS: TenseLabels = {
     SPANISH: "Pretérito Pluscuamperfecto",
     ENGLISH: "Past Perfect",
   },
+  FUTURO_SIMPLE: {
+    SPANISH: "Futuro Simple",
+    ENGLISH: "Future Simple",
+  },
+  CONDICIONAL_SIMPLE: {
+    SPANISH: "Condicional Simple",
+    ENGLISH: "Conditional Simple",
+  },
+  // CONDICIONAL_COMPUESTO: {
+  //   SPANISH: "Condicional Compuesto",
+  //   ENGLISH: "Conditional Perfect",
+  // },
+  // FUTURO_COMPUESTO: {
+  //   SPANISH: "Futuro Compuesto",
+  //   ENGLISH: "Future Perfect",
+  // },
+  // PRETERITO_IMPERFECTO: {
+  //   SPANISH: "Pretérito Imperfecto",
+  //   ENGLISH: "Past Progressive",
+  // },
 } as const;
