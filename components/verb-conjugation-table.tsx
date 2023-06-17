@@ -9,7 +9,7 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
     <div className="wrapper">
       {Object.keys(TENSE).map((tense) => (
         <section key={tense} className="tense">
-          <h2 className="tense-name">{TENSE_LABELS[tense as Tense]["SPANISH"]}</h2>
+          <h2 className="tense-name">{TENSE_LABELS[tense as Tense]["ENGLISH"]}</h2>
           <table>
             <thead>
               <tr>
@@ -59,7 +59,7 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
         table td {
           background-color: var(--color-1);
           border: 1px solid var(--color-4);
-          padding: var(--spacing-2) var(--spacing-3);
+          padding: var(--spacing-1) var(--spacing-2);
           vertical-align: top;
           white-space: nowrap;
         }

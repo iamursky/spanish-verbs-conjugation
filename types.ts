@@ -19,9 +19,9 @@ export const PRONOUN = {
   YO: "YO",
   TU: "TU",
   EL: "EL",
+  ELLOS: "ELLOS",
   NOSOTROS: "NOSOTROS",
   VOSOTROS: "VOSOTROS",
-  ELLOS: "ELLOS",
 } as const;
 
 export type Language = keyof typeof LANGUAGE;
