@@ -29,7 +29,7 @@ export function VerbList({ verbs }: VerbListProps) {
         }
 
         .verb-list-item {
-          padding: var(--spacing-2) var(--spacing-3);
+          padding: var(--spacing-2);
         }
 
         .verb-list-item:not(:first-child) {
