@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Comienzo ",
       "ENGLISH": "I start"
@@ -25,7 +25,7 @@
       "ENGLISH": "You start"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He comenzado",
       "ENGLISH": "I have started"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have started"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Comencé ",
       "ENGLISH": "I started"
@@ -77,7 +77,7 @@
       "ENGLISH": "You started"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había comenzado",
       "ENGLISH": "I had started"
@@ -129,7 +129,7 @@
       "ENGLISH": "You started"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Comenzaré",
       "ENGLISH": "I will start"

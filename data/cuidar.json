@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cuido",
       "ENGLISH": "I look after"
@@ -25,7 +25,7 @@
       "ENGLISH": "You look after"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cuidado",
       "ENGLISH": "I have looked after"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have looked after"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cuidé",
       "ENGLISH": "I looked after"
@@ -77,7 +77,7 @@
       "ENGLISH": "You looked after"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cuidado",
       "ENGLISH": "I had looked after"
@@ -129,7 +129,7 @@
       "ENGLISH": "You looked after"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cuidaré",
       "ENGLISH": "I will look after"

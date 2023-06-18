@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Traduzco ",
       "ENGLISH": "I translate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You translate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He traducido",
       "ENGLISH": "I have translated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have translated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Traduje ",
       "ENGLISH": "I translated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You translated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había traducido",
       "ENGLISH": "I had translated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You translated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Traduciré",
       "ENGLISH": "I will translate"

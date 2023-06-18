@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Alquilo",
       "ENGLISH": "I rent"
@@ -25,7 +25,7 @@
       "ENGLISH": "You rent"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He alquilado",
       "ENGLISH": "I have rented"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have rented"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Alquilé",
       "ENGLISH": "I rented"
@@ -77,7 +77,7 @@
       "ENGLISH": "You rented"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había alquilado",
       "ENGLISH": "I had rented"
@@ -129,7 +129,7 @@
       "ENGLISH": "You rented"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Alquilaré",
       "ENGLISH": "I will rent"

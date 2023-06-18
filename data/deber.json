@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Debo",
       "ENGLISH": "I owe"
@@ -25,7 +25,7 @@
       "ENGLISH": "You owe"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He debido",
       "ENGLISH": "I have owed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have owed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Debí",
       "ENGLISH": "I owed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You owed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había debido",
       "ENGLISH": "I had owed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You owed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Deberé",
       "ENGLISH": "I will owe"

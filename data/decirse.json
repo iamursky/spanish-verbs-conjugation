@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me digo ",
       "ENGLISH": "I say"
@@ -25,7 +25,7 @@
       "ENGLISH": "You say"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he dicho ",
       "ENGLISH": "I have said"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have said"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me dije ",
       "ENGLISH": "I said"
@@ -77,7 +77,7 @@
       "ENGLISH": "You said"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había dicho ",
       "ENGLISH": "I had said"
@@ -129,7 +129,7 @@
       "ENGLISH": "You said"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me diré ",
       "ENGLISH": "I will say"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Levanto",
       "ENGLISH": "I lift"
@@ -25,7 +25,7 @@
       "ENGLISH": "You lift"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He levantado",
       "ENGLISH": "I have lifted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have lifted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Levanté",
       "ENGLISH": "I lifted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You lifted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había levantado",
       "ENGLISH": "I had lifted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You lifted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Levantaré",
       "ENGLISH": "I will lift"

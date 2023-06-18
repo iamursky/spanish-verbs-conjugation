@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Gestiono",
       "ENGLISH": "I manage"
@@ -25,7 +25,7 @@
       "ENGLISH": "You manage"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He gestionado",
       "ENGLISH": "I have managed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have managed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Gestioné",
       "ENGLISH": "I managed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You managed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había gestionado",
       "ENGLISH": "I had managed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You managed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Gestionaré",
       "ENGLISH": "I will manage"

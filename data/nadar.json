@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Nado",
       "ENGLISH": "I swim"
@@ -25,7 +25,7 @@
       "ENGLISH": "You swim"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He nadado",
       "ENGLISH": "I have swum"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have swum"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Nadé",
       "ENGLISH": "I swam"
@@ -77,7 +77,7 @@
       "ENGLISH": "You swam"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había nadado",
       "ENGLISH": "I had swum"
@@ -129,7 +129,7 @@
       "ENGLISH": "You swam"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Nadaré",
       "ENGLISH": "I will swim"

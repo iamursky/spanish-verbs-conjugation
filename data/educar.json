@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Educo",
       "ENGLISH": "I educate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You educate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He educado",
       "ENGLISH": "I have educated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have educated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Eduqué ",
       "ENGLISH": "I educated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You educated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había educado",
       "ENGLISH": "I had educated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You educated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Educaré",
       "ENGLISH": "I will educate"

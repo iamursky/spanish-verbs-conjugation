@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Trabajo",
       "ENGLISH": "I work"
@@ -25,7 +25,7 @@
       "ENGLISH": "You work"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He trabajado",
       "ENGLISH": "I have worked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have worked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Trabajé",
       "ENGLISH": "I worked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You worked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había trabajado",
       "ENGLISH": "I had worked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You worked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Trabajaré",
       "ENGLISH": "I will work"

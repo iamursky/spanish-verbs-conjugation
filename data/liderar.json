@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Lidero",
       "ENGLISH": "I lead"
@@ -25,7 +25,7 @@
       "ENGLISH": "You lead"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He liderado",
       "ENGLISH": "I have led"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have led"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Lideré",
       "ENGLISH": "I led"
@@ -77,7 +77,7 @@
       "ENGLISH": "You led"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había liderado",
       "ENGLISH": "I had led"
@@ -129,7 +129,7 @@
       "ENGLISH": "You led"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Lideraré",
       "ENGLISH": "I will lead"

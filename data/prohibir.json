@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Prohíbo ",
       "ENGLISH": "I ban"
@@ -25,7 +25,7 @@
       "ENGLISH": "You ban"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He prohibido",
       "ENGLISH": "I have banned"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have banned"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Prohibí",
       "ENGLISH": "I banned"
@@ -77,7 +77,7 @@
       "ENGLISH": "You banned"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había prohibido",
       "ENGLISH": "I had banned"
@@ -129,7 +129,7 @@
       "ENGLISH": "You banned"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Prohibiré",
       "ENGLISH": "I will ban"

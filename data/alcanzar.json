@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Alcanzo",
       "ENGLISH": "I reach"
@@ -25,7 +25,7 @@
       "ENGLISH": "You reach"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He alcanzado",
       "ENGLISH": "I have reached"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have reached"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Alcancé ",
       "ENGLISH": "I reached"
@@ -77,7 +77,7 @@
       "ENGLISH": "You reached"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había alcanzado",
       "ENGLISH": "I had reached"
@@ -129,7 +129,7 @@
       "ENGLISH": "You reached"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Alcanzaré",
       "ENGLISH": "I will reach"

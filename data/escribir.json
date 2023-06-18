@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Escribo",
       "ENGLISH": "I write"
@@ -25,7 +25,7 @@
       "ENGLISH": "You write"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He escrito ",
       "ENGLISH": "I have written"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have written"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Escribí",
       "ENGLISH": "I wrote"
@@ -77,7 +77,7 @@
       "ENGLISH": "You wrote"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había escrito ",
       "ENGLISH": "I had written"
@@ -129,7 +129,7 @@
       "ENGLISH": "You wrote"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Escribiré",
       "ENGLISH": "I will write"

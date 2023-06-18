@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Escalo",
       "ENGLISH": "I climb"
@@ -25,7 +25,7 @@
       "ENGLISH": "You climb"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He escalado",
       "ENGLISH": "I have climbed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have climbed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Escalé",
       "ENGLISH": "I climbed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You climbed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había escalado",
       "ENGLISH": "I had climbed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You climbed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Escalaré",
       "ENGLISH": "I will climb"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Plancho",
       "ENGLISH": "I iron"
@@ -25,7 +25,7 @@
       "ENGLISH": "You iron"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He planchado",
       "ENGLISH": "I have ironed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have ironed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Planché",
       "ENGLISH": "I ironed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You ironed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había planchado",
       "ENGLISH": "I had ironed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You ironed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Plancharé",
       "ENGLISH": "I will iron"

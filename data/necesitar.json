@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Necesito",
       "ENGLISH": "I need"
@@ -25,7 +25,7 @@
       "ENGLISH": "You need"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He necesitado",
       "ENGLISH": "I have needed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have needed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Necesité",
       "ENGLISH": "I needed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You needed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había necesitado",
       "ENGLISH": "I had needed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You needed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Necesitaré",
       "ENGLISH": "I will need"

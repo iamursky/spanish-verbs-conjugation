@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Convierto ",
       "ENGLISH": "I convert"
@@ -25,7 +25,7 @@
       "ENGLISH": "You convert"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He convertido",
       "ENGLISH": "I have converted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have converted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Convertí",
       "ENGLISH": "I converted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You converted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había convertido",
       "ENGLISH": "I had converted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You converted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Convertiré",
       "ENGLISH": "I will convert"

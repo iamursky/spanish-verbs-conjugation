@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Descargo",
       "ENGLISH": "I download"
@@ -25,7 +25,7 @@
       "ENGLISH": "You download"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He descargado",
       "ENGLISH": "I have downloaded"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have downloaded"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Descargué ",
       "ENGLISH": "I downloaded"
@@ -77,7 +77,7 @@
       "ENGLISH": "You downloaded"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había descargado",
       "ENGLISH": "I had downloaded"
@@ -129,7 +129,7 @@
       "ENGLISH": "You downloaded"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Descargaré",
       "ENGLISH": "I will download"

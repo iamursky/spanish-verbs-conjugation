@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Corrijo ",
       "ENGLISH": "I correct"
@@ -25,7 +25,7 @@
       "ENGLISH": "You correct"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He corregido",
       "ENGLISH": "I have corrected"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have corrected"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Corregí",
       "ENGLISH": "I corrected"
@@ -77,7 +77,7 @@
       "ENGLISH": "You corrected"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había corregido",
       "ENGLISH": "I had corrected"
@@ -129,7 +129,7 @@
       "ENGLISH": "You corrected"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Corregiré",
       "ENGLISH": "I will correct"

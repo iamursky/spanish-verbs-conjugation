@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pido ",
       "ENGLISH": "I ask for"
@@ -25,7 +25,7 @@
       "ENGLISH": "You ask for"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pedido",
       "ENGLISH": "I have asked for"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have asked for"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pedí",
       "ENGLISH": "I asked for"
@@ -77,7 +77,7 @@
       "ENGLISH": "You asked for"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pedido",
       "ENGLISH": "I had asked for"
@@ -129,7 +129,7 @@
       "ENGLISH": "You asked for"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pediré",
       "ENGLISH": "I will ask for"

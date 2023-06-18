@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me echo",
       "ENGLISH": "I throw"
@@ -25,7 +25,7 @@
       "ENGLISH": "You throw"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he echado",
       "ENGLISH": "I have thrown"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have thrown"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me eché",
       "ENGLISH": "I threw"
@@ -77,7 +77,7 @@
       "ENGLISH": "You threw"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había echado",
       "ENGLISH": "I had thrown"
@@ -129,7 +129,7 @@
       "ENGLISH": "You threw"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me echaré",
       "ENGLISH": "I will throw"

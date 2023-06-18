@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Supongo ",
       "ENGLISH": "I suppose"
@@ -25,7 +25,7 @@
       "ENGLISH": "You suppose"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He supuesto ",
       "ENGLISH": "I have supposed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have supposed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Supuse ",
       "ENGLISH": "I supposed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You supposed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había supuesto ",
       "ENGLISH": "I had supposed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You supposed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Supondré ",
       "ENGLISH": "I will suppose"

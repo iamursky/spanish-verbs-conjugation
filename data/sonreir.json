@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sonrío ",
       "ENGLISH": "I smile"
@@ -25,7 +25,7 @@
       "ENGLISH": "You smile"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He sonreído ",
       "ENGLISH": "I have smiled"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have smiled"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Sonreí",
       "ENGLISH": "I smiled"
@@ -77,7 +77,7 @@
       "ENGLISH": "You smiled"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había sonreído ",
       "ENGLISH": "I had smiled"
@@ -129,7 +129,7 @@
       "ENGLISH": "You smiled"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Sonreiré",
       "ENGLISH": "I will smile"

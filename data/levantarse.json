@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me levanto",
       "ENGLISH": "I get up"
@@ -25,7 +25,7 @@
       "ENGLISH": "You get up"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he levantado",
       "ENGLISH": "I have gotten up"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have gotten up"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me levanté",
       "ENGLISH": "I got up"
@@ -77,7 +77,7 @@
       "ENGLISH": "You got up"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había levantado",
       "ENGLISH": "I had gotten up"
@@ -129,7 +129,7 @@
       "ENGLISH": "You got up"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me levantaré",
       "ENGLISH": "I will get up"

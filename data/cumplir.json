@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cumplo",
       "ENGLISH": "I carry out"
@@ -25,7 +25,7 @@
       "ENGLISH": "You carry out"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cumplido",
       "ENGLISH": "I have carried out"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have carried out"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cumplí",
       "ENGLISH": "I carried out"
@@ -77,7 +77,7 @@
       "ENGLISH": "You carried out"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cumplido",
       "ENGLISH": "I had carried out"
@@ -129,7 +129,7 @@
       "ENGLISH": "You carried out"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cumpliré",
       "ENGLISH": "I will carry out"

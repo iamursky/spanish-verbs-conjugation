@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Dependo",
       "ENGLISH": "I depend"
@@ -25,7 +25,7 @@
       "ENGLISH": "You depend"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dependido",
       "ENGLISH": "I have depended"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have depended"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dependí",
       "ENGLISH": "I depended"
@@ -77,7 +77,7 @@
       "ENGLISH": "You depended"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dependido",
       "ENGLISH": "I had depended"
@@ -129,7 +129,7 @@
       "ENGLISH": "You depended"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dependeré",
       "ENGLISH": "I will depend"

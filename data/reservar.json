@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Reservo",
       "ENGLISH": "I reserve"
@@ -25,7 +25,7 @@
       "ENGLISH": "You reserve"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He reservado",
       "ENGLISH": "I have reserved"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have reserved"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Reservé",
       "ENGLISH": "I reserved"
@@ -77,7 +77,7 @@
       "ENGLISH": "You reserved"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había reservado",
       "ENGLISH": "I had reserved"
@@ -129,7 +129,7 @@
       "ENGLISH": "You reserved"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Reservaré",
       "ENGLISH": "I will reserve"

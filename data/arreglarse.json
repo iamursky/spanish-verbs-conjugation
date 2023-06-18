@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me arreglo",
       "ENGLISH": "I get ready"
@@ -25,7 +25,7 @@
       "ENGLISH": "You get ready"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he arreglado",
       "ENGLISH": "I have gotten ready"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have gotten ready"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me arreglé",
       "ENGLISH": "I got ready"
@@ -77,7 +77,7 @@
       "ENGLISH": "You got ready"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había arreglado",
       "ENGLISH": "I had gotten ready"
@@ -129,7 +129,7 @@
       "ENGLISH": "You got ready"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me arreglaré",
       "ENGLISH": "I will get ready"

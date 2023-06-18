@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pinto",
       "ENGLISH": "I paint"
@@ -25,7 +25,7 @@
       "ENGLISH": "You paint"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pintado",
       "ENGLISH": "I have painted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have painted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pinté",
       "ENGLISH": "I painted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You painted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pintado",
       "ENGLISH": "I had painted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You painted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pintaré",
       "ENGLISH": "I will paint"

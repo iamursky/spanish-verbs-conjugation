@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Trato",
       "ENGLISH": "I treat"
@@ -25,7 +25,7 @@
       "ENGLISH": "You treat"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He tratado",
       "ENGLISH": "I have treated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have treated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Traté",
       "ENGLISH": "I treated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You treated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había tratado",
       "ENGLISH": "I had treated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You treated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Trataré",
       "ENGLISH": "I will treat"

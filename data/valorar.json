@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Valoro",
       "ENGLISH": "I value"
@@ -25,7 +25,7 @@
       "ENGLISH": "You value"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He valorado",
       "ENGLISH": "I have valued"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have valued"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Valoré",
       "ENGLISH": "I valued"
@@ -77,7 +77,7 @@
       "ENGLISH": "You valued"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había valorado",
       "ENGLISH": "I had valued"
@@ -129,7 +129,7 @@
       "ENGLISH": "You valued"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Valoraré",
       "ENGLISH": "I will value"

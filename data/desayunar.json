@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Desayuno",
       "ENGLISH": "I have breakfast"
@@ -25,7 +25,7 @@
       "ENGLISH": "You have breakfast"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He desayunado",
       "ENGLISH": "I have had breakfast"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have had breakfast"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Desayuné",
       "ENGLISH": "I had breakfast"
@@ -77,7 +77,7 @@
       "ENGLISH": "You had breakfast"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había desayunado",
       "ENGLISH": "I had had breakfast"
@@ -129,7 +129,7 @@
       "ENGLISH": "You had breakfast"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Desayunaré",
       "ENGLISH": "I will have breakfast"

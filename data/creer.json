@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Creo",
       "ENGLISH": "I believe"
@@ -25,7 +25,7 @@
       "ENGLISH": "You believe"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He creído ",
       "ENGLISH": "I have believed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have believed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Creí",
       "ENGLISH": "I believed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You believed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había creído ",
       "ENGLISH": "I had believed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You believed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Creeré",
       "ENGLISH": "I will believe"

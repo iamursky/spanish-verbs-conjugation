@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Copio",
       "ENGLISH": "I copy"
@@ -25,7 +25,7 @@
       "ENGLISH": "You copy"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He copiado",
       "ENGLISH": "I have copied"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have copied"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Copié",
       "ENGLISH": "I copied"
@@ -77,7 +77,7 @@
       "ENGLISH": "You copied"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había copiado",
       "ENGLISH": "I had copied"
@@ -129,7 +129,7 @@
       "ENGLISH": "You copied"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Copiaré",
       "ENGLISH": "I will copy"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Uso",
       "ENGLISH": "I use"
@@ -25,7 +25,7 @@
       "ENGLISH": "You use"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He usado",
       "ENGLISH": "I have used"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have used"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Usé",
       "ENGLISH": "I used"
@@ -77,7 +77,7 @@
       "ENGLISH": "You used"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había usado",
       "ENGLISH": "I had used"
@@ -129,7 +129,7 @@
       "ENGLISH": "You used"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Usaré",
       "ENGLISH": "I will use"

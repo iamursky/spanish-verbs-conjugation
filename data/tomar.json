@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Tomo",
       "ENGLISH": "I drink"
@@ -25,7 +25,7 @@
       "ENGLISH": "You drink"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He tomado",
       "ENGLISH": "I have drunk"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have drunk"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Tomé",
       "ENGLISH": "I drank"
@@ -77,7 +77,7 @@
       "ENGLISH": "You drank"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había tomado",
       "ENGLISH": "I had drunk"
@@ -129,7 +129,7 @@
       "ENGLISH": "You drank"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Tomaré",
       "ENGLISH": "I will drink"

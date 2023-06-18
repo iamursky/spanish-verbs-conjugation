@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Tardo",
       "ENGLISH": "I delay"
@@ -25,7 +25,7 @@
       "ENGLISH": "You delay"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He tardado",
       "ENGLISH": "I have delayed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have delayed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Tardé",
       "ENGLISH": "I delayed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You delayed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había tardado",
       "ENGLISH": "I had delayed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You delayed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Tardaré",
       "ENGLISH": "I will delay"

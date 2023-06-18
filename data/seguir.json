@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sigo ",
       "ENGLISH": "I follow"
@@ -25,7 +25,7 @@
       "ENGLISH": "You follow"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He seguido",
       "ENGLISH": "I have followed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have followed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Seguí",
       "ENGLISH": "I followed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You followed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había seguido",
       "ENGLISH": "I had followed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You followed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Seguiré",
       "ENGLISH": "I will follow"

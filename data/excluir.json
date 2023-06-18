@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Excluyo ",
       "ENGLISH": "I exclude"
@@ -25,7 +25,7 @@
       "ENGLISH": "You exclude"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He excluido",
       "ENGLISH": "I have excluded"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have excluded"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Excluí",
       "ENGLISH": "I excluded"
@@ -77,7 +77,7 @@
       "ENGLISH": "You excluded"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había excluido",
       "ENGLISH": "I had excluded"
@@ -129,7 +129,7 @@
       "ENGLISH": "You excluded"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Excluiré",
       "ENGLISH": "I will exclude"

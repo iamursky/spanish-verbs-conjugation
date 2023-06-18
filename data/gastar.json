@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Gasto",
       "ENGLISH": "I expend"
@@ -25,7 +25,7 @@
       "ENGLISH": "You expend"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He gastado",
       "ENGLISH": "I have expended"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have expended"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Gasté",
       "ENGLISH": "I expended"
@@ -77,7 +77,7 @@
       "ENGLISH": "You expended"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había gastado",
       "ENGLISH": "I had expended"
@@ -129,7 +129,7 @@
       "ENGLISH": "You expended"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Gastaré",
       "ENGLISH": "I will expend"

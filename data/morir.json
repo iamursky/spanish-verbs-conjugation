@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Muero ",
       "ENGLISH": "I die"
@@ -25,7 +25,7 @@
       "ENGLISH": "You die"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He muerto ",
       "ENGLISH": "I have died"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have died"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Morí",
       "ENGLISH": "I died"
@@ -77,7 +77,7 @@
       "ENGLISH": "You died"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había muerto ",
       "ENGLISH": "I had died"
@@ -129,7 +129,7 @@
       "ENGLISH": "You died"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Moriré",
       "ENGLISH": "I will die"

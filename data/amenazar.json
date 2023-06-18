@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Amenazo",
       "ENGLISH": "I threaten"
@@ -25,7 +25,7 @@
       "ENGLISH": "You threaten"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He amenazado",
       "ENGLISH": "I have threatened"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have threatened"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Amenacé ",
       "ENGLISH": "I threatened"
@@ -77,7 +77,7 @@
       "ENGLISH": "You threatened"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había amenazado",
       "ENGLISH": "I had threatened"
@@ -129,7 +129,7 @@
       "ENGLISH": "You threatened"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Amenazaré",
       "ENGLISH": "I will threaten"

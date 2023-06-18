@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me llamo",
       "ENGLISH": "I am named"
@@ -25,7 +25,7 @@
       "ENGLISH": "You are named"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he llamado",
       "ENGLISH": "I have been named"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have been named"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me llamé",
       "ENGLISH": "I was named"
@@ -77,7 +77,7 @@
       "ENGLISH": "You were named"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había llamado",
       "ENGLISH": "I had been named"
@@ -129,7 +129,7 @@
       "ENGLISH": "You were named"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me llamaré",
       "ENGLISH": "I will be named"

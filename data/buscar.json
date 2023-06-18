@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Busco",
       "ENGLISH": "I search"
@@ -25,7 +25,7 @@
       "ENGLISH": "You search"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He buscado",
       "ENGLISH": "I have searched"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have searched"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Busqué ",
       "ENGLISH": "I searched"
@@ -77,7 +77,7 @@
       "ENGLISH": "You searched"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había buscado",
       "ENGLISH": "I had searched"
@@ -129,7 +129,7 @@
       "ENGLISH": "You searched"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Buscaré",
       "ENGLISH": "I will search"

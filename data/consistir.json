@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Consisto",
       "ENGLISH": "I consist"
@@ -25,7 +25,7 @@
       "ENGLISH": "You consist"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He consistido",
       "ENGLISH": "I have consisted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have consisted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Consistí",
       "ENGLISH": "I consisted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You consisted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había consistido",
       "ENGLISH": "I had consisted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You consisted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Consistiré",
       "ENGLISH": "I will consist"

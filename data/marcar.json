@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Marco",
       "ENGLISH": "I mark"
@@ -25,7 +25,7 @@
       "ENGLISH": "You mark"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He marcado",
       "ENGLISH": "I have marked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have marked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Marqué ",
       "ENGLISH": "I marked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You marked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había marcado",
       "ENGLISH": "I had marked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You marked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Marcaré",
       "ENGLISH": "I will mark"

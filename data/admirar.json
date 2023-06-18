@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Admiro",
       "ENGLISH": "I admire"
@@ -25,7 +25,7 @@
       "ENGLISH": "You admire"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He admirado",
       "ENGLISH": "I have admired"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have admired"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Admiré",
       "ENGLISH": "I admired"
@@ -77,7 +77,7 @@
       "ENGLISH": "You admired"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había admirado",
       "ENGLISH": "I had admired"
@@ -129,7 +129,7 @@
       "ENGLISH": "You admired"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Admiraré",
       "ENGLISH": "I will admire"

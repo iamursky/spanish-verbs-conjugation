@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Escucho",
       "ENGLISH": "I listen"
@@ -25,7 +25,7 @@
       "ENGLISH": "You listen"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He escuchado",
       "ENGLISH": "I have listened"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have listened"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Escuché",
       "ENGLISH": "I listened"
@@ -77,7 +77,7 @@
       "ENGLISH": "You listened"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había escuchado",
       "ENGLISH": "I had listened"
@@ -129,7 +129,7 @@
       "ENGLISH": "You listened"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Escucharé",
       "ENGLISH": "I will listen"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me pruebo ",
       "ENGLISH": "I try on"
@@ -25,7 +25,7 @@
       "ENGLISH": "You try on"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he probado",
       "ENGLISH": "I have tried on"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have tried on"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me probé",
       "ENGLISH": "I tried on"
@@ -77,7 +77,7 @@
       "ENGLISH": "You tried on"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había probado",
       "ENGLISH": "I had tried on"
@@ -129,7 +129,7 @@
       "ENGLISH": "You tried on"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me probaré",
       "ENGLISH": "I will try on"

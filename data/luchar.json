@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Lucho",
       "ENGLISH": "I struggle"
@@ -25,7 +25,7 @@
       "ENGLISH": "You struggle"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He luchado",
       "ENGLISH": "I have struggled"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have struggled"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Luché",
       "ENGLISH": "I struggled"
@@ -77,7 +77,7 @@
       "ENGLISH": "You struggled"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había luchado",
       "ENGLISH": "I had struggled"
@@ -129,7 +129,7 @@
       "ENGLISH": "You struggled"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Lucharé",
       "ENGLISH": "I will struggle"

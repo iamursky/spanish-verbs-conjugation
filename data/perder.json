@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pierdo ",
       "ENGLISH": "I lose"
@@ -25,7 +25,7 @@
       "ENGLISH": "You lose"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He perdido",
       "ENGLISH": "I have lost"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have lost"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Perdí",
       "ENGLISH": "I lost"
@@ -77,7 +77,7 @@
       "ENGLISH": "You lost"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había perdido",
       "ENGLISH": "I had lost"
@@ -129,7 +129,7 @@
       "ENGLISH": "You lost"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Perderé",
       "ENGLISH": "I will lose"

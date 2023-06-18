@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Deseo",
       "ENGLISH": "I wish"
@@ -25,7 +25,7 @@
       "ENGLISH": "You wish"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He deseado",
       "ENGLISH": "I have wished"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have wished"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Deseé",
       "ENGLISH": "I wished"
@@ -77,7 +77,7 @@
       "ENGLISH": "You wished"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había deseado",
       "ENGLISH": "I had wished"
@@ -129,7 +129,7 @@
       "ENGLISH": "You wished"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Desearé",
       "ENGLISH": "I will wish"

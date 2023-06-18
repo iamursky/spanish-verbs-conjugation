@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Saludo",
       "ENGLISH": "I greet"
@@ -25,7 +25,7 @@
       "ENGLISH": "You greet"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He saludado",
       "ENGLISH": "I have greeted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have greeted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Saludé",
       "ENGLISH": "I greeted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You greeted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había saludado",
       "ENGLISH": "I had greeted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You greeted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Saludaré",
       "ENGLISH": "I will greet"

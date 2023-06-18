@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Vacío ",
       "ENGLISH": "I empty"
@@ -25,7 +25,7 @@
       "ENGLISH": "You empty"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He vaciado",
       "ENGLISH": "I have emptied"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have emptied"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Vacié",
       "ENGLISH": "I emptied"
@@ -77,7 +77,7 @@
       "ENGLISH": "You emptied"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había vaciado",
       "ENGLISH": "I had emptied"
@@ -129,7 +129,7 @@
       "ENGLISH": "You emptied"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Vaciaré",
       "ENGLISH": "I will empty"

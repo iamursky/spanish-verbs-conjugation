@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Persisto",
       "ENGLISH": "I persist"
@@ -25,7 +25,7 @@
       "ENGLISH": "You persist"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He persistido",
       "ENGLISH": "I have persisted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have persisted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Persistí",
       "ENGLISH": "I persisted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You persisted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había persistido",
       "ENGLISH": "I had persisted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You persisted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Persistiré",
       "ENGLISH": "I will persist"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Bailo",
       "ENGLISH": "I dance"
@@ -25,7 +25,7 @@
       "ENGLISH": "You dance"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He bailado",
       "ENGLISH": "I have danced"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have danced"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Bailé",
       "ENGLISH": "I danced"
@@ -77,7 +77,7 @@
       "ENGLISH": "You danced"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había bailado",
       "ENGLISH": "I had danced"
@@ -129,7 +129,7 @@
       "ENGLISH": "You danced"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Bailaré",
       "ENGLISH": "I will dance"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Ocurro",
       "ENGLISH": "I occur"
@@ -25,7 +25,7 @@
       "ENGLISH": "You occur"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He ocurrido",
       "ENGLISH": "I have occured"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have occured"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Ocurrí",
       "ENGLISH": "I occured"
@@ -77,7 +77,7 @@
       "ENGLISH": "You occured"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había ocurrido",
       "ENGLISH": "I had occured"
@@ -129,7 +129,7 @@
       "ENGLISH": "You occured"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Ocurriré",
       "ENGLISH": "I will occur"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Enseño",
       "ENGLISH": "I teach"
@@ -25,7 +25,7 @@
       "ENGLISH": "You teach"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He enseñado",
       "ENGLISH": "I have taught"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have taught"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Enseñé",
       "ENGLISH": "I taught"
@@ -77,7 +77,7 @@
       "ENGLISH": "You taught"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había enseñado",
       "ENGLISH": "I had taught"
@@ -129,7 +129,7 @@
       "ENGLISH": "You taught"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Enseñaré",
       "ENGLISH": "I will teach"

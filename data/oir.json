@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Oigo ",
       "ENGLISH": "I hear"
@@ -25,7 +25,7 @@
       "ENGLISH": "You hear"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He oído ",
       "ENGLISH": "I have heard"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have heard"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Oí",
       "ENGLISH": "I heard"
@@ -77,7 +77,7 @@
       "ENGLISH": "You heard"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había oído ",
       "ENGLISH": "I had heard"
@@ -129,7 +129,7 @@
       "ENGLISH": "You heard"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Oiré",
       "ENGLISH": "I will hear"

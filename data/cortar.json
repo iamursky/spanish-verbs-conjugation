@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Corto",
       "ENGLISH": "I cut"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cut"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cortado",
       "ENGLISH": "I have cut"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have cut"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Corté",
       "ENGLISH": "I cut"
@@ -77,7 +77,7 @@
       "ENGLISH": "You cut"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cortado",
       "ENGLISH": "I had cut"
@@ -129,7 +129,7 @@
       "ENGLISH": "You cut"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cortaré",
       "ENGLISH": "I will cut"

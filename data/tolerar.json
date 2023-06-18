@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Tolero",
       "ENGLISH": "I tolerate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You tolerate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He tolerado",
       "ENGLISH": "I have tolerated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have tolerated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Toleré",
       "ENGLISH": "I tolerated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You tolerated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había tolerado",
       "ENGLISH": "I had tolerated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You tolerated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Toleraré",
       "ENGLISH": "I will tolerate"

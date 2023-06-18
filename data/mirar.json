@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Miro",
       "ENGLISH": "I look"
@@ -25,7 +25,7 @@
       "ENGLISH": "You look"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He mirado",
       "ENGLISH": "I have looked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have looked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Miré",
       "ENGLISH": "I looked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You looked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había mirado",
       "ENGLISH": "I had looked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You looked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Miraré",
       "ENGLISH": "I will look"

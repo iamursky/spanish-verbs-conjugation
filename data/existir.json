@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Existo",
       "ENGLISH": "I exist"
@@ -25,7 +25,7 @@
       "ENGLISH": "You exist"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He existido",
       "ENGLISH": "I have existed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have existed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Existí",
       "ENGLISH": "I existed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You existed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había existido",
       "ENGLISH": "I had existed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You existed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Existiré",
       "ENGLISH": "I will exist"

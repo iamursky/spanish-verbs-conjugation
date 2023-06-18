@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me despido ",
       "ENGLISH": "I say goodbye"
@@ -25,7 +25,7 @@
       "ENGLISH": "You say goodbye"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he despedido",
       "ENGLISH": "I have said goodbye"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have said goodbye"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me despedí",
       "ENGLISH": "I said goodbye"
@@ -77,7 +77,7 @@
       "ENGLISH": "You said goodbye"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había despedido",
       "ENGLISH": "I had said goodbye"
@@ -129,7 +129,7 @@
       "ENGLISH": "You said goodbye"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me despediré",
       "ENGLISH": "I will say goodbye"

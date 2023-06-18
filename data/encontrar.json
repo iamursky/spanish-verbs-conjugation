@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Encuentro ",
       "ENGLISH": "I find"
@@ -25,7 +25,7 @@
       "ENGLISH": "You find"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He encontrado",
       "ENGLISH": "I have found"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have found"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Encontré",
       "ENGLISH": "I found"
@@ -77,7 +77,7 @@
       "ENGLISH": "You found"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había encontrado",
       "ENGLISH": "I had found"
@@ -129,7 +129,7 @@
       "ENGLISH": "You found"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Encontraré",
       "ENGLISH": "I will find"

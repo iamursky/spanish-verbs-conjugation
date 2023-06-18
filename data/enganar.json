@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Engaño",
       "ENGLISH": "I cheat"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cheat"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He engañado",
       "ENGLISH": "I have cheated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have cheated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Engañé",
       "ENGLISH": "I cheated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You cheated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había engañado",
       "ENGLISH": "I had cheated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You cheated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Engañaré",
       "ENGLISH": "I will cheat"

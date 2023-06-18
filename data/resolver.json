@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Resuelvo ",
       "ENGLISH": "I solve"
@@ -25,7 +25,7 @@
       "ENGLISH": "You solve"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He resuelto ",
       "ENGLISH": "I have solved"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have solved"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Resolví",
       "ENGLISH": "I solved"
@@ -77,7 +77,7 @@
       "ENGLISH": "You solved"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había resuelto ",
       "ENGLISH": "I had solved"
@@ -129,7 +129,7 @@
       "ENGLISH": "You solved"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Resolveré",
       "ENGLISH": "I will solve"

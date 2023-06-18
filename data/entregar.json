@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Entrego",
       "ENGLISH": "I deliver"
@@ -25,7 +25,7 @@
       "ENGLISH": "You deliver"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He entregado",
       "ENGLISH": "I have delivered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have delivered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Entregué ",
       "ENGLISH": "I delivered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You delivered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había entregado",
       "ENGLISH": "I had delivered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You delivered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Entregaré",
       "ENGLISH": "I will deliver"

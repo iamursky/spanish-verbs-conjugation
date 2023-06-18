@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Disculpo",
       "ENGLISH": "I excuse"
@@ -25,7 +25,7 @@
       "ENGLISH": "You excuse"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He disculpado",
       "ENGLISH": "I have excused"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have excused"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Disculpé",
       "ENGLISH": "I excused"
@@ -77,7 +77,7 @@
       "ENGLISH": "You excused"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había disculpado",
       "ENGLISH": "I had excused"
@@ -129,7 +129,7 @@
       "ENGLISH": "You excused"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Disculparé",
       "ENGLISH": "I will excuse"

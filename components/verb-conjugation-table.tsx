@@ -19,12 +19,13 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
         <tbody>
           {Object.keys(TENSE).map((tense) => (
             <tr key={tense}>
-              <td style={{ fontWeight: 600 }}>{TENSE_LABELS[tense as Tense]["ENGLISH"]}</td>
+              <td>
+                <div style={{ fontWeight: 600 }}>{TENSE_LABELS[tense as Tense]["SPANISH"]}</div>
+                <div className="english-tense">{TENSE_LABELS[tense as Tense]["ENGLISH"]}</div>
+              </td>
               {Object.keys(PRONOUN).map((pronoun) => (
                 <td key={`${tense}.${pronoun}`}>
-                  <div className="spanish-conjugation">
-                    {conjugations[tense as Tense][pronoun as Pronoun]["SPANISH"]}
-                  </div>
+                  <div>{conjugations[tense as Tense][pronoun as Pronoun]["SPANISH"]}</div>
                   <div className="english-conjugation">
                     {conjugations[tense as Tense][pronoun as Pronoun]["ENGLISH"]}
                   </div>
@@ -36,35 +37,21 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
       </table>
 
       <style jsx>{`
-        .tense {
-          margin-bottom: var(--spacing-5);
-        }
-
-        .tense-name {
-          font-size: 1.3rem;
-          font-weight: 700;
-          margin-bottom: var(--spacing-2);
-        }
-
         table {
-          width: 100%;
+          max-width: 100%;
           border-collapse: collapse;
-          border-spacing: 0;
-          display: block;
-          table-layout: fixed;
         }
 
         table th,
         table td {
           border: 1px solid var(--color-2);
           padding: var(--spacing-2);
-          vertical-align: top;
-          white-space: nowrap;
         }
 
+        .english-tense,
         .english-conjugation {
-          color: var(--color-4);
-          font-size: 0.85em;
+          color: var(--color-3);
+          font-size: 0.9em;
         }
       `}</style>
     </section>
@@ -99,40 +86,28 @@ const PRONOUN_LABELS: PronounLabels = {
 } as const;
 
 const TENSE_LABELS: TenseLabels = {
-  PRESENTE: {
-    SPANISH: "Presente",
+  PRESENT_SIMPLE: {
     ENGLISH: "Present Simple",
+    SPANISH: "Presente Indicativo",
   },
-  PERFECTO_COMPUESTO: {
-    SPANISH: "Perfecto Compuesto",
+  PRESENT_PERFECT: {
     ENGLISH: "Present Perfect",
+    SPANISH: "Pretérito Perfecto Compuesto",
   },
-  PRETERITO_INDEFINIDO: {
-    SPANISH: "Pretérito Indefinido",
+  PAST_SIMPLE: {
     ENGLISH: "Past Simple",
+    SPANISH: "Pretérito Perfecto Simple",
   },
-  PRETERITO_PLUSCUAMPERFECTO: {
-    SPANISH: "Pretérito Pluscuamperfecto",
+  PAST_PERFECT: {
     ENGLISH: "Past Perfect",
+    SPANISH: "Pretérito Pluscuamperfecto",
   },
-  FUTURO_SIMPLE: {
-    SPANISH: "Futuro Simple",
+  FUTURE_SIMPLE: {
     ENGLISH: "Future Simple",
+    SPANISH: "Futuro Simple",
   },
   CONDICIONAL_SIMPLE: {
-    SPANISH: "Condicional Simple",
     ENGLISH: "Conditional Simple",
+    SPANISH: "Condicional Simple",
   },
-  // CONDICIONAL_COMPUESTO: {
-  //   SPANISH: "Condicional Compuesto",
-  //   ENGLISH: "Conditional Perfect",
-  // },
-  // FUTURO_COMPUESTO: {
-  //   SPANISH: "Futuro Compuesto",
-  //   ENGLISH: "Future Perfect",
-  // },
-  // PRETERITO_IMPERFECTO: {
-  //   SPANISH: "Pretérito Imperfecto",
-  //   ENGLISH: "Past Progressive",
-  // },
 } as const;

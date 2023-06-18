@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Lamento",
       "ENGLISH": "I regret"
@@ -25,7 +25,7 @@
       "ENGLISH": "You regret"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He lamentado",
       "ENGLISH": "I have regretted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have regretted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Lamenté",
       "ENGLISH": "I regretted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You regretted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había lamentado",
       "ENGLISH": "I had regretted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You regretted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Lamentaré",
       "ENGLISH": "I will regret"

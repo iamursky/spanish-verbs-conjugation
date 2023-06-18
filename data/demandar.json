@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Demando",
       "ENGLISH": "I demand"
@@ -25,7 +25,7 @@
       "ENGLISH": "You demand"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He demandado",
       "ENGLISH": "I have demanded"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have demanded"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Demandé",
       "ENGLISH": "I demanded"
@@ -77,7 +77,7 @@
       "ENGLISH": "You demanded"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había demandado",
       "ENGLISH": "I had demanded"
@@ -129,7 +129,7 @@
       "ENGLISH": "You demanded"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Demandaré",
       "ENGLISH": "I will demand"

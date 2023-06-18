@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Duermo ",
       "ENGLISH": "I sleep"
@@ -25,7 +25,7 @@
       "ENGLISH": "You sleep"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dormido",
       "ENGLISH": "I have slept"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have slept"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dormí",
       "ENGLISH": "I slept"
@@ -77,7 +77,7 @@
       "ENGLISH": "You slept"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dormido",
       "ENGLISH": "I had slept"
@@ -129,7 +129,7 @@
       "ENGLISH": "You slept"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dormiré",
       "ENGLISH": "I will sleep"

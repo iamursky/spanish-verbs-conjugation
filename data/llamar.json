@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Llamo",
       "ENGLISH": "I call"
@@ -25,7 +25,7 @@
       "ENGLISH": "You call"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He llamado",
       "ENGLISH": "I have called"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have called"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Llamé",
       "ENGLISH": "I called"
@@ -77,7 +77,7 @@
       "ENGLISH": "You called"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había llamado",
       "ENGLISH": "I had called"
@@ -129,7 +129,7 @@
       "ENGLISH": "You called"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Llamaré",
       "ENGLISH": "I will call"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Actúo ",
       "ENGLISH": "I act"
@@ -25,7 +25,7 @@
       "ENGLISH": "You act"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He actuado",
       "ENGLISH": "I have acted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have acted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Actué",
       "ENGLISH": "I acted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You acted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había actuado",
       "ENGLISH": "I had acted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You acted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Actuaré",
       "ENGLISH": "I will act"

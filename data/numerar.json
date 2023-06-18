@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Numero",
       "ENGLISH": "I number"
@@ -25,7 +25,7 @@
       "ENGLISH": "You number"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He numerado",
       "ENGLISH": "I have numbered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have numbered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Numeré",
       "ENGLISH": "I numbered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You numbered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había numerado",
       "ENGLISH": "I had numbered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You numbered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Numeraré",
       "ENGLISH": "I will number"

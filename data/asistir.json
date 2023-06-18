@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Asisto",
       "ENGLISH": "I assist"
@@ -25,7 +25,7 @@
       "ENGLISH": "You assist"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He asistido",
       "ENGLISH": "I have assisted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have assisted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Asistí",
       "ENGLISH": "I assisted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You assisted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había asistido",
       "ENGLISH": "I had assisted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You assisted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Asistiré",
       "ENGLISH": "I will assist"

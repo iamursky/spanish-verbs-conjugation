@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Evacuo",
       "ENGLISH": "I evacuate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You evacuate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He evacuado",
       "ENGLISH": "I have evacuated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have evacuated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Evacué",
       "ENGLISH": "I evacuated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You evacuated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había evacuado",
       "ENGLISH": "I had evacuated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You evacuated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Evacuaré",
       "ENGLISH": "I will evacuate"

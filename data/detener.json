@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Detengo ",
       "ENGLISH": "I stop"
@@ -25,7 +25,7 @@
       "ENGLISH": "You stop"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He detenido",
       "ENGLISH": "I have stopped"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have stopped"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Detuve ",
       "ENGLISH": "I stopped"
@@ -77,7 +77,7 @@
       "ENGLISH": "You stopped"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había detenido",
       "ENGLISH": "I had stopped"
@@ -129,7 +129,7 @@
       "ENGLISH": "You stopped"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Detendré ",
       "ENGLISH": "I will stop"

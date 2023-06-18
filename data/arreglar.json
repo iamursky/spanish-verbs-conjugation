@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Arreglo",
       "ENGLISH": "I fix"
@@ -25,7 +25,7 @@
       "ENGLISH": "You fix"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He arreglado",
       "ENGLISH": "I have fixed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have fixed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Arreglé",
       "ENGLISH": "I fixed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You fixed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había arreglado",
       "ENGLISH": "I had fixed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You fixed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Arreglaré",
       "ENGLISH": "I will fix"

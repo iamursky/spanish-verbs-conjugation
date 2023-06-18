@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Ceno",
       "ENGLISH": "I dine"
@@ -25,7 +25,7 @@
       "ENGLISH": "You dine"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cenado",
       "ENGLISH": "I have dined"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have dined"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cené",
       "ENGLISH": "I dined"
@@ -77,7 +77,7 @@
       "ENGLISH": "You dined"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cenado",
       "ENGLISH": "I had dined"
@@ -129,7 +129,7 @@
       "ENGLISH": "You dined"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cenaré",
       "ENGLISH": "I will dine"

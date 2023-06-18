@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cubro",
       "ENGLISH": "I cover"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cover"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cubierto ",
       "ENGLISH": "I have covered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have covered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cubrí",
       "ENGLISH": "I covered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You covered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cubierto ",
       "ENGLISH": "I had covered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You covered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cubriré",
       "ENGLISH": "I will cover"

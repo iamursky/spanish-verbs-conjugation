@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Vengo ",
       "ENGLISH": "I come"
@@ -25,7 +25,7 @@
       "ENGLISH": "You come"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He venido",
       "ENGLISH": "I have come"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have come"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Vine ",
       "ENGLISH": "I came"
@@ -77,7 +77,7 @@
       "ENGLISH": "You came"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había venido",
       "ENGLISH": "I had come"
@@ -129,7 +129,7 @@
       "ENGLISH": "You came"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Vendré ",
       "ENGLISH": "I will come"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Protejo ",
       "ENGLISH": "I protect"
@@ -25,7 +25,7 @@
       "ENGLISH": "You protect"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He protegido",
       "ENGLISH": "I have protected"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have protected"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Protegí",
       "ENGLISH": "I protected"
@@ -77,7 +77,7 @@
       "ENGLISH": "You protected"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había protegido",
       "ENGLISH": "I had protected"
@@ -129,7 +129,7 @@
       "ENGLISH": "You protected"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Protegeré",
       "ENGLISH": "I will protect"

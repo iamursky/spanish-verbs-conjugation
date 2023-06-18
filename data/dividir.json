@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Divido",
       "ENGLISH": "I divide"
@@ -25,7 +25,7 @@
       "ENGLISH": "You divide"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dividido",
       "ENGLISH": "I have divided"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have divided"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dividí",
       "ENGLISH": "I divided"
@@ -77,7 +77,7 @@
       "ENGLISH": "You divided"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dividido",
       "ENGLISH": "I had divided"
@@ -129,7 +129,7 @@
       "ENGLISH": "You divided"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dividiré",
       "ENGLISH": "I will divide"

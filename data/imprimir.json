@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Imprimo",
       "ENGLISH": "I print"
@@ -25,7 +25,7 @@
       "ENGLISH": "You print"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He imprimido",
       "ENGLISH": "I have printed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have printed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Imprimí",
       "ENGLISH": "I printed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You printed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había imprimido",
       "ENGLISH": "I had printed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You printed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Imprimiré",
       "ENGLISH": "I will print"

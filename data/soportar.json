@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Soporto",
       "ENGLISH": "I put up with"
@@ -25,7 +25,7 @@
       "ENGLISH": "You put up with"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He soportado",
       "ENGLISH": "I have put up with"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have put up with"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Soporté",
       "ENGLISH": "I put up with"
@@ -77,7 +77,7 @@
       "ENGLISH": "You put up with"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había soportado",
       "ENGLISH": "I had put up with"
@@ -129,7 +129,7 @@
       "ENGLISH": "You put up with"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Soportaré",
       "ENGLISH": "I will put up with"

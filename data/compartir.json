@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Comparto",
       "ENGLISH": "I share"
@@ -25,7 +25,7 @@
       "ENGLISH": "You share"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He compartido",
       "ENGLISH": "I have shared"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have shared"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Compartí",
       "ENGLISH": "I shared"
@@ -77,7 +77,7 @@
       "ENGLISH": "You shared"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había compartido",
       "ENGLISH": "I had shared"
@@ -129,7 +129,7 @@
       "ENGLISH": "You shared"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Compartiré",
       "ENGLISH": "I will share"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Descanso",
       "ENGLISH": "I rest"
@@ -25,7 +25,7 @@
       "ENGLISH": "You rest"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He descansado",
       "ENGLISH": "I have rested"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have rested"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Descansé",
       "ENGLISH": "I rested"
@@ -77,7 +77,7 @@
       "ENGLISH": "You rested"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había descansado",
       "ENGLISH": "I had rested"
@@ -129,7 +129,7 @@
       "ENGLISH": "You rested"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Descansaré",
       "ENGLISH": "I will rest"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Dispongo ",
       "ENGLISH": "I prepare"
@@ -25,7 +25,7 @@
       "ENGLISH": "You prepare"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dispuesto ",
       "ENGLISH": "I have prepared"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have prepared"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dispuse ",
       "ENGLISH": "I prepared"
@@ -77,7 +77,7 @@
       "ENGLISH": "You prepared"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dispuesto ",
       "ENGLISH": "I had prepared"
@@ -129,7 +129,7 @@
       "ENGLISH": "You prepared"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dispondré ",
       "ENGLISH": "I will prepare"

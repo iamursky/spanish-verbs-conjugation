@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pongo ",
       "ENGLISH": "I put"
@@ -25,7 +25,7 @@
       "ENGLISH": "You put"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He puesto ",
       "ENGLISH": "I have put"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have put"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Puse ",
       "ENGLISH": "I put"
@@ -77,7 +77,7 @@
       "ENGLISH": "You put"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había puesto ",
       "ENGLISH": "I had put"
@@ -129,7 +129,7 @@
       "ENGLISH": "You put"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pondré ",
       "ENGLISH": "I will put"

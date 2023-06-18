@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Escondo",
       "ENGLISH": "I hide"
@@ -25,7 +25,7 @@
       "ENGLISH": "You hide"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He escondido",
       "ENGLISH": "I have hidden"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have hidden"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Escondí",
       "ENGLISH": "I hid"
@@ -77,7 +77,7 @@
       "ENGLISH": "You hid"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había escondido",
       "ENGLISH": "I had hidden"
@@ -129,7 +129,7 @@
       "ENGLISH": "You hid"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Esconderé",
       "ENGLISH": "I will hide"

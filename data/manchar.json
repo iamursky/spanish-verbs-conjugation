@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Mancho",
       "ENGLISH": "I stain"
@@ -25,7 +25,7 @@
       "ENGLISH": "You stain"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He manchado",
       "ENGLISH": "I have stained"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have stained"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Manché",
       "ENGLISH": "I stained"
@@ -77,7 +77,7 @@
       "ENGLISH": "You stained"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había manchado",
       "ENGLISH": "I had stained"
@@ -129,7 +129,7 @@
       "ENGLISH": "You stained"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Mancharé",
       "ENGLISH": "I will stain"

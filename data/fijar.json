@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Fijo",
       "ENGLISH": "I pin up"
@@ -25,7 +25,7 @@
       "ENGLISH": "You pin up"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He fijado",
       "ENGLISH": "I have pinned up"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have pinned up"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Fijé",
       "ENGLISH": "I pinned up"
@@ -77,7 +77,7 @@
       "ENGLISH": "You pinned up"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había fijado",
       "ENGLISH": "I had pinned up"
@@ -129,7 +129,7 @@
       "ENGLISH": "You pinned up"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Fijaré",
       "ENGLISH": "I will pin up"

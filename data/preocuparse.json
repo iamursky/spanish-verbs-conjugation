@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me preocupo",
       "ENGLISH": "I worry"
@@ -25,7 +25,7 @@
       "ENGLISH": "You worry"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he preocupado",
       "ENGLISH": "I have worried"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have worried"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me preocupé",
       "ENGLISH": "I worried"
@@ -77,7 +77,7 @@
       "ENGLISH": "You worried"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había preocupado",
       "ENGLISH": "I had worried"
@@ -129,7 +129,7 @@
       "ENGLISH": "You worried"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me preocuparé",
       "ENGLISH": "I will worry"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Resulto",
       "ENGLISH": "I become"
@@ -25,7 +25,7 @@
       "ENGLISH": "You become"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He resultado",
       "ENGLISH": "I have become"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have become"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Resulté",
       "ENGLISH": "I became"
@@ -77,7 +77,7 @@
       "ENGLISH": "You became"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había resultado",
       "ENGLISH": "I had become"
@@ -129,7 +129,7 @@
       "ENGLISH": "You became"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Resultaré",
       "ENGLISH": "I will become"

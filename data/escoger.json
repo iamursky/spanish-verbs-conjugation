@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Escojo ",
       "ENGLISH": "I choose"
@@ -25,7 +25,7 @@
       "ENGLISH": "You choose"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He escogido",
       "ENGLISH": "I have chosen"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have chosen"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Escogí",
       "ENGLISH": "I chose"
@@ -77,7 +77,7 @@
       "ENGLISH": "You chose"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había escogido",
       "ENGLISH": "I had chosen"
@@ -129,7 +129,7 @@
       "ENGLISH": "You chose"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Escogeré",
       "ENGLISH": "I will choose"

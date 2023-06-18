@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pronuncio",
       "ENGLISH": "I pronounce"
@@ -25,7 +25,7 @@
       "ENGLISH": "You pronounce"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pronunciado",
       "ENGLISH": "I have pronounced"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have pronounced"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pronuncié",
       "ENGLISH": "I pronounced"
@@ -77,7 +77,7 @@
       "ENGLISH": "You pronounced"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pronunciado",
       "ENGLISH": "I had pronounced"
@@ -129,7 +129,7 @@
       "ENGLISH": "You pronounced"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pronunciaré",
       "ENGLISH": "I will pronounce"

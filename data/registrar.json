@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Registro",
       "ENGLISH": "I register"
@@ -25,7 +25,7 @@
       "ENGLISH": "You register"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He registrado",
       "ENGLISH": "I have registered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have registered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Registré",
       "ENGLISH": "I registered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You registered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había registrado",
       "ENGLISH": "I had registered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You registered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Registraré",
       "ENGLISH": "I will register"

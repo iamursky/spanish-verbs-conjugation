@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Contacto",
       "ENGLISH": "I contact"
@@ -25,7 +25,7 @@
       "ENGLISH": "You contact"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He contactado",
       "ENGLISH": "I have contacted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have contacted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Contacté",
       "ENGLISH": "I contacted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You contacted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había contactado",
       "ENGLISH": "I had contacted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You contacted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Contactaré",
       "ENGLISH": "I will contact"

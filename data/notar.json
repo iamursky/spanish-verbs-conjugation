@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Noto",
       "ENGLISH": "I note"
@@ -25,7 +25,7 @@
       "ENGLISH": "You note"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He notado",
       "ENGLISH": "I have noted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have noted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Noté",
       "ENGLISH": "I noted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You noted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había notado",
       "ENGLISH": "I had noted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You noted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Notaré",
       "ENGLISH": "I will note"

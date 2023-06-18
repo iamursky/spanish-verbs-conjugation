@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Hago ",
       "ENGLISH": "I do"
@@ -25,7 +25,7 @@
       "ENGLISH": "You do"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He hecho ",
       "ENGLISH": "I have done"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have done"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Hice ",
       "ENGLISH": "I did"
@@ -77,7 +77,7 @@
       "ENGLISH": "You did"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había hecho ",
       "ENGLISH": "I had done"
@@ -129,7 +129,7 @@
       "ENGLISH": "You did"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Haré ",
       "ENGLISH": "I will do"

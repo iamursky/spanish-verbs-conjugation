@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Leo",
       "ENGLISH": "I read"
@@ -25,7 +25,7 @@
       "ENGLISH": "You read"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He leído ",
       "ENGLISH": "I have read"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have read"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Leí",
       "ENGLISH": "I read"
@@ -77,7 +77,7 @@
       "ENGLISH": "You read"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había leído ",
       "ENGLISH": "I had read"
@@ -129,7 +129,7 @@
       "ENGLISH": "You read"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Leeré",
       "ENGLISH": "I will read"

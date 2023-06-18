@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Devuelvo ",
       "ENGLISH": "I give back"
@@ -25,7 +25,7 @@
       "ENGLISH": "You give back"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He devuelto ",
       "ENGLISH": "I have given back"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have given back"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Devolví",
       "ENGLISH": "I gave back"
@@ -77,7 +77,7 @@
       "ENGLISH": "You gave back"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había devuelto ",
       "ENGLISH": "I had given back"
@@ -129,7 +129,7 @@
       "ENGLISH": "You gave back"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Devolveré",
       "ENGLISH": "I will give back"

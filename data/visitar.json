@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Visito",
       "ENGLISH": "I visit"
@@ -25,7 +25,7 @@
       "ENGLISH": "You visit"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He visitado",
       "ENGLISH": "I have visited"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have visited"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Visité",
       "ENGLISH": "I visited"
@@ -77,7 +77,7 @@
       "ENGLISH": "You visited"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había visitado",
       "ENGLISH": "I had visited"
@@ -129,7 +129,7 @@
       "ENGLISH": "You visited"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Visitaré",
       "ENGLISH": "I will visit"

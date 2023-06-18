@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Mato",
       "ENGLISH": "I kill"
@@ -25,7 +25,7 @@
       "ENGLISH": "You kill"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He matado",
       "ENGLISH": "I have killed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have killed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Maté",
       "ENGLISH": "I killed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You killed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había matado",
       "ENGLISH": "I had killed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You killed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Mataré",
       "ENGLISH": "I will kill"

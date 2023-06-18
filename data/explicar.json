@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Explico",
       "ENGLISH": "I explain"
@@ -25,7 +25,7 @@
       "ENGLISH": "You explain"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He explicado",
       "ENGLISH": "I have explained"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have explained"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Expliqué ",
       "ENGLISH": "I explained"
@@ -77,7 +77,7 @@
       "ENGLISH": "You explained"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había explicado",
       "ENGLISH": "I had explained"
@@ -129,7 +129,7 @@
       "ENGLISH": "You explained"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Explicaré",
       "ENGLISH": "I will explain"

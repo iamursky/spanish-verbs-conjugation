@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Origino",
       "ENGLISH": "I originate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You originate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He originado",
       "ENGLISH": "I have originated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have originated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Originé",
       "ENGLISH": "I originated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You originated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había originado",
       "ENGLISH": "I had originated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You originated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Originaré",
       "ENGLISH": "I will originate"

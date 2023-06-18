@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Propongo ",
       "ENGLISH": "I propose"
@@ -25,7 +25,7 @@
       "ENGLISH": "You propose"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He propuesto ",
       "ENGLISH": "I have proposed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have proposed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Propuse ",
       "ENGLISH": "I proposed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You proposed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había propuesto ",
       "ENGLISH": "I had proposed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You proposed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Propondré ",
       "ENGLISH": "I will propose"

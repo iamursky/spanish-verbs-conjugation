@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Determino",
       "ENGLISH": "I determine"
@@ -25,7 +25,7 @@
       "ENGLISH": "You determine"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He determinado",
       "ENGLISH": "I have determined"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have determined"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Determiné",
       "ENGLISH": "I determined"
@@ -77,7 +77,7 @@
       "ENGLISH": "You determined"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había determinado",
       "ENGLISH": "I had determined"
@@ -129,7 +129,7 @@
       "ENGLISH": "You determined"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Determinaré",
       "ENGLISH": "I will determine"

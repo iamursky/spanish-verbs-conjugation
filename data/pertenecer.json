@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pertenezco ",
       "ENGLISH": "I belong"
@@ -25,7 +25,7 @@
       "ENGLISH": "You belong"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pertenecido",
       "ENGLISH": "I have belonged"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have belonged"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pertenecí",
       "ENGLISH": "I belonged"
@@ -77,7 +77,7 @@
       "ENGLISH": "You belonged"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pertenecido",
       "ENGLISH": "I had belonged"
@@ -129,7 +129,7 @@
       "ENGLISH": "You belonged"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Perteneceré",
       "ENGLISH": "I will belong"

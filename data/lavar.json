@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Lavo",
       "ENGLISH": "I wash"
@@ -25,7 +25,7 @@
       "ENGLISH": "You wash"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He lavado",
       "ENGLISH": "I have washed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have washed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Lavé",
       "ENGLISH": "I washed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You washed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había lavado",
       "ENGLISH": "I had washed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You washed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Lavaré",
       "ENGLISH": "I will wash"

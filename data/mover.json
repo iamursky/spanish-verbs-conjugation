@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Muevo ",
       "ENGLISH": "I move"
@@ -25,7 +25,7 @@
       "ENGLISH": "You move"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He movido",
       "ENGLISH": "I have moved"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have moved"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Moví",
       "ENGLISH": "I moved"
@@ -77,7 +77,7 @@
       "ENGLISH": "You moved"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había movido",
       "ENGLISH": "I had moved"
@@ -129,7 +129,7 @@
       "ENGLISH": "You moved"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Moveré",
       "ENGLISH": "I will move"

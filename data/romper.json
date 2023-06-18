@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Rompo",
       "ENGLISH": "I break"
@@ -25,7 +25,7 @@
       "ENGLISH": "You break"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He roto ",
       "ENGLISH": "I have broken"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have broken"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Rompí",
       "ENGLISH": "I broke"
@@ -77,7 +77,7 @@
       "ENGLISH": "You broke"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había roto ",
       "ENGLISH": "I had broken"
@@ -129,7 +129,7 @@
       "ENGLISH": "You broke"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Romperé",
       "ENGLISH": "I will break"

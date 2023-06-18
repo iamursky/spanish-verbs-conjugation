@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Temo",
       "ENGLISH": "I fear"
@@ -25,7 +25,7 @@
       "ENGLISH": "You fear"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He temido",
       "ENGLISH": "I have feared"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have feared"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Temí",
       "ENGLISH": "I feared"
@@ -77,7 +77,7 @@
       "ENGLISH": "You feared"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había temido",
       "ENGLISH": "I had feared"
@@ -129,7 +129,7 @@
       "ENGLISH": "You feared"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Temeré",
       "ENGLISH": "I will fear"

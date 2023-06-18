@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Realizo",
       "ENGLISH": "I perform"
@@ -25,7 +25,7 @@
       "ENGLISH": "You perform"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He realizado",
       "ENGLISH": "I have performed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have performed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Realicé ",
       "ENGLISH": "I performed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You performed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había realizado",
       "ENGLISH": "I had performed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You performed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Realizaré",
       "ENGLISH": "I will perform"

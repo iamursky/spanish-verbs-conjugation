@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Peleo",
       "ENGLISH": "I fight"
@@ -25,7 +25,7 @@
       "ENGLISH": "You fight"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He peleado",
       "ENGLISH": "I have fought"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have fought"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Peleé",
       "ENGLISH": "I fought"
@@ -77,7 +77,7 @@
       "ENGLISH": "You fought"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había peleado",
       "ENGLISH": "I had fought"
@@ -129,7 +129,7 @@
       "ENGLISH": "You fought"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pelearé",
       "ENGLISH": "I will fight"

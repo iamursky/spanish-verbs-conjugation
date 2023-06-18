@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sé ",
       "ENGLISH": "I know"
@@ -25,7 +25,7 @@
       "ENGLISH": "You know"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He sabido",
       "ENGLISH": "I have known"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have known"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Supe ",
       "ENGLISH": "I knew"
@@ -77,7 +77,7 @@
       "ENGLISH": "You knew"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había sabido",
       "ENGLISH": "I had known"
@@ -129,7 +129,7 @@
       "ENGLISH": "You knew"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Sabré ",
       "ENGLISH": "I will know"

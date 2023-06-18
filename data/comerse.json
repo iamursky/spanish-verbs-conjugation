@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me como",
       "ENGLISH": "I consume"
@@ -25,7 +25,7 @@
       "ENGLISH": "You consume"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he comido",
       "ENGLISH": "I have consumed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have consumed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me comí",
       "ENGLISH": "I consumed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You consumed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había comido",
       "ENGLISH": "I had consumed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You consumed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me comeré",
       "ENGLISH": "I will consume"

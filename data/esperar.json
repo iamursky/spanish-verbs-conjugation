@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Espero",
       "ENGLISH": "I wait"
@@ -25,7 +25,7 @@
       "ENGLISH": "You wait"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He esperado",
       "ENGLISH": "I have waited"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have waited"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Esperé",
       "ENGLISH": "I waited"
@@ -77,7 +77,7 @@
       "ENGLISH": "You waited"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había esperado",
       "ENGLISH": "I had waited"
@@ -129,7 +129,7 @@
       "ENGLISH": "You waited"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Esperaré",
       "ENGLISH": "I will wait"

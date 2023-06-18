@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Veo ",
       "ENGLISH": "I see"
@@ -25,7 +25,7 @@
       "ENGLISH": "You see"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He visto ",
       "ENGLISH": "I have seen"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have seen"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Vi ",
       "ENGLISH": "I saw"
@@ -77,7 +77,7 @@
       "ENGLISH": "You saw"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había visto ",
       "ENGLISH": "I had seen"
@@ -129,7 +129,7 @@
       "ENGLISH": "You saw"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Veré",
       "ENGLISH": "I will see"

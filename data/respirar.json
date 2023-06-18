@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Respiro",
       "ENGLISH": "I breathe"
@@ -25,7 +25,7 @@
       "ENGLISH": "You breathe"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He respirado",
       "ENGLISH": "I have breathed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have breathed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Respiré",
       "ENGLISH": "I breathed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You breathed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había respirado",
       "ENGLISH": "I had breathed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You breathed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Respiraré",
       "ENGLISH": "I will breathe"

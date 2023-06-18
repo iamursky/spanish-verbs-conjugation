@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Presento",
       "ENGLISH": "I present"
@@ -25,7 +25,7 @@
       "ENGLISH": "You present"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He presentado",
       "ENGLISH": "I have presented"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have presented"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Presenté",
       "ENGLISH": "I presented"
@@ -77,7 +77,7 @@
       "ENGLISH": "You presented"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había presentado",
       "ENGLISH": "I had presented"
@@ -129,7 +129,7 @@
       "ENGLISH": "You presented"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Presentaré",
       "ENGLISH": "I will present"

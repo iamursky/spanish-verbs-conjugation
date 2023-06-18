@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me voy ",
       "ENGLISH": "I go"
@@ -25,7 +25,7 @@
       "ENGLISH": "You go"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he ido",
       "ENGLISH": "I have gone"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have gone"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me fui ",
       "ENGLISH": "I went"
@@ -77,7 +77,7 @@
       "ENGLISH": "You went"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había ido",
       "ENGLISH": "I had gone"
@@ -129,7 +129,7 @@
       "ENGLISH": "You went"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me iré",
       "ENGLISH": "I will go"

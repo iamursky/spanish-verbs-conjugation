@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Aparezco ",
       "ENGLISH": "I appear"
@@ -25,7 +25,7 @@
       "ENGLISH": "You appear"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He aparecido",
       "ENGLISH": "I have appeared"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have appeared"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Aparecí",
       "ENGLISH": "I appeared"
@@ -77,7 +77,7 @@
       "ENGLISH": "You appeared"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había aparecido",
       "ENGLISH": "I had appeared"
@@ -129,7 +129,7 @@
       "ENGLISH": "You appeared"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Apareceré",
       "ENGLISH": "I will appear"

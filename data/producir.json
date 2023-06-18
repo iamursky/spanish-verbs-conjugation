@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Produzco ",
       "ENGLISH": "I produce"
@@ -25,7 +25,7 @@
       "ENGLISH": "You produce"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He producido",
       "ENGLISH": "I have produced"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have produced"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Produje ",
       "ENGLISH": "I produced"
@@ -77,7 +77,7 @@
       "ENGLISH": "You produced"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había producido",
       "ENGLISH": "I had produced"
@@ -129,7 +129,7 @@
       "ENGLISH": "You produced"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Produciré",
       "ENGLISH": "I will produce"

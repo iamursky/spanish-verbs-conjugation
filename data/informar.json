@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Informo",
       "ENGLISH": "I inform"
@@ -25,7 +25,7 @@
       "ENGLISH": "You inform"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He informado",
       "ENGLISH": "I have informed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have informed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Informé",
       "ENGLISH": "I informed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You informed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había informado",
       "ENGLISH": "I had informed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You informed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Informaré",
       "ENGLISH": "I will inform"

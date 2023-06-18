@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Disfruto",
       "ENGLISH": "I enjoy"
@@ -25,7 +25,7 @@
       "ENGLISH": "You enjoy"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He disfrutado",
       "ENGLISH": "I have enjoyed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have enjoyed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Disfruté",
       "ENGLISH": "I enjoyed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You enjoyed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había disfrutado",
       "ENGLISH": "I had enjoyed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You enjoyed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Disfrutaré",
       "ENGLISH": "I will enjoy"

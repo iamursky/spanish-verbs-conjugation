@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sufro",
       "ENGLISH": "I suffer"
@@ -25,7 +25,7 @@
       "ENGLISH": "You suffer"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He sufrido",
       "ENGLISH": "I have suffered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have suffered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Sufrí",
       "ENGLISH": "I suffered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You suffered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había sufrido",
       "ENGLISH": "I had suffered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You suffered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Sufriré",
       "ENGLISH": "I will suffer"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Salgo ",
       "ENGLISH": "I leave"
@@ -25,7 +25,7 @@
       "ENGLISH": "You leave"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He salido",
       "ENGLISH": "I have left"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have left"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Salí",
       "ENGLISH": "I left"
@@ -77,7 +77,7 @@
       "ENGLISH": "You left"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había salido",
       "ENGLISH": "I had left"
@@ -129,7 +129,7 @@
       "ENGLISH": "You left"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Saldré ",
       "ENGLISH": "I will leave"

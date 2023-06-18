@@ -17,7 +17,7 @@ type PageParams = {
 
 export default function Page({ verb, conjugations }: PageProps) {
   return (
-    <main className="container">
+    <main role="main">
       <h1 className="spanish">{verb.SPANISH}</h1>
       <h2 className="english">{verb.ENGLISH}</h2>
 
@@ -26,9 +26,10 @@ export default function Page({ verb, conjugations }: PageProps) {
       </div>
 
       <style jsx>{`
-        .container {
-          padding-top: var(--spacing-5);
-          padding-bottom: var(--spacing-5);
+        @media screen {
+          main {
+            padding: var(--spacing-3);
+          }
         }
 
         .spanish {
@@ -40,7 +41,7 @@ export default function Page({ verb, conjugations }: PageProps) {
         }
 
         .table {
-          margin-top: var(--spacing-5);
+          margin-top: var(--spacing-3);
         }
       `}</style>
     </main>

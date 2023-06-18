@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Imagino",
       "ENGLISH": "I imagine"
@@ -25,7 +25,7 @@
       "ENGLISH": "You imagine"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He imaginado",
       "ENGLISH": "I have imagined"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have imagined"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Imaginé",
       "ENGLISH": "I imagined"
@@ -77,7 +77,7 @@
       "ENGLISH": "You imagined"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había imaginado",
       "ENGLISH": "I had imagined"
@@ -129,7 +129,7 @@
       "ENGLISH": "You imagined"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Imaginaré",
       "ENGLISH": "I will imagine"

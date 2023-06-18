@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Despierto ",
       "ENGLISH": "I wake"
@@ -25,7 +25,7 @@
       "ENGLISH": "You wake"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He despertado",
       "ENGLISH": "I have woken"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have woken"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Desperté",
       "ENGLISH": "I woke"
@@ -77,7 +77,7 @@
       "ENGLISH": "You woke"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había despertado",
       "ENGLISH": "I had woken"
@@ -129,7 +129,7 @@
       "ENGLISH": "You woke"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Despertaré",
       "ENGLISH": "I will wake"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Formo",
       "ENGLISH": "I form"
@@ -25,7 +25,7 @@
       "ENGLISH": "You form"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He formado",
       "ENGLISH": "I have formed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have formed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Formé",
       "ENGLISH": "I formed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You formed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había formado",
       "ENGLISH": "I had formed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You formed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Formaré",
       "ENGLISH": "I will form"

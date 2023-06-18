@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Paso",
       "ENGLISH": "I pass"
@@ -25,7 +25,7 @@
       "ENGLISH": "You pass"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pasado",
       "ENGLISH": "I have passed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have passed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pasé",
       "ENGLISH": "I passed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You passed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pasado",
       "ENGLISH": "I had passed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You passed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pasaré",
       "ENGLISH": "I will pass"

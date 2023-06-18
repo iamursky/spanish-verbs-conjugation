@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Dibujo",
       "ENGLISH": "I draw"
@@ -25,7 +25,7 @@
       "ENGLISH": "You draw"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dibujado",
       "ENGLISH": "I have drawn"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have drawn"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dibujé",
       "ENGLISH": "I drew"
@@ -77,7 +77,7 @@
       "ENGLISH": "You drew"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dibujado",
       "ENGLISH": "I had drawn"
@@ -129,7 +129,7 @@
       "ENGLISH": "You drew"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dibujaré",
       "ENGLISH": "I will draw"

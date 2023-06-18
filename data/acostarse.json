@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me acuesto ",
       "ENGLISH": "I go to bed"
@@ -25,7 +25,7 @@
       "ENGLISH": "You go to bed"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he acostado",
       "ENGLISH": "I have gone to bed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have gone to bed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me acosté",
       "ENGLISH": "I went to bed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You went to bed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había acostado",
       "ENGLISH": "I had gone to bed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You went to bed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me acostaré",
       "ENGLISH": "I will go to bed"

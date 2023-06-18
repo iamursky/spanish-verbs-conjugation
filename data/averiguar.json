@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Averiguo",
       "ENGLISH": "I find out"
@@ -25,7 +25,7 @@
       "ENGLISH": "You find out"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He averiguado",
       "ENGLISH": "I have found out"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have found out"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Averigüé ",
       "ENGLISH": "I found out"
@@ -77,7 +77,7 @@
       "ENGLISH": "You found out"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había averiguado",
       "ENGLISH": "I had found out"
@@ -129,7 +129,7 @@
       "ENGLISH": "You found out"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Averiguaré",
       "ENGLISH": "I will find out"

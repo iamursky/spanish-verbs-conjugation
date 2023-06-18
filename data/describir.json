@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Describo",
       "ENGLISH": "I describe"
@@ -25,7 +25,7 @@
       "ENGLISH": "You describe"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He descrito ",
       "ENGLISH": "I have described"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have described"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Describí",
       "ENGLISH": "I described"
@@ -77,7 +77,7 @@
       "ENGLISH": "You described"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había descrito ",
       "ENGLISH": "I had described"
@@ -129,7 +129,7 @@
       "ENGLISH": "You described"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Describiré",
       "ENGLISH": "I will describe"

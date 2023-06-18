@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Empeoro",
       "ENGLISH": "I worsen"
@@ -25,7 +25,7 @@
       "ENGLISH": "You worsen"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He empeorado",
       "ENGLISH": "I have worsened"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have worsened"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Empeoré",
       "ENGLISH": "I worsened"
@@ -77,7 +77,7 @@
       "ENGLISH": "You worsened"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había empeorado",
       "ENGLISH": "I had worsened"
@@ -129,7 +129,7 @@
       "ENGLISH": "You worsened"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Empeoraré",
       "ENGLISH": "I will worsen"

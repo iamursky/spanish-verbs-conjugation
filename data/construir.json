@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Construyo ",
       "ENGLISH": "I build"
@@ -25,7 +25,7 @@
       "ENGLISH": "You build"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He construido",
       "ENGLISH": "I have built"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have built"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Construí",
       "ENGLISH": "I built"
@@ -77,7 +77,7 @@
       "ENGLISH": "You built"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había construido",
       "ENGLISH": "I had built"
@@ -129,7 +129,7 @@
       "ENGLISH": "You built"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Construiré",
       "ENGLISH": "I will build"

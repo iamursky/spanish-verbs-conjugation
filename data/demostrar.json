@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Demuestro ",
       "ENGLISH": "I demonstrate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You demonstrate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He demostrado",
       "ENGLISH": "I have demonstrated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have demonstrated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Demostré",
       "ENGLISH": "I demonstrated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You demonstrated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había demostrado",
       "ENGLISH": "I had demonstrated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You demonstrated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Demostraré",
       "ENGLISH": "I will demonstrate"

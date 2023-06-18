@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Desconecto",
       "ENGLISH": "I disconnect"
@@ -25,7 +25,7 @@
       "ENGLISH": "You disconnect"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He desconectado",
       "ENGLISH": "I have disconnected"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have disconnected"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Desconecté",
       "ENGLISH": "I disconnected"
@@ -77,7 +77,7 @@
       "ENGLISH": "You disconnected"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había desconectado",
       "ENGLISH": "I had disconnected"
@@ -129,7 +129,7 @@
       "ENGLISH": "You disconnected"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Desconectaré",
       "ENGLISH": "I will disconnect"

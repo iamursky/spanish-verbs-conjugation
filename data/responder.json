@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Respondo",
       "ENGLISH": "I answer"
@@ -25,7 +25,7 @@
       "ENGLISH": "You answer"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He respondido",
       "ENGLISH": "I have answered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have answered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Respondí",
       "ENGLISH": "I answered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You answered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había respondido",
       "ENGLISH": "I had answered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You answered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Responderé",
       "ENGLISH": "I will answer"

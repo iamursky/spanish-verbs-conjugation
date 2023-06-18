@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Quiero ",
       "ENGLISH": "I want"
@@ -25,7 +25,7 @@
       "ENGLISH": "You want"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He querido",
       "ENGLISH": "I have wanted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have wanted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Quise ",
       "ENGLISH": "I wanted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You wanted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había querido",
       "ENGLISH": "I had wanted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You wanted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Querré ",
       "ENGLISH": "I will want"

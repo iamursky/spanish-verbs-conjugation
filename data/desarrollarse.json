@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me desarrollo",
       "ENGLISH": "I develop"
@@ -25,7 +25,7 @@
       "ENGLISH": "You develop"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he desarrollado",
       "ENGLISH": "I have developed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have developed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me desarrollé",
       "ENGLISH": "I developed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You developed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había desarrollado",
       "ENGLISH": "I had developed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You developed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me desarrollaré",
       "ENGLISH": "I will develop"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Compruebo ",
       "ENGLISH": "I check"
@@ -25,7 +25,7 @@
       "ENGLISH": "You check"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He comprobado",
       "ENGLISH": "I have checked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have checked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Comprobé",
       "ENGLISH": "I checked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You checked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había comprobado",
       "ENGLISH": "I had checked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You checked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Comprobaré",
       "ENGLISH": "I will check"

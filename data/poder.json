@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Puedo ",
       "ENGLISH": "I am able to"
@@ -25,7 +25,7 @@
       "ENGLISH": "You are able to"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He podido",
       "ENGLISH": "I have been able to"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have been able to"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pude ",
       "ENGLISH": "I was able to"
@@ -77,7 +77,7 @@
       "ENGLISH": "You were able to"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había podido",
       "ENGLISH": "I had been able to"
@@ -129,7 +129,7 @@
       "ENGLISH": "You were able to"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Podré ",
       "ENGLISH": "I will be able to"

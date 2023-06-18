@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me acerco",
       "ENGLISH": "I approach"
@@ -25,7 +25,7 @@
       "ENGLISH": "You approach"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he acercado",
       "ENGLISH": "I have approached"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have approached"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me acerqué ",
       "ENGLISH": "I approached"
@@ -77,7 +77,7 @@
       "ENGLISH": "You approached"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había acercado",
       "ENGLISH": "I had approached"
@@ -129,7 +129,7 @@
       "ENGLISH": "You approached"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me acercaré",
       "ENGLISH": "I will approach"

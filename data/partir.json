@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Parto",
       "ENGLISH": "I split"
@@ -25,7 +25,7 @@
       "ENGLISH": "You split"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He partido",
       "ENGLISH": "I have split"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have split"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Partí",
       "ENGLISH": "I split"
@@ -77,7 +77,7 @@
       "ENGLISH": "You split"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había partido",
       "ENGLISH": "I had split"
@@ -129,7 +129,7 @@
       "ENGLISH": "You split"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Partiré",
       "ENGLISH": "I will split"

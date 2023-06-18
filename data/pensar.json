@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pienso ",
       "ENGLISH": "I think"
@@ -25,7 +25,7 @@
       "ENGLISH": "You think"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pensado",
       "ENGLISH": "I have thought"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have thought"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pensé",
       "ENGLISH": "I thought"
@@ -77,7 +77,7 @@
       "ENGLISH": "You thought"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pensado",
       "ENGLISH": "I had thought"
@@ -129,7 +129,7 @@
       "ENGLISH": "You thought"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pensaré",
       "ENGLISH": "I will think"

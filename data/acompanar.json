@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Acompaño",
       "ENGLISH": "I accompany"
@@ -25,7 +25,7 @@
       "ENGLISH": "You accompany"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He acompañado",
       "ENGLISH": "I have accompanied"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have accompanied"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Acompañé",
       "ENGLISH": "I accompanied"
@@ -77,7 +77,7 @@
       "ENGLISH": "You accompanied"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había acompañado",
       "ENGLISH": "I had accompanied"
@@ -129,7 +129,7 @@
       "ENGLISH": "You accompanied"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Acompañaré",
       "ENGLISH": "I will accompany"

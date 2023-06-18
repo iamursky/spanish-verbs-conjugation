@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Provoco",
       "ENGLISH": "I provoke"
@@ -25,7 +25,7 @@
       "ENGLISH": "You provoke"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He provocado",
       "ENGLISH": "I have provoked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have provoked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Provoqué ",
       "ENGLISH": "I provoked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You provoked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había provocado",
       "ENGLISH": "I had provoked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You provoked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Provocaré",
       "ENGLISH": "I will provoke"

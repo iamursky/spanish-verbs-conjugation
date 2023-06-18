@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Divierto ",
       "ENGLISH": "I amuse"
@@ -25,7 +25,7 @@
       "ENGLISH": "You amuse"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He divertido",
       "ENGLISH": "I have amused"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have amused"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Divertí",
       "ENGLISH": "I amused"
@@ -77,7 +77,7 @@
       "ENGLISH": "You amused"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había divertido",
       "ENGLISH": "I had amused"
@@ -129,7 +129,7 @@
       "ENGLISH": "You amused"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Divertiré",
       "ENGLISH": "I will amuse"

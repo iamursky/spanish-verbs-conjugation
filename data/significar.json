@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Significo",
       "ENGLISH": "I mean"
@@ -25,7 +25,7 @@
       "ENGLISH": "You mean"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He significado",
       "ENGLISH": "I have meant"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have meant"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Signifiqué ",
       "ENGLISH": "I meant"
@@ -77,7 +77,7 @@
       "ENGLISH": "You meant"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había significado",
       "ENGLISH": "I had meant"
@@ -129,7 +129,7 @@
       "ENGLISH": "You meant"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Significaré",
       "ENGLISH": "I will mean"

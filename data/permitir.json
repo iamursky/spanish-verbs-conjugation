@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Permito",
       "ENGLISH": "I allow"
@@ -25,7 +25,7 @@
       "ENGLISH": "You allow"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He permitido",
       "ENGLISH": "I have allowed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have allowed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Permití",
       "ENGLISH": "I allowed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You allowed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había permitido",
       "ENGLISH": "I had allowed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You allowed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Permitiré",
       "ENGLISH": "I will allow"

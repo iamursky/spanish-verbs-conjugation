@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sueno ",
       "ENGLISH": "I sound"
@@ -25,7 +25,7 @@
       "ENGLISH": "You sound"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He sonado",
       "ENGLISH": "I have sounded"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have sounded"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Soné",
       "ENGLISH": "I sounded"
@@ -77,7 +77,7 @@
       "ENGLISH": "You sounded"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había sonado",
       "ENGLISH": "I had sounded"
@@ -129,7 +129,7 @@
       "ENGLISH": "You sounded"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Sonaré",
       "ENGLISH": "I will sound"

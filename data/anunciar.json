@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Anuncio",
       "ENGLISH": "I announce"
@@ -25,7 +25,7 @@
       "ENGLISH": "You announce"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He anunciado",
       "ENGLISH": "I have announced"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have announced"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Anuncié",
       "ENGLISH": "I announced"
@@ -77,7 +77,7 @@
       "ENGLISH": "You announced"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había anunciado",
       "ENGLISH": "I had announced"
@@ -129,7 +129,7 @@
       "ENGLISH": "You announced"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Anunciaré",
       "ENGLISH": "I will announce"

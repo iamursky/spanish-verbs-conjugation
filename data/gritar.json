@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Grito",
       "ENGLISH": "I shout"
@@ -25,7 +25,7 @@
       "ENGLISH": "You shout"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He gritado",
       "ENGLISH": "I have shouted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have shouted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Grité",
       "ENGLISH": "I shouted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You shouted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había gritado",
       "ENGLISH": "I had shouted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You shouted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Gritaré",
       "ENGLISH": "I will shout"

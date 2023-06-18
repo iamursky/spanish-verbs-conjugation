@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Fabrico",
       "ENGLISH": "I manufacture"
@@ -25,7 +25,7 @@
       "ENGLISH": "You manufacture"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He fabricado",
       "ENGLISH": "I have manufactured"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have manufactured"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Fabriqué ",
       "ENGLISH": "I manufactured"
@@ -77,7 +77,7 @@
       "ENGLISH": "You manufactured"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había fabricado",
       "ENGLISH": "I had manufactured"
@@ -129,7 +129,7 @@
       "ENGLISH": "You manufactured"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Fabricaré",
       "ENGLISH": "I will manufacture"

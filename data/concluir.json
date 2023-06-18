@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Concluyo ",
       "ENGLISH": "I conclude"
@@ -25,7 +25,7 @@
       "ENGLISH": "You conclude"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He concluido",
       "ENGLISH": "I have concluded"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have concluded"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Concluí",
       "ENGLISH": "I concluded"
@@ -77,7 +77,7 @@
       "ENGLISH": "You concluded"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había concluido",
       "ENGLISH": "I had concluded"
@@ -129,7 +129,7 @@
       "ENGLISH": "You concluded"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Concluiré",
       "ENGLISH": "I will conclude"

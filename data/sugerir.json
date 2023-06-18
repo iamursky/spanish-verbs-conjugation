@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Sugiero ",
       "ENGLISH": "I suggest"
@@ -25,7 +25,7 @@
       "ENGLISH": "You suggest"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He sugerido",
       "ENGLISH": "I have suggested"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have suggested"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Sugerí",
       "ENGLISH": "I suggested"
@@ -77,7 +77,7 @@
       "ENGLISH": "You suggested"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había sugerido",
       "ENGLISH": "I had suggested"
@@ -129,7 +129,7 @@
       "ENGLISH": "You suggested"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Sugeriré",
       "ENGLISH": "I will suggest"

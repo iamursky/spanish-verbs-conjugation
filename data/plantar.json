@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Planto",
       "ENGLISH": "I plant"
@@ -25,7 +25,7 @@
       "ENGLISH": "You plant"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He plantado",
       "ENGLISH": "I have planted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have planted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Planté",
       "ENGLISH": "I planted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You planted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había plantado",
       "ENGLISH": "I had planted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You planted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Plantaré",
       "ENGLISH": "I will plant"

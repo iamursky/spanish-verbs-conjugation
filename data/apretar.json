@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Aprieto ",
       "ENGLISH": "I tighten"
@@ -25,7 +25,7 @@
       "ENGLISH": "You tighten"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He apretado",
       "ENGLISH": "I have tightened"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have tightened"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Apreté",
       "ENGLISH": "I tightened"
@@ -77,7 +77,7 @@
       "ENGLISH": "You tightened"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había apretado",
       "ENGLISH": "I had tightened"
@@ -129,7 +129,7 @@
       "ENGLISH": "You tightened"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Apretaré",
       "ENGLISH": "I will tighten"

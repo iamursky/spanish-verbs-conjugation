@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Llego",
       "ENGLISH": "I arrive"
@@ -25,7 +25,7 @@
       "ENGLISH": "You arrive"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He llegado",
       "ENGLISH": "I have arrived"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have arrived"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Llegué ",
       "ENGLISH": "I arrived"
@@ -77,7 +77,7 @@
       "ENGLISH": "You arrived"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había llegado",
       "ENGLISH": "I had arrived"
@@ -129,7 +129,7 @@
       "ENGLISH": "You arrived"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Llegaré",
       "ENGLISH": "I will arrive"

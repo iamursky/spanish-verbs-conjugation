@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Robo",
       "ENGLISH": "I steal"
@@ -25,7 +25,7 @@
       "ENGLISH": "You steal"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He robado",
       "ENGLISH": "I have stolen"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have stolen"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Robé",
       "ENGLISH": "I stole"
@@ -77,7 +77,7 @@
       "ENGLISH": "You stole"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había robado",
       "ENGLISH": "I had stolen"
@@ -129,7 +129,7 @@
       "ENGLISH": "You stole"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Robaré",
       "ENGLISH": "I will steal"

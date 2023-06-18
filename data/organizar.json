@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Organizo",
       "ENGLISH": "I organise"
@@ -25,7 +25,7 @@
       "ENGLISH": "You organise"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He organizado",
       "ENGLISH": "I have organised"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have organised"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Organicé ",
       "ENGLISH": "I organised"
@@ -77,7 +77,7 @@
       "ENGLISH": "You organised"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había organizado",
       "ENGLISH": "I had organised"
@@ -129,7 +129,7 @@
       "ENGLISH": "You organised"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Organizaré",
       "ENGLISH": "I will organise"

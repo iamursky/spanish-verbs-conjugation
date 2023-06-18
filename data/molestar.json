@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Molesto",
       "ENGLISH": "I bother"
@@ -25,7 +25,7 @@
       "ENGLISH": "You bother"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He molestado",
       "ENGLISH": "I have bothered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have bothered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Molesté",
       "ENGLISH": "I bothered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You bothered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había molestado",
       "ENGLISH": "I had bothered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You bothered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Molestaré",
       "ENGLISH": "I will bother"

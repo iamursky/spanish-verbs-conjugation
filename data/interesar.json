@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Intereso",
       "ENGLISH": "I interest"
@@ -25,7 +25,7 @@
       "ENGLISH": "You interest"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He interesado",
       "ENGLISH": "I have interested"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have interested"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Interesé",
       "ENGLISH": "I interested"
@@ -77,7 +77,7 @@
       "ENGLISH": "You interested"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había interesado",
       "ENGLISH": "I had interested"
@@ -129,7 +129,7 @@
       "ENGLISH": "You interested"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Interesaré",
       "ENGLISH": "I will interest"

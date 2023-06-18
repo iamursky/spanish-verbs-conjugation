@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Abandono",
       "ENGLISH": "I abandon"
@@ -25,7 +25,7 @@
       "ENGLISH": "You abandon"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He abandonado",
       "ENGLISH": "I have abandoned"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have abandoned"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Abandoné",
       "ENGLISH": "I abandoned"
@@ -77,7 +77,7 @@
       "ENGLISH": "You abandoned"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había abandonado",
       "ENGLISH": "I had abandoned"
@@ -129,7 +129,7 @@
       "ENGLISH": "You abandoned"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Abandonaré",
       "ENGLISH": "I will abandon"

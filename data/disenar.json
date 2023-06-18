@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Diseño",
       "ENGLISH": "I design"
@@ -25,7 +25,7 @@
       "ENGLISH": "You design"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He diseñado",
       "ENGLISH": "I have designed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have designed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Diseñé",
       "ENGLISH": "I designed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You designed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había diseñado",
       "ENGLISH": "I had designed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You designed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Diseñaré",
       "ENGLISH": "I will design"

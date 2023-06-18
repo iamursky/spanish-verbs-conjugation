@@ -48,7 +48,7 @@ export default function Page() {
   }, [searchString]);
 
   return searchString !== undefined ? (
-    <main className="container">
+    <main role="main">
       <div className="search">
         <input
           autoFocus
@@ -57,23 +57,29 @@ export default function Page() {
           value={searchString}
           onChange={handleChange}
         />
+        <div className="divider" />
       </div>
 
       <VerbList verbs={filteredVerbs} />
 
       <style jsx>{`
+        main {
+          padding: 0 var(--spacing-3) var(--spacing-3);
+        }
+
         .search {
+          background-color: white;
           position: sticky;
           top: 0;
-
           padding: var(--spacing-3) 0;
+          border-bottom: 1px solid var(--color-2);
         }
 
         input {
-          width: 100%;
-          padding: var(--spacing-2) var(--spacing-3);
           border-radius: var(--spacing-1);
-          border: 1px solid var(--color-1);
+          border: 1px solid var(--color-2);
+          padding: var(--spacing-2);
+          width: 100%;
         }
 
         input::placeholder {

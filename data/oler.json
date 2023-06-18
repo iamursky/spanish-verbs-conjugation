@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Huelo ",
       "ENGLISH": "I smell"
@@ -25,7 +25,7 @@
       "ENGLISH": "You smell"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He olido",
       "ENGLISH": "I have smelled"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have smelled"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Olí",
       "ENGLISH": "I smelled"
@@ -77,7 +77,7 @@
       "ENGLISH": "You smelled"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había olido",
       "ENGLISH": "I had smelled"
@@ -129,7 +129,7 @@
       "ENGLISH": "You smelled"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Oleré",
       "ENGLISH": "I will smell"

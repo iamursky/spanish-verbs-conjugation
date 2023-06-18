@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Aseguro",
       "ENGLISH": "I ensure"
@@ -25,7 +25,7 @@
       "ENGLISH": "You ensure"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He asegurado",
       "ENGLISH": "I have ensured"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have ensured"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Aseguré",
       "ENGLISH": "I ensured"
@@ -77,7 +77,7 @@
       "ENGLISH": "You ensured"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había asegurado",
       "ENGLISH": "I had ensured"
@@ -129,7 +129,7 @@
       "ENGLISH": "You ensured"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Aseguraré",
       "ENGLISH": "I will ensure"

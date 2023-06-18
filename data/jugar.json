@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Juego ",
       "ENGLISH": "I play"
@@ -25,7 +25,7 @@
       "ENGLISH": "You play"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He jugado",
       "ENGLISH": "I have played"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have played"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Jugué ",
       "ENGLISH": "I played"
@@ -77,7 +77,7 @@
       "ENGLISH": "You played"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había jugado",
       "ENGLISH": "I had played"
@@ -129,7 +129,7 @@
       "ENGLISH": "You played"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Jugaré",
       "ENGLISH": "I will play"

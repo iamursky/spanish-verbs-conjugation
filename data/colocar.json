@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Coloco",
       "ENGLISH": "I place"
@@ -25,7 +25,7 @@
       "ENGLISH": "You place"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He colocado",
       "ENGLISH": "I have placed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have placed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Coloqué ",
       "ENGLISH": "I placed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You placed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había colocado",
       "ENGLISH": "I had placed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You placed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Colocaré",
       "ENGLISH": "I will place"

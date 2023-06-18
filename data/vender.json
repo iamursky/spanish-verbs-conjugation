@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Vendo",
       "ENGLISH": "I sell"
@@ -25,7 +25,7 @@
       "ENGLISH": "You sell"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He vendido",
       "ENGLISH": "I have sold"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have sold"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Vendí",
       "ENGLISH": "I sold"
@@ -77,7 +77,7 @@
       "ENGLISH": "You sold"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había vendido",
       "ENGLISH": "I had sold"
@@ -129,7 +129,7 @@
       "ENGLISH": "You sold"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Venderé",
       "ENGLISH": "I will sell"

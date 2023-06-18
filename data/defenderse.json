@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me defiendo ",
       "ENGLISH": "I defend"
@@ -25,7 +25,7 @@
       "ENGLISH": "You defend"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he defendido",
       "ENGLISH": "I have defended"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have defended"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me defendí",
       "ENGLISH": "I defended"
@@ -77,7 +77,7 @@
       "ENGLISH": "You defended"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había defendido",
       "ENGLISH": "I had defended"
@@ -129,7 +129,7 @@
       "ENGLISH": "You defended"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me defenderé",
       "ENGLISH": "I will defend"

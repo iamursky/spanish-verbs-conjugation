@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Creo",
       "ENGLISH": "I create"
@@ -25,7 +25,7 @@
       "ENGLISH": "You create"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He creado",
       "ENGLISH": "I have created"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have created"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Creé",
       "ENGLISH": "I created"
@@ -77,7 +77,7 @@
       "ENGLISH": "You created"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había creado",
       "ENGLISH": "I had created"
@@ -129,7 +129,7 @@
       "ENGLISH": "You created"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Crearé",
       "ENGLISH": "I will create"

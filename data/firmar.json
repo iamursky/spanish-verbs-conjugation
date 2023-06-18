@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Firmo",
       "ENGLISH": "I sign"
@@ -25,7 +25,7 @@
       "ENGLISH": "You sign"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He firmado",
       "ENGLISH": "I have signed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have signed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Firmé",
       "ENGLISH": "I signed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You signed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había firmado",
       "ENGLISH": "I had signed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You signed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Firmaré",
       "ENGLISH": "I will sign"

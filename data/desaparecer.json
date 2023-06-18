@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Desaparezco ",
       "ENGLISH": "I disappear"
@@ -25,7 +25,7 @@
       "ENGLISH": "You disappear"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He desaparecido",
       "ENGLISH": "I have disappeared"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have disappeared"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Desaparecí",
       "ENGLISH": "I disappeared"
@@ -77,7 +77,7 @@
       "ENGLISH": "You disappeared"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había desaparecido",
       "ENGLISH": "I had disappeared"
@@ -129,7 +129,7 @@
       "ENGLISH": "You disappeared"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Desapareceré",
       "ENGLISH": "I will disappear"

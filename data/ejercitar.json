@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Ejercito",
       "ENGLISH": "I excercise"
@@ -25,7 +25,7 @@
       "ENGLISH": "You excercise"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He ejercitado",
       "ENGLISH": "I have excercised"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have excercised"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Ejercité",
       "ENGLISH": "I excercised"
@@ -77,7 +77,7 @@
       "ENGLISH": "You excercised"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había ejercitado",
       "ENGLISH": "I had excercised"
@@ -129,7 +129,7 @@
       "ENGLISH": "You excercised"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Ejercitaré",
       "ENGLISH": "I will excercise"

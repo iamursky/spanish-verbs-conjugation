@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Envío ",
       "ENGLISH": "I send"
@@ -25,7 +25,7 @@
       "ENGLISH": "You send"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He enviado",
       "ENGLISH": "I have sent"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have sent"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Envié",
       "ENGLISH": "I sent"
@@ -77,7 +77,7 @@
       "ENGLISH": "You sent"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había enviado",
       "ENGLISH": "I had sent"
@@ -129,7 +129,7 @@
       "ENGLISH": "You sent"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Enviaré",
       "ENGLISH": "I will send"

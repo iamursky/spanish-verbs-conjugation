@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Crío ",
       "ENGLISH": "I raise"
@@ -25,7 +25,7 @@
       "ENGLISH": "You raise"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He criado",
       "ENGLISH": "I have raised"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have raised"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Crie ",
       "ENGLISH": "I raised"
@@ -77,7 +77,7 @@
       "ENGLISH": "You raised"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había criado",
       "ENGLISH": "I had raised"
@@ -129,7 +129,7 @@
       "ENGLISH": "You raised"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Criaré",
       "ENGLISH": "I will raise"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Implemento",
       "ENGLISH": "I implement"
@@ -25,7 +25,7 @@
       "ENGLISH": "You implement"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He implementado",
       "ENGLISH": "I have implemented"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have implemented"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Implementé",
       "ENGLISH": "I implemented"
@@ -77,7 +77,7 @@
       "ENGLISH": "You implemented"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había implementado",
       "ENGLISH": "I had implemented"
@@ -129,7 +129,7 @@
       "ENGLISH": "You implemented"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Implementaré",
       "ENGLISH": "I will implement"

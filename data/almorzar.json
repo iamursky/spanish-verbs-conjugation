@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Almuerzo ",
       "ENGLISH": "I lunch"
@@ -25,7 +25,7 @@
       "ENGLISH": "You lunch"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He almorzado",
       "ENGLISH": "I have lunched"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have lunched"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Almorcé ",
       "ENGLISH": "I lunched"
@@ -77,7 +77,7 @@
       "ENGLISH": "You lunched"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había almorzado",
       "ENGLISH": "I had lunched"
@@ -129,7 +129,7 @@
       "ENGLISH": "You lunched"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Almorzaré",
       "ENGLISH": "I will lunch"

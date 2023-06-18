@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Prometo",
       "ENGLISH": "I promise"
@@ -25,7 +25,7 @@
       "ENGLISH": "You promise"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He prometido",
       "ENGLISH": "I have promised"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have promised"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Prometí",
       "ENGLISH": "I promised"
@@ -77,7 +77,7 @@
       "ENGLISH": "You promised"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había prometido",
       "ENGLISH": "I had promised"
@@ -129,7 +129,7 @@
       "ENGLISH": "You promised"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Prometeré",
       "ENGLISH": "I will promise"

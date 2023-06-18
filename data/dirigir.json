@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Dirijo ",
       "ENGLISH": "I direct"
@@ -25,7 +25,7 @@
       "ENGLISH": "You direct"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He dirigido",
       "ENGLISH": "I have directed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have directed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Dirigí",
       "ENGLISH": "I directed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You directed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había dirigido",
       "ENGLISH": "I had directed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You directed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Dirigiré",
       "ENGLISH": "I will direct"

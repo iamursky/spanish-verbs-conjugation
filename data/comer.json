@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Como",
       "ENGLISH": "I eat"
@@ -25,7 +25,7 @@
       "ENGLISH": "You eat"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He comido",
       "ENGLISH": "I have eaten"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have eaten"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Comí",
       "ENGLISH": "I ate"
@@ -77,7 +77,7 @@
       "ENGLISH": "You ate"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había comido",
       "ENGLISH": "I had eaten"
@@ -129,7 +129,7 @@
       "ENGLISH": "You ate"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Comeré",
       "ENGLISH": "I will eat"

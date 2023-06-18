@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cruzo",
       "ENGLISH": "I cross"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cross"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cruzado",
       "ENGLISH": "I have crossed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have crossed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Crucé ",
       "ENGLISH": "I crossed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You crossed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cruzado",
       "ENGLISH": "I had crossed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You crossed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cruzaré",
       "ENGLISH": "I will cross"

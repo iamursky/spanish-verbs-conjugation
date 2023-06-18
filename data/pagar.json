@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Pago",
       "ENGLISH": "I pay"
@@ -25,7 +25,7 @@
       "ENGLISH": "You pay"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He pagado",
       "ENGLISH": "I have paid"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have paid"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Pagué ",
       "ENGLISH": "I paid"
@@ -77,7 +77,7 @@
       "ENGLISH": "You paid"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había pagado",
       "ENGLISH": "I had paid"
@@ -129,7 +129,7 @@
       "ENGLISH": "You paid"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Pagaré",
       "ENGLISH": "I will pay"

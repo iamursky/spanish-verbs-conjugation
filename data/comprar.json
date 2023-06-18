@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Compro",
       "ENGLISH": "I buy"
@@ -25,7 +25,7 @@
       "ENGLISH": "You buy"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He comprado",
       "ENGLISH": "I have bought"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have bought"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Compré",
       "ENGLISH": "I bought"
@@ -77,7 +77,7 @@
       "ENGLISH": "You bought"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había comprado",
       "ENGLISH": "I had bought"
@@ -129,7 +129,7 @@
       "ENGLISH": "You bought"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Compraré",
       "ENGLISH": "I will buy"

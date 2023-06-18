@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Abro",
       "ENGLISH": "I open"
@@ -25,7 +25,7 @@
       "ENGLISH": "You open"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He abierto ",
       "ENGLISH": "I have opened"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have opened"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Abrí",
       "ENGLISH": "I opened"
@@ -77,7 +77,7 @@
       "ENGLISH": "You opened"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había abierto ",
       "ENGLISH": "I had opened"
@@ -129,7 +129,7 @@
       "ENGLISH": "You opened"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Abriré",
       "ENGLISH": "I will open"

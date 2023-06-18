@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cocino",
       "ENGLISH": "I cook"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cook"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cocinado",
       "ENGLISH": "I have cooked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have cooked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cociné",
       "ENGLISH": "I cooked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You cooked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cocinado",
       "ENGLISH": "I had cooked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You cooked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cocinaré",
       "ENGLISH": "I will cook"

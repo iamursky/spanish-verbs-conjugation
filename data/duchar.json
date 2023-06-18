@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Ducho",
       "ENGLISH": "I shower"
@@ -25,7 +25,7 @@
       "ENGLISH": "You shower"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He duchado",
       "ENGLISH": "I have showered"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have showered"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Duché",
       "ENGLISH": "I showered"
@@ -77,7 +77,7 @@
       "ENGLISH": "You showered"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había duchado",
       "ENGLISH": "I had showered"
@@ -129,7 +129,7 @@
       "ENGLISH": "You showered"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Ducharé",
       "ENGLISH": "I will shower"

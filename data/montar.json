@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Monto",
       "ENGLISH": "I mount"
@@ -25,7 +25,7 @@
       "ENGLISH": "You mount"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He montado",
       "ENGLISH": "I have mounted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have mounted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Monté",
       "ENGLISH": "I mounted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You mounted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había montado",
       "ENGLISH": "I had mounted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You mounted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Montaré",
       "ENGLISH": "I will mount"

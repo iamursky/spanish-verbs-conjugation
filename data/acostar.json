@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Acuesto ",
       "ENGLISH": "I put to bed"
@@ -25,7 +25,7 @@
       "ENGLISH": "You put to bed"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He acostado",
       "ENGLISH": "I have put to bed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have put to bed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Acosté",
       "ENGLISH": "I put to bed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You put to bed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había acostado",
       "ENGLISH": "I had put to bed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You put to bed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Acostaré",
       "ENGLISH": "I will put to bed"

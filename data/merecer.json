@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Merezco ",
       "ENGLISH": "I deserve"
@@ -25,7 +25,7 @@
       "ENGLISH": "You deserve"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He merecido",
       "ENGLISH": "I have deserved"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have deserved"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Merecí",
       "ENGLISH": "I deserved"
@@ -77,7 +77,7 @@
       "ENGLISH": "You deserved"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había merecido",
       "ENGLISH": "I had deserved"
@@ -129,7 +129,7 @@
       "ENGLISH": "You deserved"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Mereceré",
       "ENGLISH": "I will deserve"

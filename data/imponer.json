@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Impongo ",
       "ENGLISH": "I impose"
@@ -25,7 +25,7 @@
       "ENGLISH": "You impose"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He impuesto ",
       "ENGLISH": "I have imposed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have imposed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Impuse ",
       "ENGLISH": "I imposed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You imposed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había impuesto ",
       "ENGLISH": "I had imposed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You imposed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Impondré ",
       "ENGLISH": "I will impose"

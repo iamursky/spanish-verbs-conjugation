@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Vacuno",
       "ENGLISH": "I vaccinate"
@@ -25,7 +25,7 @@
       "ENGLISH": "You vaccinate"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He vacunado",
       "ENGLISH": "I have vaccinated"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have vaccinated"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Vacuné",
       "ENGLISH": "I vaccinated"
@@ -77,7 +77,7 @@
       "ENGLISH": "You vaccinated"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había vacunado",
       "ENGLISH": "I had vaccinated"
@@ -129,7 +129,7 @@
       "ENGLISH": "You vaccinated"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Vacunaré",
       "ENGLISH": "I will vaccinate"

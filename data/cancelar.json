@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cancelo",
       "ENGLISH": "I cancel"
@@ -25,7 +25,7 @@
       "ENGLISH": "You cancel"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cancelado",
       "ENGLISH": "I have cancelled"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have cancelled"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cancelé",
       "ENGLISH": "I cancelled"
@@ -77,7 +77,7 @@
       "ENGLISH": "You cancelled"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cancelado",
       "ENGLISH": "I had cancelled"
@@ -129,7 +129,7 @@
       "ENGLISH": "You cancelled"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cancelaré",
       "ENGLISH": "I will cancel"

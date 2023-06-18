@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Aconsejo",
       "ENGLISH": "I advise"
@@ -25,7 +25,7 @@
       "ENGLISH": "You advise"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He aconsejado",
       "ENGLISH": "I have advised"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have advised"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Aconsejé",
       "ENGLISH": "I advised"
@@ -77,7 +77,7 @@
       "ENGLISH": "You advised"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había aconsejado",
       "ENGLISH": "I had advised"
@@ -129,7 +129,7 @@
       "ENGLISH": "You advised"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Aconsejaré",
       "ENGLISH": "I will advise"

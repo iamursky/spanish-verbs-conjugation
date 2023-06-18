@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Acepto",
       "ENGLISH": "I accept"
@@ -25,7 +25,7 @@
       "ENGLISH": "You accept"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He aceptado",
       "ENGLISH": "I have accepted"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have accepted"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Acepté",
       "ENGLISH": "I accepted"
@@ -77,7 +77,7 @@
       "ENGLISH": "You accepted"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había aceptado",
       "ENGLISH": "I had accepted"
@@ -129,7 +129,7 @@
       "ENGLISH": "You accepted"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Aceptaré",
       "ENGLISH": "I will accept"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Cierro ",
       "ENGLISH": "I close"
@@ -25,7 +25,7 @@
       "ENGLISH": "You close"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He cerrado",
       "ENGLISH": "I have closed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have closed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Cerré",
       "ENGLISH": "I closed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You closed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había cerrado",
       "ENGLISH": "I had closed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You closed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Cerraré",
       "ENGLISH": "I will close"

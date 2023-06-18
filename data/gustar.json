@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me gusta / gustan",
       "ENGLISH": "I like"
@@ -25,7 +25,7 @@
       "ENGLISH": "You like"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me ha gustado / han gustado",
       "ENGLISH": "I have liked"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have liked"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me gustó / gustaron",
       "ENGLISH": "I liked"
@@ -77,7 +77,7 @@
       "ENGLISH": "You liked"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había gustado / habían gustado",
       "ENGLISH": "I had liked"
@@ -129,7 +129,7 @@
       "ENGLISH": "You liked"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me gustará / gustarán",
       "ENGLISH": "I will like"

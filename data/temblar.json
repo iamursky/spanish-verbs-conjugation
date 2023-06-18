@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Tiemblo ",
       "ENGLISH": "I tremble"
@@ -25,7 +25,7 @@
       "ENGLISH": "You tremble"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He temblado",
       "ENGLISH": "I have trembled"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have trembled"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Temblé",
       "ENGLISH": "I trembled"
@@ -77,7 +77,7 @@
       "ENGLISH": "You trembled"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había temblado",
       "ENGLISH": "I had trembled"
@@ -129,7 +129,7 @@
       "ENGLISH": "You trembled"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Temblaré",
       "ENGLISH": "I will tremble"

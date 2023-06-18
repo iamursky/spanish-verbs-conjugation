@@ -3,759 +3,759 @@ import type { VerbMap } from "@/types";
 export const VERBS_MAP: VerbMap = {
   abandonar: {
     SPANISH: "abandonar",
-    ENGLISH: "abandon, leave",
+    ENGLISH: "to abandon, to leave",
   },
   abrir: {
     SPANISH: "abrir",
-    ENGLISH: "open",
+    ENGLISH: "to open",
   },
   acabar: {
     SPANISH: "acabar",
-    ENGLISH: "finish, end, complete",
+    ENGLISH: "to finish, to end, to complete",
   },
   aceptar: {
     SPANISH: "aceptar",
-    ENGLISH: "accept",
+    ENGLISH: "to accept",
   },
   acercar: {
     SPANISH: "acercar",
-    ENGLISH: "bring closer",
+    ENGLISH: "to bring closer",
   },
   acercarse: {
     SPANISH: "acercarse",
-    ENGLISH: "approach (oneself)",
+    ENGLISH: "to approach (oneself)",
   },
   acompanar: {
     SPANISH: "acompañar",
-    ENGLISH: "accompany",
+    ENGLISH: "to accompany",
   },
   aconsejar: {
     SPANISH: "aconsejar",
-    ENGLISH: "advise, suggest, counsel",
+    ENGLISH: "to advise, to suggest, to counsel",
   },
   acordar: {
     SPANISH: "acordar",
-    ENGLISH: "agree, agree on or upon",
+    ENGLISH: "to agree, to agree on or upon",
   },
   acordarse: {
     SPANISH: "acordarse",
-    ENGLISH: "remember",
+    ENGLISH: "to remember",
   },
   acostar: {
     SPANISH: "acostar",
-    ENGLISH: "put bed, lay down",
+    ENGLISH: "to put bed, to lay down",
   },
   acostarse: {
     SPANISH: "acostarse",
-    ENGLISH: "go bed (oneself), lie down (oneself)",
+    ENGLISH: "to go bed (oneself), to lie down (oneself)",
   },
   actuar: {
     SPANISH: "actuar",
-    ENGLISH: "act, perform",
+    ENGLISH: "to act, to perform",
   },
   admirar: {
     SPANISH: "admirar",
-    ENGLISH: "admire",
+    ENGLISH: "to admire",
   },
   admitir: {
     SPANISH: "admitir",
-    ENGLISH: "admit",
+    ENGLISH: "to admit",
   },
   adoptar: {
     SPANISH: "adoptar",
-    ENGLISH: "adopt",
+    ENGLISH: "to adopt",
   },
   adquirir: {
     SPANISH: "adquirir",
-    ENGLISH: "acquire, purchase",
+    ENGLISH: "to acquire, to purchase",
   },
   ahorrar: {
     SPANISH: "ahorrar",
-    ENGLISH: "save (money), spare",
+    ENGLISH: "to save (money), to spare",
   },
   alcanzar: {
     SPANISH: "alcanzar",
-    ENGLISH: "reach, attain, achieve, accomplish",
+    ENGLISH: "to reach, to attain, to achieve, to accomplish",
   },
   almorzar: {
     SPANISH: "almorzar",
-    ENGLISH: "lunch, eat lunch",
+    ENGLISH: "to lunch, to eat lunch",
   },
   alquilar: {
     SPANISH: "alquilar",
-    ENGLISH: "rent, hire",
+    ENGLISH: "to rent, to hire",
   },
   amar: {
     SPANISH: "amar",
-    ENGLISH: "love",
+    ENGLISH: "to love",
   },
   amenazar: {
     SPANISH: "amenazar",
-    ENGLISH: "threaten, menace",
+    ENGLISH: "to threaten, to menace",
   },
   andar: {
     SPANISH: "andar",
-    ENGLISH: "walk, go, go around",
+    ENGLISH: "to walk, to go, to go around",
   },
   anunciar: {
     SPANISH: "anunciar",
-    ENGLISH: "announce, advertise",
+    ENGLISH: "to announce, to advertise",
   },
   apagar: {
     SPANISH: "apagar",
-    ENGLISH: "turn off, extinguish",
+    ENGLISH: "to turn off, to extinguish",
   },
   aparecer: {
     SPANISH: "aparecer",
-    ENGLISH: "appear",
+    ENGLISH: "to appear",
   },
   aplicar: {
     SPANISH: "aplicar",
-    ENGLISH: "apply",
+    ENGLISH: "to apply",
   },
   apoyar: {
     SPANISH: "apoyar",
-    ENGLISH: "support",
+    ENGLISH: "to support",
   },
   aprender: {
     SPANISH: "aprender",
-    ENGLISH: "learn",
+    ENGLISH: "to learn",
   },
   apretar: {
     SPANISH: "apretar",
-    ENGLISH: "tighten",
+    ENGLISH: "to tighten",
   },
   aprovechar: {
     SPANISH: "aprovechar",
-    ENGLISH: "take advantage of",
+    ENGLISH: "to take advantage of",
   },
   arreglar: {
     SPANISH: "arreglar",
-    ENGLISH: "fix, mend, arrange",
+    ENGLISH: "to fix, to mend, to arrange",
   },
   arreglarse: {
     SPANISH: "arreglarse",
-    ENGLISH: "get ready",
+    ENGLISH: "to get ready",
   },
   asegurar: {
     SPANISH: "asegurar",
-    ENGLISH: "ensure, secure, insure",
+    ENGLISH: "to ensure, to secure, to insure",
   },
   asegurarse: {
     SPANISH: "asegurarse",
-    ENGLISH: "ensure, be sure",
+    ENGLISH: "to ensure, to be sure",
   },
   asistir: {
     SPANISH: "asistir",
-    ENGLISH: "assist, attend",
+    ENGLISH: "to assist, to attend",
   },
   atender: {
     SPANISH: "atender",
-    ENGLISH: "attend to, serve, tend to",
+    ENGLISH: "to attend to, to serve, to tend to",
   },
   aumentar: {
     SPANISH: "aumentar",
-    ENGLISH: "increase, enlarge",
+    ENGLISH: "to increase, to enlarge",
   },
   avanzar: {
     SPANISH: "avanzar",
-    ENGLISH: "advance, proceed, move",
+    ENGLISH: "to advance, to proceed, to move",
   },
   averiguar: {
     SPANISH: "averiguar",
-    ENGLISH: "find out, ascertain",
+    ENGLISH: "to find out, to ascertain",
   },
   ayudar: {
     SPANISH: "ayudar",
-    ENGLISH: "help, assist",
+    ENGLISH: "to help, to assist",
   },
   bailar: {
     SPANISH: "bailar",
-    ENGLISH: "dance",
+    ENGLISH: "to dance",
   },
   bajar: {
     SPANISH: "bajar",
-    ENGLISH: "go down, lower, bring down",
+    ENGLISH: "to go down, to lower, to bring down",
   },
   beber: {
     SPANISH: "beber",
-    ENGLISH: "drink",
+    ENGLISH: "to drink",
   },
   buscar: {
     SPANISH: "buscar",
-    ENGLISH: "search (for), look (for)",
+    ENGLISH: "to search (for), to look (for)",
   },
   caber: {
     SPANISH: "caber",
-    ENGLISH: "fit",
+    ENGLISH: "to fit",
   },
   caer: {
     SPANISH: "caer",
-    ENGLISH: "fall, fall down",
+    ENGLISH: "to fall, to fall down",
   },
   caerse: {
     SPANISH: "caerse",
-    ENGLISH: "fall, fall down",
+    ENGLISH: "to fall, to fall down",
   },
   calentar: {
     SPANISH: "calentar",
-    ENGLISH: "warm (up), heat (up)",
+    ENGLISH: "to warm (up), to heat (up)",
   },
   calentarse: {
     SPANISH: "calentarse",
-    ENGLISH: "heat (oneself)",
+    ENGLISH: "to heat (oneself)",
   },
   cambiar: {
     SPANISH: "cambiar",
-    ENGLISH: "change",
+    ENGLISH: "to change",
   },
   cambiarse: {
     SPANISH: "cambiarse",
-    ENGLISH: "change (clothes)",
+    ENGLISH: "to change (clothes)",
   },
   caminar: {
     SPANISH: "caminar",
-    ENGLISH: "walk",
+    ENGLISH: "to walk",
   },
   cancelar: {
     SPANISH: "cancelar",
-    ENGLISH: "cancel",
+    ENGLISH: "to cancel",
   },
   cantar: {
     SPANISH: "cantar",
-    ENGLISH: "sing",
+    ENGLISH: "to sing",
   },
   casarse: {
     SPANISH: "casarse",
-    ENGLISH: "marry",
+    ENGLISH: "to marry",
   },
   celebrar: {
     SPANISH: "celebrar",
-    ENGLISH: "celebrate, hold (an event), put on (an event)",
+    ENGLISH: "to celebrate, to hold (an event), to put on (an event)",
   },
   celebrarse: {
     SPANISH: "celebrarse",
-    ENGLISH: "be celebrated, take place",
+    ENGLISH: "to be celebrated, to take place",
   },
   cenar: {
     SPANISH: "cenar",
-    ENGLISH: "dine",
+    ENGLISH: "to dine",
   },
   cepillar: {
     SPANISH: "cepillar",
-    ENGLISH: "brush",
+    ENGLISH: "to brush",
   },
   cepillarse: {
     SPANISH: "cepillarse",
-    ENGLISH: "brush (oneself)",
+    ENGLISH: "to brush (oneself)",
   },
   cerrar: {
     SPANISH: "cerrar",
-    ENGLISH: "close, shut, lock, seal",
+    ENGLISH: "to close, to shut, to lock, to seal",
   },
   cocinar: {
     SPANISH: "cocinar",
-    ENGLISH: "cook",
+    ENGLISH: "to cook",
   },
   coger: {
     SPANISH: "coger",
-    ENGLISH: "take, catch, get, pick",
+    ENGLISH: "to take, to catch, to get, to pick",
   },
   colocar: {
     SPANISH: "colocar",
-    ENGLISH: "place, locate, put",
+    ENGLISH: "to place, to locate, to put",
   },
   comenzar: {
     SPANISH: "comenzar",
-    ENGLISH: "start, commence, begin",
+    ENGLISH: "to start, to commence, to begin",
   },
   comer: {
     SPANISH: "comer",
-    ENGLISH: "eat",
+    ENGLISH: "to eat",
   },
   comerse: {
     SPANISH: "comerse",
-    ENGLISH: "consume, eat away",
+    ENGLISH: "to consume, to eat away",
   },
   compartir: {
     SPANISH: "compartir",
-    ENGLISH: "share",
+    ENGLISH: "to share",
   },
   comprar: {
     SPANISH: "comprar",
-    ENGLISH: "buy",
+    ENGLISH: "to buy",
   },
   comprender: {
     SPANISH: "comprender",
-    ENGLISH: "comprehend, understand",
+    ENGLISH: "to comprehend, to understand",
   },
   comprobar: {
     SPANISH: "comprobar",
-    ENGLISH: "check, test",
+    ENGLISH: "to check, to test",
   },
   concluir: {
     SPANISH: "concluir",
-    ENGLISH: "conclude",
+    ENGLISH: "to conclude",
   },
   conducir: {
     SPANISH: "conducir",
-    ENGLISH: "drive, lead, conduct",
+    ENGLISH: "to drive, to lead, to conduct",
   },
   conocer: {
     SPANISH: "conocer",
-    ENGLISH: "know (people, places)",
+    ENGLISH: "to know (people, to places)",
   },
   conocerse: {
     SPANISH: "conocerse",
-    ENGLISH: "know (oneself), meet",
+    ENGLISH: "to know (oneself), to meet",
   },
   conseguir: {
     SPANISH: "conseguir",
-    ENGLISH: "get, obtain",
+    ENGLISH: "to get, to obtain",
   },
   consentir: {
     SPANISH: "consentir",
-    ENGLISH: "consent, accept, agree",
+    ENGLISH: "to consent, to accept, to agree",
   },
   conservar: {
     SPANISH: "conservar",
-    ENGLISH: "keep, retain, conserve",
+    ENGLISH: "to keep, to retain, to conserve",
   },
   considerar: {
     SPANISH: "considerar",
-    ENGLISH: "consider",
+    ENGLISH: "to consider",
   },
   consistir: {
     SPANISH: "consistir",
-    ENGLISH: "consist",
+    ENGLISH: "to consist",
   },
   consolar: {
     SPANISH: "consolar",
-    ENGLISH: "comfort",
+    ENGLISH: "to comfort",
   },
   consolidar: {
     SPANISH: "consolidar",
-    ENGLISH: "consolidate",
+    ENGLISH: "to consolidate",
   },
   construir: {
     SPANISH: "construir",
-    ENGLISH: "build, construct",
+    ENGLISH: "to build, to construct",
   },
   consumir: {
     SPANISH: "consumir",
-    ENGLISH: "consume",
+    ENGLISH: "to consume",
   },
   contactar: {
     SPANISH: "contactar",
-    ENGLISH: "contact",
+    ENGLISH: "to contact",
   },
   contagiar: {
     SPANISH: "contagiar",
-    ENGLISH: "transmit, spread (a virus)",
+    ENGLISH: "to transmit, to spread (a virus)",
   },
   contar: {
     SPANISH: "contar",
-    ENGLISH: "count, tell",
+    ENGLISH: "to count, to tell",
   },
   contener: {
     SPANISH: "contener",
-    ENGLISH: "contain, hold, include",
+    ENGLISH: "to contain, to hold, to include",
   },
   contestar: {
     SPANISH: "contestar",
-    ENGLISH: "answer, reply",
+    ENGLISH: "to answer, to reply",
   },
   continuar: {
     SPANISH: "continuar",
-    ENGLISH: "continue",
+    ENGLISH: "to continue",
   },
   convertir: {
     SPANISH: "convertir",
-    ENGLISH: "convert",
+    ENGLISH: "to convert",
   },
   copiar: {
     SPANISH: "copiar",
-    ENGLISH: "copy",
+    ENGLISH: "to copy",
   },
   corregir: {
     SPANISH: "corregir",
-    ENGLISH: "correct, mend",
+    ENGLISH: "to correct, to mend",
   },
   correr: {
     SPANISH: "correr",
-    ENGLISH: "run, race",
+    ENGLISH: "to run, to race",
   },
   corresponder: {
     SPANISH: "corresponder",
-    ENGLISH: "correspond",
+    ENGLISH: "to correspond",
   },
   cortar: {
     SPANISH: "cortar",
-    ENGLISH: "cut",
+    ENGLISH: "to cut",
   },
   coser: {
     SPANISH: "coser",
-    ENGLISH: "sew, stitch",
+    ENGLISH: "to sew, to stitch",
   },
   costar: {
     SPANISH: "costar",
-    ENGLISH: "cost",
+    ENGLISH: "to cost",
   },
   crear: {
     SPANISH: "crear",
-    ENGLISH: "create",
+    ENGLISH: "to create",
   },
   crecer: {
     SPANISH: "crecer",
-    ENGLISH: "grow up, rise, increase",
+    ENGLISH: "to grow up, to rise, to increase",
   },
   creer: {
     SPANISH: "creer",
-    ENGLISH: "believe",
+    ENGLISH: "to believe",
   },
   criar: {
     SPANISH: "criar",
-    ENGLISH: "raise, bring up",
+    ENGLISH: "to raise, to bring up",
   },
   criarse: {
     SPANISH: "criarse",
-    ENGLISH: "raise, bring up",
+    ENGLISH: "to raise, to bring up",
   },
   cruzar: {
     SPANISH: "cruzar",
-    ENGLISH: "cross, walk across",
+    ENGLISH: "to cross, to walk across",
   },
   cubrir: {
     SPANISH: "cubrir",
-    ENGLISH: "cover",
+    ENGLISH: "to cover",
   },
   cuidar: {
     SPANISH: "cuidar",
-    ENGLISH: "look after, care",
+    ENGLISH: "to look after, to care",
   },
   cuidarse: {
     SPANISH: "cuidarse",
-    ENGLISH: "look after (oneself)",
+    ENGLISH: "to look after (oneself)",
   },
   cumplir: {
     SPANISH: "cumplir",
-    ENGLISH: "carry out, fulfil",
+    ENGLISH: "to carry out, to fulfil",
   },
   dar: {
     SPANISH: "dar",
-    ENGLISH: "give",
+    ENGLISH: "to give",
   },
   darse: {
     SPANISH: "darse",
-    ENGLISH: "give (oneself)",
+    ENGLISH: "to give (oneself)",
   },
   deber: {
     SPANISH: "deber",
-    ENGLISH: "owe, must, should",
+    ENGLISH: "to owe, to must, to should",
   },
   decidir: {
     SPANISH: "decidir",
-    ENGLISH: "decide",
+    ENGLISH: "to decide",
   },
   decir: {
     SPANISH: "decir",
-    ENGLISH: "say, tell",
+    ENGLISH: "to say, to tell",
   },
   decirse: {
     SPANISH: "decirse",
-    ENGLISH: "say (oneself)",
+    ENGLISH: "to say (oneself)",
   },
   dedicar: {
     SPANISH: "dedicar",
-    ENGLISH: "devote, dedicate",
+    ENGLISH: "to devote, to dedicate",
   },
   dedicarse: {
     SPANISH: "dedicarse",
-    ENGLISH: "devote (oneself), dedicate (oneself)",
+    ENGLISH: "to devote (oneself), to dedicate (oneself)",
   },
   defender: {
     SPANISH: "defender",
-    ENGLISH: "defend",
+    ENGLISH: "to defend",
   },
   defenderse: {
     SPANISH: "defenderse",
-    ENGLISH: "defend (oneself)",
+    ENGLISH: "to defend (oneself)",
   },
   dejar: {
     SPANISH: "dejar",
-    ENGLISH: "leave, let, allow",
+    ENGLISH: "to leave, to let, to allow",
   },
   dejarse: {
     SPANISH: "dejarse",
-    ENGLISH: "let (oneself), let oneself go",
+    ENGLISH: "to let (oneself), to let oneself go",
   },
   demandar: {
     SPANISH: "demandar",
-    ENGLISH: "demand",
+    ENGLISH: "to demand",
   },
   demostrar: {
     SPANISH: "demostrar",
-    ENGLISH: "demonstrate, show, prove",
+    ENGLISH: "to demonstrate, to show, to prove",
   },
   depender: {
     SPANISH: "depender",
-    ENGLISH: "depend",
+    ENGLISH: "to depend",
   },
   desaparecer: {
     SPANISH: "desaparecer",
-    ENGLISH: "disappear, vanish",
+    ENGLISH: "to disappear, to vanish",
   },
   desarrollar: {
     SPANISH: "desarrollar",
-    ENGLISH: "develop",
+    ENGLISH: "to develop",
   },
   desarrollarse: {
     SPANISH: "desarrollarse",
-    ENGLISH: "develop (oneself)",
+    ENGLISH: "to develop (oneself)",
   },
   desayunar: {
     SPANISH: "desayunar",
-    ENGLISH: "have breakfast",
+    ENGLISH: "to have breakfast",
   },
   descansar: {
     SPANISH: "descansar",
-    ENGLISH: "rest",
+    ENGLISH: "to rest",
   },
   descargar: {
     SPANISH: "descargar",
-    ENGLISH: "download",
+    ENGLISH: "to download",
   },
   desconectar: {
     SPANISH: "desconectar",
-    ENGLISH: "disconnect",
+    ENGLISH: "to disconnect",
   },
   describir: {
     SPANISH: "describir",
-    ENGLISH: "describe",
+    ENGLISH: "to describe",
   },
   descubrir: {
     SPANISH: "descubrir",
-    ENGLISH: "discover",
+    ENGLISH: "to discover",
   },
   desear: {
     SPANISH: "desear",
-    ENGLISH: "wish, want, desire",
+    ENGLISH: "to wish, to want, to desire",
   },
   despedir: {
     SPANISH: "despedir",
-    ENGLISH: "dismiss, fire (e.g. an employee)",
+    ENGLISH: "to dismiss, to fire (e.g. an employee)",
   },
   despedirse: {
     SPANISH: "despedirse",
-    ENGLISH: "say goodbye",
+    ENGLISH: "to say goodbye",
   },
   despertar: {
     SPANISH: "despertar",
-    ENGLISH: "wake, awaken",
+    ENGLISH: "to wake, to awaken",
   },
   despertarse: {
     SPANISH: "despertarse",
-    ENGLISH: "wake (oneself), awaken (oneself)",
+    ENGLISH: "to wake (oneself), to awaken (oneself)",
   },
   detener: {
     SPANISH: "detener",
-    ENGLISH: "stop, arrest, detain",
+    ENGLISH: "to stop, to arrest, to detain",
   },
   detenerse: {
     SPANISH: "detenerse",
-    ENGLISH: "stop, arrest, detain",
+    ENGLISH: "to stop, to arrest, to detain",
   },
   determinar: {
     SPANISH: "determinar",
-    ENGLISH: "determine",
+    ENGLISH: "to determine",
   },
   devolver: {
     SPANISH: "devolver",
-    ENGLISH: "give back, return (something)",
+    ENGLISH: "to give back, to return (something)",
   },
   dibujar: {
     SPANISH: "dibujar",
-    ENGLISH: "draw",
+    ENGLISH: "to draw",
   },
   dirigir: {
     SPANISH: "dirigir",
-    ENGLISH: "direct, lead",
+    ENGLISH: "to direct, to lead",
   },
   disculpar: {
     SPANISH: "disculpar",
-    ENGLISH: "excuse",
+    ENGLISH: "to excuse",
   },
   disenar: {
     SPANISH: "diseñar",
-    ENGLISH: "design",
+    ENGLISH: "to design",
   },
   disfrutar: {
     SPANISH: "disfrutar",
-    ENGLISH: "enjoy",
+    ENGLISH: "to enjoy",
   },
   disponer: {
     SPANISH: "disponer",
-    ENGLISH: "prepare, get something ready",
+    ENGLISH: "to prepare, to get something ready",
   },
   divertir: {
     SPANISH: "divertir",
-    ENGLISH: "amuse, entertain",
+    ENGLISH: "to amuse, to entertain",
   },
   divertirse: {
     SPANISH: "divertirse",
-    ENGLISH: "enjoy (oneself), amuse (oneself), entertain (oneself)",
+    ENGLISH: "to enjoy (oneself), to amuse (oneself), to entertain (oneself)",
   },
   dividir: {
     SPANISH: "dividir",
-    ENGLISH: "divide",
+    ENGLISH: "to divide",
   },
   doler: {
     SPANISH: "doler",
-    ENGLISH: "hurt, ache, pain",
+    ENGLISH: "to hurt, to ache, to pain",
   },
   dormir: {
     SPANISH: "dormir",
-    ENGLISH: "sleep",
+    ENGLISH: "to sleep",
   },
   dormirse: {
     SPANISH: "dormirse",
-    ENGLISH: "sleep",
+    ENGLISH: "to sleep",
   },
   duchar: {
     SPANISH: "duchar",
-    ENGLISH: "shower (someone), shower (something)",
+    ENGLISH: "to shower (someone), to shower (something)",
   },
   ducharse: {
     SPANISH: "ducharse",
-    ENGLISH: "shower (oneself)",
+    ENGLISH: "to shower (oneself)",
   },
   dudar: {
     SPANISH: "dudar",
-    ENGLISH: "doubt",
+    ENGLISH: "to doubt",
   },
   echar: {
     SPANISH: "echar",
-    ENGLISH: "throw, put, drop,",
+    ENGLISH: "to throw, to put, to drop,",
   },
   echarse: {
     SPANISH: "echarse",
-    ENGLISH: "throw (oneself), lean, lie down",
+    ENGLISH: "to throw (oneself), to lean, to lie down",
   },
   educar: {
     SPANISH: "educar",
-    ENGLISH: "educate",
+    ENGLISH: "to educate",
   },
   ejercitar: {
     SPANISH: "ejercitar",
-    ENGLISH: "excercise",
+    ENGLISH: "to excercise",
   },
   elegir: {
     SPANISH: "elegir",
-    ENGLISH: "choose, select, elect",
+    ENGLISH: "to choose, to select, to elect",
   },
   emigrar: {
     SPANISH: "emigrar",
-    ENGLISH: "emigrate",
+    ENGLISH: "to emigrate",
   },
   empeorar: {
     SPANISH: "empeorar",
-    ENGLISH: "worsen, deteriorate",
+    ENGLISH: "to worsen, to deteriorate",
   },
   empezar: {
     SPANISH: "empezar",
-    ENGLISH: "start, begin",
+    ENGLISH: "to start, to begin",
   },
   emplear: {
     SPANISH: "emplear",
-    ENGLISH: "employ, use",
+    ENGLISH: "to employ, to use",
   },
   empujar: {
     SPANISH: "empujar",
-    ENGLISH: "push",
+    ENGLISH: "to push",
   },
   encantar: {
     SPANISH: "encantar",
-    ENGLISH: "love, enchant",
+    ENGLISH: "to love, to enchant",
   },
   encender: {
     SPANISH: "encender",
-    ENGLISH: "turn on, switch on, ignite, light up",
+    ENGLISH: "to turn on, to switch on, to ignite, to light up",
   },
   encontrar: {
     SPANISH: "encontrar",
-    ENGLISH: "find",
+    ENGLISH: "to find",
   },
   encontrarse: {
     SPANISH: "encontrarse",
-    ENGLISH: "find (oneself)",
+    ENGLISH: "to find (oneself)",
   },
   enganar: {
     SPANISH: "engañar",
-    ENGLISH: "cheat, deceive",
+    ENGLISH: "to cheat, to deceive",
   },
   ensenar: {
     SPANISH: "enseñar",
-    ENGLISH: "teach",
+    ENGLISH: "to teach",
   },
   entender: {
     SPANISH: "entender",
-    ENGLISH: "understand",
+    ENGLISH: "to understand",
   },
   entrar: {
     SPANISH: "entrar",
-    ENGLISH: "enter",
+    ENGLISH: "to enter",
   },
   entregar: {
     SPANISH: "entregar",
-    ENGLISH: "deliver, give, submit",
+    ENGLISH: "to deliver, to give, to submit",
   },
   entrenar: {
     SPANISH: "entrenar",
-    ENGLISH: "train",
+    ENGLISH: "to train",
   },
   enviar: {
     SPANISH: "enviar",
-    ENGLISH: "send",
+    ENGLISH: "to send",
   },
   escalar: {
     SPANISH: "escalar",
-    ENGLISH: "climb",
+    ENGLISH: "to climb",
   },
   escoger: {
     SPANISH: "escoger",
-    ENGLISH: "choose, pick",
+    ENGLISH: "to choose, to pick",
   },
   escoltar: {
     SPANISH: "escoltar",
-    ENGLISH: "escort",
+    ENGLISH: "to escort",
   },
   esconder: {
     SPANISH: "esconder",
-    ENGLISH: "hide",
+    ENGLISH: "to hide",
   },
   escribir: {
     SPANISH: "escribir",
-    ENGLISH: "write",
+    ENGLISH: "to write",
   },
   escribirse: {
     SPANISH: "escribirse",
-    ENGLISH: "write each other",
+    ENGLISH: "to write each other",
   },
   escuchar: {
     SPANISH: "escuchar",
-    ENGLISH: "listen",
+    ENGLISH: "to listen",
   },
   esperar: {
     SPANISH: "esperar",
-    ENGLISH: "wait, hope",
+    ENGLISH: "to wait, to hope",
   },
   establecer: {
     SPANISH: "establecer",
-    ENGLISH: "establish",
+    ENGLISH: "to establish",
   },
   estacionar: {
     SPANISH: "estacionar",
-    ENGLISH: "park",
+    ENGLISH: "to park",
   },
   estar: {
     SPANISH: "estar",
@@ -763,731 +763,731 @@ export const VERBS_MAP: VerbMap = {
   },
   estudiar: {
     SPANISH: "estudiar",
-    ENGLISH: "study",
+    ENGLISH: "to study",
   },
   evacuar: {
     SPANISH: "evacuar",
-    ENGLISH: "evacuate",
+    ENGLISH: "to evacuate",
   },
   evitar: {
     SPANISH: "evitar",
-    ENGLISH: "avoid, prevent",
+    ENGLISH: "to avoid, to prevent",
   },
   examinar: {
     SPANISH: "examinar",
-    ENGLISH: "examine",
+    ENGLISH: "to examine",
   },
   excluir: {
     SPANISH: "excluir",
-    ENGLISH: "exclude",
+    ENGLISH: "to exclude",
   },
   exigir: {
     SPANISH: "exigir",
-    ENGLISH: "require, demand",
+    ENGLISH: "to require, to demand",
   },
   existir: {
     SPANISH: "existir",
-    ENGLISH: "exist",
+    ENGLISH: "to exist",
   },
   explicar: {
     SPANISH: "explicar",
-    ENGLISH: "explain",
+    ENGLISH: "to explain",
   },
   expresar: {
     SPANISH: "expresar",
-    ENGLISH: "express, convey",
+    ENGLISH: "to express, to convey",
   },
   fabricar: {
     SPANISH: "fabricar",
-    ENGLISH: "manufacture, make",
+    ENGLISH: "to manufacture, to make",
   },
   faltar: {
     SPANISH: "faltar",
-    ENGLISH: "lack, fail, fall short (of)",
+    ENGLISH: "to lack, to fail, to fall short (of)",
   },
   fijar: {
     SPANISH: "fijar",
-    ENGLISH: "pin up, set, fix",
+    ENGLISH: "to pin up, to set, to fix",
   },
   fijarse: {
     SPANISH: "fijarse",
-    ENGLISH: "take notice",
+    ENGLISH: "to take notice",
   },
   firmar: {
     SPANISH: "firmar",
-    ENGLISH: "sign",
+    ENGLISH: "to sign",
   },
   formar: {
     SPANISH: "formar",
-    ENGLISH: "form",
+    ENGLISH: "to form",
   },
   fortalecer: {
     SPANISH: "fortalecer",
-    ENGLISH: "strengthen",
+    ENGLISH: "to strengthen",
   },
   forzar: {
     SPANISH: "forzar",
-    ENGLISH: "force",
+    ENGLISH: "to force",
   },
   funcionar: {
     SPANISH: "funcionar",
-    ENGLISH: "function, work",
+    ENGLISH: "to function, to work",
   },
   ganar: {
     SPANISH: "ganar",
-    ENGLISH: "win, gain, earn",
+    ENGLISH: "to win, to gain, to earn",
   },
   garantizar: {
     SPANISH: "garantizar",
-    ENGLISH: "guarantee",
+    ENGLISH: "to guarantee",
   },
   gastar: {
     SPANISH: "gastar",
-    ENGLISH: "expend",
+    ENGLISH: "to expend",
   },
   gestionar: {
     SPANISH: "gestionar",
-    ENGLISH: "manage",
+    ENGLISH: "to manage",
   },
   girar: {
     SPANISH: "girar",
-    ENGLISH: "turn",
+    ENGLISH: "to turn",
   },
   gritar: {
     SPANISH: "gritar",
-    ENGLISH: "shout, scream, yell",
+    ENGLISH: "to shout, to scream, to yell",
   },
   guardar: {
     SPANISH: "guardar",
-    ENGLISH: "save, keep, guard, hold",
+    ENGLISH: "to save, to keep, to guard, to hold",
   },
   gustar: {
     SPANISH: "gustar",
-    ENGLISH: "like, be pleased by",
+    ENGLISH: "to like, to be pleased by",
   },
   haber: {
     SPANISH: "haber",
-    ENGLISH: "have (auxiliary)",
+    ENGLISH: "to have (auxiliary)",
   },
   hablar: {
     SPANISH: "hablar",
-    ENGLISH: "speak, talk",
+    ENGLISH: "to speak, to talk",
   },
   hacer: {
     SPANISH: "hacer",
-    ENGLISH: "to do, make",
+    ENGLISH: "to do, to make",
   },
   hervir: {
     SPANISH: "hervir",
-    ENGLISH: "boil",
+    ENGLISH: "to boil",
   },
   imaginar: {
     SPANISH: "imaginar",
-    ENGLISH: "imagine",
+    ENGLISH: "to imagine",
   },
   implementar: {
     SPANISH: "implementar",
-    ENGLISH: "implement",
+    ENGLISH: "to implement",
   },
   implicar: {
     SPANISH: "implicar",
-    ENGLISH: "implicate, imply",
+    ENGLISH: "to implicate, to imply",
   },
   imponer: {
     SPANISH: "imponer",
-    ENGLISH: "impose",
+    ENGLISH: "to impose",
   },
   importar: {
     SPANISH: "importar",
-    ENGLISH: "import, matter",
+    ENGLISH: "to import, to matter",
   },
   imprimir: {
     SPANISH: "imprimir",
-    ENGLISH: "print",
+    ENGLISH: "to print",
   },
   inclinar: {
     SPANISH: "inclinar",
-    ENGLISH: "incline",
+    ENGLISH: "to incline",
   },
   incluir: {
     SPANISH: "incluir",
-    ENGLISH: "include",
+    ENGLISH: "to include",
   },
   indicar: {
     SPANISH: "indicar",
-    ENGLISH: "indicate",
+    ENGLISH: "to indicate",
   },
   infectar: {
     SPANISH: "infectar",
-    ENGLISH: "infect",
+    ENGLISH: "to infect",
   },
   informar: {
     SPANISH: "informar",
-    ENGLISH: "inform, report",
+    ENGLISH: "to inform, to report",
   },
   inhalar: {
     SPANISH: "inhalar",
-    ENGLISH: "breathe in, inhale",
+    ENGLISH: "to breathe in, to inhale",
   },
   iniciar: {
     SPANISH: "iniciar",
-    ENGLISH: "start, initiate",
+    ENGLISH: "to start, to initiate",
   },
   insistir: {
     SPANISH: "insistir",
-    ENGLISH: "insist",
+    ENGLISH: "to insist",
   },
   intentar: {
     SPANISH: "intentar",
-    ENGLISH: "try, attempt",
+    ENGLISH: "to try, to attempt",
   },
   interesar: {
     SPANISH: "interesar",
-    ENGLISH: "interest",
+    ENGLISH: "to interest",
   },
   ir: {
     SPANISH: "ir",
-    ENGLISH: "go",
+    ENGLISH: "to go",
   },
   irse: {
     SPANISH: "irse",
-    ENGLISH: "go (oneself)",
+    ENGLISH: "to go (oneself)",
   },
   jugar: {
     SPANISH: "jugar",
-    ENGLISH: "play",
+    ENGLISH: "to play",
   },
   juzgar: {
     SPANISH: "juzgar",
-    ENGLISH: "judge",
+    ENGLISH: "to judge",
   },
   lamentar: {
     SPANISH: "lamentar",
-    ENGLISH: "regret, lament",
+    ENGLISH: "to regret, to lament",
   },
   lanzar: {
     SPANISH: "lanzar",
-    ENGLISH: "throw, launch",
+    ENGLISH: "to throw, to launch",
   },
   lavar: {
     SPANISH: "lavar",
-    ENGLISH: "wash",
+    ENGLISH: "to wash",
   },
   lavarse: {
     SPANISH: "lavarse",
-    ENGLISH: "wash (oneself)",
+    ENGLISH: "to wash (oneself)",
   },
   leer: {
     SPANISH: "leer",
-    ENGLISH: "read",
+    ENGLISH: "to read",
   },
   levantar: {
     SPANISH: "levantar",
-    ENGLISH: "lift (up), raise, pick up",
+    ENGLISH: "to lift (up), to raise, to pick up",
   },
   levantarse: {
     SPANISH: "levantarse",
-    ENGLISH: "get up (oneself), stand up",
+    ENGLISH: "to get up (oneself), to stand up",
   },
   liderar: {
     SPANISH: "liderar",
-    ENGLISH: "lead",
+    ENGLISH: "to lead",
   },
   limpiar: {
     SPANISH: "limpiar",
-    ENGLISH: "clean",
+    ENGLISH: "to clean",
   },
   llamar: {
     SPANISH: "llamar",
-    ENGLISH: "call",
+    ENGLISH: "to call",
   },
   llamarse: {
     SPANISH: "llamarse",
-    ENGLISH: "be named",
+    ENGLISH: "to be named",
   },
   llegar: {
     SPANISH: "llegar",
-    ENGLISH: "arrive, come, reach",
+    ENGLISH: "to arrive, to come, to reach",
   },
   llenar: {
     SPANISH: "llenar",
-    ENGLISH: "fill",
+    ENGLISH: "to fill",
   },
   llenarse: {
     SPANISH: "llenarse",
-    ENGLISH: "be full, fill up (oneself)",
+    ENGLISH: "to be full, to fill up (oneself)",
   },
   llevar: {
     SPANISH: "llevar",
-    ENGLISH: "carry, take, bring, wear",
+    ENGLISH: "to carry, to take, to bring, to wear",
   },
   llevarse: {
     SPANISH: "llevarse",
-    ENGLISH: "take (with oneself), get along with",
+    ENGLISH: "to take (with oneself), to get along with",
   },
   llorar: {
     SPANISH: "llorar",
-    ENGLISH: "cry",
+    ENGLISH: "to cry",
   },
   lograr: {
     SPANISH: "lograr",
-    ENGLISH: "achieve, accomplish, attain",
+    ENGLISH: "to achieve, to accomplish, to attain",
   },
   luchar: {
     SPANISH: "luchar",
-    ENGLISH: "struggle, fight",
+    ENGLISH: "to struggle, to fight",
   },
   manchar: {
     SPANISH: "manchar",
-    ENGLISH: "stain",
+    ENGLISH: "to stain",
   },
   mandar: {
     SPANISH: "mandar",
-    ENGLISH: "send, command, order",
+    ENGLISH: "to send, to command, to order",
   },
   manejar: {
     SPANISH: "manejar",
-    ENGLISH: "drive, manage, handle, operate",
+    ENGLISH: "to drive, to manage, to handle, to operate",
   },
   mantener: {
     SPANISH: "mantener",
-    ENGLISH: "maintain, keep",
+    ENGLISH: "to maintain, to keep",
   },
   mantenerse: {
     SPANISH: "mantenerse",
-    ENGLISH: "support (oneself), hold up, remain",
+    ENGLISH: "to support (oneself), to hold up, to remain",
   },
   marcar: {
     SPANISH: "marcar",
-    ENGLISH: "mark, dial",
+    ENGLISH: "to mark, to dial",
   },
   matar: {
     SPANISH: "matar",
-    ENGLISH: "kill",
+    ENGLISH: "to kill",
   },
   medir: {
     SPANISH: "medir",
-    ENGLISH: "measure",
+    ENGLISH: "to measure",
   },
   mencionar: {
     SPANISH: "mencionar",
-    ENGLISH: "mention",
+    ENGLISH: "to mention",
   },
   mentir: {
     SPANISH: "mentir",
-    ENGLISH: "lie",
+    ENGLISH: "to lie",
   },
   merecer: {
     SPANISH: "merecer",
-    ENGLISH: "deserve, merit",
+    ENGLISH: "to deserve, to merit",
   },
   meter: {
     SPANISH: "meter",
-    ENGLISH: "put, place",
+    ENGLISH: "to put, to place",
   },
   mezclar: {
     SPANISH: "mezclar",
-    ENGLISH: "mix",
+    ENGLISH: "to mix",
   },
   mirar: {
     SPANISH: "mirar",
-    ENGLISH: "look, watch",
+    ENGLISH: "to look, to watch",
   },
   molestar: {
     SPANISH: "molestar",
-    ENGLISH: "bother, disturb, annoy",
+    ENGLISH: "to bother, to disturb, to annoy",
   },
   montar: {
     SPANISH: "montar",
-    ENGLISH: "mount, ride",
+    ENGLISH: "to mount, to ride",
   },
   morir: {
     SPANISH: "morir",
-    ENGLISH: "die, decease",
+    ENGLISH: "to die, to decease",
   },
   mostrar: {
     SPANISH: "mostrar",
-    ENGLISH: "show",
+    ENGLISH: "to show",
   },
   mover: {
     SPANISH: "mover",
-    ENGLISH: "move (something)",
+    ENGLISH: "to move (something)",
   },
   nacer: {
     SPANISH: "nacer",
-    ENGLISH: "be born",
+    ENGLISH: "to be born",
   },
   nadar: {
     SPANISH: "nadar",
-    ENGLISH: "swim",
+    ENGLISH: "to swim",
   },
   necesitar: {
     SPANISH: "necesitar",
-    ENGLISH: "need",
+    ENGLISH: "to need",
   },
   negar: {
     SPANISH: "negar",
-    ENGLISH: "deny",
+    ENGLISH: "to deny",
   },
   negociar: {
     SPANISH: "negociar",
-    ENGLISH: "negotiate",
+    ENGLISH: "to negotiate",
   },
   notar: {
     SPANISH: "notar",
-    ENGLISH: "note",
+    ENGLISH: "to note",
   },
   numerar: {
     SPANISH: "numerar",
-    ENGLISH: "number",
+    ENGLISH: "to number",
   },
   obligar: {
     SPANISH: "obligar",
-    ENGLISH: "force, bind, oblige",
+    ENGLISH: "to force, to bind, to oblige",
   },
   observar: {
     SPANISH: "observar",
-    ENGLISH: "observe",
+    ENGLISH: "to observe",
   },
   obtener: {
     SPANISH: "obtener",
-    ENGLISH: "get, obtain",
+    ENGLISH: "to get, to obtain",
   },
   ocultar: {
     SPANISH: "ocultar",
-    ENGLISH: "hide",
+    ENGLISH: "to hide",
   },
   ocupar: {
     SPANISH: "ocupar",
-    ENGLISH: "occupy, concern",
+    ENGLISH: "to occupy, to concern",
   },
   ocurrir: {
     SPANISH: "ocurrir",
-    ENGLISH: "occur, happen",
+    ENGLISH: "to occur, to happen",
   },
   odiar: {
     SPANISH: "odiar",
-    ENGLISH: "hate, detest",
+    ENGLISH: "to hate, to detest",
   },
   ofrecer: {
     SPANISH: "ofrecer",
-    ENGLISH: "offer",
+    ENGLISH: "to offer",
   },
   oir: {
     SPANISH: "oír",
-    ENGLISH: "hear",
+    ENGLISH: "to hear",
   },
   oler: {
     SPANISH: "oler",
-    ENGLISH: "smell",
+    ENGLISH: "to smell",
   },
   olvidar: {
     SPANISH: "olvidar",
-    ENGLISH: "forget",
+    ENGLISH: "to forget",
   },
   organizar: {
     SPANISH: "organizar",
-    ENGLISH: "organise, arrange",
+    ENGLISH: "to organise, to arrange",
   },
   originar: {
     SPANISH: "originar",
-    ENGLISH: "originate",
+    ENGLISH: "to originate",
   },
   pagar: {
     SPANISH: "pagar",
-    ENGLISH: "pay (for)",
+    ENGLISH: "to pay (for)",
   },
   parar: {
     SPANISH: "parar",
-    ENGLISH: "stop",
+    ENGLISH: "to stop",
   },
   parecer: {
     SPANISH: "parecer",
-    ENGLISH: "seem, appear, look like",
+    ENGLISH: "to seem, to appear, to look like",
   },
   partir: {
     SPANISH: "partir",
-    ENGLISH: "split, depart",
+    ENGLISH: "to split, to depart",
   },
   pasar: {
     SPANISH: "pasar",
-    ENGLISH: "pass, happen, go through",
+    ENGLISH: "to pass, to happen, to go through",
   },
   pedir: {
     SPANISH: "pedir",
-    ENGLISH: "ask for, request, order (e.g. food)",
+    ENGLISH: "to ask for, to request, to order (e.g. food)",
   },
   pelear: {
     SPANISH: "pelear",
-    ENGLISH: "fight, quarrel, argue",
+    ENGLISH: "to fight, to quarrel, to argue",
   },
   peligrar: {
     SPANISH: "peligrar",
-    ENGLISH: "jeopardize, be in danger",
+    ENGLISH: "to jeopardize, to be in danger",
   },
   pensar: {
     SPANISH: "pensar",
-    ENGLISH: "think",
+    ENGLISH: "to think",
   },
   perder: {
     SPANISH: "perder",
-    ENGLISH: "lose",
+    ENGLISH: "to lose",
   },
   permitir: {
     SPANISH: "permitir",
-    ENGLISH: "allow, permit",
+    ENGLISH: "to allow, to permit",
   },
   persistir: {
     SPANISH: "persistir",
-    ENGLISH: "persist",
+    ENGLISH: "to persist",
   },
   pertenecer: {
     SPANISH: "pertenecer",
-    ENGLISH: "belong",
+    ENGLISH: "to belong",
   },
   picar: {
     SPANISH: "picar",
-    ENGLISH: "chop, string, bite, itch",
+    ENGLISH: "to chop, to string, to bite, to itch",
   },
   pintar: {
     SPANISH: "pintar",
-    ENGLISH: "paint",
+    ENGLISH: "to paint",
   },
   planchar: {
     SPANISH: "planchar",
-    ENGLISH: "iron",
+    ENGLISH: "to iron",
   },
   planear: {
     SPANISH: "planear",
-    ENGLISH: "plan",
+    ENGLISH: "to plan",
   },
   plantar: {
     SPANISH: "plantar",
-    ENGLISH: "plant",
+    ENGLISH: "to plant",
   },
   poder: {
     SPANISH: "poder",
-    ENGLISH: "be able to",
+    ENGLISH: "to be able to",
   },
   poner: {
     SPANISH: "poner",
-    ENGLISH: "put, place",
+    ENGLISH: "to put, to place",
   },
   ponerse: {
     SPANISH: "ponerse",
-    ENGLISH: "put on, place on",
+    ENGLISH: "to put on, to place on",
   },
   practicar: {
     SPANISH: "practicar",
-    ENGLISH: "practice",
+    ENGLISH: "to practice",
   },
   preferir: {
     SPANISH: "preferir",
-    ENGLISH: "prefer",
+    ENGLISH: "to prefer",
   },
   preguntar: {
     SPANISH: "preguntar",
-    ENGLISH: "ask, question",
+    ENGLISH: "to ask, to question",
   },
   preocuparse: {
     SPANISH: "preocuparse",
-    ENGLISH: "worry, concern",
+    ENGLISH: "to worry, to concern",
   },
   preparar: {
     SPANISH: "preparar",
-    ENGLISH: "prepare",
+    ENGLISH: "to prepare",
   },
   presentar: {
     SPANISH: "presentar",
-    ENGLISH: "present",
+    ENGLISH: "to present",
   },
   probar: {
     SPANISH: "probar",
-    ENGLISH: "try, taste, test, prove",
+    ENGLISH: "to try, to taste, to test, to prove",
   },
   probarse: {
     SPANISH: "probarse",
-    ENGLISH: "try on (oneself)",
+    ENGLISH: "to try on (oneself)",
   },
   producir: {
     SPANISH: "producir",
-    ENGLISH: "produce",
+    ENGLISH: "to produce",
   },
   progresar: {
     SPANISH: "progresar",
-    ENGLISH: "progress",
+    ENGLISH: "to progress",
   },
   prohibir: {
     SPANISH: "prohibir",
-    ENGLISH: "ban, prohibit, forbid",
+    ENGLISH: "to ban, to prohibit, to forbid",
   },
   prometer: {
     SPANISH: "prometer",
-    ENGLISH: "promise",
+    ENGLISH: "to promise",
   },
   pronunciar: {
     SPANISH: "pronunciar",
-    ENGLISH: "pronounce",
+    ENGLISH: "to pronounce",
   },
   proponer: {
     SPANISH: "proponer",
-    ENGLISH: "propose, put forward",
+    ENGLISH: "to propose, to put forward",
   },
   proteger: {
     SPANISH: "proteger",
-    ENGLISH: "protect",
+    ENGLISH: "to protect",
   },
   provocar: {
     SPANISH: "provocar",
-    ENGLISH: "provoke",
+    ENGLISH: "to provoke",
   },
   proyectar: {
     SPANISH: "proyectar",
-    ENGLISH: "project",
+    ENGLISH: "to project",
   },
   quedar: {
     SPANISH: "quedar",
-    ENGLISH: "remain, be left",
+    ENGLISH: "to remain, to be left",
   },
   quedarse: {
     SPANISH: "quedarse",
-    ENGLISH: "stay",
+    ENGLISH: "to stay",
   },
   querer: {
     SPANISH: "querer",
-    ENGLISH: "want, love",
+    ENGLISH: "to want, to love",
   },
   quitar: {
     SPANISH: "quitar",
-    ENGLISH: "take away, remove, take from",
+    ENGLISH: "to take away, to remove, to take from",
   },
   realizar: {
     SPANISH: "realizar",
-    ENGLISH: "perform, carry out, realise",
+    ENGLISH: "to perform, to carry out, to realise",
   },
   recibir: {
     SPANISH: "recibir",
-    ENGLISH: "receive",
+    ENGLISH: "to receive",
   },
   recoger: {
     SPANISH: "recoger",
-    ENGLISH: "collect, pick up",
+    ENGLISH: "to collect, to pick up",
   },
   recomendar: {
     SPANISH: "recomendar",
-    ENGLISH: "recommend",
+    ENGLISH: "to recommend",
   },
   reconocer: {
     SPANISH: "reconocer",
-    ENGLISH: "recognise",
+    ENGLISH: "to recognise",
   },
   recordar: {
     SPANISH: "recordar",
-    ENGLISH: "remember, recall, remind",
+    ENGLISH: "to remember, to recall, to remind",
   },
   referir: {
     SPANISH: "referir",
-    ENGLISH: "refer",
+    ENGLISH: "to refer",
   },
   registrar: {
     SPANISH: "registrar",
-    ENGLISH: "register, record, search",
+    ENGLISH: "to register, to record, to search",
   },
   regresar: {
     SPANISH: "regresar",
-    ENGLISH: "return, go back, come back",
+    ENGLISH: "to return, to go back, to come back",
   },
   reir: {
     SPANISH: "reír",
-    ENGLISH: "laugh",
+    ENGLISH: "to laugh",
   },
   repetir: {
     SPANISH: "repetir",
-    ENGLISH: "repeat",
+    ENGLISH: "to repeat",
   },
   representar: {
     SPANISH: "representar",
-    ENGLISH: "represent",
+    ENGLISH: "to represent",
   },
   reservar: {
     SPANISH: "reservar",
-    ENGLISH: "reserve, book",
+    ENGLISH: "to reserve, to book",
   },
   resolver: {
     SPANISH: "resolver",
-    ENGLISH: "solve, resolve",
+    ENGLISH: "to solve, to resolve",
   },
   respirar: {
     SPANISH: "respirar",
-    ENGLISH: "breathe",
+    ENGLISH: "to breathe",
   },
   responder: {
     SPANISH: "responder",
-    ENGLISH: "answer, respond",
+    ENGLISH: "to answer, to respond",
   },
   resultar: {
     SPANISH: "resultar",
-    ENGLISH: "become, turn out, work",
+    ENGLISH: "to become, to turn out, to work",
   },
   reunir: {
     SPANISH: "reunir",
-    ENGLISH: "gather",
+    ENGLISH: "to gather",
   },
   rezar: {
     SPANISH: "rezar",
-    ENGLISH: "pray",
+    ENGLISH: "to pray",
   },
   robar: {
     SPANISH: "robar",
-    ENGLISH: "steal, rob",
+    ENGLISH: "to steal, to rob",
   },
   romper: {
     SPANISH: "romper",
-    ENGLISH: "break",
+    ENGLISH: "to break",
   },
   saber: {
     SPANISH: "saber",
-    ENGLISH: "know (things)",
+    ENGLISH: "to know (things)",
   },
   sacar: {
     SPANISH: "sacar",
-    ENGLISH: "take, get, take out",
+    ENGLISH: "to take, to get, to take out",
   },
   salir: {
     SPANISH: "salir",
-    ENGLISH: "leave, go out, get out",
+    ENGLISH: "to leave, to go out, to get out",
   },
   saltar: {
     SPANISH: "saltar",
-    ENGLISH: "jump, skip",
+    ENGLISH: "to jump, to skip",
   },
   saludar: {
     SPANISH: "saludar",
-    ENGLISH: "greet",
+    ENGLISH: "to greet",
   },
   secar: {
     SPANISH: "secar",
-    ENGLISH: "dry, dry off",
+    ENGLISH: "to dry, to dry off",
   },
   seguir: {
     SPANISH: "seguir",
-    ENGLISH: "follow, continue",
+    ENGLISH: "to follow, to continue",
   },
   seleccionar: {
     SPANISH: "seleccionar",
-    ENGLISH: "select",
+    ENGLISH: "to select",
   },
   senalar: {
     SPANISH: "señalar",
-    ENGLISH: "point, mark",
+    ENGLISH: "to point, to mark",
   },
   sentar: {
     SPANISH: "sentar",
-    ENGLISH: "sit",
+    ENGLISH: "to sit",
   },
   sentir: {
     SPANISH: "sentir",
-    ENGLISH: "feel, regret",
+    ENGLISH: "to feel, to regret",
   },
   ser: {
     SPANISH: "ser",
@@ -1495,191 +1495,191 @@ export const VERBS_MAP: VerbMap = {
   },
   servir: {
     SPANISH: "servir",
-    ENGLISH: "serve",
+    ENGLISH: "to serve",
   },
   significar: {
     SPANISH: "significar",
-    ENGLISH: "mean, signify",
+    ENGLISH: "to mean, to signify",
   },
   sobrevivir: {
     SPANISH: "sobrevivir",
-    ENGLISH: "survive",
+    ENGLISH: "to survive",
   },
   soler: {
     SPANISH: "soler",
-    ENGLISH: "be used to, usually do",
+    ENGLISH: "to be used to, to usually do",
   },
   sonar: {
     SPANISH: "sonar",
-    ENGLISH: "sound, ring",
+    ENGLISH: "to sound, to ring",
   },
   sonreir: {
     SPANISH: "sonreír",
-    ENGLISH: "smile",
+    ENGLISH: "to smile",
   },
   soportar: {
     SPANISH: "soportar",
-    ENGLISH: "put up with, endure",
+    ENGLISH: "to put up with, to endure",
   },
   sorprender: {
     SPANISH: "sorprender",
-    ENGLISH: "surprise",
+    ENGLISH: "to surprise",
   },
   subir: {
     SPANISH: "subir",
-    ENGLISH: "go up, upload, rise",
+    ENGLISH: "to go up, to upload, to rise",
   },
   suceder: {
     SPANISH: "suceder",
-    ENGLISH: "happen",
+    ENGLISH: "to happen",
   },
   sufrir: {
     SPANISH: "sufrir",
-    ENGLISH: "suffer, sustain",
+    ENGLISH: "to suffer, to sustain",
   },
   sugerir: {
     SPANISH: "sugerir",
-    ENGLISH: "suggest",
+    ENGLISH: "to suggest",
   },
   suponer: {
     SPANISH: "suponer",
-    ENGLISH: "suppose, guess",
+    ENGLISH: "to suppose, to guess",
   },
   surfear: {
     SPANISH: "surfear",
-    ENGLISH: "surf",
+    ENGLISH: "to surf",
   },
   surgir: {
     SPANISH: "surgir",
-    ENGLISH: "emerge, arise",
+    ENGLISH: "to emerge, to arise",
   },
   tardar: {
     SPANISH: "tardar",
-    ENGLISH: "delay, be slow",
+    ENGLISH: "to delay, to be slow",
   },
   temblar: {
     SPANISH: "temblar",
-    ENGLISH: "tremble",
+    ENGLISH: "to tremble",
   },
   temer: {
     SPANISH: "temer",
-    ENGLISH: "fear",
+    ENGLISH: "to fear",
   },
   tener: {
     SPANISH: "tener",
-    ENGLISH: "have",
+    ENGLISH: "to have",
   },
   terminar: {
     SPANISH: "terminar",
-    ENGLISH: "end, terminate, finish",
+    ENGLISH: "to end, to terminate, to finish",
   },
   tirar: {
     SPANISH: "tirar",
-    ENGLISH: "throw",
+    ENGLISH: "to throw",
   },
   tocar: {
     SPANISH: "tocar",
-    ENGLISH: "play (an instrument), touch",
+    ENGLISH: "to play (an instrument), to touch",
   },
   tolerar: {
     SPANISH: "tolerar",
-    ENGLISH: "tolerate",
+    ENGLISH: "to tolerate",
   },
   tomar: {
     SPANISH: "tomar",
-    ENGLISH: "drink, take",
+    ENGLISH: "to drink, to take",
   },
   toser: {
     SPANISH: "toser",
-    ENGLISH: "cough",
+    ENGLISH: "to cough",
   },
   trabajar: {
     SPANISH: "trabajar",
-    ENGLISH: "work",
+    ENGLISH: "to work",
   },
   traducir: {
     SPANISH: "traducir",
-    ENGLISH: "translate",
+    ENGLISH: "to translate",
   },
   traer: {
     SPANISH: "traer",
-    ENGLISH: "bring, get, carry",
+    ENGLISH: "to bring, to get, to carry",
   },
   transformar: {
     SPANISH: "transformar",
-    ENGLISH: "transform",
+    ENGLISH: "to transform",
   },
   transportar: {
     SPANISH: "transportar",
-    ENGLISH: "transport",
+    ENGLISH: "to transport",
   },
   tratar: {
     SPANISH: "tratar",
-    ENGLISH: "treat, try",
+    ENGLISH: "to treat, to try",
   },
   usar: {
     SPANISH: "usar",
-    ENGLISH: "use",
+    ENGLISH: "to use",
   },
   utilizar: {
     SPANISH: "utilizar",
-    ENGLISH: "use, utilize",
+    ENGLISH: "to use, to utilize",
   },
   vaciar: {
     SPANISH: "vaciar",
-    ENGLISH: "empty",
+    ENGLISH: "to empty",
   },
   vacunar: {
     SPANISH: "vacunar",
-    ENGLISH: "vaccinate",
+    ENGLISH: "to vaccinate",
   },
   valer: {
     SPANISH: "valer",
-    ENGLISH: "value, be worth",
+    ENGLISH: "to value, to be worth",
   },
   valorar: {
     SPANISH: "valorar",
-    ENGLISH: "value, assess, appraise",
+    ENGLISH: "to value, to assess, to appraise",
   },
   vender: {
     SPANISH: "vender",
-    ENGLISH: "sell",
+    ENGLISH: "to sell",
   },
   venir: {
     SPANISH: "venir",
-    ENGLISH: "come",
+    ENGLISH: "to come",
   },
   ver: {
     SPANISH: "ver",
-    ENGLISH: "see",
+    ENGLISH: "to see",
   },
   vestir: {
     SPANISH: "vestir",
-    ENGLISH: "dress, wear",
+    ENGLISH: "to dress, to wear",
   },
   viajar: {
     SPANISH: "viajar",
-    ENGLISH: "travel",
+    ENGLISH: "to travel",
   },
   visitar: {
     SPANISH: "visitar",
-    ENGLISH: "visit",
+    ENGLISH: "to visit",
   },
   vivir: {
     SPANISH: "vivir",
-    ENGLISH: "live",
+    ENGLISH: "to live",
   },
   volar: {
     SPANISH: "volar",
-    ENGLISH: "fly",
+    ENGLISH: "to fly",
   },
   volver: {
     SPANISH: "volver",
-    ENGLISH: "return",
+    ENGLISH: "to return",
   },
   votar: {
     SPANISH: "votar",
-    ENGLISH: "vote",
+    ENGLISH: "to vote",
   },
 };
 

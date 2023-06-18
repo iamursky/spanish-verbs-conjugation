@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Quito",
       "ENGLISH": "I take away"
@@ -25,7 +25,7 @@
       "ENGLISH": "You take away"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He quitado",
       "ENGLISH": "I have taken away"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have taken away"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Quité",
       "ENGLISH": "I took away"
@@ -77,7 +77,7 @@
       "ENGLISH": "You took away"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había quitado",
       "ENGLISH": "I had taken away"
@@ -129,7 +129,7 @@
       "ENGLISH": "You took away"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Quitaré",
       "ENGLISH": "I will take away"

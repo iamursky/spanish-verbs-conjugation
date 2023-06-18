@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Me fijo",
       "ENGLISH": "I take notice"
@@ -25,7 +25,7 @@
       "ENGLISH": "You take notice"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "Me he fijado",
       "ENGLISH": "I have taken notice"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have taken notice"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Me fijé",
       "ENGLISH": "I took notice"
@@ -77,7 +77,7 @@
       "ENGLISH": "You took notice"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Me había fijado",
       "ENGLISH": "I had taken notice"
@@ -129,7 +129,7 @@
       "ENGLISH": "You took notice"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Me fijaré",
       "ENGLISH": "I will take notice"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Incluyo ",
       "ENGLISH": "I include"
@@ -25,7 +25,7 @@
       "ENGLISH": "You include"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He incluido",
       "ENGLISH": "I have included"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have included"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Incluí",
       "ENGLISH": "I included"
@@ -77,7 +77,7 @@
       "ENGLISH": "You included"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había incluido",
       "ENGLISH": "I had included"
@@ -129,7 +129,7 @@
       "ENGLISH": "You included"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Incluiré",
       "ENGLISH": "I will include"

@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Niego ",
       "ENGLISH": "I deny"
@@ -25,7 +25,7 @@
       "ENGLISH": "You deny"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He negado",
       "ENGLISH": "I have denied"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have denied"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Negué ",
       "ENGLISH": "I denied"
@@ -77,7 +77,7 @@
       "ENGLISH": "You denied"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había negado",
       "ENGLISH": "I had denied"
@@ -129,7 +129,7 @@
       "ENGLISH": "You denied"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Negaré",
       "ENGLISH": "I will deny"

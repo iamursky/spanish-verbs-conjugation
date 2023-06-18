@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Crezco ",
       "ENGLISH": "I grow up"
@@ -25,7 +25,7 @@
       "ENGLISH": "You grow up"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He crecido",
       "ENGLISH": "I have grown up"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have grown up"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Crecí",
       "ENGLISH": "I grew up"
@@ -77,7 +77,7 @@
       "ENGLISH": "You grew up"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había crecido",
       "ENGLISH": "I had grown up"
@@ -129,7 +129,7 @@
       "ENGLISH": "You grew up"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Creceré",
       "ENGLISH": "I will grow up"

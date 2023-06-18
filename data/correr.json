@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Corro",
       "ENGLISH": "I run"
@@ -25,7 +25,7 @@
       "ENGLISH": "You run"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He corrido",
       "ENGLISH": "I have run"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have run"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Corrí",
       "ENGLISH": "I ran"
@@ -77,7 +77,7 @@
       "ENGLISH": "You ran"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había corrido",
       "ENGLISH": "I had run"
@@ -129,7 +129,7 @@
       "ENGLISH": "You ran"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Correré",
       "ENGLISH": "I will run"

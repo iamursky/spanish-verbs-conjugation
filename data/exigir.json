@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Exijo ",
       "ENGLISH": "I require"
@@ -25,7 +25,7 @@
       "ENGLISH": "You require"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He exigido",
       "ENGLISH": "I have required"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have required"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Exigí",
       "ENGLISH": "I required"
@@ -77,7 +77,7 @@
       "ENGLISH": "You required"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había exigido",
       "ENGLISH": "I had required"
@@ -129,7 +129,7 @@
       "ENGLISH": "You required"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Exigiré",
       "ENGLISH": "I will require"

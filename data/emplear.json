@@ -1,5 +1,5 @@
 {
-  "PRESENTE": {
+  "PRESENT_SIMPLE": {
     "YO": {
       "SPANISH": "Empleo",
       "ENGLISH": "I employ"
@@ -25,7 +25,7 @@
       "ENGLISH": "You employ"
     }
   },
-  "PERFECTO_COMPUESTO": {
+  "PRESENT_PERFECT": {
     "YO": {
       "SPANISH": "He empleado",
       "ENGLISH": "I have employed"
@@ -51,7 +51,7 @@
       "ENGLISH": "You have employed"
     }
   },
-  "PRETERITO_INDEFINIDO": {
+  "PAST_SIMPLE": {
     "YO": {
       "SPANISH": "Empleé",
       "ENGLISH": "I employed"
@@ -77,7 +77,7 @@
       "ENGLISH": "You employed"
     }
   },
-  "PRETERITO_PLUSCUAMPERFECTO": {
+  "PAST_PERFECT": {
     "YO": {
       "SPANISH": "Había empleado",
       "ENGLISH": "I had employed"
@@ -129,7 +129,7 @@
       "ENGLISH": "You employed"
     }
   },
-  "FUTURO_SIMPLE": {
+  "FUTURE_SIMPLE": {
     "YO": {
       "SPANISH": "Emplearé",
       "ENGLISH": "I will employ"
