@@ -759,7 +759,7 @@ export const VERBS_MAP: VerbMap = {
   },
   estar: {
     SPANISH: "estar",
-    ENGLISH: "be (temporary)",
+    ENGLISH: "to be (temporary)",
   },
   estudiar: {
     SPANISH: "estudiar",
@@ -1491,7 +1491,7 @@ export const VERBS_MAP: VerbMap = {
   },
   ser: {
     SPANISH: "ser",
-    ENGLISH: "be (permanent)",
+    ENGLISH: "to be (permanent)",
   },
   servir: {
     SPANISH: "servir",
