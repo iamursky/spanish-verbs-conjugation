@@ -6,35 +6,34 @@ type VerbConjugationTableProps = {
 
 export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps) {
   return (
-    <div className="wrapper">
-      {Object.keys(TENSE).map((tense) => (
-        <section key={tense} className="tense">
-          <h2 className="tense-name">{TENSE_LABELS[tense as Tense]["ENGLISH"]}</h2>
-          <table>
-            <thead>
-              <tr>
-                {Object.keys(PRONOUN).map((pronoun) => (
-                  <td key={pronoun}>
-                    <p className="spanish-label">{PRONOUN_LABELS[pronoun as Pronoun]["SPANISH"]}</p>
-                  </td>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
+    <section className="tense">
+      <table>
+        <thead>
+          <td />
+          {Object.keys(PRONOUN).map((pronoun) => (
+            <td key={pronoun} style={{ fontWeight: 600 }}>
+              {PRONOUN_LABELS[pronoun as Pronoun]["SPANISH"]}
+            </td>
+          ))}
+        </thead>
+        <tbody>
+          {Object.keys(TENSE).map((tense) => (
+            <tr key={tense}>
+              <td style={{ fontWeight: 600 }}>{TENSE_LABELS[tense as Tense]["ENGLISH"]}</td>
               {Object.keys(PRONOUN).map((pronoun) => (
                 <td key={`${tense}.${pronoun}`}>
-                  <p className="spanish-conjugation">
+                  <div className="spanish-conjugation">
                     {conjugations[tense as Tense][pronoun as Pronoun]["SPANISH"]}
-                  </p>
-                  <p className="english-conjugation">
+                  </div>
+                  <div className="english-conjugation">
                     {conjugations[tense as Tense][pronoun as Pronoun]["ENGLISH"]}
-                  </p>
+                  </div>
                 </td>
               ))}
-            </tbody>
-          </table>
-        </section>
-      ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
 
       <style jsx>{`
         .tense {
@@ -48,17 +47,17 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
         }
 
         table {
+          width: 100%;
           border-collapse: collapse;
           border-spacing: 0;
           display: block;
           table-layout: fixed;
-          width: 100%;
         }
 
         table th,
         table td {
           border: 1px solid var(--color-5);
-          padding: var(--spacing-1) var(--spacing-2);
+          padding: var(--spacing-2);
           vertical-align: top;
           white-space: nowrap;
         }
@@ -68,7 +67,7 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
           font-size: 0.85em;
         }
       `}</style>
-    </div>
+    </section>
   );
 }
 

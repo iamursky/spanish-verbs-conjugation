@@ -18,12 +18,29 @@ type PageParams = {
 export default function Page({ verb, conjugations }: PageProps) {
   return (
     <main className="container">
-      <VerbConjugationTable conjugations={conjugations} />
+      <h1 className="spanish">{verb.SPANISH}</h1>
+      <h2 className="english">{verb.ENGLISH}</h2>
+
+      <div className="table">
+        <VerbConjugationTable conjugations={conjugations} />
+      </div>
 
       <style jsx>{`
         .container {
           padding-top: var(--spacing-5);
           padding-bottom: var(--spacing-5);
+        }
+
+        .spanish {
+          font-weight: 700;
+        }
+
+        .english {
+          color: var(--color-6);
+        }
+
+        .table {
+          margin-top: var(--spacing-5);
         }
       `}</style>
     </main>
