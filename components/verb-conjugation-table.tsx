@@ -56,14 +56,14 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
 
         table th,
         table td {
-          border: 1px solid var(--color-5);
+          border: 1px solid var(--color-2);
           padding: var(--spacing-2);
           vertical-align: top;
           white-space: nowrap;
         }
 
         .english-conjugation {
-          color: var(--color-7);
+          color: var(--color-4);
           font-size: 0.85em;
         }
       `}</style>

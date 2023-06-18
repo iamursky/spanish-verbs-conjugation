@@ -33,7 +33,7 @@ export function VerbList({ verbs }: VerbListProps) {
         }
 
         .verb-list-item:not(:first-child) {
-          border-top: 1px solid var(--color-4);
+          border-top: 1px solid var(--color-1);
         }
 
         .spanish {
@@ -41,7 +41,7 @@ export function VerbList({ verbs }: VerbListProps) {
         }
 
         .english {
-          color: var(--color-6);
+          color: var(--color-3);
         }
       `}</style>
     </ul>

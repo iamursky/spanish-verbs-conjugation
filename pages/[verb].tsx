@@ -36,7 +36,7 @@ export default function Page({ verb, conjugations }: PageProps) {
         }
 
         .english {
-          color: var(--color-6);
+          color: var(--color-3);
         }
 
         .table {
