@@ -48,6 +48,13 @@ export function VerbConjugationTable({ conjugations }: VerbConjugationTableProps
           padding: var(--spacing-2);
         }
 
+        @media screen() {
+          table th,
+          table td {
+            white-space: nowrap;
+          }
+        }
+
         .english-tense,
         .english-conjugation {
           color: var(--color-3);
