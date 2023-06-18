@@ -64,10 +64,19 @@ export default function Page() {
 
         .search {
           background-color: white;
+          border-bottom: 1px solid var(--color-2);
+          padding: var(--spacing-3) 0;
           position: sticky;
           top: 0;
-          padding: var(--spacing-3) 0;
-          border-bottom: 1px solid var(--color-2);
+        }
+
+        .search::after {
+          background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+          bottom: -9px;
+          content: "";
+          height: 8px;
+          position: absolute;
+          width: 100%;
         }
 
         input {
