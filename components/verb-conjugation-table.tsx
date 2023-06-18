@@ -105,10 +105,6 @@ const TENSE_LABELS: TenseLabels = {
     ENGLISH: "Past Simple",
     SPANISH: "Pretérito Perfecto Simple",
   },
-  PAST_PERFECT: {
-    ENGLISH: "Past Perfect",
-    SPANISH: "Pretérito Pluscuamperfecto",
-  },
   FUTURE_SIMPLE: {
     ENGLISH: "Future Simple",
     SPANISH: "Futuro Simple",

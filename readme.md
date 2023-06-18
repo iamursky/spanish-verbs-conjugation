@@ -7,7 +7,6 @@ The most common tenses are presented in tables:
 - Present Simple (Presente Indicativo)
 - Present Perfect (Pretérito Perfecto Compuesto)
 - Past Simple (Pretérito Perfecto Simple)
-- Past Perfect (Pretérito Pluscuamperfecto)
 - Future Simple (Futuro Simple)
 - Conditional Simple (Condicional Simple)
 
