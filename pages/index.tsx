@@ -1,12 +1,15 @@
+import type { Verb } from "@/types";
+
 import { VerbList } from "@/components/verb-list";
 import { VERBS } from "@/constants";
 import { useRouter } from "next/router";
+import { QuickScore } from "quick-score";
 import { ChangeEvent, useCallback, useEffect, useMemo, useState } from "react";
 
 export default function Page() {
   const router = useRouter();
 
-  const [searchString, setSearchString] = useState<string>();
+  const [searchString, setSearchString] = useState<string>("");
 
   useEffect(() => {
     const url = new URL(`${location.origin}/${router.asPath}`);
@@ -34,17 +37,9 @@ export default function Page() {
     [router],
   );
 
-  const filteredVerbs = useMemo(() => {
-    if (searchString === undefined) return [];
-    if (searchString === "") return VERBS;
-
-    const lowercaseSearchString = searchString.toLowerCase();
-
-    return VERBS.filter(
-      (verb) =>
-        verb.SPANISH.includes(lowercaseSearchString) ||
-        verb.ENGLISH.includes(lowercaseSearchString),
-    );
+  const filteredVerbs = useMemo<Verb[]>(() => {
+    const qs = new QuickScore(VERBS, ["SPANISH", "ENGLISH"]);
+    return qs.search(searchString).map((scoredVerb) => scoredVerb.item);
   }, [searchString]);
 
   return searchString !== undefined ? (
